@@ -1,0 +1,553 @@
+{
+ "kanda": "vidyesvara-samhita",
+ "n": 11,
+ "title_deva": "कथं लिंगं प्रतिष्ठाप्यं कथं वातस्य लक्षणम्",
+ "title_te": "కథం లింగం ప్రతిష్ఠాప్యం కథం వాతస్య లక్షణమ్",
+ "title_iast": "kathaṁ liṁgaṁ pratiṣṭhāpyaṁ kathaṁ vātasya lakṣaṇam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ऋषय ऊचुः कथं लिंगं प्रतिष्ठाप्यं कथं वातस्य लक्षणम् | कथं वा तत्समभ्यर्च्यं देशे काले च केन हि",
+   "text_te": "ఋషయ ఊచుః కథం లింగం ప్రతిష్ఠాప్యం కథం వాతస్య లక్షణమ్ | కథం వా తత్సమభ్యర్చ్యం దేశే కాలే చ కేన హి",
+   "text_en": "ṛṣaya ūcuḥ kathaṁ liṁgaṁ pratiṣṭhāpyaṁ kathaṁ vātasya lakṣaṇam | kathaṁ vā tatsamabhyarcyaṁ deśe kāle ca kena hi",
+   "mean_en": "The sages ask the practical question: how is a linga to be installed, what are the marks of a temple, and how, where and by whom is it to be worshipped?",
+   "mean_te": "మునులు ప్రాక్టికల్ ప్రశ్న అడుగుతారు: లింగాన్ని ఎలా ప్రతిష్ఠించాలి? ఆలయ లక్షణాలేమిటి? ఎక్కడ, ఎప్పుడు, ఎవరిచే పూజ జరగాలి?"
+  },
+  {
+   "n": 2,
+   "text_deva": "युष्मदर्थं प्रवक्ष्यामि बुद्ध्यतामवधानतः | अनुकूले शुभे काले पुण्ये तीर्थे तटे तथा",
+   "text_te": "యుష్మదర్థం ప్రవక్ష్యామి బుద్ధ్యతామవధానతః | అనుకూలే శుభే కాలే పుణ్యే తీర్థే తటే తథా",
+   "text_en": "yuṣmadarthaṁ pravakṣyāmi buddhyatāmavadhānataḥ | anukūle śubhe kāle puṇye tīrthe taṭe tathā",
+   "mean_en": "Suta says: I shall narrate for your sake, so attend with intelligence and care, at an auspicious, favorable, meritorious time at a sacred shrine on the riverbank.",
+   "mean_te": "సూతుడు అంటాడు: మీ కోసం వివరిస్తాను, కాబట్టి జాగ్రత్తగా, మేధస్సుతో శ్రద్ధ వహించండి - అనుకూలమైన, శుభమైన, పుణ్యప్రదమైన సమయంలో, అలాగే నదీతీరంలోని పుణ్యక్షేత్రంలో (ఈ కథ జరుగుతుంది)."
+  },
+  {
+   "n": 3,
+   "text_deva": "यथेष्टं लिंगमारोप्यं यत्र स्यान्नित्यमर्चनम् | पार्थिवेन तथाप्येनं तैजसेन यथारुचि",
+   "text_te": "యథేష్టం లింగమారోప్యం యత్ర స్యాన్నిత్యమర్చనమ్ | పార్థివేన తథాప్యేనం తైజసేన యథారుచి",
+   "text_en": "yatheṣṭaṁ liṁgamāropyaṁ yatra syānnityamarcanam | pārthivena tathāpyenaṁ taijasena yathāruci",
+   "mean_en": "The answer: at an auspicious time, at a holy ford, on a river bank — a linga may be set up of earth or other material according to one's inclination, with worship offered daily.",
+   "mean_te": "జవాబు: శుభవేళలో, పుణ్యతీర్థంలో, నదీతీరంలో — మనసుకు నచ్చినదాన్ని, మట్టితోనో ఇతర పదార్థాలతోనో — లింగాన్ని ప్రతిష్ఠించి నిత్యపూజ చేయాలి."
+  },
+  {
+   "n": 4,
+   "text_deva": "कल्पलक्षणसंयुक्तं लिंगं पूजाफलं लभेत् | सर्वलक्षणसंयुक्तं सद्यः पूजाफलप्रदम्",
+   "text_te": "కల్పలక్షణసంయుక్తం లింగం పూజాఫలం లభేత్ | సర్వలక్షణసంయుక్తం సద్యః పూజాఫలప్రదమ్",
+   "text_en": "kalpalakṣaṇasaṁyuktaṁ liṁgaṁ pūjāphalaṁ labhet | sarvalakṣaṇasaṁyuktaṁ sadyaḥ pūjāphalapradam",
+   "mean_en": "A liṅga endowed with the proper characteristics yields the fruit of worship; one endowed with all the characteristics bestows the fruit of worship immediately.",
+   "mean_te": "కల్పలక్షణములతో కూడిన లింగము వల్ల పూజాఫలము లభించును; సర్వలక్షణములతో కూడిన లింగము క్షణములోనే పూజాఫలమును ప్రసాదించును."
+  },
+  {
+   "n": 5,
+   "text_deva": "चरे विशिष्यते सूक्ष्मं स्थावरे स्थूलमेव हि | सलक्षणं सपीठं च स्थापयेच्छिवनिर्मितम्",
+   "text_te": "చరే విశిష్యతే సూక్ష్మం స్థావరే స్థూలమేవ హి | సలక్షణం సపీఠం చ స్థాపయేచ్ఛివనిర్మితమ్",
+   "text_en": "care viśiṣyate sūkṣmaṁ sthāvare sthūlameva hi | salakṣaṇaṁ sapīṭhaṁ ca sthāpayecchivanirmitam",
+   "mean_en": "In the movable liṅga the subtle is preferred, while in the immovable liṅga the gross is indeed so; one should install the liṅga made by Śiva, together with its characteristics and with a pedestal.",
+   "mean_te": "చర లింగమునందు సూక్ష్మము శ్రేష్ఠము, స్థావర లింగమునందు స్థూలమే శ్రేష్ఠము; శివునిచే నిర్మించిన లక్షణములు గల పీఠముతో కూడిన లింగమును ప్రతిష్ఠించాలి."
+  },
+  {
+   "n": 6,
+   "text_deva": "मंडलं चतुरस्रं वा त्रिकोणमथवा तथा | खट्वांगवन्मध्यसूक्ष्मं लिंगपीठं महाफलं",
+   "text_te": "మండలం చతురస్రం వా త్రికోణమథవా తథా | ఖట్వాంగవన్మధ్యసూక్ష్మం లింగపీఠం మహాఫలం",
+   "text_en": "maṁḍalaṁ caturasraṁ vā trikoṇamathavā tathā | khaṭvāṁgavanmadhyasūkṣmaṁ liṁgapīṭhaṁ mahāphalaṁ",
+   "mean_en": "The liṅga pedestal may be circular, square, or triangular; subtle in the middle like a khaṭvāṅga, such a liṅga-pedestal is of great fruit.",
+   "mean_te": "లింగ పీఠము వర్తులాకారముగా గాని, చతురస్రముగా గాని, లేదా త్రికోణముగా గాని ఉండవచ్చును; ఖట్వాంగమువలె మధ్యమున సూక్ష్మముగా ఉండు లింగపీఠము మహాఫలమునిచ్చును."
+  },
+  {
+   "n": 7,
+   "text_deva": "प्रथमं मृच्छिलादिभ्यो लिगं लोहादिभिः कृतम् | येन लिंगं तेन पीठं स्थावरे हि विशिष्यते",
+   "text_te": "ప్రథమం మృచ్ఛిలాదిభ్యో లిగం లోహాదిభిః కృతమ్ | యేన లింగం తేన పీఠం స్థావరే హి విశిష్యతే",
+   "text_en": "prathamaṁ mṛcchilādibhyo ligaṁ lohādibhiḥ kṛtam | yena liṁgaṁ tena pīṭhaṁ sthāvare hi viśiṣyate",
+   "mean_en": "First the liṅga is made of clay, stone, and so on, and the pedestal of metal and the like; the pedestal should be of the same material as the liṅga — this is distinctive in the immovable liṅga.",
+   "mean_te": "ముందుగా మట్టి, రాయి మొదలైన వానితో లింగము చేయబడును, లోహము మొదలైన వానితో పీఠము చేయబడును; ఏ లింగముతో అయినా ఆ వస్తువుతోనే పీఠము ఉండాలి — ఇది స్థావర లింగమునకు విశిష్టము."
+  },
+  {
+   "n": 8,
+   "text_deva": "लिंगं पीठं चरे त्वेकं लिंगं बाणकृतं विना | लिंगप्रमाणं कर्तृ-णां द्वादशांगुलमुत्तमम्",
+   "text_te": "లింగం పీఠం చరే త్వేకం లింగం బాణకృతం వినా | లింగప్రమాణం కర్తృ-ణాం ద్వాదశాంగులముత్తమమ్",
+   "text_en": "liṁgaṁ pīṭhaṁ care tvekaṁ liṁgaṁ bāṇakṛtaṁ vinā | liṁgapramāṇaṁ kartṛ-ṇāṁ dvādaśāṁgulamuttamam",
+   "mean_en": "The measure for the maker is laid down: twelve finger-widths is the best length for a linga; a shortfall loses fruit, excess is no fault.",
+   "mean_te": "శిల్పి కొలతలు నిర్ణయించబడ్డాయి: లింగ పొడవుకు పన్నెండు అంగుళాలు ఉత్తమం; తక్కువైతే ఫలం తగ్గుతుంది, ఎక్కువైతే దోషం లేదు."
+  },
+  {
+   "n": 9,
+   "text_deva": "न्यूनं चेत्फलमल्पं स्यादधिकं नैव दूष्यते | कर्तुरेकांगुलन्यूनं चरेपि च तथैव हि",
+   "text_te": "న్యూనం చేత్ఫలమల్పం స్యాదధికం నైవ దూష్యతే | కర్తురేకాంగులన్యూనం చరేపి చ తథైవ హి",
+   "text_en": "nyūnaṁ cetphalamalpaṁ syādadhikaṁ naiva dūṣyate | karturekāṁgulanyūnaṁ carepi ca tathaiva hi",
+   "mean_en": "If the measure is smaller, the fruit is smaller; a larger measure is not censured. Even a deficiency of one angula made by the maker is regarded in the same way.",
+   "mean_te": "కొలత తక్కువైతే ఫలం తక్కువగా ఉంటుంది; ఎక్కువైతే దోషంగా భావించరు. శిల్పి చే ఒక అంగుళం తక్కువగా నిర్మించబడినా అది కూడా అలాగే భావింపబడుతుంది."
+  },
+  {
+   "n": 10,
+   "text_deva": "आदौ विमानं शिल्पेन कार्यं देवगणैर्युतम् | तत्र गर्भगृहे रम्ये दृढे दर्पणसंनिभे",
+   "text_te": "ఆదౌ విమానం శిల్పేన కార్యం దేవగణైర్యుతమ్ | తత్ర గర్భగృహే రమ్యే దృఢే దర్పణసంనిభే",
+   "text_en": "ādau vimānaṁ śilpena kāryaṁ devagaṇairyutam | tatra garbhagṛhe ramye dṛḍhe darpaṇasaṁnibhe",
+   "mean_en": "First, the vimana (temple superstructure) should be built with fine craftsmanship, endowed with hosts of deities. There the garbhagriha (sanctum) should be beautiful, strong, and lustrous like a mirror.",
+   "mean_te": "మొదట విమానం (ఆలయ శిఖరం) మంచి శిల్పంతో, దేవతాగణాలతో కూడి నిర్మించాలి. అందులో గర్భగృహం సుందరంగా, గట్టిగా, అద్దం వంటి నునుపైన శోభతో ఉండాలి."
+  },
+  {
+   "n": 11,
+   "text_deva": "भूषिते नवरत्नैश्च दिग्द्वारे च प्रधानकैः | नीलं रक्तं च वै दूर्यं श्यामं मारकतं तथा",
+   "text_te": "భూషితే నవరత్నైశ్చ దిగ్ద్వారే చ ప్రధానకైః | నీలం రక్తం చ వై దూర్యం శ్యామం మారకతం తథా",
+   "text_en": "bhūṣite navaratnaiśca digdvāre ca pradhānakaiḥ | nīlaṁ raktaṁ ca vai dūryaṁ śyāmaṁ mārakataṁ tathā",
+   "mean_en": "It should be adorned with the nine gems, and at the gates of the directions with the principal jewels: blue and red sapphires, the durya gem, and the dark green emerald.",
+   "mean_te": "అది తొమ్మిది రత్నాలతో అలంకరించబడి, దిక్కుల ద్వారాలలో ప్రధాన రత్నాలతో — నీలమణి, ఎరుపు రత్నం, దూర్య (సప్ఫైర్) రత్నం మరియు శ్యామ పచ్చని మరకతాలతో శోభిల్లాలి."
+  },
+  {
+   "n": 12,
+   "text_deva": "मुक्ताप्रवालगोमेदवज्राणि नवरत्नकम् १२ब्| मध्ये लिंगं महद्द्रव्यं निक्षिपेत्सहवैदिके",
+   "text_te": "ముక్తాప్రవాలగోమేదవజ్రాణి నవరత్నకమ్ १२బ్| మధ్యే లింగం మహద్ద్రవ్యం నిక్షిపేత్సహవైదికే",
+   "text_en": "muktāpravālagomedavajrāṇi navaratnakam १२b| madhye liṁgaṁ mahaddravyaṁ nikṣipetsahavaidike",
+   "mean_en": "In the innermost shrine the great linga is deposited with the Vaidika rites, set with the nine gems, worshipped with the Sadyah offerings at the five stations.",
+   "mean_te": "గర్భగుడిలో మహాలింగాన్ని — వైదిక విధానంతో, నవరత్నాలతో కూర్చి — పంచస్థానాలలో సద్యాది ఉపచారాలతో పూజించాలి."
+  },
+  {
+   "n": 13,
+   "text_deva": "संपूज्य लिंगं सद्याद्यैः पंचस्थाने यथाक्रमम् | अग्नौ च हुत्वा बहुधा हविषास कलं च माम्",
+   "text_te": "సంపూజ్య లింగం సద్యాద్యైః పంచస్థానే యథాక్రమమ్ | అగ్నౌ చ హుత్వా బహుధా హవిషాస కలం చ మామ్",
+   "text_en": "saṁpūjya liṁgaṁ sadyādyaiḥ paṁcasthāne yathākramam | agnau ca hutvā bahudhā haviṣāsa kalaṁ ca mām",
+   "mean_en": "Having worshipped the linga with the sadya and other mantras at the five places in their proper order, one should offer oblations into the fire many times with havis.",
+   "mean_te": "'సద్య' మొదలైన మంత్రములతో ఐదు స్థానములందు క్రమముగా లింగమును పూజించి, అనేక హవిస్సులతో అగ్నిలో ఆహుతులను అర్పించాలి."
+  },
+  {
+   "n": 14,
+   "text_deva": "अभ्यर्च्य गुरुमाचार्यमर्थैः कामैश्च बांधवम् | दद्यादैश्वर्यमर्थिभ्यो जडमप्यजडं तथा",
+   "text_te": "అభ్యర్చ్య గురుమాచార్యమర్థైః కామైశ్చ బాంధవమ్ | దద్యాదైశ్వర్యమర్థిభ్యో జడమప్యజడం తథా",
+   "text_en": "abhyarcya gurumācāryamarthaiḥ kāmaiśca bāṁdhavam | dadyādaiśvaryamarthibhyo jaḍamapyajaḍaṁ tathā",
+   "mean_en": "After honouring the guru, the acharya and one's relatives with wealth and desired gifts, one should give riches to all who ask for them, whether dull or intelligent.",
+   "mean_te": "గురువు, ఆచార్యుడు మరియు బంధువులను ధనము మరియు కోరిన వరములతో పూజించి, మందమతివాడైనా చురుకైనవాడైనా, అడిగే వారందరికీ ఐశ్వర్యమును దానము చేయాలి."
+  },
+  {
+   "n": 15,
+   "text_deva": "स्थावरं जंगमं जीवं सर्वं संतोष्य यत्नतः | सुवर्णपूरिते श्वभ्रे नवरत्नैश्च पूरिते",
+   "text_te": "స్థావరం జంగమం జీవం సర్వం సంతోష్య యత్నతః | సువర్ణపూరితే శ్వభ్రే నవరత్నైశ్చ పూరితే",
+   "text_en": "sthāvaraṁ jaṁgamaṁ jīvaṁ sarvaṁ saṁtoṣya yatnataḥ | suvarṇapūrite śvabhre navaratnaiśca pūrite",
+   "mean_en": "One should diligently please all living beings, moving and unmoving, and prepare the site with a pit filled with gold and filled with the nine gems.",
+   "mean_te": "కదిలే మరియు కదలని సమస్త జీవులను కృషితో సంతోషపెట్టి, బంగారముతో నిండిన, తొమ్మిది రత్నములతో పూరించిన గుంటను సిద్ధం చేయాలి."
+  },
+  {
+   "n": 16,
+   "text_deva": "सद्यादि ब्रह्म चोच्चार्य ध्यात्वा देवं परं शुभम् | उदीर्य च महामंत्रमॐकारं नादघोषितम्",
+   "text_te": "సద్యాది బ్రహ్మ చోచ్చార్య ధ్యాత్వా దేవం పరం శుభమ్ | ఉదీర్య చ మహామంత్రమॐకారం నాదఘోషితమ్",
+   "text_en": "sadyādi brahma coccārya dhyātvā devaṁ paraṁ śubham | udīrya ca mahāmaṁtramaॐkāraṁ nādaghoṣitam",
+   "mean_en": "After chanting the sacred formulas beginning with sadya and meditating on the supreme auspicious deity, one should utter the great mantra Om, sounding it as resounding nada.",
+   "mean_te": "'సద్య' మొదలైన వేద మంత్రములను పఠించి, పరమ శుభమైన దేవుని ధ్యానించి, 'ఓంకార' మహామంత్రమును నాదముగా మోగించుకుంటూ ఉచ్చరించాలి."
+  },
+  {
+   "n": 17,
+   "text_deva": "लिंगं तत्र प्रतिष्ठाप्य लिगं पीठेन योजयेत् | लिंगं सपीठं निक्षिप्य नित्यलेपेन बंधयेत्",
+   "text_te": "లింగం తత్ర ప్రతిష్ఠాప్య లిగం పీఠేన యోజయేత్ | లింగం సపీఠం నిక్షిప్య నిత్యలేపేన బంధయేత్",
+   "text_en": "liṁgaṁ tatra pratiṣṭhāpya ligaṁ pīṭhena yojayet | liṁgaṁ sapīṭhaṁ nikṣipya nityalepena baṁdhayet",
+   "mean_en": "There one should install the linga and join it to its pedestal; placing the linga together with the pedestal, one should bind it firmly with permanent paste.",
+   "mean_te": "అక్కడ లింగమును ప్రతిష్ఠించి, దానిని పీఠముతో కలుపుదురు; లింగమును పీఠసహితంగా ఉంచి, శాశ్వతమైన లేపనముతో గట్టిగా బిగించాలి."
+  },
+  {
+   "n": 18,
+   "text_deva": "एवं बेरं च संस्थाप्यं तत्रैव परमं शुभम् | पंचाक्षरेण बेरं तु उत्सवार्थं वहिस्तथा",
+   "text_te": "ఏవం బేరం చ సంస్థాప్యం తత్రైవ పరమం శుభమ్ | పంచాక్షరేణ బేరం తు ఉత్సవార్థం వహిస్తథా",
+   "text_en": "evaṁ beraṁ ca saṁsthāpyaṁ tatraiva paramaṁ śubham | paṁcākṣareṇa beraṁ tu utsavārthaṁ vahistathā",
+   "mean_en": "In the same way the fixed image (bera) should be established there itself, which is supremely auspicious; the image is consecrated with the five-syllable mantra, and a movable utsava image is provided for festivals.",
+   "mean_te": "అలాగే స్థిర విగ్రహమును (బెర) అక్కడే పరమ శుభప్రదంగా ప్రతిష్ఠించాలి; పంచాక్షర మంత్రముతో విగ్రహమును ప్రతిష్ఠించి, ఉత్సవాల కొరకు కదిలే (ఉత్సవ) విగ్రహమును కూడా ఏర్పాటు చేయాలి."
+  },
+  {
+   "n": 19,
+   "text_deva": "बेरं गुरुभ्यो गृह्णीयात्साधुभिः पूजितं तु वा | एवं लिंगे च बेरे च पूजा शिवपदप्रदा",
+   "text_te": "బేరం గురుభ్యో గృహ్ణీయాత్సాధుభిః పూజితం తు వా | ఏవం లింగే చ బేరే చ పూజా శివపదప్రదా",
+   "text_en": "beraṁ gurubhyo gṛhṇīyātsādhubhiḥ pūjitaṁ tu vā | evaṁ liṁge ca bere ca pūjā śivapadapradā",
+   "mean_en": "One should receive the image from one's gurus, or one that has been worshipped by holy men; thus worship of the linga and the image grants the feet of Shiva.",
+   "mean_te": "విగ్రహమును గురువుల నుండి గాని, సజ్జనులచే పూజింపబడినది గాని స్వీకరించాలి; ఈ విధంగా లింగము మరియు విగ్రహములపై చేయు పూజ శివుని పాదములను ప్రసాదించును."
+  },
+  {
+   "n": 20,
+   "text_deva": "पुनश्च द्विविधं प्रोक्तं स्थावरं जंगमं तथा | स्थावरं लिंगमित्याहुस्तरुगुल्मादिकं तथा",
+   "text_te": "పునశ్చ ద్వివిధం ప్రోక్తం స్థావరం జంగమం తథా | స్థావరం లింగమిత్యాహుస్తరుగుల్మాదికం తథా",
+   "text_en": "punaśca dvividhaṁ proktaṁ sthāvaraṁ jaṁgamaṁ tathā | sthāvaraṁ liṁgamityāhustarugulmādikaṁ tathā",
+   "mean_en": "Lingas are of two kinds — the stationary, such as trees and shrubs, and the moving, such as worms and insects: service to the stationary, and offering to the moving.",
+   "mean_te": "లింగాలు రెండు రకాలు — వృక్షాదులవంటి స్థావరం, కీటకాదులవంటి జంగమం: స్థావరానికి శుశ్రూష, జంగమానికి తర్పణం విధి."
+  },
+  {
+   "n": 21,
+   "text_deva": "जंगमं लिंगमित्याहुः कृमिकीटादिकं तथा | स्थावरस्य च शुश्रूषा जंगमस्य च तर्पणम्",
+   "text_te": "జంగమం లింగమిత్యాహుః కృమికీటాదికం తథా | స్థావరస్య చ శుశ్రూషా జంగమస్య చ తర్పణమ్",
+   "text_en": "jaṁgamaṁ liṁgamityāhuḥ kṛmikīṭādikaṁ tathā | sthāvarasya ca śuśrūṣā jaṁgamasya ca tarpaṇam",
+   "mean_en": "The moving creatures, from insects and worms onward, are called the movable liṅga, while serving the immovable and offering oblations to the movable are also part of this scheme. The wise know that worship of Shiva is done with love for the happiness of each of these, since all this is the seat of the Mother and Shiva, and the Shiva-liṅga is consciousness itself.",
+   "mean_te": "కీటకాలు, పురుగులు మొదలైన చలించే ప్రాణులన్నీ జంగమ లింగములు అని పలుకుదురు; స్థావరములకు సేవ చేయుట, జంగములకు తర్పణము చేయుట కూడా అందులో భాగము. వాని సుఖముపై గల అనురాగముతోనే బుద్ధిమంతులు శివపూజ చేయుదురు; యిదంతా పీఠశక్తి అంబామయమైనది, శివలింగము చిన్మయము."
+  },
+  {
+   "n": 22,
+   "text_deva": "तत्तत्सुखानुरागेण शिवपूजां विदुर्बुधाः | पीठमंबामयं सर्वं शिवलिंगं च चिन्मयम्",
+   "text_te": "తత్తత్సుఖానురాగేణ శివపూజాం విదుర్బుధాః | పీఠమంబామయం సర్వం శివలింగం చ చిన్మయమ్",
+   "text_en": "tattatsukhānurāgeṇa śivapūjāṁ vidurbudhāḥ | pīṭhamaṁbāmayaṁ sarvaṁ śivaliṁgaṁ ca cinmayam",
+   "mean_en": "The wise know that worship of Shiva, offered with love for the happiness of all beings, embraces everything; all this is the abode of the divine Mother, and the Shiva-liṅga is of the nature of consciousness.",
+   "mean_te": "సర్వప్రాణుల సుఖము కోరుకునే అనురాగముతో చేయు పూజయే శివపూజ యని బుద్ధిమంతులు ఎరుగుదురు; యిదంతయు పీఠము అంబ ఆమయము కలది, శివలింగము చిన్మయము."
+  },
+  {
+   "n": 23,
+   "text_deva": "यथा देवीमुमामंके धृत्वा तिष्ठति शंकरः | तथा लिंगमिदं पीठं धृत्वा तिष्ठति संततम्",
+   "text_te": "యథా దేవీముమామంకే ధృత్వా తిష్ఠతి శంకరః | తథా లింగమిదం పీఠం ధృత్వా తిష్ఠతి సంతతమ్",
+   "text_en": "yathā devīmumāmaṁke dhṛtvā tiṣṭhati śaṁkaraḥ | tathā liṁgamidaṁ pīṭhaṁ dhṛtvā tiṣṭhati saṁtatam",
+   "mean_en": "The image of the truth: as Shankara ever rests holding Uma upon his body, so this linga rests ever holding its pedestal — Shiva holding the manifest world.",
+   "mean_te": "తత్వచిత్రం: శంకరుడు ఉమాదేవిని తన శరీరంపై ధరించి నిత్యం ఉన్నట్టుగా — ఈ లింగం తన పీఠాన్ని ధరించి సదా నిలిచి ఉంటుంది — శివుడు ప్రపంచాన్ని ధరించినట్టే."
+  },
+  {
+   "n": 24,
+   "text_deva": "एवं स्थाप्य महालिंगं पूजयेदुपचारकैः | नित्यपूजा यथा शक्तिध्वजादिकरणं तथा",
+   "text_te": "ఏవం స్థాప్య మహాలింగం పూజయేదుపచారకైః | నిత్యపూజా యథా శక్తిధ్వజాదికరణం తథా",
+   "text_en": "evaṁ sthāpya mahāliṁgaṁ pūjayedupacārakaiḥ | nityapūjā yathā śaktidhvajādikaraṇaṁ tathā",
+   "mean_en": "Having thus installed the great liṅga, one should worship it with the prescribed articles of worship, performing the daily worship according to one's capacity, including hoisting the flag (dhvaja) and the like.",
+   "mean_te": "ఈ విధంగా మహాలింగాన్ని ప్రతిష్ఠించి, ఉపచారాలతో శివుని పూజించాలి; తన శక్తి కొద్దీ ధ్వజం మొదలైనవి ఏర్పరుస్తూ నిత్యపూజ చేయాలి."
+  },
+  {
+   "n": 25,
+   "text_deva": "इति संस्थापयेल्लिंगं साक्षाच्छिवपदप्रदम् | अथवा चरलिंगं तु षोडशैरुपचारकैः",
+   "text_te": "ఇతి సంస్థాపయేల్లింగం సాక్షాచ్ఛివపదప్రదమ్ | అథవా చరలింగం తు షోడశైరుపచారకైః",
+   "text_en": "iti saṁsthāpayelliṁgaṁ sākṣācchivapadapradam | athavā caraliṁgaṁ tu ṣoḍaśairupacārakaiḥ",
+   "mean_en": "A liṅga installed in this manner directly bestows the state of Śiva; alternatively, the movable (cara) liṅga should be worshipped with the sixteen articles of worship.",
+   "mean_te": "ఈ విధంగా ప్రతిష్ఠించిన లింగం ప్రత్యక్షంగా శివపదాన్ని ప్రసాదిస్తుంది; లేదా చరలింగాన్ని పదహారు ఉపచారాలతో పూజించాలి."
+  },
+  {
+   "n": 26,
+   "text_deva": "पूजयेच्च यथान्यायं क्रमाच्छिवपदप्रदम् | आवाहनं चासनं च अर्घ्यं पाद्यं तथैव च",
+   "text_te": "పూజయేచ్చ యథాన్యాయం క్రమాచ్ఛివపదప్రదమ్ | ఆవాహనం చాసనం చ అర్ఘ్యం పాద్యం తథైవ చ",
+   "text_en": "pūjayecca yathānyāyaṁ kramācchivapadapradam | āvāhanaṁ cāsanaṁ ca arghyaṁ pādyaṁ tathaiva ca",
+   "mean_en": "One should worship it according to the rules and in proper order, which grants the abode of Śiva: first the invocation (āvāhana), the seat (āsana), the arghya offering, and water for the feet (pādya).",
+   "mean_te": "శాస్త్రోక్తంగా, క్రమంగా పూజిస్తే అది శివపదాన్ని ప్రసాదిస్తుంది; ముందు ఆవాహన, ఆసనం, అర్ఘ్యం, పాద్యం — ఈ విధంగా సమర్పించాలి."
+  },
+  {
+   "n": 27,
+   "text_deva": "तदंगाचमनं चैव स्नानमभ्यंगपूर्वकम् | वस्त्रं गंधं तथा पुष्पं धूपं दीपं निवेदनम्",
+   "text_te": "తదంగాచమనం చైవ స్నానమభ్యంగపూర్వకమ్ | వస్త్రం గంధం తథా పుష్పం ధూపం దీపం నివేదనమ్",
+   "text_en": "tadaṁgācamanaṁ caiva snānamabhyaṁgapūrvakam | vastraṁ gaṁdhaṁ tathā puṣpaṁ dhūpaṁ dīpaṁ nivedanam",
+   "mean_en": "Then the ācamana (sipping of water) and the bath preceded by unguents should be offered, along with cloth, sandalwood paste, flowers, incense, lamp, and food offering (naivedya).",
+   "mean_te": "తరువాత ఆచమనం, అభ్యంగనతో కూడిన స్నానం, వస్త్రం, గంధం, పుష్పం, ధూపం, దీపం, నైవేద్యం — ఇవన్నీ క్రమంగా సమర్పించాలి."
+  },
+  {
+   "n": 28,
+   "text_deva": "नीराजनं च तांबूलं नमस्कारो विसर्जनम् | अथवाऽर्घ्यादिकं कृत्वा नैवेद्यां तं यथाविधि",
+   "text_te": "నీరాజనం చ తాంబూలం నమస్కారో విసర్జనమ్ | అథవాఽర్ఘ్యాదికం కృత్వా నైవేద్యాం తం యథావిధి",
+   "text_en": "nīrājanaṁ ca tāṁbūlaṁ namaskāro visarjanam | athavā'rghyādikaṁ kṛtvā naivedyāṁ taṁ yathāvidhi",
+   "mean_en": "Then the waving of lights (nīrājana), betel leaves, obeisance, and the dismissal (visarjana) should be performed; alternatively, after offering arghya and the rest, food should be presented to him according to the rules.",
+   "mean_te": "తరువాత నీరాజనం, తాంబూలం, నమస్కారం, విసర్జన చేయాలి; లేదా అర్ఘ్యాదులు చేసి, విధిప్రకారం శివునికి నైవేద్యం సమర్పించాలి."
+  },
+  {
+   "n": 29,
+   "text_deva": "अथाभिषेकं नैवेद्यं नमस्कारं च तर्पणम् | यथाशक्ति सदाकुर्यात्क्रमाच्छिवपदप्रदम्",
+   "text_te": "అథాభిషేకం నైవేద్యం నమస్కారం చ తర్పణమ్ | యథాశక్తి సదాకుర్యాత్క్రమాచ్ఛివపదప్రదమ్",
+   "text_en": "athābhiṣekaṁ naivedyaṁ namaskāraṁ ca tarpaṇam | yathāśakti sadākuryātkramācchivapadapradam",
+   "mean_en": "Then the ceremonial bathing (abhiṣeka), food offering, obeisance, and tarpaṇa should always be performed according to one's capacity, in the proper order, which bestows the abode of Śiva.",
+   "mean_te": "అటుపై అభిషేకం, నైవేద్యం, నమస్కారం, తర్పణాలు — ఈ క్రమంలో తన శక్తి కొద్దీ ఎప్పుడూ చేయాలి; అది శివపదాన్ని ప్రసాదిస్తుంది."
+  },
+  {
+   "n": 30,
+   "text_deva": "अथवा मानुषे लिंगेप्यार्षे दैवे स्वयंभुवि | स्थापितेऽपूर्वके लिंगे सोपचारं यथा तथा",
+   "text_te": "అథవా మానుషే లింగేప్యార్షే దైవే స్వయంభువి | స్థాపితేఽపూర్వకే లింగే సోపచారం యథా తథా",
+   "text_en": "athavā mānuṣe liṁgepyārṣe daive svayaṁbhuvi | sthāpite'pūrvake liṁge sopacāraṁ yathā tathā",
+   "mean_en": "Likewise, whether the liṅga is human-made, sage-installed (ārṣa), divine (daiva), self-manifested (svayaṁbhū), or a newly installed unprecedented one, worship should be performed with the upacāras just as described.",
+   "mean_te": "లేదా మానవనిర్మిత, ఆర్ష, దైవ, స్వయంభూ లింగాలలో, అపూర్వంగా ప్రతిష్ఠించిన లింగానికి — పైన చెప్పిన విధంగా ఉపచారాలతో శివుని పూజించాలి."
+  },
+  {
+   "n": 31,
+   "text_deva": "पूजोपकरणे दत्ते यत्किंचित्फलमश्नुते | प्रदक्षिणानमस्कारैः क्रमाच्छिवपदप्रदम्",
+   "text_te": "పూజోపకరణే దత్తే యత్కించిత్ఫలమశ్నుతే | ప్రదక్షిణానమస్కారైః క్రమాచ్ఛివపదప్రదమ్",
+   "text_en": "pūjopakaraṇe datte yatkiṁcitphalamaśnute | pradakṣiṇānamaskāraiḥ kramācchivapadapradam",
+   "mean_en": "By offering whatever worship implements one attains the corresponding fruit; through circumambulation (pradakṣiṇā) and obeisance, performed in order, one is granted the abode of Śiva.",
+   "mean_te": "పూజోపకరణాలను అర్పించినంత మేరకు సంబంధిత ఫలాన్ని పొందుతాడు; ప్రదక్షిణ, నమస్కారాలతో క్రమంగా శివుని ఆరాధిస్తే శివపదాన్ని పొందుతాడు."
+  },
+  {
+   "n": 32,
+   "text_deva": "लिंगं दर्शनमात्रं वा नियमेन शिवप्रदम् | मृत्पिष्टगोशकृत्पुष्पैः करवीरेण वा फलैः",
+   "text_te": "లింగం దర్శనమాత్రం వా నియమేన శివప్రదమ్ | మృత్పిష్టగోశకృత్పుష్పైః కరవీరేణ వా ఫలైః",
+   "text_en": "liṁgaṁ darśanamātraṁ vā niyamena śivapradam | mṛtpiṣṭagośakṛtpuṣpaiḥ karavīreṇa vā phalaiḥ",
+   "mean_en": "Even the mere sight of a linga, held with discipline, bestows Shiva; flowers of clay, cowdung, karavira — even such simple offerings, or jaggery, butter or ash, win the Lord.",
+   "mean_te": "నియమంతో కూడిన లింగదర్శనం మాత్రమే శివుని ప్రసాదిస్తుంది; మట్టి, ఆవుపేడ, కనకాంబరపు పువ్వులు — అటువంటి సామాన్య నైవేద్యాలే — బెల్లం, నెయ్యి, భస్మం — ప్రభువును సంప్రసాదిస్తాయి."
+  },
+  {
+   "n": 33,
+   "text_deva": "गुडेन नवनीतेन भस्मनान्नैर्यथारुचि | लिंगं यत्नेन कृत्वांते यजेत्तदनुसारतः",
+   "text_te": "గుడేన నవనీతేన భస్మనాన్నైర్యథారుచి | లింగం యత్నేన కృత్వాంతే యజేత్తదనుసారతః",
+   "text_en": "guḍena navanītena bhasmanānnairyathāruci | liṁgaṁ yatnena kṛtvāṁte yajettadanusārataḥ",
+   "mean_en": "With jaggery, butter, or ashes mixed into food as desired, one should carefully make the linga and then worship it accordingly, following the prescribed procedure.",
+   "mean_te": "బెల్లం, వెన్న, లేదా భస్మం (విభూతి) వంటి వాటితో కోరినట్లుగా లింగాన్ని శ్రద్ధగా తయారు చేసి, ఆ తరువాత విధివిధానాలకు అనుగుణంగా శివుడిని (లింగ రూపంలో) పూజించాలి."
+  },
+  {
+   "n": 34,
+   "text_deva": "अंगुष्ठादावपि तथा पूजामिच्छंति केचन | लिंगकर्मणि सर्वत्र निषेधोस्ति न कर्हिचित्",
+   "text_te": "అంగుష్ఠాదావపి తథా పూజామిచ్ఛంతి కేచన | లింగకర్మణి సర్వత్ర నిషేధోస్తి న కర్హిచిత్",
+   "text_en": "aṁguṣṭhādāvapi tathā pūjāmicchaṁti kecana | liṁgakarmaṇi sarvatra niṣedhosti na karhicit",
+   "mean_en": "Some also wish to worship with the thumb and other fingers, etc.; but there is no prohibition of the linga-rite anywhere, in any circumstance.",
+   "mean_te": "కొందరు అంగుష్ఠం (బొటనవేలు) మొదలైన వాటితో కూడా పూజ చేయాలని కోరుకుంటారు; కానీ ఎక్కడా, ఏ పరిస్థితిలోనూ లింగ పూజాకర్మపై ఎలాంటి నిషేధం లేదు."
+  },
+  {
+   "n": 35,
+   "text_deva": "सर्वत्र फलदाता हि प्रयासानुगुणं शिवः | अथवा लिंगदानं वा लिंगमौल्यमथापि वा",
+   "text_te": "సర్వత్ర ఫలదాతా హి ప్రయాసానుగుణం శివః | అథవా లింగదానం వా లింగమౌల్యమథాపి వా",
+   "text_en": "sarvatra phaladātā hi prayāsānuguṇaṁ śivaḥ | athavā liṁgadānaṁ vā liṁgamaulyamathāpi vā",
+   "mean_en": "Shiva, the granter of fruits everywhere, rewards according to the effort expended; alternatively, the gift of a linga, the buying of a linga, or so on is also valid.",
+   "mean_te": "ఎల్లప్పుడూ ఫలాలను ప్రసాదించే శివుడు, మనం చేసే కృషికి అనుగుణంగా ఫలితాన్ని ఇస్తాడు; లేదా, లింగ దానం గానీ, లింగాన్ని కొనడం (మూల్యం చెల్లించడం) గానీ కూడా సమంజసంగా పరిగణించబడుతుంది."
+  },
+  {
+   "n": 36,
+   "text_deva": "श्रद्धया शिवभक्ताय दत्तं शिवपदप्रदम् | अथवा प्रणवं नित्यं जपेद्दशसहस्रकम्",
+   "text_te": "శ్రద్ధయా శివభక్తాయ దత్తం శివపదప్రదమ్ | అథవా ప్రణవం నిత్యం జపేద్దశసహస్రకమ్",
+   "text_en": "śraddhayā śivabhaktāya dattaṁ śivapadapradam | athavā praṇavaṁ nityaṁ japeddaśasahasrakam",
+   "mean_en": "Or one may gift a linga, or its price, to a devotee of Shiva with faith — that too bestows the state of Shiva.",
+   "mean_te": "లేదా లింగాన్నయా, దాని వెలనయా — శ్రద్ధతో — శిభక్తునికి దానం చేయడం — అదీ శివపదాన్ని ప్రసాదిస్తుంది."
+  },
+  {
+   "n": 37,
+   "text_deva": "संध्ययोश्च सहस्रं वा ज्ञेयं शिवपदप्रदम् | जपकाले मकारांतं मनःशुद्धिकरं भजेत्",
+   "text_te": "సంధ్యయోశ్చ సహస్రం వా జ్ఞేయం శివపదప్రదమ్ | జపకాలే మకారాంతం మనఃశుద్ధికరం భజేత్",
+   "text_en": "saṁdhyayośca sahasraṁ vā jñeyaṁ śivapadapradam | japakāle makārāṁtaṁ manaḥśuddhikaraṁ bhajet",
+   "mean_en": "One should know that repeating the mantra a thousand times at the two sandhyas, ending in the makara, bestows Siva's abode; at the time of japa it should be recited, purifying the mind.",
+   "mean_te": "సంధ్యలలో వెయ్యిసార్లు జపించడం శివుని పదాన్ని ప్రసాదించేదిగా తెలుసుకోవాలి; జప సమయంలో 'మ'తో అంతమయ్యే మంత్రాన్ని మనస్సును శుద్ధిపరిచేలా భజించాలి."
+  },
+  {
+   "n": 38,
+   "text_deva": "समाधौ मानसं प्रोक्तमुपांशु सार्वकालिकम् | समानप्रणवं चेमं बिंदुनादयुतं विदुः",
+   "text_te": "సమాధౌ మానసం ప్రోక్తముపాంశు సార్వకాలికమ్ | సమానప్రణవం చేమం బిందునాదయుతం విదుః",
+   "text_en": "samādhau mānasaṁ proktamupāṁśu sārvakālikam | samānapraṇavaṁ cemaṁ biṁdunādayutaṁ viduḥ",
+   "mean_en": "In samadhi the japa is said to be mental, while in upamshu (whispered) form it may be done at all times. The wise know this mantra, joined with bindu and nada, as equal to the pranava (Om).",
+   "mean_te": "సమాధిలో జపం మానసికంగా చెప్పబడింది; ఉపాంశు (రహస్యంగా పలకడం) రూపంలో అన్ని సమయాలలో చేయవచ్చు. బిందు, నాదలతో కూడిన ఈ మంత్రం ప్రణవానికి (ఓం) సమానమని తెలివైనవారు తెలుసుకొందురు."
+  },
+  {
+   "n": 39,
+   "text_deva": "अथ पंचाक्षरं नित्यं जपेदयुतमादरात् | संध्ययोश्च सहस्रं वा ज्ञेयं शिवपदप्रदम्",
+   "text_te": "అథ పంచాక్షరం నిత్యం జపేదయుతమాదరాత్ | సంధ్యయోశ్చ సహస్రం వా జ్ఞేయం శివపదప్రదమ్",
+   "text_en": "atha paṁcākṣaraṁ nityaṁ japedayutamādarāt | saṁdhyayośca sahasraṁ vā jñeyaṁ śivapadapradam",
+   "mean_en": "Then one should daily repeat the five-syllable (pancakshara) mantra with devotion ten thousand times, or a thousand at the two sandhyas, which is known to bestow Siva's abode.",
+   "mean_te": "అపుడు ప్రతిదినం పంచాక్షర మంత్రాన్ని భక్తితో పదివేలు (అయుతం) జపించాలి, లేదా సంధ్యలలో వెయ్యిసార్లు జపించడం శివుని పదాన్ని ప్రసాదించేదిగా తెలుసుకోవాలి."
+  },
+  {
+   "n": 40,
+   "text_deva": "प्रणवेनादिसंयुक्तं ब्राह्मणानां विशिष्यते | दीक्षायुक्तं गुरोर्ग्राह्यं मंत्रं ह्यथ फलाप्तये",
+   "text_te": "ప్రణవేనాదిసంయుక్తం బ్రాహ్మణానాం విశిష్యతే | దీక్షాయుక్తం గురోర్గ్రాహ్యం మంత్రం హ్యథ ఫలాప్తయే",
+   "text_en": "praṇavenādisaṁyuktaṁ brāhmaṇānāṁ viśiṣyate | dīkṣāyuktaṁ gurorgrāhyaṁ maṁtraṁ hyatha phalāptaye",
+   "mean_en": "The mantra joined with the pranava at its beginning is distinguished as belonging to brahmanas; for attaining the fruit, the mantra along with diksha (initiation) must be received from the guru.",
+   "mean_te": "ప్రణవం (ఓం) ఆదిలో కూడిన మంత్రం బ్రాహ్మణులకు విశిష్టమైనది; ఫలాన్ని పొందడానికి దీక్షతో కూడిన మంత్రాన్ని గురువు నుండి గ్రహించాలి."
+  },
+  {
+   "n": 41,
+   "text_deva": "कुंभस्नानं मंत्रदीक्षां मातृकान्यासमेव च | ब्राह्मणः सत्यपूतात्मा गुरुर्ज्ञानी विशिष्यते",
+   "text_te": "కుంభస్నానం మంత్రదీక్షాం మాతృకాన్యాసమేవ చ | బ్రాహ్మణః సత్యపూతాత్మా గురుర్జ్ఞానీ విశిష్యతే",
+   "text_en": "kuṁbhasnānaṁ maṁtradīkṣāṁ mātṛkānyāsameva ca | brāhmaṇaḥ satyapūtātmā gururjñānī viśiṣyate",
+   "mean_en": "In pot-bath (kumbha-snana), mantra-diksha, and likewise matrika-nyasa, the brahmana whose self is purified by truth and the guru endowed with jnana excel most.",
+   "mean_te": "కుంభస్నానం, మంత్రదీక్ష, అలాగే మాతృకాన్యాసంలలో సత్యంతో ఆత్మ శుద్ధి చెందిన బ్రాహ్మణుడు, జ్ఞానం కలిగిన గురువు అత్యంత విశిష్టులు."
+  },
+  {
+   "n": 42,
+   "text_deva": "द्विजानां च नमःपूर्वमन्येषां च नमोन्तकम् ४२ब्| स्त्रीणां च क्वचिदिच्छंति नमो तं च यथाविधि",
+   "text_te": "ద్విజానాం చ నమఃపూర్వమన్యేషాం చ నమోన్తకమ్ ४२బ్| స్త్రీణాం చ క్వచిదిచ్ఛంతి నమో తం చ యథావిధి",
+   "text_en": "dvijānāṁ ca namaḥpūrvamanyeṣāṁ ca namontakam ४२b| strīṇāṁ ca kvacidicchaṁti namo taṁ ca yathāvidhi",
+   "mean_en": "For the twice-born the mantra has 'namah' at the beginning, while for others it comes at the end; for women too, in some cases 'namah' is desired, and that is applied according to the proper rule.",
+   "mean_te": "ద్విజులకు 'నమః' ముందు ఉంటుంది, ఇతరులకు చివర ఉంటుంది; స్త్రీలకు కూడా కొన్ని చోట్ల 'నమః' కావాలని కోరుతారు, అది యథావిధిగా అనుసరింపబడాలి."
+  },
+  {
+   "n": 43,
+   "text_deva": "विप्रस्त्रीणां नमः पूर्वमिदमिच्छंति केचन | पंचकोटिजपं कृत्वा सदा शिवसमो भवेत्",
+   "text_te": "విప్రస్త్రీణాం నమః పూర్వమిదమిచ్ఛంతి కేచన | పంచకోటిజపం కృత్వా సదా శివసమో భవేత్",
+   "text_en": "viprastrīṇāṁ namaḥ pūrvamidamicchaṁti kecana | paṁcakoṭijapaṁ kṛtvā sadā śivasamo bhavet",
+   "mean_en": "For the wives of brahmanas some prescribe 'namah' at the beginning; having performed japa of five crores (pancha-koti), one always becomes equal to Shiva.",
+   "mean_te": "విప్రస్త్రీలకు 'నమః' ముందు ఉండాలని కొందరు కోరుతారు; ఐదు కోట్ల జపం చేస్తే ఎల్లప్పుడూ శివునితో సమానుడౌతాడు."
+  },
+  {
+   "n": 44,
+   "text_deva": "एकद्वित्रिचतुःकोट्याब्रह्मादीनां पदं व्रजेत् | जपेदक्षरलक्षंवा अक्षराणां पृथक्पृथक्",
+   "text_te": "ఏకద్విత్రిచతుఃకోట్యాబ్రహ్మాదీనాం పదం వ్రజేత్ | జపేదక్షరలక్షంవా అక్షరాణాం పృథక్పృథక్",
+   "text_en": "ekadvitricatuḥkoṭyābrahmādīnāṁ padaṁ vrajet | japedakṣaralakṣaṁvā akṣarāṇāṁ pṛthakpṛthak",
+   "mean_en": "The japa-measures: by five crore repetitions one becomes ever equal to Shiva; by one, two, three or four crores one reaches the state of Brahma and the rest.",
+   "mean_te": "జపపరిమాణాలు: పదికోట్ల జపంతో సదా శివసముడవుతాడు; ఒకటి-రెండు-మూడు-నాలుగు కోట్లతో బ్రహ్మాదుల పదవులు పొందుతాడు."
+  },
+  {
+   "n": 45,
+   "text_deva": "अथवाक्षरलक्षं वा ज्ञेयं शिवपदप्रदम् | सहस्रं तु सहस्राणां सहस्रेण दिनेन हि",
+   "text_te": "అథవాక్షరలక్షం వా జ్ఞేయం శివపదప్రదమ్ | సహస్రం తు సహస్రాణాం సహస్రేణ దినేన హి",
+   "text_en": "athavākṣaralakṣaṁ vā jñeyaṁ śivapadapradam | sahasraṁ tu sahasrāṇāṁ sahasreṇa dinena hi",
+   "mean_en": "Alternatively, japa counted by a lakh of syllables (akshara-laksha) is known to bestow Shiva's abode; a thousand of thousands is to be completed within a thousand days.",
+   "mean_te": "లేదా అక్షరలక్షగా లెక్కించిన జపం శివపదాన్ని ప్రసాదిస్తుందని తెలుసుకోవాలి; వెయ్యి వేల జపాలు వెయ్యి రోజుల్లో పూర్తి చేయాలి."
+  },
+  {
+   "n": 46,
+   "text_deva": "जपेन्मंत्रादिष्टसिद्धिर्नित्यं ब्राह्मणभोजनात् | अष्टोत्तरसहस्रं वै गायत्रीं प्रातरेव हि",
+   "text_te": "జపేన్మంత్రాదిష్టసిద్ధిర్నిత్యం బ్రాహ్మణభోజనాత్ | అష్టోత్తరసహస్రం వై గాయత్రీం ప్రాతరేవ హి",
+   "text_en": "japenmaṁtrādiṣṭasiddhirnityaṁ brāhmaṇabhojanāt | aṣṭottarasahasraṁ vai gāyatrīṁ prātareva hi",
+   "mean_en": "One shall perform japa daily, and the siddhi prescribed for the mantra comes from feeding brahmanas; he shall recite the Gayatri 1008 (ashtottara-sahasra) times in the very morning.",
+   "mean_te": "నిత్యం జపించాలి; బ్రాహ్మణ భోజనం వల్ల మంత్రసిద్ధి లభిస్తుంది. ప్రాతఃకాలంలోనే గాయత్రీని 1008 సార్లు జపించాలి."
+  },
+  {
+   "n": 47,
+   "text_deva": "ब्राह्मणस्तु जपेन्नित्यं क्रमाच्छिवपदप्रदान् | वेदमंत्रांस्तु सूक्तानि जपेन्नियममास्थितः",
+   "text_te": "బ్రాహ్మణస్తు జపేన్నిత్యం క్రమాచ్ఛివపదప్రదాన్ | వేదమంత్రాంస్తు సూక్తాని జపేన్నియమమాస్థితః",
+   "text_en": "brāhmaṇastu japennityaṁ kramācchivapadapradān | vedamaṁtrāṁstu sūktāni japenniyamamāsthitaḥ",
+   "mean_en": "The brahmana shall daily recite, in due order, the mantras that bestow Shiva's abode; observing the vow, he shall recite the Vedic mantras and the suktas.",
+   "mean_te": "బ్రాహ్మణుడు నిత్యం క్రమంగా శివపదాన్ని ప్రసాదించే మంత్రాలను జపించాలి; నియమాన్ని ఆశ్రయించి వేదమంత్రాలను, సూక్తులను జపించాలి."
+  },
+  {
+   "n": 48,
+   "text_deva": "एकं दशार्णं मंत्रं च शतोनं च तदूर्ध्वकम् | अयुतं च सहस्रं च शतमेकं विना भवेत्",
+   "text_te": "ఏకం దశార్ణం మంత్రం చ శతోనం చ తదూర్ధ్వకమ్ | అయుతం చ సహస్రం చ శతమేకం వినా భవేత్",
+   "text_en": "ekaṁ daśārṇaṁ maṁtraṁ ca śatonaṁ ca tadūrdhvakam | ayutaṁ ca sahasraṁ ca śatamekaṁ vinā bhavet",
+   "mean_en": "The successive japa counts are enumerated: one ten-syllabled (dasharna) mantra, a hundred repetitions and more, then ten thousand, a thousand, and a hundred minus one (99).",
+   "mean_te": "జపసంఖ్యలు ఇలా నిర్ణయించబడ్డాయి: ఒక దశార్ణ (పది అక్షరాల) మంత్రం, దాని వంద జపాలు, అంతకంటే ఎక్కువ; అలాగే పదివేలు, వెయ్యి, వంద మినహా ఒకటి (99)."
+  },
+  {
+   "n": 49,
+   "text_deva": "वेदपारायणं चैव ज्ञेयं शिवपदप्रदम् | अन्यान्बहुतरान्मंत्राञ्जपेदक्षरलक्षतः",
+   "text_te": "వేదపారాయణం చైవ జ్ఞేయం శివపదప్రదమ్ | అన్యాన్బహుతరాన్మంత్రాఞ్జపేదక్షరలక్షతః",
+   "text_en": "vedapārāyaṇaṁ caiva jñeyaṁ śivapadapradam | anyānbahutarānmaṁtrāñjapedakṣaralakṣataḥ",
+   "mean_en": "The recitation (parayana) of the Vedas too should be known as conferring Shiva's abode; one shall recite many other mantras counted by the lakh of syllables.",
+   "mean_te": "వేదపారాయణం కూడా శివపదాన్ని ప్రసాదించేదిగా తెలుసుకోవాలి; ఇతర బహుళ మంత్రాలను అక్షరలక్ష ప్రకారం జపించాలి."
+  },
+  {
+   "n": 50,
+   "text_deva": "एकाक्षरांस्तथा मंत्राञ्जपेदक्षरकोटितः | ततः परं जपेच्चैव सहस्रं भक्तिपूर्वकम्",
+   "text_te": "ఏకాక్షరాంస్తథా మంత్రాఞ్జపేదక్షరకోటితః | తతః పరం జపేచ్చైవ సహస్రం భక్తిపూర్వకమ్",
+   "text_en": "ekākṣarāṁstathā maṁtrāñjapedakṣarakoṭitaḥ | tataḥ paraṁ japeccaiva sahasraṁ bhaktipūrvakam",
+   "mean_en": "Likewise one shall recite single-syllabled mantras until a crore of syllables is completed; thereafter he shall perform japa a thousand times with devotion.",
+   "mean_te": "అలాగే ఏకాక్షర మంత్రాలను కోటి అక్షరాల వరకు జపించాలి; తర్వాత భక్తిపూర్వకంగా వెయ్యి సార్లు జపించాలి."
+  },
+  {
+   "n": 51,
+   "text_deva": "एवं कुर्याद्यथाशक्ति क्रमाच्छिव पदं लभेत् | नित्यं रुचिकरं त्वेकं मंत्रमामरणांतिकम्",
+   "text_te": "ఏవం కుర్యాద్యథాశక్తి క్రమాచ్ఛివ పదం లభేత్ | నిత్యం రుచికరం త్వేకం మంత్రమామరణాంతికమ్",
+   "text_en": "evaṁ kuryādyathāśakti kramācchiva padaṁ labhet | nityaṁ rucikaraṁ tvekaṁ maṁtramāmaraṇāṁtikam",
+   "mean_en": "Doing this according to one's capacity, one attains Shiva's abode step by step; but a single pleasing mantra should be recited daily till the end of one's life.",
+   "mean_te": "తన శక్తి కొద్దీ ఇలా చేస్తే క్రమంగా శివపదం లభిస్తుంది; కానీ రోజూ ఒకే ఇష్టమైన మంత్రాన్ని మరణం వరకు జపించాలి."
+  },
+  {
+   "n": 52,
+   "text_deva": "जपेत्सहस्रमोमिति सर्वाभीष्टं शिवाज्ञया | पुष्पारामादिकं वापि तथा संमार्जनादिकम्",
+   "text_te": "జపేత్సహస్రమోమితి సర్వాభీష్టం శివాజ్ఞయా | పుష్పారామాదికం వాపి తథా సంమార్జనాదికమ్",
+   "text_en": "japetsahasramomiti sarvābhīṣṭaṁ śivājñayā | puṣpārāmādikaṁ vāpi tathā saṁmārjanādikam",
+   "mean_en": "One shall do japa of 'Om' a thousand times, whereby all desires are fulfilled by Shiva's command; alternatively one may lay out flower-gardens and the like or perform sweeping (of the shrine) and similar services.",
+   "mean_te": "'ఓం' జపం వెయ్యి సార్లు చేయాలి; శివుని ఆజ్ఞతో అన్ని కోరినవి నెరవేరుతాయి. లేదా పుష్పారామాదులు ఏర్పాటు చేయడం, ఆలయ శుభ్రపరచడం వంటి సేవలు చేయాలి."
+  },
+  {
+   "n": 53,
+   "text_deva": "शिवाय शिवकार्याथे कृत्वा शिवपदं लभेत् | शिवक्षेत्रे तथा वासं नित्यं कुर्याच्च भक्तितः",
+   "text_te": "శివాయ శివకార్యాథే కృత్వా శివపదం లభేత్ | శివక్షేత్రే తథా వాసం నిత్యం కుర్యాచ్చ భక్తితః",
+   "text_en": "śivāya śivakāryāthe kṛtvā śivapadaṁ labhet | śivakṣetre tathā vāsaṁ nityaṁ kuryācca bhaktitaḥ",
+   "mean_en": "Doing all this for Shiva and for the sake of Shiva's work, one attains Shiva's abode; with devotion one should also always reside in a Shiva-kshetra.",
+   "mean_te": "శివుని కోసం, శివకార్యం కోసం ఇవన్నీ చేస్తే శివపదం లభిస్తుంది; భక్తితో నిత్యం శివక్షేత్రంలో నివసించాలి."
+  },
+  {
+   "n": 54,
+   "text_deva": "जडानामजडानां च सर्वेषां भुक्तिमुक्तिदम् | तस्माद्वासं शिवक्षेत्रे कुर्यदामरणं बुधः",
+   "text_te": "జడానామజడానాం చ సర్వేషాం భుక్తిముక్తిదమ్ | తస్మాద్వాసం శివక్షేత్రే కుర్యదామరణం బుధః",
+   "text_en": "jaḍānāmajaḍānāṁ ca sarveṣāṁ bhuktimuktidam | tasmādvāsaṁ śivakṣetre kuryadāmaraṇaṁ budhaḥ",
+   "mean_en": "Dwelling in a Shiva kshetra grants enjoyment and liberation to the inert and the alert alike — therefore the wise should live in a Shiva kshetra until the end.",
+   "mean_te": "శివక్షేత్రంలో నివాసం — జడులకు, చేతనులకు — భుక్తి-ముక్తులిస్తుంది — అందుకే ధీశాలి — అంత్యకాలం వరకూ — శివక్షేత్రంలోనే నివసించాలి."
+  },
+  {
+   "n": 55,
+   "text_deva": "लिंगाद्धस्तशतं पुण्यं क्षेत्रे मानुषके विदुः | सहस्रारत्निमात्रं तु पुण्यक्षेत्रे तथार्षके",
+   "text_te": "లింగాద్ధస్తశతం పుణ్యం క్షేత్రే మానుషకే విదుః | సహస్రారత్నిమాత్రం తు పుణ్యక్షేత్రే తథార్షకే",
+   "text_en": "liṁgāddhastaśataṁ puṇyaṁ kṣetre mānuṣake viduḥ | sahasrāratnimātraṁ tu puṇyakṣetre tathārṣake",
+   "mean_en": "The meritorious ground around a liṅga is known to extend a hundred hastas in an ordinary human place, a thousand aratnis in a puṇyakṣetra, and the same measure in an ārṣaka.",
+   "mean_te": "ఒక సామాన్య మానవ క్షేత్రంలో లింగం నుండి వంద హస్తాల వరకు పుణ్య ప్రదేశంగా తెలుసుకోవాలి. పుణ్యక్షేత్రంలో వెయ్యి అరత్నుల కొలతను, ఆర్షక క్షేత్రంలో కూడా అంతే కొలతను గుర్తించాలి."
+  },
+  {
+   "n": 56,
+   "text_deva": "दैवलिंगे तथा ज्ञेयं सहस्रारत्निमानतः | धनुष्प्रमाणसाहस्रं पुण्यं क्षेत्रे स्वयं भुवि",
+   "text_te": "దైవలింగే తథా జ్ఞేయం సహస్రారత్నిమానతః | ధనుష్ప్రమాణసాహస్రం పుణ్యం క్షేత్రే స్వయం భువి",
+   "text_en": "daivaliṁge tathā jñeyaṁ sahasrāratnimānataḥ | dhanuṣpramāṇasāhasraṁ puṇyaṁ kṣetre svayaṁ bhuvi",
+   "mean_en": "For a daiva-liṅga installed by the gods the meritorious extent is likewise a thousand aratnis; for a self-manifest kṣetra on earth it extends a thousand dhanus.",
+   "mean_te": "దేవతలచే ప్రతిష్ఠించబడిన దైవలింగానికి అలాగే వెయ్యి అరత్నుల కొలత పుణ్యంగా తెలుసుకోవాలి. భూమిపై స్వయంభూవైన క్షేత్రానికి వెయ్యి ధనుస్సుల కొలత పుణ్యం ఉంటుంది."
+  },
+  {
+   "n": 57,
+   "text_deva": "पुण्यक्षेत्रे स्थिता वापी कूपाद्यं पुष्कराणि च | शिवगंगेति विज्ञेयं शिवस्य वचनं यथा",
+   "text_te": "పుణ్యక్షేత్రే స్థితా వాపీ కూపాద్యం పుష్కరాణి చ | శివగంగేతి విజ్ఞేయం శివస్య వచనం యథా",
+   "text_en": "puṇyakṣetre sthitā vāpī kūpādyaṁ puṣkarāṇi ca | śivagaṁgeti vijñeyaṁ śivasya vacanaṁ yathā",
+   "mean_en": "A step-well, a well, and ponds situated in a puṇyakṣetra should be known as Śiva-Gaṅgā, as Śiva himself has declared.",
+   "mean_te": "పుణ్యక్షేత్రంలో ఉన్న మెట్టుబావి (వాపీ), బావి, చెరువులన్నీ శివగంగగా తెలుసుకోవాలి. ఇది శివుడు తానే చెప్పిన మాట ప్రకారం ఉంది."
+  },
+  {
+   "n": 58,
+   "text_deva": "तत्र स्नात्वा तथा दत्त्वा जपित्वा हि शिवं व्रजेत् | शिवक्षेत्रं समाश्रित्य वसेदामरणं तथा",
+   "text_te": "తత్ర స్నాత్వా తథా దత్త్వా జపిత్వా హి శివం వ్రజేత్ | శివక్షేత్రం సమాశ్రిత్య వసేదామరణం తథా",
+   "text_en": "tatra snātvā tathā dattvā japitvā hi śivaṁ vrajet | śivakṣetraṁ samāśritya vasedāmaraṇaṁ tathā",
+   "mean_en": "Bathing there, giving gifts, and performing japa, one then goes to Śiva; taking shelter in the Śiva-kṣetra, one should dwell until the end of one's life.",
+   "mean_te": "అక్కడ స్నానం చేసి, దానాలు చేసి, జపం చేసిన తర్వాత మనిషి శివుని పొందుతాడు. శివక్షేత్రంలో ఆశ్రయం పొంది మరణించే వరకు నివసించాలి."
+  },
+  {
+   "n": 59,
+   "text_deva": "दाहं दशाहं मास्यं वा सपिंडीकरणं तु वा | आब्दिकं वा शिवक्षेत्रे क्षेत्रे पिंडमथापि वा",
+   "text_te": "దాహం దశాహం మాస్యం వా సపిండీకరణం తు వా | ఆబ్దికం వా శివక్షేత్రే క్షేత్రే పిండమథాపి వా",
+   "text_en": "dāhaṁ daśāhaṁ māsyaṁ vā sapiṁḍīkaraṇaṁ tu vā | ābdikaṁ vā śivakṣetre kṣetre piṁḍamathāpi vā",
+   "mean_en": "Whether one stays a day, ten days, or a month in the Śiva-kṣetra, or performs sapiṇḍīkaraṇa, the annual rite, or offers a piṇḍa there—all these observances are taught.",
+   "mean_te": "శివక్షేత్రంలో ఒక రోజు, పది రోజులు లేదా ఒక నెల నివసించడం, లేదా సపిండీకరణ, వార్షిక శ్రాద్ధం చేయడం, పిండం సమర్పించడం — ఇవన్నీ నిర్దేశించబడ్డాయి."
+  },
+  {
+   "n": 60,
+   "text_deva": "सर्वपाप विनिर्मुक्तः सद्यः शिवपदं लभेत् | अथवा सप्तरात्रं वा वसेद्वा पंचरात्रकम्",
+   "text_te": "సర్వపాప వినిర్ముక్తః సద్యః శివపదం లభేత్ | అథవా సప్తరాత్రం వా వసేద్వా పంచరాత్రకమ్",
+   "text_en": "sarvapāpa vinirmuktaḥ sadyaḥ śivapadaṁ labhet | athavā saptarātraṁ vā vasedvā paṁcarātrakam",
+   "mean_en": "By such observance one becomes free from all sins and immediately attains Śiva's abode; alternatively, one may stay seven nights or five nights.",
+   "mean_te": "అలా చేసినవాడు అన్ని పాపాల నుండి విముక్తుడై వెంటనే శివపదాన్ని పొందుతాడు. లేదా ఏడు రాత్రులు లేదా ఐదు రాత్రులు క్షేత్రంలో నివసించాలి."
+  },
+  {
+   "n": 61,
+   "text_deva": "त्रिरात्रमेकरात्रं वा क्रमाच्छिवपदं लभेत् | स्ववर्णानुगुणं लोके स्वाचारात्प्राप्नुते नरः",
+   "text_te": "త్రిరాత్రమేకరాత్రం వా క్రమాచ్ఛివపదం లభేత్ | స్వవర్ణానుగుణం లోకే స్వాచారాత్ప్రాప్నుతే నరః",
+   "text_en": "trirātramekarātraṁ vā kramācchivapadaṁ labhet | svavarṇānuguṇaṁ loke svācārātprāpnute naraḥ",
+   "mean_en": "Staying three nights or even a single night, one attains Śiva's abode in due order; in this world a person obtains results suited to his varṇa through his own conduct.",
+   "mean_te": "మూడు రాత్రులు లేదా ఒక్క రాత్రి నివసించినా క్రమంగా శివపదాన్ని పొందుతాడు. ఈ లోకంలో మనిషి తన వర్ణానికి, తన ఆచరణకు తగిన ఫలాన్ని పొందుతాడు."
+  },
+  {
+   "n": 62,
+   "text_deva": "वर्णोद्धारेण भक्त्या च तत्फलातिशयं नरः | सर्वं कृतं कामनया सद्यः फलमवाप्नुयात्",
+   "text_te": "వర్ణోద్ధారేణ భక్త్యా చ తత్ఫలాతిశయం నరః | సర్వం కృతం కామనయా సద్యః ఫలమవాప్నుయాత్",
+   "text_en": "varṇoddhāreṇa bhaktyā ca tatphalātiśayaṁ naraḥ | sarvaṁ kṛtaṁ kāmanayā sadyaḥ phalamavāpnuyāt",
+   "mean_en": "By upholding his varṇa-duty with devotion, a man gains that fruit in surpassing measure; if everything is done out of desire, he obtains its fruit at once.",
+   "mean_te": "తన వర్ణధర్మాన్ని భక్తితో పాటిస్తే మనిషి ఆ ఫలాన్ని అతిశయంగా పొందుతాడు. అన్నీ కోరికతో చేస్తే వెంటనే ఫలాన్ని పొందుతాడు."
+  },
+  {
+   "n": 63,
+   "text_deva": "सर्वं कृतमकामेन साक्षाच्छिवपदप्रदम् | प्रातर्मध्याह्नसायाह्नमहस्त्रिष्वेकतः क्रमात्",
+   "text_te": "సర్వం కృతమకామేన సాక్షాచ్ఛివపదప్రదమ్ | ప్రాతర్మధ్యాహ్నసాయాహ్నమహస్త్రిష్వేకతః క్రమాత్",
+   "text_en": "sarvaṁ kṛtamakāmena sākṣācchivapadapradam | prātarmadhyāhnasāyāhnamahastriṣvekataḥ kramāt",
+   "mean_en": "All that is done without desire directly grants Śiva's abode; morning, midday, and evening are the three periods of worship, taken one by one in order.",
+   "mean_te": "అన్నీ కోరిక లేకుండా చేస్తే అవి శివపదాన్ని ప్రత్యక్షంగా ప్రసాదిస్తాయి. ఉదయం, మధ్యాహ్నం, సాయంత్రం — ఈ మూడు పూజా సమయాలు క్రమంగా ఒక్కొక్కటిగా ఉంటాయి."
+  },
+  {
+   "n": 64,
+   "text_deva": "प्रातर्विधिकरं ज्ञेयं मध्याह्नं कामिकं तथा | सायाह्नं शांतिकं ज्ञेयं रात्रावपि तथैव हि",
+   "text_te": "ప్రాతర్విధికరం జ్ఞేయం మధ్యాహ్నం కామికం తథా | సాయాహ్నం శాంతికం జ్ఞేయం రాత్రావపి తథైవ హి",
+   "text_en": "prātarvidhikaraṁ jñeyaṁ madhyāhnaṁ kāmikaṁ tathā | sāyāhnaṁ śāṁtikaṁ jñeyaṁ rātrāvapi tathaiva hi",
+   "mean_en": "The morning worship should be known as prescribed by rule, the midday one as desire-fulfilling (kāmika), and the evening one as peace-giving (śāntika); the same applies at night as well.",
+   "mean_te": "ఉదయం పూజ విధి ప్రకారం చేయదగినదిగా, మధ్యాహ్నం పూజ కోరికలు నెరవేర్చేదిగా (కామిక), సాయంత్రం పూజ శాంతి ప్రదాయినిగా (శాంతిక) తెలుసుకోవాలి. రాత్రికి కూడా అదే నియమం ఉంటుంది."
+  },
+  {
+   "n": 65,
+   "text_deva": "कालो निशीथो वै प्रोक्तोमध्ययामद्वयं निशि | शिवपूजा विशेषेण तत्कालेऽभीष्टसिद्धिदा",
+   "text_te": "కాలో నిశీథో వై ప్రోక్తోమధ్యయామద్వయం నిశి | శివపూజా విశేషేణ తత్కాలేఽభీష్టసిద్ధిదా",
+   "text_en": "kālo niśītho vai proktomadhyayāmadvayaṁ niśi | śivapūjā viśeṣeṇa tatkāle'bhīṣṭasiddhidā",
+   "mean_en": "The time called niśītha, and likewise the madhyayāma of the night, is prescribed; worship of Śiva especially at that time grants the fulfillment of one's desires.",
+   "mean_te": "రాత్రిలో నిశీథ అనే సమయం, అలాగే మధ్యయామం అని చెప్పబడింది. ఆ సమయంలో విశేషంగా శివుని పూజ చేస్తే అభీష్టమైన వరాన్ని ప్రసాదిస్తుంది."
+  },
+  {
+   "n": 66,
+   "text_deva": "एवं ज्ञात्वा नरः कुर्वन्यथोक्तफलभाग्भवेत् | कलौ युगे विशेषेण फलसिद्धिस्तु कर्मणा",
+   "text_te": "ఏవం జ్ఞాత్వా నరః కుర్వన్యథోక్తఫలభాగ్భవేత్ | కలౌ యుగే విశేషేణ ఫలసిద్ధిస్తు కర్మణా",
+   "text_en": "evaṁ jñātvā naraḥ kurvanyathoktaphalabhāgbhavet | kalau yuge viśeṣeṇa phalasiddhistu karmaṇā",
+   "mean_en": "Especially in the Kali age, fruit is won quickly by action: knowing this, a man should act according to the rule and win the fruit as told.",
+   "mean_te": "కలియుగంలో మాత్రం — కర్మతో — ఫలసిద్ధి శీఘ్రంగా కలుగుతుంది: ఇది తెలుసుకున్న మానవుడు శాస్త్రీయంగా ఆచరించి — చెప్పిన ఫలాన్ని పొందుతాడు."
+  },
+  {
+   "n": 67,
+   "text_deva": "उक्तेन केनचिद्वापि अधिकारविभेदतः | सद्वृत्तिः पापभीरुश्चेत्ततत्फलमवाप्नुयात्",
+   "text_te": "ఉక్తేన కేనచిద్వాపి అధికారవిభేదతః | సద్వృత్తిః పాపభీరుశ్చేత్తతత్ఫలమవాప్నుయాత్",
+   "text_en": "uktena kenacidvāpi adhikāravibhedataḥ | sadvṛttiḥ pāpabhīruścettatatphalamavāpnuyāt",
+   "mean_en": "If anyone, qualified as described according to the divisions of eligibility, is of good conduct and fearful of sin, he will obtain the fruit of that practice.",
+   "mean_te": "ఈ విధంగా అధికార భేదాల ప్రకారం అర్హత పొందిన ఎవరైనా సద్వృత్తి కలవాడై పాపభీరుడై ఉంటే, అతను ఆ ఫలాన్ని పొందుతాడు."
+  },
+  {
+   "n": 68,
+   "text_deva": "ऋषय ऊचुः | अथ क्षेत्राणि पुण्यानि समासात्कथयस्व नः | सर्वाः स्त्रियश्च पुरुषा यान्याश्रित्य पदं लभेत्",
+   "text_te": "ఋషయ ఊచుః | అథ క్షేత్రాణి పుణ్యాని సమాసాత్కథయస్వ నః | సర్వాః స్త్రియశ్చ పురుషా యాన్యాశ్రిత్య పదం లభేత్",
+   "text_en": "ṛṣaya ūcuḥ | atha kṣetrāṇi puṇyāni samāsātkathayasva naḥ | sarvāḥ striyaśca puruṣā yānyāśritya padaṁ labhet",
+   "mean_en": "The sages said: \"Now tell us briefly the meritorious holy places (kshetras), by resorting to which all women and men attain the supreme abode.\"",
+   "mean_te": "మహర్షులు అన్నారు: \"ఇక సంక్షిప్తంగా పుణ్యక్షేత్రాలను మాకు చెప్పు; ఏ క్షేత్రాలను ఆశ్రయించిన సర్వ స్త్రీపురుషులు పరమ పదాన్ని పొందుతారో.\""
+  }
+ ]
+}

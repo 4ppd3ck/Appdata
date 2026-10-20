@@ -1,0 +1,337 @@
+{
+ "kanda": "uma-samhita",
+ "n": 5,
+ "title_deva": "महापातकवर्णनम्",
+ "title_te": "మహాపాతకవర్ణనమ్",
+ "title_iast": "mahāpātakavarṇanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ये पापनिरता जीवा महानरकहेतवः | भगवंस्तान्समाचक्ष्व ब्रह्मपुत्र नमोऽस्तु ते",
+   "text_te": "యే పాపనిరతా జీవా మహానరకహేతవః | భగవంస్తాన్సమాచక్ష్వ బ్రహ్మపుత్ర నమోఽస్తు తే",
+   "text_en": "ye pāpaniratā jīvā mahānarakahetavaḥ | bhagavaṁstānsamācakṣva brahmaputra namo'stu te",
+   "mean_en": "The sages said: \"O blessed one, tell us of those beings given over to sin who are the causes of great hell. Salutations to you, O son of a brahmana!\"",
+   "mean_te": "ఋషులు అన్నారు: \"భగవాన్ (సూతా), బ్రాహ్మణపుత్రుడా, నీకు నమస్కారం! మహానరకాలకు కారణమయ్యే, పాపకర్మలలో నిమగ్నమైన జీవుల గురించి మాకు చెప్పు.\""
+  },
+  {
+   "n": 2,
+   "text_deva": "ये पापनिरता जीवा महानरकहेतवः | ते समासेन कथ्यंते सावधानतया शृणु",
+   "text_te": "యే పాపనిరతా జీవా మహానరకహేతవః | తే సమాసేన కథ్యంతే సావధానతయా శృణు",
+   "text_en": "ye pāpaniratā jīvā mahānarakahetavaḥ | te samāsena kathyaṁte sāvadhānatayā śṛṇu",
+   "mean_en": "\"Those beings engaged in sin who are the causes of great hell are described in brief — listen with full attention.\"",
+   "mean_te": "\"పాపకర్మలలో నిమగ్నమై, మహానరకాలకు కారణమయ్యే ఆ జీవుల గురించి సంక్షిప్తంగా చెప్పబడుతుంది — శ్రద్ధతో విను.\""
+  },
+  {
+   "n": 3,
+   "text_deva": "परस्त्रीद्रव्यसंकल्पश्चेतसाऽनिष्टचिंतनम् | अकार्याभिनिवेशश्च चतुर्द्धा कर्म मानसम्",
+   "text_te": "పరస్త్రీద్రవ్యసంకల్పశ్చేతసాఽనిష్టచింతనమ్ | అకార్యాభినివేశశ్చ చతుర్ద్ధా కర్మ మానసమ్",
+   "text_en": "parastrīdravyasaṁkalpaścetasā'niṣṭaciṁtanam | akāryābhiniveśaśca caturddhā karma mānasam",
+   "mean_en": "\"Conceiving desire for another's wife or another's wealth, harbouring harmful thoughts in the mind, and obsession with forbidden deeds — thus fourfold is the mental sin.\"",
+   "mean_te": "\"పరస్త్రీని, పరధనాన్ని గురించి సంకల్పించడం; మనసులో అనిష్టమైన (హానికరమైన) ఆలోచనలు చేయడం; చేయకూడని పనులపై ఆసక్తి — ఇలా నాలుగు విధాలుగా మానసిక పాపకర్మ ఉంటుంది.\""
+  },
+  {
+   "n": 4,
+   "text_deva": "तु. महाभारतम् अनुशासन १३.२ अविबद्धप्रलापत्वमसत्यं चाप्रियं च यत् | परोक्षतश्च पैशुन्यं चतुर्द्धा कर्म वाचिकम्",
+   "text_te": "తు. మహాభారతమ్ అనుశాసన १३.२ అవిబద్ధప్రలాపత్వమసత్యం చాప్రియం చ యత్ | పరోక్షతశ్చ పైశున్యం చతుర్ద్ధా కర్మ వాచికమ్",
+   "text_en": "tu. mahābhāratam anuśāsana १३.२ avibaddhapralāpatvamasatyaṁ cāpriyaṁ ca yat | parokṣataśca paiśunyaṁ caturddhā karma vācikam",
+   "mean_en": "\"Incoherent babbling, falsehood, speaking what is unpleasant, and backbiting behind one's back — fourfold is the verbal sin.\"",
+   "mean_te": "\"అసంబద్ధమైన ఉప్పొంగడం, అసత్యం పలకడం, అప్రియమైన మాటలు పలకడం, ఇతరుల గురించి వారి లేనిచోట నింద చేయడం — ఇలా నాలుగు విధాలుగా వాచిక పాపకర్మ ఉంటుంది.\""
+  },
+  {
+   "n": 5,
+   "text_deva": "अभक्ष्यभक्षणं हिंसा मिथ्याकार्य्य निवेशनम् | परस्वानामुपादानं चतुर्द्धा कर्म कायिकम्",
+   "text_te": "అభక్ష్యభక్షణం హింసా మిథ్యాకార్య్య నివేశనమ్ | పరస్వానాముపాదానం చతుర్ద్ధా కర్మ కాయికమ్",
+   "text_en": "abhakṣyabhakṣaṇaṁ hiṁsā mithyākāryya niveśanam | parasvānāmupādānaṁ caturddhā karma kāyikam",
+   "mean_en": "\"Eating what should not be eaten, committing violence, undertaking false deeds, seizing another's property — fourfold is the bodily sin.\"",
+   "mean_te": "\"భక్షించకూడనిది భక్షించడం, హింస చేయడం, మిథ్యా కార్యాలలో నిమగ్నమవ్వడం, పరస్వాన్ని (ఇతరుల ఆస్తిని) అపహరించడం — ఇలా నాలుగు విధాలుగా కాయిక పాపకర్మ ఉంటుంది.\""
+  },
+  {
+   "n": 6,
+   "text_deva": "इत्येतद्वा दशविधं कर्म प्रोक्तं त्रिसाधनम् | अस्य भेदान्पुनर्वक्ष्ये येषां फलमनंतकम्",
+   "text_te": "ఇత్యేతద్వా దశవిధం కర్మ ప్రోక్తం త్రిసాధనమ్ | అస్య భేదాన్పునర్వక్ష్యే యేషాం ఫలమనంతకమ్",
+   "text_en": "ityetadvā daśavidhaṁ karma proktaṁ trisādhanam | asya bhedānpunarvakṣye yeṣāṁ phalamanaṁtakam",
+   "mean_en": "Thus this tenfold karma, performed through the three instruments, has been declared; I shall again tell of its varieties, whose fruits are endless.",
+   "mean_te": "ఇలా ఈ పది విధమైన కర్మ, మూడు సాధనాల ద్వారా చేయబడుతుందని చెప్పబడింది; దాని భేదాలను — అనంత ఫలాలు కలిగినవి — మళ్ళీ చెప్తాను."
+  },
+  {
+   "n": 7,
+   "text_deva": "ये द्विषंति महादेवं संसारार्णवतारकम् | सुमहत्पातकं तेषां निरयार्णवगामिनाम्",
+   "text_te": "యే ద్విషంతి మహాదేవం సంసారార్ణవతారకమ్ | సుమహత్పాతకం తేషాం నిరయార్ణవగామినామ్",
+   "text_en": "ye dviṣaṁti mahādevaṁ saṁsārārṇavatārakam | sumahatpātakaṁ teṣāṁ nirayārṇavagāminām",
+   "mean_en": "\"Those who hate Mahadeva, the ferry that carries one across the ocean of worldly existence — theirs is a very great sin, leading to the ocean of hells.\"",
+   "mean_te": "\"సంసారసాగరాన్ని దాటించే మహాదేవుణ్ణి ద్వేషించేవారికి — నరకార్ణవంలోకి నడిపించే అత్యంత మహత్తరమైన పాపం ఉంటుంది.\""
+  },
+  {
+   "n": 8,
+   "text_deva": "ये शिवज्ञानवक्तारं निन्दंति च तपस्विनम् | गुरून्पितॄनथोन्मत्तास्ते यांति निरयार्णवम्",
+   "text_te": "యే శివజ్ఞానవక్తారం నిన్దంతి చ తపస్వినమ్ | గురూన్పితౄనథోన్మత్తాస్తే యాంతి నిరయార్ణవమ్",
+   "text_en": "ye śivajñānavaktāraṁ nindaṁti ca tapasvinam | gurūnpitṝnathonmattāste yāṁti nirayārṇavam",
+   "mean_en": "\"Those who revile the expounder of Shiva-knowledge and the tapasvi; those who are mad against their gurus and ancestors — they go to the ocean of hell.\"",
+   "mean_te": "\"శివజ్ఞానాన్ని బోధించేవాడినీ, తపస్వినినీ నిందించేవారు; గురువులకు, పితరులకు వ్యతిరేకంగా ఉన్మాదగ్రస్తులైనవారు — వారు నరకార్ణవానికి పోతారు.\""
+  },
+  {
+   "n": 9,
+   "text_deva": "शिवनिन्दा गुरोर्निन्दा शिवज्ञानस्य दूषणम् | देवद्रव्यापहरणं द्विजद्रव्यविनाशनम्",
+   "text_te": "శివనిన్దా గురోర్నిన్దా శివజ్ఞానస్య దూషణమ్ | దేవద్రవ్యాపహరణం ద్విజద్రవ్యవినాశనమ్",
+   "text_en": "śivanindā gurornindā śivajñānasya dūṣaṇam | devadravyāpaharaṇaṁ dvijadravyavināśanam",
+   "mean_en": "\"Blaspheming Shiva, blaspheming the guru, defiling the Shiva-knowledge, stealing the property of the gods, destroying a brahmin's property —",
+   "mean_te": "\"శివుని నిందించడం, గురువును నిందించడం, శివజ్ఞానాన్ని దూషించడం, దేవతల సొత్తును అపహరించడం, ద్విజుల (బ్రాహ్మణుల) సొత్తును నాశనం చేయడం —\""
+  },
+  {
+   "n": 10,
+   "text_deva": "हरंति ये च संमूढाश्शिवज्ञानस्य पुस्तकम् | महांति पातकान्याहुरनन्तफलदानि षट्",
+   "text_te": "హరంతి యే చ సంమూఢాశ్శివజ్ఞానస్య పుస్తకమ్ | మహాంతి పాతకాన్యాహురనన్తఫలదాని షట్",
+   "text_en": "haraṁti ye ca saṁmūḍhāśśivajñānasya pustakam | mahāṁti pātakānyāhuranantaphaladāni ṣaṭ",
+   "mean_en": "\"and those who steal away the book of Shiva-knowledge, deluded ones — these six are declared great sins, yielding endless fruits.\"",
+   "mean_te": "\"మోహగ్రస్తులై శివజ్ఞాన గ్రంథాన్ని అపహరించేవారు — ఈ ఆరు మహాపాతకాలుగా చెప్పబడ్డాయి; అవి అనంత ఫలాలను ఇస్తాయి.\""
+  },
+  {
+   "n": 11,
+   "text_deva": "नाभिनन्दंति ये दृष्ट्वा शिवपूजां प्रकल्पिताम् | न नमंत्यर्चितं दृष्ट्वा शिवलिंगं स्तुवंति न",
+   "text_te": "నాభినన్దంతి యే దృష్ట్వా శివపూజాం ప్రకల్పితామ్ | న నమంత్యర్చితం దృష్ట్వా శివలింగం స్తువంతి న",
+   "text_en": "nābhinandaṁti ye dṛṣṭvā śivapūjāṁ prakalpitām | na namaṁtyarcitaṁ dṛṣṭvā śivaliṁgaṁ stuvaṁti na",
+   "mean_en": "\"Those who, on seeing Shiva's worship performed, do not rejoice; who do not bow to the worshipped Shiva-linga, nor praise it —\"",
+   "mean_te": "\"శివపూజ జరుగుతుండగా చూసి సంతోషించనివారు; పూజింపబడిన శివలింగాన్ని చూసి నమస్కరించనివారు, స్తుతించనివారు —\""
+  },
+  {
+   "n": 12,
+   "text_deva": "यथेष्टचेष्टा निश्शंकास्संतिष्ठंते रमंति च | उपचारविनिर्मुक्ताश्शिवाग्रे गुरुसन्निधौ",
+   "text_te": "యథేష్టచేష్టా నిశ్శంకాస్సంతిష్ఠంతే రమంతి చ | ఉపచారవినిర్ముక్తాశ్శివాగ్రే గురుసన్నిధౌ",
+   "text_en": "yatheṣṭaceṣṭā niśśaṁkāssaṁtiṣṭhaṁte ramaṁti ca | upacāravinirmuktāśśivāgre gurusannidhau",
+   "mean_en": "\"who, acting at their will without restraint, sit at their ease, exempting themselves from the honours due before Shiva and in the guru's presence —\"",
+   "mean_te": "\"శివుని ఎదుట, గురువు సన్నిధిలో చేయాల్సిన ఉపచారాలను విడిచి, కోరిక వచ్చినట్టు నిర్భయంగా ప్రవర్తించి, సుఖంగా ఉండేవారు —\""
+  },
+  {
+   "n": 13,
+   "text_deva": "स्थानसंस्कारपूजां च ये न कुर्वंति पर्वसु | विधिवद्वा गुरूणां च कर्म्मयोगव्यवस्थिताः",
+   "text_te": "స్థానసంస్కారపూజాం చ యే న కుర్వంతి పర్వసు | విధివద్వా గురూణాం చ కర్మ్మయోగవ్యవస్థితాః",
+   "text_en": "sthānasaṁskārapūjāṁ ca ye na kurvaṁti parvasu | vidhivadvā gurūṇāṁ ca karmmayogavyavasthitāḥ",
+   "mean_en": "\"who do not perform the sanctification and worship of the place on festival days, nor duly honour the gurus, being wholly absorbed in their own work —\"",
+   "mean_te": "\"పర్వకాలాల్లో స్థల సంస్కారాన్నీ, పూజను చేయనివారు; గురువులను విధిపూర్వకంగా పూజించక, కేవలం కర్మలోయే నిమగ్నమైనవారు —\""
+  },
+  {
+   "n": 14,
+   "text_deva": "ये त्यजंति शिवाचारं शिवभक्तान्द्विषंति च | असंपूज्य शिवज्ञानं येऽधीयंते लिखंति च",
+   "text_te": "యే త్యజంతి శివాచారం శివభక్తాన్ద్విషంతి చ | అసంపూజ్య శివజ్ఞానం యేఽధీయంతే లిఖంతి చ",
+   "text_en": "ye tyajaṁti śivācāraṁ śivabhaktāndviṣaṁti ca | asaṁpūjya śivajñānaṁ ye'dhīyaṁte likhaṁti ca",
+   "mean_en": "\"those who abandon the Shaiva conduct, who hate Shiva's devotees; who, without worshipping it, study or copy out the Shiva-knowledge —\"",
+   "mean_te": "\"శివాచారాన్ని వదిలేసేవారు, శివభక్తులను ద్వేషించేవారు; పూజించకుండానే శివజ్ఞానాన్ని చదివేవారు, రాసేవారు —\""
+  },
+  {
+   "n": 15,
+   "text_deva": "अन्यायतः प्रयच्छंति शृण्वन्त्युच्चारयंति च | विक्रीडंति च लोभेन कुज्ञाननियमेन च",
+   "text_te": "అన్యాయతః ప్రయచ్ఛంతి శృణ్వన్త్యుచ్చారయంతి చ | విక్రీడంతి చ లోభేన కుజ్ఞాననియమేన చ",
+   "text_en": "anyāyataḥ prayacchaṁti śṛṇvantyuccārayaṁti ca | vikrīḍaṁti ca lobhena kujñānaniyamena ca",
+   "mean_en": "\"who impart it unlawfully, who hear and recite it without rule, who treat it lightly out of greed, with wrong knowledge and wrong discipline —\"",
+   "mean_te": "\"దానిని అన్యాయంగా ఇతరులకు చెప్పేవారు, నియమం లేకుండా వినేవారు, పఠించేవారు; లోభంతో, తప్పు జ్ఞానంతో, తప్పు నియమంతో అది పట్టించుకోకుండా ఉండేవారు —\""
+  },
+  {
+   "n": 16,
+   "text_deva": "असंस्कृतप्रदेशेषु यथेष्टं स्वापयंति च | शिवज्ञानकथाऽऽक्षेपं यः कृत्वान्यत्प्रभाषते",
+   "text_te": "అసంస్కృతప్రదేశేషు యథేష్టం స్వాపయంతి చ | శివజ్ఞానకథాఽఽక్షేపం యః కృత్వాన్యత్ప్రభాషతే",
+   "text_en": "asaṁskṛtapradeśeṣu yatheṣṭaṁ svāpayaṁti ca | śivajñānakathā''kṣepaṁ yaḥ kṛtvānyatprabhāṣate",
+   "mean_en": "\"who let it lie neglected in places that are not sanctified; who, having spoken against the tale of Shiva-knowledge, turn to talk of other things —\"",
+   "mean_te": "\"సంస్కారం లేని చోట్ల దాన్ని కోరిక వచ్చినట్టు పడేసేవారు; శివజ్ఞాన కథను విమర్శించి, వేరే మాటలు మాట్లాడేవారు —\""
+  },
+  {
+   "n": 17,
+   "text_deva": "न ब्रवीति च यः सत्यं न प्रदानं करोति च | अशुचिर्वाऽशुचिस्थाने यः प्रवक्ति शृणोति च",
+   "text_te": "న బ్రవీతి చ యః సత్యం న ప్రదానం కరోతి చ | అశుచిర్వాఽశుచిస్థానే యః ప్రవక్తి శృణోతి చ",
+   "text_en": "na bravīti ca yaḥ satyaṁ na pradānaṁ karoti ca | aśucirvā'śucisthāne yaḥ pravakti śṛṇoti ca",
+   "mean_en": "\"who do not speak the truth, who do not give in charity; who are impure themselves or in impure places yet speak or hear [the Shastra] —\"",
+   "mean_te": "\"సత్యం పలకనివారు, దానం చేయనివారు; అపవిత్రులై గాని, అపవిత్ర స్థలాలలో గాని [శాస్త్రాన్ని] చెప్పేవారు, వినేవారు —\""
+  },
+  {
+   "n": 18,
+   "text_deva": "गुरुपूजामकृत्वैव यश्शास्त्रं श्रोतुमिच्छति | न करोति च शुश्रूषामाज्ञां च भक्तिभावतः",
+   "text_te": "గురుపూజామకృత్వైవ యశ్శాస్త్రం శ్రోతుమిచ్ఛతి | న కరోతి చ శుశ్రూషామాజ్ఞాం చ భక్తిభావతః",
+   "text_en": "gurupūjāmakṛtvaiva yaśśāstraṁ śrotumicchati | na karoti ca śuśrūṣāmājñāṁ ca bhaktibhāvataḥ",
+   "mean_en": "\"who wish to hear the Shastra without first worshipping the guru; who render him no service and do not obey his command with devotion —\"",
+   "mean_te": "\"గురుపూజ చేయకుండానే శాస్త్రాన్ని వినాలని కోరేవారు; గురువుకు సేవ చేయనివారు, భక్తిభావంతో ఆయన ఆజ్ఞను పాటించనివారు —\""
+  },
+  {
+   "n": 19,
+   "text_deva": "नाभिनन्दंति तद्वाक्यमुत्तरं च प्रयच्छति | गुरुकर्मण्यसाध्यं यत्तदुपेक्षां करोति च",
+   "text_te": "నాభినన్దంతి తద్వాక్యముత్తరం చ ప్రయచ్ఛతి | గురుకర్మణ్యసాధ్యం యత్తదుపేక్షాం కరోతి చ",
+   "text_en": "nābhinandaṁti tadvākyamuttaraṁ ca prayacchati | gurukarmaṇyasādhyaṁ yattadupekṣāṁ karoti ca",
+   "mean_en": "\"who do not delight in the guru's words and give no reply to them; who neglect the task that the guru has entrusted to them —\"",
+   "mean_te": "\"గురువు మాటలలో ఆనందించనివారు, వాటికి జవాబివ్వనివారు; గురువు అప్పగించిన కార్యాన్ని నిర్లక్ష్యం చేసేవారు —\""
+  },
+  {
+   "n": 20,
+   "text_deva": "गुरुमार्त्तमशक्तं च विदेशं प्रस्थितं तथा | वैरिभिः परिभूतं वा यस्संत्यजति पापकृत्",
+   "text_te": "గురుమార్త్తమశక్తం చ విదేశం ప్రస్థితం తథా | వైరిభిః పరిభూతం వా యస్సంత్యజతి పాపకృత్",
+   "text_en": "gurumārttamaśaktaṁ ca videśaṁ prasthitaṁ tathā | vairibhiḥ paribhūtaṁ vā yassaṁtyajati pāpakṛt",
+   "mean_en": "\"who abandon the guru when he is ill, or when he journeys to another land, or when he is humiliated by his enemies — those sinners —\"",
+   "mean_te": "\"గురువు అనారోగ్యంలో ఉన్నప్పుడు, దేశాంతరాలకు వెళ్లినప్పుడు, శత్రువులచే అవమానపడినప్పుడు అతన్ని వదిలేసేవారు — ఆ పాపకారులు —\""
+  },
+  {
+   "n": 21,
+   "text_deva": "तद्भार्य्यापुत्रमित्रेषु यश्चावज्ञां करोति च | एवं सुवाचकस्यापि गुरोर्धर्मानुदर्शिनः",
+   "text_te": "తద్భార్య్యాపుత్రమిత్రేషు యశ్చావజ్ఞాం కరోతి చ | ఏవం సువాచకస్యాపి గురోర్ధర్మానుదర్శినః",
+   "text_en": "tadbhāryyāputramitreṣu yaścāvajñāṁ karoti ca | evaṁ suvācakasyāpi gurordharmānudarśinaḥ",
+   "mean_en": "\"who show disrespect to the guru's wife, his sons and his friends — even though the guru is a good teacher who shows the way of dharma.\"",
+   "mean_te": "\"గురువు భార్య, పుత్రులు, మిత్రుల పట్ల అవమానం చూపేవారు — అలాంటి గురువు సుభాషి అయి, ధర్మాన్ని చూపించేవాడైనా.\""
+  },
+  {
+   "n": 22,
+   "text_deva": "एतानि खलु सर्वाणि कर्माणि मुनिसत्तम | सुमहत्पातकान्याहुश्शिवनिन्दासमानि च",
+   "text_te": "ఏతాని ఖలు సర్వాణి కర్మాణి మునిసత్తమ | సుమహత్పాతకాన్యాహుశ్శివనిన్దాసమాని చ",
+   "text_en": "etāni khalu sarvāṇi karmāṇi munisattama | sumahatpātakānyāhuśśivanindāsamāni ca",
+   "mean_en": "All these actions, O best of sages, are declared very great sins, equal to blaspheming Shiva.",
+   "mean_te": "ఈ కర్మలన్నీ, మునిశ్రేష్ఠా, శివనిందకు తుల్యమైన, అత్యంత మహత్తరమైన పాతకాలుగా చెప్పబడ్డాయి."
+  },
+  {
+   "n": 23,
+   "text_deva": "ब्रह्मघ्नश्च सुरापश्च स्तेयी च गुरुतल्पगः | महापातकिनस्त्वेते तत्संयोगी च पंचमः",
+   "text_te": "బ్రహ్మఘ్నశ్చ సురాపశ్చ స్తేయీ చ గురుతల్పగః | మహాపాతకినస్త్వేతే తత్సంయోగీ చ పంచమః",
+   "text_en": "brahmaghnaśca surāpaśca steyī ca gurutalpagaḥ | mahāpātakinastvete tatsaṁyogī ca paṁcamaḥ",
+   "mean_en": "\"The slayer of a brahmin, the drinker of liquor, the thief, and the violator of the guru's bed — these are the mahapatakins, and the fifth is he who keeps company with them.\"",
+   "mean_te": "\"బ్రహ్మఘాతకుడు (బ్రాహ్మణహంత), సురాపాని (మద్యపాని), దొంగ, గురుపత్నిని అగౌరవించేవాడు — వీరు మహాపాతకులు; ఐదోవాడు వారితో సహవాసం చేసేవాడు.\""
+  },
+  {
+   "n": 24,
+   "text_deva": "क्रोधाल्लोभाद्भयाद्द्वेषाद्ब्राह्मणस्य वधे तु यः | मर्मांतिकं महादोषमुक्त्वा स ब्रह्महा भवेत्",
+   "text_te": "క్రోధాల్లోభాద్భయాద్ద్వేషాద్బ్రాహ్మణస్య వధే తు యః | మర్మాంతికం మహాదోషముక్త్వా స బ్రహ్మహా భవేత్",
+   "text_en": "krodhāllobhādbhayāddveṣādbrāhmaṇasya vadhe tu yaḥ | marmāṁtikaṁ mahādoṣamuktvā sa brahmahā bhavet",
+   "mean_en": "\"He who kills a brahmin out of anger, greed, fear or hatred, striking a vital part, commits a great sin and becomes a slayer of brahmins.\"",
+   "mean_te": "\"క్రోధంతో, లోభంతో, భయంతో, ద్వేషంతో బ్రాహ్మణుణ్ణి మర్మాంతంగా (ప్రాణాధార స్థానంలో) వధించేవాడు మహాదోషం చేసి బ్రహ్మఘాతకుడు అవుతాడు.\""
+  },
+  {
+   "n": 25,
+   "text_deva": "ब्राह्मणं यः समाहूय दत्त्वा यश्चाददाति च | निर्द्दोषं दूषयेद्यस्तु स नरो ब्रह्महा भवेत्",
+   "text_te": "బ్రాహ్మణం యః సమాహూయ దత్త్వా యశ్చాదదాతి చ | నిర్ద్దోషం దూషయేద్యస్తు స నరో బ్రహ్మహా భవేత్",
+   "text_en": "brāhmaṇaṁ yaḥ samāhūya dattvā yaścādadāti ca | nirddoṣaṁ dūṣayedyastu sa naro brahmahā bhavet",
+   "mean_en": "\"He who summons a brahmin, gives to him and then takes back; who defames the innocent — that man becomes a slayer of brahmins.\"",
+   "mean_te": "\"బ్రాహ్మణుణ్ణి పిలిపించి, దానమిచ్చి, మళ్ళీ అపహరించేవాడు; నిర్దోషిని దూషించేవాడు — ఆ మనిషి బ్రహ్మఘాతకుడు అవుతాడు.\""
+  },
+  {
+   "n": 26,
+   "text_deva": "यश्च विद्याभिमानेन निस्तेजयति सुद्विजम् | उदासीनं सभामध्ये ब्रह्महा स प्रकीर्तितः",
+   "text_te": "యశ్చ విద్యాభిమానేన నిస్తేజయతి సుద్విజమ్ | ఉదాసీనం సభామధ్యే బ్రహ్మహా స ప్రకీర్తితః",
+   "text_en": "yaśca vidyābhimānena nistejayati sudvijam | udāsīnaṁ sabhāmadhye brahmahā sa prakīrtitaḥ",
+   "mean_en": "\"He who, out of pride in his learning, humiliates a learned brahmin, standing indifferent in the midst of the assembly — he is called a slayer of brahmins.\"",
+   "mean_te": "\"విద్యాగర్వంతో పండితోడైన ద్విజుణ్ణి సభామధ్యంలో ఉదాసీనుడై అవమానపరచేవాడు — అతడు బ్రహ్మఘాతకుడిగా ప్రసిద్ధుడు.\""
+  },
+  {
+   "n": 27,
+   "text_deva": "मिथ्यागुणैर्य आत्मानं नयत्युत्कर्षतां बलात् | गुणानपि निरुद्वास्य स च वै ब्रह्महा भवेत्",
+   "text_te": "మిథ్యాగుణైర్య ఆత్మానం నయత్యుత్కర్షతాం బలాత్ | గుణానపి నిరుద్వాస్య స చ వై బ్రహ్మహా భవేత్",
+   "text_en": "mithyāguṇairya ātmānaṁ nayatyutkarṣatāṁ balāt | guṇānapi nirudvāsya sa ca vai brahmahā bhavet",
+   "mean_en": "\"He who by false virtues forcibly exalts himself, thrusting out even the true merits of others — he too becomes a slayer of brahmins.\"",
+   "mean_te": "\"మిథ్యాగుణాలతో బలవంతంగా తనను తాను ఉత్కర్షింపజేసుకుని, ఇతరుల నిజమైన గుణాలను కూడా దూరం చేసేవాడు — అతడు కూడా బ్రహ్మఘాతకుడు అవుతాడు.\""
+  },
+  {
+   "n": 28,
+   "text_deva": "गवां वृषाभिभूतानां द्विजानां गुरुपूर्वकम् | यस्समाचरते विप्र तमाहुर्ब्रह्मघातकम्",
+   "text_te": "గవాం వృషాభిభూతానాం ద్విజానాం గురుపూర్వకమ్ | యస్సమాచరతే విప్ర తమాహుర్బ్రహ్మఘాతకమ్",
+   "text_en": "gavāṁ vṛṣābhibhūtānāṁ dvijānāṁ gurupūrvakam | yassamācarate vipra tamāhurbrahmaghātakam",
+   "mean_en": "\"He who mistreats cows oppressed by bulls, or brahmins — the guru above all — O brahmin, him they call a slayer of brahmins.\"",
+   "mean_te": "\"గోవులను (వృషభాల చేత పీడింపబడిన వాటిని), ద్విజులను — గురువును ముందుంచి — వేధించేవాడు, విప్రా, అతడు బ్రహ్మఘాతకుడిగా చెప్పబడతాడు.\""
+  },
+  {
+   "n": 29,
+   "text_deva": "देवद्विजगवां भूमिं प्रदत्तां हरते तु यः | प्रनष्टामपि कालेन तमाहुर्ब्रह्मघातकम्",
+   "text_te": "దేవద్విజగవాం భూమిం ప్రదత్తాం హరతే తు యః | ప్రనష్టామపి కాలేన తమాహుర్బ్రహ్మఘాతకమ్",
+   "text_en": "devadvijagavāṁ bhūmiṁ pradattāṁ harate tu yaḥ | pranaṣṭāmapi kālena tamāhurbrahmaghātakam",
+   "mean_en": "\"He who takes away land given to gods, brahmins or cows, even though it be long lost — him they call a slayer of brahmins.\"",
+   "mean_te": "\"దేవులకు, ద్విజులకు, గోవులకు దానం చేసిన భూమిని — కాలక్రమేణా నష్టమైనదైనా — అపహరించేవాడు, అతడు బ్రహ్మఘాతకుడిగా చెప్పబడతాడు.\""
+  },
+  {
+   "n": 30,
+   "text_deva": "देवद्विजस्वहरणमन्यायेनार्जितं तु यत् | ब्रह्महत्यासमं ज्ञेयं पातकं नात्र संशयः",
+   "text_te": "దేవద్విజస్వహరణమన్యాయేనార్జితం తు యత్ | బ్రహ్మహత్యాసమం జ్ఞేయం పాతకం నాత్ర సంశయః",
+   "text_en": "devadvijasvaharaṇamanyāyenārjitaṁ tu yat | brahmahatyāsamaṁ jñeyaṁ pātakaṁ nātra saṁśayaḥ",
+   "mean_en": "\"Theft of the property of gods or brahmins, and wealth unjustly acquired — is to be known as equal to the slaying of a brahmin; of this sin there is no doubt.\"",
+   "mean_te": "\"దేవ-ద్విజ సొత్తులను అపహరించడం, అన్యాయంగా సంపాదించడం — అది బ్రహ్మహత్యకు సమానమైన పాతకమని తెలుసుకోవాలి; దీనిలో సందేహం లేదు.\""
+  },
+  {
+   "n": 31,
+   "text_deva": "अधीत्य यो द्विजो वेदं ब्रह्मज्ञानं शिवात्मकम् | यदि त्यजति यो मूढः सुरापानस्य तत्समम्",
+   "text_te": "అధీత్య యో ద్విజో వేదం బ్రహ్మజ్ఞానం శివాత్మకమ్ | యది త్యజతి యో మూఢః సురాపానస్య తత్సమమ్",
+   "text_en": "adhītya yo dvijo vedaṁ brahmajñānaṁ śivātmakam | yadi tyajati yo mūḍhaḥ surāpānasya tatsamam",
+   "mean_en": "\"He who, having studied the Veda and the Brahma-knowledge of Shiva's nature, foolishly abandons it — his sin is equal to drinking liquor.\"",
+   "mean_te": "\"వేదాన్ని, శివాత్మకమైన బ్రహ్మజ్ఞానాన్ని అధ్యయనం చేసి, మూఢుడై దాన్ని వదిలేసేవాడు — అతని పాపం సురాపానానికి సమానం.\""
+  },
+  {
+   "n": 32,
+   "text_deva": "यत्किंचिद्धि व्रतं गृह्य नियमं यजनं तथा | संत्यागः पञ्चयज्ञानां सुरापानस्य तत्समम्",
+   "text_te": "యత్కించిద్ధి వ్రతం గృహ్య నియమం యజనం తథా | సంత్యాగః పఞ్చయజ్ఞానాం సురాపానస్య తత్సమమ్",
+   "text_en": "yatkiṁciddhi vrataṁ gṛhya niyamaṁ yajanaṁ tathā | saṁtyāgaḥ pañcayajñānāṁ surāpānasya tatsamam",
+   "mean_en": "\"Whatever vow, observance, or sacrifice one has undertaken and then abandons; and the abandonment of the five great sacrifices — that is equal to drinking liquor.\"",
+   "mean_te": "\"గ్రహించిన ఏ వ్రతమైనా, నియమమైనా, యజ్ఞమైనా వదిలేయడం; అలాగే పంచమహాయజ్ఞాలను వదిలేయడం — అది సురాపానానికి సమానం.\""
+  },
+  {
+   "n": 33,
+   "text_deva": "पितृमातृपरित्यागः कूटसाक्ष्यं द्विजानृतम् | आमिषं शिवभक्तानामभक्ष्यस्य च भक्षणम्",
+   "text_te": "పితృమాతృపరిత్యాగః కూటసాక్ష్యం ద్విజానృతమ్ | ఆమిషం శివభక్తానామభక్ష్యస్య చ భక్షణమ్",
+   "text_en": "pitṛmātṛparityāgaḥ kūṭasākṣyaṁ dvijānṛtam | āmiṣaṁ śivabhaktānāmabhakṣyasya ca bhakṣaṇam",
+   "mean_en": "\"Abandoning one's father or mother; bearing false witness; lying to brahmins; the eating of meat by Shiva's devotees; and the eating of forbidden food.\"",
+   "mean_te": "\"తండ్రి, తల్లిలను వదిలేయడం; కూటసాక్ష్యం (నకిలీ సాక్ష్యం) చెప్పడం; ద్విజులకు అసత్యం పలకడం; శివభక్తులు మాంసాన్ని తినడం; భక్షించకూడనిది భక్షించడం.\""
+  },
+  {
+   "n": 34,
+   "text_deva": "वने निरपराधानां प्राणिनां चापघातनम् | द्विजार्थं प्रक्षिपेत्साधुर्न धर्मार्थं नियोजयेत्",
+   "text_te": "వనే నిరపరాధానాం ప్రాణినాం చాపఘాతనమ్ | ద్విజార్థం ప్రక్షిపేత్సాధుర్న ధర్మార్థం నియోజయేత్",
+   "text_en": "vane niraparādhānāṁ prāṇināṁ cāpaghātanam | dvijārthaṁ prakṣipetsādhurna dharmārthaṁ niyojayet",
+   "mean_en": "\"Slaying in the forest blameless, innocent creatures; and casting [one's charge] to a brahmin for gain instead of entrusting him for the sake of dharma.\"",
+   "mean_te": "\"వనంలో నిరపరాధులైన ప్రాణులను వధించడం; ధర్మం కోసం కాకుండా ద్విజుల కోసం (లాభం కోసం) అప్పగించడం.\""
+  },
+  {
+   "n": 35,
+   "text_deva": "गवां मार्गे वने ग्रामे यैश्चैवाग्निः प्रदीयते | इति पापानि घोराणि ब्रह्महत्यासमानि च",
+   "text_te": "గవాం మార్గే వనే గ్రామే యైశ్చైవాగ్నిః ప్రదీయతే | ఇతి పాపాని ఘోరాణి బ్రహ్మహత్యాసమాని చ",
+   "text_en": "gavāṁ mārge vane grāme yaiścaivāgniḥ pradīyate | iti pāpāni ghorāṇi brahmahatyāsamāni ca",
+   "mean_en": "\"Setting fire on the path of cows, in the forest, or in the village, so that it may harm them — these terrible sins are equal to the slaying of a brahmin.\"",
+   "mean_te": "\"గోవుల బాటలో, వనంలో, గ్రామంలో అగ్నిని ప్రజ్వలింపజేయడం (వాటికి హాని కలిగించేలా) — ఇలా ఈ ఘోరమైన పాపాలు బ్రహ్మహత్యకు సమానమైనవి.\"\""
+  },
+  {
+   "n": 36,
+   "text_deva": "दीनसर्वस्वहरणं नरस्त्रीगजवाजिनाम् | गोभूरजतवस्त्राणामौषधीनां रसस्य च",
+   "text_te": "దీనసర్వస్వహరణం నరస్త్రీగజవాజినామ్ | గోభూరజతవస్త్రాణామౌషధీనాం రసస్య చ",
+   "text_en": "dīnasarvasvaharaṇaṁ narastrīgajavājinām | gobhūrajatavastrāṇāmauṣadhīnāṁ rasasya ca",
+   "mean_en": "\"Robbing the poor of all their wealth — of men, women, elephants and horses; of cows, land, silver, cloth, medicines and precious liquids.\"",
+   "mean_te": "\"దీనుల సర్వస్వాన్ని అపహరించడం — నరుల, స్త్రీల, గజుల, గుర్రాల సొత్తును; గోవుల, భూమి, వెండి, వస్త్రాల, ఔషధాల, రసాల (అమూల్య ద్రవాల) సొత్తును.\""
+  },
+  {
+   "n": 37,
+   "text_deva": "चन्दनागरुकर्पूरकस्तूरीपट्टवाससाम् | विक्रयस्त्वविपत्तौ यः कृतो ज्ञानाद् द्विजातिभिः",
+   "text_te": "చన్దనాగరుకర్పూరకస్తూరీపట్టవాససామ్ | విక్రయస్త్వవిపత్తౌ యః కృతో జ్ఞానాద్ ద్విజాతిభిః",
+   "text_en": "candanāgarukarpūrakastūrīpaṭṭavāsasām | vikrayastvavipattau yaḥ kṛto jñānād dvijātibhiḥ",
+   "mean_en": "\"Sandalwood, agaru, camphor, musk, silk and fine cloth — their sale by brahmins when not compelled by calamity, done knowingly for gain.\"",
+   "mean_te": "\"చందనం, అగరు, కర్పూరం, కస్తూరి, పట్టు, వస్త్రాలను ఆపద లేనప్పుడు జ్ఞానంతో (తెలిసీ) ద్విజాతులు విక్రయించడం.\"\""
+  },
+  {
+   "n": 38,
+   "text_deva": "हस्तन्यासापहरणं रुक्मस्तेयसमं स्मृतम् | कन्यानां वरयोग्यानामदानं सदृशे वरे",
+   "text_te": "హస్తన్యాసాపహరణం రుక్మస్తేయసమం స్మృతమ్ | కన్యానాం వరయోగ్యానామదానం సదృశే వరే",
+   "text_en": "hastanyāsāpaharaṇaṁ rukmasteyasamaṁ smṛtam | kanyānāṁ varayogyānāmadānaṁ sadṛśe vare",
+   "mean_en": "\"Taking back what was pledged by one's own hand is held equal to stealing gold; and giving a maiden fit for a worthy groom to an unsuitable one.\"",
+   "mean_te": "\"చేత ఇచ్చిన (పణంగా పెట్టిన) ధనాన్ని తిరిగి అపహరించడం బంగారు దొంగతనానికి సమానంగా స్మరించబడుతుంది; వరానికి యోగ్యురాలైన కన్యను యోగ్యత లేనివానికి ఇవ్వడం.\""
+  },
+  {
+   "n": 39,
+   "text_deva": "पुत्रमित्रकलत्रेषु गमनं भगिनीषु च | कुमारीसाहसं घोरमद्यपस्त्रीनिषेवणम्",
+   "text_te": "పుత్రమిత్రకలత్రేషు గమనం భగినీషు చ | కుమారీసాహసం ఘోరమద్యపస్త్రీనిషేవణమ్",
+   "text_en": "putramitrakalatreṣu gamanaṁ bhaginīṣu ca | kumārīsāhasaṁ ghoramadyapastrīniṣevaṇam",
+   "mean_en": "\"Approaching the wife of one's son or friend; union with one's sisters; the dreadful violation of a maiden; and serving the wife of one's disciple.\"",
+   "mean_te": "\"పుత్రుల, మిత్రుల, భార్యల వద్దకు వెళ్లడం; సోదరీమణులతో సంబంధం; భీకరమైన కుమారిపీడనం; శిష్యుని భార్యను సేవించడం.\""
+  },
+  {
+   "n": 40,
+   "text_deva": "सवर्णायाश्च गमनं गुरुभार्य्यासमं स्मृतम् | महापापानि चोक्तानि शृणु त्वमुपपातकम्",
+   "text_te": "సవర్ణాయాశ్చ గమనం గురుభార్య్యాసమం స్మృతమ్ | మహాపాపాని చోక్తాని శృణు త్వముపపాతకమ్",
+   "text_en": "savarṇāyāśca gamanaṁ gurubhāryyāsamaṁ smṛtam | mahāpāpāni coktāni śṛṇu tvamupapātakam",
+   "mean_en": "\"Approaching the wife of another of one's own caste is held equal to [approaching] the guru's wife. These great sins have been told — now listen to the upapatakas (minor sins).\"",
+   "mean_te": "\"స్వజాతి స్త్రీ అయినా పరపురుషుడి భార్యను ఆశ్రయించడం గురుభార్యాగమనానికి సమానంగా స్మరించబడుతుంది. ఈ మహాపాపాలు చెప్పబడ్డాయి — ఇప్పుడు నువ్వు ఉపపాతకాలు విను.\""
+  },
+  {
+   "n": 41,
+   "text_deva": "इति श्रीशिवमहापुराणे पंचम्यामुमासंहितायां महापातकवर्णनं नाम पंचमोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే పంచమ్యాముమాసంహితాయాం మహాపాతకవర్ణనం నామ పంచమోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe paṁcamyāmumāsaṁhitāyāṁ mahāpātakavarṇanaṁ nāma paṁcamo'dhyāyaḥ",
+   "mean_en": "Thus ends the fifth chapter, called 'Mahapataka-varnana' (description of the great sins), in the Uma Samhita of the great Shiva Purana.",
+   "mean_te": "శ్రీ శివ మహాపురాణం — ఉమాసంహితలో 'మహాపాతకవర్ణనం' అనే ఐదో అధ్యాయం సమాప్తమైంది."
+  }
+ ]
+}

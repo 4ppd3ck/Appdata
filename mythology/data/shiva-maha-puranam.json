@@ -1,0 +1,162 @@
+{
+ "epics": {
+  "shiva-maha-puranam": {
+   "id": "shiva-maha-puranam",
+   "name": {
+    "en": "Shiva Mahapurana",
+    "te": "శివ మహా పురాణం"
+   },
+   "author": {
+    "en": "Veda Vyasa",
+    "te": "వేద వ్యాసుడు"
+   },
+   "unitLabel": {
+    "en": "Samhita",
+    "te": "సంహిత"
+   },
+   "labels": {
+    "sargaWord": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "sargaLabel": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "allSargas": {
+     "en": "All chapters",
+     "te": "అన్ని అధ్యాయాలు"
+    },
+    "browseSargas": {
+     "en": "Read by chapter",
+     "te": "అధ్యాయాలు చదవండి"
+    },
+    "sargasAvailable": {
+     "en": "chapters · read the whole samhita",
+     "te": "అధ్యాయాలు · పూర్తి సంహితను చదవండి"
+    },
+    "talePick": {
+     "en": "Open a chapter to read its tale as a flowing story.",
+     "te": "ఒక అధ్యాయాన్ని తెరిచి దాని కథను చదవండి."
+    },
+    "prevSarga": {
+     "en": "← Prev chapter",
+     "te": "← మునుపటి అధ్యాయం"
+    },
+    "nextSarga": {
+     "en": "Next chapter →",
+     "te": "తరువాతి అధ్యాయం →"
+    }
+   },
+   "planned": [
+    {
+     "en": "Rudra Samhita — the khandas of Sati, Parvati, Kumara and the war",
+     "te": "రుద్ర సంహిత — సతీ, పార్వతీ, కుమార, యుద్ధ ఖండాలు"
+    },
+    {
+     "en": "Kotirudra Samhita — Daksha's sacrifice and the great legends",
+     "te": "కోటిరుద్ర సంహిత — దక్ష యజ్ఞం, గొప్ప కథలు"
+    },
+    {
+     "en": "…and the remaining samhitas, chapter by chapter",
+     "te": "…మిగిలిన సంహితలు — అధ్యాయం అధ్యాయంగా"
+    }
+   ],
+   "sections": [
+    {
+     "id": "vidyesvara-samhita",
+     "n": 1,
+     "name": {
+      "en": "Vidyesvara Samhita",
+      "te": "విద్యేశ్వర సంహిత"
+     },
+     "title": {
+      "en": "The Samhita of the Lord of Knowledge",
+      "te": "జ్ఞాన స్వామి సంహిత"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — అర్థాలతో (vaidhikadharma.org నుండి); అధ్యాయాలు 1–12 పూర్తి పఠనంలో (మొత్తం 25).",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST) with authored meanings, from vaidhikadharma.org; adhyayas 1–12 fully readable (25 total)."
+    },
+    {
+     "id": "rudra-samhita",
+     "n": 2,
+     "name": {
+      "en": "Rudra Samhita",
+      "te": "రుద్ర సంహిత"
+     },
+     "title": {
+      "en": "Creation, Sati, Parvati, Kumara and the War",
+      "te": "సృష్టి, సతీ, పార్వతీ, కుమార, యుద్ధ ఖండాలు"
+     },
+     "comingSoon": true
+    },
+    {
+     "id": "shatarudra-samhita",
+     "n": 3,
+     "name": {
+      "en": "Shatarudra Samhita",
+      "te": "శతరుద్ర సంహిత"
+     },
+     "title": {
+      "en": "The Hundred Rudras",
+      "te": "వంద రుద్రుల సంహిత"
+     },
+     "comingSoon": true
+    },
+    {
+     "id": "kotirudra-samhita",
+     "n": 4,
+     "name": {
+      "en": "Kotirudra Samhita",
+      "te": "కోటిరుద్ర సంహిత"
+     },
+     "title": {
+      "en": "The Crore Rudras — the Great Legends",
+      "te": "కోటి రుద్రుల సంహిత — మహా కథలు"
+     },
+     "comingSoon": true
+    },
+    {
+     "id": "uma-samhita",
+     "n": 5,
+     "name": {
+      "en": "Uma Samhita",
+      "te": "ఉమా సంహిత"
+     },
+     "title": {
+      "en": "The Samhita of Uma — Devotion and Dharma",
+      "te": "ఉమా సంహిత — భక్తి, ధర్మం"
+     },
+     "comingSoon": true
+    },
+    {
+     "id": "kailasa-samhita",
+     "n": 6,
+     "name": {
+      "en": "Kailasa Samhita",
+      "te": "కైలాస సంహిత"
+     },
+     "title": {
+      "en": "The Samhita of Kailasa — Jnana and Yoga",
+      "te": "కైలాస సంహిత — జ్ఞానం, యోగం"
+     },
+     "comingSoon": true
+    },
+    {
+     "id": "vayaviya-samhita",
+     "n": 7,
+     "name": {
+      "en": "Vayaviya Samhita",
+      "te": "వాయవీయ సంహిత"
+     },
+     "title": {
+      "en": "The Samhita of Vayu — Linga Worship and Cosmology",
+      "te": "వాయవీయ సంహిత — లింగార్చన, సృష్టి విజ్ఞానం"
+     },
+     "comingSoon": true
+    }
+   ]
+  }
+ }
+}

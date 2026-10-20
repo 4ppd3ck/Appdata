@@ -1,0 +1,681 @@
+{
+ "kanda": "vidyesvara-samhita",
+ "n": 13,
+ "title_deva": "सदाचारं श्रावयाशु येन लोकाञ्जयेद्बुधः",
+ "title_te": "సదాచారం శ్రావయాశు యేన లోకాఞ్జయేద్బుధః",
+ "title_iast": "sadācāraṁ śrāvayāśu yena lokāñjayedbudhaḥ",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ऋषय ऊचुः सदाचारं श्रावयाशु येन लोकाञ्जयेद्बुधः | धर्माधर्ममयान्ब्रूहि स्वर्गनारकदांस्तथा",
+   "text_te": "ఋషయ ఊచుః సదాచారం శ్రావయాశు యేన లోకాఞ్జయేద్బుధః | ధర్మాధర్మమయాన్బ్రూహి స్వర్గనారకదాంస్తథా",
+   "text_en": "ṛṣaya ūcuḥ sadācāraṁ śrāvayāśu yena lokāñjayedbudhaḥ | dharmādharmamayānbrūhi svarganārakadāṁstathā",
+   "mean_en": "The sages ask Suta to quickly narrate good conduct (sadachara) by which a wise man can win over the worlds, and to tell what dharma and adharma are, as also what grants heaven and hell.",
+   "mean_te": "మహర్షులు అడిగారు: ఏ సదాచారం ద్వారా జ్ఞాని లోకాలను జయిస్తాడో, ధర్మాధర్మాలు ఏమిటో, స్వర్గనరకాలను కలిగించేవి ఏమిటో వెంటనే చెప్పమని వేడుకున్నారు."
+  },
+  {
+   "n": 2,
+   "text_deva": "सदाचारयुतो विद्वान्ब्राह्मणो नाम नामतः | वेदाचारयुतो विप्रो ह्येतैरेकैकवान्द्विजः",
+   "text_te": "సదాచారయుతో విద్వాన్బ్రాహ్మణో నామ నామతః | వేదాచారయుతో విప్రో హ్యేతైరేకైకవాన్ద్విజః",
+   "text_en": "sadācārayuto vidvānbrāhmaṇo nāma nāmataḥ | vedācārayuto vipro hyetairekaikavāndvijaḥ",
+   "mean_en": "One endowed with sadachara is in truth called a brahmana; a brahmana further adorned with Vedic conduct is a true twice-born. By these qualities, one by one, a person is known as a dwija.",
+   "mean_te": "సదాచారంతో కూడినవాడు నిజంగా బ్రాహ్మణుడు అని పేరు పొందుతాడు; వేదాచారంతో కూడిన విప్రుడే సజ్జనుడైన ద్విజుడు. ఈ గుణాల వల్ల ఒక్కొక్కరు ద్విజుడని పిలువబడతారు."
+  },
+  {
+   "n": 3,
+   "text_deva": "अल्पाचारोल्पवेदश्च क्षत्रियो राजसेवकः | किंचिदाचारवान्वैश्यः कृषिवाणिज्यकृत्तया",
+   "text_te": "అల్పాచారోల్పవేదశ్చ క్షత్రియో రాజసేవకః | కించిదాచారవాన్వైశ్యః కృషివాణిజ్యకృత్తయా",
+   "text_en": "alpācārolpavedaśca kṣatriyo rājasevakaḥ | kiṁcidācāravānvaiśyaḥ kṛṣivāṇijyakṛttayā",
+   "mean_en": "One with little conduct but master of the Vedas is a kshatriya serving kings; one with some conduct engaged in agriculture and trade is a vaishya.",
+   "mean_te": "తక్కువ ఆచారం కలిగి వేదాలలో ఆరితేరినవాడు రాజులకు సేవకుడైన క్షత్రియుడు; కొంత ఆచారం కలిగి వ్యవసాయ వాణిజ్యాలను చేసేవాడు వైశ్యుడు."
+  },
+  {
+   "n": 4,
+   "text_deva": "शूद्र ब्राह्मण इत्युक्तः स्वयमेव हि कर्षकः | असूयालुः परद्रो ही चंडालद्विज उच्यते",
+   "text_te": "శూద్ర బ్రాహ్మణ ఇత్యుక్తః స్వయమేవ హి కర్షకః | అసూయాలుః పరద్రో హీ చండాలద్విజ ఉచ్యతే",
+   "text_en": "śūdra brāhmaṇa ityuktaḥ svayameva hi karṣakaḥ | asūyāluḥ paradro hī caṁḍāladvija ucyate",
+   "mean_en": "One who himself tills the land is called a shudra or brahmana; a jealous person coveting another's wife is a brahmana turned chandala.",
+   "mean_te": "తానే పంటను పండించేవాడు శూద్రుడు లేదా బ్రాహ్మణుడని చెప్పబడ్డాడు; అసూయ కలిగి పరుల భార్యలను కోరే ద్విజుడు చండాలుడని పిలువబడతాడు."
+  },
+  {
+   "n": 5,
+   "text_deva": "पृथिवीपालको राजा इतरेक्षत्रिया मताः | धान्यादिक्रयवान्वैश्य इतरो वणिगुच्यते",
+   "text_te": "పృథివీపాలకో రాజా ఇతరేక్షత్రియా మతాః | ధాన్యాదిక్రయవాన్వైశ్య ఇతరో వణిగుచ్యతే",
+   "text_en": "pṛthivīpālako rājā itarekṣatriyā matāḥ | dhānyādikrayavānvaiśya itaro vaṇigucyate",
+   "mean_en": "The protector of the earth is a king, others are considered kshatriyas; one who buys grains etc. is a vaishya, others are called traders (vanik).",
+   "mean_te": "భూమిని పాలించేవాడు రాజు; మిగతా వారందరూ క్షత్రియులుగా పరిగణింపబడతారు. ధాన్యాదులను కొనుక్కునేవాడు వైశ్యుడు, ఇతరుడు వణికుడని (వర్తకుడని) పిలువబడతాడు."
+  },
+  {
+   "n": 6,
+   "text_deva": "ब्रह्मक्षत्रियवैश्यानां शुश्रूषुः शूद्र उच्यते | कर्षको वृषलो ज्ञेय इतरे चैव दस्यवः",
+   "text_te": "బ్రహ్మక్షత్రియవైశ్యానాం శుశ్రూషుః శూద్ర ఉచ్యతే | కర్షకో వృషలో జ్ఞేయ ఇతరే చైవ దస్యవః",
+   "text_en": "brahmakṣatriyavaiśyānāṁ śuśrūṣuḥ śūdra ucyate | karṣako vṛṣalo jñeya itare caiva dasyavaḥ",
+   "mean_en": "One who serves brahmanas, kshatriyas and vaishyas is called a shudra; one who tills is a vrushala, and others are known as dasyus.",
+   "mean_te": "బ్రాహ్మణ, క్షత్రియ, వైశ్యులకు సేవ చేసేవాడు శూద్రుడని పిలువబడతాడు; వ్యవసాయం చేసేవాడు వృషలుడు, మిగతా వారందరూ దస్యులుగా తెలుసుకోవాలి."
+  },
+  {
+   "n": 7,
+   "text_deva": "सर्वो ह्युषःप्राचीमुखश्चिन्तयेद्देवपूर्वकान् | धर्मानर्थांश्च तत्क्लेशानायं च व्ययमेव च",
+   "text_te": "సర్వో హ్యుషఃప్రాచీముఖశ్చిన్తయేద్దేవపూర్వకాన్ | ధర్మానర్థాంశ్చ తత్క్లేశానాయం చ వ్యయమేవ చ",
+   "text_en": "sarvo hyuṣaḥprācīmukhaścintayeddevapūrvakān | dharmānarthāṁśca tatkleśānāyaṁ ca vyayameva ca",
+   "mean_en": "All should rise early facing east and, with the thought of God, reflect on dharma and artha, the troubles thereto, livelihood and expenditure.",
+   "mean_te": "అందరూ సూర్యోదయ సమయంలో తూర్పు వైపు ముఖం చేసి, దేవతలను ముందుంచి ధర్మార్థాలను, వాటి కష్టాలను, జీవనోపాధిని, ఖర్చును ఆలోచించాలి."
+  },
+  {
+   "n": 8,
+   "text_deva": "आयुर्द्वेषश्च मरणं पापं भाग्यं तथैव च | व्याधिः पुष्टिस्तथा शक्तिः प्रातरुत्थानदिक्फलम्",
+   "text_te": "ఆయుర్ద్వేషశ్చ మరణం పాపం భాగ్యం తథైవ చ | వ్యాధిః పుష్టిస్తథా శక్తిః ప్రాతరుత్థానదిక్ఫలమ్",
+   "text_en": "āyurdveṣaśca maraṇaṁ pāpaṁ bhāgyaṁ tathaiva ca | vyādhiḥ puṣṭistathā śaktiḥ prātarutthānadikphalam",
+   "mean_en": "The fruits of early rising include long life, freedom from hatred and death, avoidance of sin, good fortune, health, nourishment and strength.",
+   "mean_te": "ప్రాతఃకాలంలో లేవడం వల్ల దీర్ఘాయువు, ద్వేషం లేకుండుట, మరణ భయం లేకుండుట, పాపం నుండి విముక్తి, భాగ్యం, ఆరోగ్యం, పుష్టి, శక్తి లభిస్తాయి."
+  },
+  {
+   "n": 9,
+   "text_deva": "निशांत्यायामोषा ज्ञेया यामार्धं संधिरुच्यते | तत्काले तु समुत्थाय विण्मूत्रे विसृजेद्द्विजः",
+   "text_te": "నిశాంత్యాయామోషా జ్ఞేయా యామార్ధం సంధిరుచ్యతే | తత్కాలే తు సముత్థాయ విణ్మూత్రే విసృజేద్ద్విజః",
+   "text_en": "niśāṁtyāyāmoṣā jñeyā yāmārdhaṁ saṁdhirucyate | tatkāle tu samutthāya viṇmūtre visṛjeddvijaḥ",
+   "mean_en": "The first yama (three-hour period before dawn) is night, the second yama is known as sandhya (junction); at that time, rising, the twice-born should pass urine and stool.",
+   "mean_te": "రాత్రిలో మొదటి యామం నిశాగానూ, రెండవ యామం సంధి (సంధ్యా సమయం) గా తెలుసుకోవాలి. ఆ సమయంలో లేచి ద్విజుడు మూత్ర విసర్జన చేయాలి."
+  },
+  {
+   "n": 10,
+   "text_deva": "गृहाद्दूरं ततो गत्वा बाह्यतः प्रवृतस्तथा | उदण्मुखः समाविश्य प्रतिबंधेऽन्यदिण्मुखः",
+   "text_te": "గృహాద్దూరం తతో గత్వా బాహ్యతః ప్రవృతస్తథా | ఉదణ్ముఖః సమావిశ్య ప్రతిబంధేఽన్యదిణ్ముఖః",
+   "text_en": "gṛhāddūraṁ tato gatvā bāhyataḥ pravṛtastathā | udaṇmukhaḥ samāviśya pratibaṁdhe'nyadiṇmukhaḥ",
+   "mean_en": "He should go away from the house, move outside, face north while entering, and if there is an obstruction, face another direction.",
+   "mean_te": "ఇంటి నుండి దూరంగా వెళ్లి, వెలుపల వుత్తర దిశగా ముఖం చేసి విసర్జన చేయాలి; అడ్డంకి ఉంటే వేరే దిశగా ముఖం చేయాలి."
+  },
+  {
+   "n": 11,
+   "text_deva": "जलाग्निब्राह्मणादीनां देवानां नाभिमुख्यतः | लिंगं पिधाय वामेन मुखमन्येन पाणिना",
+   "text_te": "జలాగ్నిబ్రాహ్మణాదీనాం దేవానాం నాభిముఖ్యతః | లింగం పిధాయ వామేన ముఖమన్యేన పాణినా",
+   "text_en": "jalāgnibrāhmaṇādīnāṁ devānāṁ nābhimukhyataḥ | liṁgaṁ pidhāya vāmena mukhamanyena pāṇinā",
+   "mean_en": "For water, fire, brahmanas and devas one must never turn the back; covering the linga with the left hand, he should rub/cover the mouth with the other hand.",
+   "mean_te": "నీరు, అగ్ని, బ్రాహ్మణులు, దేవతల వైపు ఎప్పుడూ వెనుక ముఖం పెట్టకూడదు. ఎడమ చేత్తో లింగాన్ని కప్పి, రెండో చేత్తో నోటిని మూసుకోవాలి."
+  },
+  {
+   "n": 12,
+   "text_deva": "मलमुत्सृज्य चोत्थाय न पश्येच्चैव तन्मलम् | उद्धृतेन जलेनैव शौचं कुर्याज्जलाद्बहिः",
+   "text_te": "మలముత్సృజ్య చోత్థాయ న పశ్యేచ్చైవ తన్మలమ్ | ఉద్ధృతేన జలేనైవ శౌచం కుర్యాజ్జలాద్బహిః",
+   "text_en": "malamutsṛjya cotthāya na paśyeccaiva tanmalam | uddhṛtena jalenaiva śaucaṁ kuryājjalādbahiḥ",
+   "mean_en": "Having voided the impurity he should rise and should not look back at it; outside (away from) the water he should cleanse himself with water brought up (from the stream/well).",
+   "mean_te": "మలమూత్రాలను విసర్జించిన తరువాత లేచి, ఆ మలమూత్రాలను చూడకూడదు. నీటి నుండి బయట తీసుకున్న నీటితోనే శుచిగా అవాలి."
+  },
+  {
+   "n": 13,
+   "text_deva": "अथवा देवपित्रार्षतीर्थावतरणं विना | सप्त वा पंच वा त्रीन्वा गुदं संशोधयेन्मृदा",
+   "text_te": "అథవా దేవపిత్రార్షతీర్థావతరణం వినా | సప్త వా పంచ వా త్రీన్వా గుదం సంశోధయేన్మృదా",
+   "text_en": "athavā devapitrārṣatīrthāvataraṇaṁ vinā | sapta vā paṁca vā trīnvā gudaṁ saṁśodhayenmṛdā",
+   "mean_en": "Or, without descending into a deva, pitru or rishi tirtha, he should cleanse the anal region with earth (mrita) — seven, five or three times.",
+   "mean_te": "లేదా దేవ, పితృ, ఋషి తీర్థాలలోకి దిగకుండా, గుదం (గుద ప్రాంతం) ను మట్టితో ఏడుసార్లు, ఐదుసార్లు లేదా మూడుసార్లు శుభ్రపరచాలి."
+  },
+  {
+   "n": 14,
+   "text_deva": "लिंगे कर्कोटमात्रं तु गुदे प्रसृतिरिष्यते | तत उत्थाय पद्धस्तशौचं गण्डूषमष्टकम्",
+   "text_te": "లింగే కర్కోటమాత్రం తు గుదే ప్రసృతిరిష్యతే | తత ఉత్థాయ పద్ధస్తశౌచం గణ్డూషమష్టకమ్",
+   "text_en": "liṁge karkoṭamātraṁ tu gude prasṛtiriṣyate | tata utthāya paddhastaśaucaṁ gaṇḍūṣamaṣṭakam",
+   "mean_en": "For the linga (private parts) only one karkota (measure of earth) is enough, for the guda five sprinkles are prescribed; then rising, with vessel in hand, he should do achamana with the eight mouthfuls and rinse (gandusha).",
+   "mean_te": "లింగానికి ఒక కర్కోట మట్టి మాత్రమే సరిపోతుంది; గుదానికి ఐదు ప్రక్షేపణలు (మట్టి ముద్దలు) శుచి కోసం నిర్ణీతమైనవి. తరువాత లేచి, చేతిలో పాత్రతో, ఎనిమిది వాగు (ఆచమన) లతో గండూషం (నోటి శుద్ధి) చేయాలి."
+  },
+  {
+   "n": 15,
+   "text_deva": "येन केन च पत्रेण काष्ठेन च जलाद्बहिः | कार्यं संत्यज्य तर्ज्जनीं दंतधावनमीरितम्",
+   "text_te": "యేన కేన చ పత్రేణ కాష్ఠేన చ జలాద్బహిః | కార్యం సంత్యజ్య తర్జ్జనీం దంతధావనమీరితమ్",
+   "text_en": "yena kena ca patreṇa kāṣṭhena ca jalādbahiḥ | kāryaṁ saṁtyajya tarjjanīṁ daṁtadhāvanamīritam",
+   "mean_en": "Using any leaf or piece of wood, away from water, he should cleanse the teeth (the twigs used for brushing) without giving up the tarjani (mild rebuke / index finger rule) as prescribed.",
+   "mean_te": "ఏ ఆకునైనా లేదా ఏ కర్రనైనా తీసుకుని, నీటి నుండి బయట, తర్జనీని (వేలు నియమాన్ని) వదలకుండా పళ్లు తోముకోవాలని (దంతధావనం చేయాలని) చెప్పబడింది."
+  },
+  {
+   "n": 16,
+   "text_deva": "जलदेवान्नमस्कृत्य मंत्रेण स्नानमाचरेत् | अशक्तः कंठदघ्नं वा कटिदघ्नमथापि वा",
+   "text_te": "జలదేవాన్నమస్కృత్య మంత్రేణ స్నానమాచరేత్ | అశక్తః కంఠదఘ్నం వా కటిదఘ్నమథాపి వా",
+   "text_en": "jaladevānnamaskṛtya maṁtreṇa snānamācaret | aśaktaḥ kaṁṭhadaghnaṁ vā kaṭidaghnamathāpi vā",
+   "mean_en": "After saluting water and the devas, one should bathe with the mantra; if unable, one may bathe (sprinkle) up to the neck or up to the waist.",
+   "mean_te": "నీటికి, దేవతలకు నమస్కరించి, మంత్రంతో స్నానం చేయాలి. అశక్తుడైతే కంఠం వరకు లేదా నడుము వరకు నీటిని వాడి స్నానం చేయవచ్చు."
+  },
+  {
+   "n": 17,
+   "text_deva": "आजानु जलमाविश्य मंत्रस्नानं समाचरेत् | देवादींस्तर्पयेद्विद्वांस्तत्र तीर्थजलेन च",
+   "text_te": "ఆజాను జలమావిశ్య మంత్రస్నానం సమాచరేత్ | దేవాదీంస్తర్పయేద్విద్వాంస్తత్ర తీర్థజలేన చ",
+   "text_en": "ājānu jalamāviśya maṁtrasnānaṁ samācaret | devādīṁstarpayedvidvāṁstatra tīrthajalena ca",
+   "mean_en": "Immersing in water up to the knees, one should perform the mantra-snana; the wise should then offer oblations to the devas with tirtha water.",
+   "mean_te": "మోకాళ్ల వరకు నీటిలో దిగి, మంత్రస్నానం చేయాలి. తరువాత జ్ఞాని అయినవాడు తీర్థ జలంతో దేవతలకు తర్పణాలు సమర్పించాలి."
+  },
+  {
+   "n": 18,
+   "text_deva": "धौतवस्त्रं समादाय पंचकच्छेन धारयेत् | उत्तरीयं च किं चैव धार्यं सर्वेषु कर्मसु",
+   "text_te": "ధౌతవస్త్రం సమాదాయ పంచకచ్ఛేన ధారయేత్ | ఉత్తరీయం చ కిం చైవ ధార్యం సర్వేషు కర్మసు",
+   "text_en": "dhautavastraṁ samādāya paṁcakacchena dhārayet | uttarīyaṁ ca kiṁ caiva dhāryaṁ sarveṣu karmasu",
+   "mean_en": "Having washed one's clothes, one should wear them in the pañcakacchā style (with pleats) together with the uttarīya (upper garment); this attire should be worn for all rites.",
+   "mean_te": "బట్టలను శుభ్రంగా ఉతికి తీసుకొని, పంచకచ్ఛా (మడతలు పెట్టిన నడుం వస్త్రం) రీతిలో ఉత్తరీయంతో సహా ధరించాలి; అన్ని కర్మలలోనూ ఈ విధమైన వస్త్రధారణే పాటించాలి."
+  },
+  {
+   "n": 19,
+   "text_deva": "नद्यादितीर्थस्नाने तु स्नानवस्त्रं न शोधयेत् | वापीकूपगृहादौ तु स्नानादूर्ध्वं नयेद्बुधः",
+   "text_te": "నద్యాదితీర్థస్నానే తు స్నానవస్త్రం న శోధయేత్ | వాపీకూపగృహాదౌ తు స్నానాదూర్ధ్వం నయేద్బుధః",
+   "text_en": "nadyāditīrthasnāne tu snānavastraṁ na śodhayet | vāpīkūpagṛhādau tu snānādūrdhvaṁ nayedbudhaḥ",
+   "mean_en": "When bathing at holy river-fords, the bathing cloth need not be washed; but after bathing in wells, tanks, or at home, the wise should wash it before wearing.",
+   "mean_te": "నదులు మొదలైన తీర్థాలలో స్నానం చేసేటప్పుడు స్నాన వస్త్రాన్ని ఉతకనోద్దు; బావులు, చెరువులు, ఇళ్ళలో మొదలైన చోట్ల స్నానం చేసిన తరువాత మాత్రం జ్ఞాని ఆ వస్త్రాన్ని ఉతికి ధరించాలి."
+  },
+  {
+   "n": 20,
+   "text_deva": "शिलादार्वादिके वापि जले वापि स्थलेपि वा | संशोध्य पीडयेद्वस्त्रं पितृ-णां तृप्तये द्विजाः",
+   "text_te": "శిలాదార్వాదికే వాపి జలే వాపి స్థలేపి వా | సంశోధ్య పీడయేద్వస్త్రం పితృ-ణాం తృప్తయే ద్విజాః",
+   "text_en": "śilādārvādike vāpi jale vāpi sthalepi vā | saṁśodhya pīḍayedvastraṁ pitṛ-ṇāṁ tṛptaye dvijāḥ",
+   "mean_en": "O twice-born, having washed the cloth on a stone, a piece of wood, in water, or on the ground, one should squeeze it out for the satisfaction of the forefathers (pitṛs).",
+   "mean_te": "ద్విజులారా, రాయి, చెక్క మొదలైన వాటి మీదగానీ, నీటిలోగానీ, నేలమీదగానీ వస్త్రాన్ని శుభ్రం చేసి, పితృదేవతలు తృప్తి చెందుటకు ఆ వస్త్రాన్ని పిండాలి."
+  },
+  {
+   "n": 21,
+   "text_deva": "जाबालकोक्तमंत्रेण भस्मना च त्रिपुंड्रकम् | अन्यथा चेज्जले पात इतस्तन्नरकमृच्छति",
+   "text_te": "జాబాలకోక్తమంత్రేణ భస్మనా చ త్రిపుండ్రకమ్ | అన్యథా చేజ్జలే పాత ఇతస్తన్నరకమృచ్ఛతి",
+   "text_en": "jābālakoktamaṁtreṇa bhasmanā ca tripuṁḍrakam | anyathā cejjale pāta itastannarakamṛcchati",
+   "mean_en": "With the mantra taught in the Jābāla Upaniṣad one should apply the tripuṇḍra with holy ash; otherwise, if one bathes without it, he incurs hell.",
+   "mean_te": "జాబాలోపనిషత్తులో చెప్పిన మంత్రంతో, భస్మంతో త్రిపుండ్రాన్ని ధరించాలి; లేకుండా స్నానం చేస్తే ఆ మనిషి నరకాన్ని పొందుతాడు."
+  },
+  {
+   "n": 22,
+   "text_deva": "आपोहिष्ठेति शिरसि प्रोक्षयेत्पापशांतये | यस्येति मंत्रं पादे तु संधिप्रोक्षणमुच्यते",
+   "text_te": "ఆపోహిష్ఠేతి శిరసి ప్రోక్షయేత్పాపశాంతయే | యస్యేతి మంత్రం పాదే తు సంధిప్రోక్షణముచ్యతే",
+   "text_en": "āpohiṣṭheti śirasi prokṣayetpāpaśāṁtaye | yasyeti maṁtraṁ pāde tu saṁdhiprokṣaṇamucyate",
+   "mean_en": "For the quelling of sins one should sprinkle water on the head with the 'āpo hiṣṭhā' mantra and on the feet with the 'yasya' mantra; this is called sandhi-prokṣaṇa (joint sprinkling).",
+   "mean_te": "'ఆపో హిష్ఠా' అనే మంత్రంతో పాపాలు తొలగించుకొనుటకు తలపైను, 'యస్య' అనే మంత్రంతో పాదాలపైను నీళ్లు చల్లాలి; ఇదే సంధిప్రోక్షణమని పిలువబడుతుంది."
+  },
+  {
+   "n": 23,
+   "text_deva": "पादे मूर्ध्नि हृदि चैव मूर्ध्नि हृत्पाद एव च | हृत्पादमूर्ध्नि संप्रोक्ष्य मंत्रस्नानं विदुर्बुधाः",
+   "text_te": "పాదే మూర్ధ్ని హృది చైవ మూర్ధ్ని హృత్పాద ఏవ చ | హృత్పాదమూర్ధ్ని సంప్రోక్ష్య మంత్రస్నానం విదుర్బుధాః",
+   "text_en": "pāde mūrdhni hṛdi caiva mūrdhni hṛtpāda eva ca | hṛtpādamūrdhni saṁprokṣya maṁtrasnānaṁ vidurbudhāḥ",
+   "mean_en": "One should sprinkle water on the feet, head, and heart, and again on the head, heart, and feet; the wise know this as mantra-snāna (bathing with mantras).",
+   "mean_te": "పాదాలపై, శిరస్సుపై, హృదయంపై, తిరిగి శిరస్సుపై, హృదయంపై, పాదాలపై నీళ్లు చల్లడమే మంత్రస్నానమని పండితులు తెలిసికొంటారు."
+  },
+  {
+   "n": 24,
+   "text_deva": "ईषत्स्पर्शे च दौः स्वास्थ्ये राजराष्ट्रभयेऽपि च | अत्यागतिकाले च मंत्रस्नानं समाचरेत्",
+   "text_te": "ఈషత్స్పర్శే చ దౌః స్వాస్థ్యే రాజరాష్ట్రభయేఽపి చ | అత్యాగతికాలే చ మంత్రస్నానం సమాచరేత్",
+   "text_en": "īṣatsparśe ca dauḥ svāsthye rājarāṣṭrabhaye'pi ca | atyāgatikāle ca maṁtrasnānaṁ samācaret",
+   "mean_en": "Mantra-snāna should be performed when there is a slight impure touch, in sickness, in fear from king or kingdom, and at the time of great calamity.",
+   "mean_te": "స్వల్పమైన (చెడు) స్పర్శ ఏర్పడినప్పుడును, అనారోగ్యంలోను, రాజు లేదా రాజ్యం నుండి భయం ఉన్నప్పుడును, మహా ఆపద వచ్చినప్పుడును మంత్రస్నానం ఆచరించాలి."
+  },
+  {
+   "n": 25,
+   "text_deva": "प्रातः सूर्यानुवाकेन सायमग्न्यनुवाकतः | अपः पीत्वा तथामध्ये पुनः प्रोक्षणमाचरेत्",
+   "text_te": "ప్రాతః సూర్యానువాకేన సాయమగ్న్యనువాకతః | అపః పీత్వా తథామధ్యే పునః ప్రోక్షణమాచరేత్",
+   "text_en": "prātaḥ sūryānuvākena sāyamagnyanuvākataḥ | apaḥ pītvā tathāmadhye punaḥ prokṣaṇamācaret",
+   "mean_en": "In the morning one should sip water with the Sūrya-anuvāka and in the evening with the Agni-anuvāka, and at midday one should again perform prokṣaṇa (sprinkling).",
+   "mean_te": "ఉదయం సూర్యానువాకంతోను, సాయంత్రం అగ్న్యనువాకంతోను నీటిని పానం చేసి, మధ్యాహ్నంలో గూడా మళ్ళీ ప్రోక్షణ చేయాలి."
+  },
+  {
+   "n": 26,
+   "text_deva": "गायत्र्! या जपमंत्रांते त्रिरूर्ध्वं प्राग्विनिक्षिपेत् | मंत्रेण सह चैकं वै मध्येऽर्घ्यं तु रवेर्द्विजा",
+   "text_te": "గాయత్ర్! యా జపమంత్రాంతే త్రిరూర్ధ్వం ప్రాగ్వినిక్షిపేత్ | మంత్రేణ సహ చైకం వై మధ్యేఽర్ఘ్యం తు రవేర్ద్విజా",
+   "text_en": "gāyatr! yā japamaṁtrāṁte trirūrdhvaṁ prāgvinikṣipet | maṁtreṇa saha caikaṁ vai madhye'rghyaṁ tu raverdvijā",
+   "mean_en": "O twice-born, at the end of the Gāyatrī japa one should pour (arghya) water three times in front; along with the mantra, one arghya should be offered to the sun in the middle.",
+   "mean_te": "ద్విజులారా, గాయత్రీ జపం చివరలో ముందువైపు మూడుసార్లు (అర్ఘ్య) జలాన్ని వదిలివేయాలి; మంత్రంతో సహా ఒక్క అర్ఘ్యం మాత్రం మధ్యలో సూర్యునికి సమర్పించాలి."
+  },
+  {
+   "n": 27,
+   "text_deva": "अथ जाते च सायाह्ने भुवि पश्चिमदिण्मुखः | उद्धृत्य दद्यात्प्रातस्तु मध्याह्नेंगुलिभिस्तथा",
+   "text_te": "అథ జాతే చ సాయాహ్నే భువి పశ్చిమదిణ్ముఖః | ఉద్ధృత్య దద్యాత్ప్రాతస్తు మధ్యాహ్నేంగులిభిస్తథా",
+   "text_en": "atha jāte ca sāyāhne bhuvi paścimadiṇmukhaḥ | uddhṛtya dadyātprātastu madhyāhneṁgulibhistathā",
+   "mean_en": "In the evening one should stand on the ground facing west, draw up the water and offer it; likewise in the morning, and at midday one should offer it with the fingers.",
+   "mean_te": "సాయంత్రం సమయంలో భూమిపై పడమటి దిక్కుగా చూస్తూ అర్ఘ్యజలాన్ని తీసి సమర్పించాలి; ఉదయం కూడా అలాగే, మధ్యాహ్నం మాత్రం వేళ్లతో సమర్పించాలి."
+  },
+  {
+   "n": 28,
+   "text_deva": "अंगुलीनां च रंध्रेण लंबं पश्येद्दिवाकरम् | आत्मप्रदक्षिणं कृत्वा शुद्धाचमनमाचरेत्",
+   "text_te": "అంగులీనాం చ రంధ్రేణ లంబం పశ్యేద్దివాకరమ్ | ఆత్మప్రదక్షిణం కృత్వా శుద్ధాచమనమాచరేత్",
+   "text_en": "aṁgulīnāṁ ca raṁdhreṇa laṁbaṁ paśyeddivākaram | ātmapradakṣiṇaṁ kṛtvā śuddhācamanamācaret",
+   "mean_en": "Through the gap between the fingers one should look at the hanging disc of the sun; having performed ātma-pradakṣiṇā (turning round), one should do pure ācamana.",
+   "mean_te": "చేతివేళ్ల మధ్య ఖాళీ ద్వారా సూర్యుని కిందకు వాలిన వృత్తాన్ని చూడాలి; తన చుట్టూ ఆత్మప్రదక్షిణ చేసి, శుద్ధ ఆచమనం చేయాలి."
+  },
+  {
+   "n": 29,
+   "text_deva": "सायं मुहूर्तादर्वाक्तु कृता संध्या वृथा भवेत् | अकालात्काल इत्युक्तो दिनेऽतीते यथाक्रमम्",
+   "text_te": "సాయం ముహూర్తాదర్వాక్తు కృతా సంధ్యా వృథా భవేత్ | అకాలాత్కాల ఇత్యుక్తో దినేఽతీతే యథాక్రమమ్",
+   "text_en": "sāyaṁ muhūrtādarvāktu kṛtā saṁdhyā vṛthā bhavet | akālātkāla ityukto dine'tīte yathākramam",
+   "mean_en": "If the evening sandhyā is performed before its proper muhūrta time, it becomes fruitless; doing it at the wrong time is called akāla-kāla, and if the day has passed it must be made up in due order.",
+   "mean_te": "సాయంత్ర సంధ్యను సరైన ముహూర్తానికి ముందుగానే చేస్తే అది వృథా అవుతుంది; అకాలంలో చేయడం 'అకాలకాలం' అని పిలువబడుతుంది; దినమంతా గడిచిపోతే క్రమం ప్రకారం చేయాలి."
+  },
+  {
+   "n": 30,
+   "text_deva": "दिवाऽतीते च गायत्रीं शतं नित्ये क्रमाज्जपेत् | आदर्शाहात्पराऽतीते गायत्रीं लक्षमभ्यसेत्",
+   "text_te": "దివాఽతీతే చ గాయత్రీం శతం నిత్యే క్రమాజ్జపేత్ | ఆదర్శాహాత్పరాఽతీతే గాయత్రీం లక్షమభ్యసేత్",
+   "text_en": "divā'tīte ca gāyatrīṁ śataṁ nitye kramājjapet | ādarśāhātparā'tīte gāyatrīṁ lakṣamabhyaset",
+   "mean_en": "If the daytime has passed, one should as a nitya rite repeat the Gāyatrī a hundred times in due order; if the lapse is still greater, one should practise the Gāyatrī a hundred thousand times.",
+   "mean_te": "పగలంతా గడిచిపోతే క్రమం ప్రకారం నిత్యకర్మగా గాయత్రీని వందసార్లు జపించాలి; మరింత ఎక్కువ ఆలస్యమైతే లక్ష గాయత్రీ జపించాలి."
+  },
+  {
+   "n": 31,
+   "text_deva": "मासातीते तु नित्ये हि पुनश्चोपनयं चरेत् | ईशो गौरीगुहो विष्णुर्ब्रह्मा चेंद्र श्च वै यमः",
+   "text_te": "మాసాతీతే తు నిత్యే హి పునశ్చోపనయం చరేత్ | ఈశో గౌరీగుహో విష్ణుర్బ్రహ్మా చేంద్ర శ్చ వై యమః",
+   "text_en": "māsātīte tu nitye hi punaścopanayaṁ caret | īśo gaurīguho viṣṇurbrahmā ceṁdra śca vai yamaḥ",
+   "mean_en": "But if a whole month has passed, one should again undergo upanayana (Gāyatrī re-initiation). Īśa (Śiva), Gaurī, Guha, Viṣṇu, Brahmā, Indra and Yama —",
+   "mean_te": "ఒక నెల గడిచిపోతే మళ్ళీ ఉపనయనం (గాయత్రీ ఉపదేశం) చేయించుకోవాలి. ఈశుడు (శివుడు), గౌరీ (పార్వతీదేవి), గుహుడు, విష్ణువు, బ్రహ్మ, ఇంద్రుడు, యముడు —"
+  },
+  {
+   "n": 32,
+   "text_deva": "एवं रूपांश्च वै देवांस्तर्पयेदर्थसिद्धये | ब्रह्मार्पणं ततः कृत्वा शुद्धाचमनमाचरेत्",
+   "text_te": "ఏవం రూపాంశ్చ వై దేవాంస్తర్పయేదర్థసిద్ధయే | బ్రహ్మార్పణం తతః కృత్వా శుద్ధాచమనమాచరేత్",
+   "text_en": "evaṁ rūpāṁśca vai devāṁstarpayedarthasiddhaye | brahmārpaṇaṁ tataḥ kṛtvā śuddhācamanamācaret",
+   "mean_en": "— these gods of such forms should be propitiated for the attainment of one's aims; then, after making the brahmārpaṇa offering, one should perform pure ācamana.",
+   "mean_te": "— ఈ రూపాలుగల దేవతలను అర్థసిద్ధి కోసం తర్పించి (తృప్తిపరచి), తరువాత బ్రహ్మార్పణం చేసి, శుద్ధమైన ఆచమనం చేయాలి."
+  },
+  {
+   "n": 33,
+   "text_deva": "तीर्थदक्षिणतः शस्ते मठे मंत्रालये बुधः | तत्र देवालये वापि गृहे वा नियतस्थले",
+   "text_te": "తీర్థదక్షిణతః శస్తే మఠే మంత్రాలయే బుధః | తత్ర దేవాలయే వాపి గృహే వా నియతస్థలే",
+   "text_en": "tīrthadakṣiṇataḥ śaste maṭhe maṁtrālaye budhaḥ | tatra devālaye vāpi gṛhe vā niyatasthale",
+   "mean_en": "The wise should do japa to the south of a holy ford, in a maṭha, or in a temple; there — in a temple, or in a house — at a fixed sacred spot.",
+   "mean_te": "జ్ఞాని తీర్థానికి దక్షిణంగానో, మఠంలోనో, మంత్రాలయంలోనో జపం చేయాలి; అక్కడ దేవాలయంలోగానీ ఇంట్లోగానీ నియమించిన పవిత్ర స్థలంలో చేయాలి."
+  },
+  {
+   "n": 34,
+   "text_deva": "सर्वान्देवान्नमस्कृत्य स्थिरबुद्धिः स्थिरासनः | प्रणवं पूर्वमभ्यस्य गायत्रीमभ्यसेत्ततः",
+   "text_te": "సర్వాన్దేవాన్నమస్కృత్య స్థిరబుద్ధిః స్థిరాసనః | ప్రణవం పూర్వమభ్యస్య గాయత్రీమభ్యసేత్తతః",
+   "text_en": "sarvāndevānnamaskṛtya sthirabuddhiḥ sthirāsanaḥ | praṇavaṁ pūrvamabhyasya gāyatrīmabhyasettataḥ",
+   "mean_en": "Saluting all the gods, with steady intellect and seated on a firm seat, one should first practise the praṇava (Oṁ) and then repeat the Gāyatrī.",
+   "mean_te": "అన్ని దేవతలకు నమస్కరించి, స్థిరబుద్ధితో, స్థిరమైన ఆసనంపై కూర్చొని, ముందుగా ప్రణవం (ఓంకారం) అభ్యసించి, తరువాత గాయత్రీని జపించాలి."
+  },
+  {
+   "n": 35,
+   "text_deva": "जीवब्रह्मैक्यविषयं बुद्ध्वा प्रणवमभ्यसेत् | त्रैलोक्यसृष्टिकर्त्तारं स्थितिकर्तारमच्युतम्",
+   "text_te": "జీవబ్రహ్మైక్యవిషయం బుద్ధ్వా ప్రణవమభ్యసేత్ | త్రైలోక్యసృష్టికర్త్తారం స్థితికర్తారమచ్యుతమ్",
+   "text_en": "jīvabrahmaikyaviṣayaṁ buddhvā praṇavamabhyaset | trailokyasṛṣṭikarttāraṁ sthitikartāramacyutam",
+   "mean_en": "Having understood the unity of the individual soul (jiva) and Brahman, one should practice japa of the Pranava (Om), meditating on the Lord who creates the three worlds, sustains them, and never falls (acyuta).",
+   "mean_te": "జీవుడికీ బ్రహ్మానికీ ఉన్న ఏకత్వాన్ని తెలుసుకుని, మూడు లోకాలను సృష్టించేవాడు, కాపాడేవాడు, చ్యుతి లేనివాడు అయిన పరమేశ్వరుడిని ధ్యానిస్తూ ప్రణవం (ఓంకారం) జపించాలి."
+  },
+  {
+   "n": 36,
+   "text_deva": "संहर्तारं तथा रुद्रं स्वप्रकाशमुपास्महे | ज्ञानकर्मेंद्रि याणां च मनोवृत्तीर्धियस्तथा",
+   "text_te": "సంహర్తారం తథా రుద్రం స్వప్రకాశముపాస్మహే | జ్ఞానకర్మేంద్రి యాణాం చ మనోవృత్తీర్ధియస్తథా",
+   "text_en": "saṁhartāraṁ tathā rudraṁ svaprakāśamupāsmahe | jñānakarmeṁdri yāṇāṁ ca manovṛttīrdhiyastathā",
+   "mean_en": "We worship Rudra, the destroyer, who is self-luminous; He ever impels the organs of knowledge and action, the states of the mind and the intellect.",
+   "mean_te": "సర్వాన్ని లయించే, స్వయంప్రకాశుడైన రుద్రుడిని (శివుడిని) మేము ఉపాసిస్తాము; ఆ ప్రభువు జ్ఞానేంద్రియాలను, కర్మేంద్రియాలను, మనోవృత్తులను, బుద్ధిని ఎప్పుడూ ప్రేరేపిస్తాడు."
+  },
+  {
+   "n": 37,
+   "text_deva": "भोगमोक्षप्रदे धर्मे ज्ञाने च प्रेरयेत्सदा | इत्थमर्थं धियाध्यायन्ब्रह्मप्राप्नोति निश्चयः",
+   "text_te": "భోగమోక్షప్రదే ధర్మే జ్ఞానే చ ప్రేరయేత్సదా | ఇత్థమర్థం ధియాధ్యాయన్బ్రహ్మప్రాప్నోతి నిశ్చయః",
+   "text_en": "bhogamokṣaprade dharme jñāne ca prerayetsadā | itthamarthaṁ dhiyādhyāyanbrahmaprāpnoti niścayaḥ",
+   "mean_en": "He impels them always towards dharma, which grants enjoyment and liberation, and towards knowledge. One who studies and meditates with this understanding certainly attains Brahman.",
+   "mean_te": "భోగమోక్షాలను ప్రసాదించే ధర్మం వైపు, జ్ఞానం వైపు ఎప్పుడూ ప్రేరేపిస్తాడు. ఇలా అర్థం చేసుకుని బుద్ధితో అధ్యయనం చేసేవాడు ఖచ్చితంగా బ్రహ్మాన్ని పొందుతాడు."
+  },
+  {
+   "n": 38,
+   "text_deva": "केवलं वा जपेन्नित्यं ब्राह्मण्यस्य च पूर्तये | सहस्रमभ्यसेन्नित्यं प्रातर्ब्राह्मणपुंगवः",
+   "text_te": "కేవలం వా జపేన్నిత్యం బ్రాహ్మణ్యస్య చ పూర్తయే | సహస్రమభ్యసేన్నిత్యం ప్రాతర్బ్రాహ్మణపుంగవః",
+   "text_en": "kevalaṁ vā japennityaṁ brāhmaṇyasya ca pūrtaye | sahasramabhyasennityaṁ prātarbrāhmaṇapuṁgavaḥ",
+   "mean_en": "Or one may simply recite it daily for the fulfilment of his brahminical duty; the best of brahmins should practice a thousand japas every morning.",
+   "mean_te": "లేదా బ్రాహ్మణ్యం నిలిపేందుకు ప్రతిరోజూ జపం చేయాలి; బ్రాహ్మణ శ్రేష్ఠుడు ప్రతినిత్యం ఉదయం వేళ వెయ్యి జపాలు అభ్యసించాలి."
+  },
+  {
+   "n": 39,
+   "text_deva": "अन्येषां च यथा शक्तिमध्याह्ने च शतं जपेत् | सायं द्विदशकं ज्ञेयं शिखाष्टकसमन्वितम्",
+   "text_te": "అన్యేషాం చ యథా శక్తిమధ్యాహ్నే చ శతం జపేత్ | సాయం ద్విదశకం జ్ఞేయం శిఖాష్టకసమన్వితమ్",
+   "text_en": "anyeṣāṁ ca yathā śaktimadhyāhne ca śataṁ japet | sāyaṁ dvidaśakaṁ jñeyaṁ śikhāṣṭakasamanvitam",
+   "mean_en": "Others should perform japa according to their capacity: a hundred at midday and twelve in the evening, together with the eight (centers) extending up to the shikha (crown of the head).",
+   "mean_te": "ఇతరులు తమ శక్తికి తగ్గట్టు జపించాలి; మధ్యాహ్నం వంద జపాలు, సాయంత్రం పన్నెండు జపాలు — శిఖ వరకు ఉన్న ఎనిమిది (కేంద్రాల) సహితంగా చేయాలని తెలుసుకోవాలి."
+  },
+  {
+   "n": 40,
+   "text_deva": "मूलाधारं समारभ्य द्वादशांतस्थितांस्तथा | विद्येशब्रह्मविष्ण्वीशजीवात्मपरमेश्वरान्",
+   "text_te": "మూలాధారం సమారభ్య ద్వాదశాంతస్థితాంస్తథా | విద్యేశబ్రహ్మవిష్ణ్వీశజీవాత్మపరమేశ్వరాన్",
+   "text_en": "mūlādhāraṁ samārabhya dvādaśāṁtasthitāṁstathā | vidyeśabrahmaviṣṇvīśajīvātmaparameśvarān",
+   "mean_en": "Beginning from the muladhara up to the dvadashanta (the end-point above the head), one should meditate on Vidyesha, Brahma, Vishnu, Isha, the jivatma and Parameshvara.",
+   "mean_te": "మూలాధారంతో ప్రారంభించి ద్వాదశాంతం వరకు ఉండే విద్యేశుడు, బ్రహ్మ, విష్ణువు, ఈశ్వరుడు, జీవాత్మ, పరమేశ్వరుడు అనే తత్వాలను ధ్యానించాలి."
+  },
+  {
+   "n": 41,
+   "text_deva": "ब्रह्मबुद्ध्या तदैक्यं च सोहं भावनया जपेत् | तानेव ब्रह्मरंध्रादौ कायाद्बाह्ये च भावयेत्",
+   "text_te": "బ్రహ్మబుద్ధ్యా తదైక్యం చ సోహం భావనయా జపేత్ | తానేవ బ్రహ్మరంధ్రాదౌ కాయాద్బాహ్యే చ భావయేత్",
+   "text_en": "brahmabuddhyā tadaikyaṁ ca sohaṁ bhāvanayā japet | tāneva brahmaraṁdhrādau kāyādbāhye ca bhāvayet",
+   "mean_en": "With the intellect of Brahman and the feeling of their unity, one should recite 'So'ham' (I am He); those very (deities) one should contemplate from the brahmarandhra onwards, outside the body.",
+   "mean_te": "బ్రహ్మ బుద్ధితో, 'సోహం' (నేనే ఆయనను) అనే భావనతో వాటి ఏకత్వాన్ని జపించాలి; ఆ (దేవతలను) బ్రహ్మరంధ్రం మొదలైన చోట్ల శరీరం బయట కూడా భావించాలి."
+  },
+  {
+   "n": 42,
+   "text_deva": "महत्तत्त्वं समारभ्य शरीरं तु सहस्रकम् | एकैकस्माज्जपादेकमतिक्रम्य शनैः शनैः",
+   "text_te": "మహత్తత్త్వం సమారభ్య శరీరం తు సహస్రకమ్ | ఏకైకస్మాజ్జపాదేకమతిక్రమ్య శనైః శనైః",
+   "text_en": "mahattattvaṁ samārabhya śarīraṁ tu sahasrakam | ekaikasmājjapādekamatikramya śanaiḥ śanaiḥ",
+   "mean_en": "Beginning from the mahat-tattva, the body consists of thousands (of tattvas); one should slowly, slowly transcend each of them through japa.",
+   "mean_te": "మహత్తత్వంతో మొదలుపెట్టి శరీరంలో వేల సంఖ్యలో ఉండే తత్వాలను ఒక్కొక్కటి జపంతో నెమ్మదిగా నెమ్మదిగా దాటి,"
+  },
+  {
+   "n": 43,
+   "text_deva": "परस्मिन्योजयेज्जीवं जपतत्त्वमुदाहृतम् | शतद्विदशकं देहं शिखाष्टकसमन्वितम्",
+   "text_te": "పరస్మిన్యోజయేజ్జీవం జపతత్త్వముదాహృతమ్ | శతద్విదశకం దేహం శిఖాష్టకసమన్వితమ్",
+   "text_en": "parasminyojayejjīvaṁ japatattvamudāhṛtam | śatadvidaśakaṁ dehaṁ śikhāṣṭakasamanvitam",
+   "mean_en": "One should unite the jiva with the Supreme, uttering the tattva in japa — the body's hundred and twelve (sacred spots), together with the eight ending at the shikha.",
+   "mean_te": "జపంలో తత్త్వాన్ని ఉచ్ఛరిస్తూ జీవుడిని పరమేశ్వరుడిలో లగ్నం చేయాలి — శరీరంలోని వంద పన్నెండు (112) స్థానాలు, శిఖ వరకు ఎనిమిది సహితంగా."
+  },
+  {
+   "n": 44,
+   "text_deva": "मंत्राणां जप एवं हि जपमादिक्रमाद्विदुः | सहस्रं ब्राह्मदं विद्याच्छतमैंद्र प्रदं विदुः",
+   "text_te": "మంత్రాణాం జప ఏవం హి జపమాదిక్రమాద్విదుః | సహస్రం బ్రాహ్మదం విద్యాచ్ఛతమైంద్ర ప్రదం విదుః",
+   "text_en": "maṁtrāṇāṁ japa evaṁ hi japamādikramādviduḥ | sahasraṁ brāhmadaṁ vidyācchatamaiṁdra pradaṁ viduḥ",
+   "mean_en": "Thus, through this initial sequence, the japa of mantras should be understood; a thousand (japas) is known to grant brahminhood, and a hundred to grant the position of Indra (lordship).",
+   "mean_te": "ఈ విధమైన జప క్రమంతోనే మంత్రాల జపం ఎలా చేయాలో తెలుసుకోవాలి; వెయ్యి జపాలు బ్రాహ్మణ్యాన్ని ఇస్తాయి, వంద జపాలు ఇంద్ర పదవిని (ఐశ్వర్యాన్ని) ఇస్తాయని తెలుసుకోవాలి."
+  },
+  {
+   "n": 45,
+   "text_deva": "इतरत्त्वात्मरक्षार्थं ब्रह्मयोनिषु जायते | दिवाकरमुपस्थाय नित्यमित्थं समाचरेत्",
+   "text_te": "ఇతరత్త్వాత్మరక్షార్థం బ్రహ్మయోనిషు జాయతే | దివాకరముపస్థాయ నిత్యమిత్థం సమాచరేత్",
+   "text_en": "itarattvātmarakṣārthaṁ brahmayoniṣu jāyate | divākaramupasthāya nityamitthaṁ samācaret",
+   "mean_en": "To protect the self from otherness (duality), one is born in the womb of Brahman (a brahmin birth); approaching the sun (in its presence), he should perform this practice daily.",
+   "mean_te": "ఆత్మను 'ఇతరత్వం' (ద్వైతం) నుండి కాపాడుకోవడానికే బ్రహ్మయోనిలో (బ్రాహ్మణ గర్భంలో) జన్మందుకుంటాడు; సూర్యుడిని సేవించి (సూర్యుడి సన్నిధిలో) ప్రతినిత్యం ఈ విధంగా ఆచరించాలి."
+  },
+  {
+   "n": 46,
+   "text_deva": "लक्षद्वादशयुक्तस्तु पूर्णब्राह्मण ईरितः | गायत्र्! या लक्षहीनं तु वेदकार्येन योजयेत्",
+   "text_te": "లక్షద్వాదశయుక్తస్తు పూర్ణబ్రాహ్మణ ఈరితః | గాయత్ర్! యా లక్షహీనం తు వేదకార్యేన యోజయేత్",
+   "text_en": "lakṣadvādaśayuktastu pūrṇabrāhmaṇa īritaḥ | gāyatr! yā lakṣahīnaṁ tu vedakāryena yojayet",
+   "mean_en": "One endowed with a lakh and twelve (japas) is called a purna (complete) brahmin; the Gayatri that falls short of a lakh should be supplemented through Vedic rites.",
+   "mean_te": "లక్ష జపాలు, పన్నెండు సహితంగా చేసినవాడు పూర్ణ బ్రాహ్మణుడని చెబుతారు; లక్ష లోపు ఉన్న గాయత్రీ జపాన్ని వేద కార్యాలతో పూర్తి చేయాలి."
+  },
+  {
+   "n": 47,
+   "text_deva": "आसप्ततेस्तु नियमं पश्चात्प्रव्राजनं चरेत् | प्रातर्द्वादशसाहस्रं प्रव्राजीप्रणवं जपेत्",
+   "text_te": "ఆసప్తతేస్తు నియమం పశ్చాత్ప్రవ్రాజనం చరేత్ | ప్రాతర్ద్వాదశసాహస్రం ప్రవ్రాజీప్రణవం జపేత్",
+   "text_en": "āsaptatestu niyamaṁ paścātpravrājanaṁ caret | prātardvādaśasāhasraṁ pravrājīpraṇavaṁ japet",
+   "mean_en": "Up to seven (lakhs) he should observe this rule; afterwards he may undertake renunciation (pravrajya). The renunciate should chant the Pranava twelve thousand times in the morning.",
+   "mean_te": "ఏడు (లక్షల) వరకు ఈ నియమాన్ని పాటించి, తర్వాత సన్యాసం స్వీకరించాలి; సన్యాసి ఉదయం వేళ పన్నెండు వేలు ప్రణవం జపించాలి."
+  },
+  {
+   "n": 48,
+   "text_deva": "दिने दिने त्वतिक्रांते नित्यमेवं क्रमाज्जपेत् | मासादौ क्रमशोऽतीते सार्धलक्षजपेन हि",
+   "text_te": "దినే దినే త్వతిక్రాంతే నిత్యమేవం క్రమాజ్జపేత్ | మాసాదౌ క్రమశోఽతీతే సార్ధలక్షజపేన హి",
+   "text_en": "dine dine tvatikrāṁte nityamevaṁ kramājjapet | māsādau kramaśo'tīte sārdhalakṣajapena hi",
+   "mean_en": "As day after day passes, he should continue the japa daily in this order; after a month, progressing stage by stage, with a lakh and a half of japa.",
+   "mean_te": "రోజూ రోజూ కాలక్రమేణా ఈ క్రమంలోనే నిత్యం జపిస్తూ ఉండాలి; నెల తర్వాత క్రమంగా పెంచుతూ లక్షన్నర జపాలను చేరుకోవాలి."
+  },
+  {
+   "n": 49,
+   "text_deva": "अत ऊर्ध्वमतिक्रांते पुनः प्रैषं समाचरेत् | एवं कृत्वा दोषशांतिरन्यथा रौरवं व्रजेत्",
+   "text_te": "అత ఊర్ధ్వమతిక్రాంతే పునః ప్రైషం సమాచరేత్ | ఏవం కృత్వా దోషశాంతిరన్యథా రౌరవం వ్రజేత్",
+   "text_en": "ata ūrdhvamatikrāṁte punaḥ praiṣaṁ samācaret | evaṁ kṛtvā doṣaśāṁtiranyathā rauravaṁ vrajet",
+   "mean_en": "Having crossed beyond this, he should again undertake the next stage of the practice; by doing so, his faults are pacified — otherwise he will go to the Raurava hell.",
+   "mean_te": "దీనికి మించి అంతకంటే ఎక్కువ జపించిన తర్వాత మళ్ళీ (తర్వి జప) ప్రవేశం చేయాలి; ఇలా చేస్తే దోషాలు శాంతించుతాయి, లేకపోతే రౌరవ నరకాన్ని పొందుతాడు."
+  },
+  {
+   "n": 50,
+   "text_deva": "धर्मार्थयोस्ततो यत्नं कुर्यात्कामी न चेतरः | ब्राह्मणो मुक्तिकामः स्याद्ब्रह्मज्ञानं सदाभ्यसेत्",
+   "text_te": "ధర్మార్థయోస్తతో యత్నం కుర్యాత్కామీ న చేతరః | బ్రాహ్మణో ముక్తికామః స్యాద్బ్రహ్మజ్ఞానం సదాభ్యసేత్",
+   "text_en": "dharmārthayostato yatnaṁ kuryātkāmī na cetaraḥ | brāhmaṇo muktikāmaḥ syādbrahmajñānaṁ sadābhyaset",
+   "mean_en": "Thereafter one should strive for dharma and artha, but a man of desire strives otherwise; a brahmin who desires liberation should always practice the knowledge of Brahman.",
+   "mean_te": "తర్వాత ధర్మం, అర్థం కోసం కృషి చేయాలి — కాముకుడు కాకపోతే కామం కోసం కాదు; మోక్షం కోరే బ్రాహ్మణుడు ఎప్పుడూ బ్రహ్మజ్ఞానాన్ని అభ్యసించాలి."
+  },
+  {
+   "n": 51,
+   "text_deva": "धर्मादर्थोऽर्थतो भोगो भोगाद्वैराग्यसंभवः | धर्मार्जितार्थभोगेन वैराग्यमुपजायते",
+   "text_te": "ధర్మాదర్థోఽర్థతో భోగో భోగాద్వైరాగ్యసంభవః | ధర్మార్జితార్థభోగేన వైరాగ్యముపజాయతే",
+   "text_en": "dharmādartho'rthato bhogo bhogādvairāgyasaṁbhavaḥ | dharmārjitārthabhogena vairāgyamupajāyate",
+   "mean_en": "From dharma comes wealth, from wealth enjoyment, and from enjoyment dispassion (vairagya); through the enjoyment of wealth earned righteously, vairagya arises.",
+   "mean_te": "ధర్మం నుండి అర్థం వస్తుంది, అర్థం నుండి భోగం, భోగం నుండి వైరాగ్యం పుడుతుంది; ధర్మంతో సంపాదించిన సంపదతో చేసే భోగం వల్ల వైరాగ్యం కలుగుతుంది."
+  },
+  {
+   "n": 52,
+   "text_deva": "विपरीतार्थभोगेन राग एव प्रजायते | धर्मश्च द्विविधः प्रोक्तो द्र व्यदेहद्वयेन च",
+   "text_te": "విపరీతార్థభోగేన రాగ ఏవ ప్రజాయతే | ధర్మశ్చ ద్వివిధః ప్రోక్తో ద్ర వ్యదేహద్వయేన చ",
+   "text_en": "viparītārthabhogena rāga eva prajāyate | dharmaśca dvividhaḥ prokto dra vyadehadvayena ca",
+   "mean_en": "Enjoying objects in a perverted way breeds only attachment. Dharma is said to be of two kinds — practised through wealth and practised through the body.",
+   "mean_te": "వస్తువులను తప్పుగా (వ్యతిరేకంగా) భోగవించడం వల్ల మాత్రమే రాగం (మక్కువ) పుడుతుంది. ధర్మం రెండు విధమైనదిగా చెప్పబడింది — ధనం ద్వారా ఒకటి, శరీరం ద్వారా మరొకటి."
+  },
+  {
+   "n": 53,
+   "text_deva": "द्र व्यमिज्यादिरूपं स्यात्तीर्थस्नानादि दैहिकम् | धनेन धनमाप्नोति तपसा दिव्यरूपताम्",
+   "text_te": "ద్ర వ్యమిజ్యాదిరూపం స్యాత్తీర్థస్నానాది దైహికమ్ | ధనేన ధనమాప్నోతి తపసా దివ్యరూపతామ్",
+   "text_en": "dra vyamijyādirūpaṁ syāttīrthasnānādi daihikam | dhanena dhanamāpnoti tapasā divyarūpatām",
+   "mean_en": "Wealth serves as sacrifices and the like, while bathing in holy tirthas and similar acts are bodily dharma. Through wealth one gains wealth, and through austerity one gains a divine form.",
+   "mean_te": "ధనం యజ్ఞాదుల రూపంలో పనికి వస్తుంది; తీర్థస్నానం వంటివి శరీరానికి సంబంధించిన ధర్మం. ధనం ద్వారా ధనాన్ని పొందుతాడు, తపస్సు ద్వారా దివ్యమైన రూపాన్ని పొందుతాడు."
+  },
+  {
+   "n": 54,
+   "text_deva": "निष्कामः शुद्धिमाप्नोति शुद्ध्या ज्ञानं न संशयः | कृतादौ हि तपःश्लोघ्यं द्र व्यधर्मः कलौ युगे",
+   "text_te": "నిష్కామః శుద్ధిమాప్నోతి శుద్ధ్యా జ్ఞానం న సంశయః | కృతాదౌ హి తపఃశ్లోఘ్యం ద్ర వ్యధర్మః కలౌ యుగే",
+   "text_en": "niṣkāmaḥ śuddhimāpnoti śuddhyā jñānaṁ na saṁśayaḥ | kṛtādau hi tapaḥśloghyaṁ dra vyadharmaḥ kalau yuge",
+   "mean_en": "One who acts without desire attains purity, and from purity comes knowledge, without doubt. In the Krta age austerity was glorious, while in the Kali age dharma through wealth (charitable giving) prevails.",
+   "mean_te": "కోరిక లేకుండా ఆచరించేవాడు శుద్ధిని పొందుతాడు, శుద్ధి నుండి జ్ఞానం కలుగుతుంది — సందేహమే లేదు. కృతయుగంలో తపస్సు శ్లాఘనీయం; కలియుగంలో ధనం ద్వారా (దానం ద్వారా) ఆచరించే ధర్మమే ప్రధానం."
+  },
+  {
+   "n": 55,
+   "text_deva": "कृतेध्यानाज्ज्ञानसिद्धिस्त्रेतायां तपसा तथा | द्वापरे यजनाज्ज्ञानं प्रतिमापूजया कलौ",
+   "text_te": "కృతేధ్యానాజ్జ్ఞానసిద్ధిస్త్రేతాయాం తపసా తథా | ద్వాపరే యజనాజ్జ్ఞానం ప్రతిమాపూజయా కలౌ",
+   "text_en": "kṛtedhyānājjñānasiddhistretāyāṁ tapasā tathā | dvāpare yajanājjñānaṁ pratimāpūjayā kalau",
+   "mean_en": "In the Krta age knowledge is attained through meditation, in the Treta through austerity, in the Dvapara through sacrifice, and in the Kali age through worship of the deity's image.",
+   "mean_te": "కృతయుగంలో ధ్యానం ద్వారా, త్రేతాయుగంలో తపస్సు ద్వారా, ద్వాపరయుగంలో యజ్ఞం ద్వారా, కలియుగంలో విగ్రహపూజ ద్వారా జ్ఞానసిద్ధి కలుగుతుంది."
+  },
+  {
+   "n": 56,
+   "text_deva": "यादृशं पुण्यं पापं वा तादृशं फलमेव हि | द्र व्यदेहांगभेदेन न्यूनवृद्धिक्षयादिकम्",
+   "text_te": "యాదృశం పుణ్యం పాపం వా తాదృశం ఫలమేవ హి | ద్ర వ్యదేహాంగభేదేన న్యూనవృద్ధిక్షయాదికమ్",
+   "text_en": "yādṛśaṁ puṇyaṁ pāpaṁ vā tādṛśaṁ phalameva hi | dra vyadehāṁgabhedena nyūnavṛddhikṣayādikam",
+   "mean_en": "The fruit is exactly of the same nature as the merit or sin committed; according to differences of wealth, body and limbs it shows decrease, increase and decay.",
+   "mean_te": "చేసిన పుణ్యమైనా పాపమైనా అంతటి స్వరూపమైన ఫలమే కలుగుతుంది; ధనం, శరీరం, అవయవాల భేదం ప్రకారం తగ్గుదల, పెరుగుదల, క్షయం మొదలైనవి ఉంటాయి."
+  },
+  {
+   "n": 57,
+   "text_deva": "अधर्मो हिंसिकारूपो धर्मस्तु सुखरूपकः | अधर्माद्दुःखमाप्नोति धर्माद्वै सुखमेधते",
+   "text_te": "అధర్మో హింసికారూపో ధర్మస్తు సుఖరూపకః | అధర్మాద్దుఃఖమాప్నోతి ధర్మాద్వై సుఖమేధతే",
+   "text_en": "adharmo hiṁsikārūpo dharmastu sukharūpakaḥ | adharmādduḥkhamāpnoti dharmādvai sukhamedhate",
+   "mean_en": "Adharma is by nature harmful and violent, while dharma is of the nature of happiness. From adharma one reaps sorrow; from dharma happiness grows.",
+   "mean_te": "అధర్మం హింసాత్మకమైనది; ధర్మం సుఖస్వరూపమైనది. అధర్మం వల్ల దుఃఖం కలుగుతుంది, ధర్మం వల్ల సుఖం వృద్ధి చెందుతుంది."
+  },
+  {
+   "n": 58,
+   "text_deva": "विद्यादुर्वृत्तितो दुःखं सुखं विद्यात्सुवृत्तितः | धर्मार्जनमतः कुर्याद्भोगमोक्षप्रसिद्धये",
+   "text_te": "విద్యాదుర్వృత్తితో దుఃఖం సుఖం విద్యాత్సువృత్తితః | ధర్మార్జనమతః కుర్యాద్భోగమోక్షప్రసిద్ధయే",
+   "text_en": "vidyādurvṛttito duḥkhaṁ sukhaṁ vidyātsuvṛttitaḥ | dharmārjanamataḥ kuryādbhogamokṣaprasiddhaye",
+   "mean_en": "Learning joined to bad conduct yields sorrow, while learning joined to good conduct yields happiness. Therefore one should strive to earn dharma for the attainment of both enjoyment and liberation.",
+   "mean_te": "విద్య దుర్వృత్తితో కూడితే దుఃఖం ఇస్తుంది; సద్వృత్తితో కూడితే సుఖం ఇస్తుంది. కాబట్టి భోగానికైనా మోక్షానికైనా ధర్మార్జన చేయాలి."
+  },
+  {
+   "n": 59,
+   "text_deva": "सकुटुंबस्य विप्रस्य चतुर्जनयुतस्य च | शतवर्षस्य वृत्तिं तु दद्यात्तद्ब्रह्मलोकदम्",
+   "text_te": "సకుటుంబస్య విప్రస్య చతుర్జనయుతస్య చ | శతవర్షస్య వృత్తిం తు దద్యాత్తద్బ్రహ్మలోకదమ్",
+   "text_en": "sakuṭuṁbasya viprasya caturjanayutasya ca | śatavarṣasya vṛttiṁ tu dadyāttadbrahmalokadam",
+   "mean_en": "For a brahmana with a family and his four dependents, livelihood sufficient for a hundred years should be given — such a gift leads to Brahmaloka.",
+   "mean_te": "కుటుంబంతో ఉన్న విప్రునికి, అతని నలుగురు ఆధారపడిన వారితో కలిపి, వందేళ్ల జీవనాధారం ఇవ్వాలి — అది బ్రహ్మలోకాన్ని ప్రసాదిస్తుంది."
+  },
+  {
+   "n": 60,
+   "text_deva": "चांद्रा यणसहस्रं तु ब्रह्मलोकप्रदं विदुः | सहस्रस्य कुटुंबस्य प्रतिष्ठां क्षत्रियश्चरेत्",
+   "text_te": "చాంద్రా యణసహస్రం తు బ్రహ్మలోకప్రదం విదుః | సహస్రస్య కుటుంబస్య ప్రతిష్ఠాం క్షత్రియశ్చరేత్",
+   "text_en": "cāṁdrā yaṇasahasraṁ tu brahmalokapradaṁ viduḥ | sahasrasya kuṭuṁbasya pratiṣṭhāṁ kṣatriyaścaret",
+   "mean_en": "A thousand candrayana observances are known to grant Brahmaloka; a kshatriya should support and maintain a family of a thousand people.",
+   "mean_te": "వెయ్యి చాంద్రాయణ వ్రతాలు బ్రహ్మలోకాన్ని ప్రసాదిస్తాయని తెలుసుకోవాలి; వెయ్యిమంది కుటుంబాన్ని క్షత్రియుడు పోషించాలి."
+  },
+  {
+   "n": 61,
+   "text_deva": "इंद्र लोकप्रदं विद्यादयुतं ब्रह्मलोकदम् | यां देवतां पुरस्कृत्य दानमाचरते नरः",
+   "text_te": "ఇంద్ర లోకప్రదం విద్యాదయుతం బ్రహ్మలోకదమ్ | యాం దేవతాం పురస్కృత్య దానమాచరతే నరః",
+   "text_en": "iṁdra lokapradaṁ vidyādayutaṁ brahmalokadam | yāṁ devatāṁ puraskṛtya dānamācarate naraḥ",
+   "mean_en": "Ten thousand such observances should be known to bestow Indraloka, just as a thousand bestows Brahmaloka; and whatever deity a person honours with a gift...",
+   "mean_te": "వెయ్యి బ్రహ్మలోకాన్నిచ్చినట్లే, పదివేలు ఇంద్రలోకాన్ని ప్రసాదిస్తాయని తెలుసుకోవాలి; మనిషి ఏ దేవతను ముందుంచి దానం చేస్తాడో..."
+  },
+  {
+   "n": 62,
+   "text_deva": "तत्तल्लोकमवाप्नोति इति वेदविदो विदुः | अर्थहीनः सदा कुर्यात्तपसा मार्जनं तथा",
+   "text_te": "తత్తల్లోకమవాప్నోతి ఇతి వేదవిదో విదుః | అర్థహీనః సదా కుర్యాత్తపసా మార్జనం తథా",
+   "text_en": "tattallokamavāpnoti iti vedavido viduḥ | arthahīnaḥ sadā kuryāttapasā mārjanaṁ tathā",
+   "mean_en": "...he attains that very deity's world — thus know the knowers of the Veda. One who lacks wealth should always endeavour to earn it through austerity as well.",
+   "mean_te": "...ఆ దేవతాలోకాన్నే పొందుతాడని వేదాలను తెలిసినవారు చెప్తున్నారు. ధనం లేనివాడు ఎప్పుడూ తపస్సు ద్వారా కూడా ధనార్జన చేయాలి."
+  },
+  {
+   "n": 63,
+   "text_deva": "तीर्थाच्च तपसा प्राप्यं सुखमक्षय्यमश्नुते | अर्थार्जनमथो वक्ष्ये न्यायतः सुसमाहितः",
+   "text_te": "తీర్థాచ్చ తపసా ప్రాప్యం సుఖమక్షయ్యమశ్నుతే | అర్థార్జనమథో వక్ష్యే న్యాయతః సుసమాహితః",
+   "text_en": "tīrthācca tapasā prāpyaṁ sukhamakṣayyamaśnute | arthārjanamatho vakṣye nyāyataḥ susamāhitaḥ",
+   "mean_en": "Through holy tirthas and austerity one attains imperishable happiness. Now, with full attention, I shall declare the proper, rule-based means of earning wealth.",
+   "mean_te": "తీర్థాలు మరియు తపస్సు ద్వారా క్షయం లేని సుఖాన్ని పొందుతాడు. ఇక ధర్మమార్గంలో (న్యాయంగా) ధనార్జన గురించి సకల ఏకాగ్రతతో చెబుతాను."
+  },
+  {
+   "n": 64,
+   "text_deva": "कृतात्प्रतिग्रहाच्चैव याजनाच्च विशुद्धितः | अदैन्यादनतिक्लेशाद्ब्राह्मणो धनमर्जयेत्",
+   "text_te": "కృతాత్ప్రతిగ్రహాచ్చైవ యాజనాచ్చ విశుద్ధితః | అదైన్యాదనతిక్లేశాద్బ్రాహ్మణో ధనమర్జయేత్",
+   "text_en": "kṛtātpratigrahāccaiva yājanācca viśuddhitaḥ | adainyādanatikleśādbrāhmaṇo dhanamarjayet",
+   "mean_en": "A brahmana should earn wealth in purity — through sacrificial fees, through accepting rightful gifts, and through officiating at sacrifices for others — without begging and without excessive hardship.",
+   "mean_te": "బ్రాహ్మణుడు పవిత్రతతో — యజ్ఞ దక్షిణల ద్వారా, యోగ్యమైన దానాలను స్వీకరించడం ద్వారా, ఇతరుల కోసం యాగాలు చేయించడం ద్వారా — బిక్ష లేకుండా, అతి కష్టం లేకుండా ధనాన్ని ఆర్జించాలి."
+  },
+  {
+   "n": 65,
+   "text_deva": "क्षत्रियो बाहुवीर्येण कृषिगोरक्षणाद्विशः | न्यायार्जितस्य वित्तस्य दानात्सिद्धिं समश्नुते",
+   "text_te": "క్షత్రియో బాహువీర్యేణ కృషిగోరక్షణాద్విశః | న్యాయార్జితస్య విత్తస్య దానాత్సిద్ధిం సమశ్నుతే",
+   "text_en": "kṣatriyo bāhuvīryeṇa kṛṣigorakṣaṇādviśaḥ | nyāyārjitasya vittasya dānātsiddhiṁ samaśnute",
+   "mean_en": "The kshatriya prospers by the might of his arms, and the vaishya by agriculture and protection (of cattle and people); by giving away wealth justly earned, one attains fulfilment.",
+   "mean_te": "క్షత్రియుడు భుజబలం ద్వారా, వైశ్యుడు వ్యవసాయం మరియు (పశువుల, ప్రజల) రక్షణ ద్వారా ధనం సంపాదిస్తాడు; న్యాయంగా సంపాదించిన ధనాన్ని దానం చేయడం వల్ల సిద్ధిని పొందుతాడు."
+  },
+  {
+   "n": 66,
+   "text_deva": "ज्ञानसिद्ध्या मोक्षसिद्धिः सर्वेषां गुर्वनुग्रहात् | मोक्षात्स्वरूपसिद्धिः स्यात्परानन्दं समश्नुते",
+   "text_te": "జ్ఞానసిద్ధ్యా మోక్షసిద్ధిః సర్వేషాం గుర్వనుగ్రహాత్ | మోక్షాత్స్వరూపసిద్ధిః స్యాత్పరానన్దం సమశ్నుతే",
+   "text_en": "jñānasiddhyā mokṣasiddhiḥ sarveṣāṁ gurvanugrahāt | mokṣātsvarūpasiddhiḥ syātparānandaṁ samaśnute",
+   "mean_en": "Through the attainment of knowledge comes liberation for all, by the grace of the guru. From liberation comes the realization of one's own true nature, and one experiences supreme bliss.",
+   "mean_te": "గురువు అనుగ్రహం వల్ల జ్ఞానసిద్ధి కలుగుతుంది, జ్ఞానం వల్ల అందరికీ మోక్షం లభిస్తుంది. మోక్షం వల్ల స్వస్వరూప సిద్ధి కలిగి, పరమానందాన్ని పొందుతారు."
+  },
+  {
+   "n": 67,
+   "text_deva": "सत्संगात्सर्वमेतद्वै नराणां जायते द्विजाः | धनधान्यादिकं सर्वं देयं वै गृहमेधिना",
+   "text_te": "సత్సంగాత్సర్వమేతద్వై నరాణాం జాయతే ద్విజాః | ధనధాన్యాదికం సర్వం దేయం వై గృహమేధినా",
+   "text_en": "satsaṁgātsarvametadvai narāṇāṁ jāyate dvijāḥ | dhanadhānyādikaṁ sarvaṁ deyaṁ vai gṛhamedhinā",
+   "mean_en": "O twice-born, all this comes to men through the company of the good. All wealth, grain and the like should be given away by the householder.",
+   "mean_te": "ద్విజాతులారా! సత్సంగం వల్లే మనుషులకు ఇదంతా కలుగుతుంది. ధనం, ధాన్యం మొదలైన సర్వస్వాన్ని గృహస్థుడు దానం చేయదగినది."
+  },
+  {
+   "n": 68,
+   "text_deva": "यद्यत्काले वस्तुजातं फलं वा धान्यमेव च | तत्तत्सर्वं ब्राह्मणेभ्यो देयं वै हितमिच्छता",
+   "text_te": "యద్యత్కాలే వస్తుజాతం ఫలం వా ధాన్యమేవ చ | తత్తత్సర్వం బ్రాహ్మణేభ్యో దేయం వై హితమిచ్ఛతా",
+   "text_en": "yadyatkāle vastujātaṁ phalaṁ vā dhānyameva ca | tattatsarvaṁ brāhmaṇebhyo deyaṁ vai hitamicchatā",
+   "mean_en": "Whatever thing, fruit or grain is produced in its proper season — all of that should be given to brahmanas by one who desires his own welfare.",
+   "mean_te": "ఏ కాలంలో ఏ వస్తువు, ఫలం లేదా ధాన్యం పుడుతుందో, అదంతా మంగళాన్ని కోరేవాడు బ్రాహ్మణులకు దానం చేయాలి."
+  },
+  {
+   "n": 69,
+   "text_deva": "जलं चैव सदा देयमन्नं क्षुद्व्याधिशांतये | क्षेत्रं धान्यं तथाऽऽमान्नमन्नमेवं चतुर्विधम्",
+   "text_te": "జలం చైవ సదా దేయమన్నం క్షుద్వ్యాధిశాంతయే | క్షేత్రం ధాన్యం తథాఽఽమాన్నమన్నమేవం చతుర్విధమ్",
+   "text_en": "jalaṁ caiva sadā deyamannaṁ kṣudvyādhiśāṁtaye | kṣetraṁ dhānyaṁ tathā''mānnamannamevaṁ caturvidham",
+   "mean_en": "Water should always be given, and food to one suffering from hunger and illness. Field (land), grain, uncooked food and cooked food — thus food (as a gift) is of four kinds.",
+   "mean_te": "ఆకలి, వ్యాధి నివారణ కొరకు నీరు ఎప్పుడూ ఇవ్వాలి, అన్నము కూడా ఇవ్వాలి. పొలము, ధాన్యము, పచ్చి అన్నము, ఉడికించిన అన్నము — ఈ విధముగా అన్నదానము నాలుగు విధములు."
+  },
+  {
+   "n": 70,
+   "text_deva": "यावत्कालं यदन्नं वै भुक्त्वा श्रवणमेधते | तावत्कृतस्य पुण्यस्य त्वर्धं दातुर्न संशयः",
+   "text_te": "యావత్కాలం యదన్నం వై భుక్త్వా శ్రవణమేధతే | తావత్కృతస్య పుణ్యస్య త్వర్ధం దాతుర్న సంశయః",
+   "text_en": "yāvatkālaṁ yadannaṁ vai bhuktvā śravaṇamedhate | tāvatkṛtasya puṇyasya tvardhaṁ dāturna saṁśayaḥ",
+   "mean_en": "For as long as the recipient, after eating that food, grows in understanding by hearing the scriptures, for that long half of the merit belongs to the giver, without doubt.",
+   "mean_te": "ఆ అన్నము భుజించి శాస్త్రశ్రవణము చేత ఎంతకాలము గ్రహీత శక్తిని పొందుతాడో, ఆ ఎంతకాలము దాత సంపాదించిన పుణ్యములో సగభాగము లభించును — ఇందు సందేహము లేదు."
+  },
+  {
+   "n": 71,
+   "text_deva": "ग्रहीताहिगृहीतस्य दानाद्वै तपसा तथा | पापसंशोधनं कुर्यादन्यथा रौरवं व्रजेत्",
+   "text_te": "గ్రహీతాహిగృహీతస్య దానాద్వై తపసా తథా | పాపసంశోధనం కుర్యాదన్యథా రౌరవం వ్రజేత్",
+   "text_en": "grahītāhigṛhītasya dānādvai tapasā tathā | pāpasaṁśodhanaṁ kuryādanyathā rauravaṁ vrajet",
+   "mean_en": "The recipient must, through austerity (tapas), purify the sin that comes from accepting a gift. Otherwise he will fall into Raurava hell.",
+   "mean_te": "గ్రహీత తపస్సుతో తాను స్వీకరించిన దానము వల్ల కలుగు పాపమును శుద్ధి చేసుకోవాలి; లేని చో రౌరవ నరకమునకు పోవును."
+  },
+  {
+   "n": 72,
+   "text_deva": "आत्मवित्तं त्रिधा कुर्याद्धर्मवृद्ध्यात्मभोगतः | नित्यं नैमित्तकं काम्यं कर्म कुर्यात्तु धर्मतः",
+   "text_te": "ఆత్మవిత్తం త్రిధా కుర్యాద్ధర్మవృద్ధ్యాత్మభోగతః | నిత్యం నైమిత్తకం కామ్యం కర్మ కుర్యాత్తు ధర్మతః",
+   "text_en": "ātmavittaṁ tridhā kuryāddharmavṛddhyātmabhogataḥ | nityaṁ naimittakaṁ kāmyaṁ karma kuryāttu dharmataḥ",
+   "mean_en": "One should divide one's wealth three ways — for the growth of dharma and for one's own enjoyment — and perform the nitya (daily), naimittika (occasional) and kamya (desire-based) karmas righteously.",
+   "mean_te": "తన ధనమును ధర్మవృద్ధికి, స్వానుభోగమునకు ఈ విధముగా మూడు విధములుగా విభజించాలి; నిత్య, నైమిత్తిక, కామ్య కర్మలను ధర్మము ప్రకారముగా ఆచరించాలి."
+  },
+  {
+   "n": 73,
+   "text_deva": "वित्तस्य वर्धनं कुर्याद्वृद्ध्यंशेन हि साधकः | हितेन मितमे ध्येन भोगं भोगांशतश्चरेत्",
+   "text_te": "విత్తస్య వర్ధనం కుర్యాద్వృద్ధ్యంశేన హి సాధకః | హితేన మితమే ధ్యేన భోగం భోగాంశతశ్చరేత్",
+   "text_en": "vittasya vardhanaṁ kuryādvṛddhyaṁśena hi sādhakaḥ | hitena mitame dhyena bhogaṁ bhogāṁśataścaret",
+   "mean_en": "The prudent man should increase his wealth only through its growing portion (income/interest), and should enjoy pleasures only from the enjoyment portion, in a beneficial, measured and pure manner.",
+   "mean_te": "సాధకుడు ధనవృద్ధి భాగముతో ధనమును అభివృద్ధి చేయాలి; హితమైన, మితమైన, శుద్ధమైన భోగభాగముతోనే భోగములను అనుభవించాలి."
+  },
+  {
+   "n": 74,
+   "text_deva": "कृष्यर्जिते दशांशं हि देयं पापस्य शुद्धये | शेषेण कुर्याद्धर्मादि अन्यथा रौरवं व्रजेत्",
+   "text_te": "కృష్యర్జితే దశాంశం హి దేయం పాపస్య శుద్ధయే | శేషేణ కుర్యాద్ధర్మాది అన్యథా రౌరవం వ్రజేత్",
+   "text_en": "kṛṣyarjite daśāṁśaṁ hi deyaṁ pāpasya śuddhaye | śeṣeṇa kuryāddharmādi anyathā rauravaṁ vrajet",
+   "mean_en": "From wealth earned through agriculture, one-tenth should be given away to purify sin, and with the remainder one should perform dharma and other duties; otherwise one falls into Raurava hell.",
+   "mean_te": "వ్యవసాయము వల్ల సంపాదించిన ధనములో పదవ భాగము పాపశుద్ధి కొరకు దానము చేయాలి; మిగిలిన దానితో ధర్మాదులు ఆచరించాలి; లేని చో రౌరవ నరకమునకు పోవును."
+  },
+  {
+   "n": 75,
+   "text_deva": "अथवा पापबुद्धिः स्यात्क्षयं वा सत्यमेष्यति | वृद्धिवाणिज्यके देयष्षडंशो हि विचक्षणैः",
+   "text_te": "అథవా పాపబుద్ధిః స్యాత్క్షయం వా సత్యమేష్యతి | వృద్ధివాణిజ్యకే దేయష్షడంశో హి విచక్షణైః",
+   "text_en": "athavā pāpabuddhiḥ syātkṣayaṁ vā satyameṣyati | vṛddhivāṇijyake deyaṣṣaḍaṁśo hi vicakṣaṇaiḥ",
+   "mean_en": "Alternatively, when there is the taint of sin or constant decline (of wealth), the wise prescribe one-sixth of wealth grown through trade as the gift.",
+   "mean_te": "అలాగే పాపదోషము కలిగినప్పుడు లేదా నిరంతర క్షయము (నష్టము) కలిగినప్పుడు, వాణిజ్యము వల్ల వృద్ధి చెందిన ధనములో ఆరవ భాగము దానము చేయాలని వివేకులు నిర్ణయించారు."
+  },
+  {
+   "n": 76,
+   "text_deva": "शुद्धप्रतिग्रहे देयश्चतुर्थांशो द्विजोत्तमैः | अकस्मादुत्थितेऽर्थे हि देयमर्धं द्विजोत्तमैः",
+   "text_te": "శుద్ధప్రతిగ్రహే దేయశ్చతుర్థాంశో ద్విజోత్తమైః | అకస్మాదుత్థితేఽర్థే హి దేయమర్ధం ద్విజోత్తమైః",
+   "text_en": "śuddhapratigrahe deyaścaturthāṁśo dvijottamaiḥ | akasmādutthite'rthe hi deyamardhaṁ dvijottamaiḥ",
+   "mean_en": "For wealth received through pure means, the best of the twice-born should give a fourth part as gift; for wealth that arises suddenly and unexpectedly, half should be given.",
+   "mean_te": "శుద్ధమైన సంపాదనకు ద్విజోత్తములు నాలుగవ భాగము దానము చేయాలి; అకస్మాత్తుగా సంభవించిన ధనములో సగభాగము దానము చేయాలి."
+  },
+  {
+   "n": 77,
+   "text_deva": "असत्प्रतिग्रहसर्वं दुर्दानं सागरे क्षिपेत् | आहूय दानं कर्तव्यमात्मभोगसमृद्धये",
+   "text_te": "అసత్ప్రతిగ్రహసర్వం దుర్దానం సాగరే క్షిపేత్ | ఆహూయ దానం కర్తవ్యమాత్మభోగసమృద్ధయే",
+   "text_en": "asatpratigrahasarvaṁ durdānaṁ sāgare kṣipet | āhūya dānaṁ kartavyamātmabhogasamṛddhaye",
+   "mean_en": "All wealth acquired from improper sources, being difficult to give away, should be cast into the ocean. Instead, gifts should be made to duly invited worthy recipients for the enrichment of one's own merit and enjoyment.",
+   "mean_te": "అన్యాయముగా స్వీకరించిన ధనమంతయు దానము చేయుటకు కష్టము కాబట్టి సముద్రమున విసర్జించాలి; తన పుణ్య-భోగ సమృద్ధి కొరకు యోగ్యులను ఆహ్వానించి దానము చేయాలి."
+  },
+  {
+   "n": 78,
+   "text_deva": "पृष्टं सर्वं सदा देयमात्मशक्त्यनुसारतः ७८ब्| जन्मांतरे ऋणी हि स्याददत्ते पृष्टवस्तुनि",
+   "text_te": "పృష్టం సర్వం సదా దేయమాత్మశక్త్యనుసారతః ७८బ్| జన్మాంతరే ఋణీ హి స్యాదదత్తే పృష్టవస్తుని",
+   "text_en": "pṛṣṭaṁ sarvaṁ sadā deyamātmaśaktyanusārataḥ ७८b| janmāṁtare ṛṇī hi syādadatte pṛṣṭavastuni",
+   "mean_en": "Whatever is asked for should always be given according to one's own capacity. If one does not give the thing asked for, one becomes a debtor in another birth.",
+   "mean_te": "అడిగినదంతయు తన శక్తి ప్రకారముగా ఎప్పుడూ ఇవ్వాలి; అడిగిన వస్తువును ఇవ్వకపోతే మరుజన్మలో ఋణీ (అప్పుదారుడు) అగును."
+  },
+  {
+   "n": 79,
+   "text_deva": "परेषां च तथा दोषं न प्रशंसेद्विचक्षणः | विशेषेण तथा ब्रह्मञ्छ्रुतं दृष्टं च नो वदेत्",
+   "text_te": "పరేషాం చ తథా దోషం న ప్రశంసేద్విచక్షణః | విశేషేణ తథా బ్రహ్మఞ్ఛ్రుతం దృష్టం చ నో వదేత్",
+   "text_en": "pareṣāṁ ca tathā doṣaṁ na praśaṁsedvicakṣaṇaḥ | viśeṣeṇa tathā brahmañchrutaṁ dṛṣṭaṁ ca no vadet",
+   "mean_en": "The wise should not proclaim the faults of others, and especially, O brahmin, should not tell others what he has heard or seen about them.",
+   "mean_te": "వివేకి పరుల దోషములను బహిర్గతపరచకూడదు; ముఖ్యముగా తాను విన్నదీ చూసినదీ ఎవరికీ చెప్పకూడదు."
+  },
+  {
+   "n": 80,
+   "text_deva": "न वदेत्सर्वजंतूनां हृदि रोषकरं बुधः | संध्ययोरग्निकार्यं च कुर्यादैश्वर्यसिद्धये",
+   "text_te": "న వదేత్సర్వజంతూనాం హృది రోషకరం బుధః | సంధ్యయోరగ్నికార్యం చ కుర్యాదైశ్వర్యసిద్ధయే",
+   "text_en": "na vadetsarvajaṁtūnāṁ hṛdi roṣakaraṁ budhaḥ | saṁdhyayoragnikāryaṁ ca kuryādaiśvaryasiddhaye",
+   "mean_en": "The wise one should not speak words that kindle anger in the hearts of living beings. He should perform the fire ritual at the two sandhyas (dawn and dusk) for the attainment of prosperity.",
+   "mean_te": "బుద్ధిమంతుడు సర్వ జీవుల హృదయములందు కోపము కలిగించు మాటలు పలువదు; ఐశ్వర్య సిద్ధి కొరకు సంధ్యలందు అగ్నికార్యము చేయాలి."
+  },
+  {
+   "n": 81,
+   "text_deva": "अशक्तस्त्वेककाले वा सूर्याग्नी च यथाविधि | तंडुलं धान्यमाज्यं वा फलं कंदं हविस्तथा",
+   "text_te": "అశక్తస్త్వేకకాలే వా సూర్యాగ్నీ చ యథావిధి | తండులం ధాన్యమాజ్యం వా ఫలం కందం హవిస్తథా",
+   "text_en": "aśaktastvekakāle vā sūryāgnī ca yathāvidhi | taṁḍulaṁ dhānyamājyaṁ vā phalaṁ kaṁdaṁ havistathā",
+   "mean_en": "One who is unable (to offer separately) may, in a single session, offer oblations to both the Sun and Fire as prescribed — rice, grains, ghee, or fruits and tubers as the havis.",
+   "mean_te": "శక్తి లేనివాడు ఒకే సారి సూర్యునికి, అగ్నికి విధి ప్రకారముగా వరి అన్నము, ధాన్యము, నెయ్యి, ఫలములు లేదా కందములు (దుంపలు) హవిస్సుగా సమర్పించవచ్చును."
+  },
+  {
+   "n": 82,
+   "text_deva": "स्थालीपाकं तथा कुर्याद्यथान्यायं यथाविधि | प्रधानहोममात्रं वा हव्याभावे समाचरेत्",
+   "text_te": "స్థాలీపాకం తథా కుర్యాద్యథాన్యాయం యథావిధి | ప్రధానహోమమాత్రం వా హవ్యాభావే సమాచరేత్",
+   "text_en": "sthālīpākaṁ tathā kuryādyathānyāyaṁ yathāvidhi | pradhānahomamātraṁ vā havyābhāve samācaret",
+   "mean_en": "Similarly one may perform the sthalipaka (pot-cooked rice offering) properly as prescribed, or, when oblations are unavailable, perform only the chief homa (pradhana homa).",
+   "mean_te": "విధి ప్రకారముగా స్థాలీపాకము (అన్నము వండి చేయు హోమము) చేయాలి; లేదా హవిస్సులు లభించనప్పుడు ప్రధాన హోమము మాత్రము చేయవచ్చును."
+  },
+  {
+   "n": 83,
+   "text_deva": "नित्यसंधानमित्युक्तं तमजस्रं विदुर्बुधाः | अथवा जपमात्रं वा सूर्यवंदनमेव च",
+   "text_te": "నిత్యసంధానమిత్యుక్తం తమజస్రం విదుర్బుధాః | అథవా జపమాత్రం వా సూర్యవందనమేవ చ",
+   "text_en": "nityasaṁdhānamityuktaṁ tamajasraṁ vidurbudhāḥ | athavā japamātraṁ vā sūryavaṁdanameva ca",
+   "mean_en": "This is called the nitya-sandhana (daily union ritual), which the wise know as unceasing; alternatively, mere japa (mantra repetition) or salutation of the Sun suffices.",
+   "mean_te": "ఇదే నిత్య సంధానమని పేర్కొనబడింది; వివేకులు దానిని నిరంతరమైనదిగా తెలిసికొని ఉంటారు; లేదా కేవలం జపము లేదా సూర్య వందనము మాత్రము చేయవచ్చును."
+  },
+  {
+   "n": 84,
+   "text_deva": "एवमात्मार्थिनः कुर्युरर्थार्थी च यथाविधि | ब्रह्मयज्ञरता नित्यं देवपूजारतास्तथा",
+   "text_te": "ఏవమాత్మార్థినః కుర్యురర్థార్థీ చ యథావిధి | బ్రహ్మయజ్ఞరతా నిత్యం దేవపూజారతాస్తథా",
+   "text_en": "evamātmārthinaḥ kuryurarthārthī ca yathāvidhi | brahmayajñaratā nityaṁ devapūjāratāstathā",
+   "mean_en": "Thus both the seeker of the Self and the seeker of wealth should act as prescribed — ever devoted to brahma-yajna (Vedic study/sacrifice) and devoted to the worship of the gods.",
+   "mean_te": "ఈ విధముగా ఆత్మకాంక్షులు అయినను, ధనకాంక్షుడు అయినను విధి ప్రకారముగా నడవాలి — నిత్యము బ్రహ్మయజ్ఞమునందు, దేవపూజయందు రసించుచు ఉండాలి."
+  }
+ ]
+}

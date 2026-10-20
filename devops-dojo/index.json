@@ -1,0 +1,66 @@
+{
+  "repoBase": "https://github.com/4ppd3ck/Appdata",
+  "app": "devops-dojo",
+  "files": [
+    {
+      "path": "vendor/js-yaml/js-yaml.min.js",
+      "size": 39430,
+      "sha256": "45dc3dd03dc07a06705a2c2989b8c7f709013f04bd5386e3279d4e447f07ebd7"
+    },
+    {
+      "path": "vendor/pyodide/PyYAML-6.0.1-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "size": 480325,
+      "sha256": "7e2c1229550f6e6c64398b551fd70d641709a02df9ae08449c6625451ab68c2a"
+    },
+    {
+      "path": "vendor/pyodide/numpy-1.26.4-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "size": 11959269,
+      "sha256": "4a2f5303a88a0747c5e6c80701e0ff4ff5667e487c0c9f9c73875e4d88f4cf9a"
+    },
+    {
+      "path": "vendor/pyodide/pandas-2.2.0-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "size": 23759073,
+      "sha256": "ae979af0f0be1e8c482408d838ea1366d187f3f057f47b429910e66dbba60673"
+    },
+    {
+      "path": "vendor/pyodide/pyodide-lock.json",
+      "size": 106335,
+      "sha256": "cd50b49de944c579045e122fe8628b31f9ce446379f032f36c05e273d38766e0"
+    },
+    {
+      "path": "vendor/pyodide/pyodide.asm.js",
+      "size": 1229099,
+      "sha256": "919560652ed3dad3707cb3a394785da1e046fb13dc0defa162058ff230cb7eed"
+    },
+    {
+      "path": "vendor/pyodide/pyodide.asm.wasm",
+      "size": 10088051,
+      "sha256": "b7e66a19427a55010ac3367c1b6c64b893f9826f783412945fdf0c3337f3bc94"
+    },
+    {
+      "path": "vendor/pyodide/pyodide.js",
+      "size": 14761,
+      "sha256": "c0069107621d5b942a659e737a12e774cc0451feaa2256f475d72e071d844ec7"
+    },
+    {
+      "path": "vendor/pyodide/python_dateutil-2.9.0.post0-py2.py3-none-any.whl",
+      "size": 444927,
+      "sha256": "302d74af893af51ee8b52e2c06a1fc2bc73cfe645eed3f35a17f082cdf101c7d"
+    },
+    {
+      "path": "vendor/pyodide/python_stdlib.zip",
+      "size": 2341872,
+      "sha256": "72894522b791858b9d613ac786b951d8b5094035dcf376313ea24a466810f336"
+    },
+    {
+      "path": "vendor/pyodide/pytz-2024.1-py2.py3-none-any.whl",
+      "size": 1083571,
+      "sha256": "561652a008b98ef7b66a6acf816e3f4d1c0e17e8ed9eb8dbb993037413cda597"
+    },
+    {
+      "path": "vendor/pyodide/six-1.16.0-py2.py3-none-any.whl",
+      "size": 38737,
+      "sha256": "f359c3850331f250d1a5e394aae58193774c6358676340aba992718589b9dcf1"
+    }
+  ]
+}

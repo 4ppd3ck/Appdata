@@ -1,0 +1,485 @@
+{
+  "voices": [
+    {
+      "id": "shruti",
+      "label": "Shruti — Microsoft neural (female)",
+      "ext": "mp3"
+    },
+    {
+      "id": "mohan",
+      "label": "Mohan — Microsoft neural (male)",
+      "ext": "mp3"
+    }
+  ],
+  "sargas": {
+    "adi-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ],
+      "2": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "anushasana-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "ashramavasika-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "ashvamedhika-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "bhishma-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ],
+      "2": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "drona-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ],
+      "2": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "karna-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "mahaprasthanika-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "mausala-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "sabha-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ],
+      "2": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "sauptika-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "shalya-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ],
+      "2": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "shanti-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "stri-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "svargarohana-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "udyoga-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ],
+      "2": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "vana-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ],
+      "2": [
+        "shruti",
+        "mohan"
+      ]
+    },
+    "virata-parva": {
+      "1": [
+        "shruti",
+        "mohan"
+      ],
+      "2": [
+        "shruti",
+        "mohan"
+      ]
+    }
+  },
+  "driveRootId": "1mQd98kvZ0rHXSKAJ_9ZzSVie8oqABIIn",
+  "githubBase": "https://raw.githubusercontent.com/4ppd3ck/Appdata/main/mythology/audio",
+  "driveKey": "",
+  "archives": {
+    "adi-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "adi-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1426034,
+      "sha256": "9679442c8936a8d0673acfa8d85bd147d3c13ea710493df0feb17a6ccaa05666",
+      "fileCount": 4
+    },
+    "adi-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "adi-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1430768,
+      "sha256": "5a6e5e1e6800ec39609c2fbae3ad4289cb29cb1293ddcf5adb6293868a894d00",
+      "fileCount": 4
+    },
+    "anushasana-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "anushasana-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 545066,
+      "sha256": "b5cbfb34ee3c9681b4d0934efa5e8d30ff453a61f274217a72744d83ba54f6ab",
+      "fileCount": 2
+    },
+    "anushasana-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "anushasana-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 544338,
+      "sha256": "133d7328b6c8902e27834c77b85666a7ba546107a70a750cf3cf7556059ccd52",
+      "fileCount": 2
+    },
+    "ashramavasika-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "ashramavasika-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 692264,
+      "sha256": "3531268fd338b862251a32e71643af68598383f2535329bf9503374c56a98447",
+      "fileCount": 2
+    },
+    "ashramavasika-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "ashramavasika-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 698014,
+      "sha256": "fb5a17c92e5ccffd7a5ac4f4c9ffcc8d4039e3ae83ea94d65315c0b0f83e87dc",
+      "fileCount": 2
+    },
+    "ashvamedhika-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "ashvamedhika-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 544473,
+      "sha256": "69b2d8e88ba56a709cc5856ec0164e3be211d6d48581f38720cd2865c9a62ecd",
+      "fileCount": 2
+    },
+    "ashvamedhika-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "ashvamedhika-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 542160,
+      "sha256": "0b845e3ce421d8e460140517ddc6a4a0cd233430254f93ef3adb7889ed073fb4",
+      "fileCount": 2
+    },
+    "bhishma-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "bhishma-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1616083,
+      "sha256": "18276107a0badea3f86ace3da6f49fd9492e2b3c4c5ba5d34c2dc6e28e31b3a7",
+      "fileCount": 4
+    },
+    "bhishma-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "bhishma-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1607432,
+      "sha256": "babac5e0842a1cdae95ee999e51bc1b4b8ab648ba115e090576b1688c9c92d14",
+      "fileCount": 4
+    },
+    "drona-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "drona-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 3260564,
+      "sha256": "766abaf476979fc8b0c0d27c83eb1c165aa005af77a2605a2ccaf9565f390dfa",
+      "fileCount": 4
+    },
+    "drona-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "drona-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 3294971,
+      "sha256": "4e52deca62ee5a829cfac9b95d771b435d53dd2146111964d8a5f59c4a966143",
+      "fileCount": 4
+    },
+    "karna-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "karna-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 778606,
+      "sha256": "914f9e16ab67b2ad95eaf278557379f935257783ae101babe1f1b40c9153cb34",
+      "fileCount": 2
+    },
+    "karna-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "karna-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 781478,
+      "sha256": "2d785b9fb1b750212d3d8cdec3011ae63f6a4d63c9a6dc9d66581d159078e82b",
+      "fileCount": 2
+    },
+    "mahaprasthanika-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "mahaprasthanika-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 729829,
+      "sha256": "52e1eef84f06d29e9bcfea6704e783f995ae55dc0dda196cd1912fd2c7144775",
+      "fileCount": 2
+    },
+    "mahaprasthanika-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "mahaprasthanika-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 730687,
+      "sha256": "1e706c5ad1f3c3217a9bd2d2ef7c78ef09ece51e18d42097f5c6caf7f8916519",
+      "fileCount": 2
+    },
+    "mausala-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "mausala-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 788997,
+      "sha256": "ae6fa11684880e7ccb79ef628812a18f0f26c6cec7c1fffb2603ef697f2b315d",
+      "fileCount": 2
+    },
+    "mausala-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "mausala-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 786973,
+      "sha256": "7d6648d7c1adf37b97bbaec3041f3e04068206eee5a46a7ac920e813d1aef57b",
+      "fileCount": 2
+    },
+    "sabha-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "sabha-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1222789,
+      "sha256": "44f0ed3a34f0d8b5483387a617431a0b451ea32e728ef543983094e78ecc1095",
+      "fileCount": 4
+    },
+    "sabha-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "sabha-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1224218,
+      "sha256": "01122b6acb4ff84e78698ef7b2b8f5101dd28083d605dae77f1197659d75b17e",
+      "fileCount": 4
+    },
+    "sauptika-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "sauptika-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 777767,
+      "sha256": "4dd025c9c552f2588749c5cf9672e8f190feb1c092fa8e0ff2fdcf4fe4c89d6d",
+      "fileCount": 2
+    },
+    "sauptika-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "sauptika-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 776321,
+      "sha256": "6c5fe61597a0d461a4d0cc7076cea10845e142ecaafbfc76367543feade7c66b",
+      "fileCount": 2
+    },
+    "shalya-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "shalya-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1298500,
+      "sha256": "49f23d1f6a4760c0360f96e49894f324987e1510f067d2c37fbac6f620e885b3",
+      "fileCount": 4
+    },
+    "shalya-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "shalya-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1290707,
+      "sha256": "fe16e7b651cadec3c0e05193e91e0fafd350bde7b8878c16019cebe6c0574f80",
+      "fileCount": 4
+    },
+    "shanti-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "shanti-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 619770,
+      "sha256": "8b0a2605b069238e7bc269aa639af18a2d8a1c420e86ce1e039b6af99ffe6ed6",
+      "fileCount": 2
+    },
+    "shanti-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "shanti-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 612134,
+      "sha256": "64c1767004a9cc5e4d700c9c53baabe3cd8de1dc950dae6b3ce231f3e2e83e9d",
+      "fileCount": 2
+    },
+    "stri-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "stri-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 622957,
+      "sha256": "e80297e25c9feb1590e75ba3aec8cd56737759a0bfbfec863281f1bd35bbbead",
+      "fileCount": 2
+    },
+    "stri-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "stri-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 616903,
+      "sha256": "a15ac42a3fadb4c11dff09c5664e11391d44bb7a731233259cb72ec32ea3b2b1",
+      "fileCount": 2
+    },
+    "svargarohana-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "svargarohana-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 632191,
+      "sha256": "afd17f97e4cf50e376b2316ce285cc3c47ca9784d246a9972fb7d98efb14e3e5",
+      "fileCount": 2
+    },
+    "svargarohana-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "svargarohana-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 629593,
+      "sha256": "a2c2bf62a64e6c1162cb94d35c66cfa803ba427257746dc6fb903c87d50cbd60",
+      "fileCount": 2
+    },
+    "udyoga-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "udyoga-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1172100,
+      "sha256": "8b6e72d5d4dfa7c044a76b4e010e2df43bce4adc53938b40e49c0641dca60521",
+      "fileCount": 4
+    },
+    "udyoga-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "udyoga-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1175543,
+      "sha256": "7013c6bbd1e0e6f5ea8f4b593fe03256cc6efbf85b7de1571394d8561b756547",
+      "fileCount": 4
+    },
+    "vana-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "vana-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1341179,
+      "sha256": "f8b852cbb054fe6ee175dc6d4579f9a963b85d38151dc970069aeda9179f5e49",
+      "fileCount": 4
+    },
+    "vana-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "vana-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1343181,
+      "sha256": "f7f0e537c5a619b29ef3d8f9cc3ecefb0a4577de83bc4f9a4ef58f4ee9376b30",
+      "fileCount": 4
+    },
+    "virata-parva-shruti": {
+      "epic": "mahabharata",
+      "kanda": "virata-parva",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 2888475,
+      "sha256": "6eb91bf97269e2af7618df5542d5fcebeae01b95ac063d74ddca570818c57f9c",
+      "fileCount": 4
+    },
+    "virata-parva-mohan": {
+      "epic": "mahabharata",
+      "kanda": "virata-parva",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 2911070,
+      "sha256": "e12dda2a56a79e2c1a770cc1d0f7f41ca0346e3b4876cd95be35951cb6b41bf2",
+      "fileCount": 4
+    }
+  }
+}

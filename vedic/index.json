@@ -1,0 +1,207 @@
+{
+  "repoBase": "https://github.com/4ppd3ck/Appdata",
+  "app": "vedic",
+  "zip": {
+    "file": "data.zip",
+    "sha256": "b5c6bd226d6b73b3caf9a22265655ab53eb798aa319bcaa237bca771c638bdd6",
+    "bytes": 391665,
+    "files": 39
+  },
+  "files": [
+    {
+      "path": "data/audio/index.json",
+      "size": 20029,
+      "sha256": "3cbf3a2229fb51e4190f4a31015328304f672a7557612dbe6e63334ebadeed43"
+    },
+    {
+      "path": "data/bhairava-forms.json",
+      "size": 25096,
+      "sha256": "7e5aa2297142759335a5a567b08a1b317eb9564e0c894b94e9c037642acace5e"
+    },
+    {
+      "path": "data/index.json",
+      "size": 2293,
+      "sha256": "cb9df7bcf641bbd15e807570a773dd7e6af6cc6f0db78b01100067315e969e6d"
+    },
+    {
+      "path": "data/mythology.json",
+      "size": 19536,
+      "sha256": "bb36f94da57996cd5900f1361cac1b94b42a900f284cc3065593ed886073317f"
+    },
+    {
+      "path": "data/parayana-guide.json",
+      "size": 83628,
+      "sha256": "11d3779f0c3317060dc8cf8582f97e7dd41b841f5ac854de96b1928efcdd9705"
+    },
+    {
+      "path": "data/stotras/achyutashtakam.json",
+      "size": 14130,
+      "sha256": "be4fcd0d6fc0901fbf7fc86bbd8ce03e3a490db00d08e414588ed1252ca155c3"
+    },
+    {
+      "path": "data/stotras/aditya-hridayam.json",
+      "size": 36525,
+      "sha256": "7ce709bd426c8e71f0b9a7c99f2df615e7c196d53ce99e9fdc5900a8715c68e0"
+    },
+    {
+      "path": "data/stotras/bajrang-baan.json",
+      "size": 22181,
+      "sha256": "7862b92429a623c9406c91363272d0a4967b42e5fb401cb7e81eeff9d2f9c129"
+    },
+    {
+      "path": "data/stotras/bhatuka-bhairava-ashtottara.json",
+      "size": 34607,
+      "sha256": "0ede596b828d405ed2ebfe94e3734f84e0fc0f274ca19f0de0dd65dc070de564"
+    },
+    {
+      "path": "data/stotras/dasharatha-shani-stotram.json",
+      "size": 18335,
+      "sha256": "fa42acb6125b4684f4586526cb48c287b8037229d36aa832356b22013fac8b0b"
+    },
+    {
+      "path": "data/stotras/durga-ashtottara.json",
+      "size": 35629,
+      "sha256": "7d95e7cc4f186fb906f0622b82e35f5b6cda4e00c603e8cd7ccfa45272285f3e"
+    },
+    {
+      "path": "data/stotras/durga-saptashati-hymns.json",
+      "size": 115293,
+      "sha256": "d7c7730e6d75ed83c7c5fc2d3deb7bc5764ae277d0788cda6c3d1abddc827450"
+    },
+    {
+      "path": "data/stotras/ganapati-atharvashirsham.json",
+      "size": 31299,
+      "sha256": "d13ab8822de05840c9b38a36070c40da37267f51ac370b4c3b0b7f5d6448ed8d"
+    },
+    {
+      "path": "data/stotras/ganesha-ashtottara.json",
+      "size": 34491,
+      "sha256": "1638f314711d52c072055a03301ce4e71502f8a572de9718c206d4a571fc0e65"
+    },
+    {
+      "path": "data/stotras/ganesha-pancharatnam.json",
+      "size": 11216,
+      "sha256": "e05ecab01b90ceb0cc61daa9dc3530acddb91c56d22769aa212de7df5c9906c6"
+    },
+    {
+      "path": "data/stotras/hanuman-ashtottara.json",
+      "size": 36729,
+      "sha256": "50716e1f4a34e712fe9c66f763dccea6392e5a22973772c16f37aa136697b9e4"
+    },
+    {
+      "path": "data/stotras/hanuman-chalisa.json",
+      "size": 31292,
+      "sha256": "50f76b7e70a6252ae8ceb476486e8a021784808da168f0044c91d93e27179ce3"
+    },
+    {
+      "path": "data/stotras/kalabhairava-ashtakam.json",
+      "size": 13786,
+      "sha256": "06e36bf5a55ef09a4ea859a31641f3c8760518bafda6c22ebeffc1f0d7708928"
+    },
+    {
+      "path": "data/stotras/kanakadhara-stotram.json",
+      "size": 31194,
+      "sha256": "4190dfd9d1264bec417bbc5a3318f3590750f0f3971e850336c7cb2d3b0f48e3"
+    },
+    {
+      "path": "data/stotras/krishna-ashtottara.json",
+      "size": 37138,
+      "sha256": "3d747eaf44934a1195142cd28e6e7e0cede313fd80db915bc4f73803040621d9"
+    },
+    {
+      "path": "data/stotras/lakshmi-ashtottara.json",
+      "size": 34915,
+      "sha256": "e27779e57bed1a5a139d16f5ced4ce05a758c2408406bb72946231d783466100"
+    },
+    {
+      "path": "data/stotras/lalitha-sahasranamam.json",
+      "size": 170621,
+      "sha256": "40a45dcd757ed2431e257a6ed133799a3380a68c48c83db666c34e9a36e4539b"
+    },
+    {
+      "path": "data/stotras/lingashtakam.json",
+      "size": 12088,
+      "sha256": "b620b129f76253542ccd3dcc3fae48dae59f000c068b9f946b8146b0d15cd3de"
+    },
+    {
+      "path": "data/stotras/mahalakshmi-ashtakam.json",
+      "size": 10960,
+      "sha256": "25a7a9463bff6e3e0a41f4559b1ecfae6e5708b4db6c044a83811f934779b9ce"
+    },
+    {
+      "path": "data/stotras/rudra-japam.json",
+      "size": 4914,
+      "sha256": "784acdea75629745ab2f153ea70b94984809c382fe99f250ba998fe3a0d8ff22"
+    },
+    {
+      "path": "data/stotras/rudra-mantram.json",
+      "size": 5262,
+      "sha256": "820606122699360c8ddb305b9173116b7da2f2bd54cf045664f2572fd3d4f1d8"
+    },
+    {
+      "path": "data/stotras/santanagopala-stotram.json",
+      "size": 84070,
+      "sha256": "a8b570f0fc37288d22ccdf4113e5112e05d2e96f70fe5997bbb08560be0484f0"
+    },
+    {
+      "path": "data/stotras/saraswati-ashtottara.json",
+      "size": 35334,
+      "sha256": "fdccf1d6588617290e12178cdd9f085af90ebbcd74392e40b212b1afa58be708"
+    },
+    {
+      "path": "data/stotras/shani-ashtottara.json",
+      "size": 35176,
+      "sha256": "da91c8e1164a5254311f3d3937a15e563b75b81770f6caece87d6cf8746d3334"
+    },
+    {
+      "path": "data/stotras/shiva-ashtakam.json",
+      "size": 13459,
+      "sha256": "adb281041c41df382f62bb36075a4206daeebd1b301ad9b167c8d59609b5cbc6"
+    },
+    {
+      "path": "data/stotras/shiva-ashtottara.json",
+      "size": 35140,
+      "sha256": "b1a8611b5380fb6e15fad3a2c9bff628ab478bb7e6baec72bd5960f74cc289d0"
+    },
+    {
+      "path": "data/stotras/shiva-tandava-stotram.json",
+      "size": 22911,
+      "sha256": "88e5a64161c7768ff0f1b3ad0d083670e327f9d6372e5fdfde60fd723a2c04d0"
+    },
+    {
+      "path": "data/stotras/swarnakarshana-bhairava-ashtottara.json",
+      "size": 40106,
+      "sha256": "4b789186a1717d94e658dc6e0c138f70413f95700f88a216d6b268ccb33c0e96"
+    },
+    {
+      "path": "data/stotras/venkatesa-stotram.json",
+      "size": 13252,
+      "sha256": "df63f1f6b0c0146405e0a9d7707881e11952c2227e9b2bf1b5e9133a962a6b0a"
+    },
+    {
+      "path": "data/stotras/venkateswara-ashtottara.json",
+      "size": 43266,
+      "sha256": "dc08aae0761e70e531b2e6458c6f60e79f3a0084183fbdc148c9a04b0a07a60c"
+    },
+    {
+      "path": "data/stotras/venkateswara-suprabhatam.json",
+      "size": 41974,
+      "sha256": "66fe64c915d53c29fdefa879cf1105b414785b65028e8a0e987c77f8f1335485"
+    },
+    {
+      "path": "data/stotras/vishnu-ashtottara.json",
+      "size": 33979,
+      "sha256": "689372881ebc22de77ef551e682be3e5525018021ef4bff52bd1a42db2f4d19b"
+    },
+    {
+      "path": "data/stotras/vishnu-sahasranamam.json",
+      "size": 211124,
+      "sha256": "72ca57d19dd86e0755fbbcc759c1f9fc6ed85695b4f54b703981b5e82751990f"
+    },
+    {
+      "path": "data/vedic-tarot.json",
+      "size": 66542,
+      "sha256": "5e046b23ba2fa41f965999d590567018e73f016e7a548f9e2dc2cc6b0e75cb73"
+    }
+  ]
+}

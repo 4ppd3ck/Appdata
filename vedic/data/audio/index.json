@@ -1,0 +1,682 @@
+{
+  "voices": [
+    {
+      "id": "shruti",
+      "label": "Shruti — Microsoft neural (female)",
+      "ext": "mp3"
+    },
+    {
+      "id": "mohan",
+      "label": "Mohan — Microsoft neural (male)",
+      "ext": "mp3"
+    }
+  ],
+  "stotras": {
+    "lingashtakam": [
+      "shruti",
+      "mohan"
+    ],
+    "achyutashtakam": [
+      "shruti",
+      "mohan"
+    ],
+    "aditya-hridayam": [
+      "shruti",
+      "mohan"
+    ],
+    "bajrang-baan": [
+      "shruti",
+      "mohan"
+    ],
+    "bhatuka-bhairava-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "dasharatha-shani-stotram": [
+      "shruti",
+      "mohan"
+    ],
+    "durga-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "durga-saptashati-hymns": [
+      "shruti",
+      "mohan"
+    ],
+    "ganapati-atharvashirsham": [
+      "shruti",
+      "mohan"
+    ],
+    "ganesha-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "ganesha-pancharatnam": [
+      "shruti",
+      "mohan"
+    ],
+    "hanuman-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "hanuman-chalisa": [
+      "shruti",
+      "mohan"
+    ],
+    "kalabhairava-ashtakam": [
+      "shruti",
+      "mohan"
+    ],
+    "kanakadhara-stotram": [
+      "shruti",
+      "mohan"
+    ],
+    "krishna-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "lakshmi-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "lalitha-sahasranamam": [
+      "shruti",
+      "mohan"
+    ],
+    "mahalakshmi-ashtakam": [
+      "shruti",
+      "mohan"
+    ],
+    "rudra-japam": [
+      "shruti",
+      "mohan"
+    ],
+    "rudra-mantram": [
+      "shruti",
+      "mohan"
+    ],
+    "santanagopala-stotram": [
+      "shruti",
+      "mohan"
+    ],
+    "saraswati-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "shani-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "shiva-ashtakam": [
+      "shruti",
+      "mohan"
+    ],
+    "shiva-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "shiva-tandava-stotram": [
+      "shruti",
+      "mohan"
+    ],
+    "swarnakarshana-bhairava-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "venkatesa-stotram": [
+      "shruti",
+      "mohan"
+    ],
+    "venkateswara-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "venkateswara-suprabhatam": [
+      "shruti",
+      "mohan"
+    ],
+    "vishnu-ashtottara": [
+      "shruti",
+      "mohan"
+    ],
+    "vishnu-sahasranamam": [
+      "shruti",
+      "mohan"
+    ]
+  },
+  "archives": {
+    "achyutashtakam-shruti": {
+      "stotra": "achyutashtakam",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 550097,
+      "sha256": "de06a6b38c3f7f3a1a1b806874152b52046e45291167ddca2eff2d69f5763cbd",
+      "fileCount": 2
+    },
+    "achyutashtakam-mohan": {
+      "stotra": "achyutashtakam",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 566074,
+      "sha256": "22dd789e1e42261c58252ace9bd1c0bffe8e4252556b0f75e12ca38cf43ab327",
+      "fileCount": 2
+    },
+    "aditya-hridayam-shruti": {
+      "stotra": "aditya-hridayam",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1541596,
+      "sha256": "65a34db4b1686fb8f4fc628376ef7697389c19b214e33068796bc9b5538976b6",
+      "fileCount": 2
+    },
+    "aditya-hridayam-mohan": {
+      "stotra": "aditya-hridayam",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1573989,
+      "sha256": "d5ce454e8ba68dedfb1591d1c3f22d87e35e8f417a89b649859740e563d93a93",
+      "fileCount": 2
+    },
+    "bajrang-baan-shruti": {
+      "stotra": "bajrang-baan",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1108737,
+      "sha256": "c5aa92299868aa7ff628ef73a70010222546588297f0e72071e58dc97f4fae7f",
+      "fileCount": 2
+    },
+    "bajrang-baan-mohan": {
+      "stotra": "bajrang-baan",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1120109,
+      "sha256": "c5502873f25d4f2b43392fd6ae7cd90b4a7da9afd811fb828434f995151c8459",
+      "fileCount": 2
+    },
+    "bhatuka-bhairava-ashtottara-shruti": {
+      "stotra": "bhatuka-bhairava-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1767488,
+      "sha256": "a41dbe2f6d4405113c172db7e228b8d4bf3b6f753812f3eaa8d565f2992a307f",
+      "fileCount": 2
+    },
+    "bhatuka-bhairava-ashtottara-mohan": {
+      "stotra": "bhatuka-bhairava-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1797152,
+      "sha256": "37fae81105e91cd58ac0b8501196edd18c73b67c00cd25ca822e9f5496cd9ce8",
+      "fileCount": 2
+    },
+    "dasharatha-shani-stotram-shruti": {
+      "stotra": "dasharatha-shani-stotram",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 679123,
+      "sha256": "06dd22972b95ba9dedf9a8abb1a21ce6da2972cc4d783ab24e4a1254eab4f17f",
+      "fileCount": 2
+    },
+    "dasharatha-shani-stotram-mohan": {
+      "stotra": "dasharatha-shani-stotram",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 692803,
+      "sha256": "27f45a240e0b08d5af072eea48b3346d4cf936114dde7a6ad7dfd7fe3f5be915",
+      "fileCount": 2
+    },
+    "durga-ashtottara-shruti": {
+      "stotra": "durga-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1782875,
+      "sha256": "e9da577a25433610b5d1f1165cdc56a8413533747bcd9d937a728b146eddb799",
+      "fileCount": 2
+    },
+    "durga-ashtottara-mohan": {
+      "stotra": "durga-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1801028,
+      "sha256": "e8f34ad5bf198ccf2b8c9df7fdc967c37f9d25a18149f77d295e246e7f57f976",
+      "fileCount": 2
+    },
+    "durga-saptashati-hymns-shruti": {
+      "stotra": "durga-saptashati-hymns",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 5299061,
+      "sha256": "12328ddc17f1d47f3fb534ded30773b9a79c57bd208f6eb138b21ff55b26a425",
+      "fileCount": 2
+    },
+    "durga-saptashati-hymns-mohan": {
+      "stotra": "durga-saptashati-hymns",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 5400571,
+      "sha256": "e054704578e16920014697106f56d823daa6869fdd5a6f965543eefbc56c8aa3",
+      "fileCount": 2
+    },
+    "ganapati-atharvashirsham-shruti": {
+      "stotra": "ganapati-atharvashirsham",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 1627986,
+      "sha256": "7061d41a28ebe852a6c731582fc80036e37d545f043b5b2dc819f2eb90420f7f",
+      "fileCount": 2
+    },
+    "ganapati-atharvashirsham-mohan": {
+      "stotra": "ganapati-atharvashirsham",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 1662540,
+      "sha256": "effa5e095b8a394e445add42718557a27d900f89c90d1c98d65f7b4f6a2ad9b2",
+      "fileCount": 2
+    },
+    "ganesha-ashtottara-shruti": {
+      "stotra": "ganesha-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1765041,
+      "sha256": "3a96f04d553c0525a52375c1a15006154151fc0ffd976457d46f602e81b35366",
+      "fileCount": 2
+    },
+    "ganesha-ashtottara-mohan": {
+      "stotra": "ganesha-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1800164,
+      "sha256": "40e1343cdeabe7c04fd6ac13aecc15f9a5273e511f72694dfa7a9bbf8dde11f1",
+      "fileCount": 2
+    },
+    "ganesha-pancharatnam-shruti": {
+      "stotra": "ganesha-pancharatnam",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 430817,
+      "sha256": "1829fa59cc6affff032cf260c754024212b71bb53032ef98bd3e5f576a3fc4f3",
+      "fileCount": 2
+    },
+    "ganesha-pancharatnam-mohan": {
+      "stotra": "ganesha-pancharatnam",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 443046,
+      "sha256": "65e6a7d231f900af54f82080d707fd31088e2ecb944ba8de54ce9fce99460cf8",
+      "fileCount": 2
+    },
+    "hanuman-ashtottara-shruti": {
+      "stotra": "hanuman-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1920413,
+      "sha256": "83226ef905a532635c635c539d3f37dd8c8d8fa6b158e8483e48ceb9b7aacddd",
+      "fileCount": 2
+    },
+    "hanuman-ashtottara-mohan": {
+      "stotra": "hanuman-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1979872,
+      "sha256": "4ec600e328b9531750d361336cc20aff5e7883e1e4adf32cb331a0a7bc20368d",
+      "fileCount": 2
+    },
+    "hanuman-chalisa-shruti": {
+      "stotra": "hanuman-chalisa",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1416885,
+      "sha256": "87a4a16b4aeb3e8d4e5efc33981069ba6e7ac8a213609cb88796d612bd6d025c",
+      "fileCount": 2
+    },
+    "hanuman-chalisa-mohan": {
+      "stotra": "hanuman-chalisa",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1433583,
+      "sha256": "cd888f27dd92cc327fa1de3e23d18fb3335a8df52916e957564dbf6252fb8dbc",
+      "fileCount": 2
+    },
+    "kalabhairava-ashtakam-shruti": {
+      "stotra": "kalabhairava-ashtakam",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 618077,
+      "sha256": "d485a6fbb27d12c0cf5df2e69c5e25a2625f9246dbd92c618b57c66d4b1be0b1",
+      "fileCount": 2
+    },
+    "kalabhairava-ashtakam-mohan": {
+      "stotra": "kalabhairava-ashtakam",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 637367,
+      "sha256": "f7b332f662c791562f371cd32d89b1e4e02e388d75c1635610e37181035c53c6",
+      "fileCount": 2
+    },
+    "kanakadhara-stotram-shruti": {
+      "stotra": "kanakadhara-stotram",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 1550587,
+      "sha256": "e2df18350cc1665402ef839b3ccae6d81741bec38fdabc6a0a7aaa19f228cd3c",
+      "fileCount": 2
+    },
+    "kanakadhara-stotram-mohan": {
+      "stotra": "kanakadhara-stotram",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 1589324,
+      "sha256": "e998cd104acd21e21c723b3571e162de5401c4c8c536630fc0974ca724dc216e",
+      "fileCount": 2
+    },
+    "krishna-ashtottara-shruti": {
+      "stotra": "krishna-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1903568,
+      "sha256": "bafd298ffbd877bf375a00aa02f274dc2d597451aedbc5a7d632c74833881426",
+      "fileCount": 2
+    },
+    "krishna-ashtottara-mohan": {
+      "stotra": "krishna-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1962321,
+      "sha256": "53779b40ca18c7daae504f5f30981cab9e2dd062322e1c4c522e174e716196d3",
+      "fileCount": 2
+    },
+    "lakshmi-ashtottara-shruti": {
+      "stotra": "lakshmi-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1790517,
+      "sha256": "c2237522b0e9a4a1c5405ebad9fbd26ad0150c6ee4aba5ddad2b068c43510ddc",
+      "fileCount": 2
+    },
+    "lakshmi-ashtottara-mohan": {
+      "stotra": "lakshmi-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1820322,
+      "sha256": "f1474471d9af1017b34991152bffa4d75e793c0b789e2022880a3b778e432979",
+      "fileCount": 2
+    },
+    "lalitha-sahasranamam-shruti": {
+      "stotra": "lalitha-sahasranamam",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 7130424,
+      "sha256": "36dd3fac55fefdd4908385c24b5d0499295c5293d89be6915ef599f1a0965ff1",
+      "fileCount": 2
+    },
+    "lalitha-sahasranamam-mohan": {
+      "stotra": "lalitha-sahasranamam",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 7348290,
+      "sha256": "d6369e13c1668d037dd9d2d06b50c79d0533a4430a75a1225a1c38f90fc1d6ce",
+      "fileCount": 2
+    },
+    "lingashtakam-shruti": {
+      "stotra": "lingashtakam",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 468014,
+      "sha256": "e0593b18cd67aaf565498bfc45420415cb186daac0956c07b858adf72608dd70",
+      "fileCount": 2
+    },
+    "lingashtakam-mohan": {
+      "stotra": "lingashtakam",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 479522,
+      "sha256": "ff44f1e99e98d151259ed833269f3c519c3cdd9fbcad5bab26155b9e4beb1883",
+      "fileCount": 2
+    },
+    "mahalakshmi-ashtakam-shruti": {
+      "stotra": "mahalakshmi-ashtakam",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 456409,
+      "sha256": "709ac80d1940150ef3822404a4a547d56bc25df668fbbc0aed7bae3fa4887311",
+      "fileCount": 2
+    },
+    "mahalakshmi-ashtakam-mohan": {
+      "stotra": "mahalakshmi-ashtakam",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 462878,
+      "sha256": "ed5e33e47dfb42d6ab1fa02852804613744eceaf2c593f72c5e426a578350304",
+      "fileCount": 2
+    },
+    "rudra-japam-shruti": {
+      "stotra": "rudra-japam",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 129814,
+      "sha256": "41037f4c7bd5b114dec188ada53a42d5a2f28b3973bdd46e60bb831732f2a8eb",
+      "fileCount": 2
+    },
+    "rudra-japam-mohan": {
+      "stotra": "rudra-japam",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 134698,
+      "sha256": "699d9aba787f97ee29632999ccdfb90faaee8a1b0fe1faeee5ca6e6b5deb2309",
+      "fileCount": 2
+    },
+    "rudra-mantram-shruti": {
+      "stotra": "rudra-mantram",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 171724,
+      "sha256": "2db4cf90923b61d7943c7435713510f03acf011ac99c9186b623807bea2a3274",
+      "fileCount": 2
+    },
+    "rudra-mantram-mohan": {
+      "stotra": "rudra-mantram",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 176756,
+      "sha256": "0fbdfb1b7350a510bf9eb13cdfebf58eec7a4c11a9ea6f9b3adb3f106b2b69c3",
+      "fileCount": 2
+    },
+    "santanagopala-stotram-shruti": {
+      "stotra": "santanagopala-stotram",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 4233207,
+      "sha256": "b5961f628d1221b0e4a68a52fe53f99c141f9dac4d8c6d8784a06fdc60207c03",
+      "fileCount": 2
+    },
+    "santanagopala-stotram-mohan": {
+      "stotra": "santanagopala-stotram",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 4307077,
+      "sha256": "5c2af3fd25da4f02a2da3956fd0b1eff450d4a9501d3000a2608145f44719694",
+      "fileCount": 2
+    },
+    "saraswati-ashtottara-shruti": {
+      "stotra": "saraswati-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1801322,
+      "sha256": "6a8e58baae3549263ccb3a23da8f24f1a39f85e40b5f453356117465ce4f99ea",
+      "fileCount": 2
+    },
+    "saraswati-ashtottara-mohan": {
+      "stotra": "saraswati-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1840630,
+      "sha256": "64b706e4864613ca04396f5e1796b2f854585c7db5209777f83299135a32da8c",
+      "fileCount": 2
+    },
+    "shani-ashtottara-shruti": {
+      "stotra": "shani-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1809238,
+      "sha256": "a3b6bbc3e91b79696cb81d2fc5aa8a3eb3ed1121c59b70c9eaa7995a5f418c3b",
+      "fileCount": 2
+    },
+    "shani-ashtottara-mohan": {
+      "stotra": "shani-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1850566,
+      "sha256": "71ea1541870cf3869bfb93dba49d4552d497b63518d53ed608b22deb7f570d52",
+      "fileCount": 2
+    },
+    "shiva-ashtakam-shruti": {
+      "stotra": "shiva-ashtakam",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 550383,
+      "sha256": "2dc3f4ed5869ed1cc8bc3edecbbaa69e1bd14bb0a13ad05b8f7fe993f8c2661a",
+      "fileCount": 2
+    },
+    "shiva-ashtakam-mohan": {
+      "stotra": "shiva-ashtakam",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 561896,
+      "sha256": "ab6fbc5668a6d30f8e31747709aecf6bc49cf72e534f0d2df4d95a67dea893da",
+      "fileCount": 2
+    },
+    "shiva-ashtottara-shruti": {
+      "stotra": "shiva-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1752925,
+      "sha256": "2eff9d46d68985936f7d0209a4690c45fa2c1428b28ab3879d64e624aafecb3b",
+      "fileCount": 2
+    },
+    "shiva-ashtottara-mohan": {
+      "stotra": "shiva-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1786341,
+      "sha256": "8f209b196b322ede9119717335571f96779ed1bcaf03fc6bb8eff37c66e59c57",
+      "fileCount": 2
+    },
+    "shiva-tandava-stotram-shruti": {
+      "stotra": "shiva-tandava-stotram",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 1102212,
+      "sha256": "46a1552372992d94257db5bfe31e8169c67babaff2bdb68868d43eccdb1c04fb",
+      "fileCount": 2
+    },
+    "shiva-tandava-stotram-mohan": {
+      "stotra": "shiva-tandava-stotram",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 1127831,
+      "sha256": "08eadd6e7c16b16d5d008fa50e8a0e86d21d2d785d009c50c33a3a845f524019",
+      "fileCount": 2
+    },
+    "swarnakarshana-bhairava-ashtottara-shruti": {
+      "stotra": "swarnakarshana-bhairava-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1834615,
+      "sha256": "1a09ee17666dd8940aa18ddbb3226d6f81c4118f56912334dc675633675b0bab",
+      "fileCount": 2
+    },
+    "swarnakarshana-bhairava-ashtottara-mohan": {
+      "stotra": "swarnakarshana-bhairava-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1886597,
+      "sha256": "406f9722b314c2b2f5b2676325fbda4931d7677d7d1814b28155b1f032258e6d",
+      "fileCount": 2
+    },
+    "venkatesa-stotram-shruti": {
+      "stotra": "venkatesa-stotram",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 590464,
+      "sha256": "fc8e37239809cae09f7af2d8e27953725e6f531887a7062d914685de3613f6b5",
+      "fileCount": 2
+    },
+    "venkatesa-stotram-mohan": {
+      "stotra": "venkatesa-stotram",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 607741,
+      "sha256": "417147f87c2f7fe43e1e26cd79693b4a219930bc5a1142bee8cee8447ff40093",
+      "fileCount": 2
+    },
+    "venkateswara-ashtottara-shruti": {
+      "stotra": "venkateswara-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 2048432,
+      "sha256": "23567f502ec13335d8a53745328781db255dc8dae53c78cee86aa5be63abac88",
+      "fileCount": 2
+    },
+    "venkateswara-ashtottara-mohan": {
+      "stotra": "venkateswara-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 2121145,
+      "sha256": "d8a49a88b03e7c0b8e4a19f0c16cf206a6941c8f2e9b35a73d1ec28d10186b38",
+      "fileCount": 2
+    },
+    "venkateswara-suprabhatam-shruti": {
+      "stotra": "venkateswara-suprabhatam",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1785239,
+      "sha256": "1543c4155df85a6292021d351da7c4999009364e37fb123c0d2e9673159ebbcb",
+      "fileCount": 2
+    },
+    "venkateswara-suprabhatam-mohan": {
+      "stotra": "venkateswara-suprabhatam",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1841252,
+      "sha256": "3b93440a1738c2758f1714c69dbd7135f5d643da061af01eb37633141e4dc07f",
+      "fileCount": 2
+    },
+    "vishnu-ashtottara-shruti": {
+      "stotra": "vishnu-ashtottara",
+      "voice": "shruti",
+      "version": "20261011",
+      "bytes": 1767040,
+      "sha256": "20710d7608723d3f52c06cd3d1e6528a0855aab275c63cf2995bebf312f02614",
+      "fileCount": 2
+    },
+    "vishnu-ashtottara-mohan": {
+      "stotra": "vishnu-ashtottara",
+      "voice": "mohan",
+      "version": "20261011",
+      "bytes": 1797279,
+      "sha256": "6a4d91b31b43363d2ce6c7209a4ca3f51a458baa8225c5ed1ffa7a6c541e1668",
+      "fileCount": 2
+    },
+    "vishnu-sahasranamam-shruti": {
+      "stotra": "vishnu-sahasranamam",
+      "voice": "shruti",
+      "version": "20261012",
+      "bytes": 7797528,
+      "sha256": "e2709a6b0b1f5195133833f69431bbda98ab2bf36c80b1c884156fcc3e20259d",
+      "fileCount": 2
+    },
+    "vishnu-sahasranamam-mohan": {
+      "stotra": "vishnu-sahasranamam",
+      "voice": "mohan",
+      "version": "20261012",
+      "bytes": 8057282,
+      "sha256": "9f7963329a4c2924901f73912412617ddccb9ef4557eb37922647874ea688866",
+      "fileCount": 2
+    }
+  },
+  "driveRootId": "1mQd98kvZ0rHXSKAJ_9ZzSVie8oqABIIn",
+  "githubBase": "https://raw.githubusercontent.com/4ppd3ck/Appdata/main/vedic/audio",
+  "driveKey": "",
+  "datasetRepo": "https://github.com/4ppd3ck/Appdata"
+}

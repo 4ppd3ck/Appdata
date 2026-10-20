@@ -1,0 +1,291 @@
+{
+ "epics": {
+  "mahabharata": {
+   "id": "mahabharata",
+   "name": {
+    "en": "Mahabharatam",
+    "te": "మహాభారతం"
+   },
+   "author": {
+    "en": "Veda Vyasa",
+    "te": "వేద వ్యాసుడు"
+   },
+   "unitLabel": {
+    "en": "Parva",
+    "te": "పర్వము"
+   },
+   "sections": [
+    {
+     "id": "adi-parva",
+     "n": 1,
+     "name": {
+      "en": "Adi Parva",
+      "te": "ఆది పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Beginning",
+      "te": "ఆది గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "sabha-parva",
+     "n": 2,
+     "name": {
+      "en": "Sabha Parva",
+      "te": "సభా పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Assembly Hall",
+      "te": "సభా గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "vana-parva",
+     "n": 3,
+     "name": {
+      "en": "Vana Parva",
+      "te": "వన పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Forest",
+      "te": "వన గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "virata-parva",
+     "n": 4,
+     "name": {
+      "en": "Virata Parva",
+      "te": "విరాట పర్వము"
+     },
+     "title": {
+      "en": "The Book of Virata",
+      "te": "విరాట గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "udyoga-parva",
+     "n": 5,
+     "name": {
+      "en": "Udyoga Parva",
+      "te": "ఉద్యోగ పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Effort",
+      "te": "ఉద్యోగ గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "bhishma-parva",
+     "n": 6,
+     "name": {
+      "en": "Bhishma Parva",
+      "te": "భీష్మ పర్వము"
+     },
+     "title": {
+      "en": "The Book of Bhishma",
+      "te": "భీష్మ గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "drona-parva",
+     "n": 7,
+     "name": {
+      "en": "Drona Parva",
+      "te": "ద్రోణ పర్వము"
+     },
+     "title": {
+      "en": "The Book of Drona",
+      "te": "ద్రోణ గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "karna-parva",
+     "n": 8,
+     "name": {
+      "en": "Karna Parva",
+      "te": "కర్ణ పర్వము"
+     },
+     "title": {
+      "en": "The Book of Karna",
+      "te": "కర్ణ గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "shalya-parva",
+     "n": 9,
+     "name": {
+      "en": "Shalya Parva",
+      "te": "శల్య పర్వము"
+     },
+     "title": {
+      "en": "The Book of Shalya",
+      "te": "శల్య గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "sauptika-parva",
+     "n": 10,
+     "name": {
+      "en": "Sauptika Parva",
+      "te": "సౌప్తిక పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Night Raid",
+      "te": "సౌప్తిక గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "stri-parva",
+     "n": 11,
+     "name": {
+      "en": "Stri Parva",
+      "te": "స్త్రీ పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Women",
+      "te": "స్త్రీ గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "shanti-parva",
+     "n": 12,
+     "name": {
+      "en": "Shanti Parva",
+      "te": "శాంతి పర్వము"
+     },
+     "title": {
+      "en": "The Book of Peace",
+      "te": "శాంతి గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "anushasana-parva",
+     "n": 13,
+     "name": {
+      "en": "Anushasana Parva",
+      "te": "అనుశాసన పర్వము"
+     },
+     "title": {
+      "en": "The Book of Instructions",
+      "te": "అనుశాసన గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "ashvamedhika-parva",
+     "n": 14,
+     "name": {
+      "en": "Ashvamedhika Parva",
+      "te": "అశ్వమేధిక పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Horse Sacrifice",
+      "te": "అశ్వమేధ గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "ashramavasika-parva",
+     "n": 15,
+     "name": {
+      "en": "Ashramavasika Parva",
+      "te": "ఆశ్రమవాసిక పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Hermitage",
+      "te": "ఆశ్రమవాసిక గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "mausala-parva",
+     "n": 16,
+     "name": {
+      "en": "Mausala Parva",
+      "te": "మౌసల పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Clubs",
+      "te": "మౌసల గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "mahaprasthanika-parva",
+     "n": 17,
+     "name": {
+      "en": "Mahaprasthanika Parva",
+      "te": "మహాప్రస్థానిక పర్వము"
+     },
+     "title": {
+      "en": "The Book of the Great Journey",
+      "te": "మహాప్రస్థానిక గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    },
+    {
+     "id": "svargarohana-parva",
+     "n": 18,
+     "name": {
+      "en": "Svargarohana Parva",
+      "te": "స్వర్గారోహణ పర్వము"
+     },
+     "title": {
+      "en": "The Ascent to Heaven",
+      "te": "స్వర్గారోహణ గ్రంథం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు (GRETIL BORI మూలం నుండి) + ద్విభాషా కథా రూపం — అధ్యాయాలు క్రమంగా చేరుతున్నాయి.",
+     "note_en": "Real mula shlokas (GRETIL BORI edition) with authored meanings, plus the bilingual retelling — chapters arrive incrementally."
+    }
+   ]
+  }
+ }
+}

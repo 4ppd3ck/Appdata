@@ -1,0 +1,542 @@
+{
+ "kanda": "vayaviya-samhita",
+ "en": "Vayaviya Samhita",
+ "te": "వాయవీయ సంహిత",
+ "total_adhyayas": 76,
+ "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST; అర్థాలు క్రమంగా చేర్చబడుచున్నవి (మొత్తం 76 అధ్యాయాలు).",
+ "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST); meanings are being added incrementally (76 adhyayas).",
+ "sargas": [
+  {
+   "n": 1,
+   "title": "విద్యావతారకథనమ్",
+   "title_iast": "vidyāvatārakathanam",
+   "title_deva": "विद्यावतारकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-1/"
+  },
+  {
+   "n": 2,
+   "title": "మునిప్రస్తావవర్ణనమ్",
+   "title_iast": "muniprastāvavarṇanam",
+   "title_deva": "मुनिप्रस्ताववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-2/"
+  },
+  {
+   "n": 3,
+   "title": "నైమిషోపాఖ్యానమ్",
+   "title_iast": "naimiṣopākhyānam",
+   "title_deva": "नैमिषोपाख्यानम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-3/"
+  },
+  {
+   "n": 4,
+   "title": "వాయుసమాగమః",
+   "title_iast": "vāyusamāgamaḥ",
+   "title_deva": "वायुसमागमः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-4/"
+  },
+  {
+   "n": 5,
+   "title": "శివతత్త్వజ్ఞానవర్ణనమ్",
+   "title_iast": "śivatattvajñānavarṇanam",
+   "title_deva": "शिवतत्त्वज्ञानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-5/"
+  },
+  {
+   "n": 6,
+   "title": "శివతత్త్వవర్ణనమ్",
+   "title_iast": "śivatattvavarṇanam",
+   "title_deva": "शिवतत्त्ववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-6/"
+  },
+  {
+   "n": 7,
+   "title": "కాలమహిమవర్ణనమ్",
+   "title_iast": "kālamahimavarṇanam",
+   "title_deva": "कालमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-7/"
+  },
+  {
+   "n": 8,
+   "title": "కేన మానేన కాలేస్మిన్నాయుస్సంఖ్యా ప్రకల్ప్యతే",
+   "title_iast": "kena mānena kālesminnāyussaṁkhyā prakalpyate",
+   "title_deva": "केन मानेन कालेस्मिन्नायुस्संख्या प्रकल्प्यते",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-8/"
+  },
+  {
+   "n": 9,
+   "title": "సృష్టిపాలనప్రలయకర్తృత్వవర్ణనమ్",
+   "title_iast": "sṛṣṭipālanapralayakartṛtvavarṇanam",
+   "title_deva": "सृष्टिपालनप्रलयकर्तृत्ववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-9/"
+  },
+  {
+   "n": 10,
+   "title": "బ్రహ్మాండస్థితివర్ణనమ్",
+   "title_iast": "brahmāṁḍasthitivarṇanam",
+   "title_deva": "ब्रह्मांडस्थितिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-10/"
+  },
+  {
+   "n": 11,
+   "title": "మన్వంతరాణి సర్వాణి కల్పభేదాంశ్చ సర్వశః",
+   "title_iast": "manvaṁtarāṇi sarvāṇi kalpabhedāṁśca sarvaśaḥ",
+   "title_deva": "मन्वंतराणि सर्वाणि कल्पभेदांश्च सर्वशः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-11/"
+  },
+  {
+   "n": 12,
+   "title": "సృష్టివర్ణనమ్",
+   "title_iast": "sṛṣṭivarṇanam",
+   "title_deva": "सृष्टिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-12/"
+  },
+  {
+   "n": 13,
+   "title": "బ్రహ్మవిష్ణుసృష్టికథనమ్",
+   "title_iast": "brahmaviṣṇusṛṣṭikathanam",
+   "title_deva": "ब्रह्मविष्णुसृष्टिकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-13/"
+  },
+  {
+   "n": 14,
+   "title": "రుద్రావిర్భావవర్ణనమ్",
+   "title_iast": "rudrāvirbhāvavarṇanam",
+   "title_deva": "रुद्राविर्भाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-14/"
+  },
+  {
+   "n": 15,
+   "title": "శివశివాస్తుతివర్ణనమ్",
+   "title_iast": "śivaśivāstutivarṇanam",
+   "title_deva": "शिवशिवास्तुतिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-15/"
+  },
+  {
+   "n": 16,
+   "title": "దేవీశక్త్యుద్భవః",
+   "title_iast": "devīśaktyudbhavaḥ",
+   "title_deva": "देवीशक्त्युद्भवः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-16/"
+  },
+  {
+   "n": 17,
+   "title": "సృష్టికథనమ్",
+   "title_iast": "sṛṣṭikathanam",
+   "title_deva": "सृष्टिकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-17/"
+  },
+  {
+   "n": 18,
+   "title": "దేవీ దక్షస్య తనయా త్యక్త్వా దాక్షాయణీ తనుమ్",
+   "title_iast": "devī dakṣasya tanayā tyaktvā dākṣāyaṇī tanum",
+   "title_deva": "देवी दक्षस्य तनया त्यक्त्वा दाक्षायणी तनुम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-18/"
+  },
+  {
+   "n": 19,
+   "title": "కథం దక్షస్య ధర్మార్థం ప్రవృత్తస్య దురాత్మనః",
+   "title_iast": "kathaṁ dakṣasya dharmārthaṁ pravṛttasya durātmanaḥ",
+   "title_deva": "कथं दक्षस्य धर्मार्थं प्रवृत्तस्य दुरात्मनः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-19/"
+  },
+  {
+   "n": 20,
+   "title": "యజ్ఞవిధ్వంసనః",
+   "title_iast": "yajñavidhvaṁsanaḥ",
+   "title_deva": "यज्ञविध्वंसनः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-20/"
+  },
+  {
+   "n": 21,
+   "title": "తతస్త్రిదశముఖ్యాస్తే విష్ణుశక్రపురోగమాః",
+   "title_iast": "tatastridaśamukhyāste viṣṇuśakrapurogamāḥ",
+   "title_deva": "ततस्त्रिदशमुख्यास्ते विष्णुशक्रपुरोगमाः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-21/"
+  },
+  {
+   "n": 22,
+   "title": "దక్షయజ్ఞవిధ్వంసవర్ణనమ్",
+   "title_iast": "dakṣayajñavidhvaṁsavarṇanam",
+   "title_deva": "दक्षयज्ञविध्वंसवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-22/"
+  },
+  {
+   "n": 23,
+   "title": "గిరిశానునయః",
+   "title_iast": "giriśānunayaḥ",
+   "title_deva": "गिरिशानुनयः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-23/"
+  },
+  {
+   "n": 24,
+   "title": "శివమన్దరగిరినివాసక్రీడోక్తవర్ణనమ్",
+   "title_iast": "śivamandaragirinivāsakrīḍoktavarṇanam",
+   "title_deva": "शिवमन्दरगिरिनिवासक्रीडोक्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-24/"
+  },
+  {
+   "n": 25,
+   "title": "దేవీగౌరత్వభవనమ్",
+   "title_iast": "devīgauratvabhavanam",
+   "title_deva": "देवीगौरत्वभवनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-25/"
+  },
+  {
+   "n": 26,
+   "title": "వ్యాఘ్రగతివర్ణనమ్",
+   "title_iast": "vyāghragativarṇanam",
+   "title_deva": "व्याघ्रगतिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-26/"
+  },
+  {
+   "n": 27,
+   "title": "కృత్వా గౌరం వపుర్దివ్యం దేవీ గిరివరాత్మజా",
+   "title_iast": "kṛtvā gauraṁ vapurdivyaṁ devī girivarātmajā",
+   "title_deva": "कृत्वा गौरं वपुर्दिव्यं देवी गिरिवरात्मजा",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-27/"
+  },
+  {
+   "n": 28,
+   "title": "దేవీం సమాదధానేన దేవేనేదం కిమీరితమ్",
+   "title_iast": "devīṁ samādadhānena devenedaṁ kimīritam",
+   "title_deva": "देवीं समादधानेन देवेनेदं किमीरितम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-28/"
+  },
+  {
+   "n": 29,
+   "title": "నివేదయామి జగతో వాగర్థాత్మ్యం కృతం యథా",
+   "title_iast": "nivedayāmi jagato vāgarthātmyaṁ kṛtaṁ yathā",
+   "title_deva": "निवेदयामि जगतो वागर्थात्म्यं कृतं यथा",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-29/"
+  },
+  {
+   "n": 30,
+   "title": "శివతత్త్వప్రశ్నః",
+   "title_iast": "śivatattvapraśnaḥ",
+   "title_deva": "शिवतत्त्वप्रश्नः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-30/"
+  },
+  {
+   "n": 31,
+   "title": "స్థనే సంశయితం విప్రా భవద్భిర్హేతుచోదితైః",
+   "title_iast": "sthane saṁśayitaṁ viprā bhavadbhirhetucoditaiḥ",
+   "title_deva": "स्थने संशयितं विप्रा भवद्भिर्हेतुचोदितैः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-31/"
+  },
+  {
+   "n": 32,
+   "title": "శ్రేష్ఠానుష్ఠానవర్ణనమ్",
+   "title_iast": "śreṣṭhānuṣṭhānavarṇanam",
+   "title_deva": "श्रेष्ठानुष्ठानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-32/"
+  },
+  {
+   "n": 33,
+   "title": "పశుపతివ్రతవిధానవర్ణనమ్",
+   "title_iast": "paśupativratavidhānavarṇanam",
+   "title_deva": "पशुपतिव्रतविधानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-33/"
+  },
+  {
+   "n": 34,
+   "title": "ఉపమన్యుతపోవర్ణనమ్",
+   "title_iast": "upamanyutapovarṇanam",
+   "title_deva": "उपमन्युतपोवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-34/"
+  },
+  {
+   "n": 35,
+   "title": "ఉపమన్యుచరితవర్ణనమ్",
+   "title_iast": "upamanyucaritavarṇanam",
+   "title_deva": "उपमन्युचरितवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/purva/adhyaya-35/"
+  },
+  {
+   "n": 36,
+   "title": "ఓం నమస్సమస్తసంసారచక్రభ్రమణహేతవే",
+   "title_iast": "oṁ namassamastasaṁsāracakrabhramaṇahetave",
+   "title_deva": "ओं नमस्समस्तसंसारचक्रभ्रमणहेतवे",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-1/"
+  },
+  {
+   "n": 37,
+   "title": "కిం తత్పాశుపతం జ్ఞానం కథం పశుపతిశ్శివః",
+   "title_iast": "kiṁ tatpāśupataṁ jñānaṁ kathaṁ paśupatiśśivaḥ",
+   "title_deva": "किं तत्पाशुपतं ज्ञानं कथं पशुपतिश्शिवः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-2/"
+  },
+  {
+   "n": 38,
+   "title": "శృణు కృష్ణ మహేశస్య శివస్య పరమాత్మనః",
+   "title_iast": "śṛṇu kṛṣṇa maheśasya śivasya paramātmanaḥ",
+   "title_deva": "शृणु कृष्ण महेशस्य शिवस्य परमात्मनः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-3/"
+  },
+  {
+   "n": 39,
+   "title": "గౌరీశంకరవిభూతియోగః",
+   "title_iast": "gaurīśaṁkaravibhūtiyogaḥ",
+   "title_deva": "गौरीशंकरविभूतियोगः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-4/"
+  },
+  {
+   "n": 40,
+   "title": "పశుపతిత్వజ్ఞానయోగః",
+   "title_iast": "paśupatitvajñānayogaḥ",
+   "title_deva": "पशुपतित्वज्ञानयोगः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-5/"
+  },
+  {
+   "n": 41,
+   "title": "శివతత్త్వవర్ణనమ్",
+   "title_iast": "śivatattvavarṇanam",
+   "title_deva": "शिवतत्त्ववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-6/"
+  },
+  {
+   "n": 42,
+   "title": "శివతత్త్వకథనమ్",
+   "title_iast": "śivatattvakathanam",
+   "title_deva": "शिवतत्त्वकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-7/"
+  },
+  {
+   "n": 43,
+   "title": "భగవఞ్ఛ్రోతుమిచ్ఛామి శివేన పరిభాషితమ్",
+   "title_iast": "bhagavañchrotumicchāmi śivena paribhāṣitam",
+   "title_deva": "भगवञ्छ्रोतुमिच्छामि शिवेन परिभाषितम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-8/"
+  },
+  {
+   "n": 44,
+   "title": "యోగావతారవర్ణనమ్",
+   "title_iast": "yogāvatāravarṇanam",
+   "title_deva": "योगावतारवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-9/"
+  },
+  {
+   "n": 45,
+   "title": "శివభక్తివర్ణనమ్",
+   "title_iast": "śivabhaktivarṇanam",
+   "title_deva": "शिवभक्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-10/"
+  },
+  {
+   "n": 46,
+   "title": "విదుషాం ద్విజముఖ్యానాం వర్ణధర్మసమాసతః",
+   "title_iast": "viduṣāṁ dvijamukhyānāṁ varṇadharmasamāsataḥ",
+   "title_deva": "विदुषां द्विजमुख्यानां वर्णधर्मसमासतः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-11/"
+  },
+  {
+   "n": 47,
+   "title": "పఞ్చాక్షరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pañcākṣaramāhātmyavarṇanam",
+   "title_deva": "पञ्चाक्षरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-12/"
+  },
+  {
+   "n": 48,
+   "title": "పఞ్చాక్షరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pañcākṣaramāhātmyavarṇanam",
+   "title_deva": "पञ्चाक्षरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-13/"
+  },
+  {
+   "n": 49,
+   "title": "ఆజ్ఞాహీనం క్రియాహీనం శ్రద్ధాహీనం వరాననే",
+   "title_iast": "ājñāhīnaṁ kriyāhīnaṁ śraddhāhīnaṁ varānane",
+   "title_deva": "आज्ञाहीनं क्रियाहीनं श्रद्धाहीनं वरानने",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-14/"
+  },
+  {
+   "n": 50,
+   "title": "గురుమాహాత్మ్యమ్",
+   "title_iast": "gurumāhātmyam",
+   "title_deva": "गुरुमाहात्म्यम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-15/"
+  },
+  {
+   "n": 51,
+   "title": "శిష్యసంస్కారవర్ణనమ్",
+   "title_iast": "śiṣyasaṁskāravarṇanam",
+   "title_deva": "शिष्यसंस्कारवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-16/"
+  },
+  {
+   "n": 52,
+   "title": "శివదీక్షావిధానవర్ణనమ్",
+   "title_iast": "śivadīkṣāvidhānavarṇanam",
+   "title_deva": "शिवदीक्षाविधानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-17/"
+  },
+  {
+   "n": 53,
+   "title": "తతః స్నానాదికం సర్వం సమాప్యాచార్యచోదితః",
+   "title_iast": "tataḥ snānādikaṁ sarvaṁ samāpyācāryacoditaḥ",
+   "title_deva": "ततः स्नानादिकं सर्वं समाप्याचार्यचोदितः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-18/"
+  },
+  {
+   "n": 54,
+   "title": "అతః పరం ప్రవక్ష్యామి సాధకం నామ నామతః",
+   "title_iast": "ataḥ paraṁ pravakṣyāmi sādhakaṁ nāma nāmataḥ",
+   "title_deva": "अतः परं प्रवक्ष्यामि साधकं नाम नामतः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-19/"
+  },
+  {
+   "n": 55,
+   "title": "విశేషాదిసంస్కృతిః",
+   "title_iast": "viśeṣādisaṁskṛtiḥ",
+   "title_deva": "विशेषादिसंस्कृतिः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-20/"
+  },
+  {
+   "n": 56,
+   "title": "భగవఞ్ఛ్రోతుమిచ్ఛామి శివాశ్రమనిషేవిణామ్",
+   "title_iast": "bhagavañchrotumicchāmi śivāśramaniṣeviṇām",
+   "title_deva": "भगवञ्छ्रोतुमिच्छामि शिवाश्रमनिषेविणाम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-21/"
+  },
+  {
+   "n": 57,
+   "title": "శివశాస్త్రోక్తనిత్యనైమిత్తికకర్మవర్ణనమ్",
+   "title_iast": "śivaśāstroktanityanaimittikakarmavarṇanam",
+   "title_deva": "शिवशास्त्रोक्तनित्यनैमित्तिककर्मवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-22/"
+  },
+  {
+   "n": 58,
+   "title": "పూజావిధానవ్యాఖ్యానవర్ణనమ్",
+   "title_iast": "pūjāvidhānavyākhyānavarṇanam",
+   "title_deva": "पूजाविधानव्याख्यानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-23/"
+  },
+  {
+   "n": 59,
+   "title": "శాస్త్రోక్తశివపూజనవర్ణనమ్",
+   "title_iast": "śāstroktaśivapūjanavarṇanam",
+   "title_deva": "शास्त्रोक्तशिवपूजनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-24/"
+  },
+  {
+   "n": 60,
+   "title": "శివశాస్త్రోక్తపూజనవర్ణనమ్",
+   "title_iast": "śivaśāstroktapūjanavarṇanam",
+   "title_deva": "शिवशास्त्रोक्तपूजनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-25/"
+  },
+  {
+   "n": 61,
+   "title": "సాంగోపాంగపూజావిధానవర్ణనమ్",
+   "title_iast": "sāṁgopāṁgapūjāvidhānavarṇanam",
+   "title_deva": "सांगोपांगपूजाविधानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-26/"
+  },
+  {
+   "n": 62,
+   "title": "అగ్నికార్యవర్ణనమ్",
+   "title_iast": "agnikāryavarṇanam",
+   "title_deva": "अग्निकार्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-27/"
+  },
+  {
+   "n": 63,
+   "title": "అతః పరం ప్రవక్ష్యామి శివాశ్రమనిషేవిణామ్",
+   "title_iast": "ataḥ paraṁ pravakṣyāmi śivāśramaniṣeviṇām",
+   "title_deva": "अतः परं प्रवक्ष्यामि शिवाश्रमनिषेविणाम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-28/"
+  },
+  {
+   "n": 64,
+   "title": "భగవంస్త్వన్ముఖాదేవ శ్రుతం శ్రుతిసమం మయా",
+   "title_iast": "bhagavaṁstvanmukhādeva śrutaṁ śrutisamaṁ mayā",
+   "title_deva": "भगवंस्त्वन्मुखादेव श्रुतं श्रुतिसमं मया",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-29/"
+  },
+  {
+   "n": 65,
+   "title": "కామ్యకవర్ణనమ్",
+   "title_iast": "kāmyakavarṇanam",
+   "title_deva": "काम्यकवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-30/"
+  },
+  {
+   "n": 66,
+   "title": "స్తోత్రం వక్ష్యామి తే కృష్ణ పఞ్చావరణమార్గతః",
+   "title_iast": "stotraṁ vakṣyāmi te kṛṣṇa pañcāvaraṇamārgataḥ",
+   "title_deva": "स्तोत्रं वक्ष्यामि ते कृष्ण पञ्चावरणमार्गतः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-31/"
+  },
+  {
+   "n": 67,
+   "title": "ఐహికసిద్ధికర్మవర్ణనమ్",
+   "title_iast": "aihikasiddhikarmavarṇanam",
+   "title_deva": "ऐहिकसिद्धिकर्मवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-32/"
+  },
+  {
+   "n": 68,
+   "title": "ఆముష్మికకర్మవిధివర్ణనమ్",
+   "title_iast": "āmuṣmikakarmavidhivarṇanam",
+   "title_deva": "आमुष्मिककर्मविधिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-33/"
+  },
+  {
+   "n": 69,
+   "title": "హరివిధిమోహవర్ణనమ్",
+   "title_iast": "harividhimohavarṇanam",
+   "title_deva": "हरिविधिमोहवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-34/"
+  },
+  {
+   "n": 70,
+   "title": "హరివిధిమోహనివారణమ్",
+   "title_iast": "harividhimohanivāraṇam",
+   "title_deva": "हरिविधिमोहनिवारणम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-35/"
+  },
+  {
+   "n": 71,
+   "title": "ప్రతిష్ఠావిధివర్ణనమ్",
+   "title_iast": "pratiṣṭhāvidhivarṇanam",
+   "title_deva": "प्रतिष्ठाविधिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-36/"
+  },
+  {
+   "n": 72,
+   "title": "యోగగతివర్ణనమ్",
+   "title_iast": "yogagativarṇanam",
+   "title_deva": "योगगतिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-37/"
+  },
+  {
+   "n": 73,
+   "title": "ఆలస్యం వ్యాధయస్తీవ్రాః ప్రమాదః స్థానసంశయః",
+   "title_iast": "ālasyaṁ vyādhayastīvrāḥ pramādaḥ sthānasaṁśayaḥ",
+   "title_deva": "आलस्यं व्याधयस्तीव्राः प्रमादः स्थानसंशयः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-38/"
+  },
+  {
+   "n": 74,
+   "title": "శ్రీకంఠనాథం స్మరతాం సద్యః సర్వార్థసిద్ధయః",
+   "title_iast": "śrīkaṁṭhanāthaṁ smaratāṁ sadyaḥ sarvārthasiddhayaḥ",
+   "title_deva": "श्रीकंठनाथं स्मरतां सद्यः सर्वार्थसिद्धयः",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-39/"
+  },
+  {
+   "n": 75,
+   "title": "నైమిషర్షియాత్రావర్ణనమ్",
+   "title_iast": "naimiṣarṣiyātrāvarṇanam",
+   "title_deva": "नैमिषर्षियात्रावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-40/"
+  },
+  {
+   "n": 76,
+   "title": "తత్ర స్కందసరో నామ సరస్సాగరసన్నిభమ్",
+   "title_iast": "tatra skaṁdasaro nāma sarassāgarasannibham",
+   "title_deva": "तत्र स्कंदसरो नाम सरस्सागरसन्निभम्",
+   "url": "https://vaidhikadharma.org/puranas/shiva/vayaviya/uttara/adhyaya-41/"
+  }
+ ]
+}

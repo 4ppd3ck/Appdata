@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Archives and media must never be normalized (content-addressed by sha256)
+*.zip binary
+*.part* binary
+*.mp3 binary
+*.png binary
+*.icns binary
+*.wasm binary

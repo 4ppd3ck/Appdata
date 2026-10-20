@@ -1,0 +1,601 @@
+{
+ "kanda": "uma-samhita",
+ "n": 18,
+ "title_deva": "वक्ष्येऽहं भारतं वर्षं हिमाद्रेश्चैव दक्षिणे",
+ "title_te": "వక్ష్యేఽహం భారతం వర్షం హిమాద్రేశ్చైవ దక్షిణే",
+ "title_iast": "vakṣye'haṁ bhārataṁ varṣaṁ himādreścaiva dakṣiṇe",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "वक्ष्येऽहं भारतं वर्षं हिमाद्रेश्चैव दक्षिणे | उत्तरे तु समुद्रस्य भारती यत्र संसृतिः",
+   "text_te": "వక్ష్యేఽహం భారతం వర్షం హిమాద్రేశ్చైవ దక్షిణే | ఉత్తరే తు సముద్రస్య భారతీ యత్ర సంసృతిః",
+   "text_en": "vakṣye'haṁ bhārataṁ varṣaṁ himādreścaiva dakṣiṇe | uttare tu samudrasya bhāratī yatra saṁsṛtiḥ",
+   "mean_en": "I shall describe Bharata Varsha, which lies to the south of the Himalayas and north of the ocean, where beings dwell who belong to Bharati (the land of Bharata).",
+   "mean_te": "హిమాలయానికి దక్షిణాన, సముద్రానికి ఉత్తరాన ఉండే భరత వర్షాన్ని నేను వర్ణిస్తాను; అక్కడ భరతదేశానికి చెందిన జీవులు సంసారంలో నివసిస్తారు."
+  },
+  {
+   "n": 2,
+   "text_deva": "नवयोजनसाहस्रो विस्तारोऽस्य महामुने | स्वर्गापवर्गयोः कर्मभूमिरेषा स्मृता बुधैः",
+   "text_te": "నవయోజనసాహస్రో విస్తారోఽస్య మహామునే | స్వర్గాపవర్గయోః కర్మభూమిరేషా స్మృతా బుధైః",
+   "text_en": "navayojanasāhasro vistāro'sya mahāmune | svargāpavargayoḥ karmabhūmireṣā smṛtā budhaiḥ",
+   "mean_en": "Its extent is nine thousand yojanas, O great sage; the wise declare this land to be the karma-bhumi (land of action) that yields both heaven and liberation.",
+   "mean_te": "ఇది తొమ్మిది వేల యోజనాల విస్తీర్ణం కలది, మహామునీ! స్వర్గానికీ, మోక్షానికీ కారణభూమిగా ఈ భూమిని పండితులు స్మరిస్తారు."
+  },
+  {
+   "n": 3,
+   "text_deva": "यतस्संप्राप्यते पुंभिस्स्वर्गो नरक एव च | भारतस्यापि वर्षस्य नव भेदान्ब्रवीमि ते",
+   "text_te": "యతస్సంప్రాప్యతే పుంభిస్స్వర్గో నరక ఏవ చ | భారతస్యాపి వర్షస్య నవ భేదాన్బ్రవీమి తే",
+   "text_en": "yatassaṁprāpyate puṁbhissvargo naraka eva ca | bhāratasyāpi varṣasya nava bhedānbravīmi te",
+   "mean_en": "It is here that men attain heaven or hell according to their deeds; I shall tell you the nine divisions of Bharata Varsha.",
+   "mean_te": "పురుషులు ఇక్కడ తమ కర్మల వల్ల స్వర్గాన్నీ, నరకాన్నీ పొందుతారు; భరత వర్షపు తొమ్మిది భేదాలను నీకు చెబుతాను."
+  },
+  {
+   "n": 4,
+   "text_deva": "इंद्रद्युम्नः कसेरुश्च ताम्रवर्णो गभस्तिमान् | नागद्वीपस्तथा सौम्यो गन्धर्वस्त्वथ वारुणः",
+   "text_te": "ఇంద్రద్యుమ్నః కసేరుశ్చ తామ్రవర్ణో గభస్తిమాన్ | నాగద్వీపస్తథా సౌమ్యో గన్ధర్వస్త్వథ వారుణః",
+   "text_en": "iṁdradyumnaḥ kaseruśca tāmravarṇo gabhastimān | nāgadvīpastathā saumyo gandharvastvatha vāruṇaḥ",
+   "mean_en": "The nine divisions are: Indradyumna, Kaseru, Tamravarna, Gabhastiman, Nagadvipa, Saumya, Gandharva and Varuna.",
+   "mean_te": "అవి ఏమనగా: ఇంద్రద్యుమ్న, కసేరు, తామ్రవర్ణ, గభస్తిమాన్, నాగద్వీప, సౌమ్య, గంధర్వ, వారుణ అనే ద్వీపాలు."
+  },
+  {
+   "n": 5,
+   "text_deva": "अयं तु नवमस्तेषां द्वीपस्सागरसंभृतः | योजनानां सहस्रं तु द्वीपोऽयं दक्षिणोत्तरः",
+   "text_te": "అయం తు నవమస్తేషాం ద్వీపస్సాగరసంభృతః | యోజనానాం సహస్రం తు ద్వీపోఽయం దక్షిణోత్తరః",
+   "text_en": "ayaṁ tu navamasteṣāṁ dvīpassāgarasaṁbhṛtaḥ | yojanānāṁ sahasraṁ tu dvīpo'yaṁ dakṣiṇottaraḥ",
+   "mean_en": "The ninth among them is this island (Bharata) surrounded by the ocean; it is a thousand yojanas in extent from north to south.",
+   "mean_te": "వాటిలో తొమ్మిదోది ఈ (భరత) ద్వీపం, ఇది సముద్రంతో చుట్టబడి ఉత్తర-దక్షిణాలకు వెయ్యి యోజనాల విస్తీర్ణం కలది."
+  },
+  {
+   "n": 6,
+   "text_deva": "पूर्वे किराता यस्य स्युर्दक्षिणे यवनाः स्थिताः | पश्चिमे च तथा ज्ञेया उत्तरे हि तपस्विनः",
+   "text_te": "పూర్వే కిరాతా యస్య స్యుర్దక్షిణే యవనాః స్థితాః | పశ్చిమే చ తథా జ్ఞేయా ఉత్తరే హి తపస్వినః",
+   "text_en": "pūrve kirātā yasya syurdakṣiṇe yavanāḥ sthitāḥ | paścime ca tathā jñeyā uttare hi tapasvinaḥ",
+   "mean_en": "In it the Kiratas live in the east and the Yavanas in the south; in the west dwell other peoples, while ascetics are known to be in the north.",
+   "mean_te": "ఈ ద్వీపంలో తూర్పున కిరాతకులు, దక్షిణాన యవనులు ఉంటారు; పశ్చిమాన మరి కొందరు జనులుండగా, ఉత్తరాన తపస్వులు ఉంటారు."
+  },
+  {
+   "n": 7,
+   "text_deva": "ब्राह्मणाः क्षत्रिया वैश्या मध्ये शूद्राश्च भूयशः | इज्या युद्धपणा सेवा वर्तयन्तो व्यवस्थिताः",
+   "text_te": "బ్రాహ్మణాః క్షత్రియా వైశ్యా మధ్యే శూద్రాశ్చ భూయశః | ఇజ్యా యుద్ధపణా సేవా వర్తయన్తో వ్యవస్థితాః",
+   "text_en": "brāhmaṇāḥ kṣatriyā vaiśyā madhye śūdrāśca bhūyaśaḥ | ijyā yuddhapaṇā sevā vartayanto vyavasthitāḥ",
+   "mean_en": "Brahmanas, Kshatriyas, Vaishyas and, in large numbers, Shudras dwell in the middle (of the land), engaged respectively in worship, warfare, trade and service.",
+   "mean_te": "దేశ మధ్యభాగంలో బ్రాహ్మణులు, క్షత్రియులు, వైశ్యులు, ఎక్కువగా శూద్రులు ఉంటారు; వారు యజ్ఞాలు, యుద్ధాలు, వ్యాపారం, సేవలను ఆచరిస్తూ నియమితులై ఉంటారు."
+  },
+  {
+   "n": 8,
+   "text_deva": "महेंद्रो मलयस्सह्यः सुदामा चर्क्षपर्वतः | विंध्यश्च पारियात्रश्च सप्तात्र कुलपर्वताः| वेदस्मृतिपुराणाद्याः पारियात्रोद्भवा मुने | सर्वपापहरा ज्ञेया दर्शनात्स्पर्शनादपि| नर्मदा सुरसाद्याश्च सप्तान्याश्च सहस्रशः | विंध्योद्भवा महानद्यस्सर्वपापहराश्शुभाः| गोदावरी भीमरथी तापीप्रमुखनिम्नगाः | गिरेर्विनिर्गता ऋक्षात्सद्यः पापभयापहाः",
+   "text_te": "మహేంద్రో మలయస్సహ్యః సుదామా చర్క్షపర్వతః | వింధ్యశ్చ పారియాత్రశ్చ సప్తాత్ర కులపర్వతాః| వేదస్మృతిపురాణాద్యాః పారియాత్రోద్భవా మునే | సర్వపాపహరా జ్ఞేయా దర్శనాత్స్పర్శనాదపి| నర్మదా సురసాద్యాశ్చ సప్తాన్యాశ్చ సహస్రశః | వింధ్యోద్భవా మహానద్యస్సర్వపాపహరాశ్శుభాః| గోదావరీ భీమరథీ తాపీప్రముఖనిమ్నగాః | గిరేర్వినిర్గతా ఋక్షాత్సద్యః పాపభయాపహాః",
+   "text_en": "maheṁdro malayassahyaḥ sudāmā carkṣaparvataḥ | viṁdhyaśca pāriyātraśca saptātra kulaparvatāḥ| vedasmṛtipurāṇādyāḥ pāriyātrodbhavā mune | sarvapāpaharā jñeyā darśanātsparśanādapi| narmadā surasādyāśca saptānyāśca sahasraśaḥ | viṁdhyodbhavā mahānadyassarvapāpaharāśśubhāḥ| godāvarī bhīmarathī tāpīpramukhanimnagāḥ | girervinirgatā ṛkṣātsadyaḥ pāpabhayāpahāḥ",
+   "mean_en": "Mahendra, Malaya, Sahya, Sudama, Riksha, Vindhya and Pariyatra are the seven mountain ranges here. The rivers rising from Pariyatra — Vedasmriti, Puranadi — destroy all sins by mere sight or touch; the thousands of great rivers like Narmada and Surasa born of the Vindhya, and Godavari, Bhimarathi and Tapi issuing from the Riksha mountain, are auspicious and remove all sin and fear.",
+   "mean_te": "మహేంద్ర, మలయ, సహ్య, సుదామ, ఋక్ష, వింధ్య, పారియాత్ర అనే ఏడు కులపర్వతాలు ఇక్కడ ఉన్నాయి. పారియాత్ర నుండి పుట్టిన వేదస్మృతి, పురాణాది నదులు దర్శన, స్పర్శ మాత్రంతోనే సర్వపాపాలను హరిస్తాయి; వింధ్య నుండి పుట్టిన నర్మద, సురస మొదలైన వేల మహానదులూ, ఋక్ష పర్వతం నుండి వచ్చే గోదావరి, భీమరథి, తాపి నదులూ పాపభయాలను తొలగించే శుభకర నదులు."
+  },
+  {
+   "n": 9,
+   "text_deva": "सह्यपादोद्भवा नद्यः कृष्णावेण्यादिकास्तथा | कृतमाला ताम्रपर्णी प्रमुखा मलयोद्भवाः",
+   "text_te": "సహ్యపాదోద్భవా నద్యః కృష్ణావేణ్యాదికాస్తథా | కృతమాలా తామ్రపర్ణీ ప్రముఖా మలయోద్భవాః",
+   "text_en": "sahyapādodbhavā nadyaḥ kṛṣṇāveṇyādikāstathā | kṛtamālā tāmraparṇī pramukhā malayodbhavāḥ",
+   "mean_en": "The rivers Krishna and Vena etc. arise from the Sahya mountain, while Kritamala and Tamraparni are the chief rivers born of the Malaya mountain.",
+   "mean_te": "కృష్ణా, వేణా మొదలైన నదులు సహ్యాద్రి నుండి పుడతాయి; కృతమాల, తామ్రపర్ణి అనే ప్రధాన నదులు మలయ పర్వతం నుండి పుట్టినవి."
+  },
+  {
+   "n": 10,
+   "text_deva": "त्रियामा चर्षिकुल्याद्या महेन्द्रप्रभवा स्मृताः | ऋषिकुल्या कुमार्य्याद्याः शुक्तिमत्पादसंभवाः",
+   "text_te": "త్రియామా చర్షికుల్యాద్యా మహేన్ద్రప్రభవా స్మృతాః | ఋషికుల్యా కుమార్య్యాద్యాః శుక్తిమత్పాదసంభవాః",
+   "text_en": "triyāmā carṣikulyādyā mahendraprabhavā smṛtāḥ | ṛṣikulyā kumāryyādyāḥ śuktimatpādasaṁbhavāḥ",
+   "mean_en": "Triyama and Rishikulya etc. are remembered as rivers born of the Mahendra mountain, while Rishikulya and Kumari etc. arise from the Shuktimat mountain.",
+   "mean_te": "త్రియామా, ఋషికుల్య మొదలైనవి మహేంద్ర పర్వతం నుండి పుట్టినవిగా స్మరించబడతాయి; ఋషికుల్య, కుమారి మొదలైన నదులు శుక్తిమత్ పర్వత పాదం నుండి పుడతాయి."
+  },
+  {
+   "n": 11,
+   "text_deva": "नानाजनपदास्तेषु मंडलेषु वसन्ति वै | आसां पिबंति पानीयं सरत्सु विविधेषु च",
+   "text_te": "నానాజనపదాస్తేషు మండలేషు వసన్తి వై | ఆసాం పిబంతి పానీయం సరత్సు వివిధేషు చ",
+   "text_en": "nānājanapadāsteṣu maṁḍaleṣu vasanti vai | āsāṁ pibaṁti pānīyaṁ saratsu vividheṣu ca",
+   "mean_en": "Various peoples and countries dwell in those regions and Mandalas, drinking the waters of those rivers and of the many different lakes.",
+   "mean_te": "ఆ ప్రాంతాలలో, మండలాలలో నానా జనపదాల ప్రజలు నివసిస్తారు; ఆ నదుల నీటినీ, వివిధ సరస్సుల నీటినీ వారు తాగుతారు."
+  },
+  {
+   "n": 12,
+   "text_deva": "चत्वारि भारते वर्षे युगान्यासन्महामुने | कृतादीनि न चान्येषु द्वीपेषु प्रभवंति हि",
+   "text_te": "చత్వారి భారతే వర్షే యుగాన్యాసన్మహామునే | కృతాదీని న చాన్యేషు ద్వీపేషు ప్రభవంతి హి",
+   "text_en": "catvāri bhārate varṣe yugānyāsanmahāmune | kṛtādīni na cānyeṣu dvīpeṣu prabhavaṁti hi",
+   "mean_en": "The four yugas beginning with Krita occur in Bharata Varsha, O great sage; they do not arise in the other islands.",
+   "mean_te": "మహామునీ! కృతాదులైన నాలుగు యుగాలు భరత వర్షంలో సంభవిస్తాయి; ఇతర ద్వీపాలలో అవి ఉండవు."
+  },
+  {
+   "n": 13,
+   "text_deva": "दानानि चात्र दीयंते सुकृतैश्चात्र याज्ञिकैः | तपस्तपंति यतयः परलोकार्थमादरात्",
+   "text_te": "దానాని చాత్ర దీయంతే సుకృతైశ్చాత్ర యాజ్ఞికైః | తపస్తపంతి యతయః పరలోకార్థమాదరాత్",
+   "text_en": "dānāni cātra dīyaṁte sukṛtaiścātra yājñikaiḥ | tapastapaṁti yatayaḥ paralokārthamādarāt",
+   "mean_en": "Here gifts are given by the virtuous and by sacrificers, and ascetics here earnestly perform austerities for the sake of the other world.",
+   "mean_te": "ఇక్కడ సుకృతులైన యాజ్ఞికులు దానాలు చేస్తారు; పరలోకార్థంగా యతులు ఆదరంగా తపస్సు ఆచరిస్తారు."
+  },
+  {
+   "n": 14,
+   "text_deva": "यतो हि कर्मभूरेषा जम्बूद्वीपे महामुने | अत्रापि भारतं श्रेष्ठमतोऽन्या भोगभूमयः",
+   "text_te": "యతో హి కర్మభూరేషా జమ్బూద్వీపే మహామునే | అత్రాపి భారతం శ్రేష్ఠమతోఽన్యా భోగభూమయః",
+   "text_en": "yato hi karmabhūreṣā jambūdvīpe mahāmune | atrāpi bhārataṁ śreṣṭhamato'nyā bhogabhūmayaḥ",
+   "mean_en": "For this (Jambudvipa) is the land of karma, O great sage, and within it Bharata is the best, while the other regions are lands of enjoyment.",
+   "mean_te": "మహామునీ! జంబూద్వీపమే కర్మభూమి; అందులో కూడా భరతమే శ్రేష్ఠం, మిగతా ప్రాంతాలన్నీ భోగభూములే."
+  },
+  {
+   "n": 15,
+   "text_deva": "कदाचिल्लभते मर्त्यस्सहस्रैर्मुनिसत्तम | अत्र जन्मसहस्राणां मानुष्यं पुण्यसंचयैः",
+   "text_te": "కదాచిల్లభతే మర్త్యస్సహస్రైర్మునిసత్తమ | అత్ర జన్మసహస్రాణాం మానుష్యం పుణ్యసంచయైః",
+   "text_en": "kadācillabhate martyassahasrairmunisattama | atra janmasahasrāṇāṁ mānuṣyaṁ puṇyasaṁcayaiḥ",
+   "mean_en": "O best of sages, after thousands of births and by the accumulation of merit, a mortal occasionally attains human birth here.",
+   "mean_te": "మునిశ్రేష్ఠా! వేల జన్మల తరువాత, పుణ్యసంచయంతో, మరణజీవి ఎప్పుడో ఒకసారి ఇక్కడ మానవ జన్మను పొందుతాడు."
+  },
+  {
+   "n": 16,
+   "text_deva": "स्वर्गापवर्गास्पदमार्गभूते धन्यास्तु ते भारतभूमिभागे | गायंति देवाः किल गीतकानि भवंति भूयः पुरुषास्सुरास्ते",
+   "text_te": "స్వర్గాపవర్గాస్పదమార్గభూతే ధన్యాస్తు తే భారతభూమిభాగే | గాయంతి దేవాః కిల గీతకాని భవంతి భూయః పురుషాస్సురాస్తే",
+   "text_en": "svargāpavargāspadamārgabhūte dhanyāstu te bhāratabhūmibhāge | gāyaṁti devāḥ kila gītakāni bhavaṁti bhūyaḥ puruṣāssurāste",
+   "mean_en": "Blessed are those who dwell in that part of Bharata-bhumi which is the path to heaven and liberation; the gods indeed sing songs in their praise, for such men become gods again.",
+   "mean_te": "స్వర్గానికీ, మోక్షానికీ మార్గమైన భరతభూమి భాగంలో ఉండేవారు ధన్యులు; అటువంటి పురుషులు మళ్ళీ దేవతలవుతారని దేవతలు గీతికలు ఆలపిస్తారు."
+  },
+  {
+   "n": 17,
+   "text_deva": "अवाप्य मानुष्यमयं कदाचिद्विहृत्य शंभोः परमात्मरूपे | फलानि सर्वाणि तु कर्मजानि यास्याम्यहं तत्तनुतां हि तस्य",
+   "text_te": "అవాప్య మానుష్యమయం కదాచిద్విహృత్య శంభోః పరమాత్మరూపే | ఫలాని సర్వాణి తు కర్మజాని యాస్యామ్యహం తత్తనుతాం హి తస్య",
+   "text_en": "avāpya mānuṣyamayaṁ kadācidvihṛtya śaṁbhoḥ paramātmarūpe | phalāni sarvāṇi tu karmajāni yāsyāmyahaṁ tattanutāṁ hi tasya",
+   "mean_en": "Having sometimes obtained this human birth and worshipped Shambhu, the supreme Self, and having experienced all the fruits of one's karmas, I shall attain oneness with Him.",
+   "mean_te": "ఎప్పుడో ఒకసారి ఈ మానవ జన్మను పొంది, పరమాత్మ స్వరూపుడైన శంభువును ఆరాధించి, కర్మజన్యమైన సర్వఫలాలను అనుభవించి, నేను ఆయనతో ఐక్యం అవుతాను."
+  },
+  {
+   "n": 18,
+   "text_deva": "आप्स्यंति धन्याः खलु ते मनुष्याः सुखैर्युताः कर्मणि सन्निविष्टाः | जनुर्हि येषां खलु भारतेऽस्ति ते स्वर्गमोक्षोभयलाभवन्तः",
+   "text_te": "ఆప్స్యంతి ధన్యాః ఖలు తే మనుష్యాః సుఖైర్యుతాః కర్మణి సన్నివిష్టాః | జనుర్హి యేషాం ఖలు భారతేఽస్తి తే స్వర్గమోక్షోభయలాభవన్తః",
+   "text_en": "āpsyaṁti dhanyāḥ khalu te manuṣyāḥ sukhairyutāḥ karmaṇi sanniviṣṭāḥ | janurhi yeṣāṁ khalu bhārate'sti te svargamokṣobhayalābhavantaḥ",
+   "mean_en": "Fortunate indeed are those men who are endowed with happiness and engaged in righteous deeds; those born in Bharata attain both heaven and liberation.",
+   "mean_te": "సుఖాలతో కూడి, ధర్మకర్మలలో నిమగ్నమైన భారతదేశంలో జన్మించిన మనుషులు ధన్యులు; వారికి స్వర్గం, మోక్షం రెండూ లభిస్తాయి."
+  },
+  {
+   "n": 19,
+   "text_deva": "लक्षयोजनविस्तारस्समस्तपरिमण्डलः | जम्बूद्वीपो मया ख्यातः क्षारोदधिसुसंवृतः",
+   "text_te": "లక్షయోజనవిస్తారస్సమస్తపరిమణ్డలః | జమ్బూద్వీపో మయా ఖ్యాతః క్షారోదధిసుసంవృతః",
+   "text_en": "lakṣayojanavistārassamastaparimaṇḍalaḥ | jambūdvīpo mayā khyātaḥ kṣārodadhisusaṁvṛtaḥ",
+   "mean_en": "Jambudvipa, circular in shape and extending over a hundred thousand yojanas, has been described by me; it is surrounded by the salt ocean.",
+   "mean_te": "లక్ష యోజనాల విస్తీర్ణం కలిగి, వర్తులాకారంగా ఉన్న జంబూద్వీపం గురించి నేను వర్ణించాను; అది లవణ సముద్రంతో ఆవరించి ఉంది."
+  },
+  {
+   "n": 20,
+   "text_deva": "संवेष्ट्य क्षारमुदधिं शतसाहस्रसम्मितम् | ततो हि द्विगुणो ब्रह्मन्प्लक्षद्वीपः प्रकीर्तितः",
+   "text_te": "సంవేష్ట్య క్షారముదధిం శతసాహస్రసమ్మితమ్ | తతో హి ద్విగుణో బ్రహ్మన్ప్లక్షద్వీపః ప్రకీర్తితః",
+   "text_en": "saṁveṣṭya kṣāramudadhiṁ śatasāhasrasammitam | tato hi dviguṇo brahmanplakṣadvīpaḥ prakīrtitaḥ",
+   "mean_en": "Encircling that salt ocean of a hundred thousand yojanas, Plakshadvipa, O best of brahmanas, is twice as large.",
+   "mean_te": "ఆ వందవేయుల యోజనాల లవణ సముద్రాన్ని చుట్టి, దానికి రెట్టింపు పరిమాణం కలిగినది ప్లక్షద్వీపం, ద్విజోత్తమా."
+  },
+  {
+   "n": 21,
+   "text_deva": "गोमंतश्चैव चन्द्रश्च नारदो दर्दुरस्तथा | सोमकस्सुमनाश्शैलो वैभ्राजश्चैव सत्तमः",
+   "text_te": "గోమంతశ్చైవ చన్ద్రశ్చ నారదో దర్దురస్తథా | సోమకస్సుమనాశ్శైలో వైభ్రాజశ్చైవ సత్తమః",
+   "text_en": "gomaṁtaścaiva candraśca nārado dardurastathā | somakassumanāśśailo vaibhrājaścaiva sattamaḥ",
+   "mean_en": "Gomanta, Chandra, Narada, Dardura, Somaka, Sumana, and the excellent Vaibhraja — these are the mountains there.",
+   "mean_te": "గోమంత, చంద్ర, నారద, దర్దుర, సోమక, సుమనా, వైభ్రాజ అనే ఏడు పర్వతాలు అక్కడ ఉన్నాయి."
+  },
+  {
+   "n": 22,
+   "text_deva": "वर्षाचलेषु रम्येषु सहितास्सततं प्रजाः | वसंति देवगंधर्वा वर्षेष्वेतेषु नित्यशः",
+   "text_te": "వర్షాచలేషు రమ్యేషు సహితాస్సతతం ప్రజాః | వసంతి దేవగంధర్వా వర్షేష్వేతేషు నిత్యశః",
+   "text_en": "varṣācaleṣu ramyeṣu sahitāssatataṁ prajāḥ | vasaṁti devagaṁdharvā varṣeṣveteṣu nityaśaḥ",
+   "mean_en": "In those beautiful regions and mountains, the devas and gandharvas, together with the people, dwell constantly in these varshas always.",
+   "mean_te": "ఆ రమ్యమైన వర్ష పర్వతాలలో దేవతలు, గంధర్వులు ప్రజలతో కలిసి ఎల్లప్పుడూ నివసిస్తుంటారు."
+  },
+  {
+   "n": 23,
+   "text_deva": "नाधयो व्याधयो वापि जनानां तत्र कुत्रचित् | दश वर्षसहस्राणि तत्र जीवंति मानवाः",
+   "text_te": "నాధయో వ్యాధయో వాపి జనానాం తత్ర కుత్రచిత్ | దశ వర్షసహస్రాణి తత్ర జీవంతి మానవాః",
+   "text_en": "nādhayo vyādhayo vāpi janānāṁ tatra kutracit | daśa varṣasahasrāṇi tatra jīvaṁti mānavāḥ",
+   "mean_en": "The people there have no miseries or diseases anywhere; men live there for ten thousand years.",
+   "mean_te": "అక్కడ ప్రజలకు దుఃఖాలూ రోగాలూ ఎక్కడా ఉండవు; మానవులు అక్కడ పదివేల సంవత్సరాలు జీవిస్తారు."
+  },
+  {
+   "n": 24,
+   "text_deva": "अनुतप्ता शिखी चैव पापघ्नी त्रिदिवा कृपा | अमृता सुकृता चैव सप्तैवात्र च निम्नगाः",
+   "text_te": "అనుతప్తా శిఖీ చైవ పాపఘ్నీ త్రిదివా కృపా | అమృతా సుకృతా చైవ సప్తైవాత్ర చ నిమ్నగాః",
+   "text_en": "anutaptā śikhī caiva pāpaghnī tridivā kṛpā | amṛtā sukṛtā caiva saptaivātra ca nimnagāḥ",
+   "mean_en": "Anutapta, Shikhi, Papaghni, Tridiva, Kripa, Amrita and Sukrita — these seven are the rivers there.",
+   "mean_te": "అనుతప్త, శిఖీ, పాపఘ్నీ, త్రిదివా, కృపా, అమృతా, సుకృతా — ఇవే అక్కడి ఏడు నదులు."
+  },
+  {
+   "n": 25,
+   "text_deva": "क्षुद्रनद्यस्तथा शैलास्तत्र संति सहस्रशः | ताः पिबंति सुसंहृष्टा नदीर्जनपदास्तु ते",
+   "text_te": "క్షుద్రనద్యస్తథా శైలాస్తత్ర సంతి సహస్రశః | తాః పిబంతి సుసంహృష్టా నదీర్జనపదాస్తు తే",
+   "text_en": "kṣudranadyastathā śailāstatra saṁti sahasraśaḥ | tāḥ pibaṁti susaṁhṛṣṭā nadīrjanapadāstu te",
+   "mean_en": "There are thousands of smaller rivers and mountains there, and the people of those regions joyfully drink their waters.",
+   "mean_te": "అక్కడ వేల సంఖ్యలో చిన్న నదులూ కొండలూ ఉన్నాయి; ఆ దేశాల ప్రజలు ఆ నదీజలాలు ఆనందంగా త్రాగుతారు."
+  },
+  {
+   "n": 26,
+   "text_deva": "न तत्रापि युगावस्था यथास्थानेषु सप्तसु | त्रेतायुगसमः कालस्सर्वदैव महामुने",
+   "text_te": "న తత్రాపి యుగావస్థా యథాస్థానేషు సప్తసు | త్రేతాయుగసమః కాలస్సర్వదైవ మహామునే",
+   "text_en": "na tatrāpi yugāvasthā yathāsthāneṣu saptasu | tretāyugasamaḥ kālassarvadaiva mahāmune",
+   "mean_en": "There too the succession of the four yugas as in the seven (other) regions does not exist; O great sage, time there is always like Tretayuga.",
+   "mean_te": "అక్కడ ఏడు స్థానాలలో లాగా యుగక్రమం లేదు; అక్కడి కాలం ఎప్పుడూ త్రేతాయుగంలా ఉంటుంది, మహామునీ."
+  },
+  {
+   "n": 27,
+   "text_deva": "विप्रक्षत्रियवैश्यास्ते शूद्राश्च मुनिसत्तम | कल्पवृक्षसमानस्तु तन्मध्ये सुमहातरुः",
+   "text_te": "విప్రక్షత్రియవైశ్యాస్తే శూద్రాశ్చ మునిసత్తమ | కల్పవృక్షసమానస్తు తన్మధ్యే సుమహాతరుః",
+   "text_en": "viprakṣatriyavaiśyāste śūdrāśca munisattama | kalpavṛkṣasamānastu tanmadhye sumahātaruḥ",
+   "mean_en": "Brahmanas, Kshatriyas, Vaishyas and Shudras live there, O best of sages; in the middle of the island stands a very huge tree, equal to a wish-fulfilling kalpa tree.",
+   "mean_te": "బ్రాహ్మణ, క్షత్రియ, వైశ్య, శూద్ర వర్ణాలు అక్కడ ఉంటాయి, మునిశ్రేష్ఠా; ద్వీపం మధ్యలో కల్పవృక్షంతో సమానమైన అతి పెద్ద వృక్షం ఉంది."
+  },
+  {
+   "n": 28,
+   "text_deva": "प्लक्षस्तन्नामसंज्ञो वै प्लक्षद्वीपो द्विजोत्तम | इज्यते तत्र भगवाञ्छंकरो लोकशंकरः",
+   "text_te": "ప్లక్షస్తన్నామసంజ్ఞో వై ప్లక్షద్వీపో ద్విజోత్తమ | ఇజ్యతే తత్ర భగవాఞ్ఛంకరో లోకశంకరః",
+   "text_en": "plakṣastannāmasaṁjño vai plakṣadvīpo dvijottama | ijyate tatra bhagavāñchaṁkaro lokaśaṁkaraḥ",
+   "mean_en": "That tree is a plaksha tree, and the island is therefore named Plakshadvipa, O best of twice-born; there the blessed Lord Shankara, the benefactor of the worlds, is worshipped.",
+   "mean_te": "ఆ వృక్షం ప్లక్ష వృక్షం కావడంతో ఆ ద్వీపానికి ప్లక్షద్వీపం అని పేరు వచ్చింది, ద్విజోత్తమా; అక్కడ భగవంతుడైన శివుడు లోకాలకు మంగళం కలిగిస్తూ పూజింపబడుతున్నాడు."
+  },
+  {
+   "n": 29,
+   "text_deva": "हरिश्च भगवान्ब्रह्मा यन्त्रैर्मन्त्रैश्च वैदिकैः | संक्षेपेण तथा भूयश्शाल्मलिं त्वं निशामय",
+   "text_te": "హరిశ్చ భగవాన్బ్రహ్మా యన్త్రైర్మన్త్రైశ్చ వైదికైః | సంక్షేపేణ తథా భూయశ్శాల్మలిం త్వం నిశామయ",
+   "text_en": "hariśca bhagavānbrahmā yantrairmantraiśca vaidikaiḥ | saṁkṣepeṇa tathā bhūyaśśālmaliṁ tvaṁ niśāmaya",
+   "mean_en": "Hari (Vishnu) and the blessed Brahma worship him with yantras, mantras and Vedic rites; now listen, in brief and in detail, about Shalmali.",
+   "mean_te": "విష్ణువు, బ్రహ్మ అతనిని యంత్రాలు, మంత్రాలు, వైదిక క్రతువులతో పూజిస్తారు; ఇప్పుడు శాల్మలి ద్వీపం గురించి సంక్షిప్తంగా, విపులంగా విను."
+  },
+  {
+   "n": 30,
+   "text_deva": "सप्तवर्षाणि तत्रैव तेषां नामानि मे शृणु | श्वेतोऽथ हरितश्चैव जीमूतो रोहितस्तथा",
+   "text_te": "సప్తవర్షాణి తత్రైవ తేషాం నామాని మే శృణు | శ్వేతోఽథ హరితశ్చైవ జీమూతో రోహితస్తథా",
+   "text_en": "saptavarṣāṇi tatraiva teṣāṁ nāmāni me śṛṇu | śveto'tha haritaścaiva jīmūto rohitastathā",
+   "mean_en": "There too are seven varshas; hear their names from me — Shveta, Harita, Jimuta and Rohita.",
+   "mean_te": "అక్కడ కూడా ఏడు వర్షాలు (ప్రదేశాలు) ఉన్నాయి; వాటి పేర్లు నా నుండి విను — శ్వేత, హరిత, జీమూత, రోహిత."
+  },
+  {
+   "n": 31,
+   "text_deva": "वैकलो मानसश्चैव सुप्रभस्सप्तमो मुने | शाल्मलेन तु वृक्षेण द्वीपः शाल्मलिसंज्ञकः",
+   "text_te": "వైకలో మానసశ్చైవ సుప్రభస్సప్తమో మునే | శాల్మలేన తు వృక్షేణ ద్వీపః శాల్మలిసంజ్ఞకః",
+   "text_en": "vaikalo mānasaścaiva suprabhassaptamo mune | śālmalena tu vṛkṣeṇa dvīpaḥ śālmalisaṁjñakaḥ",
+   "mean_en": "Vaikala, Manasa, and Suprabha is the seventh, O sage; because of the Shalmala tree, the island is named Shalmaladvipa.",
+   "mean_te": "వైకల, మానస మరియు ఏడోది సుప్రభ, మునీశ్వరా; శాల్మలి వృక్షం వల్ల ఆ ద్వీపానికి శాల్మలి ద్వీపం అని పేరు వచ్చింది."
+  },
+  {
+   "n": 32,
+   "text_deva": "द्विगुणेन समुद्रेण सततं संवृतः स्थितः | वर्षाभिव्यंजका नद्यस्तासां नामानि मे शृणु",
+   "text_te": "ద్విగుణేన సముద్రేణ సతతం సంవృతః స్థితః | వర్షాభివ్యంజకా నద్యస్తాసాం నామాని మే శృణు",
+   "text_en": "dviguṇena samudreṇa satataṁ saṁvṛtaḥ sthitaḥ | varṣābhivyaṁjakā nadyastāsāṁ nāmāni me śṛṇu",
+   "mean_en": "It is always surrounded by an ocean twice its size; hear from me the names of the rivers that demarcate its varshas.",
+   "mean_te": "ఆ ద్వీపం రెండింతల పరిమాణం కలిగిన సముద్రంతో నిరంతరం ఆవరించి ఉంది; వర్షాలను వేరు చేసే నదుల పేర్లు నా నుండి విను."
+  },
+  {
+   "n": 33,
+   "text_deva": "शुक्ला रक्ता हिरण्या च चन्द्रा शुभ्रा विमोचना | निवृत्तिः सप्तमी तासां पुण्यतोया सुशीतलाः",
+   "text_te": "శుక్లా రక్తా హిరణ్యా చ చన్ద్రా శుభ్రా విమోచనా | నివృత్తిః సప్తమీ తాసాం పుణ్యతోయా సుశీతలాః",
+   "text_en": "śuklā raktā hiraṇyā ca candrā śubhrā vimocanā | nivṛttiḥ saptamī tāsāṁ puṇyatoyā suśītalāḥ",
+   "mean_en": "Shukla, Rakta, Hiranya, Chandra, Shubhra, Vimochana, and Nivritti as the seventh — their waters are sacred and cool.",
+   "mean_te": "శుక్ల, రక్త, హిరణ్య, చంద్ర, శుభ్ర, విమోచనా నదులు; ఏడోది నివృత్తి — వాటి జలాలు పుణ్యకారి, చల్లగా ఉంటాయి."
+  },
+  {
+   "n": 34,
+   "text_deva": "सप्तैव तानि वर्षाणि चतुर्वर्णायुतानि च | भगवन्तं सदा शंभुं यजंते विविधैर्मखैः",
+   "text_te": "సప్తైవ తాని వర్షాణి చతుర్వర్ణాయుతాని చ | భగవన్తం సదా శంభుం యజంతే వివిధైర్మఖైః",
+   "text_en": "saptaiva tāni varṣāṇi caturvarṇāyutāni ca | bhagavantaṁ sadā śaṁbhuṁ yajaṁte vividhairmakhaiḥ",
+   "mean_en": "Those seven varshas have the four varnas (among their people), and they always worship the blessed Lord Shambhu (Shiva) with various sacrifices.",
+   "mean_te": "ఆ ఏడు వర్షాలలో నాలుగు వర్ణాలు కూడా ఉంటాయి; వారు భగవంతుడైన శివుని (శంభువును) వివిధ యాగాలతో ఎప్పుడూ పూజిస్తారు."
+  },
+  {
+   "n": 35,
+   "text_deva": "देवानां तत्र सान्निध्यमतीव सुमनोरमे | एष द्वीपस्समुद्रेण सुरोदेन समावृतः",
+   "text_te": "దేవానాం తత్ర సాన్నిధ్యమతీవ సుమనోరమే | ఏష ద్వీపస్సముద్రేణ సురోదేన సమావృతః",
+   "text_en": "devānāṁ tatra sānnidhyamatīva sumanorame | eṣa dvīpassamudreṇa surodena samāvṛtaḥ",
+   "mean_en": "There the presence of the gods is exceedingly delightful to the mind. This island (Jambudvipa) is encircled by the ocean of sugarcane juice.",
+   "mean_te": "అక్కడ దేవతల సన్నిధి అత్యంత మనోహరంగా ఉంటుంది. ఈ ద్వీపం (జంబూద్వీపం) చెరకు రసపు సముద్రంతో చుట్టబడి ఉంది."
+  },
+  {
+   "n": 36,
+   "text_deva": "द्विगुणेन कुशद्वीपः समंताद्बाह्यतः स्थितः | वसंति तत्र दैतेया मनुजैस्सह दानवाः",
+   "text_te": "ద్విగుణేన కుశద్వీపః సమంతాద్బాహ్యతః స్థితః | వసంతి తత్ర దైతేయా మనుజైస్సహ దానవాః",
+   "text_en": "dviguṇena kuśadvīpaḥ samaṁtādbāhyataḥ sthitaḥ | vasaṁti tatra daiteyā manujaissaha dānavāḥ",
+   "mean_en": "Beyond it lies Kushadvipa, twice as large. There the Daityas live along with humans, and the Danavas too.",
+   "mean_te": "అంతకంటే రెండు రెట్లు పరిమాణం గల కుశద్వీపం దాని ఆవల ఉంది. అక్కడ దైత్యులు మానవులతో కలిసి, దానవులు కూడా నివసిస్తున్నారు."
+  },
+  {
+   "n": 37,
+   "text_deva": "तथैव देवगन्धर्वा यक्षाः किंपुरुषादयः | वर्णास्तत्रैव चत्वारो निजानुष्ठानतत्पराः",
+   "text_te": "తథైవ దేవగన్ధర్వా యక్షాః కింపురుషాదయః | వర్ణాస్తత్రైవ చత్వారో నిజానుష్ఠానతత్పరాః",
+   "text_en": "tathaiva devagandharvā yakṣāḥ kiṁpuruṣādayaḥ | varṇāstatraiva catvāro nijānuṣṭhānatatparāḥ",
+   "mean_en": "There likewise dwell the gods, Gandharvas, Yakshas, Kimpurushas and others. The four varnas are also there, devoted to performing their own duties.",
+   "mean_te": "అక్కడే దేవతలు, గంధర్వులు, యక్షులు, కింపురుషులు మొదలైనవారు నివసిస్తున్నారు. నాలుగు వర్ణాలవారు కూడా అక్కడే ఉన్నారు, తమ తమ ధర్మాలు నిష్ఠగా ఆచరించడంలో నిమగ్నులై."
+  },
+  {
+   "n": 38,
+   "text_deva": "तत्रैव च कुशद्वीपे ब्रह्माणं च जनार्द्दनम् | यजंति च तथेशानं सर्वकामफलप्रदम्",
+   "text_te": "తత్రైవ చ కుశద్వీపే బ్రహ్మాణం చ జనార్ద్దనమ్ | యజంతి చ తథేశానం సర్వకామఫలప్రదమ్",
+   "text_en": "tatraiva ca kuśadvīpe brahmāṇaṁ ca janārddanam | yajaṁti ca tatheśānaṁ sarvakāmaphalapradam",
+   "mean_en": "There in Kushadvipa itself, people worship Brahma and Janardana (Vishnu), and likewise Ishana (Shiva), the giver of the fruits of all desires.",
+   "mean_te": "కుశద్వీపంలోనే ప్రజలు బ్రహ్మను, జనార్దనుడైన విష్ణువును, అలాగే సర్వ కామాల ఫలాలను ప్రసాదించే ఈశానుడైన శివుడిని పూజిస్తారు."
+  },
+  {
+   "n": 39,
+   "text_deva": "कुशेशयो हरिश्चैव द्युतिमान्पुष्पवांस्तथा | मणिद्रुमो हेमशैलस्सप्तमो मन्दराचलः",
+   "text_te": "కుశేశయో హరిశ్చైవ ద్యుతిమాన్పుష్పవాంస్తథా | మణిద్రుమో హేమశైలస్సప్తమో మన్దరాచలః",
+   "text_en": "kuśeśayo hariścaiva dyutimānpuṣpavāṁstathā | maṇidrumo hemaśailassaptamo mandarācalaḥ",
+   "mean_en": "Kusheshaya, Hari, Dyutiman, Pushpavan, Manidruma and Hemashaila are its mountains; the seventh is Mandarachala.",
+   "mean_te": "కుశేశయ, హరి, ద్యుతిమాన్, పుష్పవాన్, మణిద్రుమ, హేమశైలం అనే పర్వతాలు అక్కడ ఉన్నాయి; ఏడవది మందరాచలం."
+  },
+  {
+   "n": 40,
+   "text_deva": "नद्यश्च सप्त तासां तु नामानि शृणु तत्त्वतः | धूतपापा शिवा चैव पवित्रा संमितिस्तथा",
+   "text_te": "నద్యశ్చ సప్త తాసాం తు నామాని శృణు తత్త్వతః | ధూతపాపా శివా చైవ పవిత్రా సంమితిస్తథా",
+   "text_en": "nadyaśca sapta tāsāṁ tu nāmāni śṛṇu tattvataḥ | dhūtapāpā śivā caiva pavitrā saṁmitistathā",
+   "mean_en": "There are seven rivers; hear their names in truth: Dhutapapa, Shiva, Pavitra and Sammiti.",
+   "mean_te": "అక్కడ ఏడు నదులు ఉన్నాయి; వాటి నామాలను యథార్థంగా విను: ధూతపాప, శివ, పవిత్ర, సంమితి."
+  },
+  {
+   "n": 41,
+   "text_deva": "विद्या दंभा मही चान्या सर्वपापहरास्त्विमाः | अन्यास्सहस्रशस्संति शुभापो हेमवालुकाः",
+   "text_te": "విద్యా దంభా మహీ చాన్యా సర్వపాపహరాస్త్విమాః | అన్యాస్సహస్రశస్సంతి శుభాపో హేమవాలుకాః",
+   "text_en": "vidyā daṁbhā mahī cānyā sarvapāpaharāstvimāḥ | anyāssahasraśassaṁti śubhāpo hemavālukāḥ",
+   "mean_en": "Vidya, Dambha and Mahi are the rest — all removers of every sin. There are thousands of other rivers with auspicious waters and golden sands.",
+   "mean_te": "విద్య, దంభ, మహీ అనేవి మిగిలినవి — అవన్నీ సమస్త పాపాలను హరించేవి. వేల సంఖ్యలో ఇతర నదులు ఉన్నాయి, శుభమైన నీటితో, బంగారు ఇసుక తిన్నెలతో."
+  },
+  {
+   "n": 42,
+   "text_deva": "कुशद्वीपे कुशस्तम्बो घृतोदेन समावृतः | क्रौञ्चद्वीपो महाभाग श्रूयतां चापरो महान्",
+   "text_te": "కుశద్వీపే కుశస్తమ్బో ఘృతోదేన సమావృతః | క్రౌఞ్చద్వీపో మహాభాగ శ్రూయతాం చాపరో మహాన్",
+   "text_en": "kuśadvīpe kuśastambo ghṛtodena samāvṛtaḥ | krauñcadvīpo mahābhāga śrūyatāṁ cāparo mahān",
+   "mean_en": "In Kushadvipa there is the Kushastambha, and the island is surrounded by the ocean of ghee. O fortunate one, now hear of Kraunchadvipa, another great island.",
+   "mean_te": "కుశద్వీపంలో కుశస్తంభం ఉంది, ఆ ద్వీపం ఘృతసముద్రం (నెయ్యి సముద్రం) చే చుట్టబడి ఉంది. మహాభాగా, ఇక క్రౌంచద్వీపం అనే మరో గొప్ప ద్వీపం గురించి విను."
+  },
+  {
+   "n": 43,
+   "text_deva": "द्विगुणेन समुद्रेण दधिमंडेन चावृतः | वर्षाचला महाबुद्धे तेषां नामानि मे शृणु",
+   "text_te": "ద్విగుణేన సముద్రేణ దధిమండేన చావృతః | వర్షాచలా మహాబుద్ధే తేషాం నామాని మే శృణు",
+   "text_en": "dviguṇena samudreṇa dadhimaṁḍena cāvṛtaḥ | varṣācalā mahābuddhe teṣāṁ nāmāni me śṛṇu",
+   "mean_en": "Twice as large, it is surrounded by the ocean of curd (dadhimanda). O wise one, hear the names of its mountain ranges.",
+   "mean_te": "అది రెండు రెట్లు పెద్దది, దధిమండ సముద్రం (పెరుగు సముద్రం) చే చుట్టబడి ఉంది. మహాబుద్ధిమంతుడవైనవాడా, దాని వర్షపర్వతాల నామాలను నా వద్ద విను."
+  },
+  {
+   "n": 44,
+   "text_deva": "क्रौञ्चश्च वामनश्चैव तृतीयश्चांधकारकः | दिवावृतिर्मनश्चैव पुण्डरीकश्च दुन्दुभिः",
+   "text_te": "క్రౌఞ్చశ్చ వామనశ్చైవ తృతీయశ్చాంధకారకః | దివావృతిర్మనశ్చైవ పుణ్డరీకశ్చ దున్దుభిః",
+   "text_en": "krauñcaśca vāmanaścaiva tṛtīyaścāṁdhakārakaḥ | divāvṛtirmanaścaiva puṇḍarīkaśca dundubhiḥ",
+   "mean_en": "Krauncha, Vamana, the third Andhakaraka, Divavriti, Manas, Pundarika and Dundubhi are those mountains.",
+   "mean_te": "క్రౌంచ, వామన, మూడవది అంధకారక, దివావృతి, మనస్, పుండరీక, దుందుభి అనేవి ఆ పర్వతాలు."
+  },
+  {
+   "n": 45,
+   "text_deva": "निवसंति निरातंका वर्षशैलेषु तेषु वै | सर्वसौवर्णरम्येषु सुहृद्देवगणैः प्रजाः",
+   "text_te": "నివసంతి నిరాతంకా వర్షశైలేషు తేషు వై | సర్వసౌవర్ణరమ్యేషు సుహృద్దేవగణైః ప్రజాః",
+   "text_en": "nivasaṁti nirātaṁkā varṣaśaileṣu teṣu vai | sarvasauvarṇaramyeṣu suhṛddevagaṇaiḥ prajāḥ",
+   "mean_en": "On those varsha-mountains, all golden and exceedingly beautiful, the people dwell free of all distress, together with the friendly hosts of gods.",
+   "mean_te": "అన్నిటిలోను బంగారుతో అత్యంత రమణీయంగా ఉన్న ఆ వర్షపర్వతాలపై, స్నేహపూర్వకంగా ఉండే దేవగణాలతో కలిసి, ప్రజలు ఏ విధమైన ఆపదా లేకుండా నివసిస్తున్నారు."
+  },
+  {
+   "n": 46,
+   "text_deva": "ब्राह्मणाः क्षत्त्रिया वैश्याश्शूद्राश्चानुक्रमोदिताः | संति तत्र महानद्यस्सप्तान्यास्तु सहस्रशः",
+   "text_te": "బ్రాహ్మణాః క్షత్త్రియా వైశ్యాశ్శూద్రాశ్చానుక్రమోదితాః | సంతి తత్ర మహానద్యస్సప్తాన్యాస్తు సహస్రశః",
+   "text_en": "brāhmaṇāḥ kṣattriyā vaiśyāśśūdrāścānukramoditāḥ | saṁti tatra mahānadyassaptānyāstu sahasraśaḥ",
+   "mean_en": "Brahmanas, Kshatriyas, Vaishyas and Shudras are said to be there in due order. There are seven great rivers and thousands of others.",
+   "mean_te": "బ్రాహ్మణులు, క్షత్రియులు, వైశ్యులు, శూద్రులు అనే వారు అక్కడ క్రమంగా ఉన్నట్లు చెప్పబడ్డారు. అక్కడ ఏడు మహానదులు ఉన్నాయి, మరికొన్ని వేల సంఖ్యలో ఉన్నాయి."
+  },
+  {
+   "n": 47,
+   "text_deva": "गौरी कुमुद्वती चैव सन्ध्या रात्रिर्मनोजवा | शांतिश्च पुंडरीका च याः पिबन्ति पयश्शुभम्",
+   "text_te": "గౌరీ కుముద్వతీ చైవ సన్ధ్యా రాత్రిర్మనోజవా | శాంతిశ్చ పుండరీకా చ యాః పిబన్తి పయశ్శుభమ్",
+   "text_en": "gaurī kumudvatī caiva sandhyā rātrirmanojavā | śāṁtiśca puṁḍarīkā ca yāḥ pibanti payaśśubham",
+   "mean_en": "Gauri, Kumudvati, Sandhya, Ratri, Manojava, Shanti and Pundarika — these rivers carry auspicious milky waters.",
+   "mean_te": "గౌరీ, కుముద్వతీ, సంధ్య, రాత్రి, మనోజవ, శాంతి, పుండరీక అనే ఈ నదులు శుభమైన పాల వంటి నీటిని తాగుతాయి."
+  },
+  {
+   "n": 48,
+   "text_deva": "भगवान्पूज्यते तत्र योगरुद्रस्वरूपवान् | दधिमण्डोदकश्चापि शाकद्वीपेन संवृतः",
+   "text_te": "భగవాన్పూజ్యతే తత్ర యోగరుద్రస్వరూపవాన్ | దధిమణ్డోదకశ్చాపి శాకద్వీపేన సంవృతః",
+   "text_en": "bhagavānpūjyate tatra yogarudrasvarūpavān | dadhimaṇḍodakaścāpi śākadvīpena saṁvṛtaḥ",
+   "mean_en": "There the Lord is worshipped in the form of Yogarudra (Rudra of yoga). Kraunchadvipa is surrounded by the waters of curd, and next comes Shakadvipa.",
+   "mean_te": "అక్కడ యోగరుద్ర స్వరూపుడైన భగవంతుడు (శివుడు) పూజించబడతాడు. క్రౌంచద్వీపం పెరుగు సముద్రంతో చుట్టబడి ఉంది, దాని తరువాత శాకద్వీపం ఉంది."
+  },
+  {
+   "n": 49,
+   "text_deva": "द्विगुणेनाद्रयस्सप्त तेषां नामानि मे शृणु | पूर्वे तत्रोदयगिरिर्जलधारः परे यतः",
+   "text_te": "ద్విగుణేనాద్రయస్సప్త తేషాం నామాని మే శృణు | పూర్వే తత్రోదయగిరిర్జలధారః పరే యతః",
+   "text_en": "dviguṇenādrayassapta teṣāṁ nāmāni me śṛṇu | pūrve tatrodayagirirjaladhāraḥ pare yataḥ",
+   "mean_en": "It is twice as large and has seven mountains; hear their names from me: in the east is Udayagiri, and beyond lies Jaladhara.",
+   "mean_te": "అది రెండు రెట్లు పెద్దది, ఏడు పర్వతాలు కలది; వాటి నామాలను నా వద్ద విను: తూర్పున ఉదయగిరి ఉంది, దాని ఆవల జలధార ఉంది."
+  },
+  {
+   "n": 50,
+   "text_deva": "पृष्ठतोऽस्तगिरिश्चैव ह्यविकेशश्च केसरी | शाकस्तत्र महावृक्षस्सिद्धगंधर्वसेवितः",
+   "text_te": "పృష్ఠతోఽస్తగిరిశ్చైవ హ్యవికేశశ్చ కేసరీ | శాకస్తత్ర మహావృక్షస్సిద్ధగంధర్వసేవితః",
+   "text_en": "pṛṣṭhato'stagiriścaiva hyavikeśaśca kesarī | śākastatra mahāvṛkṣassiddhagaṁdharvasevitaḥ",
+   "mean_en": "Behind (in the west) are Ashtagiri, Avikesha and Kesari. There stands the great Shaka tree, attended by Siddhas and Gandharvas.",
+   "mean_te": "వెనుక (పడమటి వైపు) అష్టగిరి, అవికేశ, కేసరి అనే పర్వతాలు ఉన్నాయి. అక్కడ సిద్ధులు, గంధర్వులచే సేవించబడే మహా శాకవృక్షం ఉంది."
+  },
+  {
+   "n": 51,
+   "text_deva": "तत्र पुण्या जनपदाश्चातुर्वर्ण्यसमन्विताः | नद्यश्चात्र महापुण्यास्सर्वपापभयापहाः",
+   "text_te": "తత్ర పుణ్యా జనపదాశ్చాతుర్వర్ణ్యసమన్వితాః | నద్యశ్చాత్ర మహాపుణ్యాస్సర్వపాపభయాపహాః",
+   "text_en": "tatra puṇyā janapadāścāturvarṇyasamanvitāḥ | nadyaścātra mahāpuṇyāssarvapāpabhayāpahāḥ",
+   "mean_en": "There are meritorious lands inhabited by people of the four varnas. There too are greatly holy rivers that remove the fear of all sins.",
+   "mean_te": "అక్కడ పుణ్యమైన జనపదాలు ఉన్నాయి, చతుర్వర్ణాల వారితో కూడినవి. అక్కడ మహాపుణ్య నదులు కూడా ఉన్నాయి, సర్వ పాప భయాన్ని హరించేవి."
+  },
+  {
+   "n": 52,
+   "text_deva": "सुकुमारी कुमारी च नलिनी वेणुका तथा | इक्षुश्च रेणुका चैव गभस्तिस्सप्तमी तथा",
+   "text_te": "సుకుమారీ కుమారీ చ నలినీ వేణుకా తథా | ఇక్షుశ్చ రేణుకా చైవ గభస్తిస్సప్తమీ తథా",
+   "text_en": "sukumārī kumārī ca nalinī veṇukā tathā | ikṣuśca reṇukā caiva gabhastissaptamī tathā",
+   "mean_en": "In Shakadvipa the seven great rivers are Sukumari, Kumari, Nalini, Venuka, Ikshu and Renuka, and Gabhasti is the seventh.",
+   "mean_te": "శాకద్వీపంలోని ఏడు మహానదులు సుకుమారి, కుమారి, నళిని, వేణుక, ఇక్షు, రేణుక; ఏడవ నది గభస్తి."
+  },
+  {
+   "n": 53,
+   "text_deva": "अन्यास्सहस्रशस्तत्र क्षुद्रनद्यो महामुने | महीधरास्तथा संति शतशोऽथ सहस्रशः",
+   "text_te": "అన్యాస్సహస్రశస్తత్ర క్షుద్రనద్యో మహామునే | మహీధరాస్తథా సంతి శతశోఽథ సహస్రశః",
+   "text_en": "anyāssahasraśastatra kṣudranadyo mahāmune | mahīdharāstathā saṁti śataśo'tha sahasraśaḥ",
+   "mean_en": "Besides these, there are thousands of other small rivers, O great sage, and likewise mountains in hundreds and thousands.",
+   "mean_te": "ఇంకా అక్కడ వేల సంఖ్యలో ఇతర చిన్న నదులున్నాయి ఓ మహామునీ; అలాగే శతాలు, వేల సంఖ్యలో పర్వతాలున్నాయి."
+  },
+  {
+   "n": 54,
+   "text_deva": "धर्महानिर्न तेष्वस्ति स्वर्गादागत्य मानवाः | वर्षेषु तेषु पृथिवीं विहरन्ति परस्परम्",
+   "text_te": "ధర్మహానిర్న తేష్వస్తి స్వర్గాదాగత్య మానవాః | వర్షేషు తేషు పృథివీం విహరన్తి పరస్పరమ్",
+   "text_en": "dharmahānirna teṣvasti svargādāgatya mānavāḥ | varṣeṣu teṣu pṛthivīṁ viharanti parasparam",
+   "mean_en": "There is no loss of dharma in those lands; people who have descended from heaven move about on that earth together.",
+   "mean_te": "ఆ ప్రదేశాల్లో ధర్మహాని లేదు; స్వర్గం నుండి దిగివచ్చిన మానవులు ఆ భూమిపై పరస్పరం కలసి విహరిస్తూ ఉంటారు."
+  },
+  {
+   "n": 55,
+   "text_deva": "शाकद्वीपे तु वै सूर्य्यः प्रीत्या जनपदैस्सदा | यथोक्तैरिज्यते सम्यक्कर्मभिर्नियतात्मभिः",
+   "text_te": "శాకద్వీపే తు వై సూర్య్యః ప్రీత్యా జనపదైస్సదా | యథోక్తైరిజ్యతే సమ్యక్కర్మభిర్నియతాత్మభిః",
+   "text_en": "śākadvīpe tu vai sūryyaḥ prītyā janapadaissadā | yathoktairijyate samyakkarmabhirniyatātmabhiḥ",
+   "mean_en": "In Shakadvipa the sun is worshipped at all times with love by the people of the land, through the aforesaid sacrificial rites performed by self-controlled souls.",
+   "mean_te": "శాకద్వీపంలో సూర్యుడు ఆ దేశ ప్రజలచే నిరంతరం ప్రేమతో పూజించబడుతున్నాడు; నియమపాలకులైనవారు పైన చెప్పిన యజ్ఞకర్మలతో శ్రద్ధగా ఆరాధిస్తారు."
+  },
+  {
+   "n": 56,
+   "text_deva": "क्षीरोदेनावृतस्सोऽपि द्विगुणेन समंततः | क्षीराब्धिस्सर्वतो व्यास पुष्कराख्येन संवृतः",
+   "text_te": "క్షీరోదేనావృతస్సోఽపి ద్విగుణేన సమంతతః | క్షీరాబ్ధిస్సర్వతో వ్యాస పుష్కరాఖ్యేన సంవృతః",
+   "text_en": "kṣīrodenāvṛtasso'pi dviguṇena samaṁtataḥ | kṣīrābdhissarvato vyāsa puṣkarākhyena saṁvṛtaḥ",
+   "mean_en": "That island is everywhere surrounded by the Kshiroda ocean of twice its extent; then that ocean of milk, O Vyasa, is on all sides enclosed by Pushkara.",
+   "mean_te": "ఆ ద్వీపం అన్నివైపులా దానికి రెండు రెట్లు విస్తీర్ణం కలిగిన క్షీరోద (పాల) సముద్రంతో ఆవరించి ఉంది; ఆ పాల సముద్రం మరి ఓ వ్యాసా, అన్నివైపులా పుష్కర (ద్వీపం) చుట్టి ఉంది."
+  },
+  {
+   "n": 57,
+   "text_deva": "द्विगुणेन महावर्षस्तत्र ख्यातोऽत्र मानसः | योजनानां सहस्राणि पंचैवोर्ध्वसमुच्छ्रितः",
+   "text_te": "ద్విగుణేన మహావర్షస్తత్ర ఖ్యాతోఽత్ర మానసః | యోజనానాం సహస్రాణి పంచైవోర్ధ్వసముచ్ఛ్రితః",
+   "text_en": "dviguṇena mahāvarṣastatra khyāto'tra mānasaḥ | yojanānāṁ sahasrāṇi paṁcaivordhvasamucchritaḥ",
+   "mean_en": "The great region there is twice (the extent of the ocean of milk), and the celebrated Manasa (mountain) there rises upward by five thousand yojanas.",
+   "mean_te": "అక్కడి మహావర్షం (పుష్కర ప్రాంతం) రెండు రెట్లు విస్తారంగా ఉంది; అక్కడి ప్రసిద్ధ మానస పర్వతం పైకి ఐదు వేల యోజనాల ఎత్తు వరకు ఉంటుంది."
+  },
+  {
+   "n": 58,
+   "text_deva": "तानि चैव तु लक्षाणि सर्वतो वलयाकृति | पुष्करद्वीपवलयो मध्येन विभजंति च | तेनैव वलया कारा द्वीपवर्षसमाकृतिः | दशवर्षसहस्राणि तत्र जीवंति मानवाः",
+   "text_te": "తాని చైవ తు లక్షాణి సర్వతో వలయాకృతి | పుష్కరద్వీపవలయో మధ్యేన విభజంతి చ | తేనైవ వలయా కారా ద్వీపవర్షసమాకృతిః | దశవర్షసహస్రాణి తత్ర జీవంతి మానవాః",
+   "text_en": "tāni caiva tu lakṣāṇi sarvato valayākṛti | puṣkaradvīpavalayo madhyena vibhajaṁti ca | tenaiva valayā kārā dvīpavarṣasamākṛtiḥ | daśavarṣasahasrāṇi tatra jīvaṁti mānavāḥ",
+   "mean_en": "Those (rings) are a hundred thousand (yojanas), circular all around; the ring-shaped range of Pushkaradvipa divides the island through the middle, gives the island and its regions their form, and men live there for ten thousand years.",
+   "mean_te": "అవి లక్ష యోజనాల కొలత కలిగి అన్నివైపులా వలయాకారంలో ఉంటాయి; పుష్కరద్వీప వలయం ద్వీపాన్ని మధ్యలో విభజిస్తుంది. ఆ వలయమే ద్వీప-వర్షాలకు ఆకారాన్నిస్తుంది; అక్కడ మానవులు పది వేల సంవత్సరాలు జీవిస్తారు."
+  },
+  {
+   "n": 59,
+   "text_deva": "निरामया वीतशोका रागद्वेषविवर्जिताः | अधर्मो न मतस्तेषां न बंधवधकौ मुने",
+   "text_te": "నిరామయా వీతశోకా రాగద్వేషవివర్జితాః | అధర్మో న మతస్తేషాం న బంధవధకౌ మునే",
+   "text_en": "nirāmayā vītaśokā rāgadveṣavivarjitāḥ | adharmo na matasteṣāṁ na baṁdhavadhakau mune",
+   "mean_en": "They are free from illness and sorrow, and free from attachment and hatred; adharma is not known among them, nor the killing of kinsmen, O sage.",
+   "mean_te": "వారు రోగాలు లేనివారు, శోకం విడిచినవారు, రాగద్వేషాలు లేనివారు; వారిలో అధర్మం లేదు, బంధుహత్య అనేది లేదు ఓ మహామునీ."
+  },
+  {
+   "n": 60,
+   "text_deva": "सत्यानृते न तस्यास्तां सदैव वसतिस्सदा | तुल्यवेषास्तु मनुजा हेमवर्णैकरूपिणः",
+   "text_te": "సత్యానృతే న తస్యాస్తాం సదైవ వసతిస్సదా | తుల్యవేషాస్తు మనుజా హేమవర్ణైకరూపిణః",
+   "text_en": "satyānṛte na tasyāstāṁ sadaiva vasatissadā | tulyaveṣāstu manujā hemavarṇaikarūpiṇaḥ",
+   "mean_en": "Falsehood has no place there; truth prevails and their dwelling is perpetual. The people there all wear similar dress, are golden-hued, and of one and the same appearance.",
+   "mean_te": "అక్కడ అసత్యానికి తావులేదు; సత్యమే నిలుస్తుంది, వారి నివాసం నిరంతరం ఉంటుంది. ఆ మానవులందరికీ ఒకే విధమైన వస్త్రధారణ ఉంటుంది; వారు బంగారు వర్ణంతో ఒకే రూపంలో ఉంటారు."
+  },
+  {
+   "n": 61,
+   "text_deva": "वर्षश्चायं तु कालेय भौम स्वर्गोपमो मतः | सर्वस्य सुखदः काले जरारोगविवर्जितः",
+   "text_te": "వర్షశ్చాయం తు కాలేయ భౌమ స్వర్గోపమో మతః | సర్వస్య సుఖదః కాలే జరారోగవివర్జితః",
+   "text_en": "varṣaścāyaṁ tu kāleya bhauma svargopamo mataḥ | sarvasya sukhadaḥ kāle jarārogavivarjitaḥ",
+   "mean_en": "This region on earth is regarded as equal to heaven; it grants happiness to all and is free from old age and disease.",
+   "mean_te": "ఈ వర్ష (ప్రాంతం) భూమిపై ఉన్నప్పటికీ స్వర్గానికి సమానమని భావిస్తారు; ఇది అందరికీ సుఖాన్నిచ్చేది, జరా-రోగాలు (ముసలితనం-వ్యాధులు) లేనిది."
+  },
+  {
+   "n": 62,
+   "text_deva": "पुष्करे धातकीखण्डे महावीते महामुने | न्यग्रोधं पुष्करद्वीपे ब्रह्मणः स्थानमुत्तमम्",
+   "text_te": "పుష్కరే ధాతకీఖణ్డే మహావీతే మహామునే | న్యగ్రోధం పుష్కరద్వీపే బ్రహ్మణః స్థానముత్తమమ్",
+   "text_en": "puṣkare dhātakīkhaṇḍe mahāvīte mahāmune | nyagrodhaṁ puṣkaradvīpe brahmaṇaḥ sthānamuttamam",
+   "mean_en": "In Pushkara, in the Dhatakikhanda, in the great tract called Mahavita, O great sage, is the Nyagrodha tree of Pushkaradvipa, the supreme abode of Brahma.",
+   "mean_te": "పుష్కర (ద్వీపం)లో, ధాతకీఖండంలో, మహావీత (మహాప్రదేశం)లో ఓ మహామునీ, పుష్కరద్వీపంలో న్యగ్రోధ వృక్షం ఉంది — అదే బ్రహ్మ దేవుని శ్రేష్ఠమైన నివాసం."
+  },
+  {
+   "n": 63,
+   "text_deva": "तस्मिन्निवसते ब्रह्मा पूज्यमानस्सुरासुरैः | स्वादूदकेनांबुधिना पुष्करः परिवेष्टितः",
+   "text_te": "తస్మిన్నివసతే బ్రహ్మా పూజ్యమానస్సురాసురైః | స్వాదూదకేనాంబుధినా పుష్కరః పరివేష్టితః",
+   "text_en": "tasminnivasate brahmā pūjyamānassurāsuraiḥ | svādūdakenāṁbudhinā puṣkaraḥ pariveṣṭitaḥ",
+   "mean_en": "In it dwells Brahma, worshipped by the gods and the asuras; and Pushkara is encircled by the ocean of sweet water.",
+   "mean_te": "అందు బ్రహ్మ దేవుడు నివసిస్తాడు; దేవతలు, అసురులు అతన్ని పూజిస్తుంటారు. తీయని నీటి మహాసముద్రం పుష్కర ద్వీపాన్ని చుట్టి ఉంది."
+  },
+  {
+   "n": 64,
+   "text_deva": "एवं द्वीपास्समुद्रैस्तु सप्त सप्तभिरावृताः | द्वीपाश्चैव समुद्राश्च समाना द्विगुणैः परैः",
+   "text_te": "ఏవం ద్వీపాస్సముద్రైస్తు సప్త సప్తభిరావృతాః | ద్వీపాశ్చైవ సముద్రాశ్చ సమానా ద్విగుణైః పరైః",
+   "text_en": "evaṁ dvīpāssamudraistu sapta saptabhirāvṛtāḥ | dvīpāścaiva samudrāśca samānā dviguṇaiḥ paraiḥ",
+   "mean_en": "Thus the seven islands are surrounded by the seven oceans, each by one; the islands and the oceans are each double the size of the preceding ones.",
+   "mean_te": "ఈ విధంగా ఏడు ద్వీపాలు ఏడు సముద్రాలతో, ఒక్కొక్కటి ఒక్కొక్క దానిచే, ఆవరించబడి ఉన్నాయి; ద్వీపాలు, సముద్రాలు అన్నీ వరుసగా ముందు వాటి కంటే రెండు రెట్లు ఉంటాయి."
+  },
+  {
+   "n": 65,
+   "text_deva": "उक्तातिरिक्तता तेषां समुद्रेषु समानि वै | पयांसि सर्वदाऽल्पत्वं जायते न कदाचन",
+   "text_te": "ఉక్తాతిరిక్తతా తేషాం సముద్రేషు సమాని వై | పయాంసి సర్వదాఽల్పత్వం జాయతే న కదాచన",
+   "text_en": "uktātiriktatā teṣāṁ samudreṣu samāni vai | payāṁsi sarvadā'lpatvaṁ jāyate na kadācana",
+   "mean_en": "The oceans hold waters uniformly beyond the stated measure, and the waters never become less at any time.",
+   "mean_te": "ఆ సముద్రాల్లో చెప్పిన కొలత మించిన నీరు సమానంగా నిండి ఉంటుంది; ఆ నీరు ఎప్పుడూ తగ్గదు, ఎప్పటికీ తక్కువ కాదు."
+  },
+  {
+   "n": 66,
+   "text_deva": "स्थालीस्थमग्निसंयोगादधःस्थं मुनिसत्तमः | तथेन्दुवृद्धौ सलिलमूर्द्ध्वगं भवति ध्रुवम्",
+   "text_te": "స్థాలీస్థమగ్నిసంయోగాదధఃస్థం మునిసత్తమః | తథేన్దువృద్ధౌ సలిలమూర్ద్ధ్వగం భవతి ధ్రువమ్",
+   "text_en": "sthālīsthamagnisaṁyogādadhaḥsthaṁ munisattamaḥ | tathenduvṛddhau salilamūrddhvagaṁ bhavati dhruvam",
+   "mean_en": "As the water lying at the bottom of a pot rises up through contact with fire, so, O best of sages, when the moon waxes the waters certainly rise upward.",
+   "mean_te": "అగ్ని సంపర్కంతో పాత్ర అడుగున ఉన్న నీరు పైకి లేచేట్లు, ఓ మునిశ్రేష్ఠా, చంద్రుడు వృద్ధి చెందినప్పుడు జలాలు ఖచ్చితంగా పైకి లేస్తాయి."
+  },
+  {
+   "n": 67,
+   "text_deva": "उदयास्तमनेत्विंदोर्वर्द्धंत्यापो ह्रसन्ति च | अतो न्यूनातिरिक्ताश्च पक्षयोः शुक्लकृष्णयोः",
+   "text_te": "ఉదయాస్తమనేత్విందోర్వర్ద్ధంత్యాపో హ్రసన్తి చ | అతో న్యూనాతిరిక్తాశ్చ పక్షయోః శుక్లకృష్ణయోః",
+   "text_en": "udayāstamanetviṁdorvarddhaṁtyāpo hrasanti ca | ato nyūnātiriktāśca pakṣayoḥ śuklakṛṣṇayoḥ",
+   "mean_en": "With the rising and setting of the moon the waters increase and diminish; hence they are less or more in the dark and bright fortnights.",
+   "mean_te": "చంద్రుడు ఉదయించడం, అస్తమించడం చేత నీళ్లు పెరుగుతాయి, తగ్గుతాయి; అందువల్ల కృష్ణ, శుక్ల పక్షాల్లో నీరు తక్కువగా, ఎక్కువగా ఉంటుంది."
+  },
+  {
+   "n": 68,
+   "text_deva": "अपां वृद्धिक्षयौ दृष्टौ शतशस्तु दशोत्तरम् | समुद्राणां मुनिश्रेष्ठो सर्वेषां कथितं तव",
+   "text_te": "అపాం వృద్ధిక్షయౌ దృష్టౌ శతశస్తు దశోత్తరమ్ | సముద్రాణాం మునిశ్రేష్ఠో సర్వేషాం కథితం తవ",
+   "text_en": "apāṁ vṛddhikṣayau dṛṣṭau śataśastu daśottaram | samudrāṇāṁ muniśreṣṭho sarveṣāṁ kathitaṁ tava",
+   "mean_en": "The rise and fall of the waters is seen after hundreds (of yojanas) and ten more; O best of sages, this has been narrated to you concerning all the oceans.",
+   "mean_te": "నీటి పెరుగుదల-తగ్గుదల వందల (యోజనాల) కొద్దీ, అందుకు పది ఎక్కువగా కనిపిస్తుంది; ఓ మునిశ్రేష్ఠా, అన్ని సముద్రాల గురించి నీకు ఇది చెప్పబడింది."
+  },
+  {
+   "n": 69,
+   "text_deva": "भोजनं पुष्करद्वीपे प्रजास्सर्वाः सदैव हि | खंडस्य कुर्वते विप्र तत्र स्वयमुपस्थितम्",
+   "text_te": "భోజనం పుష్కరద్వీపే ప్రజాస్సర్వాః సదైవ హి | ఖండస్య కుర్వతే విప్ర తత్ర స్వయముపస్థితమ్",
+   "text_en": "bhojanaṁ puṣkaradvīpe prajāssarvāḥ sadaiva hi | khaṁḍasya kurvate vipra tatra svayamupasthitam",
+   "mean_en": "In the tract of land known as Puskara-dvipa, all living beings obtain their food without effort, for it arises there of its own accord; this is how the descendants of Khanda (or the inhabitants of that region) sustain themselves, O brahmin.",
+   "mean_te": "పుష్కరద్వీపంలో సర్వప్రజలకు ఆహారం సదా స్వయంగా దొరుకుతుంది; వారు దానిని ప్రయత్నం లేకుండానే పొందుతారు."
+  },
+  {
+   "n": 70,
+   "text_deva": "स्वांगदो यस्य पुरतो नास्ति लोकस्य संस्थितिः | द्विगुणा हिरण्मयी भूमिस्सर्वजंतुविवर्जिता",
+   "text_te": "స్వాంగదో యస్య పురతో నాస్తి లోకస్య సంస్థితిః | ద్విగుణా హిరణ్మయీ భూమిస్సర్వజంతువివర్జితా",
+   "text_en": "svāṁgado yasya purato nāsti lokasya saṁsthitiḥ | dviguṇā hiraṇmayī bhūmissarvajaṁtuvivarjitā",
+   "mean_en": "Before that dwipa stands the mountain called Svamga (Svarga-rohaka); wherever a dwipa lacks a bounding mountain range, its land is said to be twice as rich in golden soil and completely free of all living creatures' suffering.",
+   "mean_te": "ద్వీపానికి సంబంధించిన ఆ పర్వతం ముందు..."
+  },
+  {
+   "n": 71,
+   "text_deva": "लोकालोकस्ततश्शैलस्सहस्राण्यचलो हि सः | उच्छ्रयेण हि तावंति योजनायुतविस्तृतः",
+   "text_te": "లోకాలోకస్తతశ్శైలస్సహస్రాణ్యచలో హి సః | ఉచ్ఛ్రయేణ హి తావంతి యోజనాయుతవిస్తృతః",
+   "text_en": "lokālokastataśśailassahasrāṇyacalo hi saḥ | ucchrayeṇa hi tāvaṁti yojanāyutavistṛtaḥ",
+   "mean_en": "Beyond it rises the mountain Lokaloka, which is thousands of yojanas in extent and immeasurably lofty — its height and breadth both being of vast, unbounded measure.",
+   "mean_te": "ఆ పర్వతానికి ఆవల లోకాలోక శైలం ఉంది; అది వేయి యోజనాల ఎత్తు విశాలత కలిగి అపరిమితంగా విస్తరించి ఉంటుంది."
+  },
+  {
+   "n": 72,
+   "text_deva": "तमश्चांडकटाहेन सेयमुर्वी महामुने | पंचाशत्कोटिविस्तारा सद्वीपा समहीधरा",
+   "text_te": "తమశ్చాండకటాహేన సేయముర్వీ మహామునే | పంచాశత్కోటివిస్తారా సద్వీపా సమహీధరా",
+   "text_en": "tamaścāṁḍakaṭāhena seyamurvī mahāmune | paṁcāśatkoṭivistārā sadvīpā samahīdharā",
+   "mean_en": "This earth, O great sage, is covered by the darkness called Tamas or Andakataha, and it is spread over fifty kotis (of yojanas), containing seven dwipas and equal-numbered mountain ranges.",
+   "mean_te": "మహామునీంద్రా! ఈ భూమి తమస్సు అనే కటాహంతో ఆవృతమై ఉంది; ఇది యాభై కోట్ల విస్తారం గలది."
+  },
+  {
+   "n": 73,
+   "text_deva": "आधारभूता सर्वेषां सर्वभूतगुणाधिका | सेयं धात्री च कालेय सर्वेषां जगतामिला",
+   "text_te": "ఆధారభూతా సర్వేషాం సర్వభూతగుణాధికా | సేయం ధాత్రీ చ కాలేయ సర్వేషాం జగతామిలా",
+   "text_en": "ādhārabhūtā sarveṣāṁ sarvabhūtaguṇādhikā | seyaṁ dhātrī ca kāleya sarveṣāṁ jagatāmilā",
+   "mean_en": "This earth is the support (adhara) of all worlds; she is superior in all qualities of all beings, and she is the great mother (Dhatri) and Kali (time), the bearer of all the worlds.",
+   "mean_te": "ఈ భూదేవి సర్వలోకాలకు ఆధారభూతమైనది; సర్వభూతగుణాలతో శ్రేష్ఠమైనది."
+  },
+  {
+   "n": 74,
+   "text_deva": "इति श्रीशिवमहापुराणे पञ्चम्यामुमासंहितायां ब्रह्माण्डकथने सप्तदीपवर्णनं नामाष्टादशोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే పఞ్చమ్యాముమాసంహితాయాం బ్రహ్మాణ్డకథనే సప్తదీపవర్ణనం నామాష్టాదశోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe pañcamyāmumāsaṁhitāyāṁ brahmāṇḍakathane saptadīpavarṇanaṁ nāmāṣṭādaśo'dhyāyaḥ",
+   "mean_en": "Thus ends the Eighteenth Adhyaya, entitled \"Description of the Seven Dwipas\", in the discourse on the universe, in Uma-samhita (the Fifth) of the Shiva Maha Purana.",
+   "mean_te": "శ్రీ శివ మహాపురాణం, ఉమా సంహిత (ఐదవ) సర్గం, బ్రహ్మాండ కథనంలో \"సప్తద్వీప వర్ణన\" అనే 18వ అధ్యాయం ఇలా ముగిసింది."
+  }
+ ]
+}

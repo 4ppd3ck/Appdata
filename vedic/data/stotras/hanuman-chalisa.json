@@ -1,0 +1,397 @@
+{
+  "id": "hanuman-chalisa",
+  "type": "verses",
+  "deity": "hanuman",
+  "meta": {
+    "title": {"en": "Hanuman Chalisa", "te": "హనుమాన్ చాలీసా"},
+    "subtitle": {"en": "The 40-verse hymn of Shri Hanuman", "te": "శ్రీ హనుమంతుని 40 పద్యాల స్తుతి"},
+    "author": {"en": "Goswami Tulsidas", "te": "గోస్వామి తులసీదాస్"},
+    "source": {"en": "Awadhi hymn from Hanuman Prashnavali tradition; recited on Tuesdays & Saturdays", "te": "మంగళవారం, శనివారం రోజుల్లా పఠిస్తారు"},
+    "benefit": {"en": "Reciting it with devotion removes fear and obstacles and grants courage and strength.", "te": "భక్తితో పఠిస్తే భయం, అపవాదులు తొలగి ధైర్యం, బలం కలుగుతాయి."}
+  },
+  "items": [
+    {
+      "n": 1,
+      "label_en": "Doha",
+      "label_te": "దోహా",
+      "text_en": "Shri guru charana saroja raja, nij manu mukuru sudhaari. Baranau Raghubar bimal jasu, jo dayaku phal chaari. Budhiheen tanu jaanike, sumirau Pavan Kumar. Bal budhi vidya dehu mohi, harahu kalesh bikaar.",
+      "text_te": "శ్రీ గురు చరణ సరోజ రజ, నిజమన ముకుర సుధారి. వరణౌ రఘువర విమలయశ, జో దాయక ఫలచారి. బుద్ధిహీన తనుజానికే, సుమిరౌ పవన కుమార. బల బుద్ధి విద్యా దేహు మోహి, హరహు కలేశ వికార.",
+      "mean_en": "With the dust of my Guru's lotus feet I polish the mirror of my mind and describe the spotless glory of Lord Rama, the giver of the four rewards of life. Knowing myself to be without wisdom, I remember the son of the wind - grant me strength, intelligence and knowledge, and remove my afflictions and impurities.",
+      "mean_te": "గురువుల పాదపద్మాల ధూళితో మనసు అనే అద్దాన్ని శుభ్రం చేసుకుని, రఘువంశ తిలకుడైన శ్రీరాముని నిర్మలమైన కీర్తిని వర్ణిస్తాను. తెలివిలేని తనువుగల నేను పవనకుమారుని స్మరిస్తున్నాను - నాకు బలం, బుద్ధి, విద్య ప్రసాదించు, నా కష్టాలను దోషాలను హరించు."
+    },
+    {
+      "n": 2,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Jai Hanuman gyan gun sagar, jai Kapis tihun lok ujagaar.",
+      "text_te": "జయ హనుమాన జ్ఞాన గుణ సాగర, జయ కపీశ తిహు లోక ఉజాగర.",
+      "mean_en": "Victory to Hanuman, the ocean of wisdom and virtue, victory to the lord of monkeys who brings light to all the three worlds.",
+      "mean_te": "జ్ఞాన గుణాల సాగరుడైన హనుమంతునికి జయం! మూడు లోకాలను వెలిగించే వానరసేనాధిపతికి జయం."
+    },
+    {
+      "n": 3,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Ram doot atulit bal dhama, Anjani putra Pavan sut nama.",
+      "text_te": "రామదూత అతులిత బలధామా, అంజని పుత్ర పవనసుత నామా.",
+      "mean_en": "You are the messenger of Rama, the abode of matchless strength, son of Anjana, known as the son of the wind god.",
+      "mean_te": "శ్రీరాముని దూత, తులనాతీత బలసంపద కలవాడు, అంజనాదేవి కుమారుడు, వాయుదేవుని పుత్రుడు అయిన హనుమంతునికి నమస్కారం."
+    },
+    {
+      "n": 4,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Maha bir bikram Bajrangi, kumati nivar sumati ke sangi.",
+      "text_te": "మహావీర విక్రమ బజరంగీ, కుమతి నివార సుమతి కే సంగీ.",
+      "mean_en": "O great hero of mighty valor, with a thunderbolt-strong body, you remove evil thoughts and stay with those of good sense.",
+      "mean_te": "మహావీరుడు, వజ్రం వంటి శరీరం కలవాడు; చెడు బుద్ధులను తొలగించి, మంచి బుద్ధి కలవారికి తోడై నిలిచేవాడు."
+    },
+    {
+      "n": 5,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Kanchan baran biraj subesa, kanan kundal kunchit kesa.",
+      "text_te": "కంచన వరణ విరాజ సువేశా, కానన కుండల కుంచిత కేశా.",
+      "mean_en": "Golden-hued and beautifully adorned, with earrings shining and hair gracefully curled.",
+      "mean_te": "బంగారు వర్ణంతో తేజస్వించే వేషం కలవాడు; చెవుల్లో కుండలాలు మెరవగా, వంకర కేశాలతో శోభించేవాడు."
+    },
+    {
+      "n": 6,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Hath bajra aur dhvaja birajai, kandhe moonj janeu sajai.",
+      "text_te": "హాథ వజ్ర ఔ ధ్వజా విరాజై, కాంధే మూంజ జనేవూ సాజై.",
+      "mean_en": "The mace and banner shine in your hands, and the sacred thread of munja grass graces your shoulder.",
+      "mean_te": "చేతుల్లో వజ్రాయుధం, ధ్వజం రమించి ఉంటాయి; భుజంపై మౌంజ గడ్డితో చేసిన యజ్ఞోపవీతం శోభిస్తుంది."
+    },
+    {
+      "n": 7,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Sankar suvan Kesari nandan, tej pratap maha jag vandan.",
+      "text_te": "శంకర సువన కేసరీ నందన, తేజ ప్రతాప మహాజగ వందన.",
+      "mean_en": "Son of Shiva and born of Kesari, your radiance and glory are saluted by the whole world.",
+      "mean_te": "శంకరుని అంశతో కేసరికి జన్మించినవాడు; తేజస్సు, ప్రతాపం కలవానిని జగత్తంతా వందిస్తుంది."
+    },
+    {
+      "n": 8,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Bidyavan guni ati chatur, Ram kaj karibe ko atur.",
+      "text_te": "విద్యావాన గుణీ అతి చాతుర, రామ కాజ కరివే కో ఆతుర.",
+      "mean_en": "Learned, virtuous and most clever, you are ever eager to carry out Rama's work.",
+      "mean_te": "విద్యావంతుడు, గుణశాలి, అత్యంత చతురుడు; శ్రీరాముని పనులు చేయడానికి ఎప్పుడూ ఆత్రుతపడేవాడు."
+    },
+    {
+      "n": 9,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Prabhu charitra sunibe ko rasiya, Ram Lakhan Sita man basiya.",
+      "text_te": "ప్రభు చరిత్ర సునివే కో రసియా, రామ లఖన సీతా మన బసియా.",
+      "mean_en": "You delight in listening to your Lord's stories, and you dwell in the hearts of Rama, Lakshmana and Sita.",
+      "mean_te": "స్వామి చరిత్రలు వినడం అంటే ఆయనకు ఎంతో ఇష్టం; రామ, లక్ష్మణ, సీతల హృదయాల్లో నివసించేవాడు."
+    },
+    {
+      "n": 10,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Sukshma roop dhari Siyahi dikhava, bikat roop dhari Lank jarava.",
+      "text_te": "సూక్ష్మ రూపధరి సియహి దిఖావా, వికట రూపధరి లంక జలావా.",
+      "mean_en": "Taking a tiny form you appeared before Sita, and taking a fearsome form you set Lanka ablaze.",
+      "mean_te": "సూక్ష్మరూపం ధరించి సీతాదేవికి దర్శనమిచ్చాడు; భీకరమైన రూపం ధరించి లంకను దహించాడు."
+    },
+    {
+      "n": 11,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Bhim roop dhari asur sanhare, Ramchandra ke kaj sanvare.",
+      "text_te": "భీమ రూపధరి అసుర సంహారే, రామచంద్ర కే కాజ సంవారే.",
+      "mean_en": "In a gigantic form you destroyed the demons and set all of Rama's tasks in order.",
+      "mean_te": "భీమరూపం ధరించి రాక్షసులను సంహరించి, శ్రీరామచంద్రుని కార్యాలన్నీ సఫలం చేశాడు."
+    },
+    {
+      "n": 12,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Laye sanjivan Lakhan jiyaye, Shri Raghuvir harashi ur laye.",
+      "text_te": "లాయ సంజీవన లఖన జియాయే, శ్రీ రఘువీర హరషి ఉరలాయే.",
+      "mean_en": "You brought the life-restoring herb and saved Lakshmana's life; Rama joyfully embraced you to his chest.",
+      "mean_te": "సంజీవని మూలిక తెచ్చి లక్ష్మణుని ప్రాణాలు కాపాడాడు; శ్రీరాముడు ఆనందంతో ఆయన్ను కౌగలించుకున్నాడు."
+    },
+    {
+      "n": 13,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Raghupati kinhi bahut badayi, tum mama priya Bharatahi sam bhai.",
+      "text_te": "రఘుపతి కీన్హీ బహుత బడాయీ, తుమ మమ ప్రియ భరతహి సమ భాయీ.",
+      "mean_en": "The Lord of Raghu praised you greatly, saying: you are as dear to me as my brother Bharata.",
+      "mean_te": "శ్రీరాముడు ఎంతో పొగడ్తలతో - 'నువ్వు నాకు భరతుని వలె సమానమైన ప్రియుడివి' అని పలికాడు."
+    },
+    {
+      "n": 14,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Sahas badan tumharo yash gavai, as kahi Shripati kanth lagaavai.",
+      "text_te": "సహస్ర వదన తుమ్హరో యశగావై, అస కహి శ్రీపతి కంఠ లగావై.",
+      "mean_en": "May a thousand mouths sing your fame - saying this, the husband of Shri (Lakshmi) drew you to his chest.",
+      "mean_te": "'వేల నోళ్లతో నీ కీర్తిని పాడాలి' అని పలికి, శ్రీపతి అయిన రాముడు ఆయన్ను కౌగలించుకున్నాడు."
+    },
+    {
+      "n": 15,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Sanakadik Brahmadi munisa, Narad Sarad sahit Ahisa.",
+      "text_te": "సనకాదిక బ్రహ్మాది మునీశా, నారద శారద సహిత అహీశా.",
+      "mean_en": "Sanaka and other sages, Brahma and the gods, Narada, Saraswati and Adishesha all sing your glory.",
+      "mean_te": "సనకాది మహర్షులు, బ్రహ్మాది దేవతలు, నారదుడు, శారదాదేవి, ఆదిశేషుడు - అందరూ ఆయన మహిమలను కొనియాడుతూ ఉంటారు."
+    },
+    {
+      "n": 16,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Yam Kuber digpal jahan te, kabi kobid kahi sake kahan te.",
+      "text_te": "యమ కుబేర దిగపాల జహాం తే, కవి కోవిద కహి సకే కహాం తే.",
+      "mean_en": "Yama, Kubera and the guardians of the directions cannot reach your greatness - where can any poet possibly describe it from?",
+      "mean_te": "యముడు, కుబేరుడు, దిక్పాలురు కూడా ఆయన మహిమకు చేరువ కాలేరు; కవులు ఎక్కడినుంచి, ఏ మాత్రం చెప్పగలరు?"
+    },
+    {
+      "n": 17,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Tum upkar Sugrivahin kinha, Ram milaye rajpad deenha.",
+      "text_te": "తుమ ఉపకార సుగ్రీవహి కీన్హా, రామ మిలాయ రాజపద దీన్హా.",
+      "mean_en": "You did a great favor to Sugriva: you brought him to Rama and secured him his throne.",
+      "mean_te": "సుగ్రీవునికి మంచి ఉపకారం చేశాడు; శ్రీరామునితో కలుపుకుని, ఆయన్ను రాజ్యపదవిపై కూర్చుండబెట్టాడు."
+    },
+    {
+      "n": 18,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Tumharo mantra Vibhishan mana, Lankeshwar bhaye sab jag jana.",
+      "text_te": "తుమ్హరో మంత్ర విభీషణ మానా, లంకేశ్వర భయే సబ జగ జానా.",
+      "mean_en": "Vibhishana heeded your counsel and became lord of Lanka - the whole world knows this.",
+      "mean_te": "విభీషణుడు ఆయన మంత్రాన్ని ఆలకించి లంకాధీశుడయ్యాడు; ఈ విషయం ప్రపంచమంతా తెలుసు."
+    },
+    {
+      "n": 19,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Yug sahasra yojan par bhanu, leelyo tahi madhur phal janu.",
+      "text_te": "యుగ సహస్ర యోజన పర భానూ, లీల్యో తాహి మధుర ఫల జానూ.",
+      "mean_en": "The sun, thousands of yojanas away, you took in play, thinking it a sweet ripe fruit.",
+      "mean_te": "యుగ సహస్ర యోజనాల దూరంలో ఉన్న సూర్యుణ్ణి అందమైన తీయని పండుగా భావించి, లీలావేషంతో ఆయన మింగేశాడు."
+    },
+    {
+      "n": 20,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Prabhu mudrika meli mukh mahi, jaladhi langhi gaye acharaj nahi.",
+      "text_te": "ప్రభు ముద్రికా మేలి ముఖ మాహీ, జలధి లాంఘి గయే అచరజ నాహీ.",
+      "mean_en": "Holding your Lord's ring in your mouth, you leapt across the ocean - no wonder at all.",
+      "mean_te": "ప్రభువు ఇచ్చిన ముద్రిక నోట్లో పెట్టుకుని సముద్రాన్ని దాటాడు; అది ఆయనకు ఆశ్చర్యమేమీ కాదు."
+    },
+    {
+      "n": 21,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Durgam kaj jagat ke jete, sugam anugrah tumhare tete.",
+      "text_te": "దుర్గమ కాజ జగత కే జేతే, సుగమ అనుగ్రహ తుమ్హరే తేతే.",
+      "mean_en": "Every difficult task in this world becomes easy by your grace.",
+      "mean_te": "లోకంలోని ఎంత కఠినమైన పనైనా ఆయన అనుగ్రహంతో సులువుగా సాధ్యమవుతుంది."
+    },
+    {
+      "n": 22,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Ram duare tum rakhaware, hot na agya binu paisare.",
+      "text_te": "రామ దుఆరే తుమ రఖవారే, హోత న ఆజ్ఞా బిను పైసారే.",
+      "mean_en": "You stand guard at Rama's door; no one may enter without your leave.",
+      "mean_te": "శ్రీరాముని ద్వారం వద్ద కాపలా కాసేవాడు; ఆయన అనుమతి లేకుండా ఎవరూ లోపలికి రాలేరు."
+    },
+    {
+      "n": 23,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Sab sukh lahai tumhari sarna, tum rachchhak kahu ko dar na.",
+      "text_te": "సబ సుఖ లహై తుమ్హారీ శరణా, తుమ రక్షక కాహూ కో డర నా.",
+      "mean_en": "All happiness comes to those who take refuge in you; when you are the protector, who need fear anything?",
+      "mean_te": "నిన్ను శరణువేడిన వారికి సకల సుఖాలు లభిస్తాయి; నువ్వు రక్షిస్తున్నప్పుడు ఎవరికీ భయమేమీ ఉండదు."
+    },
+    {
+      "n": 24,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Apan tej samharo apai, teenon lok hank te kanpai.",
+      "text_te": "ఆపన తేజ సమ్హారో ఆపై, తీనోం లోక హాంక తే కాంపై.",
+      "mean_en": "You alone can contain your own mighty energy; the three worlds tremble at your roar.",
+      "mean_te": "తన తేజస్సును తానే నియంత్రించుకుంటాడు; ఆయన గర్జనతో మూడు లోకాలూ వణుకుతాయి."
+    },
+    {
+      "n": 25,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Bhoot pisach nikat nahi avai, Mahabir jab naam sunavai.",
+      "text_te": "భూత పిశాచ నికట నహి ఆవై, మహవీర జబ నామ సునావై.",
+      "mean_en": "Evil spirits and ghosts dare not come near when the name of the great hero Hanuman is spoken.",
+      "mean_te": "మహావీరుడైన హనుమంతుని నామం మోగిస్తే భూత పిశాచాలు సమీపించడానికి కూడా ధైర్యం చేయవు."
+    },
+    {
+      "n": 26,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Nasai rog harai sab peera, japat nirantar Hanumat beera.",
+      "text_te": "నాసై రోగ హరై సబ పీరా, జపత నిరంతర హనుమత వీరా.",
+      "mean_en": "Disease and all suffering are destroyed for one who constantly repeats the name of the brave Hanuman.",
+      "mean_te": "వీర హనుమంతుని నామాన్ని ఎప్పటికప్పుడు జపించే వారి రోగాలు నశించి, అన్ని బాధలూ తొలగిపోతాయి."
+    },
+    {
+      "n": 27,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Sankat se Hanuman chhudavai, man kram bachan dhyan jo lavai.",
+      "text_te": "సంకట సే హనుమాన ఛుడావై, మన క్రమ వచన ధ్యాన జో లావై.",
+      "mean_en": "Hanuman rescues from every trouble all who remember him in thought, word and deed.",
+      "mean_te": "మనసు, మాట, చేష్టలతో హనుమంతుని ధ్యానించే వారిని ఆయన సంకటాల నుంచి రక్షిస్తాడు."
+    },
+    {
+      "n": 28,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Sab par Ram tapasvi raja, tin ke kaj sakal tum saja.",
+      "text_te": "సబ పర రామ తపస్వీ రాజా, తినకే కాజ సకల తుమ సాజా.",
+      "mean_en": "Rama, the ascetic king, is supreme over all, and you carry out all his tasks.",
+      "mean_te": "తపస్వి రాజు అయిన శ్రీరాముడు అందరికంటే గొప్పవాడు; ఆయన కార్యాలన్నీ నువ్వే నెగ్గిస్తావు."
+    },
+    {
+      "n": 29,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Aur manorath jo koi lavai, soi amit jivan phal pavai.",
+      "text_te": "ఔర మనోరథ జో కోయి లావై, తాసు అమిత జీవన ఫల పావై.",
+      "mean_en": "Whoever comes to you with any wish receives the priceless fruit of life.",
+      "mean_te": "ఎవరైనా ఏ కోరికతో వచ్చినా, ఆయన వారికి జీవిత ఫలం అయిన అమూల్యమైన వరాన్ని ప్రసాదిస్తాడు."
+    },
+    {
+      "n": 30,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Charo yug pratap tumhara, hai prasiddh jagat ujiyara.",
+      "text_te": "చారో యుగ ప్రతాప తుమ్హారా, హై ప్రసిద్ధ జగత ఉజియారా.",
+      "mean_en": "Your glory shines through all four ages, renowned and illuminating the whole world.",
+      "mean_te": "నీ ప్రతాపం నాలుగు యుగాలలోనూ ప్రసిద్ధి చెంది, జగత్తంతా వెలిగిపోయేలా చేస్తోంది."
+    },
+    {
+      "n": 31,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Sadhu sant ke tum rakhaware, asur nikandan Ram dulare.",
+      "text_te": "సాధు సంత కే తుమ రఖవారే, అసుర నికందన రామ దులారే.",
+      "mean_en": "You are the protector of saints and sages, the destroyer of demons, and Rama's beloved.",
+      "mean_te": "సాధు సంతులకు నువ్వే రక్షకుడివి; రాక్షసుల సంహారకుడివి; శ్రీరామునికి అత్యంత ప్రీతిపాత్రుడివి."
+    },
+    {
+      "n": 32,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Ashta siddhi nav nidhi ke data, as var deen Janaki mata.",
+      "text_te": "అష్టసిద్ధి నవ నిధి కే దాతా, అస వర దీన్హ జానకీ మాతా.",
+      "mean_en": "You bestow the eight powers and the nine treasures; Mother Janaki (Sita) granted you this boon.",
+      "mean_te": "అష్టసిద్ధులు, నవనిధులు ప్రసాదించే వరదాయకుడివి; ఈ వరాన్ని జానకీ మాత నీకు అనుగ్రహించింది."
+    },
+    {
+      "n": 33,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Ram rasayan tumhare pasa, sada raho Raghupati ke dasa.",
+      "text_te": "రామ రసాయన తుమ్హారే పాసా, సదా రహో రఘుపతి కే దాసా.",
+      "mean_en": "The nectar of devotion to Rama is always with you; may you forever remain the servant of Raghupati (Rama).",
+      "mean_te": "రామభక్తి అనే అమృతం నీ దగ్గర ఎప్పుడూ ఉంటుంది; నువ్వు ఎల్లప్పుడూ రఘుపతి దాసుడిగా ఉంటావు."
+    },
+    {
+      "n": 34,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Tumhare bhajan Ram ko pavai, janam janam ke dukh bisravai.",
+      "text_te": "తుమ్హరే భజన రామ కో పావై, జన్మ జన్మ కే దుఃఖ బిసరావై.",
+      "mean_en": "Through devotion to you one attains Rama, and the sorrows of birth after birth are forgotten.",
+      "mean_te": "నీ భక్తితో మనిషి శ్రీరాముని చేరుకుంటాడు; జన్మంతరాల తరిమిన దుఃఖాలు మరుగున పడతాయి."
+    },
+    {
+      "n": 35,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Ant kal Raghubar pur jayi, jahan janam Hari bhakt kahayi.",
+      "text_te": "అంత కాల రఘుపతి పురజాయీ, జహాం జన్మ హరిభక్త కహాయీ.",
+      "mean_en": "At the end of life one goes to the abode of Rama and is born there as a devotee of Hari.",
+      "mean_te": "చివరి కాలంలో రఘుపతి పురాన్ని (సాకేతాన్ని) చేరుకుంటాడు; అక్కడే హరిభక్తుడిగా పుట్టుకొచ్చే భాగ్యం కలుగుతుంది."
+    },
+    {
+      "n": 36,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Aur devta chitta na dharayi, Hanumat sei sarva sukh kari.",
+      "text_te": "ఔర దేవతా చిత్త న ధరయీ, హనుమత సేయి సర్వ సుఖ కరయీ.",
+      "mean_en": "One need not fix the mind on any other deity; serving Hanuman brings every happiness.",
+      "mean_te": "ఇతర దేవతలపై మనసు పెట్టుకోవడానికి పనిలేదు; హనుమంతుని సేవ చేస్తే సకల సుఖాలు కలుగుతాయి."
+    },
+    {
+      "n": 37,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Sankat te mite sab peera, jo sumire Hanuman balbeera.",
+      "text_te": "సంకట కటై మిటై సబ పీరా, జో సుమిరై హనుమత బల వీరా.",
+      "mean_en": "All troubles and every pain come to an end for whoever remembers the mighty hero Hanuman.",
+      "mean_te": "బలవీరుడైన హనుమంతుని స్మరించే వారి సంకటాలు తొలగి, అన్ని బాధలూ పోతాయి."
+    },
+    {
+      "n": 38,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Jai jai jai Hanuman Gosai, kripa karahu gurudev ki nayi.",
+      "text_te": "జై జై జై హనుమాన గోసాయీ, కృపా కరహు గురుదేవ కీ నాయీ.",
+      "mean_en": "Victory, victory, victory to Lord Hanuman; bestow your grace on me like a divine guru.",
+      "mean_te": "హనుమంతునికి జై జై జై! నా గురుదేవుడివై దయ చూపుము."
+    },
+    {
+      "n": 39,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Jo shat bar path kar koi, chhutahi bandi maha sukh hoyi.",
+      "text_te": "జో శత వార పాఠ కర కోయీ, ఛూటహి బంది మహా సుఖ హోయీ.",
+      "mean_en": "Whoever recites this a hundred times is freed from all bondage and attains great joy.",
+      "mean_te": "వందసార్లు పఠించే వాడు బంధాల నుంచి విముక్తుడై మహా సుఖాన్ని పొందుతాడు."
+    },
+    {
+      "n": 40,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Jo yah padai Hanuman Chalisa, hoye siddhi sakhi Gaurisa.",
+      "text_te": "జో యహ పడై హనుమాన చాలీసా, హోయ సిద్ధి సాఖీ గౌరీశా.",
+      "mean_en": "Whoever reads this Hanuman Chalisa gains accomplishment, with Lord Shiva (husband of Gauri) as the witness.",
+      "mean_te": "ఈ హనుమాన్ చాలీసా చదివే వారికి సిద్ధి లభిస్తుంది; దీనికి గౌరీశుడే (శివుడు) సాక్షి."
+    },
+    {
+      "n": 41,
+      "label_en": "Chaupai",
+      "label_te": "చౌపాయి",
+      "text_en": "Tulsi daas sada hari chera, keejai naath hridaya maham dera.",
+      "text_te": "తులసీదాస సదా హరి చేరా, కీజై నాథ హృదయ మహ డేరా.",
+      "mean_en": "Tulsidas, ever the servant of Hari, prays: O Master, make your dwelling in my heart.",
+      "mean_te": "ఎల్లప్పుడూ శ్రీహరి సేవకుడైన తులసీదాసు వేడుకుంటున్నాడు - 'ఓ ప్రభూ! నా హృదయంలో నివసించు.'"
+    },
+    {
+      "n": 42,
+      "label_en": "Phala Doha",
+      "label_te": "ఫలశ్రుతి దోహా",
+      "text_en": "Tulsi daas sada hari chera, keejai naath hridaya maham dera. Sankat te mite sab peera, jo sumire Hanuman balbeera.",
+      "text_te": "తులసీదాస సదా హరి చేరా, కీజై నాథ హృదయ మహ డేరా. సంకట కటై మిటై సబ పీరా, జో సుమిరై హనుమత బల వీరా.",
+      "mean_en": "Tulsidas, forever the servant of the Lord, prays that Hanuman may dwell in his heart; all suffering and pain are removed for whoever remembers the mighty Hanuman.",
+      "mean_te": "ఎల్లప్పుడూ శ్రీహరి సేవకుడైన తులసీదాసు - 'ఓ ప్రభూ! నా హృదయంలో నివసించు' అని ప్రార్థిస్తాడు. బలవీరుడైన హనుమంతుని స్మరించే వారి సంకటాలు, బాధలన్నీ తొలగిపోతాయి."
+    }
+  ],
+  "sources": [
+    "https://te.wikisource.org/wiki/హనుమాన్_చాలీసా",
+    "https://stotranidhi.com/en/hanuman-chalisa-in-english/",
+    "https://en.wikipedia.org/wiki/Hanuman_Chalisa"
+  ]
+}

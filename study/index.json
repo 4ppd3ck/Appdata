@@ -1,0 +1,51 @@
+{
+  "repoBase": "https://github.com/4ppd3ck/Appdata",
+  "app": "study",
+  "files": [
+    {
+      "path": "data_raw/AUS.json",
+      "size": 11066867,
+      "sha256": "69115100f6d6fa953651988ecb091b1c3a687a4a8a95782bfafaa950af66b3e4"
+    },
+    {
+      "path": "data_raw/BRA.json",
+      "size": 41459218,
+      "sha256": "96abf365ab2be5f620a1516bc555e6f7cfade6b43313c562ab1ab05d1039973f"
+    },
+    {
+      "path": "data_raw/CAN.json",
+      "size": 18457238,
+      "sha256": "8b92b84ac3dda411e821fe6268bb310ab1b3bff01ae6b8d44ceb270b27bc5c92"
+    },
+    {
+      "path": "data_raw/CHN.json",
+      "size": 7018287,
+      "sha256": "8c7dfa8e40842f9162453d9b0b614276a48bf635559ba371c7982cb288e7b303"
+    },
+    {
+      "path": "data_raw/IDN.json",
+      "size": 11002896,
+      "sha256": "146653d488331086ddc43d159a261b01ea6dd08c7ed422e34a9886c3c690430c"
+    },
+    {
+      "path": "data_raw/IND.json",
+      "size": 7979916,
+      "sha256": "d68db39cd3e2d0892af268e2b0454166368ce3b5b8a78fcda63069ec92a641db"
+    },
+    {
+      "path": "data_raw/RUS.json",
+      "size": 26338801,
+      "sha256": "81dabf7930ff5e306e2423b586bcec14163fbd10481db6e49aab47273953b128"
+    },
+    {
+      "path": "data_raw/USA.json",
+      "size": 7938450,
+      "sha256": "16249e8d795aaded6a72910a8c72115a073814b25ee902d61ccc9a9490c6641a"
+    },
+    {
+      "path": "data_raw/ZAF.json",
+      "size": 1518645,
+      "sha256": "bb4800b804811ce9cfa5f6bf535466e3f812751249f0e1b7375d5f5753570e7c"
+    }
+  ]
+}

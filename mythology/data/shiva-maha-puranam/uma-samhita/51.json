@@ -1,0 +1,713 @@
+{
+ "kanda": "uma-samhita",
+ "n": 51,
+ "title_deva": "व्यासशिष्य महाभाग सूत पौराणिकोत्तम",
+ "title_te": "వ్యాసశిష్య మహాభాగ సూత పౌరాణికోత్తమ",
+ "title_iast": "vyāsaśiṣya mahābhāga sūta paurāṇikottama",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "मुनय ऊचुः व्यासशिष्य महाभाग सूत पौराणिकोत्तम | अपरं श्रोतुमिच्छामः किमप्याख्यानमीशितुः",
+   "text_te": "మునయ ఊచుః వ్యాసశిష్య మహాభాగ సూత పౌరాణికోత్తమ | అపరం శ్రోతుమిచ్ఛామః కిమప్యాఖ్యానమీశితుః",
+   "text_en": "munaya ūcuḥ vyāsaśiṣya mahābhāga sūta paurāṇikottama | aparaṁ śrotumicchāmaḥ kimapyākhyānamīśituḥ",
+   "mean_en": "The sages said: \"O disciple of Vyasa, most fortunate Suta, best of Pauranikas! We wish to hear another narrative about the Lord.\" ",
+   "mean_te": "ఋషులు అన్నారు: \"ఓ వ్యాసశిష్యా, మహాభాగా, సూతుడా, పురాణోత్తమా! మేము ఈశ్వరుని గురించి ఇంకో కథనం వినాలని కోరుకుంటున్నాము.\""
+  },
+  {
+   "n": 2,
+   "text_deva": "उमाया जगदम्बायाः क्रियायोगमनुत्तमम् | प्रोक्तं सनत्कुमारेण व्यासाय च महात्मने",
+   "text_te": "ఉమాయా జగదమ్బాయాః క్రియాయోగమనుత్తమమ్ | ప్రోక్తం సనత్కుమారేణ వ్యాసాయ చ మహాత్మనే",
+   "text_en": "umāyā jagadambāyāḥ kriyāyogamanuttamam | proktaṁ sanatkumāreṇa vyāsāya ca mahātmane",
+   "mean_en": "\"The unsurpassed Kriyayoga of Uma, the Mother of the universe, was told by Sanatkumara to the great soul Vyasa.\"",
+   "mean_te": "\"జగజ్జనని అయిన ఉమాదేవి యొక్క అత్యుత్తమమైన క్రియాయోగాన్ని సనత్కుమారుడు మహాత్ముడైన వ్యాసునికి చెప్పాడు.\""
+  },
+  {
+   "n": 3,
+   "text_deva": "धन्या यूयं महात्मानो देवीभक्तिदृढव्रताः | पराशक्तेः परं गुप्तं रहस्यं शृणुतादरात्",
+   "text_te": "ధన్యా యూయం మహాత్మానో దేవీభక్తిదృఢవ్రతాః | పరాశక్తేః పరం గుప్తం రహస్యం శృణుతాదరాత్",
+   "text_en": "dhanyā yūyaṁ mahātmāno devībhaktidṛḍhavratāḥ | parāśakteḥ paraṁ guptaṁ rahasyaṁ śṛṇutādarāt",
+   "mean_en": "\"Blessed are you, great souls, firm in your vows of devotion to the Goddess. Listen attentively to this supreme secret, hidden even beyond Parashakti.\"",
+   "mean_te": "\"ఓ మహాత్ములారా, దేవీభక్తి దృఢవ్రతులైన మీరు ధన్యులు; పరాశక్తికి కూడా అతీతమై ఎంతో గోప్యమైన ఈ రహస్యాన్ని శ్రద్ధగా వినండి.\""
+  },
+  {
+   "n": 4,
+   "text_deva": "सनत्कुमार सर्वज्ञ ब्रह्मपुत्र महामते | उमायाश्श्रोतुमिच्छामि क्रियायोगं महाद्भुतम्",
+   "text_te": "సనత్కుమార సర్వజ్ఞ బ్రహ్మపుత్ర మహామతే | ఉమాయాశ్శ్రోతుమిచ్ఛామి క్రియాయోగం మహాద్భుతమ్",
+   "text_en": "sanatkumāra sarvajña brahmaputra mahāmate | umāyāśśrotumicchāmi kriyāyogaṁ mahādbhutam",
+   "mean_en": "\"O omniscient Sanatkumara, son of Brahma, great-minded one! I wish to hear the most wondrous Kriyayoga of Uma.\"",
+   "mean_te": "\"సర్వజ్ఞుడైన బ్రహ్మపుత్ర సనత్కుమారా, మహానుభావా! ఉమాదేవి యొక్క అద్భుతమైన క్రియాయోగాన్ని నేను వినాలని కోరుకుంటున్నాను.\""
+  },
+  {
+   "n": 5,
+   "text_deva": "कीदृक्च लक्षणं तस्य किं कृते च फलं भवेत् | प्रियं यच्च पराम्बायास्तदशेषं वदस्व मे",
+   "text_te": "కీదృక్చ లక్షణం తస్య కిం కృతే చ ఫలం భవేత్ | ప్రియం యచ్చ పరామ్బాయాస్తదశేషం వదస్వ మే",
+   "text_en": "kīdṛkca lakṣaṇaṁ tasya kiṁ kṛte ca phalaṁ bhavet | priyaṁ yacca parāmbāyāstadaśeṣaṁ vadasva me",
+   "mean_en": "\"What is its nature and characteristics? What fruit comes from practicing it? And what is dear to Paramba? Tell me all of this.\"",
+   "mean_te": "\"అది ఎలాంటి లక్షణం కలది? ఆచరిస్తే ఏ ఫలం లభిస్తుంది? పరాంబకు ఏది ప్రియమో అంతా నాకు చెప్పు.\""
+  },
+  {
+   "n": 6,
+   "text_deva": "द्वैपायन यदेतत्त्वं रहस्यं परिपृच्छसि | तच्छृणुष्व महाबुद्धे सर्वं मे वर्णयिष्यतः",
+   "text_te": "ద్వైపాయన యదేతత్త్వం రహస్యం పరిపృచ్ఛసి | తచ్ఛృణుష్వ మహాబుద్ధే సర్వం మే వర్ణయిష్యతః",
+   "text_en": "dvaipāyana yadetattvaṁ rahasyaṁ paripṛcchasi | tacchṛṇuṣva mahābuddhe sarvaṁ me varṇayiṣyataḥ",
+   "mean_en": "\"O Dvaipayana (Vyasa), since you ask about this secret truth, hear it all as I describe it, O great-minded one.\"",
+   "mean_te": "\"ఓ ద్వైపాయనా (వ్యాసుడా), నీవు ప్రశ్నించే ఈ రహస్య తత్త్వాన్ని నేను వివరించేటప్పుడు, మహాబుద్ధిమంతుడవైన నువ్వు పూర్తిగా విను.\""
+  },
+  {
+   "n": 7,
+   "text_deva": "ज्ञानयोगः क्रियायोगो भक्तियोगस्तथैव च | त्रयो मार्गास्समाख्याताः श्रीमातुर्मुक्तिमुक्तिदा",
+   "text_te": "జ్ఞానయోగః క్రియాయోగో భక్తియోగస్తథైవ చ | త్రయో మార్గాస్సమాఖ్యాతాః శ్రీమాతుర్ముక్తిముక్తిదా",
+   "text_en": "jñānayogaḥ kriyāyogo bhaktiyogastathaiva ca | trayo mārgāssamākhyātāḥ śrīmāturmuktimuktidā",
+   "mean_en": "\"Jnanayoga, Kriyayoga, and Bhaktiyoga — these three paths, which grant liberation through the Divine Mother, have been declared.\"",
+   "mean_te": "\"జ్ఞానయోగం, క్రియాయోగం, అలాగే భక్తియోగం — శ్రీమాత మోక్షాన్నిచ్చే ఈ మూడు మార్గాలు వివరించబడ్డాయి.\""
+  },
+  {
+   "n": 8,
+   "text_deva": "ज्ञानयोगस्तु संयोगश्चित्तस्यैवात्मना तु यः | यस्तु बाह्यार्थसंयोगः क्रियायोगः स उच्यते",
+   "text_te": "జ్ఞానయోగస్తు సంయోగశ్చిత్తస్యైవాత్మనా తు యః | యస్తు బాహ్యార్థసంయోగః క్రియాయోగః స ఉచ్యతే",
+   "text_en": "jñānayogastu saṁyogaścittasyaivātmanā tu yaḥ | yastu bāhyārthasaṁyogaḥ kriyāyogaḥ sa ucyate",
+   "mean_en": "\"Jnanayoga is the union of the mind with the Self, while union with external objects is called Kriyayoga.\"",
+   "mean_te": "\"చిత్తాన్ని (మనసును) ఆత్మతో ఏకం చేసేది జ్ఞానయోగం; బాహ్య వస్తువులతో కలయిక క్రియాయోగం అని పిలువబడుతుంది.\""
+  },
+  {
+   "n": 9,
+   "text_deva": "भक्तियोगो मतो देव्या आत्मनश्चैक्यभावनम् | त्रयाणामपि योगानां क्रियायोगस्स उच्यते",
+   "text_te": "భక్తియోగో మతో దేవ్యా ఆత్మనశ్చైక్యభావనమ్ | త్రయాణామపి యోగానాం క్రియాయోగస్స ఉచ్యతే",
+   "text_en": "bhaktiyogo mato devyā ātmanaścaikyabhāvanam | trayāṇāmapi yogānāṁ kriyāyogassa ucyate",
+   "mean_en": "\"Bhaktiyoga is regarded as the contemplation of the oneness of the self with the Goddess. Among these three yogas, Kriyayoga is declared the foremost.\"",
+   "mean_te": "\"దేవితోనూ, ఆత్మతోనూ ఐక్య భావన కలిగించేది భక్తియోగంగా పరిగణించబడుతుంది; ఆ మూడు యోగాలలో క్రియాయోగమే శ్రేష్ఠమని చెప్పబడింది.\""
+  },
+  {
+   "n": 10,
+   "text_deva": "कर्मणा जायते भक्तिर्भक्त्या ज्ञानं प्रजायते | ज्ञानात्प्रजायते मुक्तिरिति शास्त्रेषु निश्चयः",
+   "text_te": "కర్మణా జాయతే భక్తిర్భక్త్యా జ్ఞానం ప్రజాయతే | జ్ఞానాత్ప్రజాయతే ముక్తిరితి శాస్త్రేషు నిశ్చయః",
+   "text_en": "karmaṇā jāyate bhaktirbhaktyā jñānaṁ prajāyate | jñānātprajāyate muktiriti śāstreṣu niścayaḥ",
+   "mean_en": "\"From action is born devotion; from devotion, knowledge; and from knowledge, liberation — this is the firm conclusion of the scriptures.\"",
+   "mean_te": "\"కర్మ ద్వారా భక్తి పుడుతుంది; భక్తి ద్వారా జ్ఞానం పుడుతుంది; జ్ఞానం నుండి మోక్షం లభిస్తుంది — శాస్త్రాలలో ఇదే నిశ్చిత నిర్ణయం.\""
+  },
+  {
+   "n": 11,
+   "text_deva": "प्रधानं कारणं योगो विमुक्तेर्मुनिसत्तम | क्रियायोगस्तु योगस्य परमन्ध्येयसाधनम् | मायान्तु प्रकृतिं विद्यान्मायावि ब्रह्म शाश्वतम् | अभिन्नं तद्वपुर्ज्ञात्वा मुच्यते भवबन्धनात्",
+   "text_te": "ప్రధానం కారణం యోగో విముక్తేర్మునిసత్తమ | క్రియాయోగస్తు యోగస్య పరమన్ధ్యేయసాధనమ్ | మాయాన్తు ప్రకృతిం విద్యాన్మాయావి బ్రహ్మ శాశ్వతమ్ | అభిన్నం తద్వపుర్జ్ఞాత్వా ముచ్యతే భవబన్ధనాత్",
+   "text_en": "pradhānaṁ kāraṇaṁ yogo vimuktermunisattama | kriyāyogastu yogasya paramandhyeyasādhanam | māyāntu prakṛtiṁ vidyānmāyāvi brahma śāśvatam | abhinnaṁ tadvapurjñātvā mucyate bhavabandhanāt",
+   "mean_en": "\"O best of sages, prakriti (pradhana) is the cause and yoga is the means of liberation, and for that yoga Kriyayoga is the supreme practice. Know maya as prakriti and the wielder of maya as the eternal Brahma; knowing His form to be non-different (from it), one is freed from the bondage of worldly existence.\"",
+   "mean_te": "\"ఓ మునిశ్రేష్ఠా, ప్రధానమే (ప్రకృతి) కారణం; యోగమే విముక్తికి సాధనం; ఆ యోగాన్ని సాధించడానికి క్రియాయోగమే పరమ ఉత్తమమైన సాధనం. మాయయే ప్రకృతి అని, మాయావి అయినవాడు శాశ్వత బ్రహ్మ అని తెలుసుకో; ఆ బ్రహ్మ తను అభిన్నమని తెలుసుకున్నవాడు భవబంధనం నుండి విముక్తుడవుతాడు.\""
+  },
+  {
+   "n": 12,
+   "text_deva": "यस्तु देव्यालयं कुर्यात्पाषाणन्दारवन्तथा | मृन्मयं वाथ कालेय तस्य पुण्यफलं शृणु | अहन्यहनियोगेन जयतो यन्महाफलम्",
+   "text_te": "యస్తు దేవ్యాలయం కుర్యాత్పాషాణన్దారవన్తథా | మృన్మయం వాథ కాలేయ తస్య పుణ్యఫలం శృణు | అహన్యహనియోగేన జయతో యన్మహాఫలమ్",
+   "text_en": "yastu devyālayaṁ kuryātpāṣāṇandāravantathā | mṛnmayaṁ vātha kāleya tasya puṇyaphalaṁ śṛṇu | ahanyahaniyogena jayato yanmahāphalam",
+   "mean_en": "\"Hear the meritorious fruit of one who builds a temple for the Goddess — of stone, of jewels, of clay, or of wood — and the great fruit he reaps day after day through that devotion.\"",
+   "mean_te": "\"పాషాణంతో గాని, రత్నాలతో గాని, మట్టితో గాని, చెక్కతో గాని దేవి ఆలయాన్ని నిర్మించేవాని పుణ్యఫలాన్ని విను — రోజూ యోగంతో లభించే ఆ మహాఫలం ఎంత గొప్పదో.\""
+  },
+  {
+   "n": 13,
+   "text_deva": "प्राप्नोति तत्फलन्देव्या यः कारयति मन्दिरम् | सहस्रकुलमागामि व्यतीतं च सहस्रकम् | तारयति धर्मात्मा श्रीमातुर्धाम कारयन्",
+   "text_te": "ప్రాప్నోతి తత్ఫలన్దేవ్యా యః కారయతి మన్దిరమ్ | సహస్రకులమాగామి వ్యతీతం చ సహస్రకమ్ | తారయతి ధర్మాత్మా శ్రీమాతుర్ధామ కారయన్",
+   "text_en": "prāpnoti tatphalandevyā yaḥ kārayati mandiram | sahasrakulamāgāmi vyatītaṁ ca sahasrakam | tārayati dharmātmā śrīmāturdhāma kārayan",
+   "mean_en": "\"One who has the Goddess's temple built obtains that fruit; the righteous man who builds the abode of the Divine Mother redeems a thousand of his descendants to come and a thousand of his ancestors who have passed.\"",
+   "mean_te": "\"దేవి మందిరాన్ని నిర్మింపజేసేవాడు ఆ ఫలాన్ని పొందుతాడు; ధర్మాత్ముడు శ్రీమాత ధామాన్ని కట్టించడం ద్వారా వచ్చే వెయ్యి మంది వంశీకులనూ, గతించిన వెయ్యి మంది పూర్వీకులనూ ఉద్ధరిస్తాడు.\""
+  },
+  {
+   "n": 14,
+   "text_deva": "कोटिजन्मकृतं पापं स्वल्पं वा यदि वा बहु | श्रीमातुर्मन्दिरारम्भक्षणादेव प्रणश्यति",
+   "text_te": "కోటిజన్మకృతం పాపం స్వల్పం వా యది వా బహు | శ్రీమాతుర్మన్దిరారమ్భక్షణాదేవ ప్రణశ్యతి",
+   "text_en": "koṭijanmakṛtaṁ pāpaṁ svalpaṁ vā yadi vā bahu | śrīmāturmandirārambhakṣaṇādeva praṇaśyati",
+   "mean_en": "\"Sin committed over a crore of births, whether small or great, perishes the very moment one begins the construction of the Mother's temple.\"",
+   "mean_te": "\"కోటి జన్మలలో చేసిన పాపం, అది తక్కువైనా ఎక్కువైనా, శ్రీమాత మందిర నిర్మాణాన్ని ఆరంభించడం ద్వారానే నశిస్తుంది.\""
+  },
+  {
+   "n": 15,
+   "text_deva": "नदीषु च यथा गंगा शोणः सर्वनदेषु च | क्षमायां च यथा पृथ्वी गांभीर्ये च यथोदधिः",
+   "text_te": "నదీషు చ యథా గంగా శోణః సర్వనదేషు చ | క్షమాయాం చ యథా పృథ్వీ గాంభీర్యే చ యథోదధిః",
+   "text_en": "nadīṣu ca yathā gaṁgā śoṇaḥ sarvanadeṣu ca | kṣamāyāṁ ca yathā pṛthvī gāṁbhīrye ca yathodadhiḥ",
+   "mean_en": "\"As Ganga excels among rivers and Shona among all rivers, as the Earth excels in forgiveness and the ocean in depth — (so does the Goddess excel)…\"",
+   "mean_te": "\"నదులలో గంగ ఎలా, అన్ని నదులలో శోణ ఎలా, క్షమలో పృథివి ఎలా, గాంభీర్యంలో సాగరం ఎలా విశిష్టమో — (అలాగే...)\""
+  },
+  {
+   "n": 16,
+   "text_deva": "ग्रहाणां च समस्तानां यथा सूर्यो विशिष्यते | तथा सर्वेषु देवेषु श्रीपराम्बा विशिष्यते",
+   "text_te": "గ్రహాణాం చ సమస్తానాం యథా సూర్యో విశిష్యతే | తథా సర్వేషు దేవేషు శ్రీపరామ్బా విశిష్యతే",
+   "text_en": "grahāṇāṁ ca samastānāṁ yathā sūryo viśiṣyate | tathā sarveṣu deveṣu śrīparāmbā viśiṣyate",
+   "mean_en": "\"As the Sun is preeminent among all the planets, so among all the gods is Shri Paramba preeminent.\"",
+   "mean_te": "\"గ్రహాలన్నింటిలో సూర్యుడు ఎలా విశిష్టుడో, అలాగే అన్ని దేవతలలో శ్రీ పరాంబ విశిష్టమైనది.\""
+  },
+  {
+   "n": 17,
+   "text_deva": "सर्वदेवेषु सा मुख्या यस्तस्याः कारयेद्गृहम् | प्रतिष्ठां समवाप्नोति स च जन्म निजन्मनि",
+   "text_te": "సర్వదేవేషు సా ముఖ్యా యస్తస్యాః కారయేద్గృహమ్ | ప్రతిష్ఠాం సమవాప్నోతి స చ జన్మ నిజన్మని",
+   "text_en": "sarvadeveṣu sā mukhyā yastasyāḥ kārayedgṛham | pratiṣṭhāṁ samavāpnoti sa ca janma nijanmani",
+   "mean_en": "\"She is the chief of all the gods; whoever builds a house (temple) for Her attains firm establishment (pratishtha), and such a birth becomes his own true, fruitful birth.\"",
+   "mean_te": "\"అన్ని దేవతలలో ఆమె ముఖ్యమైనది; ఆమెకు గృహాన్ని (ఆలయాన్ని) నిర్మించేవాడు ప్రతిష్ఠను పొందుతాడు, అతని జన్మ సార్థకమవుతుంది.\""
+  },
+  {
+   "n": 18,
+   "text_deva": "वाराणस्यां कुरुक्षेत्रे प्रयागे पुष्करे तथा | गंगासमुद्रतीरे च नैमिषेऽमरकण्टके",
+   "text_te": "వారాణస్యాం కురుక్షేత్రే ప్రయాగే పుష్కరే తథా | గంగాసముద్రతీరే చ నైమిషేఽమరకణ్టకే",
+   "text_en": "vārāṇasyāṁ kurukṣetre prayāge puṣkare tathā | gaṁgāsamudratīre ca naimiṣe'marakaṇṭake",
+   "mean_en": "Varanasi, Kurukshetra, Prayaga, Pushkara, the shore where the Ganga meets the ocean, Naimisha and Amarakantaka are all listed as sacred places.",
+   "mean_te": "వారణాసి, కురుక్షేత్రం, ప్రయాగం, పుష్కరం, గంగా సముద్ర సంగమ తీరం, నైమిశారణ్యం, అమరకంటకం — ఇవన్నీ పవిత్ర క్షేత్రాలుగా కొనిపించబడ్డాయి."
+  },
+  {
+   "n": 19,
+   "text_deva": "श्रीपर्वते महापुण्ये गोकर्णे ज्ञानपर्वते | मथुरायामयोध्यायां द्वारावत्यां तथैव च",
+   "text_te": "శ్రీపర్వతే మహాపుణ్యే గోకర్ణే జ్ఞానపర్వతే | మథురాయామయోధ్యాయాం ద్వారావత్యాం తథైవ చ",
+   "text_en": "śrīparvate mahāpuṇye gokarṇe jñānaparvate | mathurāyāmayodhyāyāṁ dvārāvatyāṁ tathaiva ca",
+   "mean_en": "Shriparvata, the great holy Gokarna, the mountain of knowledge, Mathura, Ayodhya and Dvaravati are likewise included among the holy places.",
+   "mean_te": "శ్రీపర్వతం (శ్రీశైలం), మహాపుణ్య గోకర్ణం, జ్ఞానపర్వతం, మథుర, అయోధ్య, ద్వారావతి (ద్వారక) — ఇవి కూడా పుణ్య క్షేత్రాలలో చేర్చబడ్డాయి."
+  },
+  {
+   "n": 20,
+   "text_deva": "इत्यादि पुण्यदेशेषु यत्र कुत्र स्थलेऽपि वा | कारयन्मातुरावासं मुक्तो भवति बन्धनात्",
+   "text_te": "ఇత్యాది పుణ్యదేశేషు యత్ర కుత్ర స్థలేఽపి వా | కారయన్మాతురావాసం ముక్తో భవతి బన్ధనాత్",
+   "text_en": "ityādi puṇyadeśeṣu yatra kutra sthale'pi vā | kārayanmāturāvāsaṁ mukto bhavati bandhanāt",
+   "mean_en": "In these and other holy places, anywhere at all, one who causes a dwelling to be built for the Mother is freed from bondage.",
+   "mean_te": "ఈ వంటి పుణ్య క్షేత్రాలలో ఏ ప్రదేశమైనా — అమ్మ (దేవి) కు నివాసం కట్టించేవాడు బంధనం నుండి విముక్తుడు అవుతాడు."
+  },
+  {
+   "n": 21,
+   "text_deva": "इष्टकानां तु विन्यासो यावद्वर्षाणि तिष्ठति | तावद्वर्षसहस्राणि मणिद्वीपे महीयते",
+   "text_te": "ఇష్టకానాం తు విన్యాసో యావద్వర్షాణి తిష్ఠతి | తావద్వర్షసహస్రాణి మణిద్వీపే మహీయతే",
+   "text_en": "iṣṭakānāṁ tu vinyāso yāvadvarṣāṇi tiṣṭhati | tāvadvarṣasahasrāṇi maṇidvīpe mahīyate",
+   "mean_en": "The installation of consecrated bricks remains potent for as many years as the structure stands; on Manidvipa it endures gloriously for a thousand years.",
+   "mean_te": "ప్రతిష్ఠించిన ఇటుకల (పునాది) ప్రభావం ఆ నిర్మాణం నిలిచినన్ని సంవత్సరాలు ఉంటుంది; మణిద్వీపంలో మాత్రం అది వెయ్యి సంవత్సరాల వరకు ఘనంగా వెలుగుతుంది."
+  },
+  {
+   "n": 22,
+   "text_deva": "प्रतिमाः कारयेद्यस्तु सर्वलक्षणलक्षिताः | स उमायाः परं लोकं निर्भयो व्रजति धुवम्",
+   "text_te": "ప్రతిమాః కారయేద్యస్తు సర్వలక్షణలక్షితాః | స ఉమాయాః పరం లోకం నిర్భయో వ్రజతి ధువమ్",
+   "text_en": "pratimāḥ kārayedyastu sarvalakṣaṇalakṣitāḥ | sa umāyāḥ paraṁ lokaṁ nirbhayo vrajati dhuvam",
+   "mean_en": "One who has images made that are marked with all the scriptural characteristics will, without fear, certainly reach the supreme world of Uma.",
+   "mean_te": "శాస్త్రోక్త సర్వ లక్షణాలతో నిర్మించిన ప్రతిమలను ప్రతిష్ఠింపజేసేవాడు భయరహితుడై పార్వతీదేవి (ఉమా) పరమ లోకాన్ని నిశ్చయంగా పొందుతాడు."
+  },
+  {
+   "n": 23,
+   "text_deva": "देवीमूर्तिं प्रतिष्ठाप्य शुभर्तुं ग्रहतारके | कृतकृत्यो भवेन्मर्त्यो योगमायाप्रसादतः",
+   "text_te": "దేవీమూర్తిం ప్రతిష్ఠాప్య శుభర్తుం గ్రహతారకే | కృతకృత్యో భవేన్మర్త్యో యోగమాయాప్రసాదతః",
+   "text_en": "devīmūrtiṁ pratiṣṭhāpya śubhartuṁ grahatārake | kṛtakṛtyo bhavenmartyo yogamāyāprasādataḥ",
+   "mean_en": "Having installed the Devi's image at an auspicious moment fixed according to the planets and stars, a mortal becomes fulfilled in all his aims by the grace of Yogamaya.",
+   "mean_te": "గ్రహనక్షత్రాలకు అనుగుణంగా నిర్ణయించిన శుభసమయంలో దేవీ ప్రతిమను ప్రతిష్ఠించిన మానవుడు, యోగమాయ అనుగ్రహంతో కృతార్థుడు (తన ఉద్దేశాలన్నీ సాధించినవాడు) అవుతాడు."
+  },
+  {
+   "n": 24,
+   "text_deva": "ये भविष्यन्ति येऽतीता आकल्पात्पुरुषाः कुले | तांस्तांस्तारयते देव्या मूर्तिं संस्थाप्य शोभनाम्",
+   "text_te": "యే భవిష్యన్తి యేఽతీతా ఆకల్పాత్పురుషాః కులే | తాంస్తాంస్తారయతే దేవ్యా మూర్తిం సంస్థాప్య శోభనామ్",
+   "text_en": "ye bhaviṣyanti ye'tītā ākalpātpuruṣāḥ kule | tāṁstāṁstārayate devyā mūrtiṁ saṁsthāpya śobhanām",
+   "mean_en": "By installing the beautiful image of the Goddess, one redeems all the members of his family, past and future, right from the beginning of the kalpa.",
+   "mean_te": "దేవి అందమైన ప్రతిమను ప్రతిష్ఠించడం ద్వారా, కల్పాది నుండి తన వంశంలో గతించిన మునుపటి వారినైనా, భవిష్యత్తులో పుట్టబోయే వారినైనా అందరినీ ఉద్ధరిస్తాడు."
+  },
+  {
+   "n": 25,
+   "text_deva": "त्रिलोकीस्थापनात्पुण्यं यद्भवेन्मुनिपुंगव | तत्कोटिगुणितं पुण्यं श्रीदेवीस्थापनाद्भवेत्",
+   "text_te": "త్రిలోకీస్థాపనాత్పుణ్యం యద్భవేన్మునిపుంగవ | తత్కోటిగుణితం పుణ్యం శ్రీదేవీస్థాపనాద్భవేత్",
+   "text_en": "trilokīsthāpanātpuṇyaṁ yadbhavenmunipuṁgava | tatkoṭiguṇitaṁ puṇyaṁ śrīdevīsthāpanādbhavet",
+   "mean_en": "O best of sages, the merit of establishing worship in the three worlds, multiplied ten million times, is the merit that comes from installing Shri Devi.",
+   "mean_te": "మునులలో శ్రేష్ఠులైన శౌనకా! మూడు లోకాలలో ఆరాధన స్థాపన వల్ల కలిగే పుణ్యం కోట్ల రెట్లు అయినంత పుణ్యం శ్రీదేవి ప్రతిష్ఠ వల్ల కలుగుతుంది."
+  },
+  {
+   "n": 26,
+   "text_deva": "मध्ये देवीं स्थापयित्वा पञ्चायतनदेवताः | चतुर्द्दिक्षु स्थापयेद्यस्तस्य पुण्यं न गण्यते",
+   "text_te": "మధ్యే దేవీం స్థాపయిత్వా పఞ్చాయతనదేవతాః | చతుర్ద్దిక్షు స్థాపయేద్యస్తస్య పుణ్యం న గణ్యతే",
+   "text_en": "madhye devīṁ sthāpayitvā pañcāyatanadevatāḥ | caturddikṣu sthāpayedyastasya puṇyaṁ na gaṇyate",
+   "mean_en": "One who installs the Devi in the center and the five panchayatana deities in the four directions has merit that cannot be counted.",
+   "mean_te": "మధ్యలో దేవిని స్థాపించి, నాలుగు దిక్కులలో పంచాయతన దేవతలను ప్రతిష్ఠించేవాని పుణ్యాన్ని లెక్కించడం అసాధ్యం (లెక్కలేనంత)."
+  },
+  {
+   "n": 27,
+   "text_deva": "विष्णोर्नाम्नां कोटिजपाद्ग्रहणेचन्द्रसूर्ययोः | यत्फलं लभ्यते तस्माच्छतकोटिगुणोत्तरम्",
+   "text_te": "విష్ణోర్నామ్నాం కోటిజపాద్గ్రహణేచన్ద్రసూర్యయోః | యత్ఫలం లభ్యతే తస్మాచ్ఛతకోటిగుణోత్తరమ్",
+   "text_en": "viṣṇornāmnāṁ koṭijapādgrahaṇecandrasūryayoḥ | yatphalaṁ labhyate tasmācchatakoṭiguṇottaram",
+   "mean_en": "The fruit obtained from ten million chants of Vishnu's names, or during an eclipse of the moon and the sun, is exceeded a hundred-crorefold by this (installation of the Devi).",
+   "mean_te": "విష్ణువు నామాల కోటి జపం వల్ల గాని, చంద్ర సూర్య గ్రహణ సమయంలో కలిగే ఫలం వల్ల గాని — (దేవీ ప్రతిష్ఠ ఫలం) వంద కోట్ల రెట్లు ఎక్కువ."
+  },
+  {
+   "n": 28,
+   "text_deva": "शिवनाम्नो जपादेव तस्मात्कोटि गुणोत्तरम् | श्रीदेवीनामजापात्तु ततः कोटिगुणोत्तरम्",
+   "text_te": "శివనామ్నో జపాదేవ తస్మాత్కోటి గుణోత్తరమ్ | శ్రీదేవీనామజాపాత్తు తతః కోటిగుణోత్తరమ్",
+   "text_en": "śivanāmno japādeva tasmātkoṭi guṇottaram | śrīdevīnāmajāpāttu tataḥ koṭiguṇottaram",
+   "mean_en": "The japa of Shiva's name is ten million times superior to that, and the japa of Shri Devi's name is ten million times superior still.",
+   "mean_te": "శివుని నామ జపం వల్ల అంతకంటే కోట్ల రెట్లు ఫలం ఉంటుంది; శ్రీదేవి నామ జపం వల్ల అంతకంటేను కోట్ల రెట్లు ఎక్కువ."
+  },
+  {
+   "n": 29,
+   "text_deva": "देव्याः प्रासादकरणात्पुण्यन्तु समवाप्यते | स्थापिता येन सा देवी जगन्माता त्रयीमयी",
+   "text_te": "దేవ్యాః ప్రాసాదకరణాత్పుణ్యన్తు సమవాప్యతే | స్థాపితా యేన సా దేవీ జగన్మాతా త్రయీమయీ",
+   "text_en": "devyāḥ prāsādakaraṇātpuṇyantu samavāpyate | sthāpitā yena sā devī jaganmātā trayīmayī",
+   "mean_en": "That merit is attained by one who builds the temple of the Devi and installs her, the Mother of the world, the embodiment of the three Vedas.",
+   "mean_te": "దేవి ఆలయాన్ని నిర్మించి, జగన్మాత, త్రయీమయి (మూడు వేదాల స్వరూపిణి) అయిన ఆ దేవిని ప్రతిష్ఠించేవాడు ఆ పుణ్యాన్ని పొందుతాడు."
+  },
+  {
+   "n": 30,
+   "text_deva": "न तस्य दुर्लभं किंचिच्छ्रीमातुः करुणावशात् | वर्द्धते पुत्रपौत्राद्या नश्यत्यखिलकश्मलम्",
+   "text_te": "న తస్య దుర్లభం కించిచ్ఛ్రీమాతుః కరుణావశాత్ | వర్ద్ధతే పుత్రపౌత్రాద్యా నశ్యత్యఖిలకశ్మలమ్",
+   "text_en": "na tasya durlabhaṁ kiṁcicchrīmātuḥ karuṇāvaśāt | varddhate putrapautrādyā naśyatyakhilakaśmalam",
+   "mean_en": "By the grace of the auspicious Mother, nothing remains unattainable for him; sons, grandsons and the rest flourish, and all his stains of sin are destroyed.",
+   "mean_te": "శ్రీమాత కరుణ వల్ల అతడికి ఏదీ అందనిది ఉండదు; కొడుకులు, మనవళ్లు మొదలైన వారు వృద్ధి చెందుతారు, సర్వ పాపకల్మషాలు నశిస్తాయి."
+  },
+  {
+   "n": 31,
+   "text_deva": "मनसा ये चिकीर्षंति मूर्तिस्थापनमुत्तमम् | तेत्युमायाः परं लोकं प्रयान्ति मुनिदुर्लभम्",
+   "text_te": "మనసా యే చికీర్షంతి మూర్తిస్థాపనముత్తమమ్ | తేత్యుమాయాః పరం లోకం ప్రయాన్తి మునిదుర్లభమ్",
+   "text_en": "manasā ye cikīrṣaṁti mūrtisthāpanamuttamam | tetyumāyāḥ paraṁ lokaṁ prayānti munidurlabham",
+   "mean_en": "Even those who merely desire in their minds to install the excellent image go to the supreme world of Uma, which is difficult even for sages to attain.",
+   "mean_te": "మనసులో ఉత్తమమైన దేవీ ప్రతిమ ప్రతిష్ఠ చేయాలని కోరుకునేవారు కూడా, మునులకు కూడా అందని ఉమా పరమ లోకాన్ని పొందుతారు."
+  },
+  {
+   "n": 32,
+   "text_deva": "क्रियमाणन्तु यः प्रेक्ष्य चेतसा ह्यनुचिन्तयेत् | कारयिष्याम्यहं यर्हि संपन्मे संभविष्यति",
+   "text_te": "క్రియమాణన్తు యః ప్రేక్ష్య చేతసా హ్యనుచిన్తయేత్ | కారయిష్యామ్యహం యర్హి సంపన్మే సంభవిష్యతి",
+   "text_en": "kriyamāṇantu yaḥ prekṣya cetasā hyanucintayet | kārayiṣyāmyahaṁ yarhi saṁpanme saṁbhaviṣyati",
+   "mean_en": "If someone, seeing the installation being performed, thinks in his heart, 'I too shall get it done when I become prosperous,'",
+   "mean_te": "ప్రతిష్ఠ జరుగుతుండగా దాన్ని చూసి, 'నాకు సంపద కలిగినప్పుడు నేను కూడా ఇలా చేయిస్తాను' అని మనసులో ఆలోచించేవాడు (అయితే),"
+  },
+  {
+   "n": 33,
+   "text_deva": "एवन्तस्य कुलं सद्यो याति स्वर्गं न संशयः | महामायाप्रभावेण दुर्लभं किं जगत्त्रये",
+   "text_te": "ఏవన్తస్య కులం సద్యో యాతి స్వర్గం న సంశయః | మహామాయాప్రభావేణ దుర్లభం కిం జగత్త్రయే",
+   "text_en": "evantasya kulaṁ sadyo yāti svargaṁ na saṁśayaḥ | mahāmāyāprabhāveṇa durlabhaṁ kiṁ jagattraye",
+   "mean_en": "his family straightaway goes to heaven, without doubt; by the power of Mahamaya, what is unattainable in the three worlds?",
+   "mean_te": "అతని వంశం సద్యమే స్వర్గాన్ని పొందుతుంది — సందేహమేమీ లేదు; మహామాయ ప్రభావంతో మూడు లోకాలలో అందనిది ఏముంది?"
+  },
+  {
+   "n": 34,
+   "text_deva": "श्रीपराम्बाजगद्योनिं केवलं ये समाश्रिताः | ते मनुष्या न मन्तव्यास्साक्षाद्देवीगणाश्च ते",
+   "text_te": "శ్రీపరామ్బాజగద్యోనిం కేవలం యే సమాశ్రితాః | తే మనుష్యా న మన్తవ్యాస్సాక్షాద్దేవీగణాశ్చ తే",
+   "text_en": "śrīparāmbājagadyoniṁ kevalaṁ ye samāśritāḥ | te manuṣyā na mantavyāssākṣāddevīgaṇāśca te",
+   "mean_en": "Those who take refuge solely in Shri Paramba, the womb of all the worlds, should not be regarded as mere humans; they are directly the Goddess' own attendants.",
+   "mean_te": "సమస్త జగత్తునకు మూలమైన శ్రీ పరాంబ (పరమేశ్వరి) ను మాత్రమే ఆశ్రయించినవారు సామాన్య మనుషులుగా భావించరాదు; వారు నేరుగా పార్వతీదేవి గణాలే (ఆమె పరివారం)."
+  },
+  {
+   "n": 35,
+   "text_deva": "ये व्रजन्तः स्वपन्तश्च तिष्ठन्तो वाप्यहर्निशम् | उमेति द्व्यक्षरं नाम ब्रुवते ते शिवागणाः",
+   "text_te": "యే వ్రజన్తః స్వపన్తశ్చ తిష్ఠన్తో వాప్యహర్నిశమ్ | ఉమేతి ద్వ్యక్షరం నామ బ్రువతే తే శివాగణాః",
+   "text_en": "ye vrajantaḥ svapantaśca tiṣṭhanto vāpyaharniśam | umeti dvyakṣaraṁ nāma bruvate te śivāgaṇāḥ",
+   "mean_en": "Those who utter the two-syllable name 'Ume' - whether walking, sleeping, or standing, day and night - are the attendants (ganas) of Shiva.",
+   "mean_te": "నడిచేటప్పుడైనా, నిద్రపోతున్నప్పుడైనా, నిలబడి ఉన్నప్పుడైనా, రాత్రింబగలు 'ఉమే' అను రెండక్షరముల నామమును జపించువారు శివుని గణులుగా భావింపబడతారు."
+  },
+  {
+   "n": 36,
+   "text_deva": "नित्ये नैमित्तिके देवीं ये यजन्ति परां शिवाम् | पुष्पैर्धूपैस्तथादीपैस्ते प्रयास्यन्त्युमालयम्",
+   "text_te": "నిత్యే నైమిత్తికే దేవీం యే యజన్తి పరాం శివామ్ | పుష్పైర్ధూపైస్తథాదీపైస్తే ప్రయాస్యన్త్యుమాలయమ్",
+   "text_en": "nitye naimittike devīṁ ye yajanti parāṁ śivām | puṣpairdhūpaistathādīpaiste prayāsyantyumālayam",
+   "mean_en": "Those who worship the supreme Goddess Shiva (Parvati) with flowers, incense, and lamps in the daily and occasional rites will go to the abode of Uma.",
+   "mean_te": "నిత్య నైమిత్తిక పూజలయందు పుష్ప, ధూప, దీపములతో పరమ శివా అయిన పార్వతీదేవిని ఆరాధించువారు ఉమాలయమును పొందుదురు."
+  },
+  {
+   "n": 37,
+   "text_deva": "ये देवीमण्डपं नित्यं गोमयेन मृदाथवा | उपलिंपन्ति मार्जन्ति ते प्रयास्यन्त्युमालयम्",
+   "text_te": "యే దేవీమణ్డపం నిత్యం గోమయేన మృదాథవా | ఉపలింపన్తి మార్జన్తి తే ప్రయాస్యన్త్యుమాలయమ్",
+   "text_en": "ye devīmaṇḍapaṁ nityaṁ gomayena mṛdāthavā | upaliṁpanti mārjanti te prayāsyantyumālayam",
+   "mean_en": "Those who daily plaster and clean the pavilion (mandapa) of the Goddess with cow dung or clay will also reach the abode of Uma.",
+   "mean_te": "ప్రతిదినము గోమయముతో గానీ, మట్టితో గానీ దేవీ మండపమును పొద్దుతుడుపు చేసి, శుభ్రపరచువారు కూడ ఉమాలయమును పొందుదురు."
+  },
+  {
+   "n": 38,
+   "text_deva": "यैर्देव्या मन्दिरं रम्यं निर्मापि तमनुत्तमम् | तत्कुलीनाञ्जनान्माता ह्याशिषः संप्रयच्छति",
+   "text_te": "యైర్దేవ్యా మన్దిరం రమ్యం నిర్మాపి తమనుత్తమమ్ | తత్కులీనాఞ్జనాన్మాతా హ్యాశిషః సంప్రయచ్ఛతి",
+   "text_en": "yairdevyā mandiraṁ ramyaṁ nirmāpi tamanuttamam | tatkulīnāñjanānmātā hyāśiṣaḥ saṁprayacchati",
+   "mean_en": "For those who build the beautiful and unsurpassed temple of the Goddess, the Divine Mother herself bestows blessings upon the people born in their family.",
+   "mean_te": "దేవీదేవికి మనోహరమైన, అత్యుత్తమమైన దేవాలయమును నిర్మించినవారి కులమున పుట్టినవారికి జగన్మాత స్వయముగా ఆశీర్వాదములు అనుగ్రహించును."
+  },
+  {
+   "n": 39,
+   "text_deva": "मदीयाः शतवर्षाणि जीवन्तु प्रेमभाग्जनाः | नापदामयनानीत्थं श्रीमाता वक्त्यहर्निशम्",
+   "text_te": "మదీయాః శతవర్షాణి జీవన్తు ప్రేమభాగ్జనాః | నాపదామయనానీత్థం శ్రీమాతా వక్త్యహర్నిశమ్",
+   "text_en": "madīyāḥ śatavarṣāṇi jīvantu premabhāgjanāḥ | nāpadāmayanānītthaṁ śrīmātā vaktyaharniśam",
+   "mean_en": "'May my beloved devotees live for a hundred years, untouched by calamity and disease' - in this manner the Divine Mother proclaims day and night.",
+   "mean_te": "'నాయందు ప్రేమ గలవారు వందేడ్లు ఆపదలను, వ్యాధులను లేకుండా జీవించుగాక' అని శ్రీమాత రాత్రింబగలు ఇట్లు పలుకుచుండును."
+  },
+  {
+   "n": 40,
+   "text_deva": "येन मूर्तिर्म्महादेब्या उमायाः कारिता शुभा | नरायुतन्तत्कुलजं मणिद्वीपे महीयते",
+   "text_te": "యేన మూర్తిర్మ్మహాదేబ్యా ఉమాయాః కారితా శుభా | నరాయుతన్తత్కులజం మణిద్వీపే మహీయతే",
+   "text_en": "yena mūrtirmmahādebyā umāyāḥ kāritā śubhā | narāyutantatkulajaṁ maṇidvīpe mahīyate",
+   "mean_en": "For one who has a beautiful image of the great Goddess Uma made, ten thousand of his descendants are glorified in Manidvipa, the jeweled island-abode of the Goddess.",
+   "mean_te": "ఎవడు మహాదేవి అయిన ఉమాదేవి శుభమైన విగ్రహమును చేయించెదో, ఆయన కులమున పుట్టిన పదివేలమంది మణిద్వీపమున ఘనకీర్తి పొందుదురు."
+  },
+  {
+   "n": 41,
+   "text_deva": "स्थापयित्वा महामायामूर्तिं सम्यक्प्रपूज्य च | यंयं प्रार्थयते कामं तंतं प्राप्नोति साधकः",
+   "text_te": "స్థాపయిత్వా మహామాయామూర్తిం సమ్యక్ప్రపూజ్య చ | యంయం ప్రార్థయతే కామం తంతం ప్రాప్నోతి సాధకః",
+   "text_en": "sthāpayitvā mahāmāyāmūrtiṁ samyakprapūjya ca | yaṁyaṁ prārthayate kāmaṁ taṁtaṁ prāpnoti sādhakaḥ",
+   "mean_en": "Having installed the image of Mahamaya and worshipped her properly, the devotee attains whatever desire he prays for.",
+   "mean_te": "మహామాయ విగ్రహమును ప్రతిష్ఠించి, యథావిధిగా పూజించిన పిమ్మట, సాధకుడు ఏ కోరికతో వేడెదో ఆ కోరికను పొందును."
+  },
+  {
+   "n": 42,
+   "text_deva": "यः स्नापयति श्रीमातुः स्थापितां मूर्तिमुत्तमाम् | घृतेन मधुनाक्तेन तत्फलं गणयेत्तु कः",
+   "text_te": "యః స్నాపయతి శ్రీమాతుః స్థాపితాం మూర్తిముత్తమామ్ | ఘృతేన మధునాక్తేన తత్ఫలం గణయేత్తు కః",
+   "text_en": "yaḥ snāpayati śrīmātuḥ sthāpitāṁ mūrtimuttamām | ghṛtena madhunāktena tatphalaṁ gaṇayettu kaḥ",
+   "mean_en": "Who can count the merit of one who bathes the installed supreme image of the Divine Mother with ghee and honey?",
+   "mean_te": "శ్రీమాత యొక్క ప్రతిష్ఠితమైన ఉత్తమ విగ్రహమును నెయ్యి, తేనెలతో స్నానము చేయించువాని ఫలమును ఎవరు లెక్కించగలరు?"
+  },
+  {
+   "n": 43,
+   "text_deva": "चन्दनागुरुकर्पूर मांसीमुस्तादियुग्जलैः | एकवर्णगवां क्षीरैः स्नापयेत्परमेश्वरीम्",
+   "text_te": "చన్దనాగురుకర్పూర మాంసీముస్తాదియుగ్జలైః | ఏకవర్ణగవాం క్షీరైః స్నాపయేత్పరమేశ్వరీమ్",
+   "text_en": "candanāgurukarpūra māṁsīmustādiyugjalaiḥ | ekavarṇagavāṁ kṣīraiḥ snāpayetparameśvarīm",
+   "mean_en": "One should bathe the supreme Goddess (Parameshvari) with water mixed with sandalwood, aguru, camphor, jatamamsi, musta and the like, and with the milk of cows of a single colour.",
+   "mean_te": "చందనము, అగరు, కర్పూరము, జటామాంసి, ముస్తా మొదలగు సుగంధ ద్రవ్యములు కలిపిన నీటితోను, ఒకే వర్ణము గల ఆవుల పాలతోను పరమేశ్వరికి స్నానము చేయించవలెను."
+  },
+  {
+   "n": 44,
+   "text_deva": "धूपेनाष्टादशांगेन दद्यादाहुतिमुत्तमाम् | नीराजनं चरेद्देव्या स्साज्यकर्पूरवर्तिभिः",
+   "text_te": "ధూపేనాష్టాదశాంగేన దద్యాదాహుతిముత్తమామ్ | నీరాజనం చరేద్దేవ్యా స్సాజ్యకర్పూరవర్తిభిః",
+   "text_en": "dhūpenāṣṭādaśāṁgena dadyādāhutimuttamām | nīrājanaṁ careddevyā ssājyakarpūravartibhiḥ",
+   "mean_en": "With the incense of eighteen ingredients one should offer the excellent oblation, and one should wave the light (arati) before the Goddess with lamps whose wicks are steeped in ghee and camphor.",
+   "mean_te": "పద్దెనిమిది రకముల సుగంధ ద్రవ్యముల ధూపముతో ఉత్తమమైన ఆహుతిని సమర్పించవలెను; నెయ్యి, కర్పూరములతో తయారైన వత్తుల దీపములతో దేవీదేవికి నీరాజనము (హారతి) చేయవలెను."
+  },
+  {
+   "n": 45,
+   "text_deva": "कृष्णाष्टम्यां नवम्यां वामायां वा पंचदिक्तिथौ | पूजयेज्जगतां धात्रीं गंधपुष्पैर्विशेषतः",
+   "text_te": "కృష్ణాష్టమ్యాం నవమ్యాం వామాయాం వా పంచదిక్తిథౌ | పూజయేజ్జగతాం ధాత్రీం గంధపుష్పైర్విశేషతః",
+   "text_en": "kṛṣṇāṣṭamyāṁ navamyāṁ vāmāyāṁ vā paṁcadiktithau | pūjayejjagatāṁ dhātrīṁ gaṁdhapuṣpairviśeṣataḥ",
+   "mean_en": "On Krishnashtami, on the ninth day, or on any other auspicious tithi, one should especially worship the Nurse of the worlds with sandal paste and flowers.",
+   "mean_te": "కృష్ణాష్టమి నాడును, నవమి నాడును, లేదా ఇతర శుభ తిథులందును గంధపు పేసరముతోను, పుష్పములతోను జగత్తులను పోషించు జగన్మాతను విశేషముగా పూజింపవలెను."
+  },
+  {
+   "n": 46,
+   "text_deva": "संपठञ्जननीसूक्तं श्रीसूक्तमथ वा पठन् | देवीसूक्तमथो वापि मूकमन्त्रमथापि वा",
+   "text_te": "సంపఠఞ్జననీసూక్తం శ్రీసూక్తమథ వా పఠన్ | దేవీసూక్తమథో వాపి మూకమన్త్రమథాపి వా",
+   "text_en": "saṁpaṭhañjananīsūktaṁ śrīsūktamatha vā paṭhan | devīsūktamatho vāpi mūkamantramathāpi vā",
+   "mean_en": "One should recite the Samputa and Anjana suktas, or else the Shrisukta, the Devisukta, or the secret (silent) mantra.",
+   "mean_te": "సంపుట, ఆంజన వంటి సూక్తములను గానీ, లేదా శ్రీసూక్తమును గానీ, దేవీసూక్తమును గానీ, లేదా గుప్త మంత్రమును గానీ జపింపవలెను."
+  },
+  {
+   "n": 47,
+   "text_deva": "विष्णुक्रान्तां च तुलसीं वर्जयित्वाखिलं सुमम् | देवीप्रीतिकरं ज्ञेयं कमलन्तु विशेषतः",
+   "text_te": "విష్ణుక్రాన్తాం చ తులసీం వర్జయిత్వాఖిలం సుమమ్ | దేవీప్రీతికరం జ్ఞేయం కమలన్తు విశేషతః",
+   "text_en": "viṣṇukrāntāṁ ca tulasīṁ varjayitvākhilaṁ sumam | devīprītikaraṁ jñeyaṁ kamalantu viśeṣataḥ",
+   "mean_en": "Excepting the tulasi (basil) of the Vishnukranta kind, all flowers are known to be pleasing to the Goddess - the lotus in particular.",
+   "mean_te": "విష్ణుక్రాంత అను తులసిని వర్జించి, మిగతా అన్ని పుష్పములును దేవీదేవికి ప్రీతికరమైనవిగా తెలిసికొనవలెను; అందులోను తామరపుష్పము విశేషము."
+  },
+  {
+   "n": 48,
+   "text_deva": "अर्पयेत्स्वर्णपुष्पं यो देव्यै राजतमेव वा | स याति परमं धाम सिद्धकोटि भिरन्वितम्",
+   "text_te": "అర్పయేత్స్వర్ణపుష్పం యో దేవ్యై రాజతమేవ వా | స యాతి పరమం ధామ సిద్ధకోటి భిరన్వితమ్",
+   "text_en": "arpayetsvarṇapuṣpaṁ yo devyai rājatameva vā | sa yāti paramaṁ dhāma siddhakoṭi bhiranvitam",
+   "mean_en": "Whoever offers the Goddess a golden flower, or even a silver one, attains the supreme abode filled with crores of siddhas.",
+   "mean_te": "ఎవడు దేవీదేవికి బంగారు పుష్పమును గానీ, వెండి పుష్పమును గానీ అర్పించెదో, వాడు కోట్ల సిద్ధులతో కూడిన పరమ ధామమును పొందును."
+  },
+  {
+   "n": 49,
+   "text_deva": "पूजनान्ते सदा कार्यं दासैरेनः क्षमापनम् | प्रसीद परमेशानि जगदानन्ददायिनि",
+   "text_te": "పూజనాన్తే సదా కార్యం దాసైరేనః క్షమాపనమ్ | ప్రసీద పరమేశాని జగదానన్దదాయిని",
+   "text_en": "pūjanānte sadā kāryaṁ dāsairenaḥ kṣamāpanam | prasīda parameśāni jagadānandadāyini",
+   "mean_en": "At the end of the worship one should always have the attendants pray for pardon of the offences, saying: 'Be gracious, O supreme Empress (Parameshani), bestower of bliss upon the world!'",
+   "mean_te": "పూజ చివర ఎల్లప్పుడు సేవకులచే అపరాధ క్షమాపణ చేయింపవలెను - 'ఓ పరమేశాని! జగత్తులకు ఆనందమును ప్రసాదించు దేవి! దయ చూపు' అని."
+  },
+  {
+   "n": 50,
+   "text_deva": "इति वाक्यैस्स्तुवन्मन्त्री देवीभक्तिपरायणः | ध्यायेत्कण्ठीरवारूढां वरदाभयपाणिकाम्",
+   "text_te": "ఇతి వాక్యైస్స్తువన్మన్త్రీ దేవీభక్తిపరాయణః | ధ్యాయేత్కణ్ఠీరవారూఢాం వరదాభయపాణికామ్",
+   "text_en": "iti vākyaisstuvanmantrī devībhaktiparāyaṇaḥ | dhyāyetkaṇṭhīravārūḍhāṁ varadābhayapāṇikām",
+   "mean_en": "Praising her with such words, the devotee wholly devoted to the Goddess should meditate on her as mounted on a lion (kanthirava), with hands showing the boon-giving and fear-dispelling gestures.",
+   "mean_te": "ఈ విధమైన మాటలతో స్తుతిస్తూ, దేవీభక్తియందు నిమగ్నమైన భక్తుడు, సింహమునందు ఆరూఢమై, వరదాభయ హస్తములు గల దేవిని ధ్యానించవలెను."
+  },
+  {
+   "n": 51,
+   "text_deva": "इत्थं ध्यात्वा महेशानीं भक्ताभीष्टफलप्रदाम् | नानाफलानि पक्वानि नैवेद्यत्वे प्रकल्पयेत्",
+   "text_te": "ఇత్థం ధ్యాత్వా మహేశానీం భక్తాభీష్టఫలప్రదామ్ | నానాఫలాని పక్వాని నైవేద్యత్వే ప్రకల్పయేత్",
+   "text_en": "itthaṁ dhyātvā maheśānīṁ bhaktābhīṣṭaphalapradām | nānāphalāni pakvāni naivedyatve prakalpayet",
+   "mean_en": "Having thus meditated on Maheshani, the bestower of the desired fruits of her devotees, one should arrange various ripe fruits as naivedya (food offering).",
+   "mean_te": "భక్తుల ఇష్టఫలములను ప్రసాదించు మహేశానిని (పార్వతీదేవిని) ఇట్లు ధ్యానించి, పండిన నానావిధ ఫలములను నైవేద్యముగా సమర్పించవలెను."
+  },
+  {
+   "n": 52,
+   "text_deva": "नैवेद्यं भक्षयेद्यस्तु शंभुशक्तेः परात्मनः | स निर्भूयाखिलं पङ्कं निर्मलो मानवो भवेत्",
+   "text_te": "నైవేద్యం భక్షయేద్యస్తు శంభుశక్తేః పరాత్మనః | స నిర్భూయాఖిలం పఙ్కం నిర్మలో మానవో భవేత్",
+   "text_en": "naivedyaṁ bhakṣayedyastu śaṁbhuśakteḥ parātmanaḥ | sa nirbhūyākhilaṁ paṅkaṁ nirmalo mānavo bhavet",
+   "mean_en": "Whoever partakes of the food offered (naivedya) to Shambhu's Shakti, the Supreme Self, shakes off the entire mire of sin and becomes a spotlessly pure human being.",
+   "mean_te": "శంభుశక్తి అయిన పరమాత్మకు సమర్పించిన నైవేద్యాన్ని ఎవరు భుజిస్తారో, వారు సమస్త పాపమనే బంకను జయించి నిర్మలుడైన మానవుడు అవుతారు."
+  },
+  {
+   "n": 53,
+   "text_deva": "चैत्रशुक्लतृतीयायां यो भवानीव्रतं चरेत् | भववन्धननिर्मुक्तः प्राप्नुयात्परमं पदम्",
+   "text_te": "చైత్రశుక్లతృతీయాయాం యో భవానీవ్రతం చరేత్ | భవవన్ధననిర్ముక్తః ప్రాప్నుయాత్పరమం పదమ్",
+   "text_en": "caitraśuklatṛtīyāyāṁ yo bhavānīvrataṁ caret | bhavavandhananirmuktaḥ prāpnuyātparamaṁ padam",
+   "mean_en": "One who observes the Bhavani vow on the third day of the bright fortnight of Chaitra is freed from the bondage of worldly existence and attains the supreme state.",
+   "mean_te": "చైత్ర శుక్ల తృతీయ నాడు భవానీవ్రతాన్ని ఆచరించేవాడు భవబంధనం నుండి విముక్తుడై పరమపదాన్ని పొందుతాడు."
+  },
+  {
+   "n": 54,
+   "text_deva": "अस्यामेव तृतीयायां कुर्याद्दोलोत्सवं बुधः | पूजयेज्जगतां धात्रीमुमां शंकरसंयुताम्",
+   "text_te": "అస్యామేవ తృతీయాయాం కుర్యాద్దోలోత్సవం బుధః | పూజయేజ్జగతాం ధాత్రీముమాం శంకరసంయుతామ్",
+   "text_en": "asyāmeva tṛtīyāyāṁ kuryāddolotsavaṁ budhaḥ | pūjayejjagatāṁ dhātrīmumāṁ śaṁkarasaṁyutām",
+   "mean_en": "On that very third day the wise should celebrate the swing festival (dolotsava) and worship Uma, the nourishing mother of the worlds, who is united with Shankara.",
+   "mean_te": "ఆ తృతీయ నాడే జ్ఞానులు డోలోత్సవం (ఊయల ఉత్సవం) చేసి, శంకరునితో కూడిన, జగత్తులను పోషించే ఉమాదేవిని పూజించాలి."
+  },
+  {
+   "n": 55,
+   "text_deva": "कुसुमैः कुंकुमैर्वस्त्रैः कर्पूरागुरुचन्दनैः | धूपैर्द्दीपैस्सनैवेद्यैः स्रग्गन्धैरपरैरपि",
+   "text_te": "కుసుమైః కుంకుమైర్వస్త్రైః కర్పూరాగురుచన్దనైః | ధూపైర్ద్దీపైస్సనైవేద్యైః స్రగ్గన్ధైరపరైరపి",
+   "text_en": "kusumaiḥ kuṁkumairvastraiḥ karpūrāgurucandanaiḥ | dhūpairddīpaissanaivedyaiḥ sraggandhairaparairapi",
+   "mean_en": "The worship is to be offered with flowers, kumkuma, garments, camphor, agaru and sandalwood, incense, lamps, food offerings, flower garlands, fragrances, and other articles.",
+   "mean_te": "పూలు, కుంకుమ, వస్త్రాలు, కర్పూరం, అగరు, చందనం, ధూపాలు, దీపాలు, నైవేద్యాలు, పూలమాలలు, పరిమళ ద్రవ్యాలు మరియు ఇతర ఉపచారాలతో పూజ చేయాలి."
+  },
+  {
+   "n": 56,
+   "text_deva": "आन्दोलयेत्ततो देवीं महामायां महेश्वरीम् | श्रीगौरीं शिवसंयुक्तां सर्वकल्याणकारिणीम्",
+   "text_te": "ఆన్దోలయేత్తతో దేవీం మహామాయాం మహేశ్వరీమ్ | శ్రీగౌరీం శివసంయుక్తాం సర్వకల్యాణకారిణీమ్",
+   "text_en": "āndolayettato devīṁ mahāmāyāṁ maheśvarīm | śrīgaurīṁ śivasaṁyuktāṁ sarvakalyāṇakāriṇīm",
+   "mean_en": "Then one should swing the Goddess Mahamaya Maheshvari, Shri Gauri united with Shiva, the bestower of all auspiciousness.",
+   "mean_te": "తరువాత శివునితో కూడిన, సర్వమంగళాలను ప్రసాదించే మహామాయ మహేశ్వరి, శ్రీగౌరీదేవిని ఊయలలో ఆనందింపజేయాలి."
+  },
+  {
+   "n": 57,
+   "text_deva": "प्रत्यब्दं कुरुते योस्यां बतमान्दोलनं तथा | नियमेन शिवा तस्मै सर्वमिष्टं प्रयच्छति",
+   "text_te": "ప్రత్యబ్దం కురుతే యోస్యాం బతమాన్దోలనం తథా | నియమేన శివా తస్మై సర్వమిష్టం ప్రయచ్ఛతి",
+   "text_en": "pratyabdaṁ kurute yosyāṁ batamāndolanaṁ tathā | niyamena śivā tasmai sarvamiṣṭaṁ prayacchati",
+   "mean_en": "For the woman who performs this swinging festival devoutly every year, Shiva grants all that she desires.",
+   "mean_te": "ఈ ఊయల ఉత్సవాన్ని ప్రతి సంవత్సరం నియమానుసారం చేసే స్త్రీకి శివుడు అన్ని ఇష్టాలను ప్రసాదిస్తాడు."
+  },
+  {
+   "n": 58,
+   "text_deva": "माधवस्य सिते पक्षे तृतीया याऽक्षयाभिधा | तस्यां यो जगदम्बाया व्रतं कुर्यादतन्द्रितः",
+   "text_te": "మాధవస్య సితే పక్షే తృతీయా యాఽక్షయాభిధా | తస్యాం యో జగదమ్బాయా వ్రతం కుర్యాదతన్ద్రితః",
+   "text_en": "mādhavasya site pakṣe tṛtīyā yā'kṣayābhidhā | tasyāṁ yo jagadambāyā vrataṁ kuryādatandritaḥ",
+   "mean_en": "In the bright fortnight of Madhava's month (Vaishakha) falls the third day named Akshaya; whoever untiringly undertakes the vow of the World Mother on that day.",
+   "mean_te": "మాధవ మాసమైన వైశాఖపు శుక్లపక్షంలో అక్షయ అనే తృతీయ తిథి ఉంటుంది; ఆ నాడు ఎవరు జగదంబ వ్రతాన్ని అలసట లేకుండా ఆచరిస్తారో."
+  },
+  {
+   "n": 59,
+   "text_deva": "मल्लिकामालतीचंपाजपाबन्धूकपंकजैः | कुसुमैः पूजयेद्गौरीं शंकरेण समन्विताम्",
+   "text_te": "మల్లికామాలతీచంపాజపాబన్ధూకపంకజైః | కుసుమైః పూజయేద్గౌరీం శంకరేణ సమన్వితామ్",
+   "text_en": "mallikāmālatīcaṁpājapābandhūkapaṁkajaiḥ | kusumaiḥ pūjayedgaurīṁ śaṁkareṇa samanvitām",
+   "mean_en": "He should worship Gauri united with Shankara with flowers such as jasmine, amalati, champaka, japa, bandhuka, and lotus.",
+   "mean_te": "మల్లె, అమలాతి, చంపక, జాపా (మందార), బంధూక, కమలాల వంటి పుష్పాలతో శంకరునితో కూడిన గౌరీదేవిని పూజించాలి."
+  },
+  {
+   "n": 60,
+   "text_deva": "कोटिजन्मकृतं पापं मनोवाक्कायसम्भवम् | निर्धूय चतुरो वर्गानक्षयानिह सोऽश्नुते",
+   "text_te": "కోటిజన్మకృతం పాపం మనోవాక్కాయసమ్భవమ్ | నిర్ధూయ చతురో వర్గానక్షయానిహ సోఽశ్నుతే",
+   "text_en": "koṭijanmakṛtaṁ pāpaṁ manovākkāyasambhavam | nirdhūya caturo vargānakṣayāniha so'śnute",
+   "mean_en": "Shaking off the sins accumulated over crores of births through mind, speech, and body, he enjoys here the imperishable four aims of life.",
+   "mean_te": "కోట్ల జన్మలలో మనసు, వాక్కు, శరీరాల ద్వారా చేసిన పాపాలను కొట్టివేసి, నాలుగు అక్షయమైన పురుషార్థాలను (ధర్మార్థకామమోక్షాలను) ఇహలోకంలోనే పొందుతాడు."
+  },
+  {
+   "n": 61,
+   "text_deva": "ज्येष्ठे शुक्लतृतीयायां व्रतं कृत्वा महेश्वरीम् | योऽर्चयेत्परमप्रीत्या तस्यासाध्यं न किंचन",
+   "text_te": "జ్యేష్ఠే శుక్లతృతీయాయాం వ్రతం కృత్వా మహేశ్వరీమ్ | యోఽర్చయేత్పరమప్రీత్యా తస్యాసాధ్యం న కించన",
+   "text_en": "jyeṣṭhe śuklatṛtīyāyāṁ vrataṁ kṛtvā maheśvarīm | yo'rcayetparamaprītyā tasyāsādhyaṁ na kiṁcana",
+   "mean_en": "Whoever performs the vow on the bright third of Jyeshtha and worships Maheshvari with the utmost devotion finds nothing unattainable.",
+   "mean_te": "జ్యేష్ఠ శుక్ల తృతీయ నాడు వ్రతం చేసి, మహేశ్వరిని పరమ ప్రీతితో పూజించేవానికి సాధించలేనిది ఏదీ ఉండదు."
+  },
+  {
+   "n": 62,
+   "text_deva": "आषाढशुक्लपक्षीयतृतीयायां रथोत्सवम | देव्याः प्रियतमं कुर्याद्यथावित्तानुसारतः",
+   "text_te": "ఆషాఢశుక్లపక్షీయతృతీయాయాం రథోత్సవమ | దేవ్యాః ప్రియతమం కుర్యాద్యథావిత్తానుసారతః",
+   "text_en": "āṣāḍhaśuklapakṣīyatṛtīyāyāṁ rathotsavama | devyāḥ priyatamaṁ kuryādyathāvittānusārataḥ",
+   "mean_en": "On the third day of the bright fortnight of Ashadha one should perform the chariot festival most dear to the Goddess, according to one's wealth and means.",
+   "mean_te": "ఆషాఢ శుక్లపక్ష తృతీయ నాడు తన ధనానుసారంగా దేవికి అత్యంత ప్రీతిపాత్రమైన రథోత్సవాన్ని చేయాలి."
+  },
+  {
+   "n": 63,
+   "text_deva": "रथं पृथ्वीं विजानीयाद्रथांगे चन्द्रभास्करौ | वेदानश्वान्विजानीयात्सारथिं पद्मसं भवम्",
+   "text_te": "రథం పృథ్వీం విజానీయాద్రథాంగే చన్ద్రభాస్కరౌ | వేదానశ్వాన్విజానీయాత్సారథిం పద్మసం భవమ్",
+   "text_en": "rathaṁ pṛthvīṁ vijānīyādrathāṁge candrabhāskarau | vedānaśvānvijānīyātsārathiṁ padmasaṁ bhavam",
+   "mean_en": "One should conceive of the chariot as the earth, of the chariot's parts as the moon and the sun, of the Vedas as the horses, and of the lotus-born Brahma as the charioteer.",
+   "mean_te": "రథం ఈ భూమి అని, రథాంగాలు చంద్ర సూర్యులు అని, వేదాలు అశ్వాలు అని, పద్మజుడైన బ్రహ్మదేవుడు సారథి అని భావించాలి."
+  },
+  {
+   "n": 64,
+   "text_deva": "नानामणिगणाकीर्णं पुष्पमालाविराजितम् | एवं रथं कल्पयित्वा तस्मिन्त्संस्थापयेच्छिवाम्",
+   "text_te": "నానామణిగణాకీర్ణం పుష్పమాలావిరాజితమ్ | ఏవం రథం కల్పయిత్వా తస్మిన్త్సంస్థాపయేచ్ఛివామ్",
+   "text_en": "nānāmaṇigaṇākīrṇaṁ puṣpamālāvirājitam | evaṁ rathaṁ kalpayitvā tasmintsaṁsthāpayecchivām",
+   "mean_en": "Studded with various gems and radiant with flower garlands — having fashioned the chariot thus, one should install the Goddess upon it.",
+   "mean_te": "నానావిధ మణులతో నిండిన, పుష్పమాలలతో వెలుగొందుతున్న అటువంటి రథాన్ని సిద్ధం చేసి, దానిపై పార్వతీదేవిని ప్రతిష్ఠించాలి."
+  },
+  {
+   "n": 65,
+   "text_deva": "लोकसंरक्षणार्थाय लोकं द्रष्टुं पराम्बिका | रथमध्ये संस्थितेति भावयेन्मतिमान्नरः",
+   "text_te": "లోకసంరక్షణార్థాయ లోకం ద్రష్టుం పరామ్బికా | రథమధ్యే సంస్థితేతి భావయేన్మతిమాన్నరః",
+   "text_en": "lokasaṁrakṣaṇārthāya lokaṁ draṣṭuṁ parāmbikā | rathamadhye saṁsthiteti bhāvayenmatimānnaraḥ",
+   "mean_en": "The intelligent person should contemplate that Parambika has taken her place in the middle of the chariot in order to protect and behold the worlds.",
+   "mean_te": "లోకాలను రక్షించడానికి మరియు లోకాలను దర్శించడానికి పరాంబిక రథం మధ్యలో స్థితులయ్యారని మతిమంతుడైన మానవుడు భావించాలి."
+  },
+  {
+   "n": 66,
+   "text_deva": "रथे प्रचलिते मन्दं जयशब्दमुदीरयेत् | पाहि देवि जनानस्मान्प्रपन्नान्दीनवत्सले",
+   "text_te": "రథే ప్రచలితే మన్దం జయశబ్దముదీరయేత్ | పాహి దేవి జనానస్మాన్ప్రపన్నాన్దీనవత్సలే",
+   "text_en": "rathe pracalite mandaṁ jayaśabdamudīrayet | pāhi devi janānasmānprapannāndīnavatsale",
+   "mean_en": "As the chariot slowly begins to move, one should raise the cry of 'Jaya': 'Protect us, O Devi, ever affectionate to those who have taken refuge in you!'",
+   "mean_te": "రథం మెల్లగా కదలినప్పుడు 'జయజయ' అని శబ్దం చేస్తూ, 'శరణొచ్చిన వారిపై వత్సల్యం గల దేవీ, మమ్మల్ని రక్షించు' అని ప్రార్థించాలి."
+  },
+  {
+   "n": 67,
+   "text_deva": "इति वाक्यैस्तोषयेच्च नानावादित्रनिस्वनैः | सीमान्ते तु रथं नीत्वा तत्र संपूजये द्रथे",
+   "text_te": "ఇతి వాక్యైస్తోషయేచ్చ నానావాదిత్రనిస్వనైః | సీమాన్తే తు రథం నీత్వా తత్ర సంపూజయే ద్రథే",
+   "text_en": "iti vākyaistoṣayecca nānāvāditranisvanaiḥ | sīmānte tu rathaṁ nītvā tatra saṁpūjaye drathe",
+   "mean_en": "With such words, and with the sounds of various musical instruments, one gladdens the Goddess; drawing the chariot to the outskirts, one worships her there in the chariot.",
+   "mean_te": "అటువంటి వాక్యాలతో, వివిధ వాద్యాల ధ్వనులతో దేవిని సంతోషపరచి, రథాన్ని ఊరి సరిహద్దు దాకా నడిపించి, అక్కడ రథంలో ఆమెను విధివిధానంగా పూజిస్తారు."
+  },
+  {
+   "n": 68,
+   "text_deva": "नानास्तोत्रैस्ततः स्तुत्वाप्यानयेत्तां स्ववेश्मनि | प्रणिपातशतं कृत्वा प्रार्थयेज्जगदम्बिकाम्",
+   "text_te": "నానాస్తోత్రైస్తతః స్తుత్వాప్యానయేత్తాం స్వవేశ్మని | ప్రణిపాతశతం కృత్వా ప్రార్థయేజ్జగదమ్బికామ్",
+   "text_en": "nānāstotraistataḥ stutvāpyānayettāṁ svaveśmani | praṇipātaśataṁ kṛtvā prārthayejjagadambikām",
+   "mean_en": "Then, hymning her praises with various stotras, one brings her back to one's own shrine; prostrating a hundred times, one prays to Jagadambika.",
+   "mean_te": "తరువాత నానా స్తోత్రాలతో దేవిని స్తుతించి, తన ఆలయానికి తీసుకొనివచ్చి, వందసార్లు ప్రణిపాతం (నమస్కారం) చేసి, జగదాంబికను ప్రార్థించాలి."
+  },
+  {
+   "n": 69,
+   "text_deva": "एवं यः कुरुते विद्वान्पूजाव्रतरथोत्सवम् | इह भुक्त्वाखिलान्भोगान्सोन्ते देवीपदं व्रजेत्",
+   "text_te": "ఏవం యః కురుతే విద్వాన్పూజావ్రతరథోత్సవమ్ | ఇహ భుక్త్వాఖిలాన్భోగాన్సోన్తే దేవీపదం వ్రజేత్",
+   "text_en": "evaṁ yaḥ kurute vidvānpūjāvratarathotsavam | iha bhuktvākhilānbhogānsonte devīpadaṁ vrajet",
+   "mean_en": "A learned person who performs the worship, vows, and chariot festival in this way enjoys all pleasures in this life and finally attains the abode of the Devī.",
+   "mean_te": "ఈ విధంగా పండితుడు పూజలు, వ్రతాలు, రథోత్సవాన్ని ఆచరిస్తే, ఇహలోకంలో అన్ని భోగాలను అనుభవించి, చివరికి పార్వతీదేవి పదవిని పొందుతాడు."
+  },
+  {
+   "n": 70,
+   "text_deva": "शुक्लायान्तु तृतीयायामेवं श्रावणभाद्रयोः | यो व्रतं कुरुतेऽम्बायाः पूजनं च यथाविधि",
+   "text_te": "శుక్లాయాన్తు తృతీయాయామేవం శ్రావణభాద్రయోః | యో వ్రతం కురుతేఽమ్బాయాః పూజనం చ యథావిధి",
+   "text_en": "śuklāyāntu tṛtīyāyāmevaṁ śrāvaṇabhādrayoḥ | yo vrataṁ kurute'mbāyāḥ pūjanaṁ ca yathāvidhi",
+   "mean_en": "One who observes the vow of the Mother Ambā in this manner and worships her according to the rules, on the third day of the bright fortnight in the months of Śrāvaṇa and Bhādra...",
+   "mean_te": "శ్రావణ, భాద్రపద మాసాలలో శుక్ల పక్ష తృతీయ నాడు అంబ (పార్వతీదేవి) కు యథావిధిగా పూజ చేసి, ఈ విధంగా వ్రతం ఆచరించేవాడు..."
+  },
+  {
+   "n": 71,
+   "text_deva": "मोदते पुत्रपौत्राद्यैर्धनाद्यैरिह सन्ततम् | सोऽन्ते गच्छेदुमालोकं सर्वलोकोपरि स्थितम्",
+   "text_te": "మోదతే పుత్రపౌత్రాద్యైర్ధనాద్యైరిహ సన్తతమ్ | సోఽన్తే గచ్ఛేదుమాలోకం సర్వలోకోపరి స్థితమ్",
+   "text_en": "modate putrapautrādyairdhanādyairiha santatam | so'nte gacchedumālokaṁ sarvalokopari sthitam",
+   "mean_en": "...remains ever delighted in this world with sons, grandsons, wealth and the like, and finally goes to the world of Umā, which is above all the worlds.",
+   "mean_te": "...పుత్రులు, మనుమలు, ధనం మొదలైన వాటితో ఇహలోకంలో ఎల్లప్పుడూ సంతోషంగా ఉండి, అన్ని లోకాల కంటే ఎత్తులో ఉన్న ఉమా లోకాన్ని చివరికి పొందుతాడు."
+  },
+  {
+   "n": 72,
+   "text_deva": "आश्विने धवले पक्षे नवरात्रव्रतं चरेत् | यत्कृते सकलाः कामास्सिद्ध्यन्त्येव न संशयः",
+   "text_te": "ఆశ్వినే ధవలే పక్షే నవరాత్రవ్రతం చరేత్ | యత్కృతే సకలాః కామాస్సిద్ధ్యన్త్యేవ న సంశయః",
+   "text_en": "āśvine dhavale pakṣe navarātravrataṁ caret | yatkṛte sakalāḥ kāmāssiddhyantyeva na saṁśayaḥ",
+   "mean_en": "One should perform the Navarātra vow in the bright fortnight of the month of Āśvina, by which all desires are certainly fulfilled, without doubt.",
+   "mean_te": "ఆశ్వయుజ మాసం శుక్ల పక్షంలో నవరాత్ర వ్రతాన్ని ఆచరించాలి; దాని వల్ల సకల కోరికలు సందేహం లేకుండా నెరవేరుతాయి."
+  },
+  {
+   "n": 73,
+   "text_deva": "नवरात्रव्रतस्यास्य प्रभावं वक्तुमीश्वरः | चतुरास्यो न पंचास्यो न षडास्यो न कोऽपरः",
+   "text_te": "నవరాత్రవ్రతస్యాస్య ప్రభావం వక్తుమీశ్వరః | చతురాస్యో న పంచాస్యో న షడాస్యో న కోఽపరః",
+   "text_en": "navarātravratasyāsya prabhāvaṁ vaktumīśvaraḥ | caturāsyo na paṁcāsyo na ṣaḍāsyo na ko'paraḥ",
+   "mean_en": "Even four-faced Brahmā, five-faced Śiva, six-faced Kumāra, or anyone else is not capable of fully describing the glory of this Navarātra vow.",
+   "mean_te": "ఈ నవరాత్ర వ్రత మహిమను చెప్పడానికి చతుర్ముఖుడైన బ్రహ్మదేవుడు, పంచముఖుడైన శివుడు, షణ్ముఖుడైన కుమారస్వామి గాని, ఇంకెవరూ సమర్థులు కారు."
+  },
+  {
+   "n": 74,
+   "text_deva": "नवरात्रव्रतं कृत्वा भूपालो विरथात्मजः | हृतं राज्यं निजं लेभे सुरथो मुनिसत्तमाः",
+   "text_te": "నవరాత్రవ్రతం కృత్వా భూపాలో విరథాత్మజః | హృతం రాజ్యం నిజం లేభే సురథో మునిసత్తమాః",
+   "text_en": "navarātravrataṁ kṛtvā bhūpālo virathātmajaḥ | hṛtaṁ rājyaṁ nijaṁ lebhe suratho munisattamāḥ",
+   "mean_en": "King Suratha, whose kingdom had been seized by his own son, performed the Navarātra vow and regained his kingdom, O best of sages.",
+   "mean_te": "తన కుమారుని చేత రాజ్యం కోల్పోయిన రాజు సురథుడు, నవరాత్ర వ్రతం ఆచరించి తన రాజ్యాన్ని తిరిగి పొందాడు, మునులలో శ్రేష్ఠులారా!"
+  },
+  {
+   "n": 75,
+   "text_deva": "ध्रुवसंधिसुतो धीमानयोध्याधिपतिर्नृपः | सुदर्शनो हृतं राज्यं प्रापदस्य प्रभावतः",
+   "text_te": "ధ్రువసంధిసుతో ధీమానయోధ్యాధిపతిర్నృపః | సుదర్శనో హృతం రాజ్యం ప్రాపదస్య ప్రభావతః",
+   "text_en": "dhruvasaṁdhisuto dhīmānayodhyādhipatirnṛpaḥ | sudarśano hṛtaṁ rājyaṁ prāpadasya prabhāvataḥ",
+   "mean_en": "Dhruvasandhi's wise son Sudarśana, the king of Ayodhyā, recovered his lost kingdom through the power of this vow.",
+   "mean_te": "ధ్రువసంధి కుమారుడైన బుద్ధిమంతుడు, అయోధ్యాధీశుడు సుదర్శనుడు, కోల్పోయిన తన రాజ్యాన్ని ఈ వ్రత ప్రభావంతో తిరిగి పొందాడు."
+  },
+  {
+   "n": 76,
+   "text_deva": "व्रतराजमिमं कृत्वा समाराध्य महेश्वरीम् | संसारबन्धनान्मुक्तः समाधिर्मुक्तिभागभूत्",
+   "text_te": "వ్రతరాజమిమం కృత్వా సమారాధ్య మహేశ్వరీమ్ | సంసారబన్ధనాన్ముక్తః సమాధిర్ముక్తిభాగభూత్",
+   "text_en": "vratarājamimaṁ kṛtvā samārādhya maheśvarīm | saṁsārabandhanānmuktaḥ samādhirmuktibhāgabhūt",
+   "mean_en": "Having performed this king of vows and worshipped Maheśvarī, the great Goddess, Samādhi became freed from the bonds of worldly existence and attained liberation.",
+   "mean_te": "ఈ వ్రతరాజాన్ని ఆచరించి, మహేశ్వరీదేవిని పూజించిన సమాధి అనే భక్తుడు, సంసార బంధనం నుండి విముక్తుడై మోక్షాన్ని పొందాడు."
+  },
+  {
+   "n": 77,
+   "text_deva": "तृतीयायां च पञ्चम्यां सप्तम्याम ष्टमीतिथौ | नवम्यां वा चतुर्दश्यां यो देवी पूजयेन्नरः",
+   "text_te": "తృతీయాయాం చ పఞ్చమ్యాం సప్తమ్యామ ష్టమీతిథౌ | నవమ్యాం వా చతుర్దశ్యాం యో దేవీ పూజయేన్నరః",
+   "text_en": "tṛtīyāyāṁ ca pañcamyāṁ saptamyāma ṣṭamītithau | navamyāṁ vā caturdaśyāṁ yo devī pūjayennaraḥ",
+   "mean_en": "A person who worships the Devī on the third, fifth, seventh, eighth, ninth, or fourteenth lunar day...",
+   "mean_te": "తృతీయ, పంచమి, సప్తమి, అష్టమి, నవమి లేదా చతుర్దశి తిథులలో దేవిని పూజించే మనిషి..."
+  },
+  {
+   "n": 78,
+   "text_deva": "आश्विनस्य सिते पक्षे व्रतं कृत्वा विधानतः | तस्य सर्वं मनोभीष्टं पूरयत्यनिशं शिवा",
+   "text_te": "ఆశ్వినస్య సితే పక్షే వ్రతం కృత్వా విధానతః | తస్య సర్వం మనోభీష్టం పూరయత్యనిశం శివా",
+   "text_en": "āśvinasya site pakṣe vrataṁ kṛtvā vidhānataḥ | tasya sarvaṁ manobhīṣṭaṁ pūrayatyaniśaṁ śivā",
+   "mean_en": "...who performs the vow in the bright fortnight of Āśvina according to the rules — for him Śivā, the Goddess, always fulfills all the desires of his heart.",
+   "mean_te": "...ఆశ్వయుజ శుక్ల పక్షంలో విధిప్రకారం వ్రతాన్ని ఆచరిస్తే, శివ (దేవి) అతని మనసులోని సర్వ కోరికలను ఎల్లప్పుడూ నెరవేరుస్తుంది."
+  },
+  {
+   "n": 79,
+   "text_deva": "यः कार्त्तिकस्य मार्गस्य पौषस्य तपसस्तथा | तपस्यस्य सिते पक्षे तृतीयायां व्रतं चरेत्",
+   "text_te": "యః కార్త్తికస్య మార్గస్య పౌషస్య తపసస్తథా | తపస్యస్య సితే పక్షే తృతీయాయాం వ్రతం చరేత్",
+   "text_en": "yaḥ kārttikasya mārgasya pauṣasya tapasastathā | tapasyasya site pakṣe tṛtīyāyāṁ vrataṁ caret",
+   "mean_en": "One who performs the vow on the third day of the bright fortnight in the months of Kārttika, Mārgaśīrṣa, Pauṣa, Māgha (Tapas), and Phālguna (Tapasya)...",
+   "mean_te": "కార్తీక, మార్గశిర, పుష్య, మాఘ, ఫాల్గుణ మాసాలలో శుక్ల పక్ష తృతీయ నాడు వ్రతాన్ని ఆచరించేవాడు..."
+  },
+  {
+   "n": 80,
+   "text_deva": "लोहितैः करवीराद्यैः पुष्पैर्धूपैस्सुगन्धितैः | पूजयेन्मङ्गलान्देवीं स सर्वं मंगलं लभेत्",
+   "text_te": "లోహితైః కరవీరాద్యైః పుష్పైర్ధూపైస్సుగన్ధితైః | పూజయేన్మఙ్గలాన్దేవీం స సర్వం మంగలం లభేత్",
+   "text_en": "lohitaiḥ karavīrādyaiḥ puṣpairdhūpaissugandhitaiḥ | pūjayenmaṅgalāndevīṁ sa sarvaṁ maṁgalaṁ labhet",
+   "mean_en": "...worships the auspicious Devī with red flowers such as karavīra and with fragrant incense — he obtains all auspiciousness.",
+   "mean_te": "...ఎర్రటి కరవీర పుష్పాలు, సుగంధభరితమైన ధూపాలతో మంగళమైన దేవిని పూజిస్తే, అతడు సకల మంగళాలను పొందుతాడు."
+  },
+  {
+   "n": 81,
+   "text_deva": "सौभाग्याय सदा स्त्रीभिः कार्य्यमेतन्महाव्रतम् | विद्याधनसुताप्त्यर्थं विधेयं पुरुषैरपि",
+   "text_te": "సౌభాగ్యాయ సదా స్త్రీభిః కార్య్యమేతన్మహావ్రతమ్ | విద్యాధనసుతాప్త్యర్థం విధేయం పురుషైరపి",
+   "text_en": "saubhāgyāya sadā strībhiḥ kāryyametanmahāvratam | vidyādhanasutāptyarthaṁ vidheyaṁ puruṣairapi",
+   "mean_en": "This great vow should always be performed by women for good fortune, and men too should undertake it for gaining learning, wealth, and children.",
+   "mean_te": "ఈ మహావ్రతాన్ని స్త్రీలు సౌభాగ్యం కోసం ఎల్లప్పుడూ ఆచరించాలి; విద్య, ధనం, సంతానం కోసం పురుషులు కూడా ఆచరించాలి."
+  },
+  {
+   "n": 82,
+   "text_deva": "उमामहेश्वरादीनि व्रतान्यन्यानि यान्यपि | देवीप्रियाणि कार्याणि स्वभक्त्यैवं मुमुक्षुभिः",
+   "text_te": "ఉమామహేశ్వరాదీని వ్రతాన్యన్యాని యాన్యపి | దేవీప్రియాణి కార్యాణి స్వభక్త్యైవం ముముక్షుభిః",
+   "text_en": "umāmaheśvarādīni vratānyanyāni yānyapi | devīpriyāṇi kāryāṇi svabhaktyaivaṁ mumukṣubhiḥ",
+   "mean_en": "All other vows dear to the Devī, such as the Umā-Maheśvara vow, should also be performed with one's own devotion by those seeking liberation.",
+   "mean_te": "ఉమా-మహేశ్వర వ్రతం వంటి, దేవికి ప్రియమైన ఇతర వ్రతాలన్నీ, మోక్షాన్ని కోరేవారు తమ భక్తితో ఆచరించాలి."
+  },
+  {
+   "n": 83,
+   "text_deva": "संहितेयं महापुण्या शिवभक्तिविवर्द्धिनी | नानाख्यानसमायुक्ता भुक्तिमुक्तिप्रदा शिवा",
+   "text_te": "సంహితేయం మహాపుణ్యా శివభక్తివివర్ద్ధినీ | నానాఖ్యానసమాయుక్తా భుక్తిముక్తిప్రదా శివా",
+   "text_en": "saṁhiteyaṁ mahāpuṇyā śivabhaktivivarddhinī | nānākhyānasamāyuktā bhuktimuktipradā śivā",
+   "mean_en": "This Saṁhitā is of great merit, increases devotion to Śiva, is full of various stories, and bestows both enjoyment and liberation.",
+   "mean_te": "ఈ సంహిత మహా పుణ్యమైనది, శివునిపై భక్తిని పెంచేది, అనేక కథలతో కూడినది, భోగాన్ని మరియు మోక్షాన్ని ప్రసాదించేది."
+  },
+  {
+   "n": 84,
+   "text_deva": "य एनां शृणुयाद्भक्त्या श्रावयेद्वा समाहितः | पठेद्वा पाठयेद्वापि स याति परमां गतिम्",
+   "text_te": "య ఏనాం శృణుయాద్భక్త్యా శ్రావయేద్వా సమాహితః | పఠేద్వా పాఠయేద్వాపి స యాతి పరమాం గతిమ్",
+   "text_en": "ya enāṁ śṛṇuyādbhaktyā śrāvayedvā samāhitaḥ | paṭhedvā pāṭhayedvāpi sa yāti paramāṁ gatim",
+   "mean_en": "One who hears this with devotion, causes it to be heard with concentration, or reads it or makes it be read, attains the supreme goal.",
+   "mean_te": "భక్తితో దీనిని వినేవాడు, ఏకాగ్రతతో వినిపించేవాడు, చదివేవాడు లేదా చదివించేవాడు, పరమ గతిని (మోక్షాన్ని) పొందుతాడు."
+  },
+  {
+   "n": 85,
+   "text_deva": "यस्य गेहे स्थिता चेयं लिखिता ललिताक्षरैः | संपूजिता च विधिवत्सर्वान्कामान्स आप्नुयात्",
+   "text_te": "యస్య గేహే స్థితా చేయం లిఖితా లలితాక్షరైః | సంపూజితా చ విధివత్సర్వాన్కామాన్స ఆప్నుయాత్",
+   "text_en": "yasya gehe sthitā ceyaṁ likhitā lalitākṣaraiḥ | saṁpūjitā ca vidhivatsarvānkāmānsa āpnuyāt",
+   "mean_en": "In whose house this is kept, written in beautiful letters and worshipped according to rule, that person attains all his desires.",
+   "mean_te": "ఈ సంహిత అందమైన అక్షరాలతో వ్రాయబడి, విధిప్రకారం పూజించబడి, ఎవరి ఇంట్లో ఉంటుందో, ఆ గృహస్థుడు అన్ని కోరికలను పొందుతాడు."
+  },
+  {
+   "n": 86,
+   "text_deva": "भूतप्रेतपिशाचादिदुष्टेभ्यो न भयं क्वचित | पुत्रपौत्रादिसम्पत्तिं लभत्येव न संशयः",
+   "text_te": "భూతప్రేతపిశాచాదిదుష్టేభ్యో న భయం క్వచిత | పుత్రపౌత్రాదిసమ్పత్తిం లభత్యేవ న సంశయః",
+   "text_en": "bhūtapretapiśācādiduṣṭebhyo na bhayaṁ kvacita | putrapautrādisampattiṁ labhatyeva na saṁśayaḥ",
+   "mean_en": "From ghosts, spirits, pisachas and other evil beings he never has any fear anywhere; he surely obtains wealth such as sons and grandsons, without doubt.",
+   "mean_te": "భూత, ప్రేత, పిశాచ మొదలైన దుష్టశక్తుల నుండి అతనికి ఎక్కడా ఎలాంటి భయం ఉండదు; కొడుకులు, మనవళ్లు మొదలైన సంపదను అనుమానం లేకుండా పొందుతాడు."
+  },
+  {
+   "n": 87,
+   "text_deva": "तस्मादियं महापुण्या रम्योमासंहिता सदा | श्रोतव्या पठितव्या च शिवभक्तिमभीप्सुभिः",
+   "text_te": "తస్మాదియం మహాపుణ్యా రమ్యోమాసంహితా సదా | శ్రోతవ్యా పఠితవ్యా చ శివభక్తిమభీప్సుభిః",
+   "text_en": "tasmādiyaṁ mahāpuṇyā ramyomāsaṁhitā sadā | śrotavyā paṭhitavyā ca śivabhaktimabhīpsubhiḥ",
+   "mean_en": "Therefore this delightful and highly meritorious Uma-samhita should always be listened to and recited by those who desire devotion to Shiva.",
+   "mean_te": "కాబట్టి ఈ మనోహరమైన, అత్యంత పుణ్యదాయకమైన ఉమాసంహితను శివునిపై భక్తిని కోరుకునేవారు ఎల్లప్పుడూ వినాలి, పఠించాలి."
+  },
+  {
+   "n": 88,
+   "text_deva": "इति श्रीशिव महापुराणे पञ्चम्यामुमासंहितायां क्रियायोगनिरूपणं नामैकपञ्चाशत्तमोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివ మహాపురాణే పఞ్చమ్యాముమాసంహితాయాం క్రియాయోగనిరూపణం నామైకపఞ్చాశత్తమోఽధ్యాయః",
+   "text_en": "iti śrīśiva mahāpurāṇe pañcamyāmumāsaṁhitāyāṁ kriyāyoganirūpaṇaṁ nāmaikapañcāśattamo'dhyāyaḥ",
+   "mean_en": "Thus ends the fifty-first chapter, named 'Kriyayoga-nirupana' (Description of Kriyayoga), in the Uma-samhita of the Shiva Mahapurana.",
+   "mean_te": "ఈ విధంగా శ్రీ శివ మహాపురాణంలోని ఉమాసంహితలో 'క్రియాయోగ నిరూపణ' అనే యాభై ఒకటో అధ్యాయం ముగిసింది."
+  }
+ ]
+}

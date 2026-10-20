@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": { "en": "Mythology", "te": "ఇతిహాసాలు" },
+    "subtitle": { "en": "The Ramayanam & Mahabharatam in English", "te": "ఇంగ్లీషులో రామాయణ & మహాభారత కథలు" },
+    "intro": "The two great Itihasas of Bharata. The Ramayanam flows through seven kandas (books), from Rama's childhood to his final coronation; the Mahabharatam unfolds in eighteen parvas (books), from the birth of the princes to the Pandavas' final journey to heaven. Choose an epic, then a kanda or parva, to read its story."
+  },
+  "epics": [
+    {
+      "id": "ramayana",
+      "name": "Ramayanam",
+      "by": "Valmiki",
+      "select_label": "Kanda",
+      "sections": [
+        {
+          "id": "bala-kanda",
+          "n": 1,
+          "name": "Bala Kanda",
+          "title": "The Book of Childhood",
+          "summary": "King Dasharatha of Ayodhya performs the Putrakameshti yaga, and the gods grant him four sons — Rama, Bharata, Lakshmana and Shatrughna, the four quarters of Vishnu born as men. Sage Vishvamitra takes the young Rama and Lakshmana to guard his sacrifice, where Rama slays the demoness Tataka and frees the sage Ahalya from her curse. On the way home, Rama breaks Shiva's mighty bow in Mithila and wins the hand of Sita, daughter of King Janaka. The kanda closes with the wedding of the four brothers and Rama's clash with the sage Parashurama."
+        },
+        {
+          "id": "ayodhya-kanda",
+          "n": 2,
+          "name": "Ayodhya Kanda",
+          "title": "The Book of Ayodhya",
+          "summary": "Dasharatha resolves to crown Rama as heir, but Kaikeyi, swayed by her maid Manthara, demands the two boons the king once promised her: her son Bharata on the throne, and Rama exiled to the forest for fourteen years. Rama accepts without a word of protest, and Sita and Lakshmana insist on going with him. The heartbroken Dasharatha dies recalling his own unintended exile of Shravana Kumara. Bharata refuses the throne gained by his mother's wish, chases Rama to Chitrakuta to beg him back, and on his refusal rules Ayodhya with Rama's golden sandals placed on the throne."
+        },
+        {
+          "id": "aranya-kanda",
+          "n": 3,
+          "name": "Aranya Kanda",
+          "title": "The Book of the Forest",
+          "summary": "The three build their cottage at Panchavati on the banks of the Godavari. Rama beheads the rakshasi Shurpanakha's nose when she attacks Sita, provoking her brothers Khara and Dushana — whom Rama destroys single-handedly. Shurpanakha flies to Lanka and inflames her brother Ravana with a description of Sita's beauty. At Ravana's ruse, a magical golden deer, Lakshmana draws the Lakshmana-rekha, the dying vulture Jatayu fights to his last breath, and Ravana carries Sita away across the southern ocean. The kanda ends with Rama and Lakshmana's grief and the beginning of the search."
+        },
+        {
+          "id": "kishkindha-kanda",
+          "n": 4,
+          "name": "Kishkindha Kanda",
+          "title": "The Book of Kishkindha",
+          "summary": "In the monkey kingdom of Kishkindha, Rama befriends Hanuman and makes a pact with the exiled Sugriva: Sugriva's help in finding Sita for Rama's help in regaining his throne. Rama kills the tyrant Vali from hiding, honouring the pact's justice, and Sugriva is crowned. When the monsoon delays him, Rama's angry reproach wakes Sugriva from his pleasures, and the vanara armies are dispatched to the four directions. In the south, the aged eagle Sampati tells Hanuman that Sita is in Lanka — and Hanuman, reminded of his own powers, stands ready to leap the ocean."
+        },
+        {
+          "id": "sundara-kanda",
+          "n": 5,
+          "name": "Sundara Kanda",
+          "title": "The Beautiful Book",
+          "summary": "The only kanda named 'beautiful', and the only one whose hero is neither Rama nor Sita but Hanuman. He leaps the hundred-yojana ocean, overcomes Lanka's guardian Lankini, searches the rakshasa city, and finds Sita in the Ashoka grove. He gives her Rama's ring, destroys the pleasure grove, burns Lanka, and carries back the news that Rama's search is over. By tradition this kanda is read on its own as a parayana — its recitation is held to fulfil every wish of the devotee."
+        },
+        {
+          "id": "yuddha-kanda",
+          "n": 6,
+          "name": "Yuddha Kanda",
+          "title": "The Book of War",
+          "summary": "Rama's army marches to the southern shore; Vibhishana, Ravana's righteous brother, is refused shelter by Ravana and takes refuge with Rama. Nala builds the bridge of stones that float on the sea, and the vanaras pour into Lanka. In the great war, Kumbhakarna is slain, Lakshmana falls to Indrajit's Brahmastra and is revived by Hanuman bringing the Sanjivani mountain, Indrajit dies in battle, and at last Rama fells Ravana with the Brahmastra. Sita enters the fire to prove her purity, and Rama returns to Ayodhya on the Pushpaka Vimana for his coronation — Rama Pattabhishekam."
+        },
+        {
+          "id": "uttara-kanda",
+          "n": 7,
+          "name": "Uttara Kanda",
+          "title": "The Final Book",
+          "summary": "The kanda of origins and endings: the tale of Ravana's boons and pride, Vishvamitra's legend, and the descent of the Ganga. When public whispering questions Sita's long stay in Ravana's city, the pregnant Sita is left in the forest and finds shelter with Valmiki, where her sons Lava and Kusha are born and trained to sing the Ramayana itself. Reunited before Rama's assembled court, Sita calls upon her Mother Earth to bear witness to her purity, and the earth opens to receive her. Rama rules long and righteously, and at last enters the Sarayu to return to his own form as Vishnu."
+        }
+      ]
+    },
+    {
+      "id": "mahabharata",
+      "name": "Mahabharatam",
+      "by": "Veda Vyasa",
+      "select_label": "Parva",
+      "sections": [
+        {
+          "id": "adi-parva",
+          "n": 1,
+          "name": "Adi Parva",
+          "title": "The Book of the Beginning",
+          "summary": "Ugrashravas the suta narrates to the sages of Naimisha Forest the epic Vyasa composed — with Ganesha as its scribe. The lineage of the Kurus unfolds: Shantanu, Ganga, Satyavati, the blind Dhritarashtra and the pale Pandu, the birth of the hundred Kauravas and five Pandavas through Vyasa's grace, their education under Drona, and the display of skill where Karna first burns with envy. Draupadi is won at her swayamvara, and the Pandavas, given the waste Khandavaprastha, raise a wonder of a city — as the fire god consumes the Khandava forest with Arjuna and Krishna's aid."
+        },
+        {
+          "id": "sabha-parva",
+          "n": 2,
+          "name": "Sabha Parva",
+          "title": "The Book of the Assembly Hall",
+          "summary": "The demon Maya builds the Pandavas an impossible palace of illusions. Yudhishthira, advised by Krishna, performs the Rajasuya sacrifice and stands supreme among kings — until Shishupala's insult ends in his death at Krishna's discus. Duryodhana, wandering the hall, mistakes crystal for water and water for crystal, and burns with humiliation at every turn. On Shakuni's loaded dice he invites Yudhishthira to a game; kingdom, brothers, himself and at last Draupadi are lost. Dragged into the assembly, she questions the assembled elders until Dushshasana attempts to disrobe her — and Krishna answers her cry, clothing her in endless silk. The Pandavas leave for thirteen years of exile."
+        },
+        {
+          "id": "vana-parva",
+          "n": 3,
+          "name": "Vana Parva",
+          "title": "The Book of the Forest",
+          "summary": "Twelve years of forest life, told in a web of consoling tales the sages tell the exiles: Nala and Damayanti, Savitri and Satyavan, Rama's own exile. Draupadi and Bhima chafe at Yudhishthira's patience; Arjuna journeys to the Himalaya, wins celestial weapons from Shiva — who comes to him as the hunter Kirata — and spends a year in Indra's heaven. Jayadratha abducts Draupadi and is humiliated; Duryodhana, captured by the Gandharvas and freed by the very brothers he ruined, slinks home vowing a fast until their destruction. The twelve years end, and the thirteenth — the year of disguise — begins."
+        },
+        {
+          "id": "virata-parva",
+          "n": 4,
+          "name": "Virata Parva",
+          "title": "The Book of Virata",
+          "summary": "The Pandavas serve King Virata of Matsya under assumed names: Yudhishthira as the dice-master Kanka, Bhima as cook, Arjuna as the eunuch dance-teacher Brihannala, Nakula and Sahadeva in the stables, and Draupadi as queen Sudeshna's maid. Her brother-in-law Kichaka torments Draupadi until Bhima crushes him in secret. Suspecting the Pandavas behind Kichaka's death, the Trigartas and the Kauravas raid Matsya's cattle to expose them. With the young prince Uttara as his charioteer, Brihannala reveals himself as Arjuna, single-handedly routs the Kuru army, and the year of hiding — and the exile — is fulfilled."
+        },
+        {
+          "id": "udyoga-parva",
+          "n": 5,
+          "name": "Udyoga Parva",
+          "title": "The Book of the Effort",
+          "summary": "The effort for peace. The Pandavas ask for a mere five villages; Duryodhana refuses even land the tip of a needle could stand on. Krishna himself goes as envoy of last resort, appeals to Dhritarashtra and Gandhari, and is nearly seized in the assembly — where he reveals his Vishvarupa to the court. Both sides summon their allies to Kurukshetra; Krishna offers himself unarmed to one side and his Narayaniya army to the other, and Arjuna chooses Krishna. The kanda closes with Arjuna asking Krishna to place his chariot between the two armies — where the Bhagavad Gita is about to begin."
+        },
+        {
+          "id": "bhishma-parva",
+          "n": 6,
+          "name": "Bhishma Parva",
+          "title": "The Book of Bhishma",
+          "summary": "Seeing his kin arrayed on both sides, Arjuna collapses in despair — and Krishna, as charioteer, teaches him the Bhagavad Gita: the eternity of the Self, karma yoga, bhakti, and the vision of the cosmic form. The ten days of Bhishma's command follow: the armies churn in formations, the young Abhimanyu's feats shine, and the rules of dharma-yuddha dissolve day by day. On the tenth day Arjuna, sheltered behind Shikhandi, brings the grand sire down. Lying on his bed of arrows, Bhishma awaits the auspicious hour — as the sun turns north — to give up his life."
+        },
+        {
+          "id": "drona-parva",
+          "n": 7,
+          "name": "Drona Parva",
+          "title": "The Book of Drona",
+          "summary": "Under Drona the war turns merciless. Abhimanyu penetrates the impenetrable chakravyuha, for his father never taught him the way out, and dies fighting six warriors at once. Drona wreaks havoc until Krishna and Yudhishthira bend truth: an elephant named Ashvatthama is killed, and Drona, hearing 'Ashvatthama is dead' from the truthful Yudhishthira, lays down his arms in grief and is slain by Drishtadyumna. Karna, made commander, tears off the cursed armour-earrings of his birth; Ghatotkacha, Bhima's rakshasa son, dies to save Arjuna from Karna's Vasavi Shakti — the dart that could be used but once."
+        },
+        {
+          "id": "karna-parva",
+          "n": 8,
+          "name": "Karna Parva",
+          "title": "The Book of Karna",
+          "summary": "Two days of battle under Karna's command. Before the war, Krishna had revealed to Karna his birth — the eldest Pandava, son of Kunti and Surya — and offered him kingship, which Karna refused out of loyalty to the friend who had honoured him. In battle his wheel sinks into the sodden earth, recalling the brahmin's curse; as he lifts the wheel he is felled by Arjuna's arrow. The kanda is the tragedy of the epic's noblest adversary — generous to a fault, cursed by circumstance, and true to Duryodhana to the very end."
+        },
+        {
+          "id": "shalya-parva",
+          "n": 9,
+          "name": "Shalya Parva",
+          "title": "The Book of Shalya",
+          "summary": "The eighteenth and last day. Shalya, the Madra king who had been goaded all through the war by Karna's taunts as his charioteer, now commands, and falls to Yudhishthira's spear. Sahadeva slays Shakuni at last. Duryodhana, all his brothers dead, flees to a lake of crystal water where he is found and taunted into a mace duel with Bhima. Remembering Krishna's unspoken counsel, Bhima shatters the thigh once insolently bared to Draupadi. Dying, Duryodhana mourns his fate; the great war is over — but the night to come will be darker than any day."
+        },
+        {
+          "id": "sauptika-parva",
+          "n": 10,
+          "name": "Sauptika Parva",
+          "title": "The Book of the Night Raid",
+          "summary": "Ashvatthama, Kripa and Kritavarma fall upon the sleeping Pandava camp in revenge for Duryodhana's fall. Ashvatthama, offering a horrid rite to Shiva, slaughters Draupadi's five sons as they sleep and sets the camp ablaze — the beheaded head he presents to his dying friend turns out to be the wrong one. He looses the Narayanastra at the Pandavas and hurls the Brahmashirastra into the wombs of the next generation; Krishna curses him to roam the earth, wound-ridden, for three thousand years. Uttara's unborn child is later revived — Parikshit, the sole heir."
+        },
+        {
+          "id": "stri-parva",
+          "n": 11,
+          "name": "Stri Parva",
+          "title": "The Book of the Women",
+          "summary": "The women of the fallen come to the field of corpses: Gandhari's gaze, burning with grief, withers Yudhishthira's toenail, and her grief-wrought blessing turns to a curse that will consume the Yadava race in thirty-six years. Draupadi's keening names the dead by name; Kunti reveals to her sons at last that Karna was their eldest brother, and Yudhishthira pronounces the war's darkest accounting — that it was fought, in effect, against their own blood. Yudhishthira, broken by guilt, must be argued back into kingship, and the funeral rites for the multitudes of the dead are performed."
+        },
+        {
+          "id": "shanti-parva",
+          "n": 12,
+          "name": "Shanti Parva",
+          "title": "The Book of Peace",
+          "summary": "The longest parva: the teaching of the crown. At Bhishma's instructions, Yudhishthira builds a raft of questions and carries them to the arrow-bed at Prayaga, where the dying grand sire discourses for days on rajadharma — the duty of kings, taxation, punishment, famine, counsel, and the highest good. Mokshadharma follows: the way of renunciation, the nature of the Self, the answer to sorrow. Strengthened in dharma, Yudhishthira is crowned at Hastinapura, the Ganga waters are poured, and the kingdom, emptied by war, begins its long work of healing."
+        },
+        {
+          "id": "anushasana-parva",
+          "n": 13,
+          "name": "Anushasana Parva",
+          "title": "The Book of Instructions",
+          "summary": "Bhishma, on his bed of arrows, completes the teaching he began: the duties of the four orders, of householders and kings, the merit of gifts — the thousand names of Vishnu are taught here by Dharma himself — and the conduct that holds a family and a kingdom together. As the sun turns north at last, the grand sire of both armies, the man who served three generations, releases his life into the time he chose, amid a silence of gods and men, and ascends on a celestial chariot."
+        },
+        {
+          "id": "ashvamedhika-parva",
+          "n": 14,
+          "name": "Ashvamedhika Parva",
+          "title": "The Book of the Horse Sacrifice",
+          "summary": "Yudhishthira, counselled by Vyasa, performs the Ashvamedha to establish his sovereignty; the golden horse wanders free for a year with Arjuna's army behind it, subduing kings — including the Kansas of Manipura and Chedi, and Arjuna is worsted by his own son Babruvahana and revived by Ulupi's nagamani. Krishna recounts to Arjuna the Anugita, the 'again-taught' Gita, for the mind that hears under fire hears differently in peace. The sacrifice is completed, its wealth distributed, and the Pandavas reign over a united Bharata."
+        },
+        {
+          "id": "ashramavasika-parva",
+          "n": 15,
+          "name": "Ashramavasika Parva",
+          "title": "The Book of the Hermitage",
+          "summary": "Dhritarashtra, blind and broken, is stung by Bhima's secret triumphs into one last act of pride — he crushes an iron statue of Bhima to dust — and then, with Gandhari and Kunti, retires to the forest hermitage on the Ganga. Vidura, in his final days, merges his spirit into Yudhishthira and departs. Years later the hermitage burns; Dhritarashtra and Gandhari perish in the flames with Kunti, who stays by her mother-in-law by choice. The old generation ends; the forest fire is seen from afar by the waters."
+        },
+        {
+          "id": "mausala-parva",
+          "n": 16,
+          "name": "Mausala Parva",
+          "title": "The Book of the Clubs",
+          "summary": "The curse of Gandhari and the sages matures. The Yadava elders, drunk at Prabhasa, fall upon one another with the eraka reeds — each blade turned to an iron club — and the race of Krishna destroys itself in a single night. Balarama departs in yoga by the sea; Krishna, reclining under a tree, is felled by a hunter's arrow, mistaking his foot for a deer's eye, and returns to his own Vaikuntha. Daruka brings the news to Arjuna: the god who stood beside him in war cannot be saved by arrows. Dwaraka sinks beneath the sea."
+        },
+        {
+          "id": "mahaprasthanika-parva",
+          "n": 17,
+          "name": "Mahaprasthanika Parva",
+          "title": "The Book of the Great Journey",
+          "summary": "Hearing of Krishna's departure, the Pandavas crown Parikshit and turn their faces to the Himalaya, Draupadi and a dog walking with them. One by one each falls — Draupadi first, for she leaned on Arjuna alone; then Sahadeva for pride in wisdom, Nakula for pride in beauty, Arjuna for pride in prowess, and Bhima for gluttony — each explaining their fall to Yudhishthira as they drop. Yudhishthira alone, walking in dharma with the dog that would not leave him, goes on toward the shining gate of heaven."
+        },
+        {
+          "id": "svargarohana-parva",
+          "n": 18,
+          "name": "Svargarohana Parva",
+          "title": "The Ascent to Heaven",
+          "summary": "Indra comes in his chariot but refuses the dog; Yudhishthira refuses heaven without the creature that trusted him — and the dog reveals itself as Dharma, his own father. In heaven Yudhishthira is shown Duryodhana on a throne and told his brothers are in hell; he insists on sharing their punishment, and the hell itself dissolves — it was the last illusion. All the epic's figures stand together in their true forms, Krishna among them, and the Mahabharata closes with its own words: 'What is here may be found elsewhere; what is not here is nowhere.'"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ramayana",
+    "https://en.wikipedia.org/wiki/Mahabharata",
+    "https://www.gutenberg.org/files/15474/15474-h/15474-h.htm"
+  ]
+}

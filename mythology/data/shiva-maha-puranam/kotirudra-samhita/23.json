@@ -1,0 +1,473 @@
+{
+ "kanda": "kotirudra-samhita",
+ "n": 23,
+ "title_deva": "एवं वाराणसी पुण्या यदि सूत महापुरी",
+ "title_te": "ఏవం వారాణసీ పుణ్యా యది సూత మహాపురీ",
+ "title_iast": "evaṁ vārāṇasī puṇyā yadi sūta mahāpurī",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ऋषय ऊचुः एवं वाराणसी पुण्या यदि सूत महापुरी | तत्प्रभावं वदास्माकमविमुक्तस्य च प्रभो",
+   "text_te": "ఋషయ ఊచుః ఏవం వారాణసీ పుణ్యా యది సూత మహాపురీ | తత్ప్రభావం వదాస్మాకమవిముక్తస్య చ ప్రభో",
+   "text_en": "ṛṣaya ūcuḥ evaṁ vārāṇasī puṇyā yadi sūta mahāpurī | tatprabhāvaṁ vadāsmākamavimuktasya ca prabho",
+   "mean_en": "The sages said: 'O Sūta, if Vārāṇasī is indeed such a sacred great city, then, O lord, please tell us of its glory and that of Avimukta.'",
+   "mean_te": "మునులు అన్నారు: 'సూతుడు! వారణాసి ఇంతటి పుణ్య మహానగరమైతే, అయ్యా! దాని మహిమను, అవిముక్త మహిమను మాకు వివరించండి.'"
+  },
+  {
+   "n": 2,
+   "text_deva": "वक्ष्ये संक्षेपतस्सम्यग्वाराणस्यास्सुशोभनम् | विश्वेश्वरस्य माहात्म्यं श्रूयतां च मुनीश्वराः",
+   "text_te": "వక్ష్యే సంక్షేపతస్సమ్యగ్వారాణస్యాస్సుశోభనమ్ | విశ్వేశ్వరస్య మాహాత్మ్యం శ్రూయతాం చ మునీశ్వరాః",
+   "text_en": "vakṣye saṁkṣepatassamyagvārāṇasyāssuśobhanam | viśveśvarasya māhātmyaṁ śrūyatāṁ ca munīśvarāḥ",
+   "mean_en": "'I shall tell you in brief and correctly the beauty of Vārāṇasī; O best of sages, listen to the greatness of Viśveśvara.'",
+   "mean_te": "'నేను సంక్షిప్తంగా, సమ్యక్కా వారణాసి సౌందర్యాన్ని చెబుతాను; మునీశ్వరులారా! విశ్వేశ్వరుని మహిమను ఆలకించండి.'"
+  },
+  {
+   "n": 3,
+   "text_deva": "कदाचित्पार्वती देवी शङ्करं परया मुदा | लोककामनयापृच्छन्माहात्म्यमविमुक्तयोः",
+   "text_te": "కదాచిత్పార్వతీ దేవీ శఙ్కరం పరయా ముదా | లోకకామనయాపృచ్ఛన్మాహాత్మ్యమవిముక్తయోః",
+   "text_en": "kadācitpārvatī devī śaṅkaraṁ parayā mudā | lokakāmanayāpṛcchanmāhātmyamavimuktayoḥ",
+   "mean_en": "Once Pārvatī devī asked Śaṅkara with great delight, out of a wish for the welfare of the worlds, about the greatness of Avimukta.",
+   "mean_te": "ఒకనాడు పార్వతీదేవి పరమానందంతో, లోకకల్యాణ కోరికతో, శివుని (శంకరుని) అవిముక్త మహాత్మ్యం గూర్చి అడిగింది."
+  },
+  {
+   "n": 4,
+   "text_deva": "पार्वत्युवाच अस्य क्षेत्रस्य माहात्म्यं वक्तुमर्हस्य शेषतः | ममोपरि कृपां कृत्वा लोकानां हितकाम्यया",
+   "text_te": "పార్వత్యువాచ అస్య క్షేత్రస్య మాహాత్మ్యం వక్తుమర్హస్య శేషతః | మమోపరి కృపాం కృత్వా లోకానాం హితకామ్యయా",
+   "text_en": "pārvatyuvāca asya kṣetrasya māhātmyaṁ vaktumarhasya śeṣataḥ | mamopari kṛpāṁ kṛtvā lokānāṁ hitakāmyayā",
+   "mean_en": "Pārvatī said: 'Please tell the greatness of this holy land fully, bestowing your grace on me, with the desire to benefit the worlds.'",
+   "mean_te": "పార్వతీదేవి పలికింది: 'ఈ క్షేత్ర మహాత్మ్యాన్ని నాపై కృప చూపి, లోకాల మంగళం కోసం, మిగులు లేకుండా చెప్పండి.'"
+  },
+  {
+   "n": 5,
+   "text_deva": "देव्यास्तद्वचनं श्रुत्वा देवदेवो जगत्प्रभुः | प्रत्युवाच भवानीं तां जीवानां प्रियहेतवे",
+   "text_te": "దేవ్యాస్తద్వచనం శ్రుత్వా దేవదేవో జగత్ప్రభుః | ప్రత్యువాచ భవానీం తాం జీవానాం ప్రియహేతవే",
+   "text_en": "devyāstadvacanaṁ śrutvā devadevo jagatprabhuḥ | pratyuvāca bhavānīṁ tāṁ jīvānāṁ priyahetave",
+   "mean_en": "Hearing the goddess's words, the Lord of gods, master of the world, replied to Bhavānī for the welfare of all living beings.",
+   "mean_te": "దేవి మాటలు విన్న దేవదేవుడు, జగప్రభువు అయిన శివుడు, ప్రాణుల శుభం కోసం భవానీకి సమాధానమిచ్చాడు."
+  },
+  {
+   "n": 6,
+   "text_deva": "साधु पृष्टं त्वया भद्रे लोकानां सुखदं शुभम् | कथयामि यथार्थं वै महा त्म्यमविमुक्तयोः",
+   "text_te": "సాధు పృష్టం త్వయా భద్రే లోకానాం సుఖదం శుభమ్ | కథయామి యథార్థం వై మహా త్మ్యమవిముక్తయోః",
+   "text_en": "sādhu pṛṣṭaṁ tvayā bhadre lokānāṁ sukhadaṁ śubham | kathayāmi yathārthaṁ vai mahā tmyamavimuktayoḥ",
+   "mean_en": "'Well indeed have you asked, O fair one — an auspicious question that brings happiness to the worlds; I shall tell you the truth of the great glory of Avimukta.'",
+   "mean_te": "'శుభమే! లోకాలకు సుఖమిచ్చే మంచి ప్రశ్న అడిగావు చిన్నదానా; అవిముక్త మహాత్మ్యాన్ని యథార్థంగా చెబుతాను.'"
+  },
+  {
+   "n": 7,
+   "text_deva": "इदं गुह्यतमं क्षेत्रं सदा वाराणसी मम | सर्वेषामेव जंतूनां हेतुर्मोक्षस्य सर्वथा",
+   "text_te": "ఇదం గుహ్యతమం క్షేత్రం సదా వారాణసీ మమ | సర్వేషామేవ జంతూనాం హేతుర్మోక్షస్య సర్వథా",
+   "text_en": "idaṁ guhyatamaṁ kṣetraṁ sadā vārāṇasī mama | sarveṣāmeva jaṁtūnāṁ heturmokṣasya sarvathā",
+   "mean_en": "'This is my most secret holy land; Vārāṇasī is always mine; it is in every way the cause of liberation for all creatures.'",
+   "mean_te": "'ఇది నా అత్యంత రహస్య క్షేత్రం; వారణాసి ఎల్లప్పుడూ నాదే; ఇది సమస్త జీవులకూ అన్ని విధాలా మోక్షానికి కారణం.'"
+  },
+  {
+   "n": 8,
+   "text_deva": "अस्मिन्सिद्धास्सदा क्षेत्रे मदीयं व्रतमाश्रिताः | नानालिंगधरा नित्यं मम लोकाभिकांक्षिणः",
+   "text_te": "అస్మిన్సిద్ధాస్సదా క్షేత్రే మదీయం వ్రతమాశ్రితాః | నానాలింగధరా నిత్యం మమ లోకాభికాంక్షిణః",
+   "text_en": "asminsiddhāssadā kṣetre madīyaṁ vratamāśritāḥ | nānāliṁgadharā nityaṁ mama lokābhikāṁkṣiṇaḥ",
+   "mean_en": "'In this sacred land dwell the siddhas who have taken refuge in my vow, bearing various liṅgas and ever longing for my world.'",
+   "mean_te": "'ఈ క్షేత్రంలో నా వ్రతాన్ని ఆశ్రయించిన సిద్ధులు ఎల్లప్పుడూ ఉంటారు; వారు వివిధ లింగాలు ధరించి, నా లోకాన్ని కోరుతూ ఉంటారు.'"
+  },
+  {
+   "n": 9,
+   "text_deva": "अभ्यस्यंति महायोगं जितात्मानो जितेन्द्रियाः | परं पाशुपतं श्रौतं भुक्तिमुक्तिफलप्रदम्",
+   "text_te": "అభ్యస్యంతి మహాయోగం జితాత్మానో జితేన్ద్రియాః | పరం పాశుపతం శ్రౌతం భుక్తిముక్తిఫలప్రదమ్",
+   "text_en": "abhyasyaṁti mahāyogaṁ jitātmāno jitendriyāḥ | paraṁ pāśupataṁ śrautaṁ bhuktimuktiphalapradam",
+   "mean_en": "'They are conquerors of self and senses who practice the great yoga, the supreme Pāśupata vidyā, which bestows both enjoyment and liberation.'",
+   "mean_te": "'ఆత్మను, ఇంద్రియాలను జయించిన వారు మహాయోగాన్ని అభ్యసిస్తారు; భుక్తినీ ముక్తినీ ప్రసాదించే పరమ పాశుపత విద్యను అభ్యసిస్తారు.'"
+  },
+  {
+   "n": 10,
+   "text_deva": "रोचते मे सदा वासो वाराणस्यां महेश्वरि | हेतुना येन सर्वाणि विहाय शृणु तद्ध्रुवम्",
+   "text_te": "రోచతే మే సదా వాసో వారాణస్యాం మహేశ్వరి | హేతునా యేన సర్వాణి విహాయ శృణు తద్ధ్రువమ్",
+   "text_en": "rocate me sadā vāso vārāṇasyāṁ maheśvari | hetunā yena sarvāṇi vihāya śṛṇu taddhruvam",
+   "mean_en": "'I always delight to dwell in Vārāṇasī, O great goddess; hear the certain reason for which I do so, leaving everything else aside.'",
+   "mean_te": "'మహేశ్వరి! నేను ఎల్లప్పుడూ వారణాసిలో నివసించడం ఇష్టపడతాను; అన్నిటినీ విడిచి, అందుకు గల నిశ్చయ కారణాన్ని విను.'"
+  },
+  {
+   "n": 11,
+   "text_deva": "यो मे भक्तश्च विज्ञानी तावुभौ मुक्तिभागिनौ | तीर्थापेक्षा च न तयोर्विहिता विहिते समौ",
+   "text_te": "యో మే భక్తశ్చ విజ్ఞానీ తావుభౌ ముక్తిభాగినౌ | తీర్థాపేక్షా చ న తయోర్విహితా విహితే సమౌ",
+   "text_en": "yo me bhaktaśca vijñānī tāvubhau muktibhāginau | tīrthāpekṣā ca na tayorvihitā vihite samau",
+   "mean_en": "'Whoever is my devotee and whoever is wise — both are entitled to liberation; no pilgrimage is prescribed for them, and they are deemed equal.'",
+   "mean_te": "'నా భక్తుడు గాని, విజ్ఞుడు గాని — వారిరువురూ ముక్తికి అర్హులు; వారికి తీర్థయాత్ర నియమించబడలేదు; ఇరువురినీ సమానులుగా భావిస్తారు.'"
+  },
+  {
+   "n": 12,
+   "text_deva": "जीवन्मुक्तौ तु तौ ज्ञेयौ यत्रकुत्रापि वै मृतौ | प्राप्नुतो मोक्षमाश्वेव मयोक्तं निश्चितं वचः",
+   "text_te": "జీవన్ముక్తౌ తు తౌ జ్ఞేయౌ యత్రకుత్రాపి వై మృతౌ | ప్రాప్నుతో మోక్షమాశ్వేవ మయోక్తం నిశ్చితం వచః",
+   "text_en": "jīvanmuktau tu tau jñeyau yatrakutrāpi vai mṛtau | prāpnuto mokṣamāśveva mayoktaṁ niścitaṁ vacaḥ",
+   "mean_en": "'They are to be known as jīvanmuktas; wherever they die they attain liberation at once — this is my certain word.'",
+   "mean_te": "'వారు జీవన్ముక్తులని తెలుసుకోవాలి; ఎక్కడ మరణించినా క్షణమాత్రంలో మోక్షం పొందుతారు; ఇది నా నిశ్చయమైన మాట.'"
+  },
+  {
+   "n": 13,
+   "text_deva": "अत्र तीर्थे विशेषोस्त्यविमुक्ताख्ये परोत्तमे | श्रूयतां तत्त्वया देवि परशक्ते सुचित्तया",
+   "text_te": "అత్ర తీర్థే విశేషోస్త్యవిముక్తాఖ్యే పరోత్తమే | శ్రూయతాం తత్త్వయా దేవి పరశక్తే సుచిత్తయా",
+   "text_en": "atra tīrthe viśeṣostyavimuktākhye parottame | śrūyatāṁ tattvayā devi paraśakte sucittayā",
+   "mean_en": "'Here is a supremely exalted tīrtha named Avimukta; listen to its truth, O goddess of pure intellect, O supreme Śakti.'",
+   "mean_te": "'అవిముక్త అనే అత్యుత్తమమైన ప్రత్యేక తీర్థం ఇక్కడ ఉంది; దేవీ! పరమశక్తీ! శుద్ధ బుద్ధి కలవాడా! దాని తత్త్వాన్ని ఆలకించు.'"
+  },
+  {
+   "n": 14,
+   "text_deva": "सर्वे वर्णा आश्रमाश्च बालयौवनवार्द्धकाः | अस्यां पुर्यां मृताश्चेत्त्स्युर्मुक्ता एव न संशयः",
+   "text_te": "సర్వే వర్ణా ఆశ్రమాశ్చ బాలయౌవనవార్ద్ధకాః | అస్యాం పుర్యాం మృతాశ్చేత్త్స్యుర్ముక్తా ఏవ న సంశయః",
+   "text_en": "sarve varṇā āśramāśca bālayauvanavārddhakāḥ | asyāṁ puryāṁ mṛtāścettsyurmuktā eva na saṁśayaḥ",
+   "mean_en": "'All varṇas and all āśramas — whether in childhood, youth, or old age — if they die in this city, they are surely liberated; there is no doubt.'",
+   "mean_te": "'అన్ని వర్ణాల వారూ, అన్ని ఆశ్రమాల వారూ — బాల్యంలోనో, యౌవనంలోనో, వార్ధక్యంలోనో ఈ పురంలో మరణిస్తే నిశ్చయంగా ముక్తులవుతారు; సందేహం లేదు.'"
+  },
+  {
+   "n": 15,
+   "text_deva": "अशुचिश्च शुचिर्वापि कन्या परिणता तथा | विधवा वाथ वा वंध्या रजोदोषयुतापि वा",
+   "text_te": "అశుచిశ్చ శుచిర్వాపి కన్యా పరిణతా తథా | విధవా వాథ వా వంధ్యా రజోదోషయుతాపి వా",
+   "text_en": "aśuciśca śucirvāpi kanyā pariṇatā tathā | vidhavā vātha vā vaṁdhyā rajodoṣayutāpi vā",
+   "mean_en": "'Whether impure or pure — be she a maiden, a woman who has attained her husband, a widow, a barren woman, or one affected by the flaw of the menses...'",
+   "mean_te": "'అశుచి అయినా శుచి అయినా — కన్య అయినా, పెళ్ళైనది అయినా, విధవ అయినా, వంధ్య అయినా, ఋతుదోషం ఉన్నది అయినా...'"
+  },
+  {
+   "n": 16,
+   "text_deva": "प्रसूता संस्कृता कापि यादृशी तादृशी द्विजाः | अत्र क्षेत्रे मृता चेत्स्यान्मोक्षभाङ् नात्र संशयः",
+   "text_te": "ప్రసూతా సంస్కృతా కాపి యాదృశీ తాదృశీ ద్విజాః | అత్ర క్షేత్రే మృతా చేత్స్యాన్మోక్షభాఙ్ నాత్ర సంశయః",
+   "text_en": "prasūtā saṁskṛtā kāpi yādṛśī tādṛśī dvijāḥ | atra kṣetre mṛtā cetsyānmokṣabhāṅ nātra saṁśayaḥ",
+   "mean_en": "'...whether she has just given birth or is consecrated, whatever her condition, O twice-born — if she dies in this sacred land she certainly attains liberation; there is no doubt.'",
+   "mean_te": "'...ప్రసవించినది అయినా, సంస్కారవతి అయినా, ఎటువంటిదైనా — ద్విజులారా! ఈ క్షేత్రంలో మరణిస్తే మోక్షం నిశ్చయం; సందేహం లేదు.'"
+  },
+  {
+   "n": 17,
+   "text_deva": "स्वेदजश्चांडजो वापि द्युद्भिज्जोऽथ जरायुजः | मृतो मोक्षमवाप्नोति यथात्र न तथा क्वचित्",
+   "text_te": "స్వేదజశ్చాండజో వాపి ద్యుద్భిజ్జోఽథ జరాయుజః | మృతో మోక్షమవాప్నోతి యథాత్ర న తథా క్వచిత్",
+   "text_en": "svedajaścāṁḍajo vāpi dyudbhijjo'tha jarāyujaḥ | mṛto mokṣamavāpnoti yathātra na tathā kvacit",
+   "mean_en": "'Whether born of sweat, a caṇḍāla, shell-born, or womb-born — one who dies here attains liberation as nowhere else.'",
+   "mean_te": "'చెమటజన్ముడు అయినా, చండాలుడు అయినా, చిప్పలో పుట్టినవాడు అయినా, గర్భజన్ముడు అయినా — ఇక్కడ మరణించినవాడు ఎక్కడా లభించని మోక్షాన్ని పొందుతాడు.'"
+  },
+  {
+   "n": 18,
+   "text_deva": "ज्ञानापेक्षा न चात्रैव भत्तयपेक्षा न वै पुनः | कर्मापेक्षा न देव्यत्र दानापेक्षा न चैव हि",
+   "text_te": "జ్ఞానాపేక్షా న చాత్రైవ భత్తయపేక్షా న వై పునః | కర్మాపేక్షా న దేవ్యత్ర దానాపేక్షా న చైవ హి",
+   "text_en": "jñānāpekṣā na cātraiva bhattayapekṣā na vai punaḥ | karmāpekṣā na devyatra dānāpekṣā na caiva hi",
+   "mean_en": "Here no regard is paid to jnana (knowledge), nor to caste, nor to karma, nor to charity; none of these qualifications is required for liberation at this place.",
+   "mean_te": "ఇక్కడ జ్ఞానానికి సంబంధం లేదు, కులానికి లేదు, కర్మకు లేదు, దానానికి లేదు — ఈ క్షేత్రంలో మోక్షానికి ఏ అర్హతా అవసరం లేదు."
+  },
+  {
+   "n": 19,
+   "text_deva": "संस्कृत्यपेक्षा नैवात्र ध्यानापेक्षा न कर्हिचित् | नामापेक्षार्चनापेक्षा सुजातीनां तथात्र न",
+   "text_te": "సంస్కృత్యపేక్షా నైవాత్ర ధ్యానాపేక్షా న కర్హిచిత్ | నామాపేక్షార్చనాపేక్షా సుజాతీనాం తథాత్ర న",
+   "text_en": "saṁskṛtyapekṣā naivātra dhyānāpekṣā na karhicit | nāmāpekṣārcanāpekṣā sujātīnāṁ tathātra na",
+   "mean_en": "Neither purificatory rites (samskara) are needed here, nor meditation at any time; nor requirements of noble birth, name, or worship ritual apply in this place.",
+   "mean_te": "ఇక్కడ సంస్కారాలు అవసరం లేదు, ధ్యానం అస్సలు అక్కర్లేదు; సజాతి జననం, నామం, పూజా విధానం కూడా ఈ క్షేత్రంలో పరిగణించబడవు."
+  },
+  {
+   "n": 20,
+   "text_deva": "मम क्षेत्रे मोक्षदे हि यो वा वसति मानवः | यथा तथा मृतः स्याच्चेन्मोक्षमाप्नोति निश्चितम्",
+   "text_te": "మమ క్షేత్రే మోక్షదే హి యో వా వసతి మానవః | యథా తథా మృతః స్యాచ్చేన్మోక్షమాప్నోతి నిశ్చితమ్",
+   "text_en": "mama kṣetre mokṣade hi yo vā vasati mānavaḥ | yathā tathā mṛtaḥ syāccenmokṣamāpnoti niścitam",
+   "mean_en": "Whoever lives in my kshetra, the giver of moksha — whether righteous or otherwise — even after death certainly attains liberation.",
+   "mean_te": "మోక్షదాయకమైన నా క్షేత్రంలో ఎవరైనా మానవుడు నివసిస్తే, అతడు మరణించినా నిశ్చయంగా మోక్షాన్ని పొందుతాడు."
+  },
+  {
+   "n": 21,
+   "text_deva": "एतन्मम पुरं दिव्यं गुह्याद्गुह्यतरं प्रिये | ब्रह्मादयोऽपि जानंति माहात्म्यं नास्य पार्वति",
+   "text_te": "ఏతన్మమ పురం దివ్యం గుహ్యాద్గుహ్యతరం ప్రియే | బ్రహ్మాదయోఽపి జానంతి మాహాత్మ్యం నాస్య పార్వతి",
+   "text_en": "etanmama puraṁ divyaṁ guhyādguhyataraṁ priye | brahmādayo'pi jānaṁti māhātmyaṁ nāsya pārvati",
+   "mean_en": "This city of mine is divine and more secret than the secret, O beloved; even Brahma and the gods know its mahatmya, yet its full greatness, O Parvati, is not (fully) known.",
+   "mean_te": "ఇది నా దివ్యమైన పురం, రహస్యాలలో అత్యంత రహస్యం, ప్రియతమా; బ్రహ్మ వంటి దేవతలు కూడా దీని మహత్త్వాన్ని తెలుసుకుంటారు గాని, పార్వతీదేవి, దీని పూర్తి గొప్పదనం తెలియదు."
+  },
+  {
+   "n": 22,
+   "text_deva": "महत्क्षेत्रमिदं तस्मादविमुक्तमिति स्मृतम् | सर्वेभ्यो नैमिषादिभ्यः परं मोक्षप्रदं मृते",
+   "text_te": "మహత్క్షేత్రమిదం తస్మాదవిముక్తమితి స్మృతమ్ | సర్వేభ్యో నైమిషాదిభ్యః పరం మోక్షప్రదం మృతే",
+   "text_en": "mahatkṣetramidaṁ tasmādavimuktamiti smṛtam | sarvebhyo naimiṣādibhyaḥ paraṁ mokṣapradaṁ mṛte",
+   "mean_en": "Therefore this great kshetra is remembered as Avimukta; it is superior to all kshetras like Naimisha in bestowing moksha.",
+   "mean_te": "కాబట్టి ఈ మహా క్షేత్రం 'అవిముక్తం' అని స్మరించబడుతుంది; ఇది నైమిషాది క్షేత్రాల కంటే మోక్షప్రదంగా శ్రేష్ఠమైనది."
+  },
+  {
+   "n": 23,
+   "text_deva": "धर्मस्योपनिषत्सत्यं मोक्षस्योपनिषत्समम् | क्षेत्रतीर्थोपनिषदमविमुक्तं विदुर्बुधाः",
+   "text_te": "ధర్మస్యోపనిషత్సత్యం మోక్షస్యోపనిషత్సమమ్ | క్షేత్రతీర్థోపనిషదమవిముక్తం విదుర్బుధాః",
+   "text_en": "dharmasyopaniṣatsatyaṁ mokṣasyopaniṣatsamam | kṣetratīrthopaniṣadamavimuktaṁ vidurbudhāḥ",
+   "mean_en": "It is the Upanishad of dharma, truly the Upanishad of moksha; the wise know Avimukta as the Upanishad of kshetra and tirtha.",
+   "mean_te": "ఇది ధర్మానికి ఉపనిషత్తు, నిజంగా మోక్షానికి ఉపనిషత్తు; క్షేత్ర-తీర్థ ఉపనిషత్తుగా అవిముక్తాన్ని జ్ఞానులు ఎరుగదీశారు."
+  },
+  {
+   "n": 24,
+   "text_deva": "कामं भुंजन्स्वपन्क्रीडन्कुर्वन्हि विविधाः क्रियाः | अविमुक्ते त्यजन्प्राणाञ्जंतुर्मोक्षाय कल्पते",
+   "text_te": "కామం భుంజన్స్వపన్క్రీడన్కుర్వన్హి వివిధాః క్రియాః | అవిముక్తే త్యజన్ప్రాణాఞ్జంతుర్మోక్షాయ కల్పతే",
+   "text_en": "kāmaṁ bhuṁjansvapankrīḍankurvanhi vividhāḥ kriyāḥ | avimukte tyajanprāṇāñjaṁturmokṣāya kalpate",
+   "mean_en": "Even one who eats, sleeps, and plays as he pleases, performing various worldly activities, if he gives up his breath (dies) in Avimukta, he becomes fit for liberation.",
+   "mean_te": "తిని, పడుకుని, విహరిస్తూ, అనేక విధాలైన క్రియలు చేసినా, అవిముక్తలో ప్రాణాలు విడిచిన వాడు మోక్షానికి అర్హుడవుతాడు."
+  },
+  {
+   "n": 25,
+   "text_deva": "कृत्वा पापसहस्राणि पिशाचत्वं वरं नृणाम् | न च क्रतुसहस्रत्वं स्वर्गे काशीं पुरीं विना",
+   "text_te": "కృత్వా పాపసహస్రాణి పిశాచత్వం వరం నృణామ్ | న చ క్రతుసహస్రత్వం స్వర్గే కాశీం పురీం వినా",
+   "text_en": "kṛtvā pāpasahasrāṇi piśācatvaṁ varaṁ nṛṇām | na ca kratusahasratvaṁ svarge kāśīṁ purīṁ vinā",
+   "mean_en": "A person who commits thousands of sins and even becomes a pisacha (ghost) attains a better state than one who performs a thousand sacrifices without (dying in) the city of Kashi.",
+   "mean_te": "వేల పాపాలు చేసి పిశాచి అయినవాడు, కాశీ పురి లేకుండా వేల యజ్ఞాలు చేసినవాడి కంటే శ్రేష్ఠ గతిని పొందుతాడు."
+  },
+  {
+   "n": 26,
+   "text_deva": "तस्मात्सर्वप्रयत्नेन सेव्यते काशिका पुरी | अव्यक्तलिंगं मुनिभिर्ध्यायते च सदाशिवः",
+   "text_te": "తస్మాత్సర్వప్రయత్నేన సేవ్యతే కాశికా పురీ | అవ్యక్తలింగం మునిభిర్ధ్యాయతే చ సదాశివః",
+   "text_en": "tasmātsarvaprayatnena sevyate kāśikā purī | avyaktaliṁgaṁ munibhirdhyāyate ca sadāśivaḥ",
+   "mean_en": "Therefore, by all efforts, the city of Kashi must be served; the avyakta-linga, Sadashiva, is meditated upon by the munis.",
+   "mean_te": "కాబట్టి, అన్ని ప్రయత్నాలతో కాశీ పురి సేవించబడాలి; అవ్యక్త లింగమైన సదాశివుడు మునుల చేత సదా ధ్యానించబడతాడు."
+  },
+  {
+   "n": 27,
+   "text_deva": "यद्यत्फलं समुद्दिश्य तपन्त्यत्र नरः प्रिये | तेभ्यश्चाहं प्रय च्छामि सम्यक्तत्तत्फलं धुवम्",
+   "text_te": "యద్యత్ఫలం సముద్దిశ్య తపన్త్యత్ర నరః ప్రియే | తేభ్యశ్చాహం ప్రయ చ్ఛామి సమ్యక్తత్తత్ఫలం ధువమ్",
+   "text_en": "yadyatphalaṁ samuddiśya tapantyatra naraḥ priye | tebhyaścāhaṁ praya cchāmi samyaktattatphalaṁ dhuvam",
+   "mean_en": "Whatever fruit people aspire to by performing austerities here, O beloved, I grant them that very fruit, permanent and in full.",
+   "mean_te": "ప్రియతమా, ఇక్కడ తపస్సు చేసి ఏ ఫలాన్ని కోరుకుంటారో, ఆ ఫలాన్నే నేను వారికి శాశ్వతంగా, పూర్తిగా ప్రసాదిస్తాను."
+  },
+  {
+   "n": 28,
+   "text_deva": "सायुज्यमात्मनः पश्चादीप्सितं स्थानमेव च | न कुतश्चित्कर्मबंधस्त्यजतामत्र वै तनुम्",
+   "text_te": "సాయుజ్యమాత్మనః పశ్చాదీప్సితం స్థానమేవ చ | న కుతశ్చిత్కర్మబంధస్త్యజతామత్ర వై తనుమ్",
+   "text_en": "sāyujyamātmanaḥ paścādīpsitaṁ sthānameva ca | na kutaścitkarmabaṁdhastyajatāmatra vai tanum",
+   "mean_en": "After (granting) the desired fruits, I bestow my own sayujya (union) and the cherished supreme abode; here the bondage of karma does not bind the body that is cast off.",
+   "mean_te": "ఇష్టమైన ఫలాలు ఇచ్చిన తర్వాత నా సాయుజ్యాన్ని, కోరిన పరమ స్థానాన్ని కూడా ప్రసాదిస్తాను; ఇక్కడ కర్మబంధం విడిచిన శరీరాన్ని ఏ మాత్రం బంధించదు."
+  },
+  {
+   "n": 29,
+   "text_deva": "ब्रह्मा देवर्षिभिस्सार्द्धं विष्णुर्वापि दिवाकरः | उपासते महात्मानस्सर्वे मामिह चापरे",
+   "text_te": "బ్రహ్మా దేవర్షిభిస్సార్ద్ధం విష్ణుర్వాపి దివాకరః | ఉపాసతే మహాత్మానస్సర్వే మామిహ చాపరే",
+   "text_en": "brahmā devarṣibhissārddhaṁ viṣṇurvāpi divākaraḥ | upāsate mahātmānassarve māmiha cāpare",
+   "mean_en": "Brahma along with the divine rishis, Vishnu, and the sun-god Divakara — all these great souls worship me here; other devotees too worship me here.",
+   "mean_te": "బ్రహ్మ దేవుడు దేవర్షులతో కలిసి, విష్ణువు, దివాకరుడైన సూర్యుడు — ఈ మహాత్ములందరూ ఇక్కడ నన్ను ఆరాధిస్తారు; ఇతర భక్తులు కూడా ఇక్కడే నన్ను పూజిస్తారు."
+  },
+  {
+   "n": 30,
+   "text_deva": "विषयासक्तचित्तोऽपि त्यक्त धर्मरुचिर्नरः | इह क्षेत्रे मृतो यो वै संसारं न पुनर्विशेत्",
+   "text_te": "విషయాసక్తచిత్తోఽపి త్యక్త ధర్మరుచిర్నరః | ఇహ క్షేత్రే మృతో యో వై సంసారం న పునర్విశేత్",
+   "text_en": "viṣayāsaktacitto'pi tyakta dharmarucirnaraḥ | iha kṣetre mṛto yo vai saṁsāraṁ na punarviśet",
+   "mean_en": "Even one whose mind is attached to sense objects and who has lost relish for dharma, if he dies in this kshetra, does not enter samsara again.",
+   "mean_te": "విషయాలపై ఆసక్తి గలవాడైనా, ధర్మంపై రుచి లేనివాడైనా, ఈ క్షేత్రంలో మరణిస్తే సంసారంలో మళ్లీ ప్రవేశించడు."
+  },
+  {
+   "n": 31,
+   "text_deva": "किं पुनर्निर्ममा धीरासत्त्वस्था दंभवर्जिताः | कृतिनश्च निरारंभास्सर्वे ते मयि भाविताः",
+   "text_te": "కిం పునర్నిర్మమా ధీరాసత్త్వస్థా దంభవర్జితాః | కృతినశ్చ నిరారంభాస్సర్వే తే మయి భావితాః",
+   "text_en": "kiṁ punarnirmamā dhīrāsattvasthā daṁbhavarjitāḥ | kṛtinaśca nirāraṁbhāssarve te mayi bhāvitāḥ",
+   "mean_en": "What then of the wise who are without attachment, established in sattva, free from ostentation, meritorious, and non-covetous — all such are ever held in me.",
+   "mean_te": "అలాంటప్పుడు మమకారం లేని, సత్వగుణంలో స్థిరమైన, ఆడంబరం లేని, పుణ్యాత్ములైన, అహింసాత్మకులైన జ్ఞానులందరూ నాలో సదా లీనమై ఉంటారు."
+  },
+  {
+   "n": 32,
+   "text_deva": "जन्मांतरसहस्रेषु जन्म योगी समाप्नुयात् | तदिहैव परं मोक्षं मरणादधिगच्छति",
+   "text_te": "జన్మాంతరసహస్రేషు జన్మ యోగీ సమాప్నుయాత్ | తదిహైవ పరం మోక్షం మరణాదధిగచ్ఛతి",
+   "text_en": "janmāṁtarasahasreṣu janma yogī samāpnuyāt | tadihaiva paraṁ mokṣaṁ maraṇādadhigacchati",
+   "mean_en": "After thousands of births, when a yogi finally attains birth (in this kshetra), he achieves here itself, at the time of death, the supreme liberation.",
+   "mean_te": "వేల జన్మల తర్వాత యోగి జన్మ పొందినప్పుడు (ఈ క్షేత్రంలో), అతడు మరణ సమయంలోనే ఇక్కడే పరమ మోక్షాన్ని పొందుతాడు."
+  },
+  {
+   "n": 33,
+   "text_deva": "अत्र लिंगान्यनेकानि भक्तैस्संस्थापितानि हि | सर्वकामप्रदानीह मोक्षदानि च पार्वति",
+   "text_te": "అత్ర లింగాన్యనేకాని భక్తైస్సంస్థాపితాని హి | సర్వకామప్రదానీహ మోక్షదాని చ పార్వతి",
+   "text_en": "atra liṁgānyanekāni bhaktaissaṁsthāpitāni hi | sarvakāmapradānīha mokṣadāni ca pārvati",
+   "mean_en": "Here many lingas have been established by devotees; they bestow all desired objects and grant liberation too, O Parvati.",
+   "mean_te": "ఇక్కడ భక్తుల చేత అనేక లింగాలు ప్రతిష్ఠాపించబడ్డాయి; అవి సమస్త కామనలను ఇచ్చి, పార్వతీదేవి, మోక్షాన్ని కూడా ప్రసాదిస్తాయి."
+  },
+  {
+   "n": 34,
+   "text_deva": "पंचक्रोशं चतुर्दिक्षु क्षेत्रमेतत्प्रकीर्तितम् | समंताच्च तथा जंतोर्मृतिकालेऽमृतप्रदम्",
+   "text_te": "పంచక్రోశం చతుర్దిక్షు క్షేత్రమేతత్ప్రకీర్తితమ్ | సమంతాచ్చ తథా జంతోర్మృతికాలేఽమృతప్రదమ్",
+   "text_en": "paṁcakrośaṁ caturdikṣu kṣetrametatprakīrtitam | samaṁtācca tathā jaṁtormṛtikāle'mṛtapradam",
+   "mean_en": "This kshetra extends five kroshas in the four directions and is glorified as such; at the time of death of even a moving creature (jantu), it grants immortality.",
+   "mean_te": "ఈ క్షేత్రం నాలుగు దిక్కులా ఐదు క్రోశాలు విస్తరించి సమానంగా కీర్తించబడుతుంది; చరాచర జీవుడైనా మరణ సమయంలో అమృతత్వాన్ని ప్రసాదిస్తుంది."
+  },
+  {
+   "n": 35,
+   "text_deva": "अपापश्च मृतो यो वै सद्यो मोक्षं समश्नुते | सपापश्च मृतौ यस्स्यात्कायव्यूहान्समश्नुते",
+   "text_te": "అపాపశ్చ మృతో యో వై సద్యో మోక్షం సమశ్నుతే | సపాపశ్చ మృతౌ యస్స్యాత్కాయవ్యూహాన్సమశ్నుతే",
+   "text_en": "apāpaśca mṛto yo vai sadyo mokṣaṁ samaśnute | sapāpaśca mṛtau yassyātkāyavyūhānsamaśnute",
+   "mean_en": "A man who dies free of sin attains liberation at once, while one who dies with sins obtains it only after passing through an array of successive bodies.",
+   "mean_te": "పాపం లేకుండా మరణించినవాడు వెంటనే మోక్షాన్ని పొందుతాడు; పాపంతో మరణించినవాడు అనేక దేహాల వరుసను అనుభవించిన తర్వాతే మోక్షాన్ని పొందుతాడు."
+  },
+  {
+   "n": 36,
+   "text_deva": "यातनां सोनुभूयैव पश्चान्मोक्षमवाप्नुयात् | पातकं योऽविमुक्ताख्ये क्षेत्रेऽस्मिन्कुरुते ध्रुवम्",
+   "text_te": "యాతనాం సోనుభూయైవ పశ్చాన్మోక్షమవాప్నుయాత్ | పాతకం యోఽవిముక్తాఖ్యే క్షేత్రేఽస్మిన్కురుతే ధ్రువమ్",
+   "text_en": "yātanāṁ sonubhūyaiva paścānmokṣamavāpnuyāt | pātakaṁ yo'vimuktākhye kṣetre'sminkurute dhruvam",
+   "mean_en": "Having endured that torment he later attains liberation; but whoever commits sin in this sacred field named Avimukta (Kashi) is certain to face the consequence.",
+   "mean_te": "ఆ యాతనలను అనుభవించిన తర్వాత అతడు తరువాత మోక్షాన్ని పొందుతాడు; కానీ అవిముక్త (కాశీ) అనే ఈ పుణ్యక్షేత్రంలో ఎవరైనా పాపం చేస్తే అతడు తప్పకుండా దాని ఫలితాన్ని ఎదుర్కొంటాడు."
+  },
+  {
+   "n": 37,
+   "text_deva": "भैरवीं यातनां प्राप्य वर्षाणामयुते पुनः | ततो मोक्षमवाप्नोति भुक्त्वा पापं च सुन्दरि",
+   "text_te": "భైరవీం యాతనాం ప్రాప్య వర్షాణామయుతే పునః | తతో మోక్షమవాప్నోతి భుక్త్వా పాపం చ సున్దరి",
+   "text_en": "bhairavīṁ yātanāṁ prāpya varṣāṇāmayute punaḥ | tato mokṣamavāpnoti bhuktvā pāpaṁ ca sundari",
+   "mean_en": "He suffers terrible (bhairava) torments for ten thousand years, and after enjoying the fruit of his sin he then obtains liberation, O beautiful one (Parvati).",
+   "mean_te": "అతడు పదివేల సంవత్సరాలు భైరవమైన యాతనలను పొంది, పాపఫలాన్ని అనుభవించిన పిమ్మట మోక్షాన్ని పొందుతాడు, ఓ సుందరి (పార్వతీదేవి)."
+  },
+  {
+   "n": 38,
+   "text_deva": "इति ते च समाख्याता पापाचारे च या गतिः | एवं ज्ञात्वा नरस्सम्यक्सेवयेदविमुक्तकम्",
+   "text_te": "ఇతి తే చ సమాఖ్యాతా పాపాచారే చ యా గతిః | ఏవం జ్ఞాత్వా నరస్సమ్యక్సేవయేదవిముక్తకమ్",
+   "text_en": "iti te ca samākhyātā pāpācāre ca yā gatiḥ | evaṁ jñātvā narassamyaksevayedavimuktakam",
+   "mean_en": "Thus the destiny of those who pursue sinful conduct has been described to you; knowing this, a man should devoutly worship Avimukta (Kashi).",
+   "mean_te": "పాపాచరణ చేసేవారి గతి ఇలా నీకు వివరించబడింది; ఇది తెలుసుకున్న మనిషి అవిముక్త (కాశీ) క్షేత్రాన్ని భక్తితో సేవించాలి."
+  },
+  {
+   "n": 39,
+   "text_deva": "कृतकर्मक्षयो नास्ति कल्पकोटिशतैरपि | अवश्यमेव भोक्तव्यं कृतं कर्म शुभाशुभम्",
+   "text_te": "కృతకర్మక్షయో నాస్తి కల్పకోటిశతైరపి | అవశ్యమేవ భోక్తవ్యం కృతం కర్మ శుభాశుభమ్",
+   "text_en": "kṛtakarmakṣayo nāsti kalpakoṭiśatairapi | avaśyameva bhoktavyaṁ kṛtaṁ karma śubhāśubham",
+   "mean_en": "Done karma, whether auspicious or inauspicious, is not exhausted even in hundreds of crores of kalpas; it must inevitably be experienced.",
+   "mean_te": "చేసిన కర్మ శుభమైనా అశుభమైనా కోటి కల్పాల వందలలో కూడా క్షయించదు; అది తప్పనిసరిగా అనుభవించబడాల్సిందే."
+  },
+  {
+   "n": 40,
+   "text_deva": "केवलं चाशुभं कर्म नरकाय भवेदिह | शुभं स्वर्गाय जायेत द्वाभ्यां मानुष्यमीरितम्",
+   "text_te": "కేవలం చాశుభం కర్మ నరకాయ భవేదిహ | శుభం స్వర్గాయ జాయేత ద్వాభ్యాం మానుష్యమీరితమ్",
+   "text_en": "kevalaṁ cāśubhaṁ karma narakāya bhavediha | śubhaṁ svargāya jāyeta dvābhyāṁ mānuṣyamīritam",
+   "mean_en": "Here, purely sinful karma leads to hell and meritorious karma results in heaven; human birth is said to arise from a blend of the two.",
+   "mean_te": "కేవలం అశుభకర్మ నరకానికి దారితీస్తుంది; పుణ్యకర్మ స్వర్గాన్నిస్తుంది; మానవ జన్మ ఈ రెండింటి కలయిక వల్ల వస్తుందని చెప్పబడింది."
+  },
+  {
+   "n": 41,
+   "text_deva": "जन्म सम्यगसम्यक् च न्यूनाधिक्ये भवेदिह | उभयोश्च क्षयो मुक्तिर्भवेत्सत्यं हि पार्वति",
+   "text_te": "జన్మ సమ్యగసమ్యక్ చ న్యూనాధిక్యే భవేదిహ | ఉభయోశ్చ క్షయో ముక్తిర్భవేత్సత్యం హి పార్వతి",
+   "text_en": "janma samyagasamyak ca nyūnādhikye bhavediha | ubhayośca kṣayo muktirbhavetsatyaṁ hi pārvati",
+   "mean_en": "Birth occurs according as merit or demerit is less or more; when both are exhausted, liberation truly results, O Parvati.",
+   "mean_te": "పుణ్యపాపాలు తక్కువ ఎక్కువగా ఉన్న దాన్ని బట్టి ఇక్కడ జన్మ సంభవిస్తుంది; రెండూ క్షయించగానే ముక్తి కలుగుతుంది — ఇది నిజమే, ఓ పార్వతీదేవి."
+  },
+  {
+   "n": 42,
+   "text_deva": "कर्म च त्रिविधं प्रोक्तं कर्मकाण्डे महेश्वरि | संचितं क्रियमाणं च प्रारब्धं चेति बंधकृत्",
+   "text_te": "కర్మ చ త్రివిధం ప్రోక్తం కర్మకాణ్డే మహేశ్వరి | సంచితం క్రియమాణం చ ప్రారబ్ధం చేతి బంధకృత్",
+   "text_en": "karma ca trividhaṁ proktaṁ karmakāṇḍe maheśvari | saṁcitaṁ kriyamāṇaṁ ca prārabdhaṁ ceti baṁdhakṛt",
+   "mean_en": "In the karmakanda karma is said to be threefold — accumulated (sanchita), current (kriyamana), and begun (prarabdha) — and these cause bondage, O Maheshvari.",
+   "mean_te": "కర్మకాండంలో కర్మ మూడు విధాలుగా చెప్పబడింది — సంచితం, క్రియమాణం, ప్రారబ్ధం — ఇవే బంధానికి కారణం, ఓ మహేశ్వరి."
+  },
+  {
+   "n": 43,
+   "text_deva": "पूर्वजन्मसमुद्भूतं संचितं समुदाहृतम् | भुज्यते च शरीरेण प्रारब्धं परिकीर्तितम्",
+   "text_te": "పూర్వజన్మసముద్భూతం సంచితం సముదాహృతమ్ | భుజ్యతే చ శరీరేణ ప్రారబ్ధం పరికీర్తితమ్",
+   "text_en": "pūrvajanmasamudbhūtaṁ saṁcitaṁ samudāhṛtam | bhujyate ca śarīreṇa prārabdhaṁ parikīrtitam",
+   "mean_en": "The karma born of past lives is called sanchita; that which is being experienced through the body is renowned as prarabdha.",
+   "mean_te": "పూర్వజన్మలలో పుట్టిన కర్మను సంచితం అంటారు; శరీరంతో అనుభవించబడేది ప్రారబ్ధం అని ప్రసిద్ధి."
+  },
+  {
+   "n": 44,
+   "text_deva": "जन्मना यच्च क्रियते कर्म सांप्रतम् | शुभाशुभं च देवेशि क्रियमाणं विदुर्बुधाः",
+   "text_te": "జన్మనా యచ్చ క్రియతే కర్మ సాంప్రతమ్ | శుభాశుభం చ దేవేశి క్రియమాణం విదుర్బుధాః",
+   "text_en": "janmanā yacca kriyate karma sāṁpratam | śubhāśubhaṁ ca deveśi kriyamāṇaṁ vidurbudhāḥ",
+   "mean_en": "The karma, good or bad, that is being performed in the present birth — the wise know it as kriyamana, O Deveshi.",
+   "mean_te": "ఈ జన్మలో ప్రస్తుతం చేసే శుభాశుభ కర్మలను క్రియమాణం అని జ్ఞానులు తెలుసుకుంటారు, ఓ దేవేశి."
+  },
+  {
+   "n": 45,
+   "text_deva": "प्रारब्धकर्मणो भोगात्क्षयश्चैव चान्यथा | उपायेन द्वयोर्नाशः कर्मणोः पूजनादिना",
+   "text_te": "ప్రారబ్ధకర్మణో భోగాత్క్షయశ్చైవ చాన్యథా | ఉపాయేన ద్వయోర్నాశః కర్మణోః పూజనాదినా",
+   "text_en": "prārabdhakarmaṇo bhogātkṣayaścaiva cānyathā | upāyena dvayornāśaḥ karmaṇoḥ pūjanādinā",
+   "mean_en": "Prarabdha karma is exhausted only through being experienced, never otherwise; the other two karmas are destroyed by means such as worship of the Lord.",
+   "mean_te": "ప్రారబ్ధ కర్మ అనుభవం ద్వారా మాత్రమే క్షయిస్తుంది కానీ వేరే విధంగా కాదు; మిగతా రెండు కర్మలు భగవత్ పూజ వంటి ఉపాయాల వల్ల నశిస్తాయి."
+  },
+  {
+   "n": 46,
+   "text_deva": "सर्वेषां कर्मणां नाशो नास्ति काशीं पुरीं विना | सर्वं च सुलभं तीर्थं दुर्ल्लभा काशिका पुरी",
+   "text_te": "సర్వేషాం కర్మణాం నాశో నాస్తి కాశీం పురీం వినా | సర్వం చ సులభం తీర్థం దుర్ల్లభా కాశికా పురీ",
+   "text_en": "sarveṣāṁ karmaṇāṁ nāśo nāsti kāśīṁ purīṁ vinā | sarvaṁ ca sulabhaṁ tīrthaṁ durllabhā kāśikā purī",
+   "mean_en": "Without the city of Kashi there is no destruction of all karmas; every other tirtha is easily accessible, but the city of Kashi is hard to obtain.",
+   "mean_te": "కాశీ పురి లేకుండా సమస్త కర్మల నాశనం లేదు; అన్ని తీర్థాలూ సులభంగా లభిస్తాయి, కానీ కాశీ పురి మాత్రం అరుదుగా లభిస్తుంది."
+  },
+  {
+   "n": 47,
+   "text_deva": "पूर्वजन्मकृतं चेद्वै काशीदर्शनमादरात् | तदा काशीं च संप्राप्य लभेन्मृत्युं न चान्यथा",
+   "text_te": "పూర్వజన్మకృతం చేద్వై కాశీదర్శనమాదరాత్ | తదా కాశీం చ సంప్రాప్య లభేన్మృత్యుం న చాన్యథా",
+   "text_en": "pūrvajanmakṛtaṁ cedvai kāśīdarśanamādarāt | tadā kāśīṁ ca saṁprāpya labhenmṛtyuṁ na cānyathā",
+   "mean_en": "Only if one has reverently beheld Kashi in a previous life does one reach Kashi and attain (liberating) death there; not otherwise.",
+   "mean_te": "పూర్వజన్మలో గౌరవంగా కాశీ దర్శనం చేసి ఉంటేనే ఈ జన్మలో కాశీని చేరి అక్కడ (మోక్షదాయకమైన) మరణాన్ని పొందగలడు; లేదా కాదు."
+  },
+  {
+   "n": 48,
+   "text_deva": "काशीं प्राप्य नरो यस्तु गंगायां स्नानमाचरेत् | तदा च क्रियमाणस्य संचितस्यापि संक्षयः",
+   "text_te": "కాశీం ప్రాప్య నరో యస్తు గంగాయాం స్నానమాచరేత్ | తదా చ క్రియమాణస్య సంచితస్యాపి సంక్షయః",
+   "text_en": "kāśīṁ prāpya naro yastu gaṁgāyāṁ snānamācaret | tadā ca kriyamāṇasya saṁcitasyāpi saṁkṣayaḥ",
+   "mean_en": "When a man reaches Kashi and bathes in the Ganga, then even his kriyamana and sanchita karmas begin to dissolve.",
+   "mean_te": "ఎవరైనా మనిషి కాశీని చేరి గంగలో స్నానం చేస్తే, అప్పుడు అతని క్రియమాణ, సంచిత కర్మలు కూడా క్షయిస్తాయి."
+  },
+  {
+   "n": 49,
+   "text_deva": "प्रारब्धं न विना भोगो नश्य तीति सुनिश्चितम् | मृतिश्च तस्य संजाता तदा तस्य क्षयो भवेत्",
+   "text_te": "ప్రారబ్ధం న వినా భోగో నశ్య తీతి సునిశ్చితమ్ | మృతిశ్చ తస్య సంజాతా తదా తస్య క్షయో భవేత్",
+   "text_en": "prārabdhaṁ na vinā bhogo naśya tīti suniścitam | mṛtiśca tasya saṁjātā tadā tasya kṣayo bhavet",
+   "mean_en": "It is most certain that prarabdha is not destroyed without being experienced; when death comes to him (in Kashi), then that karma too is exhausted.",
+   "mean_te": "ప్రారబ్ధం అనుభవించకుండా నశించదని సునిశ్చితం; అతనికి (కాశీలో) మరణం సంభవించినప్పుడు అతని ప్రారబ్ధం కూడా క్షయిస్తుంది."
+  },
+  {
+   "n": 50,
+   "text_deva": "पूर्वं चैव कृता काशी पश्चात्पापं समाचरेत् | तद्बीजेन बलवता नीयते काशिका पुनः",
+   "text_te": "పూర్వం చైవ కృతా కాశీ పశ్చాత్పాపం సమాచరేత్ | తద్బీజేన బలవతా నీయతే కాశికా పునః",
+   "text_en": "pūrvaṁ caiva kṛtā kāśī paścātpāpaṁ samācaret | tadbījena balavatā nīyate kāśikā punaḥ",
+   "mean_en": "If one first beheld Kashi and afterwards commits sin, by the strength of that seed he is again led to Kashi.",
+   "mean_te": "ముందుగా కాశీ దర్శనం చేసి, తర్వాత పాపం చేసినా, ఆ విత్తు (బీజం) బలంతో అతడు మళ్ళీ కాశీకి చేర్చబడతాడు."
+  },
+  {
+   "n": 51,
+   "text_deva": "तदा सर्वाणि पापानि भस्मसाच्च भवंति हि | तस्मात्काशीं नरस्सेवेत्कर्मनिर्मूलनीं ध्रुवम्",
+   "text_te": "తదా సర్వాణి పాపాని భస్మసాచ్చ భవంతి హి | తస్మాత్కాశీం నరస్సేవేత్కర్మనిర్మూలనీం ధ్రువమ్",
+   "text_en": "tadā sarvāṇi pāpāni bhasmasācca bhavaṁti hi | tasmātkāśīṁ narassevetkarmanirmūlanīṁ dhruvam",
+   "mean_en": "Then all his sins are reduced to ashes; therefore a man should worship Kashi, which is the sure uprooter of all karma.",
+   "mean_te": "అప్పుడు అతని సమస్త పాపాలు భస్మమవుతాయి; కావున కర్మలను పెకిలించేది అయిన కాశీని మనిషి సేవించాలి — ఇది నిశ్చయం."
+  },
+  {
+   "n": 52,
+   "text_deva": "एकोऽपि ब्राह्मणो येन काश्यां संवासितः प्रिये | काशीवासमवाप्यैव ततो मुक्तिं स विंदति",
+   "text_te": "ఏకోఽపి బ్రాహ్మణో యేన కాశ్యాం సంవాసితః ప్రియే | కాశీవాసమవాప్యైవ తతో ముక్తిం స విందతి",
+   "text_en": "eko'pi brāhmaṇo yena kāśyāṁ saṁvāsitaḥ priye | kāśīvāsamavāpyaiva tato muktiṁ sa viṁdati",
+   "mean_en": "Even a single brahmana, once made to reside in Kashi, attains Kashi-vasa; dwelling there, he surely obtains liberation. O beloved one, such is the power of that sacred city.",
+   "mean_te": "ఒక్క బ్రాహ్మణుడే అయినా కాశీలో నివసింపబడినట్లైతే, ఆ కాశీవాసం పొందిన తరువాత అతడు ఖచ్చితంగా మోక్షాన్ని పొందుతాడు. అలాంటి అద్భుత శక్తి ఆ పవిత్ర క్షేత్రానిది, ప్రియమైనవాడా!"
+  },
+  {
+   "n": 53,
+   "text_deva": "काश्यां यो वै मृतश्चैव तस्य जन्म पुनर्नहि | समुद्दिश्य प्रयागे च मृतस्य कामनाफले",
+   "text_te": "కాశ్యాం యో వై మృతశ్చైవ తస్య జన్మ పునర్నహి | సముద్దిశ్య ప్రయాగే చ మృతస్య కామనాఫలే",
+   "text_en": "kāśyāṁ yo vai mṛtaścaiva tasya janma punarnahi | samuddiśya prayāge ca mṛtasya kāmanāphale",
+   "mean_en": "One who dies in Kashi is never born again. And one who dies at Prayaga with Kashi as the intended goal reaps the fruit of that desire.",
+   "mean_te": "కాశీలో మరణించినవాడు మళ్ళీ పుట్టడు. అలాగే కాశీని లక్ష్యంగా చేసుకుని ప్రయాగలో మరణించినవానికి ఆ కోరిక ఫలిస్తుంది."
+  },
+  {
+   "n": 54,
+   "text_deva": "संयोगश्च तयोश्चेत्स्यात्काशीजन्यफलं वृथा | यदि न स्यात्तयोर्योगस्तीर्थराजफलं वृथा",
+   "text_te": "సంయోగశ్చ తయోశ్చేత్స్యాత్కాశీజన్యఫలం వృథా | యది న స్యాత్తయోర్యోగస్తీర్థరాజఫలం వృథా",
+   "text_en": "saṁyogaśca tayoścetsyātkāśījanyaphalaṁ vṛthā | yadi na syāttayoryogastīrtharājaphalaṁ vṛthā",
+   "mean_en": "The union of these two tirthas — death at Prayaga with the mind fixed on Kashi — alone yields the fruit born of Kashi; otherwise that fruit is wasted. Without such union, even the fruit of the king of tirthas (Prayaga) comes to naught.",
+   "mean_te": "ప్రయాగలో మరణించి, మనసులో కాశీని ఆశ్రయించడమే ఈ రెండు తీర్థాల సంయోగం; అది లేకుంటే కాశీజన్య ఫలం వృథా అవుతుంది. ఆ యోగం లేని చోట తీర్థరాజమైన ప్రయాగ ఫలం కూడా వృథా."
+  },
+  {
+   "n": 55,
+   "text_deva": "तस्मान्मच्छासनाद्विष्णुस्सृष्टिं साक्षाद्धि नूतनाम् | विधाय मनसोद्दिष्टां तत्सिद्धिं यच्छति ध्रुवम्",
+   "text_te": "తస్మాన్మచ్ఛాసనాద్విష్ణుస్సృష్టిం సాక్షాద్ధి నూతనామ్ | విధాయ మనసోద్దిష్టాం తత్సిద్ధిం యచ్ఛతి ధ్రువమ్",
+   "text_en": "tasmānmacchāsanādviṣṇussṛṣṭiṁ sākṣāddhi nūtanām | vidhāya manasoddiṣṭāṁ tatsiddhiṁ yacchati dhruvam",
+   "mean_en": "Therefore Vishnu, seated on the lap of Shiva, directly created a new creation, envisaged in his mind, and firmly grants the siddhi (attainment of Kashi-vasa and liberation) thereof.",
+   "mean_te": "కాబట్టి శివుని ఒడిలో ఆసీనుడైన విష్ణువు మనసులో నిర్ణయించిన నూతన సృష్టిని ప్రత్యక్షంగా చేసి, దాని సిద్ధిని (కాశీవాస, మోక్ష సిద్ధిని) స్థిరంగా ప్రసాదిస్తాడు."
+  },
+  {
+   "n": 56,
+   "text_deva": "इत्यादि बहुमाहात्म्यं काश्यां वै मुनिसत्तमाः | तथा विश्वेश्वरस्यापि भुक्तिमुक्तिप्रदं सताम्",
+   "text_te": "ఇత్యాది బహుమాహాత్మ్యం కాశ్యాం వై మునిసత్తమాః | తథా విశ్వేశ్వరస్యాపి భుక్తిముక్తిప్రదం సతామ్",
+   "text_en": "ityādi bahumāhātmyaṁ kāśyāṁ vai munisattamāḥ | tathā viśveśvarasyāpi bhuktimuktipradaṁ satām",
+   "mean_en": "Thus, O best of sages, the greatness of Kashi is described at length; likewise the greatness of Vishveshvara, which grants both enjoyment and liberation to the devout.",
+   "mean_te": "ఇట్లు, శౌనకాది మునిశ్రేష్ఠులారా, కాశీ మహాత్మ్యం విశదంగా వర్ణించబడింది; అలాగే భక్తజనులకు భుక్తి-ముక్తులను ప్రసాదించే విశ్వేశ్వరుని మహత్త్వం కూడా."
+  },
+  {
+   "n": 57,
+   "text_deva": "अतः परं प्रवक्ष्यामि माहात्म्यं त्र्यंबकस्य च | यच्छ्रुत्वा सर्वपापेभ्यो मुच्यते मानवः क्षणात्",
+   "text_te": "అతః పరం ప్రవక్ష్యామి మాహాత్మ్యం త్ర్యంబకస్య చ | యచ్ఛ్రుత్వా సర్వపాపేభ్యో ముచ్యతే మానవః క్షణాత్",
+   "text_en": "ataḥ paraṁ pravakṣyāmi māhātmyaṁ tryaṁbakasya ca | yacchrutvā sarvapāpebhyo mucyate mānavaḥ kṣaṇāt",
+   "mean_en": "Hereafter I shall narrate the greatness of Tryambaka (Mrityunjaya Shiva), hearing which a person is at once freed from all sins.",
+   "mean_te": "ఇక్కడ నుండి త్రియంబకుని (మృత్యుంజయ శివుని) మహాత్మ్యాన్ని చెప్పుతాను; దానిని విన్న మానవుడు క్షణమాత్రంలో సమస్త పాపాల నుండి విముక్తుడవుతాడు."
+  },
+  {
+   "n": 58,
+   "text_deva": "इति श्रीशिवमहापुराणे चतुर्थ्यां कोटिरुद्रसंहितायां काशीविश्वेश्वरज्योतिर्लिङ्गमाहात्म्यवर्णनंनामत्रयोविंशोध्याय.",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే చతుర్థ్యాం కోటిరుద్రసంహితాయాం కాశీవిశ్వేశ్వరజ్యోతిర్లిఙ్గమాహాత్మ్యవర్ణనంనామత్రయోవింశోధ్యాయ.",
+   "text_en": "iti śrīśivamahāpurāṇe caturthyāṁ koṭirudrasaṁhitāyāṁ kāśīviśveśvarajyotirliṅgamāhātmyavarṇanaṁnāmatrayoviṁśodhyāya.",
+   "mean_en": "Thus ends the twenty-third adhyaya, called the description of the greatness of the Kashī Vishveshvara Jyotirlinga, in the fourth (Kotirudra) Samhita of the glorious Shiva Mahapurana.",
+   "mean_te": "ఇట్లు శ్రీశివమహాపురాణంలో చతుర్థమైన కోటిరుద్ర సంహితానంది కాశీ విశ్వేశ్వర జ్యోతిర్లింగ మహాత్మ్య వర్ణనము అను ఇరువది మూడవ అధ్యాయం సమాప్తం."
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "epics": {
+  "soundarya-lahari": {
+   "id": "soundarya-lahari",
+   "name": {
+    "en": "Soundarya Lahari",
+    "te": "సౌందర్యలహరి"
+   },
+   "author": {
+    "en": "Adi Shankaracharya",
+    "te": "శ్రీ ఆది శంకరాచార్యుడు"
+   },
+   "unitLabel": {
+    "en": "Part",
+    "te": "భాగం"
+   },
+   "labels": {
+    "sargaWord": { "en": "Verse", "te": "శ్లోకం" },
+    "sargaLabel": { "en": "Verse", "te": "శ్లోకం" },
+    "allSargas": { "en": "All verses", "te": "అన్ని శ్లోకాలు" },
+    "browseSargas": { "en": "Read by verse", "te": "శ్లోకాలు చదవండి" },
+    "sargasAvailable": { "en": "verses · read the whole wave", "te": "శ్లోకాలు · పూర్తి లహరిని చదవండి" },
+    "talePick": { "en": "Open a verse to read its meaning as a flowing paragraph.", "te": "ఒక శ్లోకాన్ని తెరిచి దాని అర్థాన్ని కథా రూపంలో చదవండి." },
+    "prevSarga": { "en": "← Prev verse", "te": "← మునుపటి శ్లోకం" },
+    "nextSarga": { "en": "Next verse →", "te": "తరువాతి శ్లోకం →" }
+   },
+   "sections": [
+    {
+     "id": "ananda-lahari",
+     "n": 1,
+     "name": {
+      "en": "Ananda Lahari",
+      "te": "ఆనందలహరి"
+     },
+     "title": {
+      "en": "The Wave of Bliss — verses 1 to 41",
+      "te": "ఆనంద తరంగం — శ్లోకాలు 1–41"
+     },
+     "comingSoon": false,
+     "note": "ఆనందలహరి — మొదటి 41 శ్లోకాలు. సంప్రదాయం ప్రకారం ఇవి సౌందర్యలహరి మొదటి భాగం."
+    },
+    {
+     "id": "soundarya-lahari",
+     "n": 2,
+     "name": {
+      "en": "Soundarya Lahari",
+      "te": "సౌందర్యలహరి"
+     },
+     "title": {
+      "en": "The Wave of Beauty — verses 42 to 100",
+      "te": "సౌందర్య తరంగం — శ్లోకాలు 42–100"
+     },
+     "comingSoon": false,
+     "note": "సౌందర్యలహరి ప్రధాన భాగం — 42 నుండి 100 శ్లోకాలు."
+    }
+   ]
+  }
+ }
+}

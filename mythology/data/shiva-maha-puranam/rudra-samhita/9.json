@@ -1,0 +1,537 @@
+{
+ "kanda": "rudra-samhita",
+ "n": 9,
+ "title_deva": "शिवतत्त्ववर्णनः",
+ "title_te": "శివతత్త్వవర్ణనః",
+ "title_iast": "śivatattvavarṇanaḥ",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ब्रह्मोवाच अथाकर्ण्य नुर्तिविष्णुकृतां स्वस्य महेश्वरः | प्रादुर्बभूव सुप्रीतस्सवामं करुणानिधिः",
+   "text_te": "బ్రహ్మోవాచ అథాకర్ణ్య నుర్తివిష్ణుకృతాం స్వస్య మహేశ్వరః | ప్రాదుర్బభూవ సుప్రీతస్సవామం కరుణానిధిః",
+   "text_en": "brahmovāca athākarṇya nurtiviṣṇukṛtāṁ svasya maheśvaraḥ | prādurbabhūva suprītassavāmaṁ karuṇānidhiḥ",
+   "mean_en": "Brahma said: “Then, hearing the praise that Vishnu had made of him, Maheshvara — the treasury of compassion — appeared, greatly pleased, with (Shakti) on his left.”",
+   "mean_te": "బ్రహ్మ అన్నాడు: “తరువాత విష్ణువు చేసిన తన స్తుతిని విన్న మహేశ్వరుడు — కరుణానిధి — మిక్కిలి సంతోషంతో, (శక్తిని) ఎడమవైపునుంచుకొని ప్రత్యక్షమయ్యాడు.”"
+  },
+  {
+   "n": 2,
+   "text_deva": "पंचवक्त्रस्त्रिनयनो भालचन्द्रो जटाधरः | गौरवर्णो विशालाक्षो भस्मोद्धूलितविग्रहः",
+   "text_te": "పంచవక్త్రస్త్రినయనో భాలచన్ద్రో జటాధరః | గౌరవర్ణో విశాలాక్షో భస్మోద్ధూలితవిగ్రహః",
+   "text_en": "paṁcavaktrastrinayano bhālacandro jaṭādharaḥ | gauravarṇo viśālākṣo bhasmoddhūlitavigrahaḥ",
+   "mean_en": "“Five-faced, three-eyed, bearing the young moon and matted locks; fair of hue, wide-eyed, his body dusted with bhasma,”",
+   "mean_te": "“పంచవక్త్రుడు, త్రినయనుడు, బాలచంద్రుడు, జటాధారి; శ్వేతవర్ణుడు, విశాలాక్షి, భస్మంతో పూసుకొన్న తనువు గలవాడు,”"
+  },
+  {
+   "n": 3,
+   "text_deva": "दशबाहुर्नीलगल सर्वाभरणभूषितः | सर्वांगसुन्दरो भस्मत्रिपुण्ड्रांकितमस्तकः",
+   "text_te": "దశబాహుర్నీలగల సర్వాభరణభూషితః | సర్వాంగసున్దరో భస్మత్రిపుణ్డ్రాంకితమస్తకః",
+   "text_en": "daśabāhurnīlagala sarvābharaṇabhūṣitaḥ | sarvāṁgasundaro bhasmatripuṇḍrāṁkitamastakaḥ",
+   "mean_en": "“ten-armed, blue-throated, adorned with every ornament; beautiful in every limb, his head marked with the bhasma-tripundra.”",
+   "mean_te": "“దశభుజుడు, నీలగళుడు, సర్వాభరణభూషితుడు; అంగాంగ రమణీయుడు, భస్మ త్రిపుండ్రంతో అంకిత శిరస్సు గలవాడు.”"
+  },
+  {
+   "n": 4,
+   "text_deva": "तं दृष्ट्वा तादृशं देवं सवामं परमेश्वरम् | तुष्टाव पुनरिष्टाभिर्वाग्भिर्विष्णुर्मया सह",
+   "text_te": "తం దృష్ట్వా తాదృశం దేవం సవామం పరమేశ్వరమ్ | తుష్టావ పునరిష్టాభిర్వాగ్భిర్విష్ణుర్మయా సహ",
+   "text_en": "taṁ dṛṣṭvā tādṛśaṁ devaṁ savāmaṁ parameśvaram | tuṣṭāva punariṣṭābhirvāgbhirviṣṇurmayā saha",
+   "mean_en": "“Beholding such a god — the Parameshvara together with his Shakti — Vishnu praised him again, along with me, in fit verses.”",
+   "mean_te": "“అలాంటి దేవుడిని — శక్తిసహితుడైన పరమేశ్వరుడిని — చూసి విష్ణువు నాతో సహా యోగ్యమైన వాక్కులతో మరల స్తుతించాడు.”"
+  },
+  {
+   "n": 5,
+   "text_deva": "निगमं श्वासरूपेण ददौ तस्मै ततो हरः | विष्णवे च प्रसन्नात्मा महेशः करुणाकरः",
+   "text_te": "నిగమం శ్వాసరూపేణ దదౌ తస్మై తతో హరః | విష్ణవే చ ప్రసన్నాత్మా మహేశః కరుణాకరః",
+   "text_en": "nigamaṁ śvāsarūpeṇa dadau tasmai tato haraḥ | viṣṇave ca prasannātmā maheśaḥ karuṇākaraḥ",
+   "mean_en": "“Then Hara bestowed on him the Nigama (the Veda) in the form of breath; and Mahesha, gracious of soul, the mine of mercy, (was pleased) with Vishnu,”",
+   "mean_te": "“తరువాత హరుడు ఆయనకు శ్వాసరూపంగా నిగమాన్ని (వేదాన్ని) ప్రసాదించాడు; మహేశుడు కూడా ప్రసన్నాత్ముడై, కరుణాకరుడై, విష్ణువునకు (అనుగ్రహించాడు),”"
+  },
+  {
+   "n": 6,
+   "text_deva": "ततो ज्ञानमदात्तस्मै हरये परमात्मने | परमात्मा पुनर्मह्यं दत्तवान्कृपया मुने",
+   "text_te": "తతో జ్ఞానమదాత్తస్మై హరయే పరమాత్మనే | పరమాత్మా పునర్మహ్యం దత్తవాన్కృపయా మునే",
+   "text_en": "tato jñānamadāttasmai haraye paramātmane | paramātmā punarmahyaṁ dattavānkṛpayā mune",
+   "mean_en": "“and gave knowledge to Hari, the Paramatman; the Paramatma in his turn gave it to me by his grace, O muni.”",
+   "mean_te": "“హరికి — పరమాత్మునికి — జ్ఞానాన్ని అనుగ్రహించాడు; ఆ పరమాత్మ మరల నాకు కృపతో (ఆ జ్ఞానాన్ని) అనుగ్రహించాడు, మునీ.”"
+  },
+  {
+   "n": 7,
+   "text_deva": "संप्राप्य निगमं विष्णुः पप्रच्छ पुनरेव तम् | कृतार्थस्सांजलिर्नत्वा मया सह महेश्वरम्",
+   "text_te": "సంప్రాప్య నిగమం విష్ణుః పప్రచ్ఛ పునరేవ తమ్ | కృతార్థస్సాంజలిర్నత్వా మయా సహ మహేశ్వరమ్",
+   "text_en": "saṁprāpya nigamaṁ viṣṇuḥ papraccha punareva tam | kṛtārthassāṁjalirnatvā mayā saha maheśvaram",
+   "mean_en": "“Having gained the Nigama, Vishnu asked him yet again — and I with him — bowing with joined palms, to Maheshvara, our purpose fulfilled:”",
+   "mean_te": "“నిగమాన్ని పొందిన విష్ణువు మరల ఆయన్ని ప్రశ్నించాడు — నేనూ సహితంగా — అంజలి బద్ధులై, నమస్కరిస్తూ, మహేశ్వరుని యెదుట,”"
+  },
+  {
+   "n": 8,
+   "text_deva": "विष्णुरुवाच कथं च तुष्यसे देव मया पूज्यः कथं प्रभो | कथं ध्यानं प्रकर्तव्यं कथं व्रजसि वश्यताम्",
+   "text_te": "విష్ణురువాచ కథం చ తుష్యసే దేవ మయా పూజ్యః కథం ప్రభో | కథం ధ్యానం ప్రకర్తవ్యం కథం వ్రజసి వశ్యతామ్",
+   "text_en": "viṣṇuruvāca kathaṁ ca tuṣyase deva mayā pūjyaḥ kathaṁ prabho | kathaṁ dhyānaṁ prakartavyaṁ kathaṁ vrajasi vaśyatām",
+   "mean_en": "Vishnu said: “How are you delighted, O god? How are you to be worshipped by me, O Lord? How is meditation to be performed? How do you come under one's sway?”",
+   "mean_te": "విష్ణువు అన్నాడు: “దేవా, ఎలా సంతోషిస్తావు? ప్రభూ, నన్ను నీవు ఎలా పూజింపదగుదువు? ధ్యానం ఎలా చేయాలి? నీవు ఎలా వశీకరింపబడతావు?”"
+  },
+  {
+   "n": 9,
+   "text_deva": "किं कर्तव्यं महादेव ह्यावाभ्यां तव शासनात् | सदासदाज्ञापय नौ प्रीत्यर्थं कुरु शंकर",
+   "text_te": "కిం కర్తవ్యం మహాదేవ హ్యావాభ్యాం తవ శాసనాత్ | సదాసదాజ్ఞాపయ నౌ ప్రీత్యర్థం కురు శంకర",
+   "text_en": "kiṁ kartavyaṁ mahādeva hyāvābhyāṁ tava śāsanāt | sadāsadājñāpaya nau prītyarthaṁ kuru śaṁkara",
+   "mean_en": "“What is to be done by us two, Mahadeva, by your command? Bid us again and again, for your pleasure — do so, O Shankara.”",
+   "mean_te": "“నీ శాసనంతో మేమిద్దరం చేయవలసినదేమిటి, మహాదేవా? నీ ప్రీతి కొరకు మమ్మల్ని ఎప్పుడూ ఆజ్ఞాపించు — చెయ్యి, శంకరా.”"
+  },
+  {
+   "n": 10,
+   "text_deva": "एतत्सर्वं महाराज कृपां कृत्वाऽवयोः प्रभो | कथनीयं तथान्यच्च विज्ञाय स्वानुगौ शिव",
+   "text_te": "ఏతత్సర్వం మహారాజ కృపాం కృత్వాఽవయోః ప్రభో | కథనీయం తథాన్యచ్చ విజ్ఞాయ స్వానుగౌ శివ",
+   "text_en": "etatsarvaṁ mahārāja kṛpāṁ kṛtvā'vayoḥ prabho | kathanīyaṁ tathānyacca vijñāya svānugau śiva",
+   "mean_en": "“Let all this be told us two, O great Lord — bestowing your grace; and let whatever else is to be known be told us, O Shiva, your own followers.”",
+   "mean_te": "“ఇదంతా మాకిద్దరికీ చెప్పు, మహారాజా — కృపం చేసి; తెలుసుకోవాల్సిన మిగతాదంతా కూడా చెప్పు, శివా — మేము నీ అనుచరులము.”"
+  },
+  {
+   "n": 11,
+   "text_deva": "ब्रह्मोवाच इत्येतद्वचनं श्रुत्वा प्रसन्नो भगवान्हरः वचनं प्रीत्या सुप्रसन्नः कृपानिधिः",
+   "text_te": "బ్రహ్మోవాచ ఇత్యేతద్వచనం శ్రుత్వా ప్రసన్నో భగవాన్హరః వచనం ప్రీత్యా సుప్రసన్నః కృపానిధిః",
+   "text_en": "brahmovāca ityetadvacanaṁ śrutvā prasanno bhagavānharaḥ vacanaṁ prītyā suprasannaḥ kṛpānidhiḥ",
+   "mean_en": "Brahma said: “Hearing these words, the blessed Hari was pleased; with delight and supreme contentment, the ocean of compassion spoke:”",
+   "mean_te": "బ్రహ్మ అన్నాడు: “ఈ మాటలు విన్న భగవంతుడైన హరి ప్రసన్నుడయ్యాడు; ప్రీతితో, మిక్కిలి సంతోషంతో, కృపానిధి ఇలా పలికాడు:”"
+  },
+  {
+   "n": 12,
+   "text_deva": "भक्त्या च भवतोर्नूनं प्रीतोहं सुरसत्तमौ | पश्यतं मां महादेवं भयं सर्वं विमुंचताम्",
+   "text_te": "భక్త్యా చ భవతోర్నూనం ప్రీతోహం సురసత్తమౌ | పశ్యతం మాం మహాదేవం భయం సర్వం విముంచతామ్",
+   "text_en": "bhaktyā ca bhavatornūnaṁ prītohaṁ surasattamau | paśyataṁ māṁ mahādevaṁ bhayaṁ sarvaṁ vimuṁcatām",
+   "mean_en": "“'By your devotion, O best of gods, I am certainly pleased — behold me, Mahadeva, the dispeller of every fear.'”",
+   "mean_te": "“‘మీ భక్తితో నేను సంతుష్టుడనైతిని, సురశ్రేష్ఠులారా — నన్ను చూడండి; సర్వ భయాలనూ పోగొట్టే మహాదేవుడను నేను.’”"
+  },
+  {
+   "n": 13,
+   "text_deva": "मम लिंगं सदा पूज्य ध्येयं चैतादृशं मम | इदानीं दृश्यते यद्वत्तथा कार्यं प्रयत्नतः",
+   "text_te": "మమ లింగం సదా పూజ్య ధ్యేయం చైతాదృశం మమ | ఇదానీం దృశ్యతే యద్వత్తథా కార్యం ప్రయత్నతః",
+   "text_en": "mama liṁgaṁ sadā pūjya dhyeyaṁ caitādṛśaṁ mama | idānīṁ dṛśyate yadvattathā kāryaṁ prayatnataḥ",
+   "mean_en": "“'My linga is ever to be worshipped, and such is my form for meditation. As it is seen now, so must it be worshipped with care.'”",
+   "mean_te": "“‘నా లింగం ఎల్లప్పుడూ పూజనీయం; ధ్యానార్హమైనది నా ఈ రూపమే. ఇప్పుడు కనబడుతున్న రీతిలోనే దాన్ని యత్నపూర్వకంగా పూజించాలి.’”"
+  },
+  {
+   "n": 14,
+   "text_deva": "पूजितो लिंगरूपेण प्रसन्नो विविधं फलम् | दास्यामि सर्वलोकेभ्यो मनोभीष्टान्यनेकशः",
+   "text_te": "పూజితో లింగరూపేణ ప్రసన్నో వివిధం ఫలమ్ | దాస్యామి సర్వలోకేభ్యో మనోభీష్టాన్యనేకశః",
+   "text_en": "pūjito liṁgarūpeṇa prasanno vividhaṁ phalam | dāsyāmi sarvalokebhyo manobhīṣṭānyanekaśaḥ",
+   "mean_en": "“'Worshipped in the linga-form, I, gracious, grant manifold fruit to all the worlds — the heart's desires in many a form.'”",
+   "mean_te": "“‘లింగరూపంలో పూజించబడినప్పుడు నేను — ప్రసన్నుడై — సర్వలోకాలకూ వివిధ ఫలాలను, మనోభీష్టాలను అనేక విధాల ప్రసాదిస్తాను.’”"
+  },
+  {
+   "n": 15,
+   "text_deva": "यदा दुःखं भवेत्तत्र युवयोस्सुरसत्तमौ | पूजिते मम लिंगे च तदा स्याद्दुःखनाशनम्",
+   "text_te": "యదా దుఃఖం భవేత్తత్ర యువయోస్సురసత్తమౌ | పూజితే మమ లింగే చ తదా స్యాద్దుఃఖనాశనమ్",
+   "text_en": "yadā duḥkhaṁ bhavettatra yuvayossurasattamau | pūjite mama liṁge ca tadā syādduḥkhanāśanam",
+   "mean_en": "“'Whenever sorrow befalls you two, O best of gods — the worship of my linga destroys it.'”",
+   "mean_te": "“‘మీకిద్దరికీ దుఃఖం కలిగినప్పుడు, సురశ్రేష్ఠులారా — నా లింగపూజతోనే అది నశిస్తుంది.’”"
+  },
+  {
+   "n": 16,
+   "text_deva": "युवां प्रसूतौ प्रकृतेर्मदीयाया महाबलौ | गात्राभ्यां सव्यसव्याभ्यां मम सर्वेश्वरस्य हि",
+   "text_te": "యువాం ప్రసూతౌ ప్రకృతేర్మదీయాయా మహాబలౌ | గాత్రాభ్యాం సవ్యసవ్యాభ్యాం మమ సర్వేశ్వరస్య హి",
+   "text_en": "yuvāṁ prasūtau prakṛtermadīyāyā mahābalau | gātrābhyāṁ savyasavyābhyāṁ mama sarveśvarasya hi",
+   "mean_en": "“'You two, of great might, were born of my Prakriti — from my right and my left sides, O Ishvara of all —'”",
+   "mean_te": "“‘మేమిద్దరం మా ప్రకృతి నుండి — నా కుడి, ఎడమ పార్శ్వాల నుండి — పుట్టిన మహాబలవంతులు, సర్వేశులారా —’”"
+  },
+  {
+   "n": 17,
+   "text_deva": "अयं मे दक्षिणात्पार्श्वाद्ब्रह्मा लोकपितामहः | वामपार्श्वाच्च विष्णुस्त्वं समुत्पन्नः परात्मनः",
+   "text_te": "అయం మే దక్షిణాత్పార్శ్వాద్బ్రహ్మా లోకపితామహః | వామపార్శ్వాచ్చ విష్ణుస్త్వం సముత్పన్నః పరాత్మనః",
+   "text_en": "ayaṁ me dakṣiṇātpārśvādbrahmā lokapitāmahaḥ | vāmapārśvācca viṣṇustvaṁ samutpannaḥ parātmanaḥ",
+   "mean_en": "“'this one, from my right side — Brahma, the grandfather of the worlds; and from my left side, Vishnu — you, born of the Paramatman.'”",
+   "mean_te": "“‘ఈయన నా దక్షిణ పార్శ్వం నుండి — లోకపితామహుడైన బ్రహ్మ; వామపార్శ్వం నుండి విష్ణువు — నువ్వు, పరమాత్ముని నుండి పుట్టినాడివి.’”"
+  },
+  {
+   "n": 18,
+   "text_deva": "प्रीतोहं युवयोस्सम्यग्वरं दद्यां यथेप्सितम् | मयि भक्तिर्दृढा भूयाद्युवयोरभ्यनुज्ञया",
+   "text_te": "ప్రీతోహం యువయోస్సమ్యగ్వరం దద్యాం యథేప్సితమ్ | మయి భక్తిర్దృఢా భూయాద్యువయోరభ్యనుజ్ఞయా",
+   "text_en": "prītohaṁ yuvayossamyagvaraṁ dadyāṁ yathepsitam | mayi bhaktirdṛḍhā bhūyādyuvayorabhyanujñayā",
+   "mean_en": "“'Pleased with you both, I grant the boon you desire: may firm devotion to me be yours both, by my sanction.'”",
+   "mean_te": "“‘మీ ఇద్దరిపైనూ సంతుష్టుడనై మీకు కోరిన వరాన్ని ప్రసాదిస్తాను: నా అనుమతితో మీ ఇద్దరికీ నాపై దృఢమైన భక్తి కలగాలి.’”"
+  },
+  {
+   "n": 19,
+   "text_deva": "पार्थिवीं चैव मन्मूर्तिं विधाय कुरुतं युवाम् | सेवां च विविधां प्राज्ञौ कृत्वा सुखमवाप्स्यथ",
+   "text_te": "పార్థివీం చైవ మన్మూర్తిం విధాయ కురుతం యువామ్ | సేవాం చ వివిధాం ప్రాజ్ఞౌ కృత్వా సుఖమవాప్స్యథ",
+   "text_en": "pārthivīṁ caiva manmūrtiṁ vidhāya kurutaṁ yuvām | sevāṁ ca vividhāṁ prājñau kṛtvā sukhamavāpsyatha",
+   "mean_en": "“'Establish on the earth my form, you two, and perform manifold services — thus you shall win happiness, O wise ones.'”",
+   "mean_te": "“‘భూమిపై నా మూర్తిని ప్రతిష్ఠించండి, మీరిద్దరూ; వివిధమైన సేవలను చేయండి — అలా మీరు సుఖాన్ని పొందుదురు, ప్రాజ్ఞులారా.’”"
+  },
+  {
+   "n": 20,
+   "text_deva": "ब्रह्मन्सृष्टिं कुरु त्वं हि मदाज्ञापरिपालकः | वत्स वत्स हरे त्वं च पालयैवं चराचरम्",
+   "text_te": "బ్రహ్మన్సృష్టిం కురు త్వం హి మదాజ్ఞాపరిపాలకః | వత్స వత్స హరే త్వం చ పాలయైవం చరాచరమ్",
+   "text_en": "brahmansṛṣṭiṁ kuru tvaṁ hi madājñāparipālakaḥ | vatsa vatsa hare tvaṁ ca pālayaivaṁ carācaram",
+   "mean_en": "“'O Brahmin, perform creation, upholding my command; and child Hari, you protect the moving and the unmoving.'”",
+   "mean_te": "“‘బ్రహ్మణా, నా ఆజ్ఞను పాటిస్తూ నువ్వు సృష్టిని చేయి; వత్స హరీ, నువ్వు చరాచర జగత్తులను పాలించు.’”"
+  },
+  {
+   "n": 21,
+   "text_deva": "ब्रह्मोवाच इत्युक्त्वा नौ प्रभुरताभ्यां पूजाविधिमदाच्छुभाम् | येनैव पूजितश्शंभुः फलं यच्छत्यनेकशः",
+   "text_te": "బ్రహ్మోవాచ ఇత్యుక్త్వా నౌ ప్రభురతాభ్యాం పూజావిధిమదాచ్ఛుభామ్ | యేనైవ పూజితశ్శంభుః ఫలం యచ్ఛత్యనేకశః",
+   "text_en": "brahmovāca ityuktvā nau prabhuratābhyāṁ pūjāvidhimadācchubhām | yenaiva pūjitaśśaṁbhuḥ phalaṁ yacchatyanekaśaḥ",
+   "mean_en": "Brahma said: “Thus did our Lord teach us both the auspicious mode of worship, by which Shambhu, when worshipped, grants manifold fruit.”",
+   "mean_te": "బ్రహ్మ అన్నాడు: “అలా మా ప్రభువు మాకిద్దరికీ శుభమైన పూజావిధిని ఉపదేశించాడు — దానితో పూజించబడిన శంభుడు అనేక ఫలాలను ప్రసాదిస్తాడు.”"
+  },
+  {
+   "n": 22,
+   "text_deva": "ब्रह्मोवाच इत्याकर्ण्य वचश्शंभोर्मया च सहितो हरिः | प्रत्युवाच महेशानं प्रणिपत्य कृतांजलिः",
+   "text_te": "బ్రహ్మోవాచ ఇత్యాకర్ణ్య వచశ్శంభోర్మయా చ సహితో హరిః | ప్రత్యువాచ మహేశానం ప్రణిపత్య కృతాంజలిః",
+   "text_en": "brahmovāca ityākarṇya vacaśśaṁbhormayā ca sahito hariḥ | pratyuvāca maheśānaṁ praṇipatya kṛtāṁjaliḥ",
+   "mean_en": "Brahma said: “Hearing the words of Shambhu, Hari, together with me, bowed with joined palms and addressed Maheshana:”",
+   "mean_te": "బ్రహ్మ అన్నాడు: “శంభుని మాటలు విన్న హరి నాతో సహా అంజలి బద్ధుడై నమస్కరించి, మహేశానుడితో అన్నాడు:”"
+  },
+  {
+   "n": 23,
+   "text_deva": "विष्णुरुवाच यदि प्रीतिः समुत्पन्ना यदि देयो वरश्च नौ | भक्तिर्भवतु नौ नित्यं त्वयि चाव्यभिचारिणी",
+   "text_te": "విష్ణురువాచ యది ప్రీతిః సముత్పన్నా యది దేయో వరశ్చ నౌ | భక్తిర్భవతు నౌ నిత్యం త్వయి చావ్యభిచారిణీ",
+   "text_en": "viṣṇuruvāca yadi prītiḥ samutpannā yadi deyo varaśca nau | bhaktirbhavatu nau nityaṁ tvayi cāvyabhicāriṇī",
+   "mean_en": "Vishnu said: “'If delight has risen in you, and if a boon is to be given us — let devotion to you be ours forever, unwavering.'”",
+   "mean_te": "విష్ణువు అన్నాడు: “‘నీకు ప్రీతి పుట్టింది, మాకు వరం ఇవ్వదగినదైతే — మాకు నీపై ఎల్లప్పుడూ అవ్యభిచారిణియైన భక్తి కలగాలి.’”"
+  },
+  {
+   "n": 24,
+   "text_deva": "त्वमप्यवतरस्वाद्य लीलया निर्गुणोपि हि | सहायं कुरु नौ तात त्वं परः परमेश्वरः",
+   "text_te": "త్వమప్యవతరస్వాద్య లీలయా నిర్గుణోపి హి | సహాయం కురు నౌ తాత త్వం పరః పరమేశ్వరః",
+   "text_en": "tvamapyavatarasvādya līlayā nirguṇopi hi | sahāyaṁ kuru nau tāta tvaṁ paraḥ parameśvaraḥ",
+   "mean_en": "“'Do you also incarnate today, in play, though without qualities; be our helper, dear father — you are the supreme, the Parameshvara.'”",
+   "mean_te": "“‘నీవు కూడా ఈ రోజు లీలగా అవతరించు — నిర్గుణుడవైనా; మాకు సహాయుడవు కమ్ము, తండ్రీ — నువ్వు పరుడవు, పరమేశ్వరుడవు.’”"
+  },
+  {
+   "n": 25,
+   "text_deva": "आवयोर्देवदेवेश विवादमपि शोभनम् | इहागतो भवान्यस्माद्विवादशमनाय नौ",
+   "text_te": "ఆవయోర్దేవదేవేశ వివాదమపి శోభనమ్ | ఇహాగతో భవాన్యస్మాద్వివాదశమనాయ నౌ",
+   "text_en": "āvayordevadeveśa vivādamapi śobhanam | ihāgato bhavānyasmādvivādaśamanāya nau",
+   "mean_en": "“'O Ishvara of the lord of gods, even our dispute has turned noble — you have come to us to bring that dispute to an end.'”",
+   "mean_te": "“‘దేవదేవేశా, మా వివాదమే కూడా శోభనంగా మారింది — దాన్ని శమనం చేయడానికే నువ్వు మా వద్దకు వచ్చావు.’”"
+  },
+  {
+   "n": 26,
+   "text_deva": "ब्रह्मोवाच तस्य तद्वचनं श्रुत्वा पुनः प्राह हरो हरिम् | प्रणिपत्य स्थितं मूर्ध्ना कृतांजलिपुटः स्वयम्",
+   "text_te": "బ్రహ్మోవాచ తస్య తద్వచనం శ్రుత్వా పునః ప్రాహ హరో హరిమ్ | ప్రణిపత్య స్థితం మూర్ధ్నా కృతాంజలిపుటః స్వయమ్",
+   "text_en": "brahmovāca tasya tadvacanaṁ śrutvā punaḥ prāha haro harim | praṇipatya sthitaṁ mūrdhnā kṛtāṁjalipuṭaḥ svayam",
+   "mean_en": "Brahma said: “Hearing those words, Hara again addressed Hari — who stood bowing with his head (bent low) and palms joined:",
+   "mean_te": "బ్రహ్మ అన్నాడు: “ఆ మాటలు విన్న హరుడు మరల హరితో — శిరస్సు వంచి, అంజలి బద్ధుడై నిలిచిన — అన్నాడు:"
+  },
+  {
+   "n": 27,
+   "text_deva": "प्रलयस्थितिसर्गाणां कर्ताहं सगुणोऽगुणः | परब्रह्म निर्विकारी सच्चिदानंदलक्षणः",
+   "text_te": "ప్రలయస్థితిసర్గాణాం కర్తాహం సగుణోఽగుణః | పరబ్రహ్మ నిర్వికారీ సచ్చిదానందలక్షణః",
+   "text_en": "pralayasthitisargāṇāṁ kartāhaṁ saguṇo'guṇaḥ | parabrahma nirvikārī saccidānaṁdalakṣaṇaḥ",
+   "mean_en": "“'I am the maker of dissolution, sustenance and creation — with qualities and without; the Supreme Brahman, unchanging, marked by Being-Knowledge-Bliss.'”",
+   "mean_te": "“‘ప్రళయ, స్థితి, సృష్టులకు కర్తను నేను — సగుణుడను, నిర్గుణుడను; పరబ్రహ్మను, నిర్వికారిని, సచ్చిదానంద లక్షణుడను నేను.’”"
+  },
+  {
+   "n": 28,
+   "text_deva": "त्रिया भिन्नो ह्यहं विष्णो ब्रह्मविष्णुहराख्यया | सर्गरक्षालयगुणैर्निष्कलोहं सदा हरे",
+   "text_te": "త్రియా భిన్నో హ్యహం విష్ణో బ్రహ్మవిష్ణుహరాఖ్యయా | సర్గరక్షాలయగుణైర్నిష్కలోహం సదా హరే",
+   "text_en": "triyā bhinno hyahaṁ viṣṇo brahmaviṣṇuharākhyayā | sargarakṣālayaguṇairniṣkalohaṁ sadā hare",
+   "mean_en": "“'I am divided threefold, O Vishnu, by the names Brahma, Vishnu and Hara — by the qualities of creation, protection and dissolution; I am ever partless, O Hari.'”",
+   "mean_te": "“‘బ్రహ్మ, విష్ణు, హర నామాలతో — సృష్టి, రక్షణ, లయల గుణాలతో — నేను ముక్కగా విభక్తుడనైతిని, విష్ణూ; నేను ఎల్లప్పుడూ నిష్కలుడనే, హరీ.’”"
+  },
+  {
+   "n": 29,
+   "text_deva": "स्तुतोऽहं यत्त्वया विष्णो ब्रह्मणा मेऽवतारणे | प्रार्थनां तां करिष्यामि सत्यां यद्भक्तवत्सलः",
+   "text_te": "స్తుతోఽహం యత్త్వయా విష్ణో బ్రహ్మణా మేఽవతారణే | ప్రార్థనాం తాం కరిష్యామి సత్యాం యద్భక్తవత్సలః",
+   "text_en": "stuto'haṁ yattvayā viṣṇo brahmaṇā me'vatāraṇe | prārthanāṁ tāṁ kariṣyāmi satyāṁ yadbhaktavatsalaḥ",
+   "mean_en": "“'Praised by you, O Vishnu, and by Brahma, for my descent — I shall fulfil that prayer truly, you who are tender to your devotees.'”",
+   "mean_te": "“‘నా అవతారణ కొరకు నువ్వు, బ్రహ్మ — నన్ను స్తుతించారు; భక్తవత్సలుడనైన నేను ఆ ప్రార్థనను సత్యంగానే సఫలం చేస్తాను.’”"
+  },
+  {
+   "n": 30,
+   "text_deva": "मद्रूपं परमं ब्रह्मन्नीदृशं भवदंगतः | प्रकटीभविता लोके नाम्ना रुद्रः प्रकीर्तितः",
+   "text_te": "మద్రూపం పరమం బ్రహ్మన్నీదృశం భవదంగతః | ప్రకటీభవితా లోకే నామ్నా రుద్రః ప్రకీర్తితః",
+   "text_en": "madrūpaṁ paramaṁ brahmannīdṛśaṁ bhavadaṁgataḥ | prakaṭībhavitā loke nāmnā rudraḥ prakīrtitaḥ",
+   "mean_en": "“'My supreme form such as you have beheld — that form of mine becomes manifest in the world, renowned by the name Rudra.'”",
+   "mean_te": "“‘నువ్వు దర్శించిన నా పరమ రూపమే — లోకంలో ప్రకటించబడి, ‘రుద్రుడు’ అనే నామంతో కీర్తించబడుతుంది.’”"
+  },
+  {
+   "n": 31,
+   "text_deva": "मदंशात्तस्य सामर्थ्यं न्यूनं नैव भविष्यति | योहं सोहं न भेदोस्ति पूजाविधिविधानतः",
+   "text_te": "మదంశాత్తస్య సామర్థ్యం న్యూనం నైవ భవిష్యతి | యోహం సోహం న భేదోస్తి పూజావిధివిధానతః",
+   "text_en": "madaṁśāttasya sāmarthyaṁ nyūnaṁ naiva bhaviṣyati | yohaṁ sohaṁ na bhedosti pūjāvidhividhānataḥ",
+   "mean_en": "“'From my portion, his power shall never be lessened. “I am he, he is I” — there is no difference; thus runs the ordinance of the rite of worship.'”",
+   "mean_te": "“‘నా అంశతో పుట్టిన అతని సామర్థ్యం ఎప్పుడూ తగ్గదు. “యోఽహం సోఽహమ్” — ‘అతడే నేను, నేనే అతడు’ — మధ్య భేదం లేదు; పూజావిధి విధానంతో ఇది నిర్ణయించబడింది.’”"
+  },
+  {
+   "n": 32,
+   "text_deva": "यथा च ज्योतिषस्संगाज्जलादेः स्पर्शता न वै | तथा ममागुणस्यापि संयोगाद्बन्धनं न हि",
+   "text_te": "యథా చ జ్యోతిషస్సంగాజ్జలాదేః స్పర్శతా న వై | తథా మమాగుణస్యాపి సంయోగాద్బన్ధనం న హి",
+   "text_en": "yathā ca jyotiṣassaṁgājjalādeḥ sparśatā na vai | tathā mamāguṇasyāpi saṁyogādbandhanaṁ na hi",
+   "mean_en": "“'As the sun's light, touching water and the rest, is not stained by them, so there is no bondage for me, the qualityless one, through any union.'”",
+   "mean_te": "“‘జ్యోతిస్సు (సూర్యుని వెలుగు) జలం మొదలైన వాటిని తాకినా దెబ్బ తినకపోయినట్లు, నిర్గుణుడైన నాకు ఏ సంయోగం వల్లీ బంధం ఉండదు.’”"
+  },
+  {
+   "n": 33,
+   "text_deva": "शिवरूपं ममैतञ्च रुद्रोऽपि शिववत्तदा | न तत्र परभेदो वै कर्तव्यश्च महामुने",
+   "text_te": "శివరూపం మమైతఞ్చ రుద్రోఽపి శివవత్తదా | న తత్ర పరభేదో వై కర్తవ్యశ్చ మహామునే",
+   "text_en": "śivarūpaṁ mamaitañca rudro'pi śivavattadā | na tatra parabhedo vai kartavyaśca mahāmune",
+   "mean_en": "“'This my Shiva-form — Rudra also is like Shiva; between them no distinction is to be made, O great muni.'”",
+   "mean_te": "“‘ఇది నా శివరూపం — రుద్రుడు కూడా శివునివలెనే; వారి మధ్య పరభేదం చేయరాదు, మహామునీ.’”"
+  },
+  {
+   "n": 34,
+   "text_deva": "वस्तुतो ह्येकरूपं हि द्विधा भिन्नं जगत्युत | अतो न भेदा विज्ञेयः शिवे रुद्रे कदाचन",
+   "text_te": "వస్తుతో హ్యేకరూపం హి ద్విధా భిన్నం జగత్యుత | అతో న భేదా విజ్ఞేయః శివే రుద్రే కదాచన",
+   "text_en": "vastuto hyekarūpaṁ hi dvidhā bhinnaṁ jagatyuta | ato na bhedā vijñeyaḥ śive rudre kadācana",
+   "mean_en": "“'In truth it is one form, divided twofold in the world; therefore no difference is ever to be known between Shiva and Rudra.'”",
+   "mean_te": "“‘వాస్తవంగా అది ఒకే రూపం — జగత్తులో రెండుగా విభక్తమై కనబడుతున్నది; అందువల్ల శివ, రుద్రుల మధ్య భేదం ఎప్పుడూ తెలుసుకోరాదు.’”"
+  },
+  {
+   "n": 35,
+   "text_deva": "सुवर्णस्य तथैकस्य वस्तुत्वं नैव गच्छति | अलंकृतिकृते देव नामभेदो न वस्तुतः",
+   "text_te": "సువర్ణస్య తథైకస్య వస్తుత్వం నైవ గచ్ఛతి | అలంకృతికృతే దేవ నామభేదో న వస్తుతః",
+   "text_en": "suvarṇasya tathaikasya vastutvaṁ naiva gacchati | alaṁkṛtikṛte deva nāmabhedo na vastutaḥ",
+   "mean_en": "“'As with gold — one substance — its real nature does not change by the ornaments made of it; the difference of names is not real, O god.'”",
+   "mean_te": "“‘బంగారం ఒక్కటే — దానితో చేసిన ఆభరణాల వల్ల దాని వాస్తవత్వం మారదు; నామభేదం వాస్తవం కాదు, దేవా.’”"
+  },
+  {
+   "n": 36,
+   "text_deva": "तथैकस्या मृदो भेदो नानापात्रे न वस्तुतः | कारणस्यैव कार्ये च सन्निधानं निदर्शनम्",
+   "text_te": "తథైకస్యా మృదో భేదో నానాపాత్రే న వస్తుతః | కారణస్యైవ కార్యే చ సన్నిధానం నిదర్శనమ్",
+   "text_en": "tathaikasyā mṛdo bhedo nānāpātre na vastutaḥ | kāraṇasyaiva kārye ca sannidhānaṁ nidarśanam",
+   "mean_en": "“'So too the one clay in different pots is not really different; that the cause abides in the effect — that is the illustration.'”",
+   "mean_te": "“‘అలాగే వేరువేరు పాత్రలలోని ఒకే మట్టి వాస్తవంగా భిన్నం కాదు; కారణం కార్యంలో నిక్షిప్తమై ఉండడమే — అదే దృష్టాంతం.’”"
+  },
+  {
+   "n": 37,
+   "text_deva": "ज्ञातव्यं बुधवर्यैश्च निर्मलज्ञानिभिः सुरौ | एवं ज्ञात्वा भवभ्यां तु न दृश्यं भेदकार णम्",
+   "text_te": "జ్ఞాతవ్యం బుధవర్యైశ్చ నిర్మలజ్ఞానిభిః సురౌ | ఏవం జ్ఞాత్వా భవభ్యాం తు న దృశ్యం భేదకార ణమ్",
+   "text_en": "jñātavyaṁ budhavaryaiśca nirmalajñānibhiḥ surau | evaṁ jñātvā bhavabhyāṁ tu na dṛśyaṁ bhedakāra ṇam",
+   "mean_en": "“'This is to be known by the best of the wise — the pure knowers, O gods. Knowing thus, you two will find no cause for difference.'”",
+   "mean_te": "“‘ఇది వివేకులలో శ్రేష్ఠులచే, నిర్మల జ్ఞానులచే — తెలుసుకోవాలి, దేవులారా. అలా తెలిసికొన్న మీరిద్దరికీ భేదానికి కారణం కనబడదు.’”"
+  },
+  {
+   "n": 38,
+   "text_deva": "वस्तुवत्सर्वदृश्यं च शिवरूपम्मतम्मम | अहं भवानजश्चैव रुद्रो योऽयं भविष्यति",
+   "text_te": "వస్తువత్సర్వదృశ్యం చ శివరూపమ్మతమ్మమ | అహం భవానజశ్చైవ రుద్రో యోఽయం భవిష్యతి",
+   "text_en": "vastuvatsarvadṛśyaṁ ca śivarūpammatammama | ahaṁ bhavānajaścaiva rudro yo'yaṁ bhaviṣyati",
+   "mean_en": "“'The Shiva-form, seen in all things, is mine; I am you, the unborn — and the Rudra that is to come.'”",
+   "mean_te": "“‘వస్తువులన్నింటిలా దర్శించబడే శివరూపం నాది; నేనే నువ్వు, అజుడవు — ఇంకా అవతరించబోయే రుద్రుడను కూడా నేనే.’”"
+  },
+  {
+   "n": 39,
+   "text_deva": "एकरूपा न भेदस्तु भेदे वै बंधनं भवेत् | तथापि च मदीयं हि शिवरूपं सनातनम्",
+   "text_te": "ఏకరూపా న భేదస్తు భేదే వై బంధనం భవేత్ | తథాపి చ మదీయం హి శివరూపం సనాతనమ్",
+   "text_en": "ekarūpā na bhedastu bhede vai baṁdhanaṁ bhavet | tathāpi ca madīyaṁ hi śivarūpaṁ sanātanam",
+   "mean_en": "“'Of one form there is no difference; in difference alone would bondage lie. Yet my Shiva-form is eternal —'”",
+   "mean_te": "“‘ఏకరూపానికి భేదం లేదు; భేదం ఉంటేనే బంధం కలుగుతుంది. అయినా నా శివరూపం సనాతనమైనది —’”"
+  },
+  {
+   "n": 40,
+   "text_deva": "मूलीभूतं सदोक्तं च सत्यज्ञानमनंतकम् | एवं ज्ञात्वा सदा ध्येयं मनसा चैव तत्त्वतः",
+   "text_te": "మూలీభూతం సదోక్తం చ సత్యజ్ఞానమనంతకమ్ | ఏవం జ్ఞాత్వా సదా ధ్యేయం మనసా చైవ తత్త్వతః",
+   "text_en": "mūlībhūtaṁ sadoktaṁ ca satyajñānamanaṁtakam | evaṁ jñātvā sadā dhyeyaṁ manasā caiva tattvataḥ",
+   "mean_en": "“'the root, the truth declared — truth, knowledge, endless. Knowing this, it is ever to be meditated on with the mind, in its truth.'”",
+   "mean_te": "“‘మూలభూతం, సత్యంగా చెప్పబడినది — సత్యజ్ఞానానంతమైనది. ఇలా తెలిసి, దాన్ని తత్త్వంగా మనస్సుతో ఎల్లప్పుడూ ధ్యానించాలి.’”"
+  },
+  {
+   "n": 41,
+   "text_deva": "श्रूयतां चैव भो ब्रह्मन्यद्गोप्यं कथ्यते मया | भवंतौ प्रकृतेर्यातौ नायं वै प्रकृतेः पुनः",
+   "text_te": "శ్రూయతాం చైవ భో బ్రహ్మన్యద్గోప్యం కథ్యతే మయా | భవంతౌ ప్రకృతేర్యాతౌ నాయం వై ప్రకృతేః పునః",
+   "text_en": "śrūyatāṁ caiva bho brahmanyadgopyaṁ kathyate mayā | bhavaṁtau prakṛteryātau nāyaṁ vai prakṛteḥ punaḥ",
+   "mean_en": "“'Now hear, O Brahmin, the secret I tell: you two have issued from Prakriti — but he is not again of Prakriti.'”",
+   "mean_te": "“‘ఇప్పుడు విను, బ్రహ్మణా, నేను చెబుతున్న రహస్యం: మీరిద్దరూ ప్రకృతి నుండి వచ్చారు — కానీ అతడు మరల ప్రకృతిలోంచి పుట్టినవాడు కాడు.’”"
+  },
+  {
+   "n": 42,
+   "text_deva": "मदाज्ञा जायते तत्र ब्रह्मणो भ्रुकुटेरहम् | गुणेष्वपि यथा प्रोक्तस्तामसः प्रकृतो हरः",
+   "text_te": "మదాజ్ఞా జాయతే తత్ర బ్రహ్మణో భ్రుకుటేరహమ్ | గుణేష్వపి యథా ప్రోక్తస్తామసః ప్రకృతో హరః",
+   "text_en": "madājñā jāyate tatra brahmaṇo bhrukuṭeraham | guṇeṣvapi yathā proktastāmasaḥ prakṛto haraḥ",
+   "mean_en": "“'My command takes effect there — (he arises) as it were from the brow of Brahma; among the gunas, as declared, Hara is of the nature of tamas,'”",
+   "mean_te": "“‘అక్కడ నా ఆజ్ఞ వర్తిస్తుంది — (అతడు) బ్రహ్మ భ్రూకుటి నుండి అన్నట్లు; గుణాలలో చెప్పబడినట్లు హరుడు తమస్సు స్వభావుడు,’”"
+  },
+  {
+   "n": 43,
+   "text_deva": "वैकारिकश्च विज्ञेयो योऽहंकार उदाहृतः | नामतो वस्तुतो नैव तामसः परिचक्ष्यते",
+   "text_te": "వైకారికశ్చ విజ్ఞేయో యోఽహంకార ఉదాహృతః | నామతో వస్తుతో నైవ తామసః పరిచక్ష్యతే",
+   "text_en": "vaikārikaśca vijñeyo yo'haṁkāra udāhṛtaḥ | nāmato vastuto naiva tāmasaḥ paricakṣyate",
+   "mean_en": "“'and the ahamkara called vaikarika is also to be known; yet he is called tamasa in name alone, not in truth.'”",
+   "mean_te": "“‘వైకారికమని చెప్పబడిన అహంకారం కూడా తెలుసుకోవాలి; అయినా అతడు నామతో మాత్రమే తామసుడని చెప్పబడతాడు — వాస్తవంగా కాదు.’”"
+  },
+  {
+   "n": 44,
+   "text_deva": "एतस्मात्कारणाद्ब्रह्मन्करणीयमिदं त्वया | सृष्टिकर्ता भव ब्रह्मन्सृष्टेश्च पालको हरिः",
+   "text_te": "ఏతస్మాత్కారణాద్బ్రహ్మన్కరణీయమిదం త్వయా | సృష్టికర్తా భవ బ్రహ్మన్సృష్టేశ్చ పాలకో హరిః",
+   "text_en": "etasmātkāraṇādbrahmankaraṇīyamidaṁ tvayā | sṛṣṭikartā bhava brahmansṛṣṭeśca pālako hariḥ",
+   "mean_en": "“'For this reason, O Brahmin, this must be done by you: be the maker of creation, and Hari the protector of creation.'”",
+   "mean_te": "“‘అందువల్ల, బ్రహ్మణా, ఇది నీచే చేయబడాలి: సృష్టికర్తవు; సృష్టికి పాలకుడు హరి అవుతాడు.’”"
+  },
+  {
+   "n": 45,
+   "text_deva": "मदीयश्च तथांऽशो यो लयकर्ता भविष्यति | इयं या प्रकृतिर्देवी ह्युमाख्या परमेश्वरी",
+   "text_te": "మదీయశ్చ తథాంఽశో యో లయకర్తా భవిష్యతి | ఇయం యా ప్రకృతిర్దేవీ హ్యుమాఖ్యా పరమేశ్వరీ",
+   "text_en": "madīyaśca tathāṁ'śo yo layakartā bhaviṣyati | iyaṁ yā prakṛtirdevī hyumākhyā parameśvarī",
+   "mean_en": "“'My portion likewise will be the maker of dissolution. And this Devi Prakriti, named Uma, is the Parameshvari —'”",
+   "mean_te": "“‘లయకర్తగా నా అంశ (రుద్రుడు) అవుతాడు. ఈ దేవి ప్రకృతి — ఉమా అనే పేరు గలది — పరమేశ్వరీ,’”"
+  },
+  {
+   "n": 46,
+   "text_deva": "तस्यास्तु शक्तिर्वा देवी ब्रह्माणं सा भजिष्यति | अन्या शक्तिः पुनस्तत्र प्रकृतेः संभविष्यति",
+   "text_te": "తస్యాస్తు శక్తిర్వా దేవీ బ్రహ్మాణం సా భజిష్యతి | అన్యా శక్తిః పునస్తత్ర ప్రకృతేః సంభవిష్యతి",
+   "text_en": "tasyāstu śaktirvā devī brahmāṇaṁ sā bhajiṣyati | anyā śaktiḥ punastatra prakṛteḥ saṁbhaviṣyati",
+   "mean_en": "“'her Shakti, the goddess, will worship Brahma; another Shakti will arise there from Prakriti,'”",
+   "mean_te": "“‘ఆమె శక్తియైన దేవి బ్రహ్మను పూజిస్తుంది; మరొక శక్తి ప్రకృతి నుండి పుట్టుతుంది,’”"
+  },
+  {
+   "n": 47,
+   "text_deva": "समाश्रयिष्यति विष्णुं लक्ष्मीरूपेण सा तदा | पुनश्च काली नाम्ना सा मदंशं प्राप्स्यति ध्रुवम्",
+   "text_te": "సమాశ్రయిష్యతి విష్ణుం లక్ష్మీరూపేణ సా తదా | పునశ్చ కాలీ నామ్నా సా మదంశం ప్రాప్స్యతి ధ్రువమ్",
+   "text_en": "samāśrayiṣyati viṣṇuṁ lakṣmīrūpeṇa sā tadā | punaśca kālī nāmnā sā madaṁśaṁ prāpsyati dhruvam",
+   "mean_en": "“'and she, taking the form of Lakshmi, will resort to Vishnu; and again she, by the name Kali, will surely obtain my portion.'”",
+   "mean_te": "“‘ఆమె లక్ష్మీరూపం ధరించి విష్ణువును ఆశ్రయిస్తుంది; మరల ‘కాళీ’ అనే నామంతో అదే నా అంశను (రుద్రుని) పొందుతుంది — నిశ్చయంగా.’”"
+  },
+  {
+   "n": 48,
+   "text_deva": "ज्योती रूपेण सा तत्र कार्यार्थे संभविष्यति | एवं देव्यास्तथा प्रोक्ताश्शक्तयः परमाश्शुभाः",
+   "text_te": "జ్యోతీ రూపేణ సా తత్ర కార్యార్థే సంభవిష్యతి | ఏవం దేవ్యాస్తథా ప్రోక్తాశ్శక్తయః పరమాశ్శుభాః",
+   "text_en": "jyotī rūpeṇa sā tatra kāryārthe saṁbhaviṣyati | evaṁ devyāstathā proktāśśaktayaḥ paramāśśubhāḥ",
+   "mean_en": "“'In the form of light she will appear there for that work. Thus are declared the supreme auspicious shaktis of the Devi,'”",
+   "mean_te": "“‘జ్యోతిరూపంగా ఆమె ఆ కార్యం కొరకు అక్కడ వెలుగుతుంది. ఇలా దేవి యొక్క పరమ శుభమైన శక్తులు చెప్పబడ్డాయి,’”"
+  },
+  {
+   "n": 49,
+   "text_deva": "सृष्टिस्थितिलयानां हि कार्यं तासां क्रमाद्ध्रुवम् | एतस्याः प्रकृत्तेरंशा मत्प्रियायास्सुरौत्तम",
+   "text_te": "సృష్టిస్థితిలయానాం హి కార్యం తాసాం క్రమాద్ధ్రువమ్ | ఏతస్యాః ప్రకృత్తేరంశా మత్ప్రియాయాస్సురౌత్తమ",
+   "text_en": "sṛṣṭisthitilayānāṁ hi kāryaṁ tāsāṁ kramāddhruvam | etasyāḥ prakṛtteraṁśā matpriyāyāssurauttama",
+   "mean_en": "“'whose work, in due order, is creation, sustenance and dissolution. Of this Prakriti, dear to me, O best of gods,'”",
+   "mean_te": "“‘వారి కార్యం క్రమంగా సృష్టి, స్థితి, లయలు. ఈ ప్రకృతి అంశ గురించి — నాకు ప్రియమైన ఆమె — సురోత్తమా,’”"
+  },
+  {
+   "n": 50,
+   "text_deva": "त्वं च लक्ष्मीमुपाश्रित्य कार्यं कर्तुमिहार्हसि | ब्रह्मंस्त्वं च गिरां देवीं प्रकृत्यंशामवाप्य च",
+   "text_te": "త్వం చ లక్ష్మీముపాశ్రిత్య కార్యం కర్తుమిహార్హసి | బ్రహ్మంస్త్వం చ గిరాం దేవీం ప్రకృత్యంశామవాప్య చ",
+   "text_en": "tvaṁ ca lakṣmīmupāśritya kāryaṁ kartumihārhasi | brahmaṁstvaṁ ca girāṁ devīṁ prakṛtyaṁśāmavāpya ca",
+   "mean_en": "“'you, resorting to Lakshmi, must accomplish it here; and you, O Brahmin, obtaining the prakriti-amsha, the goddess of speech,'”",
+   "mean_te": "“‘లక్ష్మీదేవిని ఆశ్రయించి నువ్వు ఇక్కడ ఆ కార్యం చేయాలి; బ్రహ్మణా, ప్రకృత్యంశమైన వాణీదేవిని పొంది నువ్వు,’”"
+  },
+  {
+   "n": 51,
+   "text_deva": "सृष्टिकार्यं हृदा कर्तुम्मन्निदेशादिहार्हसि | अहं कालीं समाश्रित्य मत्प्रियांशां परात्पराम्",
+   "text_te": "సృష్టికార్యం హృదా కర్తుమ్మన్నిదేశాదిహార్హసి | అహం కాలీం సమాశ్రిత్య మత్ప్రియాంశాం పరాత్పరామ్",
+   "text_en": "sṛṣṭikāryaṁ hṛdā kartummannideśādihārhasi | ahaṁ kālīṁ samāśritya matpriyāṁśāṁ parātparām",
+   "mean_en": "“'must here, by my command, perform the work of creation with the heart; and I, resorting to Kali — dear to me, supreme beyond the supreme —'”",
+   "mean_te": "“‘నా ఆజ్ఞతో ఇక్కడ మనస్సుతో సృష్టికార్యాన్ని చేయాలి; నేను మాత్రం కాళీదేవిని — నాకు ప్రియమైన, పరాత్పరానికి అతీత — ఆశ్రయించి,’”"
+  },
+  {
+   "n": 52,
+   "text_deva": "रुद्ररूपेण प्रलयं करिष्ये कार्यमुत्तमम् | चतुर्वर्णमयं लोकं तत्सर्वैराश्रमै ध्रुवम्",
+   "text_te": "రుద్రరూపేణ ప్రలయం కరిష్యే కార్యముత్తమమ్ | చతుర్వర్ణమయం లోకం తత్సర్వైరాశ్రమై ధ్రువమ్",
+   "text_en": "rudrarūpeṇa pralayaṁ kariṣye kāryamuttamam | caturvarṇamayaṁ lokaṁ tatsarvairāśramai dhruvam",
+   "mean_en": "“'shall accomplish the best of works — dissolution — in the Rudra-form. The world of the four varnas and of all the ashramas,'”",
+   "mean_te": "“‘రుద్రరూపంతో ఉత్తమ కార్యమైన ప్రళయాన్ని చేస్తాను. చతుర్వర్ణాలతో కూడిన లోకాన్ని, సర్వాశ్రమాలతో సహా,’”"
+  },
+  {
+   "n": 53,
+   "text_deva": "तदन्यैर्विविधैः कार्यैः कृत्वा सुखमवाप्स्यथः | ज्ञानविज्ञानसंयुक्तो लोकानां हितकारकः",
+   "text_te": "తదన్యైర్వివిధైః కార్యైః కృత్వా సుఖమవాప్స్యథః | జ్ఞానవిజ్ఞానసంయుక్తో లోకానాం హితకారకః",
+   "text_en": "tadanyairvividhaiḥ kāryaiḥ kṛtvā sukhamavāpsyathaḥ | jñānavijñānasaṁyukto lokānāṁ hitakārakaḥ",
+   "mean_en": "“'and the other manifold duties — performing them you two will attain happiness; joined with knowledge and its practice, benefactors of the worlds,'”",
+   "mean_te": "“‘అవే తప్ప ఇతర వివిధ కార్యాలను చేసి మీరిద్దరూ సుఖాన్ని పొందుదురు; జ్ఞాన, విజ్ఞాన సంయుక్తులై — లోకాలకు హితకారులై —,’”"
+  },
+  {
+   "n": 54,
+   "text_deva": "मुक्तिदोऽत्र भवानद्य भव लोके मदाज्ञया | मद्दर्शने फलं यद्वत्तदेव तव दर्शने",
+   "text_te": "ముక్తిదోఽత్ర భవానద్య భవ లోకే మదాజ్ఞయా | మద్దర్శనే ఫలం యద్వత్తదేవ తవ దర్శనే",
+   "text_en": "muktido'tra bhavānadya bhava loke madājñayā | maddarśane phalaṁ yadvattadeva tava darśane",
+   "mean_en": "“'become here today, in the world by my command, givers of liberation; the fruit of my vision is the very fruit of your vision.'”",
+   "mean_te": "“‘ఈ రోజు నా ఆజ్ఞతో లోకంలో ముక్తిప్రదులవుదురు; నా దర్శనానికి ఉన్న ఫలమే నా దర్శనం వల్ల మీకు లభించే ఫలం.’”"
+  },
+  {
+   "n": 55,
+   "text_deva": "इति दत्तो वरस्तेद्य सत्यं सत्यं न संशयः | ममैव हृदये विष्णुर्विष्णोश्च हृदये ह्यहम्",
+   "text_te": "ఇతి దత్తో వరస్తేద్య సత్యం సత్యం న సంశయః | మమైవ హృదయే విష్ణుర్విష్ణోశ్చ హృదయే హ్యహమ్",
+   "text_en": "iti datto varastedya satyaṁ satyaṁ na saṁśayaḥ | mamaiva hṛdaye viṣṇurviṣṇośca hṛdaye hyaham",
+   "mean_en": "“'Thus is the boon given this day — true, true, without doubt. Vishnu is in my heart, and I in Vishnu's heart.'”",
+   "mean_te": "“‘ఈ రోజు ఇచ్చిన వరం ఇది — సత్యం, సత్యం, సందేహం లేదు. నా హృదయంలో విష్ణువు; విష్ణువు హృదయంలో నేను.’”"
+  },
+  {
+   "n": 56,
+   "text_deva": "उभयोरंतरं यो वै न जानाति मनो मम | वामांगजो मम हरिर्दक्षिणांगोद्भवो विधिः",
+   "text_te": "ఉభయోరంతరం యో వై న జానాతి మనో మమ | వామాంగజో మమ హరిర్దక్షిణాంగోద్భవో విధిః",
+   "text_en": "ubhayoraṁtaraṁ yo vai na jānāti mano mama | vāmāṁgajo mama harirdakṣiṇāṁgodbhavo vidhiḥ",
+   "mean_en": "“'Whoever knows not the distinction between us two — (let him know:) from my left side is born Hari; from my right side, Vidhi.'”",
+   "mean_te": "“‘మా ఇద్దరి మధ్య తేడాను ఎవరు ఎరుగరో — (వారికి ఇది తెలియాలి:) నా వామాంగం నుండి హరి పుట్టాడు; దక్షిణాంగం నుండి విధి (బ్రహ్మ).’”"
+  },
+  {
+   "n": 57,
+   "text_deva": "महाप्रलयकृद्रुद्रो विश्वात्मा हृदयोद्भवः | त्रिधा भिन्नो ह्यहं विष्णो ब्रह्मविष्णुभवाख्यया",
+   "text_te": "మహాప్రలయకృద్రుద్రో విశ్వాత్మా హృదయోద్భవః | త్రిధా భిన్నో హ్యహం విష్ణో బ్రహ్మవిష్ణుభవాఖ్యయా",
+   "text_en": "mahāpralayakṛdrudro viśvātmā hṛdayodbhavaḥ | tridhā bhinno hyahaṁ viṣṇo brahmaviṣṇubhavākhyayā",
+   "mean_en": "“'The Rudra who works the great dissolution is the Self of the universe, born of the heart. I am divided threefold, O Vishnu, by the names Brahma, Vishnu, Bhava,'”",
+   "mean_te": "“‘మహాప్రళయం చేసే రుద్రుడు విశ్వాత్ముడు — హృదయోద్భవుడు. బ్రహ్మ, విష్ణు, భవ నామాలతో నేను ముక్కగా విభజితుడనైతిని, విష్ణూ,’”"
+  },
+  {
+   "n": 58,
+   "text_deva": "सर्गरक्षालयकरस्त्रिगुणैरज आदिभिः | गुणभिन्नश्शिवस्साक्षात्प्रकृते पुरुषात्परः",
+   "text_te": "సర్గరక్షాలయకరస్త్రిగుణైరజ ఆదిభిః | గుణభిన్నశ్శివస్సాక్షాత్ప్రకృతే పురుషాత్పరః",
+   "text_en": "sargarakṣālayakarastriguṇairaja ādibhiḥ | guṇabhinnaśśivassākṣātprakṛte puruṣātparaḥ",
+   "mean_en": "“'the doers of creation, protection, dissolution, by the three gunas, the unborn, the beginningless; divided by the gunas is Shiva directly — beyond Prakriti and Purusha,'”",
+   "mean_te": "“‘సృష్టి, రక్షణ, లయల కర్తలము — త్రిగుణాలతో, అజులము, ఆదులము; గుణభేదంతో విభక్తుడైన శివుడు సాక్షాత్తు — ప్రకృతి, పురుషులకు అతీతుడు,’”"
+  },
+  {
+   "n": 59,
+   "text_deva": "परं ब्रह्माद्वयो नित्योऽनन्तः पूर्णो निरंजनः | अंतस्तमो वहिस्सत्त्वस्त्रिजगत्पालको हरिः",
+   "text_te": "పరం బ్రహ్మాద్వయో నిత్యోఽనన్తః పూర్ణో నిరంజనః | అంతస్తమో వహిస్సత్త్వస్త్రిజగత్పాలకో హరిః",
+   "text_en": "paraṁ brahmādvayo nityo'nantaḥ pūrṇo niraṁjanaḥ | aṁtastamo vahissattvastrijagatpālako hariḥ",
+   "mean_en": "“'the Supreme Brahman, without second, eternal, endless, full, stainless. In Hari, protector of the three worlds — tamas within, sattva without;'”",
+   "mean_te": "“‘పరబ్రహ్మ, అద్వయుడు, నిత్యుడు, అనంతుడు, పూర్ణుడు, నిరంజనుడు. హరిలో — త్రిజగత్తుల పాలకుడిలో — అంతర్గతంగా తమస్సు, బహిర్గతంగా సత్తుvasస్సు,’”"
+  },
+  {
+   "n": 60,
+   "text_deva": "अंतस्सत्त्वस्तमोबाह्यस्त्रिजगल्लयकृद्धरः",
+   "text_te": "అంతస్సత్త్వస్తమోబాహ్యస్త్రిజగల్లయకృద్ధరః",
+   "text_en": "aṁtassattvastamobāhyastrijagallayakṛddharaḥ",
+   "mean_en": "“'in Hara, the destroyer of the three worlds — sattva within, tamas without;”",
+   "mean_te": "“హరిలో — త్రిజగత్తుల లయకర్తలో — అంతర్గతంగా సత్తువ, బహిర్గతంగా తమస్సు;"
+  },
+  {
+   "n": 61,
+   "text_deva": "अंतर्बहीरजाश्चैव त्रिजगत्सृष्टिकृद्विधिः | एवं गुणास्त्रिदेवेषु गुणभिन्नः शिवः स्मृतः",
+   "text_te": "అంతర్బహీరజాశ్చైవ త్రిజగత్సృష్టికృద్విధిః | ఏవం గుణాస్త్రిదేవేషు గుణభిన్నః శివః స్మృతః",
+   "text_en": "aṁtarbahīrajāścaiva trijagatsṛṣṭikṛdvidhiḥ | evaṁ guṇāstrideveṣu guṇabhinnaḥ śivaḥ smṛtaḥ",
+   "mean_en": "“in Vidhi, the creator of the three worlds — rajas within and without. Thus, by the three gunas in the three gods, Shiva — divided by the gunas — is remembered.””",
+   "mean_te": "విధిలో — త్రిజగత్తుల సృష్టికర్తలో — అంతర్గతంగానూ, బహిర్గతంగానూ రజస్సు. ఇలా మూడు దేవులలో త్రిగుణాలతో — గుణభేదంతో — శివుడు స్మరించబడతాడు.””"
+  },
+  {
+   "n": 62,
+   "text_deva": "विष्णो सृष्टिकरं प्रीत्या पालयैनं पितामहम् | संपूज्यस्त्रिषु लोकेषु भविष्यसि मदाज्ञया",
+   "text_te": "విష్ణో సృష్టికరం ప్రీత్యా పాలయైనం పితామహమ్ | సంపూజ్యస్త్రిషు లోకేషు భవిష్యసి మదాజ్ఞయా",
+   "text_en": "viṣṇo sṛṣṭikaraṁ prītyā pālayainaṁ pitāmaham | saṁpūjyastriṣu lokeṣu bhaviṣyasi madājñayā",
+   "mean_en": "“'Doing the work of creation with love, protect this grandfather; worshipped in the three worlds, you will be — by my command —'”",
+   "mean_te": "“‘ప్రీతితో సృష్టికార్యాన్ని చేస్తూ ఈ పితామహుడిని పాలించు; మూడు లోకాలలో పూజించబడి, నా ఆజ్ఞతో — నువ్వు —’”"
+  },
+  {
+   "n": 63,
+   "text_deva": "तव सेव्यो विधेश्चापि रुद्र एव भविष्यति | शिवपूर्णावतारो हि त्रिजगल्लयकारकः",
+   "text_te": "తవ సేవ్యో విధేశ్చాపి రుద్ర ఏవ భవిష్యతి | శివపూర్ణావతారో హి త్రిజగల్లయకారకః",
+   "text_en": "tava sevyo vidheścāpi rudra eva bhaviṣyati | śivapūrṇāvatāro hi trijagallayakārakaḥ",
+   "mean_en": "“'to be served by you shall be Vidhi too; Rudra indeed shall be — the full incarnation of Shiva, the maker of the dissolution of the three worlds.'”",
+   "mean_te": "“‘నీచే సేవించదగినవాడు విధి కూడా అవుతాడు; రుద్రుడే — శివుని పూర్ణావతారుడు — త్రిజగత్తుల లయకర్తగా అవుతాడు.’”"
+  },
+  {
+   "n": 64,
+   "text_deva": "पाद्मे भविष्यति सुतः कल्पे तव पितामहः | तदा द्रक्ष्यसि मां चैव सोऽपि द्रक्ष्यति पद्मजः",
+   "text_te": "పాద్మే భవిష్యతి సుతః కల్పే తవ పితామహః | తదా ద్రక్ష్యసి మాం చైవ సోఽపి ద్రక్ష్యతి పద్మజః",
+   "text_en": "pādme bhaviṣyati sutaḥ kalpe tava pitāmahaḥ | tadā drakṣyasi māṁ caiva so'pi drakṣyati padmajaḥ",
+   "mean_en": "“'In the Padma kalpa, O grandfather, a son shall be born to you; then you shall behold me, and the lotus-born too shall behold him.'”",
+   "mean_te": "“‘పద్మ కల్పంలో, పితామహా, నీకు ఒక కుమారుడు పుట్టతాడు; అప్పుడు నువ్వు నన్ను చూస్తావు, పద్మజుడు కూడా అతనిని చూస్తాడు.’”"
+  },
+  {
+   "n": 65,
+   "text_deva": "एवमुक्त्वा महेशानः कृपां कृत्वातुलां हरः | पुनः प्रोवाच सुप्रीत्या विष्णुं सर्वेश्वरः प्रभुः",
+   "text_te": "ఏవముక్త్వా మహేశానః కృపాం కృత్వాతులాం హరః | పునః ప్రోవాచ సుప్రీత్యా విష్ణుం సర్వేశ్వరః ప్రభుః",
+   "text_en": "evamuktvā maheśānaḥ kṛpāṁ kṛtvātulāṁ haraḥ | punaḥ provāca suprītyā viṣṇuṁ sarveśvaraḥ prabhuḥ",
+   "mean_en": "“Thus Maheshana, bestowing grace beyond measure, again spoke to Vishnu — the Lord of all — with supreme affection:”",
+   "mean_te": "“అలా మహేశానుడు అతులమైన కృపను అనుగ్రహించి, మరల సర్వేశ్వరుడైన విష్ణువుతో మిక్కిలి ప్రీతితో అన్నాడు:”"
+  },
+  {
+   "n": 66,
+   "text_deva": "इति श्रीशिवमहापुराणे द्वितीयायां रुद्रसंहितायां प्रथम खण्डे सृष्ट्युपाख्याने शिवतत्त्ववर्णनो नाम नवमोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే ద్వితీయాయాం రుద్రసంహితాయాం ప్రథమ ఖణ్డే సృష్ట్యుపాఖ్యానే శివతత్త్వవర్ణనో నామ నవమోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe dvitīyāyāṁ rudrasaṁhitāyāṁ prathama khaṇḍe sṛṣṭyupākhyāne śivatattvavarṇano nāma navamo'dhyāyaḥ",
+   "mean_en": "Thus ends, in the Sri Shiva Mahapurana, in the second (Rudra) Samhita, in the first khanda, the Srishti-upakhayana: the ninth adhyaya, called “Shiva-tattva-varnana.”",
+   "mean_te": "ఇది శ్రీశివమహాపురాణములో రెండవ రుద్రసంహితలో మొదటి ఖండమైన సృష్ట్యుపాఖ్యానములో “శివతత్త్వవర్ణనము” అనే తొమ్మిదవ అధ్యాయము — ఇది పూర్తయింది."
+  }
+ ]
+}

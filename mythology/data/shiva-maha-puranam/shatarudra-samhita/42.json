@@ -1,0 +1,489 @@
+{
+ "kanda": "shatarudra-samhita",
+ "n": 42,
+ "title_deva": "अवताराञ्छृणु विभोर्द्वादशप्रमितान्परान्",
+ "title_te": "అవతారాఞ్ఛృణు విభోర్ద్వాదశప్రమితాన్పరాన్",
+ "title_iast": "avatārāñchṛṇu vibhordvādaśapramitānparān",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "अवताराञ्छृणु विभोर्द्वादशप्रमितान्परान् | ज्योतिर्लिङ्गस्वरूपान्वै नानोति कारकान्मुने",
+   "text_te": "అవతారాఞ్ఛృణు విభోర్ద్వాదశప్రమితాన్పరాన్ | జ్యోతిర్లిఙ్గస్వరూపాన్వై నానోతి కారకాన్మునే",
+   "text_en": "avatārāñchṛṇu vibhordvādaśapramitānparān | jyotirliṅgasvarūpānvai nānoti kārakānmune",
+   "mean_en": "Hear, O sage, the twelve supreme avatars of the Lord, which have taken the form of Jyotirlingas through different causes.",
+   "mean_te": "ఓ మునీశ్వరా, పరమాత్ముడైన శివుని పన్నెండు పరమ అవతారాలను విను; అవి వివిధ కారణాలతో జ్యోతిర్లింగ స్వరూపాలుగా అవతరించాయి."
+  },
+  {
+   "n": 2,
+   "text_deva": "सौराष्ट्रे सोमनाथश्च श्रीशैले मल्लिकार्जुनः | उज्जयिन्यां महाकाल ओंकारे चामरेश्वरः",
+   "text_te": "సౌరాష్ట్రే సోమనాథశ్చ శ్రీశైలే మల్లికార్జునః | ఉజ్జయిన్యాం మహాకాల ఓంకారే చామరేశ్వరః",
+   "text_en": "saurāṣṭre somanāthaśca śrīśaile mallikārjunaḥ | ujjayinyāṁ mahākāla oṁkāre cāmareśvaraḥ",
+   "mean_en": "Somanatha is in Saurashtra, Mallikarjuna on Srisailam, Mahakala in Ujjayini, and Amreshvara at Omkara.",
+   "mean_te": "సౌరాష్ట్రంలో సోమనాథుడు, శ్రీశైలంలో మల్లికార్జునుడు, ఉజ్జయినీలో మహాకాలుడు, ఓంకారంలో అమరేశ్వరుడు అవతరించారు."
+  },
+  {
+   "n": 3,
+   "text_deva": "केदारो हिमव त्पृष्टे डाकिन्याम्भीमशंकरः | वाराणस्यां च विश्वेशस्त्र्यम्बको गौतमीतटे",
+   "text_te": "కేదారో హిమవ త్పృష్టే డాకిన్యామ్భీమశంకరః | వారాణస్యాం చ విశ్వేశస్త్ర్యమ్బకో గౌతమీతటే",
+   "text_en": "kedāro himava tpṛṣṭe ḍākinyāmbhīmaśaṁkaraḥ | vārāṇasyāṁ ca viśveśastryambako gautamītaṭe",
+   "mean_en": "Kedara is on the peak of the Himalayas, Bhimashankar in Dakini, Vishveshvara in Varanasi, and Tryambaka on the banks of the Gautami (Godavari).",
+   "mean_te": "హిమవత్ శిఖరంపై కేదారుడు, డాకిణీ దేశంలో భీమశంకరుడు, వారణాసిలో విశ్వేశ్వరుడు, గౌతమీ (గోదావరి) తీరంలో త్ర్యంబకేశ్వరుడు ఉన్నారు."
+  },
+  {
+   "n": 4,
+   "text_deva": "वैद्यनाथश्चिताभूमौ नागेशो दारुकावने | सेतुबन्धे च रामेशो घुश्मेशश्च शिवालये",
+   "text_te": "వైద్యనాథశ్చితాభూమౌ నాగేశో దారుకావనే | సేతుబన్ధే చ రామేశో ఘుశ్మేశశ్చ శివాలయే",
+   "text_en": "vaidyanāthaścitābhūmau nāgeśo dārukāvane | setubandhe ca rāmeśo ghuśmeśaśca śivālaye",
+   "mean_en": "Vaidyanatha is at Chitabhumi, Nagesha in Darukavana, Ramesha at Setubandha (Rameswaram), and Ghushmesha at Shivalaya.",
+   "mean_te": "చితాభూమిలో వైద్యనాథుడు, దారుకావనంలో నాగేశుడు, సేతుబంధంలో రామేశుడు, శివాలయంలో ఘుష్మేశుడు అవతరించారు."
+  },
+  {
+   "n": 5,
+   "text_deva": "अवतारद्वादशकमेतच्छम्भोः परात्मनः | सर्वानन्दकरं पुंसान्दर्शनात्स्पर्शनान्मुने",
+   "text_te": "అవతారద్వాదశకమేతచ్ఛమ్భోః పరాత్మనః | సర్వానన్దకరం పుంసాన్దర్శనాత్స్పర్శనాన్మునే",
+   "text_en": "avatāradvādaśakametacchambhoḥ parātmanaḥ | sarvānandakaraṁ puṁsāndarśanātsparśanānmune",
+   "mean_en": "These twelve avatars of Shambhu, the Supreme Self, bestow all happiness upon people through their sight and touch.",
+   "mean_te": "పరమాత్ముడైన శంభువు యొక్క ఈ పన్నెండు అవతారాలు, దర్శన స్పర్శనల వల్ల మానవులకు సర్వానందాన్ని కలిగిస్తాయి."
+  },
+  {
+   "n": 6,
+   "text_deva": "तत्राद्यस्सोमनाथो हि चन्द्रदुःखक्षयंकरः | क्षयकुष्ठादिरोगाणां नाशकः पूजनान्मुने",
+   "text_te": "తత్రాద్యస్సోమనాథో హి చన్ద్రదుఃఖక్షయంకరః | క్షయకుష్ఠాదిరోగాణాం నాశకః పూజనాన్మునే",
+   "text_en": "tatrādyassomanātho hi candraduḥkhakṣayaṁkaraḥ | kṣayakuṣṭhādirogāṇāṁ nāśakaḥ pūjanānmune",
+   "mean_en": "The first of them, Somanatha, removes the sorrow of the Moon and, when worshipped, destroys diseases such as kshaya and kushta.",
+   "mean_te": "వాటిలో మొదటివాడు సోమనాథుడు; చంద్రుని దుఃఖాన్ని హరించి, పూజ వల్ల క్షయరోగం, కుష్ఠరోగం మొదలైన వ్యాధులను నాశనం చేస్తాడు."
+  },
+  {
+   "n": 7,
+   "text_deva": "शिवावतारस्सोमेशो लिंगरूपेण संस्थितः | सौराष्ट्रे शुभदेशे च शशिना पूजितः पुरा",
+   "text_te": "శివావతారస్సోమేశో లింగరూపేణ సంస్థితః | సౌరాష్ట్రే శుభదేశే చ శశినా పూజితః పురా",
+   "text_en": "śivāvatārassomeśo liṁgarūpeṇa saṁsthitaḥ | saurāṣṭre śubhadeśe ca śaśinā pūjitaḥ purā",
+   "mean_en": "The Shiva avatar Somesha, established in Linga form in the auspicious land of Saurashtra, was worshipped in ancient times by Soma (the Moon).",
+   "mean_te": "సోమేశ్వర అవతారమైన శివుడు లింగరూపంలో సౌరాష్ట్ర శుభదేశంలో స్థితి చెంది, పూర్వం చంద్రునిచే పూజింపబడ్డాడు."
+  },
+  {
+   "n": 8,
+   "text_deva": "चंद्रकुण्डं च तत्रैव सर्वपापविनाशकम् | तत्र स्नात्वा नरो धीमान्सर्वरोगैः प्रमुच्यते",
+   "text_te": "చంద్రకుణ్డం చ తత్రైవ సర్వపాపవినాశకమ్ | తత్ర స్నాత్వా నరో ధీమాన్సర్వరోగైః ప్రముచ్యతే",
+   "text_en": "caṁdrakuṇḍaṁ ca tatraiva sarvapāpavināśakam | tatra snātvā naro dhīmānsarvarogaiḥ pramucyate",
+   "mean_en": "The Chandrakunda there destroys all sins; a wise man who bathes in it is freed from all diseases.",
+   "mean_te": "అక్కడ ఉన్న చంద్రకుండం సమస్త పాపాలను నాశనం చేస్తుంది; దానిలో స్నానం చేసిన వివేకవంతుడైన మనిషి సర్వరోగాల నుండి విముక్తుడవుతాడు."
+  },
+  {
+   "n": 9,
+   "text_deva": "सोमेश्वरं महालिंगं शिवस्य परमात्मकम् | दृष्ट्वा प्रमुच्यते पापाद्भुक्तिं मुक्तिं च विन्दति",
+   "text_te": "సోమేశ్వరం మహాలింగం శివస్య పరమాత్మకమ్ | దృష్ట్వా ప్రముచ్యతే పాపాద్భుక్తిం ముక్తిం చ విన్దతి",
+   "text_en": "someśvaraṁ mahāliṁgaṁ śivasya paramātmakam | dṛṣṭvā pramucyate pāpādbhuktiṁ muktiṁ ca vindati",
+   "mean_en": "By seeing Someshvara, the great Linga that is the supreme essence of Shiva, one is freed from sin and attains both enjoyment and liberation.",
+   "mean_te": "శివుని పరమాత్మ స్వరూపమైన సోమేశ్వర మహాలింగాన్ని దర్శించడం ద్వారా పాపాల నుండి విముక్తుడై, భుక్తిని (సుఖాన్ని) మరియు ముక్తిని పొందుతాడు."
+  },
+  {
+   "n": 10,
+   "text_deva": "मल्लिकार्जुनसंज्ञश्चावतारश्शंकरस्य वै | द्वितीयः श्रीगिरौ तात भक्ताभीष्टफलप्रदः",
+   "text_te": "మల్లికార్జునసంజ్ఞశ్చావతారశ్శంకరస్య వై | ద్వితీయః శ్రీగిరౌ తాత భక్తాభీష్టఫలప్రదః",
+   "text_en": "mallikārjunasaṁjñaścāvatāraśśaṁkarasya vai | dvitīyaḥ śrīgirau tāta bhaktābhīṣṭaphalapradaḥ",
+   "mean_en": "The second avatar of Shankara is named Mallikarjuna, dwelling on Srigiri (Srisailam), O dear one; he grants devotees the desired fruits.",
+   "mean_te": "శంకరుని రెండవ అవతారం మల్లికార్జునుడు; అతడు శ్రీగిరి (శ్రీశైలం) పై వెలసి, భక్తులు కోరిన ఫలాలను ప్రసాదిస్తాడు."
+  },
+  {
+   "n": 11,
+   "text_deva": "संस्तुतो लिंगरूपेण सुतदर्शनहेतुतः | गतस्तत्र महाप्रीत्या स शिवः स्वगिरेर्मुने",
+   "text_te": "సంస్తుతో లింగరూపేణ సుతదర్శనహేతుతః | గతస్తత్ర మహాప్రీత్యా స శివః స్వగిరేర్మునే",
+   "text_en": "saṁstuto liṁgarūpeṇa sutadarśanahetutaḥ | gatastatra mahāprītyā sa śivaḥ svagirermune",
+   "mean_en": "Being praised in Linga form, and in order to have the sight of their son, that Shiva with great love went there to his own mountain.",
+   "mean_te": "లింగరూపంలో స్తుతింపబడి, కుమారుని (సుతుని) దర్శనం కోసం, ఆ శివుడు మహా ప్రేమతో తన శ్రీశైల పర్వతం మీదికి వెళ్ళాడు."
+  },
+  {
+   "n": 12,
+   "text_deva": "ज्योतिर्लिंगं द्वितीयन्तद्दर्शनात्पूजनान्मुने | महासुखकरं चान्ते मुक्तिदन्नात्र संशयः",
+   "text_te": "జ్యోతిర్లింగం ద్వితీయన్తద్దర్శనాత్పూజనాన్మునే | మహాసుఖకరం చాన్తే ముక్తిదన్నాత్ర సంశయః",
+   "text_en": "jyotirliṁgaṁ dvitīyantaddarśanātpūjanānmune | mahāsukhakaraṁ cānte muktidannātra saṁśayaḥ",
+   "mean_en": "That second Jyotirlinga, by seeing and worshipping it, bestows great happiness and, at the end, liberation — of this there is no doubt.",
+   "mean_te": "ఆ రెండవ జ్యోతిర్లింగాన్ని దర్శించి పూజించడం వల్ల మహాసుఖం కలుగుతుంది; చివరికి ముక్తి కూడా లభిస్తుందనడంలో సందేహం లేదు."
+  },
+  {
+   "n": 13,
+   "text_deva": "महाकालाभिधस्तातावतारश्शंकरस्य वै | उज्जयिन्यां नगर्य्यां च बभूव स्वजनावनः",
+   "text_te": "మహాకాలాభిధస్తాతావతారశ్శంకరస్య వై | ఉజ్జయిన్యాం నగర్య్యాం చ బభూవ స్వజనావనః",
+   "text_en": "mahākālābhidhastātāvatāraśśaṁkarasya vai | ujjayinyāṁ nagaryyāṁ ca babhūva svajanāvanaḥ",
+   "mean_en": "The avatar of Shankara named Mahakala, O dear one, came into being in the city of Ujjayini for the protection of his own people.",
+   "mean_te": "శంకరుని అవతారమైన మహాకాలుడు, తన జనులను (భక్తులను) రక్షించడానికి ఉజ్జయినీ నగరంలో అవతరించాడు."
+  },
+  {
+   "n": 14,
+   "text_deva": "दूषणाख्यासुरं यस्तु वेदधर्मप्रमर्दकम् | उज्जयिन्यां गतं विप्रद्वेषिणं सर्वनाशनम्",
+   "text_te": "దూషణాఖ్యాసురం యస్తు వేదధర్మప్రమర్దకమ్ | ఉజ్జయిన్యాం గతం విప్రద్వేషిణం సర్వనాశనమ్",
+   "text_en": "dūṣaṇākhyāsuraṁ yastu vedadharmapramardakam | ujjayinyāṁ gataṁ vipradveṣiṇaṁ sarvanāśanam",
+   "mean_en": "The demon named Dushana, who ruined the Vedic dharma, hated the Brahmins, and dwelt in Ujjayini destroying everything.",
+   "mean_te": "వేదధర్మాన్ని నాశనం చేసేవాడు, విప్రుల (బ్రాహ్మణుల) పట్ల ద్వేషం కలవాడు, సర్వనాశకుడు అయిన దూషణుడు అనే రాక్షసుడు ఉజ్జయినీలో ఉండేవాడు."
+  },
+  {
+   "n": 15,
+   "text_deva": "वेदविप्रसुतध्यातो हुङ्कारेणैव स द्रुतम् | भस्मसात्कृतवांस्तं च रत्नमाल निवासिनम्",
+   "text_te": "వేదవిప్రసుతధ్యాతో హుఙ్కారేణైవ స ద్రుతమ్ | భస్మసాత్కృతవాంస్తం చ రత్నమాల నివాసినమ్",
+   "text_en": "vedaviprasutadhyāto huṅkāreṇaiva sa drutam | bhasmasātkṛtavāṁstaṁ ca ratnamāla nivāsinam",
+   "mean_en": "Meditated upon by the son of a Vedic Brahmin, he swiftly reduced that Dushana, who resided in Ratnamala, to ashes with his mere humkara.",
+   "mean_te": "వేదపండిత కుమారుని ధ్యానంతో సంతుష్టుడైన ఆ మహాకాలుడు, ఒక్క హుంకారంతోనే రత్నమాలలో నివసించే ఆ దూషణుని వెంటనే భస్మం చేశాడు."
+  },
+  {
+   "n": 16,
+   "text_deva": "तं हत्वा स महाकालो ज्योतिर्लिंगस्वरूपतः | देवैस्स प्रार्थितोऽतिष्ठत्स्वभक्तपरिपालकः",
+   "text_te": "తం హత్వా స మహాకాలో జ్యోతిర్లింగస్వరూపతః | దేవైస్స ప్రార్థితోఽతిష్ఠత్స్వభక్తపరిపాలకః",
+   "text_en": "taṁ hatvā sa mahākālo jyotirliṁgasvarūpataḥ | devaissa prārthito'tiṣṭhatsvabhaktaparipālakaḥ",
+   "mean_en": "Having slain him, Mahakala, in the form of the Jyotirlinga, was entreated by the gods and remained there as the protector of his devotees.",
+   "mean_te": "దూషణుని వధించిన ఆ మహాకాలుడు జ్యోతిర్లింగ స్వరూపంగా దేవతలచే ప్రార్థింపబడి, భక్తులను పాలించేవాడై అక్కడే స్థితి చెందాడు."
+  },
+  {
+   "n": 17,
+   "text_deva": "महाकालाह्वयं लिंगं दृष्ट्वाभ्यर्च्य प्रयत्नतः | सर्वान्कामानवाप्नोति लभते परतो गतिम्",
+   "text_te": "మహాకాలాహ్వయం లింగం దృష్ట్వాభ్యర్చ్య ప్రయత్నతః | సర్వాన్కామానవాప్నోతి లభతే పరతో గతిమ్",
+   "text_en": "mahākālāhvayaṁ liṁgaṁ dṛṣṭvābhyarcya prayatnataḥ | sarvānkāmānavāpnoti labhate parato gatim",
+   "mean_en": "One who sees and carefully worships the Linga called Mahakala attains all his desires, and ultimately obtains the supreme state.",
+   "mean_te": "మహాకాల లింగాన్ని దర్శించి యథావిధిగా పూజించేవాడు సమస్త కామనలను పొంది, పరమగతిని పొందుతాడు."
+  },
+  {
+   "n": 18,
+   "text_deva": "ओङ्कारः परमेशानो धृतः शम्भो परात्मनः | अवतारश्चतुर्थो हि भक्ताभीष्टफलप्रदः",
+   "text_te": "ఓఙ్కారః పరమేశానో ధృతః శమ్భో పరాత్మనః | అవతారశ్చతుర్థో హి భక్తాభీష్టఫలప్రదః",
+   "text_en": "oṅkāraḥ parameśāno dhṛtaḥ śambho parātmanaḥ | avatāraścaturtho hi bhaktābhīṣṭaphalapradaḥ",
+   "mean_en": "Oṁkāra himself is Parameśvara, upheld by Śambhu, the supreme Self; this is Śiva's fourth avatar, granting devotees the fruits they desire.",
+   "mean_te": "ఓంకారమే పరమేశ్వరుడు; పరమాత్ముడైన శంభుడు ధరించిన ఇదే శివుని నాలుగవ అవతారం, భక్తులు కోరిన ఫలాలను ప్రసాదించేది."
+  },
+  {
+   "n": 19,
+   "text_deva": "विधिना स्थापितो भक्त्या स्वलिंगात्पार्थिवान्मुने | प्रादुर्भूतो महादेवो विन्ध्यकामप्रपूरकः",
+   "text_te": "విధినా స్థాపితో భక్త్యా స్వలింగాత్పార్థివాన్మునే | ప్రాదుర్భూతో మహాదేవో విన్ధ్యకామప్రపూరకః",
+   "text_en": "vidhinā sthāpito bhaktyā svaliṁgātpārthivānmune | prādurbhūto mahādevo vindhyakāmaprapūrakaḥ",
+   "mean_en": "Installed with due rites and devotion by the king from his own liṅga, Mahādeva manifested there as the fulfiller of desires at Vindhya.",
+   "mean_te": "రాజు తన స్వలింగమునుండి భక్తితో విధిపూర్వకంగా ప్రతిష్ఠించగా, మహాదేవుడు వింధ్యప్రాంతంలో కోర్కెలు నెరవేర్చే దేవునిగా ప్రత్యక్షమయ్యాడు."
+  },
+  {
+   "n": 20,
+   "text_deva": "देवैस्संप्रार्थितस्तत्र द्विधारूपेण संस्थितः | भुक्तिमुक्तिप्रदो लिंगरूपो वै शक्तवत्सल",
+   "text_te": "దేవైస్సంప్రార్థితస్తత్ర ద్విధారూపేణ సంస్థితః | భుక్తిముక్తిప్రదో లింగరూపో వై శక్తవత్సల",
+   "text_en": "devaissaṁprārthitastatra dvidhārūpeṇa saṁsthitaḥ | bhuktimuktiprado liṁgarūpo vai śaktavatsala",
+   "mean_en": "Prayed to by the gods there, Śiva took up two forms; his liṅga-form, dear to Śakti, bestows both worldly enjoyment and liberation.",
+   "mean_te": "అక్కడ దేవతలు ప్రార్థించగా శివుడు రెండు రూపాలలో నిలిచాడు; శక్తికి ప్రీతిపాత్రమైన ఆ లింగరూపం భుక్తి ముక్తులను రెండూ ప్రసాదిస్తుంది."
+  },
+  {
+   "n": 21,
+   "text_deva": "प्रणवे चैव चोंकारनामासील्लिंगमुत्तमम् | परमेश्वरनामासीत्पार्थिवश्च मुनीश्वर",
+   "text_te": "ప్రణవే చైవ చోంకారనామాసీల్లింగముత్తమమ్ | పరమేశ్వరనామాసీత్పార్థివశ్చ మునీశ్వర",
+   "text_en": "praṇave caiva coṁkāranāmāsīlliṁgamuttamam | parameśvaranāmāsītpārthivaśca munīśvara",
+   "mean_en": "In the Praṇava (Oṁ) it became the excellent liṅga named Oṁkāra, called Parameśvara; the king who installed it was the foremost of sages.",
+   "mean_te": "ప్రణవమున ఓంకారనామంతో ఉత్తమ లింగమై పరమేశ్వరుడని పిలువబడింది; ఆ రాజు మునులలో శ్రేష్ఠుడైనాడు."
+  },
+  {
+   "n": 22,
+   "text_deva": "भक्ताभीष्टप्रदो ज्ञेयो योपि दृष्टोर्चितो मुने | ज्योतिर्लिंगे महादिव्ये वर्णिते ते महामुने",
+   "text_te": "భక్తాభీష్టప్రదో జ్ఞేయో యోపి దృష్టోర్చితో మునే | జ్యోతిర్లింగే మహాదివ్యే వర్ణితే తే మహామునే",
+   "text_en": "bhaktābhīṣṭaprado jñeyo yopi dṛṣṭorcito mune | jyotirliṁge mahādivye varṇite te mahāmune",
+   "mean_en": "That great divine Jyotirliṅga, honored by mere sight, should be known as the bestower of devotees' desired fruits, O great sage.",
+   "mean_te": "దర్శనం మాత్రంతో పూజింపబడే ఆ మహాదివ్యమైన జ్యోతిర్లింగం భక్తుల అభీష్ట ఫలాలను ప్రసాదించేదిగా తెలుసుకోవాలి, మహామునీంద్రా!"
+  },
+  {
+   "n": 23,
+   "text_deva": "केदारेशोवतारस्तु पंचमः परमश्शिवः | ज्योतिर्लिंगस्वरूपेण केदारे संस्थितस्य च",
+   "text_te": "కేదారేశోవతారస్తు పంచమః పరమశ్శివః | జ్యోతిర్లింగస్వరూపేణ కేదారే సంస్థితస్య చ",
+   "text_en": "kedāreśovatārastu paṁcamaḥ paramaśśivaḥ | jyotirliṁgasvarūpeṇa kedāre saṁsthitasya ca",
+   "mean_en": "Kedāreśa, the supreme Śiva, is his fifth avatar; in the form of a Jyotirliṅga he is stationed at Kedāra.",
+   "mean_te": "కేదారేశుడు పరమ శివుని ఐదవ అవతారం; జ్యోతిర్లింగ స్వరూపంతో కేదారంలో స్థితి చెందాడు."
+  },
+  {
+   "n": 24,
+   "text_deva": "नरनारायणाख्यौ याववतारौ हरेर्मुने | तत्प्रार्थितश्शिवस्तत्स्थैः केदारे हिमभूधरे",
+   "text_te": "నరనారాయణాఖ్యౌ యావవతారౌ హరేర్మునే | తత్ప్రార్థితశ్శివస్తత్స్థైః కేదారే హిమభూధరే",
+   "text_en": "naranārāyaṇākhyau yāvavatārau harermune | tatprārthitaśśivastatsthaiḥ kedāre himabhūdhare",
+   "mean_en": "Nara and Nārāyaṇa, the avatars of Hari (Viṣṇu), propitiated Śiva; propitiated by them, the lord manifested at Kedāra in the Himālayas.",
+   "mean_te": "విష్ణువు అవతారాలైన నరుడు నారాయణులు శివుని తపస్సుతో ప్రార్థించారు; వారి ప్రార్థనతో సంతోషించి హిమాలయంలోని కేదారంలో శివుడు అవతరించాడు."
+  },
+  {
+   "n": 25,
+   "text_deva": "ताभ्यां च पूजितो नित्यं केदारेश्वरसंज्ञकः | भक्ताभीष्टप्रदः शम्भुर्दर्शनादर्चनादपि",
+   "text_te": "తాభ్యాం చ పూజితో నిత్యం కేదారేశ్వరసంజ్ఞకః | భక్తాభీష్టప్రదః శమ్భుర్దర్శనాదర్చనాదపి",
+   "text_en": "tābhyāṁ ca pūjito nityaṁ kedāreśvarasaṁjñakaḥ | bhaktābhīṣṭapradaḥ śambhurdarśanādarcanādapi",
+   "mean_en": "Worshipped by them ceaselessly, he bears the name Kedāreśvara; Śambhu grants devotees their desires by mere sight and worship.",
+   "mean_te": "వారిచే నిత్యం పూజింపబడి కేదారేశ్వరుడనే పేరు పొందాడు; దర్శనం పూజ మాత్రంతోనే శంభుడు భక్తుల కోరికలను తీర్చుతాడు."
+  },
+  {
+   "n": 26,
+   "text_deva": "अस्य खण्डस्य स स्वामी सर्वेशोपि विशेषतः | सर्वकामप्रदस्तात सोवतारश्शिवस्य वै",
+   "text_te": "అస్య ఖణ్డస్య స స్వామీ సర్వేశోపి విశేషతః | సర్వకామప్రదస్తాత సోవతారశ్శివస్య వై",
+   "text_en": "asya khaṇḍasya sa svāmī sarveśopi viśeṣataḥ | sarvakāmapradastāta sovatāraśśivasya vai",
+   "mean_en": "He is the master of that region and, specially, the Lord of all; bestowing every desire, he is that avatar of Śiva.",
+   "mean_te": "ఆ ప్రాంతానికి స్వామి; విశేషంగా సర్వేశుడు, సర్వ కామాలను ప్రసాదించేవాడు; ఇతడే శివుని ఆ అవతారం."
+  },
+  {
+   "n": 27,
+   "text_deva": "भीमशंकरसंज्ञस्तु षष्ठः शम्भोर्महाप्रभोः | अवतारो महालीलो भीमासुरविनाशनः",
+   "text_te": "భీమశంకరసంజ్ఞస్తు షష్ఠః శమ్భోర్మహాప్రభోః | అవతారో మహాలీలో భీమాసురవినాశనః",
+   "text_en": "bhīmaśaṁkarasaṁjñastu ṣaṣṭhaḥ śambhormahāprabhoḥ | avatāro mahālīlo bhīmāsuravināśanaḥ",
+   "mean_en": "The sixth avatar of the great lord Śambhu is Bhīmaśaṅkara, of great divine play, the destroyer of the demon Bhīma.",
+   "mean_te": "మహాప్రభువైన శంభువు ఆరవ అవతారం భీమశంకరుడు; మహాలీలాశాలి, భీమాసురుని వినాశనం చేసినవాడు."
+  },
+  {
+   "n": 28,
+   "text_deva": "सुदक्षिणाभिधम्भक्तङ्कामरूपेश्वरन्नृपम् | यो ररक्षाद्भुतं हत्वासुरन्तं भक्तदुःखदम्",
+   "text_te": "సుదక్షిణాభిధమ్భక్తఙ్కామరూపేశ్వరన్నృపమ్ | యో రరక్షాద్భుతం హత్వాసురన్తం భక్తదుఃఖదమ్",
+   "text_en": "sudakṣiṇābhidhambhaktaṅkāmarūpeśvarannṛpam | yo rarakṣādbhutaṁ hatvāsurantaṁ bhaktaduḥkhadam",
+   "mean_en": "He wondrously protected his devotee, the king Sudakṣiṇa of Kāmarūpa, after slaying the demon who tormented devotees.",
+   "mean_te": "భక్తులకు దుఃఖం కలిగించే రాక్షసుని సంహరించి, కామరూపాధిపతి, తన భక్తుడైన సుదక్షిణ మహారాజును అద్భుతంగా రక్షించాడు."
+  },
+  {
+   "n": 29,
+   "text_deva": "भीमशङ्करनामा स डाकिन्यां संस्थितस्स्वयम् | ज्योतिर्लिंगस्वरूपेण प्रार्थितस्तेन शंकरः",
+   "text_te": "భీమశఙ్కరనామా స డాకిన్యాం సంస్థితస్స్వయమ్ | జ్యోతిర్లింగస్వరూపేణ ప్రార్థితస్తేన శంకరః",
+   "text_en": "bhīmaśaṅkaranāmā sa ḍākinyāṁ saṁsthitassvayam | jyotirliṁgasvarūpeṇa prārthitastena śaṁkaraḥ",
+   "mean_en": "That Śaṁkara himself, named Bhīmaśaṅkara, is stationed at Ḍākinī (a śakti-pīṭha); propitiated by that king, he appeared in the form of a Jyotirliṅga.",
+   "mean_te": "భీమశంకర నామంతో ఆ శంకరుడు డాకినీ ప్రాంతంలో స్వయంగా స్థితి చెందాడు; ఆ రాజు ప్రార్థించగా జ్యోతిర్లింగ స్వరూపంతో ప్రకటించుకున్నాడు."
+  },
+  {
+   "n": 30,
+   "text_deva": "विश्वेश्वरावतारस्तु काश्यां जातो हि सप्तमः | सर्वब्रह्माण्डरूपश्च भुक्तिमुक्तिप्रदो मुने",
+   "text_te": "విశ్వేశ్వరావతారస్తు కాశ్యాం జాతో హి సప్తమః | సర్వబ్రహ్మాణ్డరూపశ్చ భుక్తిముక్తిప్రదో మునే",
+   "text_en": "viśveśvarāvatārastu kāśyāṁ jāto hi saptamaḥ | sarvabrahmāṇḍarūpaśca bhuktimuktiprado mune",
+   "mean_en": "The Viśveśvara avatar is the seventh, born at Kāśī; he is of the form of all the brahmāṇḍas and grants enjoyment and liberation, O sage.",
+   "mean_te": "విశ్వేశ్వర అవతారం ఏడవది; కాశీలో జన్మించాడు. సర్వ బ్రహ్మాండ స్వరూపుడై భుక్తి ముక్తులను ప్రసాదిస్తాడు."
+  },
+  {
+   "n": 31,
+   "text_deva": "पूजितस्सर्वदेवैश्च भक्त्या विष्ण्वादिभिस्सदा | कैलासपतिना चापि भैरवेणापि नित्यशः",
+   "text_te": "పూజితస్సర్వదేవైశ్చ భక్త్యా విష్ణ్వాదిభిస్సదా | కైలాసపతినా చాపి భైరవేణాపి నిత్యశః",
+   "text_en": "pūjitassarvadevaiśca bhaktyā viṣṇvādibhissadā | kailāsapatinā cāpi bhairaveṇāpi nityaśaḥ",
+   "mean_en": "He is worshipped always with devotion by all the gods, by Viṣṇu and others, by the lord of Kailāsa and by Bhairava daily.",
+   "mean_te": "విష్ణువు మొదలైన సకల దేవతలచే భక్తితో, కైలాసపతిచే, భైరవునిచే నిత్యం పూజించబడ్డాడు."
+  },
+  {
+   "n": 32,
+   "text_deva": "ज्योतिर्लिंगस्वरूपेण संस्थितस्तत्र मुक्तिदः | स्वयं सिद्धस्वरूपो हि तथा स्वपुरि स प्रभुः",
+   "text_te": "జ్యోతిర్లింగస్వరూపేణ సంస్థితస్తత్ర ముక్తిదః | స్వయం సిద్ధస్వరూపో హి తథా స్వపురి స ప్రభుః",
+   "text_en": "jyotirliṁgasvarūpeṇa saṁsthitastatra muktidaḥ | svayaṁ siddhasvarūpo hi tathā svapuri sa prabhuḥ",
+   "mean_en": "Stationed there in the form of a Jyotirliṅga, he grants liberation; self-established in his own nature, he is the lord in his own city.",
+   "mean_te": "అక్కడ జ్యోతిర్లింగ స్వరూపంతో స్థితి చెంది మోక్షం ప్రసాదిస్తాడు; స్వయంసిద్ధ స్వరూపుడు, తన పురమునకు ప్రభువు."
+  },
+  {
+   "n": 33,
+   "text_deva": "काशीविश्वेशयोर्भक्त्या तन्नामजपकारकाः | निर्लिप्ताः कर्मभिर्न्नित्यं केवल्यपदभागिनः",
+   "text_te": "కాశీవిశ్వేశయోర్భక్త్యా తన్నామజపకారకాః | నిర్లిప్తాః కర్మభిర్న్నిత్యం కేవల్యపదభాగినః",
+   "text_en": "kāśīviśveśayorbhaktyā tannāmajapakārakāḥ | nirliptāḥ karmabhirnnityaṁ kevalyapadabhāginaḥ",
+   "mean_en": "Those who devotedly repeat the names of Kāśīviśveśa remain forever untouched by karma and attain the state of kaivalya (final liberation).",
+   "mean_te": "భక్తితో కాశీ విశ్వేశ్వరుని నామాన్ని జపించేవారు ఎల్లప్పుడూ కర్మలిక్తులై కైవల్య పదవిని పొందుతారు."
+  },
+  {
+   "n": 34,
+   "text_deva": "त्र्यंबकाख्योऽवतारो यः सोष्टमो गौतमीतटे | प्रार्थितो गौतमेनाविर्बभूव शशिमौलिनः",
+   "text_te": "త్ర్యంబకాఖ్యోఽవతారో యః సోష్టమో గౌతమీతటే | ప్రార్థితో గౌతమేనావిర్బభూవ శశిమౌలినః",
+   "text_en": "tryaṁbakākhyo'vatāro yaḥ soṣṭamo gautamītaṭe | prārthito gautamenāvirbabhūva śaśimaulinaḥ",
+   "mean_en": "Tryaṁbaka is his eighth avatar; propitiated by Gautama, the moon-crested lord became manifest on the bank of the Gautamī (Godāvarī).",
+   "mean_te": "త్ర్యంబకుడు ఎనిమిదవ అవతారం; గౌతమ మహర్షి ప్రార్థనతో శశిమౌళియైన శివుడు గౌతమీ (గోదావరి) తీరంలో ప్రత్యక్షమయ్యాడు."
+  },
+  {
+   "n": 35,
+   "text_deva": "गौतमस्य प्रार्थनया ज्योतिर्लिंग स्वरूपतः | स्थितस्तत्राचलः प्रीत्या तन्मुनेः प्रीतिकाम्यया",
+   "text_te": "గౌతమస్య ప్రార్థనయా జ్యోతిర్లింగ స్వరూపతః | స్థితస్తత్రాచలః ప్రీత్యా తన్మునేః ప్రీతికామ్యయా",
+   "text_en": "gautamasya prārthanayā jyotirliṁga svarūpataḥ | sthitastatrācalaḥ prītyā tanmuneḥ prītikāmyayā",
+   "mean_en": "By Gautama's prayer, a hill (achala) stands there in the very form of a jyotirlinga; out of delight at that sage, Shiva manifested there through his loving devotion.",
+   "mean_te": "గౌతముని ప్రార్థనతో, ఆయనపై ప్రీతితో శివుడు అక్కడ జ్యోతిర్లింగ స్వరూపుడై ఒక కొండగా స్థితిచెందాడు."
+  },
+  {
+   "n": 36,
+   "text_deva": "तस्य सन्दर्शनात्स्पर्शाद्दर्शनाच्च महेशितुः | सर्वे कामाः प्रसिध्यन्ति ततो मुक्तिर्भवेदहो",
+   "text_te": "తస్య సన్దర్శనాత్స్పర్శాద్దర్శనాచ్చ మహేశితుః | సర్వే కామాః ప్రసిధ్యన్తి తతో ముక్తిర్భవేదహో",
+   "text_en": "tasya sandarśanātsparśāddarśanācca maheśituḥ | sarve kāmāḥ prasidhyanti tato muktirbhavedaho",
+   "mean_en": "By that linga's darshan and by touching and seeing the form of Mahesha, all desires are fulfilled and liberation is attained, indeed.",
+   "mean_te": "ఆ లింగాన్ని దర్శించడం వల్లను, మహేశ్వరుని స్పర్శ మరియు దర్శనం వల్లను సమస్త కోరికలు నెరవేరి, తరువాత మోక్షం లభిస్తుంది."
+  },
+  {
+   "n": 37,
+   "text_deva": "शिवानुग्रहतस्तत्र गंगा नाम्ना तु गौतमी | संस्थिता गौतमप्रीत्या पावनी शंकरप्रिया",
+   "text_te": "శివానుగ్రహతస్తత్ర గంగా నామ్నా తు గౌతమీ | సంస్థితా గౌతమప్రీత్యా పావనీ శంకరప్రియా",
+   "text_en": "śivānugrahatastatra gaṁgā nāmnā tu gautamī | saṁsthitā gautamaprītyā pāvanī śaṁkarapriyā",
+   "mean_en": "There, through Shiva's grace and in honor of Gautama, a river called Gautami (Godavari) resides; it is purifying and dear to Shankara.",
+   "mean_te": "శివుని అనుగ్రహం వల్ల గౌతముని ప్రీతికోసం 'గౌతమీ' అనే గంగ అక్కడ ప్రవహిస్తోంది; అది పాపాలను పరిహరించేది, శంకరునికి ప్రియమైనది."
+  },
+  {
+   "n": 38,
+   "text_deva": "वैद्यनाथावतारो हि नवमस्तत्र कीर्तितः | आविर्भूतो रावणार्थं बहुलीलाकरः प्रभुः",
+   "text_te": "వైద్యనాథావతారో హి నవమస్తత్ర కీర్తితః | ఆవిర్భూతో రావణార్థం బహులీలాకరః ప్రభుః",
+   "text_en": "vaidyanāthāvatāro hi navamastatra kīrtitaḥ | āvirbhūto rāvaṇārthaṁ bahulīlākaraḥ prabhuḥ",
+   "mean_en": "There the ninth avatara, Vaidyanatha, is celebrated; the Lord, of abundant divine play, manifested there for the sake of Ravana.",
+   "mean_te": "అక్కడ వైద్యనాథుడు తొమ్మిదో అవతారముగా కీర్తించబడ్డాడు; అపారమైన లీలలు చేసే ఆ ప్రభువు రావణుని కోర్కె కొరకు అక్కడ ఆవిర్భవించాడు."
+  },
+  {
+   "n": 39,
+   "text_deva": "तदानयनरूपं हि व्याजं कृत्वा महेश्वरः | ज्योतिर्लिंगस्वरूपेण चिताभूमौ प्रतिष्ठितः",
+   "text_te": "తదానయనరూపం హి వ్యాజం కృత్వా మహేశ్వరః | జ్యోతిర్లింగస్వరూపేణ చితాభూమౌ ప్రతిష్ఠితః",
+   "text_en": "tadānayanarūpaṁ hi vyājaṁ kṛtvā maheśvaraḥ | jyotirliṁgasvarūpeṇa citābhūmau pratiṣṭhitaḥ",
+   "mean_en": "Maheshvara, making the act of carrying (the linga) a pretext, established himself in the cremation ground in the form of a jyotirlinga.",
+   "mean_te": "రావణుడు లింగాన్ని మోయడం అనే సందర్భాన్ని వాడుకుని, మహేశ్వరుడు జ్యోతిర్లింగ రూపుడై శ్మశానభూమిలో స్థిరపడ్డాడు."
+  },
+  {
+   "n": 40,
+   "text_deva": "वैद्यनाथेश्वरो नाम्ना प्रसिद्धोभूज्जगत्त्रये | दर्शनात्पूजनाद्भक्त्या भुक्तिमुक्तिप्रदः स हि",
+   "text_te": "వైద్యనాథేశ్వరో నామ్నా ప్రసిద్ధోభూజ్జగత్త్రయే | దర్శనాత్పూజనాద్భక్త్యా భుక్తిముక్తిప్రదః స హి",
+   "text_en": "vaidyanātheśvaro nāmnā prasiddhobhūjjagattraye | darśanātpūjanādbhaktyā bhuktimuktipradaḥ sa hi",
+   "mean_en": "He became renowned in all the three worlds by the name Vaidyanatheshvara; by darshan, worship, and devotion he grants enjoyment (bhukti) and liberation (mukti).",
+   "mean_te": "ఆయన 'వైద్యనాథేశ్వరుడు' అనే పేరుతో మూడు లోకాలలో ప్రసిద్ధి చెందాడు; దర్శనం, పూజ, భక్తి చే అతడు భుక్తి మరియు ముక్తి రెండింటినీ ప్రసాదిస్తాడు."
+  },
+  {
+   "n": 41,
+   "text_deva": "वैद्यनाथेश्वरशिवमाहात्म्यमनुशासनम् | पठतां शृण्वतां चापि भुक्तिमुक्तिप्रदं मुने",
+   "text_te": "వైద్యనాథేశ్వరశివమాహాత్మ్యమనుశాసనమ్ | పఠతాం శృణ్వతాం చాపి భుక్తిముక్తిప్రదం మునే",
+   "text_en": "vaidyanātheśvaraśivamāhātmyamanuśāsanam | paṭhatāṁ śṛṇvatāṁ cāpi bhuktimuktipradaṁ mune",
+   "mean_en": "O sage, the glory and teaching of Vaidyanatheshvara-Shiva grants enjoyment and liberation to those who recite or hear it.",
+   "mean_te": "వైద్యనాథేశ్వర శివ మహాత్మ్యాన్ని పఠించే వారికి, వినే వారికి భుక్తి ముక్తులు ప్రసాదించే ఉపదేశం ఇది, మునీంద్రా."
+  },
+  {
+   "n": 42,
+   "text_deva": "नागेश्वरावतारस्तु दशमः परिकीर्तितः | आविर्भूतः स्वभक्तार्थं दुष्टानां दण्डदस्सदा",
+   "text_te": "నాగేశ్వరావతారస్తు దశమః పరికీర్తితః | ఆవిర్భూతః స్వభక్తార్థం దుష్టానాం దణ్డదస్సదా",
+   "text_en": "nāgeśvarāvatārastu daśamaḥ parikīrtitaḥ | āvirbhūtaḥ svabhaktārthaṁ duṣṭānāṁ daṇḍadassadā",
+   "mean_en": "The tenth avatara is proclaimed as Nageshvara; he manifests for the sake of his devotees and ever administers punishment to the wicked.",
+   "mean_te": "పదో అవతారం నాగేశ్వరునిదిగా ప్రఖ్యాతి పొందింది; భక్తుల కొరకు ఆవిర్భవించి, దుష్టులకు దండన విధించేవాడు."
+  },
+  {
+   "n": 43,
+   "text_deva": "हत्वा दारुकनामानं राक्षसन्धर्मघातकम् | स्वभक्तं वैश्यनाथं च प्रारक्षत्सुप्रियाभिधम्",
+   "text_te": "హత్వా దారుకనామానం రాక్షసన్ధర్మఘాతకమ్ | స్వభక్తం వైశ్యనాథం చ ప్రారక్షత్సుప్రియాభిధమ్",
+   "text_en": "hatvā dārukanāmānaṁ rākṣasandharmaghātakam | svabhaktaṁ vaiśyanāthaṁ ca prārakṣatsupriyābhidham",
+   "mean_en": "Having slain the demon named Daruka, the destroyer of righteousness, he protected his devotee, the merchant Supriya ('Vaishyanatha').",
+   "mean_te": "ధర్మాన్ని నాశనం చేసే దారుకుడు అనే రాక్షసుని సంహరించి, తన భక్తుడైన 'వైశ్యనాథుడు' అనే వర్తకుని (సుప్రియుని) రక్షించాడు."
+  },
+  {
+   "n": 44,
+   "text_deva": "लोकानामुपकारार्थं ज्योतिर्लिंगस्वरूपधृक् | सन्तस्थौ सांबिकश्शम्भुर्बहुलीलाकरः परः",
+   "text_te": "లోకానాముపకారార్థం జ్యోతిర్లింగస్వరూపధృక్ | సన్తస్థౌ సాంబికశ్శమ్భుర్బహులీలాకరః పరః",
+   "text_en": "lokānāmupakārārthaṁ jyotirliṁgasvarūpadhṛk | santasthau sāṁbikaśśambhurbahulīlākaraḥ paraḥ",
+   "mean_en": "For the welfare of the worlds, Shiva with Ambika, of boundless play and supreme, took his stand bearing the form of a jyotirlinga.",
+   "mean_te": "లోక కళ్యాణం కోసం అంబికా సమేతుడైన శంభుడు, అపార లీలలవాడై, జ్యోతిర్లింగ రూపం ధరించి అక్కడ నిలిచాడు."
+  },
+  {
+   "n": 45,
+   "text_deva": "तद्दृष्ट्वा शिवलिंगन्तु मुने नागेश्वराभिधम् | विनश्यन्ति द्रुतं चार्च्य महापातकराशयः",
+   "text_te": "తద్దృష్ట్వా శివలింగన్తు మునే నాగేశ్వరాభిధమ్ | వినశ్యన్తి ద్రుతం చార్చ్య మహాపాతకరాశయః",
+   "text_en": "taddṛṣṭvā śivaliṁgantu mune nāgeśvarābhidham | vinaśyanti drutaṁ cārcya mahāpātakarāśayaḥ",
+   "mean_en": "O sage, seeing that Shiva-linga called Nageshvara, heaps of great sins perish quickly when it is worshipped.",
+   "mean_te": "మునీంద్రా, 'నాగేశ్వరుడు' అని పేరుగల ఆ శివలింగాన్ని ఆరాధిస్తే, పెద్ద పాపాల సమూహం కూడా త్వరలోనే నాశనమవుతాయి."
+  },
+  {
+   "n": 46,
+   "text_deva": "रामेश्वरावतारस्तु शिवस्यैकादशः स्मृतः | रामचन्द्रप्रियकरो रामसंस्थापितो मुने",
+   "text_te": "రామేశ్వరావతారస్తు శివస్యైకాదశః స్మృతః | రామచన్ద్రప్రియకరో రామసంస్థాపితో మునే",
+   "text_en": "rāmeśvarāvatārastu śivasyaikādaśaḥ smṛtaḥ | rāmacandrapriyakaro rāmasaṁsthāpito mune",
+   "mean_en": "The eleventh avatara of Shiva is remembered as Rameshvara; dear to Ramachandra, it was established by Rama himself.",
+   "mean_te": "శివుని పదకొండో అవతారం రామేశ్వరునిదిగా స్మరించబడుతుంది; శ్రీరామచంద్రునికి ప్రియమైనది, రాముడు స్వయంగా ప్రతిష్ఠించాడు."
+  },
+  {
+   "n": 47,
+   "text_deva": "ददौ जयवरं प्रीत्या यो रामाय सुतोषितः | आविर्भूतस्य लिंगस्तु शंकरो भक्तवत्सलः",
+   "text_te": "దదౌ జయవరం ప్రీత్యా యో రామాయ సుతోషితః | ఆవిర్భూతస్య లింగస్తు శంకరో భక్తవత్సలః",
+   "text_en": "dadau jayavaraṁ prītyā yo rāmāya sutoṣitaḥ | āvirbhūtasya liṁgastu śaṁkaro bhaktavatsalaḥ",
+   "mean_en": "Pleased, he granted Rama the boon of victory; the linga that thus manifested is Shankara, dear to devotees.",
+   "mean_te": "ప్రసన్నుడై రామునికి విజయ వరము ప్రసాదించాడు; ఆ విధంగా ఆవిర్భవించిన ఆ లింగం భక్తవత్సలుడైన శంకరుడే."
+  },
+  {
+   "n": 48,
+   "text_deva": "रामेण प्रार्थितोऽत्यर्थं ज्योतिर्लिंगस्वरूपतः | सन्तस्थौ सेतुबन्धे च रामसंसेवितो मुने",
+   "text_te": "రామేణ ప్రార్థితోఽత్యర్థం జ్యోతిర్లింగస్వరూపతః | సన్తస్థౌ సేతుబన్ధే చ రామసంసేవితో మునే",
+   "text_en": "rāmeṇa prārthito'tyarthaṁ jyotirliṁgasvarūpataḥ | santasthau setubandhe ca rāmasaṁsevito mune",
+   "mean_en": "Earnestly entreated by Rama, in the form of a jyotirlinga, the Lord stands content at Setubandha (Rameshvaram), served by Rama.",
+   "mean_te": "రాముని తీవ్రమైన ప్రార్థనతో సంతుష్టుడై, జ్యోతిర్లింగ రూపుడై సేతుబంధమున (రామేశ్వరమున) నిలిచాడు; అక్కడ రాముడు సేవించాడు."
+  },
+  {
+   "n": 49,
+   "text_deva": "रामेश्वरस्य महिमाद्भुतोऽभूद्भुवि चातुलः | भुक्तिमुक्तिप्रदश्चैव सर्वदा भक्तकामदः",
+   "text_te": "రామేశ్వరస్య మహిమాద్భుతోఽభూద్భువి చాతులః | భుక్తిముక్తిప్రదశ్చైవ సర్వదా భక్తకామదః",
+   "text_en": "rāmeśvarasya mahimādbhuto'bhūdbhuvi cātulaḥ | bhuktimuktipradaścaiva sarvadā bhaktakāmadaḥ",
+   "mean_en": "The glory of Rameshvara on earth became wondrous and unparalleled; it bestows enjoyment and liberation and ever fulfills devotees' desires.",
+   "mean_te": "భూమిపై రామేశ్వర మహిమ అద్భుతంగా, అద్వితీయంగా ఉంది; అది భుక్తి ముక్తులను ప్రసాదించేది, భక్తుల కోరికలను ఎల్లప్పుడూ తీర్చేది."
+  },
+  {
+   "n": 50,
+   "text_deva": "तं च गंगाजलेनैव स्नापयिष्यति यो नरः | रामेश्वरं च सद्भक्त्या स जीवन्मुक्त एव हि",
+   "text_te": "తం చ గంగాజలేనైవ స్నాపయిష్యతి యో నరః | రామేశ్వరం చ సద్భక్త్యా స జీవన్ముక్త ఏవ హి",
+   "text_en": "taṁ ca gaṁgājalenaiva snāpayiṣyati yo naraḥ | rāmeśvaraṁ ca sadbhaktyā sa jīvanmukta eva hi",
+   "mean_en": "A man who bathes that linga with Ganga water and worship Rameshvara with true devotion is verily liberated while living (jivanmukta).",
+   "mean_te": "గంగాజలంతో ఆ లింగాన్ని స్నానం చేయించి, రామేశ్వరుని సత్యభక్తితో ఆరాధించే మనిషి జీవన్ముక్తుడగుతాడు."
+  },
+  {
+   "n": 51,
+   "text_deva": "इह भुक्त्वाखिलान्भोगान्देवतादुर्ल्लभानपि | अतः प्राप्य परं ज्ञानं कैवल्यं मोक्षमाप्नुयात्",
+   "text_te": "ఇహ భుక్త్వాఖిలాన్భోగాన్దేవతాదుర్ల్లభానపి | అతః ప్రాప్య పరం జ్ఞానం కైవల్యం మోక్షమాప్నుయాత్",
+   "text_en": "iha bhuktvākhilānbhogāndevatādurllabhānapi | ataḥ prāpya paraṁ jñānaṁ kaivalyaṁ mokṣamāpnuyāt",
+   "mean_en": "Having enjoyed here all pleasures, even those hard for gods to attain, one then attains supreme knowledge, kaivalya, and liberation.",
+   "mean_te": "ఇక్కడ దేవతలకు కూడా దొరకని భోగాలన్నింటినీ అనుభవించి, తరువాత పరమ జ్ఞానం, కైవల్యం, మోక్షాన్ని పొందుతాడు."
+  },
+  {
+   "n": 52,
+   "text_deva": "घुश्मेश्वरावतारस्तु द्वादशश्शंकरस्य हि | नानालीलाकरो घुश्मानन्ददो भक्तवत्सलः",
+   "text_te": "ఘుశ్మేశ్వరావతారస్తు ద్వాదశశ్శంకరస్య హి | నానాలీలాకరో ఘుశ్మానన్దదో భక్తవత్సలః",
+   "text_en": "ghuśmeśvarāvatārastu dvādaśaśśaṁkarasya hi | nānālīlākaro ghuśmānandado bhaktavatsalaḥ",
+   "mean_en": "The twelfth incarnation of Shankara is Ghushmeshvara, who performs manifold pastimes, grants the bliss of Ghushma, and is ever affectionate to his devotees.",
+   "mean_te": "శంకరుని పన్నెండవ అవతారం ఘుష్మేశ్వరుడు. ఆయన వివిధ లీలలు చేసేవాడు, ఘుష్మానందాన్ని ప్రసాదించేవాడు, భక్తులపై వాత్సల్యం గలవాడు."
+  },
+  {
+   "n": 53,
+   "text_deva": "दक्षिणस्यान्दिशि मुने देवशैलसमीपतः | आविर्बभूव सरसि घुश्माप्रियकरः प्रभुः",
+   "text_te": "దక్షిణస్యాన్దిశి మునే దేవశైలసమీపతః | ఆవిర్బభూవ సరసి ఘుశ్మాప్రియకరః ప్రభుః",
+   "text_en": "dakṣiṇasyāndiśi mune devaśailasamīpataḥ | āvirbabhūva sarasi ghuśmāpriyakaraḥ prabhuḥ",
+   "mean_en": "O sage, in the southern direction, near Devashaila, the Lord manifested in a lake, rendering delight to Ghushma.",
+   "mean_te": "మునీంద్రా, దక్షిణ దిశలో దేవశైలానికి సమీపంలో ఒక సరస్సులో ఘుష్మకు ప్రీతి కలిగించే ప్రభువు ఆవిర్భవించాడు."
+  },
+  {
+   "n": 54,
+   "text_deva": "सुदेह्यमारितं घुश्मापुत्रं साकल्यतो मुने | तुष्टस्तद्भक्तितश्शम्भुर्योरक्षद्भक्तवत्सलः",
+   "text_te": "సుదేహ్యమారితం ఘుశ్మాపుత్రం సాకల్యతో మునే | తుష్టస్తద్భక్తితశ్శమ్భుర్యోరక్షద్భక్తవత్సలః",
+   "text_en": "sudehyamāritaṁ ghuśmāputraṁ sākalyato mune | tuṣṭastadbhaktitaśśambhuryorakṣadbhaktavatsalaḥ",
+   "mean_en": "The son of Ghushma, slain by Sudeha, was restored whole, and Shambhu, well pleased by her devotion, protected them both, O sage, for he is ever fond of his devotees.",
+   "mean_te": "సుదేహ చేత మరణించిన ఘుష్మ కుమారుడు సంపూర్ణుడై తిరిగి పొందబడ్డాడు. ఆమె భక్తికి సంతోషించిన శంభువు ఇద్దరినీ రక్షించాడు; ఆయన భక్తవత్సలుడు, మునీంద్రా."
+  },
+  {
+   "n": 55,
+   "text_deva": "तत्प्रार्थितस्स वै शम्भुस्तडागे तत्र कामदाः | ज्योतिर्लिंग स्वरूपेण तस्थौ घुश्मेश्वराभिधः | तन्दृष्ट्वा शिवलिंगन्तु समभ्यर्च्य च भक्तितः | इह सर्वसुखम्भुक्त्वा ततो मुक्तिं च विन्दति",
+   "text_te": "తత్ప్రార్థితస్స వై శమ్భుస్తడాగే తత్ర కామదాః | జ్యోతిర్లింగ స్వరూపేణ తస్థౌ ఘుశ్మేశ్వరాభిధః | తన్దృష్ట్వా శివలింగన్తు సమభ్యర్చ్య చ భక్తితః | ఇహ సర్వసుఖమ్భుక్త్వా తతో ముక్తిం చ విన్దతి",
+   "text_en": "tatprārthitassa vai śambhustaḍāge tatra kāmadāḥ | jyotirliṁga svarūpeṇa tasthau ghuśmeśvarābhidhaḥ | tandṛṣṭvā śivaliṁgantu samabhyarcya ca bhaktitaḥ | iha sarvasukhambhuktvā tato muktiṁ ca vindati",
+   "mean_en": "Prayed to by Ghushma, Shambhu, the granter of desires, stood there in the form of a jyotirlinga named Ghushmeshvara. Whoever beholds that Shiva-linga and worships it with devotion enjoys all happiness here and thereafter attains liberation.",
+   "mean_te": "ఘుష్మ వేడుకు ప్రతిగా, కోరికలను ఇచ్చే శంభువు ఘుష్మేశ్వరుడనే జ్యోతిర్లింగ స్వరూపంతో అక్కడ నిలిచాడు. ఆ శివలింగాన్ని చూసి భక్తితో పూజించేవాడు ఇక్కడ సకల సుఖాలను అనుభవించి, తరువాత మోక్షాన్ని పొందుతాడు."
+  },
+  {
+   "n": 56,
+   "text_deva": "इति ते हि समाख्याता ज्योतिर्लिंगावली मया | द्वादशप्रमिता दिव्या भुक्तिमुक्तिप्रदायिनी",
+   "text_te": "ఇతి తే హి సమాఖ్యాతా జ్యోతిర్లింగావలీ మయా | ద్వాదశప్రమితా దివ్యా భుక్తిముక్తిప్రదాయినీ",
+   "text_en": "iti te hi samākhyātā jyotirliṁgāvalī mayā | dvādaśapramitā divyā bhuktimuktipradāyinī",
+   "mean_en": "Thus have I narrated to you the series of the twelve jyotirlingas, divine in nature, bestowing both worldly enjoyment and liberation.",
+   "mean_te": "ఇలా నేను నీకు పన్నెండు జ్యోతిర్లింగాల వరుసను వివరించాను; అవి దివ్యమైనవి, పన్నెండింటితో సంపూర్ణమైనవి, భుక్తి-ముక్తులను ప్రసాదించేవి."
+  },
+  {
+   "n": 57,
+   "text_deva": "एतां ज्योतिर्लिंगकथां यः पठेच्छृणुयादपि | मुच्यते सर्वपापेभ्यो भुक्तिं मुक्तिं च विन्दति",
+   "text_te": "ఏతాం జ్యోతిర్లింగకథాం యః పఠేచ్ఛృణుయాదపి | ముచ్యతే సర్వపాపేభ్యో భుక్తిం ముక్తిం చ విన్దతి",
+   "text_en": "etāṁ jyotirliṁgakathāṁ yaḥ paṭhecchṛṇuyādapi | mucyate sarvapāpebhyo bhuktiṁ muktiṁ ca vindati",
+   "mean_en": "Whoever recites this account of the jyotirlingas, or even merely hears it, is freed from all sins and attains enjoyment as well as liberation.",
+   "mean_te": "ఈ జ్యోతిర్లింగ కథను ఎవరు పఠిస్తారో, అలాగే వింటారో, వారు సమస్త పాపాల నుండి విముక్తులై భుక్తి మరియు ముక్తిని పొందుతారు."
+  },
+  {
+   "n": 58,
+   "text_deva": "शतरुद्राभिदा चेयम्वर्णिता संहिता मया | शतावतारसत्कीर्तिस्सर्वकामफलप्रदा",
+   "text_te": "శతరుద్రాభిదా చేయమ్వర్ణితా సంహితా మయా | శతావతారసత్కీర్తిస్సర్వకామఫలప్రదా",
+   "text_en": "śatarudrābhidā ceyamvarṇitā saṁhitā mayā | śatāvatārasatkīrtissarvakāmaphalapradā",
+   "mean_en": "This Samhita, called Shatarudra, has been described by me; it is the glorious celebration of the hundred incarnations and grants the fruits of all desires.",
+   "mean_te": "శతరుద్రసంహిత అనబడే ఈ సంహితను నేను వర్ణించాను; ఇది నూరు అవతారాల సత్కీర్తిని కలిగి, సకల కామ్య ఫలాలను ప్రసాదింస్తుంది."
+  },
+  {
+   "n": 59,
+   "text_deva": "इमां यः पठते नित्यं शृणुयाद्वा समाहितः | सर्वान्कामानवाप्नोति ततो मुक्तिं लभेद्ध्रुवम्",
+   "text_te": "ఇమాం యః పఠతే నిత్యం శృణుయాద్వా సమాహితః | సర్వాన్కామానవాప్నోతి తతో ముక్తిం లభేద్ధ్రువమ్",
+   "text_en": "imāṁ yaḥ paṭhate nityaṁ śṛṇuyādvā samāhitaḥ | sarvānkāmānavāpnoti tato muktiṁ labheddhruvam",
+   "mean_en": "Whoever recites this daily, or hears it with concentrated attention, obtains all his desires and thereafter surely attains liberation.",
+   "mean_te": "దీనిని ప్రతిదినం ఎవరు పఠించుచున్నారో లేదా ఏకాగ్రతతో శ్రవించుచున్నారో, వారు సకల కాంక్షలను పొంది, తరువాత మోక్షాన్ని ఖచ్చితంగా పొందుతారు."
+  },
+  {
+   "n": 60,
+   "text_deva": "इति श्रीशिवमहापुराणे तृतीयायां शतरुद्रसंहितायां सनत्कुमार .नन्दीश्वरसंवादे द्वादशज्योतिर्लिंगावतारवर्णनं नाम द्विचत्वारिंशोध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే తృతీయాయాం శతరుద్రసంహితాయాం సనత్కుమార .నన్దీశ్వరసంవాదే ద్వాదశజ్యోతిర్లింగావతారవర్ణనం నామ ద్విచత్వారింశోధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe tṛtīyāyāṁ śatarudrasaṁhitāyāṁ sanatkumāra .nandīśvarasaṁvāde dvādaśajyotirliṁgāvatāravarṇanaṁ nāma dvicatvāriṁśodhyāyaḥ",
+   "mean_en": "Thus ends the forty-second chapter, named the description of the twelve jyotirlinga incarnations, in the dialogue between Sanatkumara and Nandishvara, in the Shatarudra Samhita, the third samhita of the Shiva Mahapurana.",
+   "mean_te": "ఈ విధంగా శ్రీశివమహాపురాణంలోని మూడవ శతరుద్రసంహితలో, సనత్కుమారుడు-నందీశ్వరుల సంవాదంలో, ద్వాదశ జ్యోతిర్లింగావతార వర్ణనం అనే నలభై రెండవ అధ్యాయం సంపూర్ణమైంది."
+  }
+ ]
+}

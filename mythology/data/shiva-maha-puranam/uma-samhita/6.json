@@ -1,0 +1,473 @@
+{
+ "kanda": "uma-samhita",
+ "n": 6,
+ "title_deva": "पापभेदवर्णनम्",
+ "title_te": "పాపభేదవర్ణనమ్",
+ "title_iast": "pāpabhedavarṇanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "द्विजद्रव्यापहरणमपि दायव्यतिक्रमः | अतिमानोऽतिकोपश्च दांभिकत्वं कृतघ्नता",
+   "text_te": "ద్విజద్రవ్యాపహరణమపి దాయవ్యతిక్రమః | అతిమానోఽతికోపశ్చ దాంభికత్వం కృతఘ్నతా",
+   "text_en": "dvijadravyāpaharaṇamapi dāyavyatikramaḥ | atimāno'tikopaśca dāṁbhikatvaṁ kṛtaghnatā",
+   "mean_en": "\"Taking away a brahmin's property, transgressing the law of inheritance, excessive pride, excessive anger, hypocrisy, and ingratitude —\"",
+   "mean_te": "\"ద్విజుల (బ్రాహ్మణుల) సొత్తును అపహరించడం, వారసత్వ హక్కును అతిక్రమించడం, అతిమానం (అత్యున్నత గర్వం), అతికోపం, దాంభికత్వం (కపటత్వం), కృతఘ్నత —\""
+  },
+  {
+   "n": 2,
+   "text_deva": "’ अत्यंतविषयासक्तिः कार्पण्यं साधुमत्सरः | परदाराभिगमनं साधुकन्यासुदूषणम्",
+   "text_te": "’ అత్యంతవిషయాసక్తిః కార్పణ్యం సాధుమత్సరః | పరదారాభిగమనం సాధుకన్యాసుదూషణమ్",
+   "text_en": "&#39; atyaṁtaviṣayāsaktiḥ kārpaṇyaṁ sādhumatsaraḥ | paradārābhigamanaṁ sādhukanyāsudūṣaṇam",
+   "mean_en": "\"Excessive attachment to sense-objects, miserliness, envy of the virtuous, approaching another's wife, defiling a good maiden —\"",
+   "mean_te": "\"విషయాలలో అత్యంత ఆసక్తి, కార్పణ్యం (పిసినారితనం), సాధువుల పై మత్సరం, పరదారుల వద్దకు వెళ్లడం, సాధ్వి అయిన కన్యను దూషించడం —\""
+  },
+  {
+   "n": 3,
+   "text_deva": "परिवित्तिः परिवेत्ता च यया च परिविद्यते | तयोर्दानं च कन्यायास्तयोरेव च याजनम्",
+   "text_te": "పరివిత్తిః పరివేత్తా చ యయా చ పరివిద్యతే | తయోర్దానం చ కన్యాయాస్తయోరేవ చ యాజనమ్",
+   "text_en": "parivittiḥ parivettā ca yayā ca parividyate | tayordānaṁ ca kanyāyāstayoreva ca yājanam",
+   "mean_en": "\"The giver of the bride (parivitti), the receiver (parivetta), and the woman through whom the marriage is brought about; of those two, the giving of the maiden and performing sacrifice for hire —\"",
+   "mean_te": "\"కన్యాదాత (పరివిత్తు), కన్యాగ్రహిత (పరివెత్తు), ఆ వివాహం నడిపించిన స్త్రీ — ఆ ఇద్దరికీ కన్యను ఇవ్వడం, ఆ ఇద్దరికీ యజనం (ధనార్థం యజ్ఞాలు చేసిపెట్టడం) —\""
+  },
+  {
+   "n": 4,
+   "text_deva": "शिवाश्रमतरूणां च पुष्पारामविनाशनम् | यः पीडामाश्रमस्थानामाचरेदल्पिकामपि",
+   "text_te": "శివాశ్రమతరూణాం చ పుష్పారామవినాశనమ్ | యః పీడామాశ్రమస్థానామాచరేదల్పికామపి",
+   "text_en": "śivāśramatarūṇāṁ ca puṣpārāmavināśanam | yaḥ pīḍāmāśramasthānāmācaredalpikāmapi",
+   "mean_en": "\"destroying the trees and flower-gardens of Shiva's hermitages; who inflicts even the smallest harm on hermitage-places —\"",
+   "mean_te": "\"శివాశ్రమాల వృక్షాలను, పుష్పారామాలను నాశనం చేయడం; ఆశ్రమ స్థలాలకు అల్పమైన పీడ కూడా కలిగించడం —\""
+  },
+  {
+   "n": 5,
+   "text_deva": "सभृत्यपरिवारस्य पशुधान्यधनस्य च | कुप्यधान्यपशुस्तेयमपां व्यापावनं तथा",
+   "text_te": "సభృత్యపరివారస్య పశుధాన్యధనస్య చ | కుప్యధాన్యపశుస్తేయమపాం వ్యాపావనం తథా",
+   "text_en": "sabhṛtyaparivārasya paśudhānyadhanasya ca | kupyadhānyapaśusteyamapāṁ vyāpāvanaṁ tathā",
+   "mean_en": "\"with their servants and retinue — on their cattle, grain and wealth; theft of goods, grain and cattle; and the fouling of waters —\"",
+   "mean_te": "\"సేవక-పరివార సహితంగా ఆ ఆశ్రమాల పశువులకు, ధాన్యానికి, ధనానికి హాని; సామగ్రి, ధాన్యం, పశువుల దొంగతనం; నీటిని కలుషితం చేయడం —\""
+  },
+  {
+   "n": 6,
+   "text_deva": "यज्ञारामतडागानां दारापत्यस्य विक्रयम् | तीर्थयात्रोपवासानां व्रतोपनयकर्म्मिणाम्",
+   "text_te": "యజ్ఞారామతడాగానాం దారాపత్యస్య విక్రయమ్ | తీర్థయాత్రోపవాసానాం వ్రతోపనయకర్మ్మిణామ్",
+   "text_en": "yajñārāmataḍāgānāṁ dārāpatyasya vikrayam | tīrthayātropavāsānāṁ vratopanayakarmmiṇām",
+   "mean_en": "\"selling one's wife, children, sacrifice-groves and tanks; and wronging those on pilgrimage, those fasting, those keeping vows and undergoing upanayana —\"",
+   "mean_te": "\"భార్యాపుత్రులను, యజ్ఞారామాలను, తడాగాలను (చెరువులను) విక్రయించడం; తీర్థయాత్రికుల, ఉపవాసుల, వ్రతస్థుల, ఉపనయన కర్ములను అడ్డగించడం —\""
+  },
+  {
+   "n": 7,
+   "text_deva": "स्त्रीधनान्युपजीवंति स्त्रीभिरप्यन्तनिर्जिताः | अरक्षणं च नारीणां मायया स्त्रीनिषेवणम्",
+   "text_te": "స్త్రీధనాన్యుపజీవంతి స్త్రీభిరప్యన్తనిర్జితాః | అరక్షణం చ నారీణాం మాయయా స్త్రీనిషేవణమ్",
+   "text_en": "strīdhanānyupajīvaṁti strībhirapyantanirjitāḥ | arakṣaṇaṁ ca nārīṇāṁ māyayā strīniṣevaṇam",
+   "mean_en": "\"living on the wealth of women, even what they have earned by their own toil; not protecting women; serving women by deceit —\"",
+   "mean_te": "\"స్త్రీల సొత్తుపై జీవించడం — స్త్రీలు స్వయంగా సంపాదించినదైనా; స్త్రీలను రక్షించకపోవడం; మాయతో (వంచనతో) స్త్రీలను సేవించడం —\""
+  },
+  {
+   "n": 8,
+   "text_deva": "कालागताप्रदानं च धान्यवृद्ध्युपसेवनम् | निंदिताच्च धनादानं पण्यानां कूट जीवनम्",
+   "text_te": "కాలాగతాప్రదానం చ ధాన్యవృద్ధ్యుపసేవనమ్ | నిందితాచ్చ ధనాదానం పణ్యానాం కూట జీవనమ్",
+   "text_en": "kālāgatāpradānaṁ ca dhānyavṛddhyupasevanam | niṁditācca dhanādānaṁ paṇyānāṁ kūṭa jīvanam",
+   "mean_en": "\"not giving at the appointed time; living on the interest of grain; accepting blameworthy gifts; living deceitfully by trade —\"",
+   "mean_te": "\"కాలానికి ప్రదానం చేయకపోవడం; ధాన్యపు వడ్డీ (వృద్ధి) పై జీవించడం; నిందితమైన ధనాన్ని స్వీకరించడం; పణ్యాల (వ్యాపారాల) ద్వారా కూటజీవనం —\""
+  },
+  {
+   "n": 9,
+   "text_deva": "विषमारण्यपत्राणां सततं वृषवाहनम् | उच्चाटनाभिचारं च धान्यादानं भिषक्क्रिया",
+   "text_te": "విషమారణ్యపత్రాణాం సతతం వృషవాహనమ్ | ఉచ్చాటనాభిచారం చ ధాన్యాదానం భిషక్క్రియా",
+   "text_en": "viṣamāraṇyapatrāṇāṁ satataṁ vṛṣavāhanam | uccāṭanābhicāraṁ ca dhānyādānaṁ bhiṣakkriyā",
+   "mean_en": "\"continually employing bulls to carry loads through rough forests; casting spells of expulsion and sorcery; taking [undue] grain; the practice of a physician —\"",
+   "mean_te": "\"కఠినమైన అరణ్యాలలో వృషభాలను (ఎద్దులను) సతతం భారవాహనాలుగా ఉపయోగించడం; ఉచ్చాటన-అభిచార మంత్రాలు చేయడం; ధాన్యాన్ని (అక్రమంగా) తీసుకోవడం; భిషక్కృత్యం (డబ్బులకు వైద్యం) —\""
+  },
+  {
+   "n": 10,
+   "text_deva": "जिह्वाकामोपभोगार्थं यस्यारंभः सुकर्मसु | मूलेनख्यापको नित्यं वेदज्ञानादिकं च यत्",
+   "text_te": "జిహ్వాకామోపభోగార్థం యస్యారంభః సుకర్మసు | మూలేనఖ్యాపకో నిత్యం వేదజ్ఞానాదికం చ యత్",
+   "text_en": "jihvākāmopabhogārthaṁ yasyāraṁbhaḥ sukarmasu | mūlenakhyāpako nityaṁ vedajñānādikaṁ ca yat",
+   "mean_en": "\"who undertakes even good works for the enjoyment of the tongue's pleasures; who for money constantly proclaims his Veda-knowledge and learning —\"",
+   "mean_te": "\"జిహ్వాకామ భోగార్థంగా సుకర్మలలో ప్రారంభించడం; ధనం కోసం ఎప్పుడూ వేదజ్ఞానాదులను ప్రకటించడం (అమ్మడం) —\""
+  },
+  {
+   "n": 11,
+   "text_deva": "ब्राह्म्यादिव्रतसंत्यागश्चान्याचारनिषेवणम् | असच्छास्त्राधिगमनं शुष्कतर्कावलम्बनम्",
+   "text_te": "బ్రాహ్మ్యాదివ్రతసంత్యాగశ్చాన్యాచారనిషేవణమ్ | అసచ్ఛాస్త్రాధిగమనం శుష్కతర్కావలమ్బనమ్",
+   "text_en": "brāhmyādivratasaṁtyāgaścānyācāraniṣevaṇam | asacchāstrādhigamanaṁ śuṣkatarkāvalambanam",
+   "mean_en": "\"abandoning the sacred vows such as the brahma-vrata, resorting to other modes of conduct; acquiring unholy shastras; leaning upon dry logic —\"",
+   "mean_te": "\"బ్రాహ్మ్యాది వ్రతాలను వదిలేయడం, అన్యాచారాలను ఆశ్రయించడం; అసత్య శాస్త్రాలను అధ్యయనం చేయడం; శుష్క తర్కాన్ని (నిరర్థక వాదాన్ని) ఆశ్రయించడం —\""
+  },
+  {
+   "n": 12,
+   "text_deva": "देवाग्निगुरुसाधूनां निन्दया ब्राह्मणस्य च | प्रत्यक्षं वा परोक्षं वा राज्ञां मण्डलिनामपि",
+   "text_te": "దేవాగ్నిగురుసాధూనాం నిన్దయా బ్రాహ్మణస్య చ | ప్రత్యక్షం వా పరోక్షం వా రాజ్ఞాం మణ్డలినామపి",
+   "text_en": "devāgnigurusādhūnāṁ nindayā brāhmaṇasya ca | pratyakṣaṁ vā parokṣaṁ vā rājñāṁ maṇḍalināmapi",
+   "mean_en": "\"blaspheming the gods, Fire, the guru and the virtuous, and the brahmin too — directly or indirectly — and kings and feudal lords —\"",
+   "mean_te": "\"దేవుల, అగ్ని, గురువుల, సాధువుల — బ్రాహ్మణుడినీ — ప్రత్యక్షంగా గాని, పరోక్షంగా గాని నిందించడం; రాజులను, మండలికులను నిందించడం —\""
+  },
+  {
+   "n": 13,
+   "text_deva": "उत्सन्नपितृदेवेज्या स्वकर्म्मत्यागिनश्च ये | दुःशीला नास्तिकाः पापास्सदा वाऽसत्यवादिनः",
+   "text_te": "ఉత్సన్నపితృదేవేజ్యా స్వకర్మ్మత్యాగినశ్చ యే | దుఃశీలా నాస్తికాః పాపాస్సదా వాఽసత్యవాదినః",
+   "text_en": "utsannapitṛdevejyā svakarmmatyāginaśca ye | duḥśīlā nāstikāḥ pāpāssadā vā'satyavādinaḥ",
+   "mean_en": "\"those who have cast off their duties to father and the gods; those who abandon their own dharma; the wicked, the atheists, the sinful, and ever-liars —\"",
+   "mean_te": "\"పితృ-దేవ కార్యాలను విస్మరించినవారు; స్వకర్తవ్యాలను వదిలేసినవారు; దుశ్శీలురు, నాస్తికులు, పాపాత్ములు, సదా అసత్యవాదులు —\""
+  },
+  {
+   "n": 14,
+   "text_deva": "पर्वकाले दिवा वाप्सु वियोनौ पशुयोनिषु | रजस्वलाया योनौ च मैथुनं यः समाचरेत्",
+   "text_te": "పర్వకాలే దివా వాప్సు వియోనౌ పశుయోనిషు | రజస్వలాయా యోనౌ చ మైథునం యః సమాచరేత్",
+   "text_en": "parvakāle divā vāpsu viyonau paśuyoniṣu | rajasvalāyā yonau ca maithunaṁ yaḥ samācaret",
+   "mean_en": "\"who unite at the time of sacred festivals, in the daytime, in water, unnaturally, in the manner of beasts, or with a menstruating woman —\"",
+   "mean_te": "\"పర్వకాలంలో, పగలు, నీట్లో, అమానవీయంగా (యోని భేదంతో), పశువుల విధంగా, రజస్వల యోనిలో మైథునం ఆచరించేవారు —\""
+  },
+  {
+   "n": 15,
+   "text_deva": "स्त्रीपुत्रमित्रसंप्राप्तावाशाच्छेदकराश्च ये | जनस्याप्रिय वक्तारः क्रूरा समयवेदिनः",
+   "text_te": "స్త్రీపుత్రమిత్రసంప్రాప్తావాశాచ్ఛేదకరాశ్చ యే | జనస్యాప్రియ వక్తారః క్రూరా సమయవేదినః",
+   "text_en": "strīputramitrasaṁprāptāvāśācchedakarāśca ye | janasyāpriya vaktāraḥ krūrā samayavedinaḥ",
+   "mean_en": "\"who cut off the hopes of women, sons and friends when they come to them; who speak unpleasant words to people; the cruel, and the breakers of agreements —\"",
+   "mean_te": "\"స్త్రీలు, పుత్రులు, మిత్రులు తమ వద్దకు వచ్చినప్పుడు వారి ఆశలను ఖండించేవారు; జనులకు అప్రియమైన మాటలు పలికేవారు; క్రూరులు, సమయాన్ని (ఒప్పందాన్ని) భంగం చేసేవారు —\""
+  },
+  {
+   "n": 16,
+   "text_deva": "भेत्ता तडागकूपानां संक्रयाणां रसस्य च | एकपंक्तिस्थितानां च पाकभेदं करोति यः",
+   "text_te": "భేత్తా తడాగకూపానాం సంక్రయాణాం రసస్య చ | ఏకపంక్తిస్థితానాం చ పాకభేదం కరోతి యః",
+   "text_en": "bhettā taḍāgakūpānāṁ saṁkrayāṇāṁ rasasya ca | ekapaṁktisthitānāṁ ca pākabhedaṁ karoti yaḥ",
+   "mean_en": "\"who break open tanks, wells, granaries and vessels of liquid; who make distinctions in the cooking for those seated in a single row —\"",
+   "mean_te": "\"తడాగాలను, బావులను, సంక్రయాలను (భాండాగారాలను), రసాన్ని (ద్రవపదార్థాలను) భేదించేవారు; ఒకే వరుసలో కూర్చున్న వారికి భోజనంలో భేదం (వివక్ష) చూపేవారు —\""
+  },
+  {
+   "n": 17,
+   "text_deva": "इत्येतैः स्त्रीनराः पापैरुपपातकिनः स्मृताः | युक्ता एभिस्तथान्येऽपि शृणु तांस्तु ब्रवीमि ते",
+   "text_te": "ఇత్యేతైః స్త్రీనరాః పాపైరుపపాతకినః స్మృతాః | యుక్తా ఏభిస్తథాన్యేఽపి శృణు తాంస్తు బ్రవీమి తే",
+   "text_en": "ityetaiḥ strīnarāḥ pāpairupapātakinaḥ smṛtāḥ | yuktā ebhistathānye'pi śṛṇu tāṁstu bravīmi te",
+   "mean_en": "By such sins, men and women are called upapatakins; there are others joined with these — listen, I tell them to you.",
+   "mean_te": "ఇలా ఈ పాపాల వల్ల స్త్రీ-నరులు ఉపపాతకులుగా స్మరించబడతారు; వీటితో కలిసిన ఇతరులు కూడా ఉన్నారు — వారిని నీకు చెప్తాను, విను."
+  },
+  {
+   "n": 18,
+   "text_deva": "ये गोब्राह्मणकन्यानां स्वामिमित्रतपस्विनाम् | विनाशयंति कार्य्याणि ते नरा नारकाः स्मृताः",
+   "text_te": "యే గోబ్రాహ్మణకన్యానాం స్వామిమిత్రతపస్వినామ్ | వినాశయంతి కార్య్యాణి తే నరా నారకాః స్మృతాః",
+   "text_en": "ye gobrāhmaṇakanyānāṁ svāmimitratapasvinām | vināśayaṁti kāryyāṇi te narā nārakāḥ smṛtāḥ",
+   "mean_en": "\"Those who destroy the works of cows, brahmins, maidens, masters, friends and tapasvis — such men are remembered as hell-bound.\"",
+   "mean_te": "\"గోవుల, బ్రాహ్మణుల, కన్యల, స్వాముల, మిత్రుల, తపస్వుల కార్యాలను నాశనం చేసేవారు — వారు నరకులుగా స్మరించబడతారు.\""
+  },
+  {
+   "n": 19,
+   "text_deva": "परस्त्रियाभितप्यंते ये परद्रव्यसूचकाः | परद्रव्यहरा नित्यं तौलमिथ्यानुसारकाः",
+   "text_te": "పరస్త్రియాభితప్యంతే యే పరద్రవ్యసూచకాః | పరద్రవ్యహరా నిత్యం తౌలమిథ్యానుసారకాః",
+   "text_en": "parastriyābhitapyaṁte ye paradravyasūcakāḥ | paradravyaharā nityaṁ taulamithyānusārakāḥ",
+   "mean_en": "\"Those who burn with longing for other men's wives; who give information of others' wealth; who habitually steal others' wealth; who cheat with false weights and measures —\"",
+   "mean_te": "\"పరస్త్రీల వల్ల వ్యధింపబడేవారు; పరధనాన్ని గురించి సూచించేవారు (దొంగలకు తెలియజేసేవారు); నిరంతరం పరధనాన్ని అపహరించేవారు; తూకంలో మోసం చేసేవారు —\""
+  },
+  {
+   "n": 20,
+   "text_deva": "द्विजदुःखकरा ये च प्रहारं चोद्धरंति ये | सेवन्ते तु द्विजाश्शूद्रां सुरां बध्नंति कामतः",
+   "text_te": "ద్విజదుఃఖకరా యే చ ప్రహారం చోద్ధరంతి యే | సేవన్తే తు ద్విజాశ్శూద్రాం సురాం బధ్నంతి కామతః",
+   "text_en": "dvijaduḥkhakarā ye ca prahāraṁ coddharaṁti ye | sevante tu dvijāśśūdrāṁ surāṁ badhnaṁti kāmataḥ",
+   "mean_en": "\"who afflict brahmins and raise their hands to strike them; brahmins who serve shudras and who, for desire, set up the brewing of liquor —\"",
+   "mean_te": "\"ద్విజులకు దుఃఖం కలిగించేవారు, దెబ్బకు చేతులు లేపేవారు; శూద్రులను సేవించే ద్విజులు, కామవశంగా సురాన్ని (మద్యాన్ని) కాచేవారు —\""
+  },
+  {
+   "n": 21,
+   "text_deva": "ये पापनिरताः क्रूराः येऽपि हिंसाप्रिया नराः | वृत्त्यर्थं येऽपि कुर्वंति दानयज्ञादिकाः क्रियाः",
+   "text_te": "యే పాపనిరతాః క్రూరాః యేఽపి హింసాప్రియా నరాః | వృత్త్యర్థం యేఽపి కుర్వంతి దానయజ్ఞాదికాః క్రియాః",
+   "text_en": "ye pāpaniratāḥ krūrāḥ ye'pi hiṁsāpriyā narāḥ | vṛttyarthaṁ ye'pi kurvaṁti dānayajñādikāḥ kriyāḥ",
+   "mean_en": "\"those given over to sin, the cruel, those fond of violence; and those who perform acts such as gifts and sacrifices merely for their livelihood —\"",
+   "mean_te": "\"పాపకర్మలలో నిమగ్నులైన క్రూరులు, హింసాప్రియులైన నరులు; జీవనోపార్జన కోసం దాన-యజ్ఞాది క్రియలను చేసేవారు —\""
+  },
+  {
+   "n": 22,
+   "text_deva": "गोष्ठाग्निजलरथ्यासु तरुच्छाया नगेषु च | त्यजंति ये पुरीषाद्यानारामायतनेषु च | लज्जाश्रमप्रासादेषु मयपानरताश्च ये | कृतकेलिभुजंगाश्च रन्ध्रान्वेषणतत्पराः",
+   "text_te": "గోష్ఠాగ్నిజలరథ్యాసు తరుచ్ఛాయా నగేషు చ | త్యజంతి యే పురీషాద్యానారామాయతనేషు చ | లజ్జాశ్రమప్రాసాదేషు మయపానరతాశ్చ యే | కృతకేలిభుజంగాశ్చ రన్ధ్రాన్వేషణతత్పరాః",
+   "text_en": "goṣṭhāgnijalarathyāsu tarucchāyā nageṣu ca | tyajaṁti ye purīṣādyānārāmāyataneṣu ca | lajjāśramaprāsādeṣu mayapānaratāśca ye | kṛtakelibhujaṁgāśca randhrānveṣaṇatatparāḥ",
+   "mean_en": "\"who void their excrement in cow-pens, by fire or water, on the roads, in the shade of trees, on hills, in gardens and shrines, in places of modesty, hermitages and palaces; who delight in intoxicating drink; who keep snakes for sport; who are ever bent on searching out others' faults —\"",
+   "mean_te": "\"గోశాలలో, అగ్ని-జలాల సమీపంలో, రథ్యలలో (బాటలలో), వృక్షఛాయలలో, గిరులపై, ఆరామాలలో, దేవాలయాలలో, లజ్జాస్థలాలలో, ఆశ్రమ-ప్రాసాదాలలో మలమూత్రాలను వదిలేవారు; మద్యపానంలో రతులైనవారు; క్రీడార్థం పాములను పెంచేవారు; పరుల చిద్రాలను (లోపాలను) వెతకడంలో తత్పరులైనవారు —\""
+  },
+  {
+   "n": 23,
+   "text_deva": "वंशेष्टका शिलाकाष्ठैः शृङ्गैश्शंकुभिरेव च | ये मार्गमनुरुंधंति परसीमां हरंति ये",
+   "text_te": "వంశేష్టకా శిలాకాష్ఠైః శృఙ్గైశ్శంకుభిరేవ చ | యే మార్గమనురుంధంతి పరసీమాం హరంతి యే",
+   "text_en": "vaṁśeṣṭakā śilākāṣṭhaiḥ śṛṅgaiśśaṁkubhireva ca | ye mārgamanuruṁdhaṁti parasīmāṁ haraṁti ye",
+   "mean_en": "\"who block the road with bamboos, bricks, stones, wood, horns and stakes; who encroach upon another's boundary —\"",
+   "mean_te": "\"వెదుర్ల, ఇటుకల, రాళ్ల, కట్టెల, కొమ్ముల, శంకువులతో దారిని అడ్డుకునేవారు; పరుల సీమను అపహరించేవారు —\""
+  },
+  {
+   "n": 24,
+   "text_deva": "कूटशासनकर्तारः कूटकर्मक्रियारताः | कूटपाकान्नवस्त्राणां कूटसंव्यवहारिणः",
+   "text_te": "కూటశాసనకర్తారః కూటకర్మక్రియారతాః | కూటపాకాన్నవస్త్రాణాం కూటసంవ్యవహారిణః",
+   "text_en": "kūṭaśāsanakartāraḥ kūṭakarmakriyāratāḥ | kūṭapākānnavastrāṇāṁ kūṭasaṁvyavahāriṇaḥ",
+   "mean_en": "\"forgers of documents; devoted to false rites and deeds; adulterators of food and cloth; deceitful in their dealings —\"",
+   "mean_te": "\"కూట శాసనాలు (నకిలీ పత్రాలు) చేసేవారు; కూట కర్మక్రియలలో రతులైనవారు; కూట పాకాన్ని, వస్త్రాలను చేసేవారు; వ్యవహారాలలో కపటులైనవారు —\""
+  },
+  {
+   "n": 25,
+   "text_deva": "धनुषः शस्त्रशल्यानां कर्ता यः क्रयविक्रयी | निर्द्दयोऽतीवभृत्येषु पशूनां दमनश्च यः",
+   "text_te": "ధనుషః శస్త్రశల్యానాం కర్తా యః క్రయవిక్రయీ | నిర్ద్దయోఽతీవభృత్యేషు పశూనాం దమనశ్చ యః",
+   "text_en": "dhanuṣaḥ śastraśalyānāṁ kartā yaḥ krayavikrayī | nirddayo'tīvabhṛtyeṣu paśūnāṁ damanaśca yaḥ",
+   "mean_en": "\"who make bows, weapons and arrows, buying and selling them; who are utterly merciless to their servants; who break in animals —\"",
+   "mean_te": "\"ధనుస్సు, శస్త్రాల, శల్యాల (బాణాల) తయారీ చేసి కొనడం-అమ్మడం చేసేవారు; భృత్యుల పై అత్యంత నిర్దయులైనవారు; పశువులను సాధించే (వేధించే) వారు —\""
+  },
+  {
+   "n": 26,
+   "text_deva": "मिथ्या प्रवदतो वाच आकर्णयति यश्शनैः | स्वामिमित्रगुरुद्रोही मायावी चपलश्शठः",
+   "text_te": "మిథ్యా ప్రవదతో వాచ ఆకర్ణయతి యశ్శనైః | స్వామిమిత్రగురుద్రోహీ మాయావీ చపలశ్శఠః",
+   "text_en": "mithyā pravadato vāca ākarṇayati yaśśanaiḥ | svāmimitragurudrohī māyāvī capalaśśaṭhaḥ",
+   "mean_en": "\"who slowly lend their ear to false words spoken of others; traitors to their masters, friends and gurus; deceivers, fickle and crafty —\"",
+   "mean_te": "\"మిథ్యా పలుకులకు నెమ్మదిగా చెవి యోనించేవారు; స్వామి, మిత్ర, గురువులకు ద్రోహం చేసేవారు; మాయావులు, చపలులు, షఠులు (కుటిలులు) —\""
+  },
+  {
+   "n": 27,
+   "text_deva": "ये भार्य्यापुत्रमित्राणि बालवृद्धकृशातुरान् | भृत्यानतिथिबंधूंश्च त्यक्त्वाश्नंति बुभुक्षितान्",
+   "text_te": "యే భార్య్యాపుత్రమిత్రాణి బాలవృద్ధకృశాతురాన్ | భృత్యానతిథిబంధూంశ్చ త్యక్త్వాశ్నంతి బుభుక్షితాన్",
+   "text_en": "ye bhāryyāputramitrāṇi bālavṛddhakṛśāturān | bhṛtyānatithibaṁdhūṁśca tyaktvāśnaṁti bubhukṣitān",
+   "mean_en": "\"who abandon wives, sons and friends — children, the old, the lean and the sick — servants, guests and kinsmen — and eat while they go hungry —\"",
+   "mean_te": "\"భార్యాపుత్రమిత్రులను — బాలురను, వృద్ధులను, కృశించిన రోగులను — భృత్యులను, అతిథులను, బంధువులను వదిలేసి, ఆకలిగొన్న వారిని విడిచి తాము భుజించేవారు —\""
+  },
+  {
+   "n": 28,
+   "text_deva": "यः स्वयं मिष्टमश्नाति विप्रेभ्यो न प्रयच्छति | वृथापाकस्स विज्ञेयो ब्रह्मवादिषु गर्हितः",
+   "text_te": "యః స్వయం మిష్టమశ్నాతి విప్రేభ్యో న ప్రయచ్ఛతి | వృథాపాకస్స విజ్ఞేయో బ్రహ్మవాదిషు గర్హితః",
+   "text_en": "yaḥ svayaṁ miṣṭamaśnāti viprebhyo na prayacchati | vṛthāpākassa vijñeyo brahmavādiṣu garhitaḥ",
+   "mean_en": "\"who himself eats sweets but gives nothing to brahmins — his cooking is in vain; he is condemned among the upholders of the Veda.\"",
+   "mean_te": "\"తానే మధురమైన భోజనం చేసి, విప్రులకు ఏమీ ఇవ్వనివారు — అతని వంట వృథా; వేదవాదులలో అతడు నిందితుడు.\""
+  },
+  {
+   "n": 29,
+   "text_deva": "नियमान्स्वयमादाय ये त्यजंत्यजितेन्द्रियाः | प्रव्रज्यावासिता ये च हरस्यास्यप्रभेदकाः",
+   "text_te": "నియమాన్స్వయమాదాయ యే త్యజంత్యజితేన్ద్రియాః | ప్రవ్రజ్యావాసితా యే చ హరస్యాస్యప్రభేదకాః",
+   "text_en": "niyamānsvayamādāya ye tyajaṁtyajitendriyāḥ | pravrajyāvāsitā ye ca harasyāsyaprabhedakāḥ",
+   "mean_en": "\"who themselves take up observances and then abandon them, being uncontrolled in their senses; who feign the mendicant's life; who cause divisions among the devotees of Hara (Shiva) —\"",
+   "mean_te": "\"స్వయంగా నియమాలను తీసుకుని, జితేంద్రియులు కాక వదిలేసేవారు; ప్రవ్రజ్యా (సన్యాస) వాసన కల్పించుకునేవారు; హరుని (శివుని) భక్తులలో భేదాలు కలిగించేవారు —\""
+  },
+  {
+   "n": 30,
+   "text_deva": "ये ताडयंति गां क्रूरा दमयंते मुहुर्मुहुः | दुर्बलान्ये न पुष्णंति सततं ये त्यजंति च",
+   "text_te": "యే తాడయంతి గాం క్రూరా దమయంతే ముహుర్ముహుః | దుర్బలాన్యే న పుష్ణంతి సతతం యే త్యజంతి చ",
+   "text_en": "ye tāḍayaṁti gāṁ krūrā damayaṁte muhurmuhuḥ | durbalānye na puṣṇaṁti satataṁ ye tyajaṁti ca",
+   "mean_en": "\"the cruel who strike the cow and break her in again and again; who do not nourish the weak, and who abandon them constantly —\"",
+   "mean_te": "\"క్రూరంగా గోవును కొట్టేవారు, వారం వారంగా సాధించేవారు; దుర్బలులను పోషించనివారు, సతతం వారిని వదిలేసేవారు —\""
+  },
+  {
+   "n": 31,
+   "text_deva": "पीडयंत्यतिभारेणाऽसहंतं वाहयंति च | योजयन्नकृताहारान्न विमुंचंति संयतान्",
+   "text_te": "పీడయంత్యతిభారేణాఽసహంతం వాహయంతి చ | యోజయన్నకృతాహారాన్న విముంచంతి సంయతాన్",
+   "text_en": "pīḍayaṁtyatibhāreṇā'sahaṁtaṁ vāhayaṁti ca | yojayannakṛtāhārānna vimuṁcaṁti saṁyatān",
+   "mean_en": "\"who torment [the cattle] with excessive burdens, making them carry what they cannot; who yoke them unfed and do not release them when subdued —\"",
+   "mean_te": "\"అతిభారంతో పీడించి, భరించలేని భారాన్ని మోపేవారు; ఆహారం లేకుండా కట్టి, సంయతమైనవాటిని (అలసినవాటిని) విడిపించనివారు —\""
+  },
+  {
+   "n": 32,
+   "text_deva": "ये भारक्षतरोगार्तान्गोवृषांश्च क्षुधातुरान् | न पालयंति यत्नेन गोघ्नास्ते नारकास्स्मृताः",
+   "text_te": "యే భారక్షతరోగార్తాన్గోవృషాంశ్చ క్షుధాతురాన్ | న పాలయంతి యత్నేన గోఘ్నాస్తే నారకాస్స్మృతాః",
+   "text_en": "ye bhārakṣatarogārtāngovṛṣāṁśca kṣudhāturān | na pālayaṁti yatnena goghnāste nārakāssmṛtāḥ",
+   "mean_en": "\"who do not with care protect cows and bulls that are burdened, wounded, ailing and hungry — they are called cow-killers and are remembered as hell-bound.\"",
+   "mean_te": "\"భారంతో, గాయంతో, రోగంతో, ఆకలితో వాడిపోయిన గోవృషభాలను యత్నంతో కాపాడనివారు — వారు గోఘ్నులుగా (గోహంతకులుగా) నరకులుగా స్మరించబడతారు.\""
+  },
+  {
+   "n": 33,
+   "text_deva": "वृषाणां वृषणान्ये च पापिष्ठा गालयंति च | वाहयंति च गां वंध्यां महानारकिनो नराः",
+   "text_te": "వృషాణాం వృషణాన్యే చ పాపిష్ఠా గాలయంతి చ | వాహయంతి చ గాం వంధ్యాం మహానారకినో నరాః",
+   "text_en": "vṛṣāṇāṁ vṛṣaṇānye ca pāpiṣṭhā gālayaṁti ca | vāhayaṁti ca gāṁ vaṁdhyāṁ mahānārakino narāḥ",
+   "mean_en": "\"who castrate bulls — most sinful; and who yoke barren cows to work — such men are great dwellers of hell.\"",
+   "mean_te": "\"వృషభాలను వృషణాలను రహితులను చేసేవారు — అత్యంత పాపిష్ఠులు; వంధ్య గోవులను వాహనాలుగా ఉపయోగించేవారు — వారు మహానరకినులైన నరులు.\""
+  },
+  {
+   "n": 34,
+   "text_deva": "आशया समनुप्राप्तान्क्षुत्तृष्णाश्रमकर्शितान् | अतिथींश्च तथानाथान्स्वतन्त्रा गृहमागतान्",
+   "text_te": "ఆశయా సమనుప్రాప్తాన్క్షుత్తృష్ణాశ్రమకర్శితాన్ | అతిథీంశ్చ తథానాథాన్స్వతన్త్రా గృహమాగతాన్",
+   "text_en": "āśayā samanuprāptānkṣuttṛṣṇāśramakarśitān | atithīṁśca tathānāthānsvatantrā gṛhamāgatān",
+   "mean_en": "\"Guests who arrive full of hope, worn thin by hunger, thirst and weariness; guests and destitute ones who of their own accord come to the house —\"",
+   "mean_te": "\"ఆశతో రాగా, ఆకలి-దాహం-అలసటలతో కృశించిన అతిథులను; స్వేచ్ఛగా గృహానికి వచ్చిన అతిథులను, అనాథలను —\""
+  },
+  {
+   "n": 35,
+   "text_deva": "अन्नाभिलाषान्दीनान्वा बालवृद्धकृशातुरान् | नानुकंपंति ये मूढास्ते यांति नरकार्णवम्",
+   "text_te": "అన్నాభిలాషాన్దీనాన్వా బాలవృద్ధకృశాతురాన్ | నానుకంపంతి యే మూఢాస్తే యాంతి నరకార్ణవమ్",
+   "text_en": "annābhilāṣāndīnānvā bālavṛddhakṛśāturān | nānukaṁpaṁti ye mūḍhāste yāṁti narakārṇavam",
+   "mean_en": "\"the poor longing for food — children, the old, the lean and the sick — whom the foolish do not pity — they go to the ocean of hell.\"",
+   "mean_te": "\"అన్నాశ వెతలతో దీనులైన — బాలురైన, వృద్ధులైన, కృశించిన రోగులైన — వారి పై మూఢులైనవారికి జాలి లేకుంటే, వారు నరకార్ణవానికి పోతారు.\""
+  },
+  {
+   "n": 36,
+   "text_deva": "गृहेष्वर्था निवर्तन्ते स्मशानादपि बांधवाः | सुकृतं दुष्कृतं चैव गच्छंतमनुगच्छति",
+   "text_te": "గృహేష్వర్థా నివర్తన్తే స్మశానాదపి బాంధవాః | సుకృతం దుష్కృతం చైవ గచ్ఛంతమనుగచ్ఛతి",
+   "text_en": "gṛheṣvarthā nivartante smaśānādapi bāṁdhavāḥ | sukṛtaṁ duṣkṛtaṁ caiva gacchaṁtamanugacchati",
+   "mean_en": "\"Wealth returns to the house; kinsmen return even from the cremation ground; but the good and evil deeds of a man follow him as he goes.\"",
+   "mean_te": "\"ధనం ఇంటికి తిరిగి వస్తుంది; బంధువులు శ్మశానం నుండి కూడా తిరిగి వస్తారు; కానీ మనిషి వెళ్ళిన చోటికి అతని సుకృత-దుష్కృతాలు అతనిని అనుసరిస్తాయి.\""
+  },
+  {
+   "n": 37,
+   "text_deva": "अजाविको माहिषिकस्सामुद्रो वृषलीपतिः | शूद्रवत्क्षत्रवृत्तिश्च नारकी स्याद् द्विजाधमः",
+   "text_te": "అజావికో మాహిషికస్సాముద్రో వృషలీపతిః | శూద్రవత్క్షత్రవృత్తిశ్చ నారకీ స్యాద్ ద్విజాధమః",
+   "text_en": "ajāviko māhiṣikassāmudro vṛṣalīpatiḥ | śūdravatkṣatravṛttiśca nārakī syād dvijādhamaḥ",
+   "mean_en": "\"The keeper of goats and sheep, the keeper of buffaloes, the seafarer, the husband of a shudra woman; a kshatriya living like a shudra — such lowest of the twice-born become hell-bound.\"",
+   "mean_te": "\"ఆవుల-మేకల కాపరి, మేసతి (గేదెల కాపరి), సముద్ర ప్రయాణికుడు, శూద్రస్త్రీ భర్త; శూద్రుని వృత్తి గల క్షత్రియుడు — అలాంటి ద్విజాధముడు నరకి అవుతాడు.\""
+  },
+  {
+   "n": 38,
+   "text_deva": "शिल्पिनः कारवो वैद्या हेमकारा नृपध्वजाः | भृतका कूटसंयुक्ताः सर्वे ते नारकाः स्मृताः",
+   "text_te": "శిల్పినః కారవో వైద్యా హేమకారా నృపధ్వజాః | భృతకా కూటసంయుక్తాః సర్వే తే నారకాః స్మృతాః",
+   "text_en": "śilpinaḥ kāravo vaidyā hemakārā nṛpadhvajāḥ | bhṛtakā kūṭasaṁyuktāḥ sarve te nārakāḥ smṛtāḥ",
+   "mean_en": "\"Artisans, caravan men, physicians, goldsmiths, banner-men of kings, and hired workers joined with deceit — all these are remembered as hell-bound.\"",
+   "mean_te": "\"శిల్పులు, కారవులు (సారథులు), వైద్యులు, కమ్మారులు (బంగారు కమ్మారులు), నృపధ్వజులు, కూటసంయుక్తులైన భృతకులు — వీరందరూ నరకులుగా స్మరించబడతారు.\""
+  },
+  {
+   "n": 39,
+   "text_deva": "यश्चोचितमतिक्रम्य स्वेच्छयै वाहरेत्करम् | नरके पच्यते सोऽपि योपि दण्डरुचिर्नरः",
+   "text_te": "యశ్చోచితమతిక్రమ్య స్వేచ్ఛయై వాహరేత్కరమ్ | నరకే పచ్యతే సోఽపి యోపి దణ్డరుచిర్నరః",
+   "text_en": "yaścocitamatikramya svecchayai vāharetkaram | narake pacyate so'pi yopi daṇḍarucirnaraḥ",
+   "mean_en": "\"He who, exceeding what is proper, takes taxes at his own will — he too is cooked in hell; and the man who delights in punishing.\"",
+   "mean_te": "\"యోగ్యమైన దానిని అతిక్రమించి, స్వేచ్ఛగా కరం (పన్ను) వసూలు చేసేవాడు — అతడు కూడా నరకంలో పక్వమవుతాడు; అలాగే దండనలో రుచి గల నరుడు.\""
+  },
+  {
+   "n": 40,
+   "text_deva": "उत्कोचकै रुचिक्रीतैस्तस्करैश्च प्रपीड्यते | यस्य राज्ञः प्रजा राष्ट्रे पच्यते नरकेषु सः",
+   "text_te": "ఉత్కోచకై రుచిక్రీతైస్తస్కరైశ్చ ప్రపీడ్యతే | యస్య రాజ్ఞః ప్రజా రాష్ట్రే పచ్యతే నరకేషు సః",
+   "text_en": "utkocakai rucikrītaistaskaraiśca prapīḍyate | yasya rājñaḥ prajā rāṣṭre pacyate narakeṣu saḥ",
+   "mean_en": "\"He is sorely tormented by extortioners, the pleasure-seeking, and thieves; and the king whose subjects in his realm are cooked in the hells [through his misrule] — he [too is punished].\"",
+   "mean_te": "\"ఉత్కోచకుల (లంచగొండి) చేత, రుచికోరుల చేత, దొంగల చేత అతడు పీడింపబడతాడు; తన రాజ్యంలో ప్రజలు నరకాలలో పక్వమవ్వడం వల్ల ఆ రాజు [శిక్ష పొందుతాడు].\""
+  },
+  {
+   "n": 41,
+   "text_deva": "ये द्विजाः परिगृह्णंति नृपस्यान्यायवर्तिनः | ते प्रयांति तु घोरेषु नरकेषु न संशयः",
+   "text_te": "యే ద్విజాః పరిగృహ్ణంతి నృపస్యాన్యాయవర్తినః | తే ప్రయాంతి తు ఘోరేషు నరకేషు న సంశయః",
+   "text_en": "ye dvijāḥ parigṛhṇaṁti nṛpasyānyāyavartinaḥ | te prayāṁti tu ghoreṣu narakeṣu na saṁśayaḥ",
+   "mean_en": "\"Those brahmins who accept [gifts] from a king who acts unrighteously — they go to terrible hells, without doubt.\"",
+   "mean_te": "\"అన్యాయంగా వర్తించే రాజు నుండి (దానాలను) పరిగ్రహించే ద్విజులు — వారు ఘోరమైన నరకాలకు పోతారు; సందేహం లేదు.\""
+  },
+  {
+   "n": 42,
+   "text_deva": "अन्यायात्समुपादाय द्विजेभ्यो यः प्रयच्छति | प्रजाभ्यः पच्यते सोऽपि नरकेषु नृपो यथा",
+   "text_te": "అన్యాయాత్సముపాదాయ ద్విజేభ్యో యః ప్రయచ్ఛతి | ప్రజాభ్యః పచ్యతే సోఽపి నరకేషు నృపో యథా",
+   "text_en": "anyāyātsamupādāya dvijebhyo yaḥ prayacchati | prajābhyaḥ pacyate so'pi narakeṣu nṛpo yathā",
+   "mean_en": "\"He who seizes wealth unjustly and then gives it to brahmins — he too, like the unrighteous king, is cooked in the hells.\"",
+   "mean_te": "\"అన్యాయంగా సంపాదించి ద్విజులకు దానం చేసేవాడు — అతడు కూడా రాజువలె నరకాలలో పక్వమవుతాడు.\""
+  },
+  {
+   "n": 43,
+   "text_deva": "पारदारिकचौराणां चंडानां विद्यते त्वघम् | परदाररतस्यापि राज्ञो भवति नित्यशः",
+   "text_te": "పారదారికచౌరాణాం చండానాం విద్యతే త్వఘమ్ | పరదారరతస్యాపి రాజ్ఞో భవతి నిత్యశః",
+   "text_en": "pāradārikacaurāṇāṁ caṁḍānāṁ vidyate tvagham | paradāraratasyāpi rājño bhavati nityaśaḥ",
+   "mean_en": "\"For the adulterer, the thief and the cruel ones there is this sin; but for the king who delights in other men's wives it is there constantly.\"",
+   "mean_te": "\"పరదారికులకు, దొంగలకు, చండులకు (క్రూరులకు) ఈ పాపం ఉంటుంది; అలాగే పరదార సంతోషి అయిన రాజుకు నిత్యంగా ఉంటుంది.\""
+  },
+  {
+   "n": 44,
+   "text_deva": "अचौरं चौरवत्पश्येच्चौरं वाचौररूपिणम् | अविचार्य नृपस्तस्माद्धातयन्नरकं व्रजेत्",
+   "text_te": "అచౌరం చౌరవత్పశ్యేచ్చౌరం వాచౌరరూపిణమ్ | అవిచార్య నృపస్తస్మాద్ధాతయన్నరకం వ్రజేత్",
+   "text_en": "acauraṁ cauravatpaśyeccauraṁ vācaurarūpiṇam | avicārya nṛpastasmāddhātayannarakaṁ vrajet",
+   "mean_en": "\"If the king, without proper inquiry, treats the innocent as a thief or spares the thief as if innocent, then, punishing wrongly, he goes to hell.\"",
+   "mean_te": "\"రాజు తనిఖీ లేకుండా చోరుడు కానివాణ్ణి చోరుడివలె చూసినా, చోరుడిని చోరుడు కాడని చూసినా — అప్పుడు, తప్పుగా దండించడం వల్ల నరకానికి వెళ్తాడు.\""
+  },
+  {
+   "n": 45,
+   "text_deva": "घृततैलान्नपानानि मधुमांससुरासवम् | गुडेक्षुशाकदुग्धानि दधिमूलफलानि च",
+   "text_te": "ఘృతతైలాన్నపానాని మధుమాంససురాసవమ్ | గుడేక్షుశాకదుగ్ధాని దధిమూలఫలాని చ",
+   "text_en": "ghṛtatailānnapānāni madhumāṁsasurāsavam | guḍekṣuśākadugdhāni dadhimūlaphalāni ca",
+   "mean_en": "\"Ghee, oil, food and drink; honey, meat, liquor and asava; sugar, sugarcane, vegetables, milk, curd, roots and fruits —\"",
+   "mean_te": "\"నెయ్యి, నూనె, అన్నపానీయాలు; తేనె, మాంసం, సురా-ఆసవాలు; బెల్లం, చెరకు, కూరగాయలు, పాలు, పెరుగు, దుంపలు, పళ్లు —\""
+  },
+  {
+   "n": 46,
+   "text_deva": "तृणं काष्ठं पत्रपुष्पमौषधं चात्मभोजनम् | उपानत्छत्रशकटमासनं च कमंडलुम्",
+   "text_te": "తృణం కాష్ఠం పత్రపుష్పమౌషధం చాత్మభోజనమ్ | ఉపానత్ఛత్రశకటమాసనం చ కమండలుమ్",
+   "text_en": "tṛṇaṁ kāṣṭhaṁ patrapuṣpamauṣadhaṁ cātmabhojanam | upānatchatraśakaṭamāsanaṁ ca kamaṁḍalum",
+   "mean_en": "\"grass, wood, leaves, flowers, medicines and one's own food; shoes, umbrella, cart, seat, and water-vessel —\"",
+   "mean_te": "\"గడ్డి, కట్టెలు, ఆకులు, పుష్పాలు, ఔషధాలు, స్వాహారం (స్వంత భోజనం); చెప్పులు, గొడుగు, బండి, ఆసనం, కమండలం —\""
+  },
+  {
+   "n": 47,
+   "text_deva": "ताम्रसीसत्रपुः शस्त्रं शंखाद्यं च जलोद्भवम् | वैद्यं च वैणवं चान्यद्गृहोपस्करणानि च",
+   "text_te": "తామ్రసీసత్రపుః శస్త్రం శంఖాద్యం చ జలోద్భవమ్ | వైద్యం చ వైణవం చాన్యద్గృహోపస్కరణాని చ",
+   "text_en": "tāmrasīsatrapuḥ śastraṁ śaṁkhādyaṁ ca jalodbhavam | vaidyaṁ ca vaiṇavaṁ cānyadgṛhopaskaraṇāni ca",
+   "mean_en": "\"copper, lead, tin, weapons, conch and other water-born things; the physician's [services], bamboo work, and other household utensils —\"",
+   "mean_te": "\"తామ్రం, సీసం, త్రపు (తగరం), శస్త్రాలు, శంఖాది జలోద్భవాలు; వైద్యం, వేణువు (వెదురు) పని, ఇతర గృహోపకరణాలు —\""
+  },
+  {
+   "n": 48,
+   "text_deva": "और्ण्णकार्पासकौशेयपट्टसूत्रोद्भवानि च | स्थूलसूक्ष्माणि वस्त्राणि ये लोभाद्धि हरंति च",
+   "text_te": "ఔర్ణ్ణకార్పాసకౌశేయపట్టసూత్రోద్భవాని చ | స్థూలసూక్ష్మాణి వస్త్రాణి యే లోభాద్ధి హరంతి చ",
+   "text_en": "aurṇṇakārpāsakauśeyapaṭṭasūtrodbhavāni ca | sthūlasūkṣmāṇi vastrāṇi ye lobhāddhi haraṁti ca",
+   "mean_en": "\"woollen, cotton, silk and silk-thread cloths — coarse and fine garments — those who take these out of greed —\"",
+   "mean_te": "\"ఉన్ని, పటిక, పట్టు, పట్టుదారపు వస్త్రాలు; స్థూల-సూక్ష్మమైన వస్త్రాలను లోభంతో అపహరించేవారు —\""
+  },
+  {
+   "n": 49,
+   "text_deva": "एवमादीनि चान्यानि द्रव्याणि विविधानि च | नरकेषु ध्रुवं यान्ति चापहृत्याल्पकानि च",
+   "text_te": "ఏవమాదీని చాన్యాని ద్రవ్యాణి వివిధాని చ | నరకేషు ధ్రువం యాన్తి చాపహృత్యాల్పకాని చ",
+   "text_en": "evamādīni cānyāni dravyāṇi vividhāni ca | narakeṣu dhruvaṁ yānti cāpahṛtyālpakāni ca",
+   "mean_en": "\"and other various articles like these — they certainly go to the hells, even for stealing small things.\"",
+   "mean_te": "\"ఇలాంటి ఇతర వివిధ ద్రవ్యాలను — అల్పమైనవి అయినా — అపహరించిన వారు ఖచ్చితంగా నరకాలకు పోతారు.\""
+  },
+  {
+   "n": 50,
+   "text_deva": "तद्वा यद्वा परद्रव्यमपि सर्षपमात्रकम् | अपहृत्य नरा यांति नरकं नात्र संशयः",
+   "text_te": "తద్వా యద్వా పరద్రవ్యమపి సర్షపమాత్రకమ్ | అపహృత్య నరా యాంతి నరకం నాత్ర సంశయః",
+   "text_en": "tadvā yadvā paradravyamapi sarṣapamātrakam | apahṛtya narā yāṁti narakaṁ nātra saṁśayaḥ",
+   "mean_en": "\"Whatever another's property, even of the size of a mustard-seed, if men steal — they go to hell, without doubt.\"",
+   "mean_te": "\"పరుల సొత్తు ఆవనూక అంత మాత్రమైనా — నరులు అపహరిస్తే నరకానికి పోతారు; దీనిలో సందేహం లేదు.\""
+  },
+  {
+   "n": 51,
+   "text_deva": "एवमाद्यैर्नरः पापैरुत्क्रांतिसमनंतरम् | शरीरयातनार्थाय सर्वाकारमवाप्नुयात्",
+   "text_te": "ఏవమాద్యైర్నరః పాపైరుత్క్రాంతిసమనంతరమ్ | శరీరయాతనార్థాయ సర్వాకారమవాప్నుయాత్",
+   "text_en": "evamādyairnaraḥ pāpairutkrāṁtisamanaṁtaram | śarīrayātanārthāya sarvākāramavāpnuyāt",
+   "mean_en": "\"By such sins, immediately upon death a man attains a form suited to the tortures of the body [in hell].\"",
+   "mean_te": "\"ఇలాంటి పాపాల వల్ల, నరుడు మరణించిన వెంటనే, శరీర యాతనలకు తగిన సర్వాకారాన్ని (ఉపయుక్త దేహాన్ని) పొందుతాడు.\""
+  },
+  {
+   "n": 52,
+   "text_deva": "यमलोकं व्रजंत्येते शरीरेण यमाज्ञया | यमदूतैर्महाघोरैनीयमानास्सुदुःखिताः",
+   "text_te": "యమలోకం వ్రజంత్యేతే శరీరేణ యమాజ్ఞయా | యమదూతైర్మహాఘోరైనీయమానాస్సుదుఃఖితాః",
+   "text_en": "yamalokaṁ vrajaṁtyete śarīreṇa yamājñayā | yamadūtairmahāghorainīyamānāssuduḥkhitāḥ",
+   "mean_en": "\"These go to Yama's world in that body, by Yama's command, led by the terribly fierce messengers of Yama, greatly suffering.\"",
+   "mean_te": "\"వీరు ఆ శరీరంతోనే, యముని ఆజ్ఞతో, మహాఘోరమైన యమదూతల చేత చేర్చబడి, మహా దుఃఖితులై యమలోకానికి వెళ్తారు.\""
+  },
+  {
+   "n": 53,
+   "text_deva": "देवतिर्यङ्मनुष्याणामधर्मनिरतात्मनाम् | धर्मराजः स्मृतश्शास्ता सुघोरैर्विविधैर्वधैः",
+   "text_te": "దేవతిర్యఙ్మనుష్యాణామధర్మనిరతాత్మనామ్ | ధర్మరాజః స్మృతశ్శాస్తా సుఘోరైర్వివిధైర్వధైః",
+   "text_en": "devatiryaṅmanuṣyāṇāmadharmaniratātmanām | dharmarājaḥ smṛtaśśāstā sughorairvividhairvadhaiḥ",
+   "mean_en": "\"For gods, beasts and men given over to adharma, Dharmaraja (Yama) is remembered as the chastiser, with various most terrible punishments.\"",
+   "mean_te": "\"అధర్మంలో నిమగ్నమైన ఆత్మలు గల దేవ, తిర్యక్, మానవ జాతులకు — సుఘోరమైన, వివిధమైన వధాలతో — ధర్మరాజు (యముడు) శాస్తగా స్మరించబడతాడు.\""
+  },
+  {
+   "n": 54,
+   "text_deva": "नियमाचारयुक्तानां प्रमादात्स्खलितात्मनाम् | प्रायश्चित्तैर्गुरुश्शास्ता न बुधैरिष्यते यमः",
+   "text_te": "నియమాచారయుక్తానాం ప్రమాదాత్స్ఖలితాత్మనామ్ | ప్రాయశ్చిత్తైర్గురుశ్శాస్తా న బుధైరిష్యతే యమః",
+   "text_en": "niyamācārayuktānāṁ pramādātskhalitātmanām | prāyaścittairguruśśāstā na budhairiṣyate yamaḥ",
+   "mean_en": "\"For those devoted to discipline and right conduct who have slipped through carelessness, the guru who prescribes expiation is the chastiser; the wise do not hold that Yama should punish them.\"",
+   "mean_te": "\"నియమాచారాలతో యుక్తులై, ప్రమాదం (అజాగ్రత్తం) వల్ల తడారినవారికి — ప్రాయశ్చిత్తాల ద్వారా — గురువే శాస్త; బుద్ధిమంతులు యముని శాసనాన్ని అంగీకరించరు.\""
+  },
+  {
+   "n": 55,
+   "text_deva": "पारदारिकचौराणामन्यायव्यवहारिणाम् | नृपतिश्शासकः प्रोक्तः प्रच्छन्नानां स धर्म्मराट्",
+   "text_te": "పారదారికచౌరాణామన్యాయవ్యవహారిణామ్ | నృపతిశ్శాసకః ప్రోక్తః ప్రచ్ఛన్నానాం స ధర్మ్మరాట్",
+   "text_en": "pāradārikacaurāṇāmanyāyavyavahāriṇām | nṛpatiśśāsakaḥ proktaḥ pracchannānāṁ sa dharmmarāṭ",
+   "mean_en": "\"For adulterers, thieves, and those who deal unjustly, the king is the chastiser; for hidden (covert) sinners, Dharmaraja (Yama) himself is the lord.\"",
+   "mean_te": "\"పరదారికులకు, దొంగలకు, అన్యాయ వ్యవహారికులకు రాజే శాస్తగా చెప్పబడ్డాడు; ప్రచ్ఛన్నమైన (దాగి చేసే) పాపులకు ధర్మరాటు (యముడు) శాస్త.\""
+  },
+  {
+   "n": 56,
+   "text_deva": "तस्मात्कृतस्य पापस्य प्रायश्चित्तं समाचरेत् | नाभुक्तस्यान्यथानाशः कल्पकोटिशतैरपि",
+   "text_te": "తస్మాత్కృతస్య పాపస్య ప్రాయశ్చిత్తం సమాచరేత్ | నాభుక్తస్యాన్యథానాశః కల్పకోటిశతైరపి",
+   "text_en": "tasmātkṛtasya pāpasya prāyaścittaṁ samācaret | nābhuktasyānyathānāśaḥ kalpakoṭiśatairapi",
+   "mean_en": "\"Therefore, for sin committed, one should perform expiation (prayashchitta); otherwise the unexpiated sin is not destroyed even in hundreds of crores of kalpas.\"",
+   "mean_te": "\"కాబట్టి, చేసిన పాపానికి ప్రాయశ్చిత్తాన్ని ఆచరించాలి; లేని చో ఆ పాపం కోట్ల కల్పాలతో కూడా నాశనం కాదు.\""
+  },
+  {
+   "n": 57,
+   "text_deva": "यः करोति स्वयं कर्म्म कारयेच्चानुमोदयेत् | कायेन मनसा वाचा तस्य पापगतिः फलम्",
+   "text_te": "యః కరోతి స్వయం కర్మ్మ కారయేచ్చానుమోదయేత్ | కాయేన మనసా వాచా తస్య పాపగతిః ఫలమ్",
+   "text_en": "yaḥ karoti svayaṁ karmma kārayeccānumodayet | kāyena manasā vācā tasya pāpagatiḥ phalam",
+   "mean_en": "\"He who performs a deed himself, causes it to be done, or approves it — by body, mind or speech — to him comes the fruit of that sin.\"",
+   "mean_te": "\"స్వయంగా కర్మ చేసేవాడు, చేయించేవాడు, అనుమోదించేవాడు — కాయంతో, మనసా, వాచా — అతనికి ఆ పాపగతి ఫలం కలుగుతుంది.\"\""
+  },
+  {
+   "n": 58,
+   "text_deva": "इति श्रीशिवमहापुराणे पञ्चम्या मुमासंहितायां पापभेदवर्णनं नाम षष्ठोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే పఞ్చమ్యా ముమాసంహితాయాం పాపభేదవర్ణనం నామ షష్ఠోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe pañcamyā mumāsaṁhitāyāṁ pāpabhedavarṇanaṁ nāma ṣaṣṭho'dhyāyaḥ",
+   "mean_en": "Thus ends the sixth chapter, called 'Papabheda-varnana' (description of the classes of sin), in the Uma Samhita of the great Shiva Purana.",
+   "mean_te": "శ్రీ శివ మహాపురాణం — ఉమాసంహితలో 'పాపభేదవర్ణనం' అనే ఆరో అధ్యాయం సమాప్తమైంది."
+  }
+ ]
+}
