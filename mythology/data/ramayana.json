@@ -1,113 +1,113 @@
 {
- "epics": {
-  "ramayana": {
-   "id": "ramayana",
-   "name": {
-    "en": "Ramayanam",
-    "te": "రామాయణం"
-   },
-   "author": {
-    "en": "Valmiki",
-    "te": "వాల్మీకి"
-   },
-   "unitLabel": {
-    "en": "Kanda",
-    "te": "కాండము"
-   },
-   "sections": [
-    {
-     "id": "bala-kanda",
-     "n": 1,
-     "name": {
-      "en": "Bala Kanda",
-      "te": "బాల కాండము"
-     },
-     "title": {
-      "en": "The Book of Childhood",
-      "te": "బాల్యపు గ్రంథం"
-     },
-     "comingSoon": true
-    },
-    {
-     "id": "ayodhya-kanda",
-     "n": 2,
-     "name": {
-      "en": "Ayodhya Kanda",
-      "te": "అయోధ్య కాండము"
-     },
-     "title": {
-      "en": "The Book of Ayodhya",
-      "te": "అయోధ్య గ్రంథం"
-     },
-     "comingSoon": true
-    },
-    {
-     "id": "aranya-kanda",
-     "n": 3,
-     "name": {
-      "en": "Aranya Kanda",
-      "te": "అరణ్య కాండము"
-     },
-     "title": {
-      "en": "The Book of the Forest",
-      "te": "అరణ్య గ్రంథం"
-     },
-     "comingSoon": true
-    },
-    {
-     "id": "kishkindha-kanda",
-     "n": 4,
-     "name": {
-      "en": "Kishkindha Kanda",
-      "te": "కిష్కింధ కాండము"
-     },
-     "title": {
-      "en": "The Book of Kishkindha",
-      "te": "కిష్కింధ గ్రంథం"
-     },
-     "comingSoon": true
-    },
-    {
-     "id": "sundara-kanda",
-     "n": 5,
-     "name": {
-      "en": "Sundara Kanda",
-      "te": "సుందర కాండము"
-     },
-     "title": {
-      "en": "The Beautiful Book",
-      "te": "సుందర గ్రంథం"
-     },
-     "comingSoon": true
-    },
-    {
-     "id": "yuddha-kanda",
-     "n": 6,
-     "name": {
-      "en": "Yuddha Kanda",
-      "te": "యుద్ధ కాండము"
-     },
-     "title": {
-      "en": "The Book of War",
-      "te": "యుద్ధ గ్రంథం"
-     },
-     "comingSoon": true
-    },
-    {
-     "id": "uttara-kanda",
-     "n": 7,
-     "name": {
-      "en": "Uttara Kanda",
-      "te": "ఉత్తర కాండము"
-     },
-     "title": {
-      "en": "The Final Book",
-      "te": "అంతిమ గ్రంథం"
-     },
-     "comingSoon": false,
-     "note": "అనువాద కథా రూపంలో — పదినెనిమిది అధ్యాయాలు (stotranidhi లో లేదు)."
+  "epics": {
+    "ramayana": {
+      "id": "ramayana",
+      "name": {
+        "en": "Ramayanam",
+        "te": "రామాయణం"
+      },
+      "author": {
+        "en": "Valmiki",
+        "te": "వాల్మీకి"
+      },
+      "unitLabel": {
+        "en": "Kanda",
+        "te": "కాండము"
+      },
+      "sections": [
+        {
+          "id": "bala-kanda",
+          "n": 1,
+          "name": {
+            "en": "Bala Kanda",
+            "te": "బాల కాండము"
+          },
+          "title": {
+            "en": "The Book of Childhood",
+            "te": "బాల్యపు గ్రంథం"
+          },
+          "comingSoon": false
+        },
+        {
+          "id": "ayodhya-kanda",
+          "n": 2,
+          "name": {
+            "en": "Ayodhya Kanda",
+            "te": "అయోధ్య కాండము"
+          },
+          "title": {
+            "en": "The Book of Ayodhya",
+            "te": "అయోధ్య గ్రంథం"
+          },
+          "comingSoon": false
+        },
+        {
+          "id": "aranya-kanda",
+          "n": 3,
+          "name": {
+            "en": "Aranya Kanda",
+            "te": "అరణ్య కాండము"
+          },
+          "title": {
+            "en": "The Book of the Forest",
+            "te": "అరణ్య గ్రంథం"
+          },
+          "comingSoon": false
+        },
+        {
+          "id": "kishkindha-kanda",
+          "n": 4,
+          "name": {
+            "en": "Kishkindha Kanda",
+            "te": "కిష్కింధ కాండము"
+          },
+          "title": {
+            "en": "The Book of Kishkindha",
+            "te": "కిష్కింధ గ్రంథం"
+          },
+          "comingSoon": false
+        },
+        {
+          "id": "sundara-kanda",
+          "n": 5,
+          "name": {
+            "en": "Sundara Kanda",
+            "te": "సుందర కాండము"
+          },
+          "title": {
+            "en": "The Beautiful Book",
+            "te": "సుందర గ్రంథం"
+          },
+          "comingSoon": false
+        },
+        {
+          "id": "yuddha-kanda",
+          "n": 6,
+          "name": {
+            "en": "Yuddha Kanda",
+            "te": "యుద్ధ కాండము"
+          },
+          "title": {
+            "en": "The Book of War",
+            "te": "యుద్ధ గ్రంథం"
+          },
+          "comingSoon": false
+        },
+        {
+          "id": "uttara-kanda",
+          "n": 7,
+          "name": {
+            "en": "Uttara Kanda",
+            "te": "ఉత్తర కాండము"
+          },
+          "title": {
+            "en": "The Final Book",
+            "te": "అంతిమ గ్రంథం"
+          },
+          "comingSoon": false,
+          "note": "అనువాద కథా రూపంలో — పదినెనిమిది అధ్యాయాలు (stotranidhi లో లేదు)."
+        }
+      ]
     }
-   ]
   }
- }
 }
