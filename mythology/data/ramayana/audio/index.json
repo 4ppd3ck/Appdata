@@ -2257,10 +2257,11 @@
       "bytes": 96406248,
       "sha256": "b84502691b20c70a8146a722a1117197c38fa01524801472daca05874244f8c8",
       "fileCount": 78,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "ebbbc8ae782c7ff658dd706d03598786a69434714ef6c4e3c015980546af5325",
-        "26c9a172be8909a47efe32228c768e9f430b564de8e5adb268a9ddcc6ac86ef3"
+        "362920aa32293f724ad79d53bc78f98911d9b191ee3b025ab47129ecc5ecd5e9",
+        "e675dd36defa6587dd7dfa94bc56593c37fd0bdc36c9d8dcce5aa55deb44f093",
+        "9f8a9409edb0bb3e531287aadb9f0680e5e43f76be52441024b554cd22d60023"
       ]
     },
     "bala-kanda-mohan": {
@@ -2271,10 +2272,11 @@
       "bytes": 98510572,
       "sha256": "c35ae99cf06ca488b1736fab2133f1d9d56c348d3dfbd2a343e84cba832f795a",
       "fileCount": 78,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "5b61ac5d440d1fb3133e765012bb9f9d133a600d074982fcdf8da26a55246363",
-        "5cbea7306b2519e74b4dd5dcd59221d8c79f1099dcbc809a6420031db46bc36c"
+        "0116abd137f58acbc72936ff40006d9ed3a27532356f054dc32cf453710760f0",
+        "0cc7f1ebd3776c1d0d76a39ab9f3f2a44e1b626f01ae3a004c0bc6c73784fe9d",
+        "5bb73395dd3f78d54641564205587ecbee948ded9e635179ea57f38d5b7b9f6a"
       ]
     },
     "aranya-kanda-shruti": {
@@ -2285,10 +2287,11 @@
       "bytes": 106494884,
       "sha256": "2490a0c88a480a1777ab012125ed7df5b1bf134b12f9f40ec1ff578f88a2e620",
       "fileCount": 150,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "81bd13a300d4ba5085d9b250c90c5dc4fedf39259ae205ea00a604f7077798a2",
-        "8021a827f85d6fc0523a3a1de3eb1bdab308342397ef8997d97281099f752e49"
+        "ed08fe3805276a277fbc2ed5b5e8272aaf4a1d526bbd0186c7f17c8f6407b3cc",
+        "f129a8061756780c889d729d9c5ba5656be91cac013e217c8bd1aacfa9db9734",
+        "046e46df4d549b5f6d20e83c93643934b820199b0e4b335ccf40ae4265b1b674"
       ]
     },
     "aranya-kanda-mohan": {
@@ -2299,10 +2302,11 @@
       "bytes": 108776554,
       "sha256": "f66b830bdbf063eb09c297bcbdfc2d0ae0d3fb54b67df8e37985acbc0542fc63",
       "fileCount": 150,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "f3dd2b146307eaa6760575c91a4ea8098bc76c721998c95f09088c849893f143",
-        "cfa15c6a8fd5171e716b93e59321fd1ef71f6bb246cb5b25371bad83be9aae78"
+        "05cd7d0f1b553e0b838f326867af8ca741c31a470779bff93b2ed9f344682232",
+        "931016ff4398c6034bc8d7e248313fc00a302d4b3b41c74b6378abaa19d32c2e",
+        "70fe952869a6bad60c1d3eb5928a2756e444c5c0a88b67518f89b9f22deed721"
       ]
     },
     "ayodhya-kanda-shruti": {
@@ -2313,11 +2317,12 @@
       "bytes": 185347960,
       "sha256": "18a578a5f8eaab2e0d848c5ae5a9386732e64edc0466b8ec4d87951e8f236a7a",
       "fileCount": 120,
-      "parts": 3,
+      "parts": 4,
       "partSha256": [
-        "5b0a0751ea9a64947a055ef26ce3fa49a66856c00f8daeac0a535ce3f3e8a43b",
-        "acc1864a10af749c1c02e52e8445d5d6fcf407137d542042936634490df53871",
-        "3069a205ea185c174ffe13138a78fb09e9d5be6777ff7b69f9ab21b4c8b81e78"
+        "3435f17ac8487c9b942c317b4b439ab4d129883f7944faa86a00b10b787619e0",
+        "02f3dfb6f41d43e3d637a23c77ce590414dccd2b290b967492feef6efabf0f20",
+        "a00bc13def0605b9271013ca8d68a25c73d71e9eefe2c7410c47b1a541acb013",
+        "06801bb4527f55274894b34d98d9b3b4989b41ffaad6592d9e9bd3efc50f51d7"
       ]
     },
     "ayodhya-kanda-mohan": {
@@ -2328,11 +2333,12 @@
       "bytes": 189255042,
       "sha256": "715999ef68c3f66403025b188ced18a28c2233a9c33925beab962fb59940b156",
       "fileCount": 120,
-      "parts": 3,
+      "parts": 4,
       "partSha256": [
-        "39055bc878361bd3a80249f8d7ac88aba8f9b6f8346b27f77f5d12682f3153a0",
-        "1cc0ad1ce3e81fcfd0102936523162a0f615285c4d27249661930731fb0b32c9",
-        "ec14dea2c4a01c8a7c43f18b51c1dd1c7754cd0d9a71a92d49a1b597dca105c5"
+        "9a92c3b47b2e68c25970c082fcb24c9e993dece0c02cfb1d6e1c3209ef446106",
+        "06e0921e44204c864cadc03dae4d56536f495ea05f23783f77a5c99bea641b0f",
+        "fb01c241d497a16277e64a4d09901d9c7f7e34a17e337a980ab4d5d1c42a89ac",
+        "fc373a78673e44b3f93c9df8b25f08c46d528c9b3312b26c29f35b2c4a02b8a9"
       ]
     },
     "kishkindha-kanda-shruti": {
@@ -2343,10 +2349,11 @@
       "bytes": 107870036,
       "sha256": "e98c9f32d2439c070a8c664d095623e686ea1572a8d626bd7bf3b34d535adfa6",
       "fileCount": 134,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "ce9babf322d85ddcd22d665fa04758380d7d43447550564e8d8edc1187739d4e",
-        "69d2e23eecfd620b7be50f3ede9252f2ae707d56c6600d98f9b303c66a54c85b"
+        "05486231885b1abcc749a3e42d824e766c89dbd3f981ae2412026808ce6393fb",
+        "b26863a5bce86b9de35515f16d585310069fb4bed5c0d858558da42c50c6aeb8",
+        "55ea81da1015e3e27dafd767544cc81dc0889bfee268e68f9dbcd33a86cc6706"
       ]
     },
     "kishkindha-kanda-mohan": {
@@ -2357,10 +2364,11 @@
       "bytes": 110261609,
       "sha256": "cb7698a2ec05d61d279db6ed627029d36a1bd7e04ac204ae7d02ae9b66c26bdf",
       "fileCount": 134,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "467da7f96e1429968fdb25512fd8055d59c5b136d5fec15bca1f1f3f1e93f1a2",
-        "6b43f599b52d2be3255c6ef777b9ba3a7f191c9c26e9d9f7db66a48406ca9aef"
+        "8c1559095f3ee7d5403f6505a9bdb3773875768cbc99974f91ae58cd07753cad",
+        "08d9cd735927898e78e0e5fd2fea505be380e152c990544045dcbd4b68581ff6",
+        "822daf19b0829ce9fe4a68f7b6fcea6dd8ee2414431d1d9063046da481ed36c4"
       ]
     },
     "sundara-kanda-shruti": {
@@ -2371,10 +2379,11 @@
       "bytes": 122283940,
       "sha256": "ad175b2464891b3d2c6d0872f43a2188dfa5098ef0939e3ac15b921c4558930d",
       "fileCount": 136,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "5a51d4d826fdd7aa7c1b279d9d80d935a52e8c24d99a8a6581e62edb2b9ede3d",
-        "b1320efcd2d18ab9e54deaf98a8c8474e52331f79832b6f95343d4b8793084f4"
+        "51c8d2506b597dbe9068c75afd7b58f958e9b4775c323b8f91fe5338c7ef7481",
+        "660c8737734061eab4005823f6fde715e3da8deafb4f98b6f2f64d1fa46309fc",
+        "20e90b28b680e7609bc948bf7d243c8feb4049237e5a7cceace3a34e77c027fb"
       ]
     },
     "sundara-kanda-mohan": {
@@ -2385,10 +2394,11 @@
       "bytes": 125003501,
       "sha256": "0faefde59b926a9d1362a5fc4fa3e7c00a450728b5de51629243323a82c54c71",
       "fileCount": 136,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "ca7a2d5d1de3ee249dd3c3e0c5d75661a44eac6746636206c16bf9446d2db776",
-        "c9cc99a493e83c7362a1057c0e9c208771011a88c0e83813585d05d70b453a82"
+        "4aca0a4990481ea865d7e341acc8ac779f2e7cbf3b856757e75bd9061448e626",
+        "97389dea69afbb5f13531456ff136b4f060243305e268b60e7a81ec72a54e01a",
+        "2494e0b27953c6d0e4500bbf0ef66dab846e3193927cb7cf366878543b02e427"
       ]
     },
     "uttara-kanda-shruti": {
@@ -2417,11 +2427,14 @@
       "bytes": 249117914,
       "sha256": "ec7a2c584cb2ef3937161d154d79e7be07fa4f21de3d77823582db665286be75",
       "fileCount": 262,
-      "parts": 3,
+      "parts": 6,
       "partSha256": [
-        "064fc2353a2a51788724a4ef851877a8dc45974fa666640019808ebc81cd812e",
-        "5458044601c286b0258deb9c7506b58266ef9d47bc2380db20e9c3e1a78aa4f8",
-        "421c93375ec5ddac85cf40ea0e11f36bc86312c52c9c854b2899d5b28b6a9fb0"
+        "938dbb3ed260262628fee50e4da92c542957f38808247888d546dccf7b562e4e",
+        "5c43b76fb9e49f75de11f23ef1f38d26d3aa6d3dcb421eb6d8cb93e80f09806e",
+        "516405ba6c9eba649e86dac3a6acdfda2dd0f4305353ea0f840933a9a8ee1916",
+        "da2710291e2e4bbfeb6960cf0f58f531f699ed09bbbb72277cab8e3129d07622",
+        "5046e44591fa8a25573a084abcbb2ddb6c510278f906e7d4b47f9c07729741b8",
+        "cf111f41eb633fe2f0cff97e2549b90663d528f6ce1e794849f5610882e9e7f3"
       ]
     },
     "yuddha-kanda-mohan": {
@@ -2432,11 +2445,14 @@
       "bytes": 254693675,
       "sha256": "d6ea03acc7d84a04a1b5db04af9e2d65a857a5467e0d7e59a39f44705313e7fe",
       "fileCount": 262,
-      "parts": 3,
+      "parts": 6,
       "partSha256": [
-        "cd633cb7efbb079ea7dc5099c2954b94b7286670fc1e2ed1b17b016cb27c04b6",
-        "b91959efa34b86745a910726c7ccd0a4396cb62325b129d8e724013790a95775",
-        "3b03b26d73f5774f24e75318cd713c2bedeff2382761db10dfe4e1f4a185f80b"
+        "3eb818f5e014f1a6b8d76295a47ecc034132ab0c630fc716c08fc9bc474fe69a",
+        "4e460d62293dce2d7cfda7e9f74a59cc61901b0460fe0b1f64acf931546aabb4",
+        "a7ceb2e2d861c5349296e5f74f4eae1013a30012c91fab13811535815b97d6c8",
+        "9e7cd2294cc10288167f3d4badb4357656a40d67f7a5d65a1b0feb025d959d6a",
+        "57cdd8f70ca4ab3cd20afee62c938c4a78cfdd58f5f4b3a7051b74b254d38f90",
+        "5e7be0566320d3967f7aec5bc56e7f5fca8ebed269bfa7089a47701f3c37cd38"
       ]
     }
   },
