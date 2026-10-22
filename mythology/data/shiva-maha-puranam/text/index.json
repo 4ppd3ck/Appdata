@@ -1,0 +1,54 @@
+{
+ "base": "https://raw.githubusercontent.com/4ppd3ck/Appdata/main/mythology/text",
+ "sections": {
+  "kailasa-samhita": {
+   "archive": "shiva-maha-puranam-kailasa-samhita.zip",
+   "bytes": 445492,
+   "sha256": "4779711cf72a194664d9c5fb1778e9d7d7408e98d6dc95b867e3e5d23aa33584",
+   "version": "20261022",
+   "sargas": 23
+  },
+  "kotirudra-samhita": {
+   "archive": "shiva-maha-puranam-kotirudra-samhita.zip",
+   "bytes": 741589,
+   "sha256": "e6843145a192bcb52143f16621c7565b8626adf96407c40dc82204010c707a0f",
+   "version": "20261022",
+   "sargas": 43
+  },
+  "rudra-samhita": {
+   "archive": "shiva-maha-puranam-rudra-samhita.zip",
+   "bytes": 2300735,
+   "sha256": "103b521aa09d02e7b0f908c1572901c077bc6d00738a438c9654656aec4d9bf1",
+   "version": "20261022",
+   "sargas": 197
+  },
+  "shatarudra-samhita": {
+   "archive": "shiva-maha-puranam-shatarudra-samhita.zip",
+   "bytes": 749609,
+   "sha256": "c7fdb92092c22b5497d3e38a30abb8db3b79aee49ed4a70c7cfcaf87f64ea343",
+   "version": "20261022",
+   "sargas": 42
+  },
+  "uma-samhita": {
+   "archive": "shiva-maha-puranam-uma-samhita.zip",
+   "bytes": 926847,
+   "sha256": "040233748d571aa56be48382c1c60616988576b4843a4ae940cffb0a37b17b22",
+   "version": "20261022",
+   "sargas": 51
+  },
+  "vayaviya-samhita": {
+   "archive": "shiva-maha-puranam-vayaviya-samhita.zip",
+   "bytes": 884454,
+   "sha256": "a20801da2391d5270593b4dcd7df22b34331cc32cebc45e91d67554abbaff031",
+   "version": "20261022",
+   "sargas": 76
+  },
+  "vidyesvara-samhita": {
+   "archive": "shiva-maha-puranam-vidyesvara-samhita.zip",
+   "bytes": 502048,
+   "sha256": "0ce7f1bd2b608aab1b7013db581cbbe82b861a52ad0c7b38acd2f7073c2eb987",
+   "version": "20261022",
+   "sargas": 25
+  }
+ }
+}

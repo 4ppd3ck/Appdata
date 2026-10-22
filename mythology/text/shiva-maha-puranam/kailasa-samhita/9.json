@@ -1,0 +1,473 @@
+{
+ "kanda": "kailasa-samhita",
+ "n": 9,
+ "title_deva": "प्रणवार्थपद्धतिवर्णनम्",
+ "title_te": "ప్రణవార్థపద్ధతివర్ణనమ్",
+ "title_iast": "praṇavārthapaddhativarṇanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "शिवो महेश्वरश्चैव रुद्रो विष्णुः पितामहः | संसारवैद्यस्सर्वज्ञः परमात्मेति मुख्यतः",
+   "text_te": "శివో మహేశ్వరశ్చైవ రుద్రో విష్ణుః పితామహః | సంసారవైద్యస్సర్వజ్ఞః పరమాత్మేతి ముఖ్యతః",
+   "text_en": "śivo maheśvaraścaiva rudro viṣṇuḥ pitāmahaḥ | saṁsāravaidyassarvajñaḥ paramātmeti mukhyataḥ",
+   "mean_en": "Shiva, Maheshvara, Rudra, Vishnu, Pitamaha (Brahma); the physician of samsara, the omniscient, the Paramatma — these are the chief [eight names].",
+   "mean_te": "శివుడు, మహేశ్వరుడు, రుద్రుడు, విష్ణువు, పితామహుడు (బ్రహ్మ); సంసారవైద్యుడు, సర్వజ్ఞుడు, పరమాత్మ — ఇవే [ముఖ్యమైన ఎనిమిది నామాలు]."
+  },
+  {
+   "n": 2,
+   "text_deva": "नामाष्टकमिदं नित्यं शिवस्य प्रतिपादकम् | आद्यन्तपञ्चकन्तत्र शान्त्यतीताद्यनुक्रमात्",
+   "text_te": "నామాష్టకమిదం నిత్యం శివస్య ప్రతిపాదకమ్ | ఆద్యన్తపఞ్చకన్తత్ర శాన్త్యతీతాద్యనుక్రమాత్",
+   "text_en": "nāmāṣṭakamidaṁ nityaṁ śivasya pratipādakam | ādyantapañcakantatra śāntyatītādyanukramāt",
+   "mean_en": "This ashtottara (group of eight names) of Shiva, declaring Him always; the five, beginning and end, in the order of Shantyatita and the rest.",
+   "mean_te": "ఈ శివుని నామాష్టకం (ఎనిమిది నామాలు) — నిత్యం శివుని ప్రతిపాదకం; అద్యంతపంచకం (మొదటి, చివరి ఐదు) — శాంత్యతీతాది క్రమంలో."
+  },
+  {
+   "n": 3,
+   "text_deva": "संज्ञा सहाशिवादीनां पञ्चोपाधिपरिग्रहात् | उपाधिविनिवृत्तौ तु यथास्वं विनि वर्तते",
+   "text_te": "సంజ్ఞా సహాశివాదీనాం పఞ్చోపాధిపరిగ్రహాత్ | ఉపాధివినివృత్తౌ తు యథాస్వం విని వర్తతే",
+   "text_en": "saṁjñā sahāśivādīnāṁ pañcopādhiparigrahāt | upādhivinivṛttau tu yathāsvaṁ vini vartate",
+   "mean_en": "The names of Ashiva and the rest, along with the five upadhis (limiting adjuncts); when the upadhis cease, it remains as the Self itself.",
+   "mean_te": "అశివాది నామాలు — పంచోపాధుల (ఐదు ఉపాధుల) పరిగ్రహంతో సహా; ఉపాధులు వినివృత్తమైనప్పుడు (పోయినప్పుడు) — యథాస్వంగా (అలాగే) విని వర్తతే (నిలిచి ఉంటుంది)."
+  },
+  {
+   "n": 4,
+   "text_deva": "पदमेव हितं नित्यमनित्याः पदिनः स्मृताः | पदानां परिवृत्ति स्यान्मुच्यंते पदिनो यतः",
+   "text_te": "పదమేవ హితం నిత్యమనిత్యాః పదినః స్మృతాః | పదానాం పరివృత్తి స్యాన్ముచ్యంతే పదినో యతః",
+   "text_en": "padameva hitaṁ nityamanityāḥ padinaḥ smṛtāḥ | padānāṁ parivṛtti syānmucyaṁte padino yataḥ",
+   "mean_en": "Only the pada (word) is beneficial eternally; the padins (upadhi-bearers) are remembered as impermanent; by the alternation of the padas the padins are freed.",
+   "mean_te": "పదమే నిత్యం హితం (కల్యాణకరం); పదినః (ఉపాధిగలవారు) అనిత్యులుగా స్మృతాః; పదాల పరివృత్తి వల్లనే పదినులు ముచ్యంతే (విముక్తులవుతారు)."
+  },
+  {
+   "n": 5,
+   "text_deva": "परिवृत्त्यन्तरे त्वेवं भूयस्तस्याप्युपाधिना | आत्मान्तराभिधानं स्यात्पादाद्यं नामपंचकम्",
+   "text_te": "పరివృత్త్యన్తరే త్వేవం భూయస్తస్యాప్యుపాధినా | ఆత్మాన్తరాభిధానం స్యాత్పాదాద్యం నామపంచకమ్",
+   "text_en": "parivṛttyantare tvevaṁ bhūyastasyāpyupādhinā | ātmāntarābhidhānaṁ syātpādādyaṁ nāmapaṁcakam",
+   "mean_en": "Within that alternation thus, the upadhi of that (Shiva) is greater; the naming of the inner self would be — the group of five names beginning with pada.",
+   "mean_te": "ఆ పరివృత్తి అంతరంలో — అలాగే — దాని (శివుని) ఉపాధి భూయః (మరింత); అంతరాత్మ నామ అభిధానం — పదాద్యం నామపంచకం (పదం మొదలైన ఐదు నామాలు) ఔతుంది."
+  },
+  {
+   "n": 6,
+   "text_deva": "अन्यत्तु त्रितयं नाम्नामुपादानादिभेदतः | त्रिविधोपाधिरचनाच्छिव एव तु वर्तते",
+   "text_te": "అన్యత్తు త్రితయం నామ్నాముపాదానాదిభేదతః | త్రివిధోపాధిరచనాచ్ఛివ ఏవ తు వర్తతే",
+   "text_en": "anyattu tritayaṁ nāmnāmupādānādibhedataḥ | trividhopādhiracanācchiva eva tu vartate",
+   "mean_en": "The other, however, the triad of names — by the difference of the material cause and the rest; by the formation of the threefold upadhi, Shiva alone remains.",
+   "mean_te": "మరికొంత — త్రితయం (మూడు) నామాలు — ఉపాదానాది భేదంతో; త్రివిధోపాధి రచన వల్ల — శివుడే వర్తతే (నిలిచి ఉంటాడు)."
+  },
+  {
+   "n": 7,
+   "text_deva": "अनादिमलसंश्लेषप्रागभावात्स्वभावतः | अत्यन्तपरिशुद्धात्मेत्यतोऽयं शिव उच्यते",
+   "text_te": "అనాదిమలసంశ్లేషప్రాగభావాత్స్వభావతః | అత్యన్తపరిశుద్ధాత్మేత్యతోఽయం శివ ఉచ్యతే",
+   "text_en": "anādimalasaṁśleṣaprāgabhāvātsvabhāvataḥ | atyantapariśuddhātmetyato'yaṁ śiva ucyate",
+   "mean_en": "Because from the beginning there is no association with impurity, by nature; therefore 'exceedingly pure in self' — hence this one is called Shiva.",
+   "mean_te": "అనాదిగా ఉన్న మలసంశ్లేష (మలిన సంయోగం)కి ముందు లేకపోవడం వల్ల — స్వభావతః; అత్యంత పరిశుద్ధాత్మ — అందుకే ఈయన 'శివుడు' అని ఉచ్యతే (పిలువబడతాడు)."
+  },
+  {
+   "n": 8,
+   "text_deva": "अथवाऽशेषकल्याणगुणैकघन ईश्वरः | शिव इत्युच्यते सद्भिश्शिवतत्त्वार्थवेदिभिः",
+   "text_te": "అథవాఽశేషకల్యాణగుణైకఘన ఈశ్వరః | శివ ఇత్యుచ్యతే సద్భిశ్శివతత్త్వార్థవేదిభిః",
+   "text_en": "athavā'śeṣakalyāṇaguṇaikaghana īśvaraḥ | śiva ityucyate sadbhiśśivatattvārthavedibhiḥ",
+   "mean_en": "Or, 'the solid mass of all auspicious qualities alone' — the Ishvara; 'Shiva' He is called by the good, by those who know the truth of the Shiva-tattva.",
+   "mean_te": "గాని 'అశేష కల్యాణగుణాల ఏకఘనుడైన' (ఏకాగ్ర సమూహంగా ఉన్న) ఈశ్వరుడు; 'శివుడు' అని — సజ్జనులచే, శివతత్త్వార్థాన్ని తెలిసినవారిచే ఉచ్యతే (పిలువబడతాడు)."
+  },
+  {
+   "n": 9,
+   "text_deva": "त्रयोविंशतितत्वेभ्यः पराप्रकृतिरुच्यते | प्रकृतेस्तु परम्प्राहुः पुरुषम्पञ्चविंशकम्",
+   "text_te": "త్రయోవింశతితత్వేభ్యః పరాప్రకృతిరుచ్యతే | ప్రకృతేస్తు పరమ్ప్రాహుః పురుషమ్పఞ్చవింశకమ్",
+   "text_en": "trayoviṁśatitatvebhyaḥ parāprakṛtirucyate | prakṛtestu paramprāhuḥ puruṣampañcaviṁśakam",
+   "mean_en": "Beyond the twenty-three tattvas — the supreme prakriti is called; beyond prakriti, they say, is the Purusha — the twenty-fifth.",
+   "mean_te": "త్రయోవింశతి (ఇరవై మూడు) తత్త్వాల నుండి — 'పరాప్రకృతి' అని ఉచ్యతే; ప్రకృతికి పరుడు (అంతకంటే పైన) — 'పురుషుడు' — పంచవింశకుడు (ఇరవై ఐదోవాడు) అని ప్రాహుః (చెప్తారు)."
+  },
+  {
+   "n": 10,
+   "text_deva": "यद्वेदादौ स्वरम्प्राहुर्वाच्यवाचकभावतः | वेदैकवेद्यं याथात्म्याद्वेदान्ते च प्रतिष्ठितम्",
+   "text_te": "యద్వేదాదౌ స్వరమ్ప్రాహుర్వాచ్యవాచకభావతః | వేదైకవేద్యం యాథాత్మ్యాద్వేదాన్తే చ ప్రతిష్ఠితమ్",
+   "text_en": "yadvedādau svaramprāhurvācyavācakabhāvataḥ | vedaikavedyaṁ yāthātmyādvedānte ca pratiṣṭhitam",
+   "mean_en": "That which they call 'the svara at the beginning of the Veda' — by the relation of the expressed and the expresser; the one Veda and the one knowable by its reality, established in the Vedanta.",
+   "mean_te": "'వేదాదౌ స్వరః' (వేదాదిలో మొదటి స్వరం) అని ప్రాహుర్ (చెప్తారు) — వాచ్య-వాచక భావంతో; వేదైకవేద్యం — యథాత్మ్యంతో (నిజస్వరూపంతో), వేదాంతంలోనూ ప్రతిష్ఠితం."
+  },
+  {
+   "n": 11,
+   "text_deva": "स एव प्रकृतौ लीनो भोक्ता यः प्रकृतेर्यतः | तस्य प्रकृतिलीनस्य यः परस्स महेश्वरः",
+   "text_te": "స ఏవ ప్రకృతౌ లీనో భోక్తా యః ప్రకృతేర్యతః | తస్య ప్రకృతిలీనస్య యః పరస్స మహేశ్వరః",
+   "text_en": "sa eva prakṛtau līno bhoktā yaḥ prakṛteryataḥ | tasya prakṛtilīnasya yaḥ parassa maheśvaraḥ",
+   "mean_en": "That very one is absorbed in prakriti — the enjoyer, since prakriti [is]; of that one absorbed in prakriti, the supreme is that Maheshvara.",
+   "mean_te": "ఆయనే ప్రకృతౌ లీనుడై (ప్రకృతిలో లీనమై) ఉన్న — భోక్త; ప్రకృతిలీనుడైన ఆయనకు — పరుడు (అంతకంటే పైన) మహేశ్వరుడు."
+  },
+  {
+   "n": 12,
+   "text_deva": "तदधीनप्रवृत्तित्त्वात्प्रकृतेः पुरुषस्य च | अथवा त्रिगुणन्तत्त्वं मायेयमिदमव्ययम्",
+   "text_te": "తదధీనప్రవృత్తిత్త్వాత్ప్రకృతేః పురుషస్య చ | అథవా త్రిగుణన్తత్త్వం మాయేయమిదమవ్యయమ్",
+   "text_en": "tadadhīnapravṛttittvātprakṛteḥ puruṣasya ca | athavā triguṇantattvaṁ māyeyamidamavyayam",
+   "mean_en": "Because the activity of prakriti and purusha is subject to it; or this imperishable maya is the tattva of the three gunas.",
+   "mean_te": "ప్రకృతి-పురుషుల ప్రవృత్తి ఆయనకు అధీనం కావడం వల్ల; గాని — ఈ అవ్యయమైన మాయే త్రిగుణ తత్త్వం."
+  },
+  {
+   "n": 13,
+   "text_deva": "मायान्तु प्रकृतिम्विद्यान्मायिनन्तु महेश्वरम् | मायाविमोचकोऽनन्तोमहेश्वरसमन्वयात्",
+   "text_te": "మాయాన్తు ప్రకృతిమ్విద్యాన్మాయినన్తు మహేశ్వరమ్ | మాయావిమోచకోఽనన్తోమహేశ్వరసమన్వయాత్",
+   "text_en": "māyāntu prakṛtimvidyānmāyinantu maheśvaram | māyāvimocako'nantomaheśvarasamanvayāt",
+   "mean_en": "Maya is prakriti, the vidya; the possessor of maya is Maheshvara; the releaser from maya, the endless — by association with Maheshvara.",
+   "mean_te": "మాయ ప్రకృతి — విద్య; మాయిన్ (మాయాధారి) మహేశ్వరుడు; మాయను విమోచించేవాడు, అనంతుడు — మహేశ్వర సమన్వయంతో (మహేశ్వరునితో కలిసినవాడు)."
+  },
+  {
+   "n": 14,
+   "text_deva": "रु द्दुःखं दुःखहेतुर्वा तद्द्रावयति यः प्रभुः | रुद्र इत्युच्यते तस्माच्छिवः परमकारणम्",
+   "text_te": "రు ద్దుఃఖం దుఃఖహేతుర్వా తద్ద్రావయతి యః ప్రభుః | రుద్ర ఇత్యుచ్యతే తస్మాచ్ఛివః పరమకారణమ్",
+   "text_en": "ru dduḥkhaṁ duḥkhaheturvā taddrāvayati yaḥ prabhuḥ | rudra ityucyate tasmācchivaḥ paramakāraṇam",
+   "mean_en": "'ru' is suffering, or the cause of suffering — the lord who melts that away; 'Rudra' He is called; therefore Shiva is the supreme cause.",
+   "mean_te": "'రు' అనగా దుఃఖం, గాని దుఃఖహేతువు; దానిని ద్రావయతి (కరిగించే) ప్రభువు — అతడు 'రుద్రుడు' అని ఉచ్యతే; కాబట్టి శివుడు పరమకారణం."
+  },
+  {
+   "n": 15,
+   "text_deva": "शिवतत्त्वादिभूम्यन्तं शरीरादि घटादि च | व्याप्याधितिष्ठति शिवस्तमाद्विष्णुरुदाहृतः",
+   "text_te": "శివతత్త్వాదిభూమ్యన్తం శరీరాది ఘటాది చ | వ్యాప్యాధితిష్ఠతి శివస్తమాద్విష్ణురుదాహృతః",
+   "text_en": "śivatattvādibhūmyantaṁ śarīrādi ghaṭādi ca | vyāpyādhitiṣṭhati śivastamādviṣṇurudāhṛtaḥ",
+   "mean_en": "From the Shiva-tattva up to the earth, and the body, pot and the rest — pervading and governing, Shiva; therefore He is called Vishnu.",
+   "mean_te": "శివతత్త్వం నుండి భూమి వరకు, అలాగే శరీరాది — ఘటాది — వ్యాప్యాధితిష్ఠతి (వ్యాపించి అధిష్ఠించి ఉంటాడు) — శివుడు; కాబట్టి అతడు 'విష్ణువు' అని ఉదాహృతుడు (పిలువబడ్డాడు)."
+  },
+  {
+   "n": 16,
+   "text_deva": "जगतः पितृभूतानां शिवो मूर्त्यात्मनामपि | पितृभावेन सर्वेषां पितामह उदीरितः",
+   "text_te": "జగతః పితృభూతానాం శివో మూర్త్యాత్మనామపి | పితృభావేన సర్వేషాం పితామహ ఉదీరితః",
+   "text_en": "jagataḥ pitṛbhūtānāṁ śivo mūrtyātmanāmapi | pitṛbhāvena sarveṣāṁ pitāmaha udīritaḥ",
+   "mean_en": "Of the world and the pitris, and of the embodied selves; as father of all, He is called Pitamaha (grandfather).",
+   "mean_te": "జగత్తునకు, పితృభూతులకు, అలాగే మూర్తిగల ఆత్మలకు — శివుడు; సర్వులకు పితృభావంతో — 'పితామహుడు' అని ఉదీరితుడు (పిలువబడ్డాడు)."
+  },
+  {
+   "n": 17,
+   "text_deva": "निदानज्ञो यथा वैद्यो रोगस्य निवर्तकः | उपायैर्भेषजैस्तद्वल्लयभोगाधिकारकः",
+   "text_te": "నిదానజ్ఞో యథా వైద్యో రోగస్య నివర్తకః | ఉపాయైర్భేషజైస్తద్వల్లయభోగాధికారకః",
+   "text_en": "nidānajño yathā vaidyo rogasya nivartakaḥ | upāyairbheṣajaistadvallayabhogādhikārakaḥ",
+   "mean_en": "As the physician who knows the cause and stops the disease; with means of medicines — entitled to [cure] the affliction.",
+   "mean_te": "నిదానాన్ని తెలిసిన వైద్యుడు వ్యాధిని నివారించినట్టు; ఉపాయమైన భేషజాలతో — ఆ రోగాన్ని నశింపజేసే అధికారం గలవాడుగా."
+  },
+  {
+   "n": 18,
+   "text_deva": "संसारस्येश्वरो नित्यं स्थूलस्य विनिवर्तकः | संसार वैद्य इत्युक्तस्सर्वतत्त्वार्थवेदिभिः",
+   "text_te": "సంసారస్యేశ్వరో నిత్యం స్థూలస్య వినివర్తకః | సంసార వైద్య ఇత్యుక్తస్సర్వతత్త్వార్థవేదిభిః",
+   "text_en": "saṁsārasyeśvaro nityaṁ sthūlasya vinivartakaḥ | saṁsāra vaidya ityuktassarvatattvārthavedibhiḥ",
+   "mean_en": "The lord of samsara always, the remover of the gross; 'the physician of samsara' He is called by those who know the truth of all tattvas.",
+   "mean_te": "సంసారానికి ఈశ్వరుడు — నిత్యం — స్థూలాన్ని వినివర్తకుడు (తొలగించేవాడు); 'సంసారవైద్యుడు' అని — సర్వతత్త్వార్థాన్ని తెలిసినవారిచే ఉక్తుడు (పిలువబడ్డాడు)."
+  },
+  {
+   "n": 19,
+   "text_deva": "दशार्द्धज्ञानसिद्ध्यर्थमिन्द्रियेषु च सत्स्वपि | त्रिकालभाविनो भावान्स्थूलान्सूक्ष्मानशेषतः",
+   "text_te": "దశార్ద్ధజ్ఞానసిద్ధ్యర్థమిన్ద్రియేషు చ సత్స్వపి | త్రికాలభావినో భావాన్స్థూలాన్సూక్ష్మానశేషతః",
+   "text_en": "daśārddhajñānasiddhyarthamindriyeṣu ca satsvapi | trikālabhāvino bhāvānsthūlānsūkṣmānaśeṣataḥ",
+   "mean_en": "For the attainment of the knowledge of the five-and-a-half [senses], even when the senses are present; the beings of the three times — gross and subtle — entirely.",
+   "mean_te": "దశార్ధ జ్ఞానసిద్ధి (ఐదున్నర ఇంద్రియాల జ్ఞాన సాధన) కోసం — ఇంద్రియాలు ఉన్నప్పటికీ; త్రికాలాలలో ఉన్న భావాలను — స్థూలాలను, సూక్ష్మాలను — అశేషంగా."
+  },
+  {
+   "n": 20,
+   "text_deva": "अणवो नैव जानन्ति मायार्णवमलावृताः | असत्स्वपि च सर्वेषु सिद्धसर्वार्थवेदिषु",
+   "text_te": "అణవో నైవ జానన్తి మాయార్ణవమలావృతాః | అసత్స్వపి చ సర్వేషు సిద్ధసర్వార్థవేదిషు",
+   "text_en": "aṇavo naiva jānanti māyārṇavamalāvṛtāḥ | asatsvapi ca sarveṣu siddhasarvārthavediṣu",
+   "mean_en": "The jivas (individual souls) do not know at all — covered by the impurity of the ocean of maya; even in the unreal, among all, [while] the siddhas know all ends.",
+   "mean_te": "అణువులు (జీవులు) జానంతి కాదు (తెలుసుకోలేరు) — మాయార్ణవ మలావృతులై (మాయ సాగరపు మలినంతో కప్పబడి); అసత్యమైనవాటిలో కూడా — సర్వేషు (అందరిలో), సిద్ధసర్వార్థవేదిషు (సర్వార్థాలను తెలిసినవారిలో) [తెలిసికొనే శక్తి లేనివారు]."
+  },
+  {
+   "n": 21,
+   "text_deva": "यद्यथावस्थितं वस्तु तत्तथैव सदाशिवः | अयत्नेनैव जानाति तस्मात्सर्वज्ञ उच्यते",
+   "text_te": "యద్యథావస్థితం వస్తు తత్తథైవ సదాశివః | అయత్నేనైవ జానాతి తస్మాత్సర్వజ్ఞ ఉచ్యతే",
+   "text_en": "yadyathāvasthitaṁ vastu tattathaiva sadāśivaḥ | ayatnenaiva jānāti tasmātsarvajña ucyate",
+   "mean_en": "Whatever things are, as they stand — so indeed is Sadashiva; He knows without effort; therefore He is called the omniscient (Sarvajna).",
+   "mean_te": "వస్తువు యథావస్థితంగా (ఉన్నది ఉన్నట్టుగా) — అదే సదాశివుడు; అయత్నేనైవ (ప్రయత్నం లేకుండానే) జానాతి (తెలుసుకుంటాడు); కాబట్టి అతడు 'సర్వజ్ఞుడు' అని ఉచ్యతే."
+  },
+  {
+   "n": 22,
+   "text_deva": "सर्वात्मा परमैरेभिर्गुणैर्नित्यसमन्वयात् | स्वस्मात्परात्मविरहात्परमात्मा शिवस्स्वयम्",
+   "text_te": "సర్వాత్మా పరమైరేభిర్గుణైర్నిత్యసమన్వయాత్ | స్వస్మాత్పరాత్మవిరహాత్పరమాత్మా శివస్స్వయమ్",
+   "text_en": "sarvātmā paramairebhirguṇairnityasamanvayāt | svasmātparātmavirahātparamātmā śivassvayam",
+   "mean_en": "'The Self of all' — by these supreme qualities, through eternal association; there being no self higher than Himself, Shiva Himself is the Paramatma.",
+   "mean_te": "'సర్వాత్మ' — ఈ పరమైన గుణాలతో — నిత్య సమన్వయంతో; తన కంటే పరమాత్మ లేనందువల్ల — శివుడే స్వయంగా పరమాత్మ."
+  },
+  {
+   "n": 23,
+   "text_deva": "इति स्तुत्वा महादेवं प्रणवात्मानमव्ययम् | दत्त्वा पराङ्मुखाद्यञ्च पश्चादीशानमस्तके",
+   "text_te": "ఇతి స్తుత్వా మహాదేవం ప్రణవాత్మానమవ్యయమ్ | దత్త్వా పరాఙ్ముఖాద్యఞ్చ పశ్చాదీశానమస్తకే",
+   "text_en": "iti stutvā mahādevaṁ praṇavātmānamavyayam | dattvā parāṅmukhādyañca paścādīśānamastake",
+   "mean_en": "Having thus praised Mahadeva — the Pranava-self, the imperishable; having shown the parangmukha mudra first, and then Ishana on the crown.",
+   "mean_te": "ఇలా స్తుత్వా (స్తుతించి) — మహాదేవుణ్ణి, ప్రణవాత్మాన్ని — అవ్యయం (క్షయం లేనివాడిని); పరాంగ్ముఖాద్యాన్ని దత్త్వా (ముద్రను చూపి), తర్వాత ఈశానుణ్ణి అష్టకే (శిరస్సుపై) —"
+  },
+  {
+   "n": 24,
+   "text_deva": "पुनरर्च्य देवेशम्प्रणवेन समाहितः | हस्तेन बद्धाञ्जलिना पूजापुष्पम्प्रगृह्य च",
+   "text_te": "పునరర్చ్య దేవేశమ్ప్రణవేన సమాహితః | హస్తేన బద్ధాఞ్జలినా పూజాపుష్పమ్ప్రగృహ్య చ",
+   "text_en": "punararcya deveśampraṇavena samāhitaḥ | hastena baddhāñjalinā pūjāpuṣpampragṛhya ca",
+   "mean_en": "Having worshipped Devesha again with Pranava, with concentration; with the hands joined in the palms, having taken the flower of puja.",
+   "mean_te": "పునరర్చ్య (మళ్ళీ పూజించి) — దేవేశుణ్ణి ప్రణవేన (ప్రణవంతో) — సమాహితుడై (ఏకాగ్రుడై); హస్తేన బద్ధాంజలినా (జోడుచేతులతో) పూజాపుష్పాన్ని ప్రగృహ్య చ (స్వీకరించి) —"
+  },
+  {
+   "n": 25,
+   "text_deva": "उन्मनान्तं शिवं नीत्वा वामनासापुटाध्वना | देवोमुद्वास्य च ततो दक्षनासापुटाध्वना",
+   "text_te": "ఉన్మనాన్తం శివం నీత్వా వామనాసాపుటాధ్వనా | దేవోముద్వాస్య చ తతో దక్షనాసాపుటాధ్వనా",
+   "text_en": "unmanāntaṁ śivaṁ nītvā vāmanāsāpuṭādhvanā | devomudvāsya ca tato dakṣanāsāpuṭādhvanā",
+   "mean_en": "leading Shiva to the state of Unmani (the supreme), by the path of the left nostril; having inhaled the 'deva-om', then by the path of the right nostril.",
+   "mean_te": "ఉన్మనాంతమైన (ఉన్మని స్థితిలో అంతమైన) శివాన్ని నీత్వా (చేర్చి) — వామనాసాపుటాధ్వనా (ఎడమ నాసికా మార్గంతో); 'దేవోం' అనేదాన్ని ఉద్వాస్య (పీల్చి) — తర్వాత దక్షణనాసాపుటాధ్వనా (కుడి నాసికా మార్గంతో) —"
+  },
+  {
+   "n": 26,
+   "text_deva": "शिव एवाहमस्मीति तदैक्यमनुभूय च | सर्वावरणदेवांश्च पुनरुद्वासयेद्धृदि",
+   "text_te": "శివ ఏవాహమస్మీతి తదైక్యమనుభూయ చ | సర్వావరణదేవాంశ్చ పునరుద్వాసయేద్ధృది",
+   "text_en": "śiva evāhamasmīti tadaikyamanubhūya ca | sarvāvaraṇadevāṁśca punarudvāsayeddhṛdi",
+   "mean_en": "'Shiva eva aham asmi' ('I am Shiva indeed') — experiencing that unity; then the devas of all the avaranas one should again dismiss in the heart.",
+   "mean_te": "'శివ ఏవాహమస్మి' (నేనే శివుడని) — ఆ ఐక్యాన్ని అనుభూయ చ (అనుభవించి); సర్వావరణ దేవతలను పునరుద్వాసయేత్ (మళ్ళీ విసర్జించాలి) — హృదిలో (హృదయంలో) —"
+  },
+  {
+   "n": 27,
+   "text_deva": "विद्यापूजां गुरोःपूजां कृत्वा पश्चाद्यथाक्रमम् | शंखार्घपात्रमंत्रांश्च हृदये विन्यसेत्क्रमात्",
+   "text_te": "విద్యాపూజాం గురోఃపూజాం కృత్వా పశ్చాద్యథాక్రమమ్ | శంఖార్ఘపాత్రమంత్రాంశ్చ హృదయే విన్యసేత్క్రమాత్",
+   "text_en": "vidyāpūjāṁ guroḥpūjāṁ kṛtvā paścādyathākramam | śaṁkhārghapātramaṁtrāṁśca hṛdaye vinyasetkramāt",
+   "mean_en": "Having performed the vidya-puja, the guru-puja, then in order; the shankha-argha vessels and the mantras — one should place in the heart in order.",
+   "mean_te": "విద్యాపూజాన్ని, గురోఃపూజాన్ని కృత్వా (చేసి) — పశ్చాద్యథాక్రమంగా (తర్వాత క్రమంగా); శంఖార్ఘపాత్రాలను, మంత్రాలను చ — హృదయే క్రమంగా విన్యసేత్ (హృదయంలో న్యాసం చేయాలి)."
+  },
+  {
+   "n": 28,
+   "text_deva": "निर्माल्यञ्च समर्प्याऽथ चण्डेशायेशगोचरे | पुनश्च संयतप्राण ऋष्यादिकमथोच्चरेत्",
+   "text_te": "నిర్మాల్యఞ్చ సమర్ప్యాఽథ చణ్డేశాయేశగోచరే | పునశ్చ సంయతప్రాణ ఋష్యాదికమథోచ్చరేత్",
+   "text_en": "nirmālyañca samarpyā'tha caṇḍeśāyeśagocare | punaśca saṁyataprāṇa ṛṣyādikamathoccaret",
+   "mean_en": "Having offered the nirmalya (withered flowers), then in the realm of Chandisha (Chandeshvara); again with the prana controlled, one should pronounce the rishi and the rest.",
+   "mean_te": "నిర్మాల్యాన్ని సమర్ప్యాఽథ (వడ్డిన పూలను సమర్పించి) — తర్వాత చండేశాయేశగోచరంలో (చండీశ్వరుడి స్థానంలో); పునశ్చ సంయతప్రాణుడై (ప్రాణాన్ని నియంత్రించి) — ఋష్యాదికాన్ని అథో ఉచ్చరేత్ (ఉచ్చరించాలి)."
+  },
+  {
+   "n": 29,
+   "text_deva": "कैलासप्रस्तरो नाम मण्डलम्परिभाषितम् | अर्चयेन्नित्यमेवैतत्पक्षे वा मासिमासि वा",
+   "text_te": "కైలాసప్రస్తరో నామ మణ్డలమ్పరిభాషితమ్ | అర్చయేన్నిత్యమేవైతత్పక్షే వా మాసిమాసి వా",
+   "text_en": "kailāsaprastaro nāma maṇḍalamparibhāṣitam | arcayennityamevaitatpakṣe vā māsimāsi vā",
+   "mean_en": "The mandala called the Kailasa stone; one should worship this always, or in the fortnight, or month by month.",
+   "mean_te": "'కైలాసప్రస్తర' అనే పేరుతో పరిభాషితమైన (వ్యవహరించబడే) మండలం; దానిని నిత్యం అర్చయేత్ (పూజించాలి) — గాని పక్షంలో, గాని మాసమాసానికి (నెల తిరిగి)."
+  },
+  {
+   "n": 30,
+   "text_deva": "षण्मासे वत्सरे वापि चातुर्मास्यादिपर्वणि | अवश्यञ्च समभ्यर्चेन्नित्यं मल्लिङ्गमास्तिकः",
+   "text_te": "షణ్మాసే వత్సరే వాపి చాతుర్మాస్యాదిపర్వణి | అవశ్యఞ్చ సమభ్యర్చేన్నిత్యం మల్లిఙ్గమాస్తికః",
+   "text_en": "ṣaṇmāse vatsare vāpi cāturmāsyādiparvaṇi | avaśyañca samabhyarcennityaṁ malliṅgamāstikaḥ",
+   "mean_en": "In six months, or in a year, and at the chaturmasya and other festivals; one should certainly worship always — the Shiva-linga, O believer.",
+   "mean_te": "షణ్మాసంలో (ఆరు నెలలలో), గాని వత్సరంలో (ఏడాదిలో); అలాగే చాతుర్మాస్యాది పర్వాలలో (చాతుర్మాసం మొదలైన పండుగలలో) — ఖచ్చితంగా సమభ్యర్చేత్ (పూజించాలి) — నిత్యం శివలింగాన్ని — ఆస్తికుడా (నమ్మకం గలవాడా)!"
+  },
+  {
+   "n": 31,
+   "text_deva": "तस्मिन्क्रमे महादेवि विशेषः कोऽपि कथ्यते | उपदेशदिने लिंगम्पूजितं गुरुणा सह",
+   "text_te": "తస్మిన్క్రమే మహాదేవి విశేషః కోఽపి కథ్యతే | ఉపదేశదినే లింగమ్పూజితం గురుణా సహ",
+   "text_en": "tasminkrame mahādevi viśeṣaḥ ko'pi kathyate | upadeśadine liṁgampūjitaṁ guruṇā saha",
+   "mean_en": "In that order, O Mahadevi, a special rule is told; on the day of instruction (upadesha), the linga worshipped together with the guru.",
+   "mean_te": "ఆ క్రమంలో, మహాదేవీ — విశేషం కొంత కథ్యతే (చెప్పబడుతుంది); ఉపదేశదినంలో (ఉపదేశం పొందిన రోజున) — గురువుతో సహా పూజించిన లింగాన్ని —"
+  },
+  {
+   "n": 32,
+   "text_deva": "गृह्णीयादर्चयिष्यामि शिवमाप्राणसंक्षयम् | एवन्त्रिवारमुच्चार्य्य शपथं गुरुसन्निधौ",
+   "text_te": "గృహ్ణీయాదర్చయిష్యామి శివమాప్రాణసంక్షయమ్ | ఏవన్త్రివారముచ్చార్య్య శపథం గురుసన్నిధౌ",
+   "text_en": "gṛhṇīyādarcayiṣyāmi śivamāprāṇasaṁkṣayam | evantrivāramuccāryya śapathaṁ gurusannidhau",
+   "mean_en": "'I shall take and worship Shiva until the end of my life' — having pronounced thus thrice, the vow before the guru.",
+   "mean_te": "'ప్రాణాంతం (జీవితాంతం) వరకు శివుణ్ణి స్వీకరించి పూజిస్తాను' అని — గృహ్ణీయాత్ (స్వీకరించాలి); ఇలా త్రివారమ్ ఉచ్చార్య్య (మూడుసార్లు పలికి) — గురుసన్నిధౌ శపథాన్ని (గురువు ఎదుట ప్రమాణాన్ని చేయాలి)."
+  },
+  {
+   "n": 33,
+   "text_deva": "ततस्समर्चयेन्नित्यम्पूर्वोक्तविधिना प्रिये | अर्घं समर्पयेल्लिंगमूर्द्धन्यर्घ्योदकेन च",
+   "text_te": "తతస్సమర్చయేన్నిత్యమ్పూర్వోక్తవిధినా ప్రియే | అర్ఘం సమర్పయేల్లింగమూర్ద్ధన్యర్ఘ్యోదకేన చ",
+   "text_en": "tatassamarcayennityampūrvoktavidhinā priye | arghaṁ samarpayelliṁgamūrddhanyarghyodakena ca",
+   "mean_en": "Then one should worship always by the rule told before, O dear one; one should offer the arghya at the head of the linga, with the arghya-water.",
+   "mean_te": "తర్వాత నిత్యం సమర్చయేత్ (నిత్యం పూజించాలి) — పూర్వోక్త విధినా (పూర్వం చెప్పిన విధితో) — ప్రియే; అర్ఘ్యాన్ని సమర్పయేత్ (అర్పించాలి) — లింగానికి ఊర్ధ్వంగా (పైన), అర్ఘ్యోదకేన చ (అర్ఘ్య నీటితో)."
+  },
+  {
+   "n": 34,
+   "text_deva": "प्रणवेन समभ्यर्च्य धूपदीपौ समर्पयेत् | ऐशान्यां चण्डमाराध्य निर्माल्यञ्च निवेदयेत्",
+   "text_te": "ప్రణవేన సమభ్యర్చ్య ధూపదీపౌ సమర్పయేత్ | ఐశాన్యాం చణ్డమారాధ్య నిర్మాల్యఞ్చ నివేదయేత్",
+   "text_en": "praṇavena samabhyarcya dhūpadīpau samarpayet | aiśānyāṁ caṇḍamārādhya nirmālyañca nivedayet",
+   "mean_en": "Having worshipped with Pranava, one should offer the dhoopa and the deepa; in the Ishanya, having worshipped Chanda (Chandeshvara), one should offer the nirmalya.",
+   "mean_te": "ప్రణవేన సమభ్యర్చ్య (ప్రణవంతో పూజించి) — ధూపదీపాలను సమర్పయేత్ (సమర్పించాలి); ఐశాన్యాం (ఈశాన్యంలో) చండుణ్ణి (చండీశుణ్ణి) ఆరాధ్య (పూజించి) — నిర్మాల్యాన్ని నివేదయేత్ (సమర్పించాలి)."
+  },
+  {
+   "n": 35,
+   "text_deva": "प्रक्षाल्य ल्लिंगम्वेदीञ्च वस्त्रपूतैर्जलैस्ततः | निःक्षिप्य पुष्पं शिरसि लिंगस्य प्रणवेन तु",
+   "text_te": "ప్రక్షాల్య ల్లింగమ్వేదీఞ్చ వస్త్రపూతైర్జలైస్తతః | నిఃక్షిప్య పుష్పం శిరసి లింగస్య ప్రణవేన తు",
+   "text_en": "prakṣālya lliṁgamvedīñca vastrapūtairjalaistataḥ | niḥkṣipya puṣpaṁ śirasi liṁgasya praṇavena tu",
+   "mean_en": "Having washed the linga and the altar with cloth-purified waters; having cast the flower on the head of the linga, with Pranava.",
+   "mean_te": "ప్రక్షాల్య (ఉతికి) — లింగాన్ని, వేదీని చ — వస్త్రపూతైః జలైః (వస్త్రంతో శుద్ధి చేసిన నీటితో); తర్వాత నిఃక్షిప్య (వేసి) — లింగస్య శిరసి (లింగం పైన) పుష్పాన్ని — ప్రణవేన తు (ప్రణవంతో)."
+  },
+  {
+   "n": 36,
+   "text_deva": "आधारशक्तिमारभ्य शुद्धविद्यासनावधि | विभाव्य सर्वं मनसा स्थापयेत्परमेश्वरम्",
+   "text_te": "ఆధారశక్తిమారభ్య శుద్ధవిద్యాసనావధి | విభావ్య సర్వం మనసా స్థాపయేత్పరమేశ్వరమ్",
+   "text_en": "ādhāraśaktimārabhya śuddhavidyāsanāvadhi | vibhāvya sarvaṁ manasā sthāpayetparameśvaram",
+   "mean_en": "Beginning from the Adhara-shakti up to the seat of the pure vidya; having beheld all with the mind, one should establish Parameshvara.",
+   "mean_te": "ఆధారశక్తి నుండి శుద్ధవిద్యాసనం వరకు; విభావ్య (ధ్యానించి) — సర్వాన్ని మనసా (మనస్సుతో) — పరమేశ్వరుణ్ణి స్థాపయేత్ (స్థాపించాలి)."
+  },
+  {
+   "n": 37,
+   "text_deva": "पञ्चगव्यादिभिर्द्रव्यैर्यथाविभवसम्भृतैः | केवलैर्वा जलैश्शुद्धैस्सुरभि द्रव्यवासितैः",
+   "text_te": "పఞ్చగవ్యాదిభిర్ద్రవ్యైర్యథావిభవసమ్భృతైః | కేవలైర్వా జలైశ్శుద్ధైస్సురభి ద్రవ్యవాసితైః",
+   "text_en": "pañcagavyādibhirdravyairyathāvibhavasambhṛtaiḥ | kevalairvā jalaiśśuddhaissurabhi dravyavāsitaiḥ",
+   "mean_en": "With the panchagavya and other substances, endowed as one's prosperity allows; or with pure waters alone, fragrant with scented substances.",
+   "mean_te": "పంచగవ్యాది ద్రవ్యాలతో — యథావిభవ సంభృతైః (తన సంపత్తికి తగినట్టుగా సమకూడిన); గాని కేవలమైన శుద్ధజలాలతో — సురభి (సువాసన) గల, ద్రవ్యవాసితమైన (సుగంధ ద్రవ్యాలతో వాసన గల)."
+  },
+  {
+   "n": 38,
+   "text_deva": "पावमानेन रुद्रेण नीलेन त्वरितेन च | ऋग्भिश्च सामभिर्वापि ब्रह्मभिश्चैव पञ्चभिः",
+   "text_te": "పావమానేన రుద్రేణ నీలేన త్వరితేన చ | ఋగ్భిశ్చ సామభిర్వాపి బ్రహ్మభిశ్చైవ పఞ్చభిః",
+   "text_en": "pāvamānena rudreṇa nīlena tvaritena ca | ṛgbhiśca sāmabhirvāpi brahmabhiścaiva pañcabhiḥ",
+   "mean_en": "with the Pavamana of Rudra, with the Nila quickly; with the Rik verses, or the Sama, and with the five Brahma [mantras].",
+   "mean_te": "పావమానేన (పావమాన సూక్తంతో), రుద్రనామతో; నీలేన (నీలసూత్రంతో), త్వరితేన చ (వేగంగా); ఋగ్భిః (ఋక్కులతో), సామభిః వాపి (సామాలతో గాని), బ్రహ్మభిః చైవ (బ్రహ్మ మంత్రాలతోనే) — పంచభిః (ఐదింటితో) —"
+  },
+  {
+   "n": 39,
+   "text_deva": "स्नापयेद्देवदेवेशं प्रणवेन शिवेन च | विशेषार्घ्योदकेनापि प्रणवेनाभिषेचयेत्",
+   "text_te": "స్నాపయేద్దేవదేవేశం ప్రణవేన శివేన చ | విశేషార్ఘ్యోదకేనాపి ప్రణవేనాభిషేచయేత్",
+   "text_en": "snāpayeddevadeveśaṁ praṇavena śivena ca | viśeṣārghyodakenāpi praṇavenābhiṣecayet",
+   "mean_en": "one should bathe the Deva-Devesha with Pranava and Shiva [mantra]; also with the special arghya-water, one should consecrate with Pranava.",
+   "mean_te": "స్నాపయేత్ (స్నానం చేయించాలి) — దేవదేవేశుణ్ణి (దేవతల ప్రభువైన శివుణ్ణి) — ప్రణవేన, శివేన చ (ప్రణవంతో, శివ మంత్రంతో); అలాగే విశేషార్ఘ్యోదకేనాపి (విశేష అర్ఘ్య జలంతో) — ప్రణవేన అభిషేచయేత్ (అభిషేకం చేయాలి)."
+  },
+  {
+   "n": 40,
+   "text_deva": "विशोध्य वाससा पुष्पं लिंगमूर्द्धनि विन्यसेत् | पीठे लिंगं समारोप्य सूर्याद्यर्चां समाचरेत्",
+   "text_te": "విశోధ్య వాససా పుష్పం లింగమూర్ద్ధని విన్యసేత్ | పీఠే లింగం సమారోప్య సూర్యాద్యర్చాం సమాచరేత్",
+   "text_en": "viśodhya vāsasā puṣpaṁ liṁgamūrddhani vinyaset | pīṭhe liṁgaṁ samāropya sūryādyarcāṁ samācaret",
+   "mean_en": "Having cleansed with the cloth, one should place the flower on the head of the linga; having placed the linga on the seat, one should perform the worship beginning with the Sun.",
+   "mean_te": "విశోధ్య (శుభ్రం చేసి) — వాససా (వస్త్రంతో) — పుష్పాన్ని లింగమూర్ధని (లింగం శిరస్సుపై) విన్యసేత్ (వేయాలి); పీఠే లింగాన్ని సమారోప్య (పీఠంపై ఉంచి) — సూర్యాద్యర్చాన్ని సమాచరేత్ (సూర్యుడి నుండి పూజను మొదలుపెట్టాలి)."
+  },
+  {
+   "n": 41,
+   "text_deva": "आधारशक्त्यनन्तौ द्वौ पीठाधस्तात्समर्चयेत् | सिंहासनन्तदूर्ध्वन्तु समभ्यर्च्य यथाक्रमम् | ४१ अथोर्ध्वच्छदनम्पीठपादे स्कन्दं समर्चयेत् | लिंगे मूर्तिं समाकल्प्य मान्त्वया सह पूजयेत्",
+   "text_te": "ఆధారశక్త్యనన్తౌ ద్వౌ పీఠాధస్తాత్సమర్చయేత్ | సింహాసనన్తదూర్ధ్వన్తు సమభ్యర్చ్య యథాక్రమమ్ | ४१ అథోర్ధ్వచ్ఛదనమ్పీఠపాదే స్కన్దం సమర్చయేత్ | లింగే మూర్తిం సమాకల్ప్య మాన్త్వయా సహ పూజయేత్",
+   "text_en": "ādhāraśaktyanantau dvau pīṭhādhastātsamarcayet | siṁhāsanantadūrdhvantu samabhyarcya yathākramam | ४१ athordhvacchadanampīṭhapāde skandaṁ samarcayet | liṁge mūrtiṁ samākalpya māntvayā saha pūjayet",
+   "mean_en": "the Adhara, Shakti and Ananta — the two below the seat one should worship; the simhasana above that, having worshipped in order. Then the urdhva-chadana at the foot of the seat — Skanda one should worship; having devised the murti in the linga, one should worship it together with thee.",
+   "mean_te": "ఆధారం, శక్తి, అనంతుడు — పీఠాధస్తాత్ (పీఠం కింద) ద్వౌ (రెండింటిని) సమర్చయేత్ (పూజించాలి); సింహాసనాన్ని తదూర్ధ్వంతు (దాని పైన) యథాక్రమంగా సమభ్యర్చ్య (పూజించి). అప్పుడు ఊర్ధ్వచ్ఛదనాన్ని (పై ఆవరణాన్ని) — పీఠపాదే (పీఠపాదంలో) స్కందుణ్ణి సమర్చయేత్ (పూజించాలి); లింగంలో మూర్తిని సమాకల్ప్య (ఏర్పాటు చేసి) — నీతో సహా పూజయేత్ (పూజించాలి)."
+  },
+  {
+   "n": 42,
+   "text_deva": "सम्यग् भक्त्या विधानेन यतिर्मद्ध्यानतत्परः | एवम्मया ते कथितमतिगुह्यमिदम्प्रिये",
+   "text_te": "సమ్యగ్ భక్త్యా విధానేన యతిర్మద్ధ్యానతత్పరః | ఏవమ్మయా తే కథితమతిగుహ్యమిదమ్ప్రియే",
+   "text_en": "samyag bhaktyā vidhānena yatirmaddhyānatatparaḥ | evammayā te kathitamatiguhyamidampriye",
+   "mean_en": "well, with devotion, according to the rule — the yati intent on my meditation; thus have I told thee this most secret thing, O dear one.",
+   "mean_te": "సమ్యక్కా (చక్కగా) — భక్త్యా, విధానేన (భక్తితో, విధానంతో) — మద్ధ్యానతత్పరుడైన (నా ధ్యానంలో తత్పరుడైన) యతితో; ఇలా నీకు చెప్పబడింది — అతిగుహ్యమైన ఇది, ప్రియే."
+  },
+  {
+   "n": 43,
+   "text_deva": "गोपनीयं प्रयत्नेन न देयं यस्य कस्य चित् | मम भक्ताय दातव्यं यतये वीतरागिणे",
+   "text_te": "గోపనీయం ప్రయత్నేన న దేయం యస్య కస్య చిత్ | మమ భక్తాయ దాతవ్యం యతయే వీతరాగిణే",
+   "text_en": "gopanīyaṁ prayatnena na deyaṁ yasya kasya cit | mama bhaktāya dātavyaṁ yataye vītarāgiṇe",
+   "mean_en": "It should be concealed with effort; it should not be given to just anyone; it should be given to My devotee — to the yati free from attachment.",
+   "mean_te": "ఇది ప్రయత్నేన (శ్రద్ధగా) గోపనీయం (రహస్యంగా ఉంచాల్సినది); యస్య కస్యచిత్ (ఎవరికైనా) దేయం కాదు; మమ భక్తాయ (నా భక్తుడికి) — వీతరాగిని అయిన యతికి — దాతవ్యం (ఇవ్వాలి)."
+  },
+  {
+   "n": 44,
+   "text_deva": "गुरुभक्ताय शान्ताय मदर्थे योगभागिने | ममाज्ञामतिलंघ्यैतद्यो ददाति विमूढधीः",
+   "text_te": "గురుభక్తాయ శాన్తాయ మదర్థే యోగభాగినే | మమాజ్ఞామతిలంఘ్యైతద్యో దదాతి విమూఢధీః",
+   "text_en": "gurubhaktāya śāntāya madarthe yogabhāgine | mamājñāmatilaṁghyaitadyo dadāti vimūḍhadhīḥ",
+   "mean_en": "to the devotee of the guru, the tranquil, for My sake, the sharer of yoga; he who gives it transgressing My command — the foolish-minded one —",
+   "mean_te": "గురుభక్తాయ (గురువు పై భక్తి గలవాడికి), శాంతాయ (శాంతి గలవాడికి), మదర్థే (నా కోసం), యోగభాగినే (యోగాన్ని పొందినవాడికి) [ఇవ్వాలి]; నా ఆజ్ఞను అతిలంఘ్య (అతిక్రమించి) ఇచ్చేవాడు — విమూఢధీః (మూఢబుద్ధి గలవాడు) —"
+  },
+  {
+   "n": 45,
+   "text_deva": "स नारकी मम द्रोही भविष्यति न संशयः | मद्भक्तदानाद्देवेशि मत्प्रियश्च भवेद्ध्रुवम् | इह भुक्त्वाखिलान्भोगान्मत्सान्निध्यमवाप्नुयात्",
+   "text_te": "స నారకీ మమ ద్రోహీ భవిష్యతి న సంశయః | మద్భక్తదానాద్దేవేశి మత్ప్రియశ్చ భవేద్ధ్రువమ్ | ఇహ భుక్త్వాఖిలాన్భోగాన్మత్సాన్నిధ్యమవాప్నుయాత్",
+   "text_en": "sa nārakī mama drohī bhaviṣyati na saṁśayaḥ | madbhaktadānāddeveśi matpriyaśca bhaveddhruvam | iha bhuktvākhilānbhogānmatsānnidhyamavāpnuyāt",
+   "mean_en": "he will be a hell-dweller, a traitor to Me — without doubt. By giving it to My devotee, O Deveshi, he becomes surely My beloved; having enjoyed all enjoyments here, he attains My presence.",
+   "mean_te": "అతడు నారకి ఔతాడు (నరకానికి వెళ్తాడు), నా ద్రోహి ఔతాడు — సందేహం లేదు; మద్భక్తుడికి దానం చేయడంతో — దేవేశీ — అతడు ఖచ్చితంగా నా ప్రియుడౌతాడు; ఇక్కడ సర్వ భోగాలను భుక్త్వా (అనుభవించి) — నా సాన్నిధ్యాన్ని అవాప్నుయాత్ (పొందుతాడు)."
+  },
+  {
+   "n": 46,
+   "text_deva": "एतच्छुत्वा महादेवी महादेवेन भाषितम् | स्तुत्वा तु विविधैः स्तोत्रैर्देवम्वेदार्थगर्वितैः",
+   "text_te": "ఏతచ్ఛుత్వా మహాదేవీ మహాదేవేన భాషితమ్ | స్తుత్వా తు వివిధైః స్తోత్రైర్దేవమ్వేదార్థగర్వితైః",
+   "text_en": "etacchutvā mahādevī mahādevena bhāṣitam | stutvā tu vividhaiḥ stotrairdevamvedārthagarvitaiḥ",
+   "mean_en": "Hearing this, Mahadevi — spoken by Mahadeva; having praised the God with various hymns, proud with the meaning of the Vedas.",
+   "mean_te": "ఇది శుత్వా (విని) — మహాదేవి — మహాదేవుడు పలికినది; స్తుత్వా చ (స్తుతించి) — వివిధ స్తోత్రాలతో — వేదార్థంతో గర్వితమైన (వేదార్థంతో గర్వపడే) —"
+  },
+  {
+   "n": 47,
+   "text_deva": "श्रीमत्पादाब्जयोः पत्युः प्रणवं परमेश्वरी | अतिप्रहृष्टहृदया मुमोद मुनिसत्तमाः",
+   "text_te": "శ్రీమత్పాదాబ్జయోః పత్యుః ప్రణవం పరమేశ్వరీ | అతిప్రహృష్టహృదయా ముమోద మునిసత్తమాః",
+   "text_en": "śrīmatpādābjayoḥ patyuḥ praṇavaṁ parameśvarī | atiprahṛṣṭahṛdayā mumoda munisattamāḥ",
+   "mean_en": "The Parameshvari rejoiced with a heart exceedingly glad — at the Pranava [taught] at the lotus feet of her lord.",
+   "mean_te": "శ్రీమత్పాదాంబుజయోః (భర్త పాదపద్మాలలో) ఉపదేశించిన ప్రణవం పట్ల — పరమేశ్వరీ — అతిప్రహృష్టహృదయురాలై (అత్యంత ఆనంద హృదయురాలై) ముమోదే (సంతోషించింది) — మునిశ్రేష్ఠాలారా."
+  },
+  {
+   "n": 48,
+   "text_deva": "अतिगुह्यमिदम्विप्राः प्रणवार्थप्रकाशकम् | शिवज्ञानपरं ह्येतद्भवतामार्तिनाशनम्",
+   "text_te": "అతిగుహ్యమిదమ్విప్రాః ప్రణవార్థప్రకాశకమ్ | శివజ్ఞానపరం హ్యేతద్భవతామార్తినాశనమ్",
+   "text_en": "atiguhyamidamviprāḥ praṇavārthaprakāśakam | śivajñānaparaṁ hyetadbhavatāmārtināśanam",
+   "mean_en": "'This is most secret, O brahmins — the revealer of the meaning of Pranava; this is devoted to Shiva-knowledge — the destroyer of your sufferings.'",
+   "mean_te": "'ఇది అతిగుహ్యమైనది, విప్రాలారా — ప్రణవార్థాన్ని ప్రకాశింపజేసేది; ఇది శివజ్ఞానానికి పరమమైనది — మీ వేదనలను నాశనం చేసేది.'"
+  },
+  {
+   "n": 49,
+   "text_deva": "इत्युक्त्वा मुनिशार्दूलः पराशर्य्यो महातपाः | पूजितः परया भक्त्या मुनिभिर्वेदवादिभिः",
+   "text_te": "ఇత్యుక్త్వా మునిశార్దూలః పరాశర్య్యో మహాతపాః | పూజితః పరయా భక్త్యా మునిభిర్వేదవాదిభిః",
+   "text_en": "ityuktvā muniśārdūlaḥ parāśaryyo mahātapāḥ | pūjitaḥ parayā bhaktyā munibhirvedavādibhiḥ",
+   "mean_en": "Having said thus, the tiger of sages, Parasharya (Vyasa), of great tapas; was worshipped with supreme devotion by the sages who proclaim the Veda.",
+   "mean_te": "ఇలా ఉక్త్వా (పలికిన) — మునిశార్దూలుడైన, మహాతపస్వి అయిన పారాశర్యుడు (వ్యాసుడు); వేదవాదులైన మునుల చేత పరయా భక్త్యా (పరమభక్తితో) పూజితుడయ్యాడు."
+  },
+  {
+   "n": 50,
+   "text_deva": "कैलासाद्रिमनुसृत्य ययौ तस्मात्तपोवनात् | तेऽपि प्रहृष्टहृदयास्सत्रान्ते परमेश्वरम्",
+   "text_te": "కైలాసాద్రిమనుసృత్య యయౌ తస్మాత్తపోవనాత్ | తేఽపి ప్రహృష్టహృదయాస్సత్రాన్తే పరమేశ్వరమ్",
+   "text_en": "kailāsādrimanusṛtya yayau tasmāttapovanāt | te'pi prahṛṣṭahṛdayāssatrānte parameśvaram",
+   "mean_en": "Departing from that tapovana (forest of tapas), he went to the Kailasa mountain; they too, glad-hearted, at the end of the satra, [worshipped] Parameshvara.",
+   "mean_te": "కైలాసాద్రిని అనుసృత్య (కైలాస పర్వతం చేరుకుని) అతడు గతించాడు — ఆ తపోవనం నుండి; వారు కూడా ప్రహృష్టహృదయులై (ఆనంద హృదయులై) — సత్రాంతంలో (సత్రం ముగింపులో) — పరమేశ్వరుణ్ణి [పూజించారు]."
+  },
+  {
+   "n": 51,
+   "text_deva": "सम्पूज्य परया भक्त्या सोमं सोमार्द्धशेखरम् | यमादियोगनिरताश्शिवध्यानपराभवन्",
+   "text_te": "సమ్పూజ్య పరయా భక్త్యా సోమం సోమార్ద్ధశేఖరమ్ | యమాదియోగనిరతాశ్శివధ్యానపరాభవన్",
+   "text_en": "sampūjya parayā bhaktyā somaṁ somārddhaśekharam | yamādiyoganiratāśśivadhyānaparābhavan",
+   "mean_en": "having worshipped with supreme devotion Soma — with the half-moon as the crest; devoted to the yoga of yama and the rest, they surpassed through meditation on Shiva.",
+   "mean_te": "పరయా భక్త్యా (పరమభక్తితో) సోమాన్ని — సోమార్ధ శేఖరుడైన (అర్ధచంద్రుడు శిరస్సుపై గల) శివుణ్ణి — సంపూజ్య (పూజించి); యమాదియోగాలలో నిరతులై (యమ, నియమాది యోగాలలో నిమగ్నులై) — శివధ్యానంతో పరాభవన్ (ఆనందపరవశులయ్యారు)."
+  },
+  {
+   "n": 52,
+   "text_deva": "गुहाय कथितं ह्येतद्देव्या तेनापि नन्दिने | सनत्कुमारमुनये प्रोवाच भगवान् हि सः",
+   "text_te": "గుహాయ కథితం హ్యేతద్దేవ్యా తేనాపి నన్దినే | సనత్కుమారమునయే ప్రోవాచ భగవాన్ హి సః",
+   "text_en": "guhāya kathitaṁ hyetaddevyā tenāpi nandine | sanatkumāramunaye provāca bhagavān hi saḥ",
+   "mean_en": "It was told to Guha (Kartikeya) by her, and by him to Nandin; and that Blessed one spoke it to Sanatkumara the sage.",
+   "mean_te": "గుహాయ (కుమారస్వామికి) ఇది ఆమె చేత కథితం, అతనిచేత నందినికి (నందీశునికి); అలాగే భగవాన్ ఆ వాడు — సనత్కుమార మునికి ప్రోవాచ (చెప్పాడు)."
+  },
+  {
+   "n": 53,
+   "text_deva": "तस्माल्लब्धं मद्गुरुणा व्यासेनामिततेजसा | तस्माल्लब्धमिदम्पुण्यम्मयापि मुनिपुंगवाः",
+   "text_te": "తస్మాల్లబ్ధం మద్గురుణా వ్యాసేనామితతేజసా | తస్మాల్లబ్ధమిదమ్పుణ్యమ్మయాపి మునిపుంగవాః",
+   "text_en": "tasmāllabdhaṁ madguruṇā vyāsenāmitatejasā | tasmāllabdhamidampuṇyammayāpi munipuṁgavāḥ",
+   "mean_en": "Therefore it was obtained by my guru — Vyasa of boundless radiance; therefore this merit was obtained by me too, O best of sages.",
+   "mean_te": "కాబట్టి అది నా గురువు చేత — అమితతేజస్వి అయిన వ్యాసుడిచే — లబ్ధమైంది; కాబట్టి ఈ పుణ్యం నా చేతనూ లభించింది — మునిపుంగవలారా."
+  },
+  {
+   "n": 54,
+   "text_deva": "मया वश्श्रावितं ह्येतद्गुह्याद्गुह्यतरम्परम् | ज्ञात्वा शिवप्रियान्भक्त्या भवतो गिरिशप्रियम्",
+   "text_te": "మయా వశ్శ్రావితం హ్యేతద్గుహ్యాద్గుహ్యతరమ్పరమ్ | జ్ఞాత్వా శివప్రియాన్భక్త్యా భవతో గిరిశప్రియమ్",
+   "text_en": "mayā vaśśrāvitaṁ hyetadguhyādguhyataramparam | jñātvā śivapriyānbhaktyā bhavato giriśapriyam",
+   "mean_en": "It was made known to me — more secret than secret, supreme; knowing it with devotion, dear to Shiva — dear to Girisha, [I tell] you.",
+   "mean_te": "నాకు ఇది వశ్శ్రావితం (నాకు బోధించబడింది) — గుహ్యాద్గుహ్యతరమైన, పరమమైన; జ్ఞాత్వా (తెలుసుకుని) — శివప్రియాన్ని భక్త్యా (శివునికి ప్రియమైన భక్తితో) — గిరిశప్రియమైన దానిని భవతో (మీకు) [చెబుతున్నాను]."
+  },
+  {
+   "n": 55,
+   "text_deva": "भवद्भिरपि दातव्यमेतद्गुह्यं शिवप्रियम् | यतिभ्यश्शान्तचित्तेभ्यो भक्तेभ्यश्शिवपादयोः",
+   "text_te": "భవద్భిరపి దాతవ్యమేతద్గుహ్యం శివప్రియమ్ | యతిభ్యశ్శాన్తచిత్తేభ్యో భక్తేభ్యశ్శివపాదయోః",
+   "text_en": "bhavadbhirapi dātavyametadguhyaṁ śivapriyam | yatibhyaśśāntacittebhyo bhaktebhyaśśivapādayoḥ",
+   "mean_en": "This secret, dear to Shiva, should be given by you too; to the yatis of tranquil minds, to the devotees of the feet of Shiva.",
+   "mean_te": "ఈ గుహ్యం — శివప్రియమైనది — మీరు కూడా దాతవ్యం (ఇవ్వాలి); శాంతచిత్తులైన యతులకు — శివపాదాలకు భక్తులైన వారికి."
+  },
+  {
+   "n": 56,
+   "text_deva": "एतदुक्त्वा महाभागस्सूतः पौराणिकोत्तमः | तीर्थयात्राप्रसंगेन चचार पृथिवीमिमाम्",
+   "text_te": "ఏతదుక్త్వా మహాభాగస్సూతః పౌరాణికోత్తమః | తీర్థయాత్రాప్రసంగేన చచార పృథివీమిమామ్",
+   "text_en": "etaduktvā mahābhāgassūtaḥ paurāṇikottamaḥ | tīrthayātrāprasaṁgena cacāra pṛthivīmimām",
+   "mean_en": "Having said this, the blessed Suta, best of Puranikas; on the occasion of pilgrimage, wandered over this earth.",
+   "mean_te": "ఇది ఉక్త్వా (పలికి) — మహాభాగ్యవంతుడైన సూతుడు, పౌరాణికోత్తముడు — తీర్థయాత్రాప్రసంగంతో (తీర్థయాత్రలతో) ఈ పృథివీని చచార (సంచరించాడు)."
+  },
+  {
+   "n": 57,
+   "text_deva": "एतद्रहस्यम्परमं लब्ध्वा सूतान्मुनीश्वराः | काश्यामेव समासीना मुक्ताश्शिवपदं ययुः",
+   "text_te": "ఏతద్రహస్యమ్పరమం లబ్ధ్వా సూతాన్మునీశ్వరాః | కాశ్యామేవ సమాసీనా ముక్తాశ్శివపదం యయుః",
+   "text_en": "etadrahasyamparamaṁ labdhvā sūtānmunīśvarāḥ | kāśyāmeva samāsīnā muktāśśivapadaṁ yayuḥ",
+   "mean_en": "Having obtained this supreme secret from Suta, the lords of sages; seated in Kashi itself, liberated, they went to the feet of Shiva.",
+   "mean_te": "ఈ పరమ రహస్యాన్ని సూతుని నుండి లబ్ధ్యమైన (పొందిన) మునీశ్వరులు; కాశీలోనే సమాసీనులై (ఆసీనులై) — ముక్తులై శివపదానికి యయుః (వెళ్లారు)."
+  },
+  {
+   "n": 58,
+   "text_deva": "इति श्रीशिवमहापुराणे षष्ठ्यां कैलाससंहितायां प्रणवार्थपद्धतिवर्णनं नाम नवमोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే షష్ఠ్యాం కైలాససంహితాయాం ప్రణవార్థపద్ధతివర్ణనం నామ నవమోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe ṣaṣṭhyāṁ kailāsasaṁhitāyāṁ praṇavārthapaddhativarṇanaṁ nāma navamo'dhyāyaḥ",
+   "mean_en": "Thus ends the ninth chapter, called 'Pranavartha-paddhati-varnana' (description of the method of the meaning of Pranava), in the Kailasa Samhita of the great Shiva Purana.",
+   "mean_te": "శ్రీ శివ మహాపురాణం — కైలాస సంహితలో 'ప్రణవార్థపద్ధతివర్ణనం' అనే తొమ్మిదో అధ్యాయం సమాప్తమైంది."
+  }
+ ]
+}

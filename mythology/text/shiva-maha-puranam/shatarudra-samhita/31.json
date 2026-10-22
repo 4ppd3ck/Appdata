@@ -1,0 +1,633 @@
+{
+ "kanda": "shatarudra-samhita",
+ "n": 31,
+ "title_deva": "स्वभक्तदयया विप्र नारीसन्देहभंजकम्",
+ "title_te": "స్వభక్తదయయా విప్ర నారీసన్దేహభంజకమ్",
+ "title_iast": "svabhaktadayayā vipra nārīsandehabhaṁjakam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "अथ वक्ष्ये मुनिश्रेष्ठ शम्भोः शृण्ववतारकम्",
+   "text_te": "అథ వక్ష్యే మునిశ్రేష్ఠ శమ్భోః శృణ్వవతారకమ్",
+   "text_en": "atha vakṣye muniśreṣṭha śambhoḥ śṛṇvavatārakam",
+   "mean_en": "Now I shall narrate, O best of sages — listen to the account of the descent and deeds of Shambhu (Shiva).",
+   "mean_te": "మునులలో శ్రేష్ఠుడవైన నీవు విను, ఇప్పుడు నేను శంభువైన శివుని అవతార వృత్తాంతాన్ని చెప్పెదను."
+  },
+  {
+   "n": 2,
+   "text_deva": "आसीत्सत्यरथो नाम्ना विदर्भविषये नृपः | धर्म्मात्मा सत्यशीलश्च महाशैवजनप्रियः",
+   "text_te": "ఆసీత్సత్యరథో నామ్నా విదర్భవిషయే నృపః | ధర్మ్మాత్మా సత్యశీలశ్చ మహాశైవజనప్రియః",
+   "text_en": "āsītsatyaratho nāmnā vidarbhaviṣaye nṛpaḥ | dharmmātmā satyaśīlaśca mahāśaivajanapriyaḥ",
+   "mean_en": "There was a king named Satyaratha in the Vidarbha country; he was righteous, truthful in conduct, and dear to great devotees of Shiva.",
+   "mean_te": "విదర్భ దేశాన్ని సత్యరథుడు అనే రాజు ఏలెను; ఆయన ధర్మాత్ముడు, సత్యశీలి, మహా శైవ భక్తులకు ప్రియుడు."
+  },
+  {
+   "n": 3,
+   "text_deva": "तस्य राज्ञस्सुधर्मेण महीं पालयतो मुने | महान्कालो व्यतीयाय सुखेन शिवधर्म्मतः",
+   "text_te": "తస్య రాజ్ఞస్సుధర్మేణ మహీం పాలయతో మునే | మహాన్కాలో వ్యతీయాయ సుఖేన శివధర్మ్మతః",
+   "text_en": "tasya rājñassudharmeṇa mahīṁ pālayato mune | mahānkālo vyatīyāya sukhena śivadharmmataḥ",
+   "mean_en": "While that king protected the earth with righteousness, his long life passed pleasantly in accordance with the Shaiva dharma he practiced.",
+   "mean_te": "ఆ రాజు ధర్మంతో భూమిని పాలిస్తుండగా, శివధర్మం వల్ల అతని సుదీర్ఘ కాలం సుఖంగా గడిచింది."
+  },
+  {
+   "n": 4,
+   "text_deva": "कदाचित्तस्य राज्ञस्तु शाल्वैश्च पुररोधिभिः | महान्रणो बभूवाथ बहुसैन्यैर्बलोद्धतैः",
+   "text_te": "కదాచిత్తస్య రాజ్ఞస్తు శాల్వైశ్చ పురరోధిభిః | మహాన్రణో బభూవాథ బహుసైన్యైర్బలోద్ధతైః",
+   "text_en": "kadācittasya rājñastu śālvaiśca purarodhibhiḥ | mahānraṇo babhūvātha bahusainyairbaloddhataiḥ",
+   "mean_en": "Once a great battle broke out between that king and the Shalva rulers dwelling in fortified cities, with their powerful armies.",
+   "mean_te": "ఒకసారి ఆ రాజుకు, పురాలలో నివసించే శాల్వ రాజులకు మధ్య బలవంతమైన సైన్యాలతో ఘోరమైన యుద్ధం జరిగింది."
+  },
+  {
+   "n": 5,
+   "text_deva": "स विदर्भनृपः कृत्वा सार्धं तैर्दारुणं रणम् | प्रनष्टोरुबलः शाल्वैर्निहतो दैवयोगतः",
+   "text_te": "స విదర్భనృపః కృత్వా సార్ధం తైర్దారుణం రణమ్ | ప్రనష్టోరుబలః శాల్వైర్నిహతో దైవయోగతః",
+   "text_en": "sa vidarbhanṛpaḥ kṛtvā sārdhaṁ tairdāruṇaṁ raṇam | pranaṣṭorubalaḥ śālvairnihato daivayogataḥ",
+   "mean_en": "The king of Vidarbha fought a fierce battle with them, but by divine destiny he lost his vast army and was slain by the Shalvas.",
+   "mean_te": "విదర్భ రాజు వారితో ఘోరమైన యుద్ధం చేసి, దైవయోగంగా గొప్ప సైన్యాన్ని కోల్పోయి శాల్వుల చేత మరణించాడు."
+  },
+  {
+   "n": 6,
+   "text_deva": "तस्मिन्नृपे हते युद्धे शाल्वैस्तु भयविह्वलाः | सैनिका हतशेषाश्च मन्त्रिभिस्सह दुद्रुवुः",
+   "text_te": "తస్మిన్నృపే హతే యుద్ధే శాల్వైస్తు భయవిహ్వలాః | సైనికా హతశేషాశ్చ మన్త్రిభిస్సహ దుద్రువుః",
+   "text_en": "tasminnṛpe hate yuddhe śālvaistu bhayavihvalāḥ | sainikā hataśeṣāśca mantribhissaha dudruvuḥ",
+   "mean_en": "When the king fell in that battle, his soldiers, terrified by the Shalvas and mostly slaughtered, fled along with the ministers.",
+   "mean_te": "ఆ యుద్ధంలో రాజు మరణించగానే, శాల్వుల భయంతో వణికిపోయిన, అధికంగా చంపబడిన సైనికులు మంత్రులతో కలిసి పారిపోయారు."
+  },
+  {
+   "n": 7,
+   "text_deva": "अथ तस्य महाराज्ञी रात्रौ स्वपुरतो मुने | संरुद्धा रिपुभिर्यत्नादन्तर्वत्नी बहिर्ययौ",
+   "text_te": "అథ తస్య మహారాజ్ఞీ రాత్రౌ స్వపురతో మునే | సంరుద్ధా రిపుభిర్యత్నాదన్తర్వత్నీ బహిర్యయౌ",
+   "text_en": "atha tasya mahārājñī rātrau svapurato mune | saṁruddhā ripubhiryatnādantarvatnī bahiryayau",
+   "mean_en": "Then that great queen, oppressed by the enemies, went out of her city at night with great effort, being pregnant.",
+   "mean_te": "అప్పుడు ఆ మహారాణి శత్రువుల పీడతో పీడించబడి, గర్భవతిగా ఉండి, రాత్రి సమయంలో కష్టంతో తన నగరం నుండి బయటకు వెళ్ళింది."
+  },
+  {
+   "n": 8,
+   "text_deva": "निर्गता शोकसंतप्ता सा राजमहिषी शनैः | प्राचीं दिशं ययौ दूरं स्मरन्तीशपदाम्बुजम्",
+   "text_te": "నిర్గతా శోకసంతప్తా సా రాజమహిషీ శనైః | ప్రాచీం దిశం యయౌ దూరం స్మరన్తీశపదామ్బుజమ్",
+   "text_en": "nirgatā śokasaṁtaptā sā rājamahiṣī śanaiḥ | prācīṁ diśaṁ yayau dūraṁ smarantīśapadāmbujam",
+   "mean_en": "Having left, that queen, burning with grief, slowly went far towards the eastern direction, remembering the lotus feet of Shiva.",
+   "mean_te": "బయటకు వచ్చిన ఆ రాజ్ఞి శోకంతో తపిస్తూ, శివుని పాదపద్మాలను స్మరిస్తూ, నెమ్మదిగా దూరంగా తూర్పు దిక్కునకు నడిచింది."
+  },
+  {
+   "n": 9,
+   "text_deva": "अथ प्रभाते सा राज्ञी ददर्श विमलं सरः | अतीता दूरमध्वानं दयया शङ्करस्य हि",
+   "text_te": "అథ ప్రభాతే సా రాజ్ఞీ దదర్శ విమలం సరః | అతీతా దూరమధ్వానం దయయా శఙ్కరస్య హి",
+   "text_en": "atha prabhāte sā rājñī dadarśa vimalaṁ saraḥ | atītā dūramadhvānaṁ dayayā śaṅkarasya hi",
+   "mean_en": "At dawn the queen saw a clear, pure lake; by the kindness of Shankara (Shiva) she had traversed the long journey.",
+   "mean_te": "తెల్లవారుజామున ఆ రాణి పరిశుభ్రమైన సరస్సును చూసింది; శంకరుడైన శివుని కృపవల్ల ఆమె దూరమైన ప్రయాణాన్ని దాటింది."
+  },
+  {
+   "n": 10,
+   "text_deva": "तत्रागत्य प्रिया राज्ञस्संतप्ता सुकुमारिणी | निवासार्थं सरस्तीरे छायावृक्षमुपाश्रयत्",
+   "text_te": "తత్రాగత్య ప్రియా రాజ్ఞస్సంతప్తా సుకుమారిణీ | నివాసార్థం సరస్తీరే ఛాయావృక్షముపాశ్రయత్",
+   "text_en": "tatrāgatya priyā rājñassaṁtaptā sukumāriṇī | nivāsārthaṁ sarastīre chāyāvṛkṣamupāśrayat",
+   "mean_en": "Coming there, the king's beloved wife, distressed and tender, took shelter for dwelling under a shady tree on the bank of the lake.",
+   "mean_te": "అక్కడికి వచ్చిన ఆ ప్రియ రాజ్ఞి, బాధలో ఉన్న కోమలాంగి, నివాసం కోసం సరస్సు ఒడ్డున నీడనిచ్చే చెట్టు కింద ఆశ్రయం పొందింది."
+  },
+  {
+   "n": 11,
+   "text_deva": "तत्र दैववशाद्राज्ञी मुहूर्त्ते सद्गुणान्विते | असूत तनयं दिव्यं सर्वलक्षणलक्षितम्",
+   "text_te": "తత్ర దైవవశాద్రాజ్ఞీ ముహూర్త్తే సద్గుణాన్వితే | అసూత తనయం దివ్యం సర్వలక్షణలక్షితమ్",
+   "text_en": "tatra daivavaśādrājñī muhūrtte sadguṇānvite | asūta tanayaṁ divyaṁ sarvalakṣaṇalakṣitam",
+   "mean_en": "There, by the will of destiny, in a meritorious moment, the virtuous queen gave birth to a divine son adorned with all auspicious marks.",
+   "mean_te": "అక్కడ దైవవశంతో, శుభమైన ముహూర్తంలో, సద్గుణవతి అయిన ఆ రాణి సర్వ శుభలక్షణాలతో కూడిన దివ్యమైన కుమారునికి జన్మనిచ్చింది."
+  },
+  {
+   "n": 12,
+   "text_deva": "अथ तज्जननी दैवात्तृषिताति नृपाङ्गना | सरोवतीर्णा पानार्थं ग्रस्ता ग्राहेण पाथसि",
+   "text_te": "అథ తజ్జననీ దైవాత్తృషితాతి నృపాఙ్గనా | సరోవతీర్ణా పానార్థం గ్రస్తా గ్రాహేణ పాథసి",
+   "text_en": "atha tajjananī daivāttṛṣitāti nṛpāṅganā | sarovatīrṇā pānārthaṁ grastā grāheṇa pāthasi",
+   "mean_en": "Then his mother, the queen, became very thirsty by divine will; descending into the lake to drink water, she was seized by a crocodile in the water.",
+   "mean_te": "అప్పుడు దైవవశంతో ఆ రాణికి తీవ్రమైన దాహం వేసింది; నీళ్ళు తాగుటకు సరస్సులోకి దిగగా నీటిలో కొండిపిచ్చి ఆమెను పట్టుకుంది."
+  },
+  {
+   "n": 13,
+   "text_deva": "स सुतो जातमात्रस्तु क्षुत्पिपासार्द्दितो भृशम् | रुरोद च सरस्तीरे विनष्ट पितृमातृकः",
+   "text_te": "స సుతో జాతమాత్రస్తు క్షుత్పిపాసార్ద్దితో భృశమ్ | రురోద చ సరస్తీరే వినష్ట పితృమాతృకః",
+   "text_en": "sa suto jātamātrastu kṣutpipāsārddito bhṛśam | ruroda ca sarastīre vinaṣṭa pitṛmātṛkaḥ",
+   "mean_en": "The son, as soon as he was born, tormented by hunger and thirst, wept on the lake shore, having lost both father and mother.",
+   "mean_te": "పుట్టిన వెంటనే ఆకలి దాహాలతో తీవ్రంగా బాధపడిన ఆ శిశువు, తల్లిదండ్రులను కోల్పోయి సరస్సు ఒడ్డున ఏడుస్తూ ఉండిపోయింది."
+  },
+  {
+   "n": 14,
+   "text_deva": "तस्मिन्वने क्रन्दमाने जातमात्रे सुते मुने | कृपान्वितो महेशोऽभूदन्तर्यामी स रक्षक.",
+   "text_te": "తస్మిన్వనే క్రన్దమానే జాతమాత్రే సుతే మునే | కృపాన్వితో మహేశోఽభూదన్తర్యామీ స రక్షక.",
+   "text_en": "tasminvane krandamāne jātamātre sute mune | kṛpānvito maheśo'bhūdantaryāmī sa rakṣaka.",
+   "mean_en": "When the newborn infant was crying in that forest, the compassionate Mahesha (Shiva) himself became his indwelling controller and protector.",
+   "mean_te": "ఆ అడవిలో పుట్టిన కొద్దిసేపటికే ఆ శిశువు ఏడుస్తుండగా, కరుణామయి అయిన మహేశ్వరుడైన శివుడే అంతర్యామిగా ఆ శిశువును రక్షిస్తున్నాడు."
+  },
+  {
+   "n": 15,
+   "text_deva": "प्रेरिता मनसा काचिदीशेन त्रासहारिणा | अकस्मादागता तत्र भ्रमन्ती भैक्ष्यजीविनी",
+   "text_te": "ప్రేరితా మనసా కాచిదీశేన త్రాసహారిణా | అకస్మాదాగతా తత్ర భ్రమన్తీ భైక్ష్యజీవినీ",
+   "text_en": "preritā manasā kācidīśena trāsahāriṇā | akasmādāgatā tatra bhramantī bhaikṣyajīvinī",
+   "mean_en": "A certain woman living on alms, wandering about, was mentally sent by the Lord, the dispeller of fear, and she arrived there unexpectedly.",
+   "mean_te": "భయాన్ని హరించే ప్రభువైన శివుని మానసిక ప్రేరణతో, భిక్షతో జీవించే ఒక స్త్రీ సంచరిస్తూ అకస్మాత్తుగా అక్కడికి చేరుకుంది."
+  },
+  {
+   "n": 16,
+   "text_deva": "सा त्वेकहायनं बालं वहन्ती विधवा निजम् | अनाथमेकं क्रंदन्तं शिशुन्तत्र ददर्श ह",
+   "text_te": "సా త్వేకహాయనం బాలం వహన్తీ విధవా నిజమ్ | అనాథమేకం క్రందన్తం శిశున్తత్ర దదర్శ హ",
+   "text_en": "sā tvekahāyanaṁ bālaṁ vahantī vidhavā nijam | anāthamekaṁ kraṁdantaṁ śiśuntatra dadarśa ha",
+   "mean_en": "That widow, carrying her own one-year-old child, saw there an orphan baby crying all alone.",
+   "mean_te": "తన సంవత్సరం వయసున్న పిల్లాడిని మోస్తున్న ఆ విధవ స్త్రీ, అక్కడ ఎవరూ లేని అనాథ శిశువు ఒంటరిగా ఏడుస్తూ ఉండటం చూసింది."
+  },
+  {
+   "n": 17,
+   "text_deva": "सा दृष्ट्वा तत्र तम्बालं वने निर्मनुजे मुने | विस्मिताति द्विजस्त्री सा चिचिन्तं हृदये बहु",
+   "text_te": "సా దృష్ట్వా తత్ర తమ్బాలం వనే నిర్మనుజే మునే | విస్మితాతి ద్విజస్త్రీ సా చిచిన్తం హృదయే బహు",
+   "text_en": "sā dṛṣṭvā tatra tambālaṁ vane nirmanuje mune | vismitāti dvijastrī sā cicintaṁ hṛdaye bahu",
+   "mean_en": "Seeing that infant in the forest devoid of people, the brahmin woman was greatly astonished and thought much in her heart.",
+   "mean_te": "మనుషులు లేని ఆ అడవిలో ఆ శిశువును చూసిన ఆ బ్రాహ్మణ స్త్రీ అత్యంత ఆశ్చర్యపోయి, తన హృదయంలో ఎన్నో ఆలోచనలు చేసింది."
+  },
+  {
+   "n": 18,
+   "text_deva": "अहो सुमहदाश्चर्य्यमिदं दृष्टम्मयाधुना | असंभाव्यमकथ्यं च सर्वथा मनसा गिरा",
+   "text_te": "అహో సుమహదాశ్చర్య్యమిదం దృష్టమ్మయాధునా | అసంభావ్యమకథ్యం చ సర్వథా మనసా గిరా",
+   "text_en": "aho sumahadāścaryyamidaṁ dṛṣṭammayādhunā | asaṁbhāvyamakathyaṁ ca sarvathā manasā girā",
+   "mean_en": "O, what a great wonder I have just witnessed! It is beyond imagination, impossible to describe fully by mind or speech.",
+   "mean_te": "ఆహా! నేను ఇప్పుడు చూసినది అద్భుతమైన మహా చమత్కారం! ఇది ఊహించడానికి కూడా వీలుపడనిది, మనసుతో గానీ మాటలతో గానీ సరిగా వర్ణించడానికి అసాధ్యం."
+  },
+  {
+   "n": 19,
+   "text_deva": "अच्छिन्ननाभिनालोयं रसायां केवलं शिशुः | शेते मातृविहीनश्च क्रन्दंस्तेजस्विनां वरः",
+   "text_te": "అచ్ఛిన్ననాభినాలోయం రసాయాం కేవలం శిశుః | శేతే మాతృవిహీనశ్చ క్రన్దంస్తేజస్వినాం వరః",
+   "text_en": "acchinnanābhināloyaṁ rasāyāṁ kevalaṁ śiśuḥ | śete mātṛvihīnaśca krandaṁstejasvināṁ varaḥ",
+   "mean_en": "This child, whose umbilical cord is still uncut, lies alone in the nether world (Rasātala), weeping without a mother — he is the best among the radiant ones.",
+   "mean_te": "తడినారు (నాభినాళం) కూడా తెగని స్థితిలో ఉన్న ఈ శిశువు, తల్లి లేకుండా, రసాతలంలో ఒంటరిగా ఏడుస్తూ పడుకున్నాడు; తేజస్వులలో శ్రేష్ఠుడు ఈ బాలుడు."
+  },
+  {
+   "n": 20,
+   "text_deva": "अस्य पित्रादयः केऽपि न सन्तीह सहायिनः| कारणं किं बभूवाथ ह्यहो दैवबलं महत्",
+   "text_te": "అస్య పిత్రాదయః కేఽపి న సన్తీహ సహాయినః| కారణం కిం బభూవాథ హ్యహో దైవబలం మహత్",
+   "text_en": "asya pitrādayaḥ ke'pi na santīha sahāyinaḥ| kāraṇaṁ kiṁ babhūvātha hyaho daivabalaṁ mahat",
+   "mean_en": "Here he has no father or anyone else to help him. What could be the reason? Ah, the power of fate is indeed great!",
+   "mean_te": "ఈ బిడ్డకు తండ్రి మొదలైనవారు ఇక్కడ సహాయులుగా ఎవరూ లేరు. దీనికి కారణమేమిటి? ఆహా! దైవబలం (విధి బలం) నిజంగా ఎంత పెద్దది!"
+  },
+  {
+   "n": 21,
+   "text_deva": "न जाने कस्य पुत्रोऽयमस्य ज्ञातात्र कोपि न | यतः पृच्छाम्यस्य जन्य जाता च करुणा मयि",
+   "text_te": "న జానే కస్య పుత్రోఽయమస్య జ్ఞాతాత్ర కోపి న | యతః పృచ్ఛామ్యస్య జన్య జాతా చ కరుణా మయి",
+   "text_en": "na jāne kasya putro'yamasya jñātātra kopi na | yataḥ pṛcchāmyasya janya jātā ca karuṇā mayi",
+   "mean_en": "I do not know whose son this is, and no one here knows him. That is why I ask about his origin; compassion has welled up in me.",
+   "mean_te": "ఈ బిడ్డ ఎవరి కొడుకో నాకు తెలియదు, అతనిని ఇక్కడ తెలిసినవారు ఎవరూ లేరు. అందుకే అతని జన్మ విషయంగా అడుగుతున్నాను; నా మనసులో జాలి పుట్టింది."
+  },
+  {
+   "n": 22,
+   "text_deva": "इच्छाम्येनं पोषितुं हि बालमौरसपुत्रवत् | संप्रष्टुं नोत्सहेऽज्ञात्वा कुलजन्मादि चास्य वै",
+   "text_te": "ఇచ్ఛామ్యేనం పోషితుం హి బాలమౌరసపుత్రవత్ | సంప్రష్టుం నోత్సహేఽజ్ఞాత్వా కులజన్మాది చాస్య వై",
+   "text_en": "icchāmyenaṁ poṣituṁ hi bālamaurasaputravat | saṁpraṣṭuṁ notsahe'jñātvā kulajanmādi cāsya vai",
+   "mean_en": "I wish to raise this child like my own born son, but I do not dare ask about him without knowing his lineage and birth.",
+   "mean_te": "ఈ బాలుని నా సొంత కొడుకులాగే పెంచి పోషించాలని కోరుకుంటున్నాను; కానీ అతని కులం, జన్మ వంటివి తెలియకుండా అడగడానికి నా మనసు అంగీకరించడం లేదు."
+  },
+  {
+   "n": 23,
+   "text_deva": "इति संचिन्त्यमानायां तस्यां विप्रवरस्त्रियाम् | कृपां चकार महतीं शंकरो भक्तवत्सल",
+   "text_te": "ఇతి సంచిన్త్యమానాయాం తస్యాం విప్రవరస్త్రియామ్ | కృపాం చకార మహతీం శంకరో భక్తవత్సల",
+   "text_en": "iti saṁcintyamānāyāṁ tasyāṁ vipravarastriyām | kṛpāṁ cakāra mahatīṁ śaṁkaro bhaktavatsala",
+   "mean_en": "While that best of brahmin women was thinking thus, Shankara (Shiva), ever affectionate to devotees, showed her great compassion.",
+   "mean_te": "ఆ బ్రాహ్మణ స్త్రీ ఈ విధంగా ఆలోచిస్తుండగా, భక్తవత్సలుడైన శంకరుడు (శివుడు) ఆమెపై ఎంతో కృప చూపాడు."
+  },
+  {
+   "n": 24,
+   "text_deva": "दध्रे भिक्षुस्वरूपं हि महालीलो महेश्वरः | सर्वथा भक्तसुखदो निरुपाधिः स्वयं सदा",
+   "text_te": "దధ్రే భిక్షుస్వరూపం హి మహాలీలో మహేశ్వరః | సర్వథా భక్తసుఖదో నిరుపాధిః స్వయం సదా",
+   "text_en": "dadhre bhikṣusvarūpaṁ hi mahālīlo maheśvaraḥ | sarvathā bhaktasukhado nirupādhiḥ svayaṁ sadā",
+   "mean_en": "Maheshvara, the Lord of great divine play, assumed the form of a mendicant. The unconditioned Lord always, in every way, grants joy to his devotees.",
+   "mean_te": "మహాలీలుడైన మహేశ్వరుడు భిక్షువు రూపాన్ని ధరించాడు. నిరుపాధికుడైన ఆ ప్రభువు ఎల్లప్పుడూ సర్వథా భక్తులకు ఆనందాన్ని ప్రసాదించేవాడు."
+  },
+  {
+   "n": 25,
+   "text_deva": "तत्राजगाम सहसा स भिक्षुः परमेश्वरः | यत्रास्ति संदेहवती द्विजस्त्री ज्ञातुमिच्छती",
+   "text_te": "తత్రాజగామ సహసా స భిక్షుః పరమేశ్వరః | యత్రాస్తి సందేహవతీ ద్విజస్త్రీ జ్ఞాతుమిచ్ఛతీ",
+   "text_en": "tatrājagāma sahasā sa bhikṣuḥ parameśvaraḥ | yatrāsti saṁdehavatī dvijastrī jñātumicchatī",
+   "mean_en": "Right there, the supreme Lord in the mendicant's form suddenly arrived at the place where the doubting brahmin woman was eager to know.",
+   "mean_te": "సందేహంతో ఉన్న, సత్యాన్ని తెలుసుకోవాలని కోరుకునే ఆ బ్రాహ్మణ స్త్రీ ఉన్న చోటికే పరమేశ్వరుడు భిక్షువు రూపంలో ఒక్కసారిగా వచ్చాడు."
+  },
+  {
+   "n": 26,
+   "text_deva": "भिक्षुवर्य्यस्वरूपोऽसावविज्ञातगतिः प्रभुः | तामाह विप्रवनितां विहस्य करुणानिधिः",
+   "text_te": "భిక్షువర్య్యస్వరూపోఽసావవిజ్ఞాతగతిః ప్రభుః | తామాహ విప్రవనితాం విహస్య కరుణానిధిః",
+   "text_en": "bhikṣuvaryyasvarūpo'sāvavijñātagatiḥ prabhuḥ | tāmāha vipravanitāṁ vihasya karuṇānidhiḥ",
+   "mean_en": "The Lord, in the form of a foremost mendicant, his course unknowable, smiled and addressed that brahmin woman — he is the ocean of compassion.",
+   "mean_te": "గతి తెలియని ఆ ప్రభువు, భిక్షువులలో శ్రేష్ఠుని రూపంలో, కరుణాసాగరుడై నవ్వుతూ ఆ బ్రాహ్మణ స్త్రీని ఉద్దేశించి పలికాడు."
+  },
+  {
+   "n": 27,
+   "text_deva": "सन्देहं कुरु नो चित्ते विप्रभामिनि मा खिद | रक्षैनम्बालकं प्रीत्या सुपवित्रं स्वपुत्रकम्",
+   "text_te": "సన్దేహం కురు నో చిత్తే విప్రభామిని మా ఖిద | రక్షైనమ్బాలకం ప్రీత్యా సుపవిత్రం స్వపుత్రకమ్",
+   "text_en": "sandehaṁ kuru no citte viprabhāmini mā khida | rakṣainambālakaṁ prītyā supavitraṁ svaputrakam",
+   "mean_en": "Do not entertain doubt in your mind, O noble brahmin lady, and do not grieve. Lovingly protect this supremely pure child as your own son.",
+   "mean_te": "ఓ బ్రాహ్మణ స్త్రీ! మనసులో సందేహం పెట్టుకోకు, బాధపడకు. ఈ అతి పవిత్రమైన బాలుని ప్రేమతో నీ సొంత బిడ్డలా రక్షించు."
+  },
+  {
+   "n": 28,
+   "text_deva": "अनेन शिशुना श्रेयः प्राप्स्यसे न चिरात्परम् | पुष्णीहि सर्वथा ह्येनं महातेजस्विनं शिशुम्",
+   "text_te": "అనేన శిశునా శ్రేయః ప్రాప్స్యసే న చిరాత్పరమ్ | పుష్ణీహి సర్వథా హ్యేనం మహాతేజస్వినం శిశుమ్",
+   "text_en": "anena śiśunā śreyaḥ prāpsyase na cirātparam | puṣṇīhi sarvathā hyenaṁ mahātejasvinaṁ śiśum",
+   "mean_en": "Through this child you will soon attain the highest welfare. Nurture this child of great radiance in every way.",
+   "mean_te": "ఈ శిశువు ద్వారా నువ్వు త్వరలోనే పరమ క్షేమాన్ని పొందుతావు. ఈ మహాతేజస్వి అయిన శిశువును సర్వథా పోషించు."
+  },
+  {
+   "n": 29,
+   "text_deva": "इत्युक्तवन्तं तं भिक्षुस्वरूपं करुणानिधिम् | सा विप्रवनिता शम्भुं प्रीत्या पप्रच्छ सादरम्",
+   "text_te": "ఇత్యుక్తవన్తం తం భిక్షుస్వరూపం కరుణానిధిమ్ | సా విప్రవనితా శమ్భుం ప్రీత్యా పప్రచ్ఛ సాదరమ్",
+   "text_en": "ityuktavantaṁ taṁ bhikṣusvarūpaṁ karuṇānidhim | sā vipravanitā śambhuṁ prītyā papraccha sādaram",
+   "mean_en": "When he, the mendicant-formed ocean of compassion, had spoken thus, that brahmin woman lovingly and respectfully questioned Shambhu (Shiva).",
+   "mean_te": "కరుణానిధియైన ఆ భిక్షుస్వరూపుడు ఇలా చెప్పిన తర్వాత, ఆ బ్రాహ్మణ స్త్రీ ప్రీతితో, ఎంతో గౌరవంతో శంభుడిని (శివుడిని) అడిగింది."
+  },
+  {
+   "n": 30,
+   "text_deva": "विप्रवनितोवाच त्वदाज्ञयैनं बालं हि रक्षिष्यामि स्वपुत्रवत् | पौक्ष्यामि नात्र सन्देहो मद्भाग्यात्त्वमिहागतः",
+   "text_te": "విప్రవనితోవాచ త్వదాజ్ఞయైనం బాలం హి రక్షిష్యామి స్వపుత్రవత్ | పౌక్ష్యామి నాత్ర సన్దేహో మద్భాగ్యాత్త్వమిహాగతః",
+   "text_en": "vipravanitovāca tvadājñayainaṁ bālaṁ hi rakṣiṣyāmi svaputravat | paukṣyāmi nātra sandeho madbhāgyāttvamihāgataḥ",
+   "mean_en": "The brahmin woman said: 'By your command I shall protect this child as my own son and nourish him — there is no doubt about it. It is by my good fortune that you have come here.'",
+   "mean_te": "బ్రాహ్మణ స్త్రీ అంది: 'మీ ఆజ్ఞతో ఈ బాలుని నా సొంత కొడుకులా రక్షిస్తాను, పోషిస్తాను; దీనిలో సందేహమే లేదు. నా భాగ్యం వల్లనే మీరు ఇక్కడికి వచ్చారు.'"
+  },
+  {
+   "n": 31,
+   "text_deva": "तथापि ज्ञातुमिच्छामि विशेषेण तु तत्त्वतः | कोयं कस्य सुतश्चायं कस्त्वमत्र समागतः",
+   "text_te": "తథాపి జ్ఞాతుమిచ్ఛామి విశేషేణ తు తత్త్వతః | కోయం కస్య సుతశ్చాయం కస్త్వమత్ర సమాగతః",
+   "text_en": "tathāpi jñātumicchāmi viśeṣeṇa tu tattvataḥ | koyaṁ kasya sutaścāyaṁ kastvamatra samāgataḥ",
+   "mean_en": "Nevertheless, I wish to know the truth in particular: who is this child, whose son is he, and who are you that have come here?",
+   "mean_te": "అయినా, విశేషంగా తత్త్వాన్ని తెలుసుకోవాలని కోరుకుంటున్నాను: ఈ బాలుడు ఎవరు? ఎవరి కొడుకు? ఇక్కడికి వచ్చిన మీరు ఎవరు?"
+  },
+  {
+   "n": 32,
+   "text_deva": "मुहुर्मम समायाति ज्ञानं भिक्षुवर प्रभो | त्वं शिवः करुणासिन्धुस्त्वद्भक्तोयं शिशुः पुरा",
+   "text_te": "ముహుర్మమ సమాయాతి జ్ఞానం భిక్షువర ప్రభో | త్వం శివః కరుణాసిన్ధుస్త్వద్భక్తోయం శిశుః పురా",
+   "text_en": "muhurmama samāyāti jñānaṁ bhikṣuvara prabho | tvaṁ śivaḥ karuṇāsindhustvadbhaktoyaṁ śiśuḥ purā",
+   "mean_en": "O best of mendicants, Lord — again and again this understanding comes to me: you are Shiva, the ocean of compassion, and this child was formerly your devotee.",
+   "mean_te": "ఓ భిక్షువులలో శ్రేష్ఠుడా, ప్రభూ! నాకు మళ్ళీ మళ్ళీ ఇదే జ్ఞానం వస్తోంది — మీరే కరుణాసాగరుడైన శివుడు; ఈ శిశువు పూర్వం మీ భక్తుడు."
+  },
+  {
+   "n": 33,
+   "text_deva": "केनचित्कर्मदोषेण सम्प्राप्तोयं दशामिमाम् | तद्भुक्त्वा परमं श्रेयः प्राप्स्यते त्वदनुग्रहात्",
+   "text_te": "కేనచిత్కర్మదోషేణ సమ్ప్రాప్తోయం దశామిమామ్ | తద్భుక్త్వా పరమం శ్రేయః ప్రాప్స్యతే త్వదనుగ్రహాత్",
+   "text_en": "kenacitkarmadoṣeṇa samprāptoyaṁ daśāmimām | tadbhuktvā paramaṁ śreyaḥ prāpsyate tvadanugrahāt",
+   "mean_en": "Through the fault of some karma he has come into this condition; after enduring it, he will attain the supreme good by your grace.",
+   "mean_te": "ఏదో ఒక కర్మదోషం వల్ల ఈ శిశువు ఈ స్థితికి చేరాడు; దానిని అనుభవించిన తర్వాత, మీ అనుగ్రహం వల్ల అతడు పరమ కల్యాణాన్ని పొందుతాడు."
+  },
+  {
+   "n": 34,
+   "text_deva": "त्वन्माययैव साहं वै मार्गभ्रष्टा विमोहिता | आगता प्रेषिता त्वत्तो ह्यस्य रक्षणहेतुतः",
+   "text_te": "త్వన్మాయయైవ సాహం వై మార్గభ్రష్టా విమోహితా | ఆగతా ప్రేషితా త్వత్తో హ్యస్య రక్షణహేతుతః",
+   "text_en": "tvanmāyayaiva sāhaṁ vai mārgabhraṣṭā vimohitā | āgatā preṣitā tvatto hyasya rakṣaṇahetutaḥ",
+   "mean_en": "By your maya alone, I — strayed from my path and deluded — have come here, sent by you, for the sake of protecting this child.",
+   "mean_te": "మీ మాయతోనే, మార్గం తప్పి, మోహం కలిగిన నేను, ఈ శిశువును రక్షించడం కోసం, మీరే పంపినట్లుగా ఇక్కడికి వచ్చాను."
+  },
+  {
+   "n": 35,
+   "text_deva": "इति तद्दर्शनप्राप्तविज्ञानां विप्रकामिनीम् | ज्ञातुकामां विशेषेण प्रोचे भिक्षुतनुश्शिवः",
+   "text_te": "ఇతి తద్దర్శనప్రాప్తవిజ్ఞానాం విప్రకామినీమ్ | జ్ఞాతుకామాం విశేషేణ ప్రోచే భిక్షుతనుశ్శివః",
+   "text_en": "iti taddarśanaprāptavijñānāṁ viprakāminīm | jñātukāmāṁ viśeṣeṇa proce bhikṣutanuśśivaḥ",
+   "mean_en": "The Brahmin lady, who had gained true knowledge from that divine vision and was eager to know more, was thereupon addressed by Shiva, who had taken the form of a mendicant.",
+   "mean_te": "ఆ దివ్య దర్శనం వల్ల తత్త్వజ్ఞానం పొంది, మరింత తెలుసుకోవాలని కోరుకునే ఆ బ్రాహ్మణ పత్నిని అప్పుడు భిక్షువు రూపం ధరించిన శివుడు సంబోధించాడు."
+  },
+  {
+   "n": 36,
+   "text_deva": "शृणु प्रीत्या विप्रपत्नि बालस्यास्य पुरेहितम् | सर्वमन्यस्य सुप्रीत्या वक्ष्यते तत्त्वतोऽनघे",
+   "text_te": "శృణు ప్రీత్యా విప్రపత్ని బాలస్యాస్య పురేహితమ్ | సర్వమన్యస్య సుప్రీత్యా వక్ష్యతే తత్త్వతోఽనఘే",
+   "text_en": "śṛṇu prītyā viprapatni bālasyāsya purehitam | sarvamanyasya suprītyā vakṣyate tattvato'naghe",
+   "mean_en": "Shiva said: \"Listen lovingly, O Brahmin lady; I shall tell you in truth, with great affection, everything that befell this boy in his former life, O sinless one.\"",
+   "mean_te": "శివుడు అన్నాడు: \"హే బ్రాహ్మణ పత్నీ, పాపశూన్యమా, ప్రేమతో విను; ఈ బాలునికి పూర్వజన్మలో జరిగినదంతా పరమానందంగా, సత్యంగా నీకు చెప్తాను.\""
+  },
+  {
+   "n": 37,
+   "text_deva": "सुतो विदर्भराजस्य शिवभक्तस्य धीमतः | अयं सत्यरथस्यैव स्वधर्मनिरतस्य हि",
+   "text_te": "సుతో విదర్భరాజస్య శివభక్తస్య ధీమతః | అయం సత్యరథస్యైవ స్వధర్మనిరతస్య హి",
+   "text_en": "suto vidarbharājasya śivabhaktasya dhīmataḥ | ayaṁ satyarathasyaiva svadharmaniratasya hi",
+   "mean_en": "\"This boy is the son of Satyaratha, the wise king of Vidarbha, a devotee of Shiva who was ever devoted to his own righteous duty.\"",
+   "mean_te": "\"ఈ బాలుడు ధీమంతుడు, శివభక్తుడు, స్వధర్మంలో నిరతుడైన విదర్భ మహారాజు సత్యరథుని కుమారుడు.\""
+  },
+  {
+   "n": 38,
+   "text_deva": "शृणु सत्यरथो राजा हतः शाल्वे रणे परैः | तत्पत्नी निशि सुव्यग्रा निर्ययौ स्वगृहाद्द्रुतम्",
+   "text_te": "శృణు సత్యరథో రాజా హతః శాల్వే రణే పరైః | తత్పత్నీ నిశి సువ్యగ్రా నిర్యయౌ స్వగృహాద్ద్రుతమ్",
+   "text_en": "śṛṇu satyaratho rājā hataḥ śālve raṇe paraiḥ | tatpatnī niśi suvyagrā niryayau svagṛhāddrutam",
+   "mean_en": "\"Listen: King Satyaratha was slain in battle by the Shalvas, his enemies. That very night his deeply distressed wife hastened out of her home.\"",
+   "mean_te": "\"విను: సత్యరథ మహారాజు శత్రువులైన శాల్వులతో జరిగిన యుద్ధంలో మరణించాడు. ఆ రాత్రే అతని పత్ని అత్యంత విచారంతో తన ఇంటి నుండి వేగంగా బయలుదేరింది.\""
+  },
+  {
+   "n": 39,
+   "text_deva": "असूत तनयं चैनं समायाता प्रगेऽत्र हि | सरोवतीर्णा तृषया ग्रस्ता ग्राहेण दैवतः",
+   "text_te": "అసూత తనయం చైనం సమాయాతా ప్రగేఽత్ర హి | సరోవతీర్ణా తృషయా గ్రస్తా గ్రాహేణ దైవతః",
+   "text_en": "asūta tanayaṁ cainaṁ samāyātā prage'tra hi | sarovatīrṇā tṛṣayā grastā grāheṇa daivataḥ",
+   "mean_en": "\"She had just given birth to this son and reached this place at dawn; tormented by thirst, she went down into a lake, where by divine decree she was seized by a crocodile.\"",
+   "mean_te": "\"ఈ శిశువును ప్రసవించి ఆమె తెల్లవారుజామున ఇక్కడికి చేరుకుంది; దాహంతో తహతహలాడి సరస్సులోకి దిగగా, దైవానిశయంతో ఒక కొసరు ఆమెను పట్టుకుని తీసుకెళ్లింది.\""
+  },
+  {
+   "n": 40,
+   "text_deva": "इति तस्य समुत्पत्तिं तत्पितुः संगरे मृतिम् | तन्मातृमरणं ग्राहात्सर्वं तस्य न्यवेदयत्",
+   "text_te": "ఇతి తస్య సముత్పత్తిం తత్పితుః సంగరే మృతిమ్ | తన్మాతృమరణం గ్రాహాత్సర్వం తస్య న్యవేదయత్",
+   "text_en": "iti tasya samutpattiṁ tatpituḥ saṁgare mṛtim | tanmātṛmaraṇaṁ grāhātsarvaṁ tasya nyavedayat",
+   "mean_en": "In this way the mendicant related everything to her — the boy's birth, his father's death in the battle, and his mother's death at the hands of the crocodile.",
+   "mean_te": "ఈ విధంగా ఆ బాలుని జన్మ వృత్తాంతం, అతని తండ్రి యుద్ధంలో మరణం, కొసరు చేత అతని తల్లి మరణం — అంతటినీ ఆ భిక్షువు ఆమెకు వివరించాడు."
+  },
+  {
+   "n": 41,
+   "text_deva": "अथ सा ब्रह्माणी सा हि विस्मिताति मुनीश्वर | पुनः पप्रच्छ तं भिक्षुं ज्ञानिनं सिद्धरूपकम्",
+   "text_te": "అథ సా బ్రహ్మాణీ సా హి విస్మితాతి మునీశ్వర | పునః పప్రచ్ఛ తం భిక్షుం జ్ఞానినం సిద్ధరూపకమ్",
+   "text_en": "atha sā brahmāṇī sā hi vismitāti munīśvara | punaḥ papraccha taṁ bhikṣuṁ jñāninaṁ siddharūpakam",
+   "mean_en": "Then the Brahmin lady, filled with great wonder, again questioned that mendicant, the wise one whose form was that of a siddha.",
+   "mean_te": "అప్పుడు ఆ బ్రాహ్మణ పత్ని అత్యంత ఆశ్చర్యంతో జ్ఞాని అయిన, సిద్ధస్వరూపుడైన ఆ భిక్షువును మళ్లీ ప్రశ్నించింది."
+  },
+  {
+   "n": 42,
+   "text_deva": "ब्राह्मण्युवाच स राजोऽस्य पिता भिक्षो वरभोगान्तरेव हि | कस्माच्छाल्वैस्स्वरिपुभिस्स्वल्पेहैश्च विघातितः",
+   "text_te": "బ్రాహ్మణ్యువాచ స రాజోఽస్య పితా భిక్షో వరభోగాన్తరేవ హి | కస్మాచ్ఛాల్వైస్స్వరిపుభిస్స్వల్పేహైశ్చ విఘాతితః",
+   "text_en": "brāhmaṇyuvāca sa rājo'sya pitā bhikṣo varabhogāntareva hi | kasmācchālvaissvaripubhissvalpehaiśca vighātitaḥ",
+   "mean_en": "The Brahmin lady said: \"O mendicant, why was this boy's father, the king immersed in royal enjoyments, destroyed by the Shalvas, his hereditary enemies, with only a small force?\"",
+   "mean_te": "ఆ బ్రాహ్మణ పత్ని ఇలా అంది: \"భిక్షుకుడా, రాజభోగాలలో మునిగి ఉన్న ఈ బాలుని తండ్రి, స్వజాతి శత్రువులైన శాల్వుల చేత తక్కువ సైన్యంతో ఎందుకు నాశనం కాబడ్డాడు?\""
+  },
+  {
+   "n": 43,
+   "text_deva": "कस्मादस्य शिशोर्माता ग्राहेणाशु सुभक्षिता | यस्मादनाथोयं जातो विबन्धुश्चैव जन्मतः",
+   "text_te": "కస్మాదస్య శిశోర్మాతా గ్రాహేణాశు సుభక్షితా | యస్మాదనాథోయం జాతో విబన్ధుశ్చైవ జన్మతః",
+   "text_en": "kasmādasya śiśormātā grāheṇāśu subhakṣitā | yasmādanāthoyaṁ jāto vibandhuścaiva janmataḥ",
+   "mean_en": "\"Why was this infant's mother so quickly devoured by the crocodile? And why was he born helpless and without kinsmen from birth?\"",
+   "mean_te": "\"ఈ శిశువు తల్లి కొసరు చేత త్వరగా ఎందుకు భక్షించబడింది? పుట్టగానే ఈ బాలుడు అనాథుడు, బంధువులు లేనివాడు ఎందుకు అయ్యాడు?\""
+  },
+  {
+   "n": 44,
+   "text_deva": "कस्मात्सुतो ममापीह सुदरिद्रो हि भिक्षुकः | भवेत्कथं सुखं भिक्षो पुत्रयोरनयोर्वद",
+   "text_te": "కస్మాత్సుతో మమాపీహ సుదరిద్రో హి భిక్షుకః | భవేత్కథం సుఖం భిక్షో పుత్రయోరనయోర్వద",
+   "text_en": "kasmātsuto mamāpīha sudaridro hi bhikṣukaḥ | bhavetkathaṁ sukhaṁ bhikṣo putrayoranayorvada",
+   "mean_en": "\"Why will my own son here become a destitute mendicant? Tell me, O mendicant, how these two boys may attain happiness.\"",
+   "mean_te": "\"నా కొడుకు ఇక్కడ అత్యంత దరిద్రుడైన భిక్షుకుడు ఎందుకు అవుతాడు? ఆ ఇద్దరు బాలకులు ఎలా సుఖంగా ఉంటారో చెప్పవయ్యా, భిక్షుకుడా.\""
+  },
+  {
+   "n": 45,
+   "text_deva": "इति तस्या वचः श्रुत्वा स भिक्षुः परमेश्वरः | विप्रपत्न्याः प्रसन्नात्मा प्रोवाच विहसंश्च ताम्",
+   "text_te": "ఇతి తస్యా వచః శ్రుత్వా స భిక్షుః పరమేశ్వరః | విప్రపత్న్యాః ప్రసన్నాత్మా ప్రోవాచ విహసంశ్చ తామ్",
+   "text_en": "iti tasyā vacaḥ śrutvā sa bhikṣuḥ parameśvaraḥ | viprapatnyāḥ prasannātmā provāca vihasaṁśca tām",
+   "mean_en": "Hearing her words, that mendicant who was the Supreme Lord (Shiva), well pleased, smilingly addressed her.",
+   "mean_te": "ఆమె మాటలు విన్న ఆ భిక్షువు రూపంలో ఉన్న ఆ పరమేశ్వరుడు (శివుడు) సంతృప్త మనస్కుడై, చిరునవ్వుతో ఆమెతో అన్నాడు."
+  },
+  {
+   "n": 46,
+   "text_deva": "विप्रपत्नि विशेषेण सर्वप्रश्नान्वदामि ते | शृणु त्वं सावधानेन चरित्रमिदमुत्तमम्",
+   "text_te": "విప్రపత్ని విశేషేణ సర్వప్రశ్నాన్వదామి తే | శృణు త్వం సావధానేన చరిత్రమిదముత్తమమ్",
+   "text_en": "viprapatni viśeṣeṇa sarvapraśnānvadāmi te | śṛṇu tvaṁ sāvadhānena caritramidamuttamam",
+   "mean_en": "\"O Brahmin lady, I shall answer all your questions in detail; listen attentively to this most excellent story.\"",
+   "mean_te": "\"హే బ్రాహ్మణ పత్నీ, నీ అన్ని ప్రశ్నలకు విశేషంగా సమాధానం చెబుతాను; ఈ ఉత్తమ చరిత్రను జాగ్రత్తగా విను.\""
+  },
+  {
+   "n": 47,
+   "text_deva": "अमुष्य बालस्य पिता स विदर्भमहीपतिः | पूर्वजन्मनि पाण्ड्योऽसौ बभूव नृपसत्तमः",
+   "text_te": "అముష్య బాలస్య పితా స విదర్భమహీపతిః | పూర్వజన్మని పాణ్డ్యోఽసౌ బభూవ నృపసత్తమః",
+   "text_en": "amuṣya bālasya pitā sa vidarbhamahīpatiḥ | pūrvajanmani pāṇḍyo'sau babhūva nṛpasattamaḥ",
+   "mean_en": "\"The father of that boy, the king of Vidarbha, was in his former birth the Pandya king, best among rulers.\"",
+   "mean_te": "\"ఆ బాలుని తండ్రి అయిన విదర్భ మహారాజు, పూర్వజన్మలో రాజులలో శ్రేష్ఠుడైన పాండ్య రాజు.\""
+  },
+  {
+   "n": 48,
+   "text_deva": "स शैवनृपतिर्धर्मात्पालयन्निखिला महीम् | स्वप्रजां रंजयामास सर्वोपद्रवनाशनः",
+   "text_te": "స శైవనృపతిర్ధర్మాత్పాలయన్నిఖిలా మహీమ్ | స్వప్రజాం రంజయామాస సర్వోపద్రవనాశనః",
+   "text_en": "sa śaivanṛpatirdharmātpālayannikhilā mahīm | svaprajāṁ raṁjayāmāsa sarvopadravanāśanaḥ",
+   "mean_en": "\"That Shiva-devoted king, from a sense of dharma, protected the entire earth and delighted his subjects, destroying all their troubles.\"",
+   "mean_te": "\"ఆ శివభక్త రాజు ధర్మంతో సమస్త భూమిని పాలించి, సర్వ ఉపద్రవాలను నాశనం చేస్తూ, తన ప్రజలను ఆనందపరిచాడు.\""
+  },
+  {
+   "n": 49,
+   "text_deva": "कदाचित्स हि सर्वेशं प्रदोषे पर्यपूजयत् | त्रयोदश्यां निराहारो दिवानक्तव्रती शिवम्",
+   "text_te": "కదాచిత్స హి సర్వేశం ప్రదోషే పర్యపూజయత్ | త్రయోదశ్యాం నిరాహారో దివానక్తవ్రతీ శివమ్",
+   "text_en": "kadācitsa hi sarveśaṁ pradoṣe paryapūjayat | trayodaśyāṁ nirāhāro divānaktavratī śivam",
+   "mean_en": "\"Once, on a Trayodashi day, he worshipped Shiva, the Lord of all, fasting and keeping vigil day and night, at the pradosha time.\"",
+   "mean_te": "\"ఒకసారి త్రయోదశి నాడు, ఉపవాసుడై, పగలూ రాత్రీ వ్రతం పాటిస్తూ, ప్రదోష సమయంలో అతను సర్వేశుడైన శివుని పూజించాడు.\""
+  },
+  {
+   "n": 50,
+   "text_deva": "तस्य पूजयतः शम्भुं प्रदोषे गिरिशं रते | महाञ्छब्दो बभूवाथ विकटस्सर्वथा पुरे",
+   "text_te": "తస్య పూజయతః శమ్భుం ప్రదోషే గిరిశం రతే | మహాఞ్ఛబ్దో బభూవాథ వికటస్సర్వథా పురే",
+   "text_en": "tasya pūjayataḥ śambhuṁ pradoṣe giriśaṁ rate | mahāñchabdo babhūvātha vikaṭassarvathā pure",
+   "mean_en": "\"As he worshipped Shambhu, the mountain-dwelling Girisha, with devotion at pradosha, a great and terrible sound suddenly arose throughout the city.\"",
+   "mean_te": "\"ప్రదోష సమయంలో అతను గిరిజాధినాథుడైన శంభువును భక్తితో పూజిస్తుండగా, పట్నమంతటా ఒక మహా ఘోరమైన శబ్దం హఠాత్తుగా వినబడింది.\""
+  },
+  {
+   "n": 51,
+   "text_deva": "तमाकर्ण्य रवं सोऽथ राजा त्यक्तशिवार्चनः | रिप्वागमनशंकातो निर्ययौ भवनाद्बहिः",
+   "text_te": "తమాకర్ణ్య రవం సోఽథ రాజా త్యక్తశివార్చనః | రిప్వాగమనశంకాతో నిర్యయౌ భవనాద్బహిః",
+   "text_en": "tamākarṇya ravaṁ so'tha rājā tyaktaśivārcanaḥ | ripvāgamanaśaṁkāto niryayau bhavanādbahiḥ",
+   "mean_en": "\"Hearing that sound, the king abandoned the worship of Shiva and, fearing the arrival of his enemy, hurried out of his palace.\"",
+   "mean_te": "\"ఆ శబ్దం విని, రాజు శివపూజను వదిలేసి, శత్రువు వచ్చాడనే సందేహంతో కోట నుండి వేగంగా బయటకు వెళ్లాడు.\""
+  },
+  {
+   "n": 52,
+   "text_deva": "एतस्मिन्नेव काले तु तस्यामात्यो महाबली | गृहीतशस्त्रसामन्तो राजान्तिकमुपाययौ",
+   "text_te": "ఏతస్మిన్నేవ కాలే తు తస్యామాత్యో మహాబలీ | గృహీతశస్త్రసామన్తో రాజాన్తికముపాయయౌ",
+   "text_en": "etasminneva kāle tu tasyāmātyo mahābalī | gṛhītaśastrasāmanto rājāntikamupāyayau",
+   "mean_en": "At that very time the king's mighty ministers, together with the weapon-bearing feudatory chiefs (sāmantas), came before the king.",
+   "mean_te": "ఆ సమయంలోనే, అతని మహాబలవంతులైన అమాత్యులు, ఆయుధాలు ధరించిన సామంతులతో కలిసి రాజు వద్దకు వచ్చారు."
+  },
+  {
+   "n": 53,
+   "text_deva": "तन्दृष्ट्वा शत्रुसामन्तं महाक्रोधेन विह्वलः | अविचार्य वृषन्तस्य शिरश्छेदमकारयत्",
+   "text_te": "తన్దృష్ట్వా శత్రుసామన్తం మహాక్రోధేన విహ్వలః | అవిచార్య వృషన్తస్య శిరశ్ఛేదమకారయత్",
+   "text_en": "tandṛṣṭvā śatrusāmantaṁ mahākrodhena vihvalaḥ | avicārya vṛṣantasya śiraśchedamakārayat",
+   "mean_en": "Seeing that enemy feudatory, the king, overwhelmed with intense anger and without any deliberation, had Vṛṣa's head cut off.",
+   "mean_te": "ఆ శత్రు సామంతుడిని చూసిన రాజు, తీవ్ర కోపంతో కల్లోలుడై, ఏమీ ఆలోచించకుండా వృషుడి శిరస్సు ఖండింపజేశాడు."
+  },
+  {
+   "n": 54,
+   "text_deva": "असमाप्ये शपूजान्तामशुचिर्नष्टधीर्नृपः | रात्रौ चकार सुप्रीत्या भोजनन्नष्टमंगलः",
+   "text_te": "అసమాప్యే శపూజాన్తామశుచిర్నష్టధీర్నృపః | రాత్రౌ చకార సుప్రీత్యా భోజనన్నష్టమంగలః",
+   "text_en": "asamāpye śapūjāntāmaśucirnaṣṭadhīrnṛpaḥ | rātrau cakāra suprītyā bhojanannaṣṭamaṁgalaḥ",
+   "mean_en": "Leaving the Śiva-worship unfinished, the king — impure and bereft of judgment — gladly ate his meal at night, with all auspiciousness destroyed.",
+   "mean_te": "శివపూజ పూర్తి కాకముందే, అశుచిగా ఉన్న, వివేకం కోల్పోయిన ఆ రాజు రాత్రివేళ ఎంతో సంతోషంగా భోజనం చేశాడు; అతని మంగళమంతా నశించింది."
+  },
+  {
+   "n": 55,
+   "text_deva": "विदर्भे सोभवद्राजा जन्मनीह शिवव्रती | शिवार्चनान्तरायेण परैर्भोगांन्तरे हतः",
+   "text_te": "విదర్భే సోభవద్రాజా జన్మనీహ శివవ్రతీ | శివార్చనాన్తరాయేణ పరైర్భోగాంన్తరే హతః",
+   "text_en": "vidarbhe sobhavadrājā janmanīha śivavratī | śivārcanāntarāyeṇa parairbhogāṁntare hataḥ",
+   "mean_en": "In a previous birth he was a king of Vidarbha, devoted to Śiva's vows; because his Śiva-worship was obstructed by others, he was slain in the midst of enjoyments.",
+   "mean_te": "పూర్వజన్మలో అతడు విదర్భదేశంలో శివవ్రతాన్ని పాటించే రాజు; ఇతరుల వల్ల శివార్చనకు ఆటంకం కలగడంతో భోగాల మధ్యలోనే మరణించాడు."
+  },
+  {
+   "n": 56,
+   "text_deva": "तत्पुत्रो यः पूर्वभवे सोऽस्मिञ्जन्मनि तत्सुतः | अहमेव हतैश्वर्य्यः शिवपूजा व्यतिक्रमात्",
+   "text_te": "తత్పుత్రో యః పూర్వభవే సోఽస్మిఞ్జన్మని తత్సుతః | అహమేవ హతైశ్వర్య్యః శివపూజా వ్యతిక్రమాత్",
+   "text_en": "tatputro yaḥ pūrvabhave so'smiñjanmani tatsutaḥ | ahameva hataiśvaryyaḥ śivapūjā vyatikramāt",
+   "mean_en": "The very one who was his son in that former birth is his son in this birth too, while I myself am the one whose prosperity was destroyed through the transgression of Śiva-worship.",
+   "mean_te": "పూర్వజన్మలో ఆయన కుమారుడైనవాడే ఈ జన్మలో కూడా ఆయన కుమారుడే; శివపూజ ఉల్లంఘన వల్ల ఐశ్వర్యం కోల్పోయినవాడు నేనే."
+  },
+  {
+   "n": 57,
+   "text_deva": "अस्य माता पूर्वभवे सपत्नीं छद्मनाहरत् | भक्षिता तेन पापेन ग्राहेणाऽस्मिन्भवे हि सा",
+   "text_te": "అస్య మాతా పూర్వభవే సపత్నీం ఛద్మనాహరత్ | భక్షితా తేన పాపేన గ్రాహేణాఽస్మిన్భవే హి సా",
+   "text_en": "asya mātā pūrvabhave sapatnīṁ chadmanāharat | bhakṣitā tena pāpena grāheṇā'sminbhave hi sā",
+   "mean_en": "His mother in the previous birth deceitfully carried off her rival wife; in this birth that rival was devoured by that wicked crocodile.",
+   "mean_te": "పూర్వజన్మలో అతని తల్లి కపటంతో తన సహభార్యను (సపత్నిని) తన్నుకుంది; ఈ జన్మలో ఆమె ఆ దుర్మార్గుడైన కొండెచిలుకచే భక్షించబడింది."
+  },
+  {
+   "n": 58,
+   "text_deva": "एषा प्रवृत्तिरेतेषां भवत्यै परिकीर्तिता | अनर्चिता शिवा भक्त्या प्राप्नुवन्ति दरिद्रताम् | एष ते तनयः पूर्वजन्मनि ब्राह्मणोत्तमः | प्रतिग्रहैर्वयो निन्ये न यज्ञाद्यैस्सुकर्मभिः",
+   "text_te": "ఏషా ప్రవృత్తిరేతేషాం భవత్యై పరికీర్తితా | అనర్చితా శివా భక్త్యా ప్రాప్నువన్తి దరిద్రతామ్ | ఏష తే తనయః పూర్వజన్మని బ్రాహ్మణోత్తమః | ప్రతిగ్రహైర్వయో నిన్యే న యజ్ఞాద్యైస్సుకర్మభిః",
+   "text_en": "eṣā pravṛttireteṣāṁ bhavatyai parikīrtitā | anarcitā śivā bhaktyā prāpnuvanti daridratām | eṣa te tanayaḥ pūrvajanmani brāhmaṇottamaḥ | pratigrahairvayo ninye na yajñādyaissukarmabhiḥ",
+   "mean_en": "Such is the past conduct of these beings as it is recounted: those who do not worship Śiva with devotion fall into poverty. And this son of yours, an eminent Brahmin in his former birth, spent his life merely receiving gifts, without performing good deeds like sacrifices.",
+   "mean_te": "వీరి గతజన్మ ప్రవృత్తి ఇదే అని నీకు కీర్తించబడింది; భక్తితో శివుడిని ఆరాధించనివారు దారిద్ర్యాన్ని పొందుతారు. నీ కుమారుడు పూర్వజన్మలో బ్రాహ్మణోత్తముడు; యజ్ఞాదులైన సుకర్మలు చేయకుండా ప్రతిగ్రహాల (దానాల స్వీకారం) ద్వారానే తన వయసును గడిపాడు."
+  },
+  {
+   "n": 59,
+   "text_deva": "अतो दारिद्र्यमापन्नः पुत्रस्ते द्विजभामिनि | तद्दोषपरिहारार्थं शरणं शंकरं व्रज",
+   "text_te": "అతో దారిద్ర్యమాపన్నః పుత్రస్తే ద్విజభామిని | తద్దోషపరిహారార్థం శరణం శంకరం వ్రజ",
+   "text_en": "ato dāridryamāpannaḥ putraste dvijabhāmini | taddoṣaparihārārthaṁ śaraṇaṁ śaṁkaraṁ vraja",
+   "mean_en": "Therefore, O wife of a twice-born, your son has fallen into poverty; to remove that fault, take refuge in Śaṅkara (Śiva).",
+   "mean_te": "కాబట్టి ఓ ద్విజభామా, నీ కుమారుడు దారిద్ర్యం పొందాడు; ఆ దోషం తొలగిపోవడానికి శంకరుడిని (శివుడిని) శరణు వేడు."
+  },
+  {
+   "n": 60,
+   "text_deva": "एताभ्यां खलु बालाभ्यां शिवपूजाविधीयताम् | उपवीतानन्तरं हि शिवः श्रेयः करिष्यति",
+   "text_te": "ఏతాభ్యాం ఖలు బాలాభ్యాం శివపూజావిధీయతామ్ | ఉపవీతానన్తరం హి శివః శ్రేయః కరిష్యతి",
+   "text_en": "etābhyāṁ khalu bālābhyāṁ śivapūjāvidhīyatām | upavītānantaraṁ hi śivaḥ śreyaḥ kariṣyati",
+   "mean_en": "Let Śiva-worship be performed by these two children; after their sacred-thread investiture, Śiva will grant them prosperity.",
+   "mean_te": "ఈ ఇద్దరు బాలలతో శివపూజ చేయించాలి; ఉపనయనం తర్వాత శివుడు వారికి మంగళకరమైన శ్రేయస్సు కలిగిస్తాడు."
+  },
+  {
+   "n": 61,
+   "text_deva": "इति तामुपदिश्याथ भिक्षुवर्ण्यतनुः शिवः | स्वरूपं दर्शयामास परमं भक्तवत्सलः",
+   "text_te": "ఇతి తాముపదిశ్యాథ భిక్షువర్ణ్యతనుః శివః | స్వరూపం దర్శయామాస పరమం భక్తవత్సలః",
+   "text_en": "iti tāmupadiśyātha bhikṣuvarṇyatanuḥ śivaḥ | svarūpaṁ darśayāmāsa paramaṁ bhaktavatsalaḥ",
+   "mean_en": "Having instructed her thus, Śiva — in the form of a youthful mendicant — revealed his true form, that most affectionate Lord of devotees.",
+   "mean_te": "ఇలా ఆమెకు ఉపదేశించిన తర్వాత, భక్తవత్సలుడైన శివుడు, భిక్షుకువనిత తనువులో తన నిజ స్వరూపాన్ని దర్శింపజేశాడు."
+  },
+  {
+   "n": 62,
+   "text_deva": "अथ सा विप्रवनिता ज्ञात्वा तं शंकरम्प्रभुम् | सुप्रणम्य हि तुष्टाव प्रेम्णा गद्गदया गिरा",
+   "text_te": "అథ సా విప్రవనితా జ్ఞాత్వా తం శంకరమ్ప్రభుమ్ | సుప్రణమ్య హి తుష్టావ ప్రేమ్ణా గద్గదయా గిరా",
+   "text_en": "atha sā vipravanitā jñātvā taṁ śaṁkaramprabhum | supraṇamya hi tuṣṭāva premṇā gadgadayā girā",
+   "mean_en": "Then the Brahmin lady, knowing him to be the supreme Lord Śaṅkara, prostrated and praised him with a voice trembling with love.",
+   "mean_te": "అప్పుడు ఆ బ్రాహ్మణ స్త్రీ, అతడే శంకరుడైన ప్రభువని తెలుసుకుని, భక్తిపూర్వకంగా నమస్కరించి, ప్రేమతో గురకిలాడుతున్న స్వరంతో స్తుతించింది."
+  },
+  {
+   "n": 63,
+   "text_deva": "ततस्स भगवाञ्च्छम्भुर्धृतभिक्षुतनुर्द्रुतम् | पश्यन्त्या विप्रपन्त्यास्तु तत्रैवान्तरधीयत",
+   "text_te": "తతస్స భగవాఞ్చ్ఛమ్భుర్ధృతభిక్షుతనుర్ద్రుతమ్ | పశ్యన్త్యా విప్రపన్త్యాస్తు తత్రైవాన్తరధీయత",
+   "text_en": "tatassa bhagavāñcchambhurdhṛtabhikṣutanurdrutam | paśyantyā viprapantyāstu tatraivāntaradhīyata",
+   "mean_en": "Then the blessed Lord Śambhu, still holding the mendicant's form, vanished right there before the eyes of the Brahmin lady.",
+   "mean_te": "అప్పుడు భిక్షుకుడి తనువు ధరించిన భగవాన్ శంభుడు (శివుడు), ఆ బ్రాహ్మణ స్త్రీ చూస్తుండగానే అక్కడే అంతర్ధానమయ్యాడు."
+  },
+  {
+   "n": 64,
+   "text_deva": "अथ तस्मिन् गते भिक्षौ विश्रब्धा ब्राह्मणी च सा | तमर्भकं समादाय सस्वपुत्रा गृहं ययौ",
+   "text_te": "అథ తస్మిన్ గతే భిక్షౌ విశ్రబ్ధా బ్రాహ్మణీ చ సా | తమర్భకం సమాదాయ సస్వపుత్రా గృహం యయౌ",
+   "text_en": "atha tasmin gate bhikṣau viśrabdhā brāhmaṇī ca sā | tamarbhakaṁ samādāya sasvaputrā gṛhaṁ yayau",
+   "mean_en": "When the mendicant had departed, the Brahmin lady, reassured, took up the child and went home together with her son.",
+   "mean_te": "ఆ భిక్షుకుడు వెళ్ళిపోగానే, ఆ బ్రాహ్మణి నిశ్చింత చెంది, ఆ శిశువును తీసుకుని, తన కుమారుడితో కలిసి ఇంటికి వెళ్ళింది."
+  },
+  {
+   "n": 65,
+   "text_deva": "एकचक्राह्वये रम्ये ग्राम्ये कृत निकेतना | स्वपुत्रं राजपुत्रं च वरान्नैश्च व्यवर्द्धयत्",
+   "text_te": "ఏకచక్రాహ్వయే రమ్యే గ్రామ్యే కృత నికేతనా | స్వపుత్రం రాజపుత్రం చ వరాన్నైశ్చ వ్యవర్ద్ధయత్",
+   "text_en": "ekacakrāhvaye ramye grāmye kṛta niketanā | svaputraṁ rājaputraṁ ca varānnaiśca vyavarddhayat",
+   "mean_en": "In the charming village called Ekachakra she made her home and reared her own son and the prince with excellent food.",
+   "mean_te": "ఏకచక్ర అనే రమ్యమైన గ్రామంలో నివాసం ఏర్పరుచుకుని, తన కుమారుడిని, రాజకుమారుడిని ఉత్తమమైన భోజనాలతో పెంచింది."
+  },
+  {
+   "n": 66,
+   "text_deva": "ब्राह्मणै कृतसंस्कारौ कृतोपनयनौ च तौ | ववृधाते स्वगेहे च शिवपूजनतत्परौ",
+   "text_te": "బ్రాహ్మణై కృతసంస్కారౌ కృతోపనయనౌ చ తౌ | వవృధాతే స్వగేహే చ శివపూజనతత్పరౌ",
+   "text_en": "brāhmaṇai kṛtasaṁskārau kṛtopanayanau ca tau | vavṛdhāte svagehe ca śivapūjanatatparau",
+   "mean_en": "Both of them, having undergone the saṁskāras and the upanayana at the hands of Brahmins, grew up in her house, devoted to the worship of Śiva.",
+   "mean_te": "బ్రాహ్మణుల చేత సంస్కారాలు, ఉపనయనం చేయించబడిన ఆ ఇద్దరూ తన ఇంట్లోనే పెరుగుతూ, శివపూజలో సదా నిమగ్నులై ఉండేవారు."
+  },
+  {
+   "n": 67,
+   "text_deva": "तौ शाण्डिल्यमुनेस्तात निदेशान्नियम स्थितौ | प्रदोषे चक्रतुः शम्भोः पूजां कृत्वा व्रतं शुभम्",
+   "text_te": "తౌ శాణ్డిల్యమునేస్తాత నిదేశాన్నియమ స్థితౌ | ప్రదోషే చక్రతుః శమ్భోః పూజాం కృత్వా వ్రతం శుభమ్",
+   "text_en": "tau śāṇḍilyamunestāta nideśānniyama sthitau | pradoṣe cakratuḥ śambhoḥ pūjāṁ kṛtvā vrataṁ śubham",
+   "mean_en": "By the direction of the sage Śāṇḍilya, those two stood in their observances and performed the auspicious vow of worship to Śambhu at pradoṣa (twilight).",
+   "mean_te": "ఓ తాతా, శాండిల్య ముని ఉపదేశం ప్రకారం నియమాలలో నిలిచిన ఆ ఇద్దరూ, ప్రదోష సమయంలో శంభుడికి (శివుడికి) పూజలు చేస్తూ శుభకరమైన వ్రతాన్ని ఆచరించేవారు."
+  },
+  {
+   "n": 68,
+   "text_deva": "कदाचिद्द्विजपुत्रेण विनाऽसौ राजनन्दनः | नद्यां स्नातुं गतः प्राप निधानकलशं वरम्",
+   "text_te": "కదాచిద్ద్విజపుత్రేణ వినాఽసౌ రాజనన్దనః | నద్యాం స్నాతుం గతః ప్రాప నిధానకలశం వరమ్",
+   "text_en": "kadāciddvijaputreṇa vinā'sau rājanandanaḥ | nadyāṁ snātuṁ gataḥ prāpa nidhānakalaśaṁ varam",
+   "mean_en": "Once, without the Brahmin boy, that prince went to bathe in the river and obtained the wonderful treasure-jar.",
+   "mean_te": "ఒకనాడు బ్రాహ్మణ కుమారుడు లేకుండా, ఆ రాజకుమారుడు నదిలో స్నానం చేయడానికి వెళ్ళి, వరమైన నిధానకలశాన్ని (నిధుల కుండను) పొందాడు."
+  },
+  {
+   "n": 69,
+   "text_deva": "एवं पूजयतोः शम्भुं राजद्विजकुमारयोः | सुखेनैव व्यतीयाय तयोर्मासचतुष्टयम्",
+   "text_te": "ఏవం పూజయతోః శమ్భుం రాజద్విజకుమారయోః | సుఖేనైవ వ్యతీయాయ తయోర్మాసచతుష్టయమ్",
+   "text_en": "evaṁ pūjayatoḥ śambhuṁ rājadvijakumārayoḥ | sukhenaiva vyatīyāya tayormāsacatuṣṭayam",
+   "mean_en": "Thus the prince and the brahmin youth, worshipping Shambhu (Shiva) with devotion, passed four months quite happily.",
+   "mean_te": "ఈ విధంగా రాజకుమారుడు, బ్రాహ్మణ కుమారుడు శంభువును (శివుని) పూజిస్తూ, ఆనందంగా నాలుగు నెలలు గడిపారు."
+  },
+  {
+   "n": 70,
+   "text_deva": "एवमर्चयतोः शम्भुं भूयोपि परया मुदा | सम्वत्सरो व्यतीयाय तस्मिन्नेव तयोर्गृहे",
+   "text_te": "ఏవమర్చయతోః శమ్భుం భూయోపి పరయా ముదా | సమ్వత్సరో వ్యతీయాయ తస్మిన్నేవ తయోర్గృహే",
+   "text_en": "evamarcayatoḥ śambhuṁ bhūyopi parayā mudā | samvatsaro vyatīyāya tasminneva tayorgṛhe",
+   "mean_en": "In the same house, as the two of them worshipped Shambhu again with supreme joy, a full year passed by.",
+   "mean_te": "అదే ఇంట్లో వారిద్దరూ శంభువును మహా సంతోషంతో మళ్ళీ ఆరాధిస్తూ, పూర్తి సంవత్సరం గడిచింది."
+  },
+  {
+   "n": 71,
+   "text_deva": "सम्वत्सरे व्यतिक्रान्ते स राजतनयो मुने | गत्वा वनान्ते विप्रेण शिवस्यानुग्रहाद्विभोः",
+   "text_te": "సమ్వత్సరే వ్యతిక్రాన్తే స రాజతనయో మునే | గత్వా వనాన్తే విప్రేణ శివస్యానుగ్రహాద్విభోః",
+   "text_en": "samvatsare vyatikrānte sa rājatanayo mune | gatvā vanānte vipreṇa śivasyānugrahādvibhoḥ",
+   "mean_en": "When the year had passed, O sage, the prince went with the brahmin to the forest edge, by the grace of Lord Shiva.",
+   "mean_te": "సంవత్సరం పూర్తయిన తరువాత, ఓ మునీంద్రా, శివుని అనుగ్రహంతో ఆ రాజకుమారుడు బ్రాహ్మణునితో కలిసి అడవి చివరకు వెళ్ళాడు."
+  },
+  {
+   "n": 72,
+   "text_deva": "अकस्मादागतां तत्र दत्तां तज्जनकेन ह | विवाह्य गन्धर्वसुतां चक्रे राज्यमकण्टकम्",
+   "text_te": "అకస్మాదాగతాం తత్ర దత్తాం తజ్జనకేన హ | వివాహ్య గన్ధర్వసుతాం చక్రే రాజ్యమకణ్టకమ్",
+   "text_en": "akasmādāgatāṁ tatra dattāṁ tajjanakena ha | vivāhya gandharvasutāṁ cakre rājyamakaṇṭakam",
+   "mean_en": "There he married the gandharva maiden who had come there unexpectedly and had been given to him by those people, and then he ruled the kingdom without any obstacles.",
+   "mean_te": "అక్కడ, అకస్మాత్తుగా వచ్చి ఆ జనులు ఇచ్చిన గాంధర్వ కన్యను వివాహమాడి, ఆ రాజకుమారుడు ఏ అభ్యంతరాలూ లేకుండా రాజ్యపాలన చేశాడు."
+  },
+  {
+   "n": 73,
+   "text_deva": "या विप्रवनिता पूर्वंतमपुष्णात्स्वपुत्रवत् | सैव माताभवत्तस्य स भ्राता द्विजनन्दनः",
+   "text_te": "యా విప్రవనితా పూర్వంతమపుష్ణాత్స్వపుత్రవత్ | సైవ మాతాభవత్తస్య స భ్రాతా ద్విజనన్దనః",
+   "text_en": "yā vipravanitā pūrvaṁtamapuṣṇātsvaputravat | saiva mātābhavattasya sa bhrātā dvijanandanaḥ",
+   "mean_en": "That very brahmin woman who had formerly nourished her like her own son became his mother, and the brahmin youth became his brother.",
+   "mean_te": "పూర్వం ఆమెను తన కొడుకులా పోషించిన ఆ బ్రాహ్మణ స్త్రీయే అతనికి తల్లి అయింది, ఆ బ్రాహ్మణ కుమారుడు అతని సోదరుడయ్యాడు."
+  },
+  {
+   "n": 74,
+   "text_deva": "इत्थमाराध्य देवेशं धर्मगुप्ताह्वयस्स वै | विदर्भ विषये राज्ञ्या तया भोगं चकार ह",
+   "text_te": "ఇత్థమారాధ్య దేవేశం ధర్మగుప్తాహ్వయస్స వై | విదర్భ విషయే రాజ్ఞ్యా తయా భోగం చకార హ",
+   "text_en": "itthamārādhya deveśaṁ dharmaguptāhvayassa vai | vidarbha viṣaye rājñyā tayā bhogaṁ cakāra ha",
+   "mean_en": "Having thus worshipped the Lord of gods, Dharmagupta, who was invited (brought up) by dharma, enjoyed royal pleasures with that princess in the Vidarbha kingdom.",
+   "mean_te": "ఈ విధంగా దేవేశుని (శివుని) ఆరాధించి, ధర్మం చేత రక్షించబడిన ధర్మగుప్తుడు, ఆ రాజకుమారితో కలిసి విదర్భ దేశంలో రాజభోగాలు అనుభవించాడు."
+  },
+  {
+   "n": 75,
+   "text_deva": "भिक्षुवर्य्यावतारस्ते वर्णितश्च मयाधुना | शिवस्य धर्मगुप्ताह्व नृपबालसुखप्रदः",
+   "text_te": "భిక్షువర్య్యావతారస్తే వర్ణితశ్చ మయాధునా | శివస్య ధర్మగుప్తాహ్వ నృపబాలసుఖప్రదః",
+   "text_en": "bhikṣuvaryyāvatāraste varṇitaśca mayādhunā | śivasya dharmaguptāhva nṛpabālasukhapradaḥ",
+   "mean_en": "O Dharmagupta, the descent of the excellent mendicant (Shiva as Bhikshu), who bestows happiness on the young king, has now been narrated by me.",
+   "mean_te": "ఓ ధర్మగుప్తా, యువరాజుకు సుఖాన్ని ప్రసాదించే ఆ భిక్షువు (శివుని) అవతారాన్ని నేను ఇప్పుడు వర్ణించాను."
+  },
+  {
+   "n": 76,
+   "text_deva": "एतदाख्यानमनघं पवित्रं पावनं महत् | धर्मार्थकाममोक्षाणां साधनं सर्वकामदम्",
+   "text_te": "ఏతదాఖ్యానమనఘం పవిత్రం పావనం మహత్ | ధర్మార్థకామమోక్షాణాం సాధనం సర్వకామదమ్",
+   "text_en": "etadākhyānamanaghaṁ pavitraṁ pāvanaṁ mahat | dharmārthakāmamokṣāṇāṁ sādhanaṁ sarvakāmadam",
+   "mean_en": "This sacred and purifying story, which is sinless and great, is the means to dharma, artha, kama, and moksha, and grants all desires.",
+   "mean_te": "ఈ పవిత్రమైన, పాపరహితమైన మహిమాన్వితమైన కథ ధర్మార్థకామమోక్షాలను సాధించడానికి మార్గం; అన్ని కోరికలనూ ఇచ్చేది."
+  },
+  {
+   "n": 77,
+   "text_deva": "य एतच्छ्रृणुयान्नित्यं श्रावयेद्वा समाहितः | स भुक्त्वेहाखिलान्कामान्सोन्ते शिवपुरम्व्रजेत्",
+   "text_te": "య ఏతచ్ఛ్రృణుయాన్నిత్యం శ్రావయేద్వా సమాహితః | స భుక్త్వేహాఖిలాన్కామాన్సోన్తే శివపురమ్వ్రజేత్",
+   "text_en": "ya etacchrṛṇuyānnityaṁ śrāvayedvā samāhitaḥ | sa bhuktvehākhilānkāmānsonte śivapuramvrajet",
+   "mean_en": "He who listens to this story daily, or causes it to be heard with concentration, enjoys all desires here in this life and finally goes to Shiva's city (Kailasa).",
+   "mean_te": "ఈ కథను ప్రతిదినం వినేవాడు, లేదా ఏకాగ్రతతో ఇతరులకు వినిపించేవాడు, ఈ లోకంలో అన్ని కోరికలనూ అనుభవించి, చివరకు శివుని పురానికి (కైలాసానికి) వెళ్తాడు."
+  },
+  {
+   "n": 78,
+   "text_deva": "इति श्री शिवमहापुराणे तृती०शतरुद्रसंहितायां भिक्षुवर्य्याह्वशिवावता रचरित्रवर्णनंनामैकत्रिंशोऽध्यायः",
+   "text_te": "ఇతి శ్రీ శివమహాపురాణే తృతీ०శతరుద్రసంహితాయాం భిక్షువర్య్యాహ్వశివావతా రచరిత్రవర్ణనంనామైకత్రింశోఽధ్యాయః",
+   "text_en": "iti śrī śivamahāpurāṇe tṛtī०śatarudrasaṁhitāyāṁ bhikṣuvaryyāhvaśivāvatā racaritravarṇanaṁnāmaikatriṁśo'dhyāyaḥ",
+   "mean_en": "Thus ends the thirty-first chapter named 'Description of the descent of Shiva called the great mendicant' in the Shatarudra Samhita of the Shiva Mahapurana.",
+   "mean_te": "ఈ విధంగా శివ మహాపురాణంలోని శతరుద్ర సంహితలో 'భిక్షువర్యాహ్వ శివావతార చరిత్ర వర్ణనం' అనే యావత్తు ముప్పై ఒకటో అధ్యాయం ముగిసింది."
+  }
+ ]
+}

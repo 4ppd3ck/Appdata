@@ -1,0 +1,19 @@
+{
+ "base": "https://raw.githubusercontent.com/4ppd3ck/Appdata/main/mythology/text",
+ "sections": {
+  "ananda-lahari": {
+   "archive": "soundarya-lahari-ananda-lahari.zip",
+   "bytes": 47792,
+   "sha256": "0de1165284367186cebcf9763be26e714343c5392dab91cb8112a771d11374a5",
+   "version": "20261022",
+   "sargas": 41
+  },
+  "soundarya-lahari": {
+   "archive": "soundarya-lahari-soundarya-lahari.zip",
+   "bytes": 67773,
+   "sha256": "ed9a4cdb99780c965c054e27c6e9dc38e820934340ba6a6afdfbf5fd23a17ad0",
+   "version": "20261022",
+   "sargas": 59
+  }
+ }
+}

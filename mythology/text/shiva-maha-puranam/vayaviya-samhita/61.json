@@ -1,0 +1,289 @@
+{
+ "kanda": "vayaviya-samhita",
+ "n": 61,
+ "title_deva": "सांगोपांगपूजाविधानवर्णनम्",
+ "title_te": "సాంగోపాంగపూజావిధానవర్ణనమ్",
+ "title_iast": "sāṁgopāṁgapūjāvidhānavarṇanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "उपमन्युरुवाच ब्रह्मघ्नो वा सुरापो वा स्तेयीवा गुरुतल्पगः | मातृहा पितृहा वापि वीरहा भ्रूणहापि वा",
+   "text_te": "ఉపమన్యురువాచ బ్రహ్మఘ్నో వా సురాపో వా స్తేయీవా గురుతల్పగః | మాతృహా పితృహా వాపి వీరహా భ్రూణహాపి వా",
+   "text_en": "upamanyuruvāca brahmaghno vā surāpo vā steyīvā gurutalpagaḥ | mātṛhā pitṛhā vāpi vīrahā bhrūṇahāpi vā",
+   "mean_en": "Upamanyu said: \"One who has slain a brahmin, or a drinker of liquor, or a thief, or a violator of his guru's bed, a matricide, a patricide, a killer of heroes, or a killer of embryos —\"",
+   "mean_te": "ఉపమన్యువు అన్నాడు: \"బ్రహ్మహత్య చేసినవాడైనా, సురాపానం చేసినవాడైనా, దొంగయైనా, గురుభార్యా గామియైనా, మాతృహంతయైనా, పితృహంతయైనా, వీరహంతయైనా, భ్రూణహంతయైనా —\""
+  },
+  {
+   "n": 2,
+   "text_deva": "संपूज्यामन्त्रकं भक्त्या शिवं परमकारणम् | तैस्तैः पापैः प्रमुच्येत वर्षैर्द्वादशभिः क्रमात्",
+   "text_te": "సంపూజ్యామన్త్రకం భక్త్యా శివం పరమకారణమ్ | తైస్తైః పాపైః ప్రముచ్యేత వర్షైర్ద్వాదశభిః క్రమాత్",
+   "text_en": "saṁpūjyāmantrakaṁ bhaktyā śivaṁ paramakāraṇam | taistaiḥ pāpaiḥ pramucyeta varṣairdvādaśabhiḥ kramāt",
+   "mean_en": "\"worshipping Shiva, the supreme cause, with the mantra and with devotion, is freed from those very sins in twelve years, in due course.\"",
+   "mean_te": "\"భక్తితో మంత్రంతో పరమకారణుడైన శివుణ్ణి పూజిస్తే, ఆ పాపాల నుండి క్రమంగా పన్నెండు సంవత్సరాలలో విముక్తుడవుతాడు.\""
+  },
+  {
+   "n": 3,
+   "text_deva": "तस्मात्सर्वप्रयत्नेन पतितो ऽपि यजेच्छिवम् | भक्तश्चेन्नापरः कश्चिद्भिक्षाहारो जितेंद्रियः",
+   "text_te": "తస్మాత్సర్వప్రయత్నేన పతితో ఽపి యజేచ్ఛివమ్ | భక్తశ్చేన్నాపరః కశ్చిద్భిక్షాహారో జితేంద్రియః",
+   "text_en": "tasmātsarvaprayatnena patito 'pi yajecchivam | bhaktaścennāparaḥ kaścidbhikṣāhāro jiteṁdriyaḥ",
+   "mean_en": "\"Therefore, by every effort, even a fallen one should worship Shiva; if he is a devotee, he is not (counted) otherwise — (let him be) one living on alms, with senses subdued.\"",
+   "mean_te": "\"అందుకే, పతితుడైనా సర్వప్రయత్నంతో శివుణ్ణి పూజించాలి; భక్తుడైతే వేరుగా లెక్కించబడడు — భిక్షాహారియై, జితేంద్రియుడై ఉండాలి.\""
+  },
+  {
+   "n": 4,
+   "text_deva": "कृत्वापि सुमहत्पापं भक्त्या पञ्चाक्षरेण तु | पूजयेद्यदि देवेशं तस्मात्पापात्प्रमुच्यते",
+   "text_te": "కృత్వాపి సుమహత్పాపం భక్త్యా పఞ్చాక్షరేణ తు | పూజయేద్యది దేవేశం తస్మాత్పాపాత్ప్రముచ్యతే",
+   "text_en": "kṛtvāpi sumahatpāpaṁ bhaktyā pañcākṣareṇa tu | pūjayedyadi deveśaṁ tasmātpāpātpramucyate",
+   "mean_en": "\"Even having done a very great sin, if one worships the lord of gods with devotion through the five-syllable (mantra), he is freed from that sin.\"",
+   "mean_te": "\"మహాపాపం చేసినవాడైనా, పంచాక్షరితో భక్తితో దేవేశుణ్ణి పూజిస్తే, ఆ పాపం నుండి విముక్తుడవుతాడు.\""
+  },
+  {
+   "n": 5,
+   "text_deva": "अब्भक्षा वायुभक्षाश्च ये चान्ये व्रतकर्शिताः | तेषामेतैर्व्रतैर्नास्ति शिवलोकसमागमः",
+   "text_te": "అబ్భక్షా వాయుభక్షాశ్చ యే చాన్యే వ్రతకర్శితాః | తేషామేతైర్వ్రతైర్నాస్తి శివలోకసమాగమః",
+   "text_en": "abbhakṣā vāyubhakṣāśca ye cānye vratakarśitāḥ | teṣāmetairvratairnāsti śivalokasamāgamaḥ",
+   "mean_en": "\"Those who eat only water, or live on air, or are emaciated by other vows — for them there is no attainment of Shiva's world by those vows alone.\"",
+   "mean_te": "\"జలభక్షులైనా, వాయుభక్షులైనా, ఇతర వ్రతాలచే కృశించినవారైనా — ఆ వ్రతాల వల్లనే శివలోక ప్రాప్తి వారికి లేదు.\""
+  },
+  {
+   "n": 6,
+   "text_deva": "भक्त्या पञ्चाक्षरेणैव यः शिवं सकृदर्चयेत् | सोपि गच्छेच्छिवस्थानं शिवमन्त्रस्य गौरवात्",
+   "text_te": "భక్త్యా పఞ్చాక్షరేణైవ యః శివం సకృదర్చయేత్ | సోపి గచ్ఛేచ్ఛివస్థానం శివమన్త్రస్య గౌరవాత్",
+   "text_en": "bhaktyā pañcākṣareṇaiva yaḥ śivaṁ sakṛdarcayet | sopi gacchecchivasthānaṁ śivamantrasya gauravāt",
+   "mean_en": "\"He who worships Shiva once with devotion through the five-syllable (mantra), he too goes to the abode of Shiva, by the greatness of the Shiva-mantra.\"",
+   "mean_te": "\"పంచాక్షరితో భక్తితో శివుణ్ణి ఒక్కసారి పూజించినవాడు కూడా, శివమంత్ర మాహాత్మ్యంతో శివస్థానానికి వెళ్తాడు.\""
+  },
+  {
+   "n": 7,
+   "text_deva": "तस्मात्तपांसि यज्ञांश्च सर्वे सर्वस्वदक्षिणाः | शिवमूर्त्यर्चनस्यैते कोट्यंशेनापि नो समाः",
+   "text_te": "తస్మాత్తపాంసి యజ్ఞాంశ్చ సర్వే సర్వస్వదక్షిణాః | శివమూర్త్యర్చనస్యైతే కోట్యంశేనాపి నో సమాః",
+   "text_en": "tasmāttapāṁsi yajñāṁśca sarve sarvasvadakṣiṇāḥ | śivamūrtyarcanasyaite koṭyaṁśenāpi no samāḥ",
+   "mean_en": "\"Therefore austerities and sacrifices with all one's wealth as gift — these are not equal to the worship of the form of Shiva even by a crore-part.\"",
+   "mean_te": "\"అందుకే తపస్సులూ, సర్వస్వ దక్షిణలతో చేసిన యజ్ఞాలూ — ఇవి శివమూర్తి పూజకు కోటవంతు కూడా సమానం కావు.\""
+  },
+  {
+   "n": 8,
+   "text_deva": "बद्धो वाप्यथ मुक्तो वा पश्चात्पञ्चाक्षरेण चेत् | पूजयन्मुच्यते भक्तो नात्र कार्या विचारणा",
+   "text_te": "బద్ధో వాప్యథ ముక్తో వా పశ్చాత్పఞ్చాక్షరేణ చేత్ | పూజయన్ముచ్యతే భక్తో నాత్ర కార్యా విచారణా",
+   "text_en": "baddho vāpyatha mukto vā paścātpañcākṣareṇa cet | pūjayanmucyate bhakto nātra kāryā vicāraṇā",
+   "mean_en": "\"Whether bound or released, if one afterwards worships with the five-syllable (mantra), the devotee is freed — of this there is no doubt to be made.\"",
+   "mean_te": "\"బద్ధుడైనా, ముక్తుడైనా, తరువాత పంచాక్షరితో పూజిస్తే ఆ భక్తుడు విముక్తుడవుతాడు — ఇందులో సందేహించనవసరం లేదు.\""
+  },
+  {
+   "n": 9,
+   "text_deva": "अरुद्रो वा सरुद्रो वा सूक्तेन शिवमर्चयेत् | यः सकृत्पतितो वापिमूढो वा मुच्यते नरः",
+   "text_te": "అరుద్రో వా సరుద్రో వా సూక్తేన శివమర్చయేత్ | యః సకృత్పతితో వాపిమూఢో వా ముచ్యతే నరః",
+   "text_en": "arudro vā sarudro vā sūktena śivamarcayet | yaḥ sakṛtpatito vāpimūḍho vā mucyate naraḥ",
+   "mean_en": "\"Whether without Rudra or with Rudra, whatever man worships Shiva with the hymn — even once, even fallen, even foolish — he is freed.\"",
+   "mean_te": "\"రుద్రుడు లేకున్నా, ఉన్నా, ఏ మనుష్యుడైనా సూక్తంతో శివుణ్ణి — ఒక్కసారైనా, పతితుడైనా, మూఢుడైనా — పూజిస్తే విముక్తుడవుతాడు.\""
+  },
+  {
+   "n": 10,
+   "text_deva": "षडक्षरेण वा देवं सूक्तमन्त्रेण पूजयेत् | शिवभक्तो जितक्रोधो ह्यलब्धो लब्ध एव च",
+   "text_te": "షడక్షరేణ వా దేవం సూక్తమన్త్రేణ పూజయేత్ | శివభక్తో జితక్రోధో హ్యలబ్ధో లబ్ధ ఏవ చ",
+   "text_en": "ṣaḍakṣareṇa vā devaṁ sūktamantreṇa pūjayet | śivabhakto jitakrodho hyalabdho labdha eva ca",
+   "mean_en": "\"Or one may worship the god with the six-syllable (mantra) or with the hymn-mantra, being a devotee of Shiva, having conquered anger, whether poor or rich.\"",
+   "mean_te": "\"లేదా షడక్షరితో కానీ, సూక్తమంత్రంతో కానీ, శివభక్తుడై, క్రోధాన్ని జయించి — అలభ్యుడైనా, లబ్ధుడైనా — దేవుణ్ణి పూజించవచ్చు.\""
+  },
+  {
+   "n": 11,
+   "text_deva": "अलब्धाल्लब्ध एवात्र विशिष्टो नात्र संशयः | स ब्रह्मांगेन वा तेन सहंसेन विमुच्यते",
+   "text_te": "అలబ్ధాల్లబ్ధ ఏవాత్ర విశిష్టో నాత్ర సంశయః | స బ్రహ్మాంగేన వా తేన సహంసేన విముచ్యతే",
+   "text_en": "alabdhāllabdha evātra viśiṣṭo nātra saṁśayaḥ | sa brahmāṁgena vā tena sahaṁsena vimucyate",
+   "mean_en": "\"Whether not obtained or obtained, in this the one who has obtained is superior — of this there is no doubt; he is released together with the parts of the mantra and with the ganas.\"",
+   "mean_te": "\"అలబ్ధమైనా, లబ్ధమైనా, ఇందులో లబ్ధమైనదే శ్రేష్ఠం — ఇందులో సందేహం లేదు; అతను మంత్రాంగాలతోనూ, గణాలతోనూ సహా విముక్తుడవుతాడు.\""
+  },
+  {
+   "n": 12,
+   "text_deva": "तस्मान्नित्यं शिवं भक्त्या सूक्तमन्त्रेण पूजयेत् | एककालं द्विकालं वा त्रिकालं नित्यमेव वा",
+   "text_te": "తస్మాన్నిత్యం శివం భక్త్యా సూక్తమన్త్రేణ పూజయేత్ | ఏకకాలం ద్వికాలం వా త్రికాలం నిత్యమేవ వా",
+   "text_en": "tasmānnityaṁ śivaṁ bhaktyā sūktamantreṇa pūjayet | ekakālaṁ dvikālaṁ vā trikālaṁ nityameva vā",
+   "mean_en": "\"Therefore one should worship Shiva daily with devotion, by the hymn-mantra, once a day, twice, thrice, or constantly.\"",
+   "mean_te": "\"అందుకే, నిత్యం భక్తితో సూక్తమంత్రంతో శివుణ్ణి — రోజుకు ఒకసారి, రెండుసార్లు, మూడుసార్లు, లేదా నిరంతరం — పూజించాలి.\""
+  },
+  {
+   "n": 13,
+   "text_deva": "ये ऽर्चयंति महादेवं विज्ञेयास्ते महेश्वराः | ज्ञानेनात्मसहायेन नार्चितो भगवाञ्छिवः",
+   "text_te": "యే ఽర్చయంతి మహాదేవం విజ్ఞేయాస్తే మహేశ్వరాః | జ్ఞానేనాత్మసహాయేన నార్చితో భగవాఞ్ఛివః",
+   "text_en": "ye 'rcayaṁti mahādevaṁ vijñeyāste maheśvarāḥ | jñānenātmasahāyena nārcito bhagavāñchivaḥ",
+   "mean_en": "\"Those who worship Mahadeva are to be known as Maheshvaras; but the blessed Shiva is not worshipped by one who has knowledge alone as his helper.\"",
+   "mean_te": "\"మహాదేవుణ్ణి పూజించేవారు మహేశ్వరులుగా తెలుసుకోవాలి; కానీ, జ్ఞానమొక్కటే సహాయంగా కలవాడు భగవంతుడైన శివుణ్ణి పూజించినవాడు కాదు.\""
+  },
+  {
+   "n": 14,
+   "text_deva": "स चिरं संसरत्यस्मिन्संसारे दुःखसागरे | दुर्ल्लभं प्राप्य मानुष्यं मूढो नार्चयते शिवम्",
+   "text_te": "స చిరం సంసరత్యస్మిన్సంసారే దుఃఖసాగరే | దుర్ల్లభం ప్రాప్య మానుష్యం మూఢో నార్చయతే శివమ్",
+   "text_en": "sa ciraṁ saṁsaratyasminsaṁsāre duḥkhasāgare | durllabhaṁ prāpya mānuṣyaṁ mūḍho nārcayate śivam",
+   "mean_en": "\"He wanders long in this samsara, the ocean of sorrow; having obtained the hard-to-get human birth, the fool does not worship Shiva.\"",
+   "mean_te": "\"అతను దుఃఖసాగరమైన ఈ సంసారంలో చాలాకాలం తిరుగుతాడు; దుర్లభమైన మనుష్య జన్మను పొంది, మూఢుడు శివుణ్ణి పూజించడు.\""
+  },
+  {
+   "n": 15,
+   "text_deva": "निष्फलं तस्य तज्जन्म मोक्षाय न भवेद्यतः | दुर्ल्लभं प्राप्य मानुष्यं ये ऽर्चयन्ति पिनाकिनम्",
+   "text_te": "నిష్ఫలం తస్య తజ్జన్మ మోక్షాయ న భవేద్యతః | దుర్ల్లభం ప్రాప్య మానుష్యం యే ఽర్చయన్తి పినాకినమ్",
+   "text_en": "niṣphalaṁ tasya tajjanma mokṣāya na bhavedyataḥ | durllabhaṁ prāpya mānuṣyaṁ ye 'rcayanti pinākinam",
+   "mean_en": "\"His birth is fruitless, since it does not lead to liberation; while those who worship the Pinaki, having obtained the hard-to-get human state,\"",
+   "mean_te": "\"అతని జన్మ మోక్షానికి దారితీయక నిష్ఫలమవుతుంది; కానీ, దుర్లభమైన మనుష్యత్వాన్ని పొంది పినాకిని పూజించేవారి జన్మ\""
+  },
+  {
+   "n": 16,
+   "text_deva": "तेषां हि सफलं जन्म कृतार्थास्ते नरोत्तमाः | भवभक्तिपरा ये च भवप्रणतचेतसः",
+   "text_te": "తేషాం హి సఫలం జన్మ కృతార్థాస్తే నరోత్తమాః | భవభక్తిపరా యే చ భవప్రణతచేతసః",
+   "text_en": "teṣāṁ hi saphalaṁ janma kṛtārthāste narottamāḥ | bhavabhaktiparā ye ca bhavapraṇatacetasaḥ",
+   "mean_en": "\"for them birth is fruitful; they are the accomplished ones, the best of men. Those who are devoted to the love of Bhava, whose minds are bowed to Bhava,\"",
+   "mean_te": "\"వారికి సఫలమవుతుంది; వారే కృతార్థులు, నరోత్తములు. భవప్రేమపరులు, భవునికి వంచిన మనస్సు కలవారు,\""
+  },
+  {
+   "n": 17,
+   "text_deva": "भवसंस्मरणोद्युक्ता न ते दुःखस्य भागिनः | भवनानि मनोज्ञानि विभ्रमाभरणाः स्त्रियः",
+   "text_te": "భవసంస్మరణోద్యుక్తా న తే దుఃఖస్య భాగినః | భవనాని మనోజ్ఞాని విభ్రమాభరణాః స్త్రియః",
+   "text_en": "bhavasaṁsmaraṇodyuktā na te duḥkhasya bhāginaḥ | bhavanāni manojñāni vibhramābharaṇāḥ striyaḥ",
+   "mean_en": "\"intent on remembering Bhava, they have no share in sorrow. Charming dwellings, women with ornaments and grace, and wealth that lasts to the end of discontent — these too are the fruit of the rite of Shiva-worship.\"",
+   "mean_te": "\"భవస్మరణోద్యుక్తులు — వారికి దుఃఖంలో వాటా లేదు. మనోహర నివాసాలూ, విభ్రమ భూషణలైన స్త్రీలూ, అతృప్తి వరకు నిలిచే ధనమూ కూడా శివపూజావిధి ఫలమే.\""
+  },
+  {
+   "n": 18,
+   "text_deva": "धनं चातृप्तिपर्यन्तं शिवपूजाविधेः फलम् | ये वाञ्छन्ति महाभोगान्राज्यं च त्रिदशालये",
+   "text_te": "ధనం చాతృప్తిపర్యన్తం శివపూజావిధేః ఫలమ్ | యే వాఞ్ఛన్తి మహాభోగాన్రాజ్యం చ త్రిదశాలయే",
+   "text_en": "dhanaṁ cātṛptiparyantaṁ śivapūjāvidheḥ phalam | ye vāñchanti mahābhogānrājyaṁ ca tridaśālaye",
+   "mean_en": "\"Those who desire great enjoyments and kingship in the city of the gods, they desire forever the lotus feet of Hara.\"",
+   "mean_te": "\"మహాభోగాలనూ, దేవతల లోకంలో రాజ్యాన్నీ కోరేవారు, నిత్యం హరుని చరణపద్మాలను కోరుకుంటారు.\""
+  },
+  {
+   "n": 19,
+   "text_deva": "ते वाञ्छन्ति सदाकालं हरस्य चरणाम्बुजम् | सौभाग्यं कान्तिमद्रूपं सत्त्वं त्यागार्द्रभावता",
+   "text_te": "తే వాఞ్ఛన్తి సదాకాలం హరస్య చరణామ్బుజమ్ | సౌభాగ్యం కాన్తిమద్రూపం సత్త్వం త్యాగార్ద్రభావతా",
+   "text_en": "te vāñchanti sadākālaṁ harasya caraṇāmbujam | saubhāgyaṁ kāntimadrūpaṁ sattvaṁ tyāgārdrabhāvatā",
+   "mean_en": "\"Beauty, radiant form, goodness, generous feeling, valour and fame in the world — these come to one who worships Shiva.\"",
+   "mean_te": "\"సౌభాగ్యం, కాంతిమంతమైన రూపం, సత్త్వం, త్యాగార్ద్ర భావం, శౌర్యం, లోకంలో కీర్తి — ఇవి శివుని పూజించేవానికి కలుగుతాయి.\""
+  },
+  {
+   "n": 20,
+   "text_deva": "शौर्यं वै जगति ख्यातिश्शिवमर्चयतो भवेत् | तस्मात्सर्वं परित्यज्य शिवैकाहितमानसः",
+   "text_te": "శౌర్యం వై జగతి ఖ్యాతిశ్శివమర్చయతో భవేత్ | తస్మాత్సర్వం పరిత్యజ్య శివైకాహితమానసః",
+   "text_en": "śauryaṁ vai jagati khyātiśśivamarcayato bhavet | tasmātsarvaṁ parityajya śivaikāhitamānasaḥ",
+   "mean_en": "\"Therefore, abandoning everything, with mind set on Shiva alone, one should perform the rite of Shiva-worship, if one desires Shiva for oneself.\"",
+   "mean_te": "\"అందుకే, సర్వాన్ని విడిచి, శివైకాగ్రచిత్తుడై, తనకు శివుణ్ణి కోరుకుంటే శివపూజావిధిని ఆచరించాలి.\""
+  },
+  {
+   "n": 21,
+   "text_deva": "शिवपूजाविधिं कुर्याद्यदीच्छेच्छिवमात्मनः | त्वरितं जीवितं याति त्वरितं याति यौवनम्",
+   "text_te": "శివపూజావిధిం కుర్యాద్యదీచ్ఛేచ్ఛివమాత్మనః | త్వరితం జీవితం యాతి త్వరితం యాతి యౌవనమ్",
+   "text_en": "śivapūjāvidhiṁ kuryādyadīcchecchivamātmanaḥ | tvaritaṁ jīvitaṁ yāti tvaritaṁ yāti yauvanam",
+   "mean_en": "\"Life passes swiftly; youth passes swiftly; disease comes swiftly; therefore the bearer of the Pinaka is to be worshipped.\"",
+   "mean_te": "\"జీవితం వేగంగా గడిచిపోతుంది; యౌవనం వేగంగా పోతుంది; రోగం వేగంగా వస్తుంది; అందుకే పినాకధారి పూజింపదగినవాడు.\""
+  },
+  {
+   "n": 22,
+   "text_deva": "त्वरितं व्याधिरभ्येति तस्मात्पूज्यः पिनाकधृक् | यावन्नायाति मरणं यावन्नाक्रमते जरा",
+   "text_te": "త్వరితం వ్యాధిరభ్యేతి తస్మాత్పూజ్యః పినాకధృక్ | యావన్నాయాతి మరణం యావన్నాక్రమతే జరా",
+   "text_en": "tvaritaṁ vyādhirabhyeti tasmātpūjyaḥ pinākadhṛk | yāvannāyāti maraṇaṁ yāvannākramate jarā",
+   "mean_en": "\"Before death comes, before old age overcomes, before the senses fail, worship Shankara!\"",
+   "mean_te": "\"మరణం రాకముందే, ముసలితనం ఆక్రమించకముందే, ఇంద్రియాలు క్షీణించకముందే, శంకరుణ్ణి పూజించు!\""
+  },
+  {
+   "n": 23,
+   "text_deva": "यावन्नेन्द्रियवैकल्यं तावत्पूजय शंकरम् | न शिवार्चनतुल्यो ऽस्ति धर्मो ऽन्यो भुवनत्रये",
+   "text_te": "యావన్నేన్ద్రియవైకల్యం తావత్పూజయ శంకరమ్ | న శివార్చనతుల్యో ఽస్తి ధర్మో ఽన్యో భువనత్రయే",
+   "text_en": "yāvannendriyavaikalyaṁ tāvatpūjaya śaṁkaram | na śivārcanatulyo 'sti dharmo 'nyo bhuvanatraye",
+   "mean_en": "\"In the three worlds there is no dharma equal to Shiva-worship; knowing this, Sadashiva is to be worshipped with effort.\"",
+   "mean_te": "\"ముల్లోకాలలో శివార్చనకు సమానమైన ధర్మం మరొకటి లేదు; ఇది తెలుసుకుని, ప్రయత్నంతో సదాశివుణ్ణి పూజించాలి.\""
+  },
+  {
+   "n": 24,
+   "text_deva": "इति विज्ञाय यत्नेन पूजनीयस्सदाशिवः | द्वारयागं जवनिकां परिवारबलिक्रियाम्",
+   "text_te": "ఇతి విజ్ఞాయ యత్నేన పూజనీయస్సదాశివః | ద్వారయాగం జవనికాం పరివారబలిక్రియామ్",
+   "text_en": "iti vijñāya yatnena pūjanīyassadāśivaḥ | dvārayāgaṁ javanikāṁ parivārabalikriyām",
+   "mean_en": "\"The worship at the door, the curtain (offering), the offering of bali to the attendants, the daily festival — one should perform these if one worships in the temple.\"",
+   "mean_te": "\"ద్వారపూజ, జవనిక (తెర) పూజ, పరివార బలులు, నిత్యోత్సవం — ఆలయంలో పూజించేవారైతే ఇవి చేయాలి.\""
+  },
+  {
+   "n": 25,
+   "text_deva": "नित्योत्सवं च कुर्वीत प्रसादे यदि पूजयेत् | हविर्निवेदनादूर्ध्वं स्वयं चानुचरो ऽपि वा",
+   "text_te": "నిత్యోత్సవం చ కుర్వీత ప్రసాదే యది పూజయేత్ | హవిర్నివేదనాదూర్ధ్వం స్వయం చానుచరో ఽపి వా",
+   "text_en": "nityotsavaṁ ca kurvīta prasāde yadi pūjayet | havirnivedanādūrdhvaṁ svayaṁ cānucaro 'pi vā",
+   "mean_en": "\"After the offering of the oblation, he himself, or his attendant, should give bali to the deity's attendants and the temple (servants) in due order.\"",
+   "mean_te": "\"హవిర్నివేదన తరువాత, తానే గానీ, తన అనుచరుడు గానీ, దేవుని పరివారానికీ, ఆలయ సేవకులకూ క్రమంగా బలిని ఇవ్వాలి.\""
+  },
+  {
+   "n": 26,
+   "text_deva": "प्रसादपरिवारेभ्यो बलिं दद्याद्यथाक्रमम् | निर्गम्य सह वादित्रैस्तदाशाभिमुखः स्थितः",
+   "text_te": "ప్రసాదపరివారేభ్యో బలిం దద్యాద్యథాక్రమమ్ | నిర్గమ్య సహ వాదిత్రైస్తదాశాభిముఖః స్థితః",
+   "text_en": "prasādaparivārebhyo baliṁ dadyādyathākramam | nirgamya saha vāditraistadāśābhimukhaḥ sthitaḥ",
+   "mean_en": "\"Coming out with instruments, then facing the deity's direction, he should offer flowers, incense, a lamp, and food together with water.\"",
+   "mean_te": "\"వాద్యాలతో బయటికి వచ్చి, దేవుని దిక్కుకు ఎదురుగా నిలిచి, పుష్పం, ధూపం, దీపం, అన్నం జలంతో సహా సమర్పించాలి.\""
+  },
+  {
+   "n": 27,
+   "text_deva": "पुष्पं धूपं च दीपञ्च दद्यादन्नं जलैः सह | ततो दद्यान्महापीठे तिष्ठन्बलिमुदङ्मुखः",
+   "text_te": "పుష్పం ధూపం చ దీపఞ్చ దద్యాదన్నం జలైః సహ | తతో దద్యాన్మహాపీఠే తిష్ఠన్బలిముదఙ్ముఖః",
+   "text_en": "puṣpaṁ dhūpaṁ ca dīpañca dadyādannaṁ jalaiḥ saha | tato dadyānmahāpīṭhe tiṣṭhanbalimudaṅmukhaḥ",
+   "mean_en": "\"Then, standing on the great pedestal facing north, he should offer the bali.\"",
+   "mean_te": "\"తరువాత మహాపీఠంపై ఉత్తరాభిముఖంగా నిలిచి బలిని సమర్పించాలి.\""
+  },
+  {
+   "n": 28,
+   "text_deva": "ततो निवेदितं देवे यत्तदन्नादिकं पुरा | तत्सर्वं सावशेषं वा चण्डाय विनिवेदयेत्",
+   "text_te": "తతో నివేదితం దేవే యత్తదన్నాదికం పురా | తత్సర్వం సావశేషం వా చణ్డాయ వినివేదయేత్",
+   "text_en": "tato niveditaṁ deve yattadannādikaṁ purā | tatsarvaṁ sāvaśeṣaṁ vā caṇḍāya vinivedayet",
+   "mean_en": "\"Then all the food and the like that was previously offered to the god, all that, with the remnants, he should offer to Chanda (the fierce one).\"",
+   "mean_te": "\"తరువాత పూర్వం దేవునికి నివేదించిన అన్నాదులన్నీ, శేషంతో సహా, చండునికి నివేదించాలి.\""
+  },
+  {
+   "n": 29,
+   "text_deva": "हुत्वा च विधिवत्पश्चात्पूजाशेषं समापयेत् | कृत्वा प्रयोगं विधिवद्यावन्मन्त्रं जपं ततः",
+   "text_te": "హుత్వా చ విధివత్పశ్చాత్పూజాశేషం సమాపయేత్ | కృత్వా ప్రయోగం విధివద్యావన్మన్త్రం జపం తతః",
+   "text_en": "hutvā ca vidhivatpaścātpūjāśeṣaṁ samāpayet | kṛtvā prayogaṁ vidhivadyāvanmantraṁ japaṁ tataḥ",
+   "mean_en": "\"Having offered oblations according to rule and completed the rest of the worship, having performed the invocation by rule, he should then repeat the mantra.\"",
+   "mean_te": "\"విధిగా హోమాలు చేసి, పూజాశేషాన్ని పూర్తి చేసి, విధిగా ప్రయోగం చేసి, తరువాత మంత్ర జపం చేయాలి.\""
+  },
+  {
+   "n": 30,
+   "text_deva": "नित्योत्सवं प्रकुर्वीत यथोक्तं शिवशासने | विपुले तैजसे पात्रे रक्तपद्मोपशोभिते",
+   "text_te": "నిత్యోత్సవం ప్రకుర్వీత యథోక్తం శివశాసనే | విపులే తైజసే పాత్రే రక్తపద్మోపశోభితే",
+   "text_en": "nityotsavaṁ prakurvīta yathoktaṁ śivaśāsane | vipule taijase pātre raktapadmopaśobhite",
+   "mean_en": "\"He should perform the daily festival as told in the ordinance of Shiva. In a large, luminous vessel adorned with red lotuses,\"",
+   "mean_te": "\"శివశాసనంలో చెప్పినట్లు నిత్యోత్సవాన్ని జరిపించాలి. ఎర్ర తామరలతో అలంకృతమైన, విశాలమైన, తేజోమయ పాత్రలో,\""
+  },
+  {
+   "n": 31,
+   "text_deva": "अस्त्रं पाशुपतं दिव्यं तत्रावाह्य समर्चयेत् | शिवस्यारोप्यः तत्पात्रं द्विजस्यालंकृतस्य च",
+   "text_te": "అస్త్రం పాశుపతం దివ్యం తత్రావాహ్య సమర్చయేత్ | శివస్యారోప్యః తత్పాత్రం ద్విజస్యాలంకృతస్య చ",
+   "text_en": "astraṁ pāśupataṁ divyaṁ tatrāvāhya samarcayet | śivasyāropyaḥ tatpātraṁ dvijasyālaṁkṛtasya ca",
+   "mean_en": "\"invoking the divine weapon (astra) of the Pashupata (mantra), he should worship there; the vessel is to be assigned to a brahmin who is adorned with the investiture of the weapon and holds a shining staff,\"",
+   "mean_te": "\"దివ్యమైన పాశుపతాస్త్రాన్ని ఆవాహన చేసి అక్కడ పూజించాలి; ఆ పాత్రను, అస్త్రన్యాసంతో అలంకృతుడై, ప్రకాశించే దండం ధరించిన బ్రాహ్మణునకు అప్పగించాలి.\""
+  },
+  {
+   "n": 32,
+   "text_deva": "न्यस्तास्त्रवपुषा तेन दीप्तयष्टिधरस्य च | प्रासादपरिवारेभ्यो बहिर्मंगलनिःस्वनैः",
+   "text_te": "న్యస్తాస్త్రవపుషా తేన దీప్తయష్టిధరస్య చ | ప్రాసాదపరివారేభ్యో బహిర్మంగలనిఃస్వనైః",
+   "text_en": "nyastāstravapuṣā tena dīptayaṣṭidharasya ca | prāsādaparivārebhyo bahirmaṁgalaniḥsvanaiḥ",
+   "mean_en": "\"…and to the servants of the temple outside, with auspicious sounds,\"",
+   "mean_te": "\"…ఆలయం వెలుపల ఉన్న పరివారానికీ, మంగళకరమైన నాదాలతో,\""
+  },
+  {
+   "n": 33,
+   "text_deva": "नृत्यगेयादिभिश्चैव सह दीपध्वजादिभिः | प्रदक्षिणत्रयं कृत्वा न द्रुतं चाविलम्बितम्",
+   "text_te": "నృత్యగేయాదిభిశ్చైవ సహ దీపధ్వజాదిభిః | ప్రదక్షిణత్రయం కృత్వా న ద్రుతం చావిలమ్బితమ్",
+   "text_en": "nṛtyageyādibhiścaiva saha dīpadhvajādibhiḥ | pradakṣiṇatrayaṁ kṛtvā na drutaṁ cāvilambitam",
+   "mean_en": "\"with dancing, singing and the like, with lamps and banners, having circumambulated three times — neither hastily nor slowly —\"",
+   "mean_te": "\"నృత్య-గానాదులతో, దీప-ధ్వజాలతో, మూడుసార్లు ప్రదక్షిణ చేసి — తొందరగా కాకుండా, ఆలస్యం కాకుండా —\""
+  },
+  {
+   "n": 34,
+   "text_deva": "महापीठं समावृत्य त्रिःप्रदक्षिणयोगतः | पुनः प्रविष्टो द्वारस्थो यजमानः कृताञ्जलिः | आदायाभ्यंतरं नीत्वा ह्यस्त्रमुद्वासयेत्ततः",
+   "text_te": "మహాపీఠం సమావృత్య త్రిఃప్రదక్షిణయోగతః | పునః ప్రవిష్టో ద్వారస్థో యజమానః కృతాఞ్జలిః | ఆదాయాభ్యంతరం నీత్వా హ్యస్త్రముద్వాసయేత్తతః",
+   "text_en": "mahāpīṭhaṁ samāvṛtya triḥpradakṣiṇayogataḥ | punaḥ praviṣṭo dvārastho yajamānaḥ kṛtāñjaliḥ | ādāyābhyaṁtaraṁ nītvā hyastramudvāsayettataḥ",
+   "mean_en": "\"having made three circumambulations around the great pedestal, the sacrificer, re-entering and standing at the door with joined palms, should lead the weapon (deity) inside and then dismiss it.\"",
+   "mean_te": "\"మహాపీఠాన్ని మూడుసార్లు ప్రదక్షిణ చేసి, మళ్లీ లోపలికి ప్రవేశించి, ద్వారంలో చేతులు జోడించి నిలిచిన యజమానుడు, అస్త్రాన్ని లోపలికి తీసుకువెళ్లి, తరువాత ఉద్వాసన చేయాలి.\""
+  },
+  {
+   "n": 35,
+   "text_deva": "प्रदक्षिणादिकं कृत्वा यथापूर्वोदितं क्रमात् | आदाय चाष्टपुष्पाणि पूजामथ समापयेत्",
+   "text_te": "ప్రదక్షిణాదికం కృత్వా యథాపూర్వోదితం క్రమాత్ | ఆదాయ చాష్టపుష్పాణి పూజామథ సమాపయేత్",
+   "text_en": "pradakṣiṇādikaṁ kṛtvā yathāpūrvoditaṁ kramāt | ādāya cāṣṭapuṣpāṇi pūjāmatha samāpayet",
+   "mean_en": "\"Having performed the circumambulation and the rest in the order told before, taking the eight flowers, he should then complete the worship.\"",
+   "mean_te": "\"పూర్వం చెప్పిన క్రమంలో ప్రదక్షిణాదులు చేసి, ఎనిమిది పుష్పాలను తీసుకుని, తరువాత పూజను పూర్తి చేయాలి.\""
+  }
+ ]
+}

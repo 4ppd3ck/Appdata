@@ -1,0 +1,953 @@
+{
+ "kanda": "vidyesvara-samhita",
+ "n": 16,
+ "title_deva": "पार्थिवप्रतिमापूजाविधानं ब्रूहि सत्तम",
+ "title_te": "పార్థివప్రతిమాపూజావిధానం బ్రూహి సత్తమ",
+ "title_iast": "pārthivapratimāpūjāvidhānaṁ brūhi sattama",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ऋषय ऊचुः पार्थिवप्रतिमापूजाविधानं ब्रूहि सत्तम | येन पूजाविधानेन सर्वाभिष्टमवाप्यते",
+   "text_te": "ఋషయ ఊచుః పార్థివప్రతిమాపూజావిధానం బ్రూహి సత్తమ | యేన పూజావిధానేన సర్వాభిష్టమవాప్యతే",
+   "text_en": "ṛṣaya ūcuḥ pārthivapratimāpūjāvidhānaṁ brūhi sattama | yena pūjāvidhānena sarvābhiṣṭamavāpyate",
+   "mean_en": "The sages said: 'O best of beings, tell us the procedure for worshipping an image made of clay, by which mode of worship every desired object is attained.'",
+   "mean_te": "శౌనకాది ఋషులు అడిగారు: 'ఉత్తముడా, మట్టితో చేసిన విగ్రహ పూజావిధానాన్ని చెప్పండి; ఆ పూజావిధానం ద్వారా అన్ని కోరికలు నెరవేరుతాయి.'"
+  },
+  {
+   "n": 2,
+   "text_deva": "सुसाधुपृष्टं युष्माभिः सदा सर्वार्थदायकम् | सद्यो दुःखस्य शमनं शृणुत प्रब्रवीमि वः",
+   "text_te": "సుసాధుపృష్టం యుష్మాభిః సదా సర్వార్థదాయకమ్ | సద్యో దుఃఖస్య శమనం శృణుత ప్రబ్రవీమి వః",
+   "text_en": "susādhupṛṣṭaṁ yuṣmābhiḥ sadā sarvārthadāyakam | sadyo duḥkhasya śamanaṁ śṛṇuta prabravīmi vaḥ",
+   "mean_en": "Suta replied: 'You have asked well; this worship always bestows all goals and instantly dispels sorrow. Listen, I shall declare it to you.'",
+   "mean_te": "సూతుడు అన్నాడు: 'మీరు బాగా అడిగారు; ఈ పూజ ఎల్లప్పుడూ అన్ని సిద్ధులను ఇచ్చి, వెంటనే దుఃఖాన్ని తగ్గిస్తుంది. వినండి, నేను చెబుతాను.'"
+  },
+  {
+   "n": 3,
+   "text_deva": "अपमृत्युहरं कालमृत्योश्चापि विनाशनम् | सद्यः कलत्रपुत्रादिधनधान्यप्रदं द्विजाः",
+   "text_te": "అపమృత్యుహరం కాలమృత్యోశ్చాపి వినాశనమ్ | సద్యః కలత్రపుత్రాదిధనధాన్యప్రదం ద్విజాః",
+   "text_en": "apamṛtyuharaṁ kālamṛtyoścāpi vināśanam | sadyaḥ kalatraputrādidhanadhānyapradaṁ dvijāḥ",
+   "mean_en": "It removes untimely death and destroys death imposed by time (kalamrityu); it promptly grants wife, sons, wealth and grain, O twice-born.",
+   "mean_te": "ఈ పూజ అకాలమృత్యువును హరించి, కాలమృత్యువును నాశనం చేస్తుంది; భార్యాపిల్లలు, ధనం, ధాన్యం మొదలైనవి వెంటనే ప్రసాదిస్తుంది, ద్విజులారా."
+  },
+  {
+   "n": 4,
+   "text_deva": "अन्नादिभोज्यं वस्त्रादिसर्वमुत्पद्यते यतः | ततो मृदादिप्रतिमापूजाभीष्टप्रदा भुवि",
+   "text_te": "అన్నాదిభోజ్యం వస్త్రాదిసర్వముత్పద్యతే యతః | తతో మృదాదిప్రతిమాపూజాభీష్టప్రదా భువి",
+   "text_en": "annādibhojyaṁ vastrādisarvamutpadyate yataḥ | tato mṛdādipratimāpūjābhīṣṭapradā bhuvi",
+   "mean_en": "From it arise food and other things to eat, clothes and everything else; therefore the worship of images made of clay and the like grants desired boons on earth.",
+   "mean_te": "దాని నుండి అన్నాది భోజ్యాలు, వస్త్రాదులు అన్నీ పుడతాయి; కాబట్టి మట్టి మొదలైన వాటి విగ్రహ పూజలు కోరిన ఫలాలను ప్రసాదిస్తాయి."
+  },
+  {
+   "n": 5,
+   "text_deva": "पुरुषाणां च नारीणामधिकारोत्र निश्चितम् | नद्यां तडागे कूपे वा जलांतर्मृदमाहरेत्",
+   "text_te": "పురుషాణాం చ నారీణామధికారోత్ర నిశ్చితమ్ | నద్యాం తడాగే కూపే వా జలాంతర్మృదమాహరేత్",
+   "text_en": "puruṣāṇāṁ ca nārīṇāmadhikārotra niścitam | nadyāṁ taḍāge kūpe vā jalāṁtarmṛdamāharet",
+   "mean_en": "For men as well as women the right to perform this worship is here definitely established; from a river, a tank or a well one should take the clay lying beneath the water.",
+   "mean_te": "పురుషులకు, స్త్రీలకు సమానంగా ఈ పూజకు అధికారం నిశ్చయించబడింది; నది, చెరువు లేదా బావిలో నీటి అడుగున ఉన్న మట్టిని తీసుకోవాలి."
+  },
+  {
+   "n": 6,
+   "text_deva": "संशोध्य गंधचूर्णेन पेषयित्वा सुमंडपे | हस्तेन प्रतिमां कुर्यात्क्षीरेण च सुसंस्कृताम्",
+   "text_te": "సంశోధ్య గంధచూర్ణేన పేషయిత్వా సుమండపే | హస్తేన ప్రతిమాం కుర్యాత్క్షీరేణ చ సుసంస్కృతామ్",
+   "text_en": "saṁśodhya gaṁdhacūrṇena peṣayitvā sumaṁḍape | hastena pratimāṁ kuryātkṣīreṇa ca susaṁskṛtām",
+   "mean_en": "Having purified that clay and kneaded it well with fragrant powder, one should fashion the image by hand, refining it well with milk.",
+   "mean_te": "ఆ మట్టిని శుద్ధిచేసి, సుగంధ చూర్ణంతో బాగా నులిమి, పాలతో మెరుగుపరచి, చేతితో విగ్రహాన్ని తయారుచేయాలి."
+  },
+  {
+   "n": 7,
+   "text_deva": "अंगप्रत्यंगकोपेतामायुधैश्च समन्विताम् | पद्मासनस्थितां कृत्वा पूजयेदादरेण हि",
+   "text_te": "అంగప్రత్యంగకోపేతామాయుధైశ్చ సమన్వితామ్ | పద్మాసనస్థితాం కృత్వా పూజయేదాదరేణ హి",
+   "text_en": "aṁgapratyaṁgakopetāmāyudhaiśca samanvitām | padmāsanasthitāṁ kṛtvā pūjayedādareṇa hi",
+   "mean_en": "The image should be endowed with limbs and sub-limbs and furnished with weapons, and seated on a lotus seat; having made it thus one should worship it with devotion.",
+   "mean_te": "అవయవ, ప్రత్యంగాలతో కూడినదిగా, ఆయుధాలతో సహితంగా, పద్మాసనంపై స్థితంగా చేసి, ఆ విగ్రహాన్ని భక్తితో పూజించాలి."
+  },
+  {
+   "n": 8,
+   "text_deva": "विघ्नेशादित्यविष्णूनामंबायाश्च शिवस्य च | शिवस्यशिवलिंगं च सर्वदा पूजयेद्द्विज",
+   "text_te": "విఘ్నేశాదిత్యవిష్ణూనామంబాయాశ్చ శివస్య చ | శివస్యశివలింగం చ సర్వదా పూజయేద్ద్విజ",
+   "text_en": "vighneśādityaviṣṇūnāmaṁbāyāśca śivasya ca | śivasyaśivaliṁgaṁ ca sarvadā pūjayeddvija",
+   "mean_en": "One should always worship the images of Vighnesha, Aditya (the Sun), Vishnu, Amba (Parvati) and Shiva, and also the Shiva-linga, O twice-born.",
+   "mean_te": "విఘ్నేశుడు, ఆదిత్యుడు, విష్ణువు, పార్వతీదేవి (అంబ), శివుడు మొదలైన వారి విగ్రహాలను, అలాగే శివలింగాన్ని ఎల్లప్పుడూ పూజించాలి, ద్విజులారా."
+  },
+  {
+   "n": 9,
+   "text_deva": "षोडशैरुपचारैश्च कुर्यात्तत्फलसिद्धये | पुष्पेण प्रोक्षणं कुर्यादभिषेकं समंत्रकम्",
+   "text_te": "షోడశైరుపచారైశ్చ కుర్యాత్తత్ఫలసిద్ధయే | పుష్పేణ ప్రోక్షణం కుర్యాదభిషేకం సమంత్రకమ్",
+   "text_en": "ṣoḍaśairupacāraiśca kuryāttatphalasiddhaye | puṣpeṇa prokṣaṇaṁ kuryādabhiṣekaṁ samaṁtrakam",
+   "mean_en": "To attain its fruit the worship should be performed with the sixteen services (shodashopachara); one should sprinkle it with flowers and perform the abhisheka with mantras.",
+   "mean_te": "ఫలసిద్ధి కొరకు షోడశోపచారాలతో పూజ చేయాలి; పువ్వులతో ప్రోక్షణం చేసి, మంత్రపూర్వకంగా అభిషేకం చేయాలి."
+  },
+  {
+   "n": 10,
+   "text_deva": "शाल्यन्नेनैव नैवेद्यं सर्वं कुडवमानतः | गृहे तु कुडवं ज्ञेयं मानुषे प्रस्थमिष्यते",
+   "text_te": "శాల్యన్నేనైవ నైవేద్యం సర్వం కుడవమానతః | గృహే తు కుడవం జ్ఞేయం మానుషే ప్రస్థమిష్యతే",
+   "text_en": "śālyannenaiva naivedyaṁ sarvaṁ kuḍavamānataḥ | gṛhe tu kuḍavaṁ jñeyaṁ mānuṣe prasthamiṣyate",
+   "mean_en": "The naivedya (food offering) should consist entirely of cooked shali rice, measured by the kudava; in the house the kudava is the proper measure, while a prastha is prescribed in human reckoning.",
+   "mean_te": "శాలి అన్నంతో కూడిన నైవేద్యం అంతా కుడవ కొలతతో ఉండాలి; ఇంట్లో కుడవ కొలత యోగ్యం, మానవ కొలతలో ప్రస్థ నిర్దేశించబడింది."
+  },
+  {
+   "n": 11,
+   "text_deva": "दैवे प्रस्थत्रयं योग्यं स्वयंभोः प्रस्थपंचकम् | एवं पूर्णफलं विद्यादधिकं वै द्वयं त्रयम्",
+   "text_te": "దైవే ప్రస్థత్రయం యోగ్యం స్వయంభోః ప్రస్థపంచకమ్ | ఏవం పూర్ణఫలం విద్యాదధికం వై ద్వయం త్రయమ్",
+   "text_en": "daive prasthatrayaṁ yogyaṁ svayaṁbhoḥ prasthapaṁcakam | evaṁ pūrṇaphalaṁ vidyādadhikaṁ vai dvayaṁ trayam",
+   "mean_en": "For worship of installed deities three prasthas are proper, and for a svayambhu (self-manifest) image five prasthas; by this the full fruit is attained, while two or three measures yield yet more.",
+   "mean_te": "ప్రతిష్ఠిత దేవతలకు మూడు ప్రస్థములు యోగ్యం; స్వయంభూ విగ్రహానికి ఐదు ప్రస్థములు; ఈ విధంగా పూర్ణఫలం లభించి, రెండు మూడు ప్రస్థములతో అధిక ఫలం లభిస్తుంది."
+  },
+  {
+   "n": 12,
+   "text_deva": "सहस्रपूजया सत्यं सत्यलोकं लभेद्द्विजः | द्वादशांगुलमायामं द्विगुणं च ततोऽधिकम्",
+   "text_te": "సహస్రపూజయా సత్యం సత్యలోకం లభేద్ద్విజః | ద్వాదశాంగులమాయామం ద్విగుణం చ తతోఽధికమ్",
+   "text_en": "sahasrapūjayā satyaṁ satyalokaṁ labheddvijaḥ | dvādaśāṁgulamāyāmaṁ dviguṇaṁ ca tato'dhikam",
+   "mean_en": "By a thousand such worships a twice-born attains the truth, the world of Satya (Brahmaloka); the image may be twelve angulas in length, or double that and still greater.",
+   "mean_te": "వెయ్యి పూజల ద్వారా ద్విజుడు సత్యలోకాన్ని పొందుతాడు; విగ్రహం పన్నెండు అంగుళాల కొలత గాని, అంతకంటే రెట్టింపు లేదా అంతకంటే ఎక్కువ గాని ఉండాలి."
+  },
+  {
+   "n": 13,
+   "text_deva": "प्रमाणमंगुलस्यैकं तदूर्ध्वं पंचकत्रयम् | अयोदारुकृतं पात्रं शिवमित्युच्यते बुधैः",
+   "text_te": "ప్రమాణమంగులస్యైకం తదూర్ధ్వం పంచకత్రయమ్ | అయోదారుకృతం పాత్రం శివమిత్యుచ్యతే బుధైః",
+   "text_en": "pramāṇamaṁgulasyaikaṁ tadūrdhvaṁ paṁcakatrayam | ayodārukṛtaṁ pātraṁ śivamityucyate budhaiḥ",
+   "mean_en": "The least measure is one angula, and above that the measures increase by five and three (angulas); a vessel made of ayo-daru wood is called 'shiva' by the wise.",
+   "mean_te": "కనీస కొలత ఒక అంగుళం; దానికి పైగా ఐదు, మూడు అంగుళాల కొలతలుంటాయి; 'అయోదారు' చెక్కతో చేసిన పాత్రను పండితులు 'శివ' అని పిలుస్తారు."
+  },
+  {
+   "n": 14,
+   "text_deva": "तदष्टभागः प्रस्थः स्यात्तच्चतुःकुडवं मतम् | दशप्रस्थं शतप्रस्थं सहस्रप्रस्थमेव च",
+   "text_te": "తదష్టభాగః ప్రస్థః స్యాత్తచ్చతుఃకుడవం మతమ్ | దశప్రస్థం శతప్రస్థం సహస్రప్రస్థమేవ చ",
+   "text_en": "tadaṣṭabhāgaḥ prasthaḥ syāttaccatuḥkuḍavaṁ matam | daśaprasthaṁ śataprasthaṁ sahasraprasthameva ca",
+   "mean_en": "An eighth part of that (shiva vessel) is a prastha, which is considered four kudavas; measures such as ten prasthas, a hundred prasthas and even a thousand prasthas are used.",
+   "mean_te": "ఆ (శివ పాత్ర) కొలతలో ఎనిమిదో భాగం ప్రస్థ; అదే నాలుగు కుడవలుగా భావింపబడుతుంది; పది ప్రస్థలు, వంద ప్రస్థలు, వెయ్యి ప్రస్థలు కొలతలు ఉపయోగింపబడతాయి."
+  },
+  {
+   "n": 15,
+   "text_deva": "जलतैलादिगंधानां यथायोग्यं च मानतः | मानुषार्षस्वयंभूनां महापूजेति कथ्यते",
+   "text_te": "జలతైలాదిగంధానాం యథాయోగ్యం చ మానతః | మానుషార్షస్వయంభూనాం మహాపూజేతి కథ్యతే",
+   "text_en": "jalatailādigaṁdhānāṁ yathāyogyaṁ ca mānataḥ | mānuṣārṣasvayaṁbhūnāṁ mahāpūjeti kathyate",
+   "mean_en": "Water, oil and other substances along with the fragrant materials are measured as appropriate; this worship with such measures is called mahapuja (the great worship) for human-made, rishi-installed and svayambhu images.",
+   "mean_te": "నీరు, నూనె మొదలైన ద్రవ్యాలను, గంధాది సుగంధ ద్రవ్యాలను యథాయోగ్యంగా కొలవాలి; మానవ, ఆర్ష, స్వయంభూ విగ్రహాలకు ఇది 'మహాపూజ' అని పిలువబడుతుంది."
+  },
+  {
+   "n": 16,
+   "text_deva": "अभिषेकादात्मशुद्धिर्गंधात्पुण्यमवाप्यते | आयुस्तृप्तिश्च नैवेद्याद्धूपादर्थमवाप्यते १६* तु. मण्डलब्राह्मणोपनिषत्",
+   "text_te": "అభిషేకాదాత్మశుద్ధిర్గంధాత్పుణ్యమవాప్యతే | ఆయుస్తృప్తిశ్చ నైవేద్యాద్ధూపాదర్థమవాప్యతే १६* తు. మణ్డలబ్రాహ్మణోపనిషత్",
+   "text_en": "abhiṣekādātmaśuddhirgaṁdhātpuṇyamavāpyate | āyustṛptiśca naivedyāddhūpādarthamavāpyate १६* tu. maṇḍalabrāhmaṇopaniṣat",
+   "mean_en": "From the abhisheka (bathing) comes purification of the self, from gandha (sandal paste) merit, from naivedya long life and contentment, and from dhoopa (incense) wealth; this verse is cited from the Mandala-brahmana Upanishad.",
+   "mean_te": "అభిషేకం వల్ల ఆత్మశుద్ధి, గంధం వల్ల పుణ్యం, నైవేద్యం వల్ల ఆయుస్సు మరియు తృప్తి, ధూపం వల్ల ధనం లభిస్తాయి; ఈ పద్యం మండలబ్రాహ్మణోపనిషత్తు నుండి ఉదహరించబడింది."
+  },
+  {
+   "n": 17,
+   "text_deva": "दीपाज्ज्ञानमवाप्नोति तांबूलाद्भोगमाप्नुयात् | तस्मात्स्नानादिकं षट्कं प्रयत्नेन प्रसाधयेत्",
+   "text_te": "దీపాజ్జ్ఞానమవాప్నోతి తాంబూలాద్భోగమాప్నుయాత్ | తస్మాత్స్నానాదికం షట్కం ప్రయత్నేన ప్రసాధయేత్",
+   "text_en": "dīpājjñānamavāpnoti tāṁbūlādbhogamāpnuyāt | tasmātsnānādikaṁ ṣaṭkaṁ prayatnena prasādhayet",
+   "mean_en": "From the deepa (lamp) one attains knowledge and from taamboola (betel) one obtains enjoyment; therefore one should diligently accomplish this set of six services beginning with the ceremonial bath.",
+   "mean_te": "దీపం వల్ల జ్ఞానం, తాంబూలం వల్ల భోగం లభిస్తాయి; కాబట్టి స్నానాదిగా ఉన్న ఈ ఆరు ఉపచారాలను శ్రద్ధగా ఆచరించాలి."
+  },
+  {
+   "n": 18,
+   "text_deva": "नमस्कारो जपश्चैव सर्वाभीष्टप्रदावुभौ | पूजान्ते च सदाकार्यौ भोगमोक्षार्थिभिर्नरैः",
+   "text_te": "నమస్కారో జపశ్చైవ సర్వాభీష్టప్రదావుభౌ | పూజాన్తే చ సదాకార్యౌ భోగమోక్షార్థిభిర్నరైః",
+   "text_en": "namaskāro japaścaiva sarvābhīṣṭapradāvubhau | pūjānte ca sadākāryau bhogamokṣārthibhirnaraiḥ",
+   "mean_en": "Salutation (namaskara) and japa both bestow all desired things; these two acts of worship should always be performed by people seeking enjoyment (bhoga) and liberation (moksha).",
+   "mean_te": "నమస్కారము మరియు జపము అను రెండు సర్వాభీష్టాలను ప్రసాదించును; భోగ మోక్షాలను కోరు మానవులు ఈ రెండు పూజారూప కర్మలను ఎల్లప్పుడూ ఆచరింపవలెను."
+  },
+  {
+   "n": 19,
+   "text_deva": "संपूज्य मनसा पूर्वं कुर्यात्तत्तत्सदा नरः | देवानां पूजया चैव तत्तल्लोकमवाप्नुयात्",
+   "text_te": "సంపూజ్య మనసా పూర్వం కుర్యాత్తత్తత్సదా నరః | దేవానాం పూజయా చైవ తత్తల్లోకమవాప్నుయాత్",
+   "text_en": "saṁpūjya manasā pūrvaṁ kuryāttattatsadā naraḥ | devānāṁ pūjayā caiva tattallokamavāpnuyāt",
+   "mean_en": "A person should first worship mentally and then always perform these (namaskara and japa); by worshipping the gods one attains their respective worlds.",
+   "mean_te": "మానవుడు ముందుగా మనసులో పూజించి, వీటిని (నమస్కార, జపములను) ఎల్లప్పుడూ ఆచరింపవలెను; దేవతలను పూజించుటచే ఆయా దేవతల లోకములను పొందును."
+  },
+  {
+   "n": 20,
+   "text_deva": "तदवांतरलोके च यथेष्टं भोग्यमाप्यते | तद्विशेषान्प्रवक्ष्यामि शृणुत श्रद्धया द्विजाः",
+   "text_te": "తదవాంతరలోకే చ యథేష్టం భోగ్యమాప్యతే | తద్విశేషాన్ప్రవక్ష్యామి శృణుత శ్రద్ధయా ద్విజాః",
+   "text_en": "tadavāṁtaraloke ca yatheṣṭaṁ bhogyamāpyate | tadviśeṣānpravakṣyāmi śṛṇuta śraddhayā dvijāḥ",
+   "mean_en": "In the inner worlds of those gods, enjoyables are obtained as one wishes. I shall now declare those particulars; listen with faith, O twice-born.",
+   "mean_te": "ఆ దేవతల లోకముల అంతర్భాగములలో భోగ్యములు ఇచ్ఛిత్తులవలె లభించును. ఆ విశేషములను నేను చెప్పుచున్నాను; ఓ ద్విజులారా, శ్రద్ధతో వినుడి."
+  },
+  {
+   "n": 21,
+   "text_deva": "विघ्नेशपूजया सम्यग्भूर्लोकेऽभीष्टमाप्नुयात् | शुक्रवारे चतुर्थ्यां च सिते श्रावणभाद्र के",
+   "text_te": "విఘ్నేశపూజయా సమ్యగ్భూర్లోకేఽభీష్టమాప్నుయాత్ | శుక్రవారే చతుర్థ్యాం చ సితే శ్రావణభాద్ర కే",
+   "text_en": "vighneśapūjayā samyagbhūrloke'bhīṣṭamāpnuyāt | śukravāre caturthyāṁ ca site śrāvaṇabhādra ke",
+   "mean_en": "By duly worshipping Vighneshvara (Vinayaka) one obtains the desired things in the world of earth. On a Friday, on the fourth tithi of the bright fortnight, in the months of Shravana and Bhadrapada...",
+   "mean_te": "విఘ్నేశుని (వినాయకుని) సమ్యక్ముగా పూజించుటచే భూలోకంలో అభీష్టమును పొందును; శుక్రవారమున, శుక్లపక్ష చతుర్థిన, శ్రావణ భాద్రపద మాసములలో..."
+  },
+  {
+   "n": 22,
+   "text_deva": "भिषगृक्षे धनुर्मासे विघ्नेशं विधिवद्यजेत् | शतं पूजासहस्रं वा तत्संख्याकदिनैर्व्रजेत्",
+   "text_te": "భిషగృక్షే ధనుర్మాసే విఘ్నేశం విధివద్యజేత్ | శతం పూజాసహస్రం వా తత్సంఖ్యాకదినైర్వ్రజేత్",
+   "text_en": "bhiṣagṛkṣe dhanurmāse vighneśaṁ vidhivadyajet | śataṁ pūjāsahasraṁ vā tatsaṁkhyākadinairvrajet",
+   "mean_en": "...in Bhishma's star (Rohini), in the month of Dhanus (Margashirsha), Vighneshvara should be worshipped according to rule; performing a hundred or a thousand pujas one should observe the vow for that number of days.",
+   "mean_te": "...భీష్మ నక్షత్రమున (రోహిణి), ధనుర్మాసమున విఘ్నేశుని విధివిధానముగా పూజింపవలెను; వంద లేదా వెయ్యి పూజలు చేసి, ఆ సంఖ్యగల దినములవరకు వ్రతము ఆచరింపవలెను."
+  },
+  {
+   "n": 23,
+   "text_deva": "देवाग्निश्रद्धया नित्यं पुत्रदं चेष्टदं नृणाम् | सर्वपापप्रशमनं तत्तद्दुरितनाशनम्",
+   "text_te": "దేవాగ్నిశ్రద్ధయా నిత్యం పుత్రదం చేష్టదం నృణామ్ | సర్వపాపప్రశమనం తత్తద్దురితనాశనమ్",
+   "text_en": "devāgniśraddhayā nityaṁ putradaṁ ceṣṭadaṁ nṛṇām | sarvapāpapraśamanaṁ tattadduritanāśanam",
+   "mean_en": "When performed daily with faith in the deities and the sacred fire, this worship bestows sons and desired enjoyments on people; it pacifies all sins and destroys every misery.",
+   "mean_te": "దేవతలందు, అగ్నిందు శ్రద్ధగలిగి నిత్యముగా ఆచరించు ఈ పూజ మనుష్యులకు సంతానమును, ఇష్ట కామితములను ఇచ్చును; సర్వపాపములను శమింపజేయును, దురితములను నాశనము చేయును."
+  },
+  {
+   "n": 24,
+   "text_deva": "वारपूजांशिवादीनामात्मशुद्धिप्रदां विदुः | तिथिनक्षत्रयोगानामाधारं सार्वकामिकम्",
+   "text_te": "వారపూజాంశివాదీనామాత్మశుద్ధిప్రదాం విదుః | తిథినక్షత్రయోగానామాధారం సార్వకామికమ్",
+   "text_en": "vārapūjāṁśivādīnāmātmaśuddhipradāṁ viduḥ | tithinakṣatrayogānāmādhāraṁ sārvakāmikam",
+   "mean_en": "Know that the worship of Shiva and other deities on (their) weekdays grants purification of the self; know that the tithis, nakshatras and yogas are the support of all desires.",
+   "mean_te": "శివుడు మొదలగు దేవతల వారపు పూజలు ఆత్మశుద్ధిని ప్రసాదించునని తెలిసికొనవలెను; తిథి, నక్షత్ర, యోగములు సర్వ కామనలకు ఆధారములని తెలియవలెను."
+  },
+  {
+   "n": 25,
+   "text_deva": "तथा बृद्धिक्षयाभावात्पूर्णब्रह्मात्मकं विदुः | उदयादुदयं वारो ब्रह्मप्रभृति कर्मणाम्",
+   "text_te": "తథా బృద్ధిక్షయాభావాత్పూర్ణబ్రహ్మాత్మకం విదుః | ఉదయాదుదయం వారో బ్రహ్మప్రభృతి కర్మణామ్",
+   "text_en": "tathā bṛddhikṣayābhāvātpūrṇabrahmātmakaṁ viduḥ | udayādudayaṁ vāro brahmaprabhṛti karmaṇām",
+   "mean_en": "Likewise, since it is free from growth and decay, know it (the vara) as of the nature of the full Brahman; the weekday runs from sunrise to sunrise and is the measure for actions beginning with Brahma's.",
+   "mean_te": "అలాగే వృద్ధి క్షయలు లేనిది కావున వారము పూర్ణ బ్రహ్మ స్వరూపమని తెలుసుకొనవలెను; ఉదయము నుండి ఉదయము వరకు వారము, అదియే బ్రహ్మ మొదలగు కర్మలకు కాలప్రమాణము."
+  },
+  {
+   "n": 26,
+   "text_deva": "तिथ्यादौ देवपूजा हि पूर्णभोगप्रदा नृणाम् | पूर्वभागः पितृ-णां तु निशि युक्तः प्रशस्यते",
+   "text_te": "తిథ్యాదౌ దేవపూజా హి పూర్ణభోగప్రదా నృణామ్ | పూర్వభాగః పితృ-ణాం తు నిశి యుక్తః ప్రశస్యతే",
+   "text_en": "tithyādau devapūjā hi pūrṇabhogapradā nṛṇām | pūrvabhāgaḥ pitṛ-ṇāṁ tu niśi yuktaḥ praśasyate",
+   "mean_en": "Worship of the gods in the first part of a tithi and the like grants full enjoyment to people; that first part, joined with night, is praised as belonging to the fathers (pitris).",
+   "mean_te": "తిథాదులలో మొదటి భాగమున దేవతా పూజ చేసిన మానవులకు పూర్ణ భోగములు ప్రాప్తించును; రాత్రితో కూడిన మొదటి భాగము పితృదేవతలకు శ్రేష్ఠమని పొగడబడును."
+  },
+  {
+   "n": 27,
+   "text_deva": "परभागस्तु देवानां दिवा युक्तः प्रशस्यते | उदयव्यापिनी ग्राह्या मध्याह्ने यदि सा तिथिः",
+   "text_te": "పరభాగస్తు దేవానాం దివా యుక్తః ప్రశస్యతే | ఉదయవ్యాపినీ గ్రాహ్యా మధ్యాహ్నే యది సా తిథిః",
+   "text_en": "parabhāgastu devānāṁ divā yuktaḥ praśasyate | udayavyāpinī grāhyā madhyāhne yadi sā tithiḥ",
+   "mean_en": "The latter part, joined with the day, is praised for the gods. If a tithi extends over sunrise, it should be taken (for worship) at midday.",
+   "mean_te": "రెండవ భాగము పగటితో కూడినప్పుడు దేవతలకు శ్రేష్ఠమని కీర్తింపబడును; ఉదయమును అతిక్రమించి వ్యాపించిన తిథిని మధ్యాహ్నమున గ్రహింపవలెను."
+  },
+  {
+   "n": 28,
+   "text_deva": "देवकार्ये तथा ग्राह्यास्थिति ऋक्षादिकाः शुभाः | सम्यग्विचार्य वारादीन्कुर्यात्पूजाजपादिकम्",
+   "text_te": "దేవకార్యే తథా గ్రాహ్యాస్థితి ఋక్షాదికాః శుభాః | సమ్యగ్విచార్య వారాదీన్కుర్యాత్పూజాజపాదికమ్",
+   "text_en": "devakārye tathā grāhyāsthiti ṛkṣādikāḥ śubhāḥ | samyagvicārya vārādīnkuryātpūjājapādikam",
+   "mean_en": "It should likewise be taken for the work of the gods; the positions of the nakshatras and the rest are auspicious. Having well considered the weekday and the rest, one should perform puja, japa and the like.",
+   "mean_te": "దేవకార్యము కొరకు అదియు అలాగే గ్రహింపబడును; నక్షత్రాదుల స్థితులు శుభకరములు. వారాదులను సమ్యక్ముగా విచారించి పూజ, జపాది కర్మలను ఆచరింపవలెను."
+  },
+  {
+   "n": 29,
+   "text_deva": "पूजार्यते ह्यनेनेति वेदेष्वर्थस्य योजना | पूर्णभोगफलसिद्धिश्च जायते तेन कर्मणा",
+   "text_te": "పూజార్యతే హ్యనేనేతి వేదేష్వర్థస్య యోజనా | పూర్ణభోగఫలసిద్ధిశ్చ జాయతే తేన కర్మణా",
+   "text_en": "pūjāryate hyaneneti vedeṣvarthasya yojanā | pūrṇabhogaphalasiddhiśca jāyate tena karmaṇā",
+   "mean_en": "The meaning assigned in the Vedas is: puja (is so called) because it is honoured by this; through that act comes the attainment of the full fruit of enjoyment.",
+   "mean_te": "దీనిచే ఆరాధింపబడును కావున పూజ అని వేదములలో అర్థయోజన చేయబడియున్నది; ఆ కర్మచే పూర్ణభోగ ఫలసిద్ధి కలుగును."
+  },
+  {
+   "n": 30,
+   "text_deva": "मनोभावांस्तथा ज्ञानमिष्टभोगार्थयोजनात् | पूजाशब्दर्थ एवं हि विश्रुतो लोकवेदयोः",
+   "text_te": "మనోభావాంస్తథా జ్ఞానమిష్టభోగార్థయోజనాత్ | పూజాశబ్దర్థ ఏవం హి విశ్రుతో లోకవేదయోః",
+   "text_en": "manobhāvāṁstathā jñānamiṣṭabhogārthayojanāt | pūjāśabdartha evaṁ hi viśruto lokavedayoḥ",
+   "mean_en": "Thus the meaning of the word puja - the joining of mental dispositions and knowledge for the sake of desired enjoyments - is renowned in the world and in the Vedas.",
+   "mean_te": "ఇష్ట భోగార్థము కొరకు మనోభావములను, జ్ఞానమును కలుపుటయే పూజ పదార్థము; అది లోకములయందును, వేదములయందును ప్రసిద్ధమైనది."
+  },
+  {
+   "n": 31,
+   "text_deva": "नित्यनैमित्तिकं कालात्सद्यः काम्ये स्वनुष्ठिते | नित्यं मासं च पक्षं च वर्षं चैव यथाक्रमम्",
+   "text_te": "నిత్యనైమిత్తికం కాలాత్సద్యః కామ్యే స్వనుష్ఠితే | నిత్యం మాసం చ పక్షం చ వర్షం చైవ యథాక్రమమ్",
+   "text_en": "nityanaimittikaṁ kālātsadyaḥ kāmye svanuṣṭhite | nityaṁ māsaṁ ca pakṣaṁ ca varṣaṁ caiva yathākramam",
+   "mean_en": "The nitya (regular) and naimittika (occasional) rites are determined by time, the samyika (spontaneous) and kamya (desire-driven) by one's own undertaking; their fruits come in due order - daily, in a month, in a fortnight, and in a year.",
+   "mean_te": "నిత్య, నైమిత్తిక కర్మలు కాలముచేతను, సామ్యిక, కామ్య కర్మలు స్వయముగా ఆచరించుటచేతను నిర్ణయించబడును; వాని ఫలములు యథాక్రమమున - నిత్యము, మాసమున, పక్షమున, వర్షమున ప్రాప్తించును."
+  },
+  {
+   "n": 32,
+   "text_deva": "तत्तत्कर्मफलप्राप्तिस्तादृक्पापक्षयः क्रमात् | महागणपतेः पूजा चतुर्थ्यां कृष्णपक्षके",
+   "text_te": "తత్తత్కర్మఫలప్రాప్తిస్తాదృక్పాపక్షయః క్రమాత్ | మహాగణపతేః పూజా చతుర్థ్యాం కృష్ణపక్షకే",
+   "text_en": "tattatkarmaphalaprāptistādṛkpāpakṣayaḥ kramāt | mahāgaṇapateḥ pūjā caturthyāṁ kṛṣṇapakṣake",
+   "mean_en": "The attainment of the fruits of those respective rites and, likewise, the decay of sin follow in order. The worship of Mahaganapati on the fourth tithi of the dark fortnight...",
+   "mean_te": "ఆ ఆయా కర్మల ఫలప్రాప్తి, అలాగే క్రమముగా పాపక్షయము కలుగును. కృష్ణపక్ష చతుర్థిన మహాగణపతి పూజ..."
+  },
+  {
+   "n": 33,
+   "text_deva": "पक्षपापक्षयकरी पक्षभोगफलप्रदा | चैत्रे चतुर्थ्यां पूजा च कृता मासफलप्रदा",
+   "text_te": "పక్షపాపక్షయకరీ పక్షభోగఫలప్రదా | చైత్రే చతుర్థ్యాం పూజా చ కృతా మాసఫలప్రదా",
+   "text_en": "pakṣapāpakṣayakarī pakṣabhogaphalapradā | caitre caturthyāṁ pūjā ca kṛtā māsaphalapradā",
+   "mean_en": "...destroys the sins of the fortnight and bestows the enjoyments of the fortnight; the puja performed on the fourth tithi of Caitra grants the fruit of the month.",
+   "mean_te": "...పక్షమునకు సంబంధించిన పాపములను క్షయము చేయును, పక్ష భోగఫలములను ఇచ్చును; చైత్రమాస చతుర్థిన చేసిన పూజ మాస ఫలమును ఇచ్చును."
+  },
+  {
+   "n": 34,
+   "text_deva": "वर्षभोगप्रदा ज्ञेया कृता वै सिंहभाद्र के | श्रवण्यादित्यवारे च सप्तम्यां हस्तभे दिने",
+   "text_te": "వర్షభోగప్రదా జ్ఞేయా కృతా వై సింహభాద్ర కే | శ్రవణ్యాదిత్యవారే చ సప్తమ్యాం హస్తభే దినే",
+   "text_en": "varṣabhogapradā jñeyā kṛtā vai siṁhabhādra ke | śravaṇyādityavāre ca saptamyāṁ hastabhe dine",
+   "mean_en": "Worship performed in the months of Simha and Bhadra is known to grant the enjoyments of the whole year. On a Sunday with the Shravana star, on the seventh tithi, on the day of the Hasta star (the worship is to be done).",
+   "mean_te": "సింహ, భాద్ర మాసములలో చేసిన పూజ వర్షభోగ ఫలములను ఇచ్చునని తెలియవలెను; శ్రవణ నక్షత్రమున, ఆదివారమున, సప్తమిన, హస్త నక్షత్రము గల దినమున పూజ చేయుదురు."
+  },
+  {
+   "n": 35,
+   "text_deva": "माघशुक्ले च सप्तम्यामादित्ययजनं चरेत् | ज्येष्ठभाद्र कसौम्ये च द्वादश्यां श्रवर्णक्षके",
+   "text_te": "మాఘశుక్లే చ సప్తమ్యామాదిత్యయజనం చరేత్ | జ్యేష్ఠభాద్ర కసౌమ్యే చ ద్వాదశ్యాం శ్రవర్ణక్షకే",
+   "text_en": "māghaśukle ca saptamyāmādityayajanaṁ caret | jyeṣṭhabhādra kasaumye ca dvādaśyāṁ śravarṇakṣake",
+   "mean_en": "One should worship the Sun (Aditya) on the seventh day of the bright fortnight of Magha; and on the dvadashi falling with the Shravana star in the months of Jyeshtha or Bhadrapada.",
+   "mean_te": "మాఘ మాస శుక్ల సప్తమి నాడు సూర్యుని (ఆదిత్యుని) పూజ చేయాలి; జ్యేష్ఠ లేదా భాద్రపద మాసాల్లో శ్రవణ నక్షత్రంతో కూడిన ద్వాదశి నాడు (పూజ చేయాలి)."
+  },
+  {
+   "n": 36,
+   "text_deva": "द्वादश्यां विष्णुयजनमिष्टंसंपत्करं विदुः | श्रावणे विष्णुयजनमिष्टारोग्यप्रदं भवेत्",
+   "text_te": "ద్వాదశ్యాం విష్ణుయజనమిష్టంసంపత్కరం విదుః | శ్రావణే విష్ణుయజనమిష్టారోగ్యప్రదం భవేత్",
+   "text_en": "dvādaśyāṁ viṣṇuyajanamiṣṭaṁsaṁpatkaraṁ viduḥ | śrāvaṇe viṣṇuyajanamiṣṭārogyapradaṁ bhavet",
+   "mean_en": "Worship of Vishnu on dvadashi is esteemed and bestows prosperity; worship of Vishnu in Shravana is esteemed and grants good health.",
+   "mean_te": "ద్వాదశి నాడు విష్ణువు పూజ ఇష్టమైనది, సంపదలను కలిగించేదిగా తెలుసుకోవాలి; శ్రావణంలో విష్ణువు పూజ ఆరోగ్యాన్ని ప్రసాదించేదిగా భవిస్తుంది."
+  },
+  {
+   "n": 37,
+   "text_deva": "गवादीन्द्वादशानर्थान्सांगान्दत्वा तु यत्फलम् | तत्फलं समवाप्नोति द्वादश्यां विष्णुतर्पणात्",
+   "text_te": "గవాదీన్ద్వాదశానర్థాన్సాంగాన్దత్వా తు యత్ఫలమ్ | తత్ఫలం సమవాప్నోతి ద్వాదశ్యాం విష్ణుతర్పణాత్",
+   "text_en": "gavādīndvādaśānarthānsāṁgāndatvā tu yatphalam | tatphalaṁ samavāpnoti dvādaśyāṁ viṣṇutarpaṇāt",
+   "mean_en": "Whatever merit is earned by donating twelve cows along with their calves, that very merit is obtained by offering libations (tarpana) to Vishnu on dvadashi.",
+   "mean_te": "దూడలతో సహా పన్నెండు ఆవులను దానం చేయడం వల్ల కలిగే ఫలమే ద్వాదశి నాడు విష్ణువుకు తర్పణం చేయడం వల్ల లభిస్తుంది."
+  },
+  {
+   "n": 38,
+   "text_deva": "द्वादश्यां द्वादशान्विप्रान्विष्णोर्द्वादशनामतः | षोडशैरुपचारैश्च यजेत्तत्प्रीतिमाप्नुयात्",
+   "text_te": "ద్వాదశ్యాం ద్వాదశాన్విప్రాన్విష్ణోర్ద్వాదశనామతః | షోడశైరుపచారైశ్చ యజేత్తత్ప్రీతిమాప్నుయాత్",
+   "text_en": "dvādaśyāṁ dvādaśānviprānviṣṇordvādaśanāmataḥ | ṣoḍaśairupacāraiśca yajettatprītimāpnuyāt",
+   "mean_en": "On dvadashi one should worship twelve Brahmins bearing the twelve names of Vishnu with the sixteen services; thereby one wins His pleasure.",
+   "mean_te": "ద్వాదశి నాడు విష్ణువు పన్నెండు నామాలు కలిగిన పన్నెండు మంది బ్రాహ్మణులను షోడశ ఉపచారాలతో పూజించాలి; దానివల్ల ఆయన ప్రీతి చెందుతాడు."
+  },
+  {
+   "n": 39,
+   "text_deva": "एवं च सर्वदेवानां तत्तद्द्वादशनामकैः | द्वादशब्रह्मयजनं तत्तत्प्रीतिकरं भवेत्",
+   "text_te": "ఏవం చ సర్వదేవానాం తత్తద్ద్వాదశనామకైః | ద్వాదశబ్రహ్మయజనం తత్తత్ప్రీతికరం భవేత్",
+   "text_en": "evaṁ ca sarvadevānāṁ tattaddvādaśanāmakaiḥ | dvādaśabrahmayajanaṁ tattatprītikaraṁ bhavet",
+   "mean_en": "Similarly, all the gods should be worshipped through Brahmins named with their respective twelve names; such twelvefold worship of Brahmins becomes pleasing to each of those deities.",
+   "mean_te": "అలాగే సర్వ దేవతలను వారి వారి పన్నెండు నామాలుగల బ్రాహ్మణుల ద్వారా పూజించాలి; ఆ ద్వాదశ బ్రహ్మపూజ ఆయా దేవతలకు ప్రీతికరంగా ఉంటుంది."
+  },
+  {
+   "n": 40,
+   "text_deva": "कर्कटे सोमवारे च नवम्यां मृगशीर्षके | अंबां यजेद्भूतिकामः सर्वभोगफलप्रदाम्",
+   "text_te": "కర్కటే సోమవారే చ నవమ్యాం మృగశీర్షకే | అంబాం యజేద్భూతికామః సర్వభోగఫలప్రదామ్",
+   "text_en": "karkaṭe somavāre ca navamyāṁ mṛgaśīrṣake | aṁbāṁ yajedbhūtikāmaḥ sarvabhogaphalapradām",
+   "mean_en": "When navami falls on a Monday with the Mrigashirsha star during the Sun's stay in Cancer, one desiring prosperity should worship Amba (Parvati), the bestower of all enjoyments.",
+   "mean_te": "కర్కాటకంలో సోమవారం నవమి, మృగశిర నక్షత్రం కలిసిన రోజున ఐశ్వర్యం కోరేవాడు అంబ (పార్వతీదేవి) ని పూజించాలి; ఆమె సర్వ భోగాలు ప్రసాదించేది."
+  },
+  {
+   "n": 41,
+   "text_deva": "आश्वयुक्छुक्लनवमी सर्वाभीष्टफलप्रदा | आदिवारे चतुर्दश्यां कृष्णपक्षे विशेषतः",
+   "text_te": "ఆశ్వయుక్ఛుక్లనవమీ సర్వాభీష్టఫలప్రదా | ఆదివారే చతుర్దశ్యాం కృష్ణపక్షే విశేషతః",
+   "text_en": "āśvayukchuklanavamī sarvābhīṣṭaphalapradā | ādivāre caturdaśyāṁ kṛṣṇapakṣe viśeṣataḥ",
+   "mean_en": "The Shukla-navami of Ashvayuja (Ashvina) grants all desired fruits; especially meritorious is worship on Sunday and on the chaturdashi of the dark fortnight.",
+   "mean_te": "ఆశ్వయుజ శుక్ల నవమి సర్వాభీష్ట ఫలాలు ఇచ్చేది; ఆదివారం నాడు మరియు కృష్ణపక్ష చతుర్దశి నాడు (పూజ) విశేషంగా ఉంటుంది."
+  },
+  {
+   "n": 42,
+   "text_deva": "आर्द्रायां च महार्द्रायां शिवपूजा विशिष्यते | माघकृष्णचतुर्दश्यां सर्वाभीष्टफलप्रदा",
+   "text_te": "ఆర్ద్రాయాం చ మహార్ద్రాయాం శివపూజా విశిష్యతే | మాఘకృష్ణచతుర్దశ్యాం సర్వాభీష్టఫలప్రదా",
+   "text_en": "ārdrāyāṁ ca mahārdrāyāṁ śivapūjā viśiṣyate | māghakṛṣṇacaturdaśyāṁ sarvābhīṣṭaphalapradā",
+   "mean_en": "Worship of Shiva on the Ardra and Mahardra stars is distinguished; on the krishna-chaturdashi of Magha it grants all desired fruits.",
+   "mean_te": "ఆర్ద్ర మరియు మహార్ద్ర నక్షత్రాలలో శివుని పూజ విశిష్టమైనది; మాఘ కృష్ణ చతుర్దశి నాడు అది సర్వాభీష్ట ఫలాలను ప్రసాదించేది."
+  },
+  {
+   "n": 43,
+   "text_deva": "आयुष्करी मृत्युहरा सर्वसिद्धिकरी नृणाम् | ज्येष्ठमासे महार्द्रायां चतुर्दशीदिनेपि च",
+   "text_te": "ఆయుష్కరీ మృత్యుహరా సర్వసిద్ధికరీ నృణామ్ | జ్యేష్ఠమాసే మహార్ద్రాయాం చతుర్దశీదినేపి చ",
+   "text_en": "āyuṣkarī mṛtyuharā sarvasiddhikarī nṛṇām | jyeṣṭhamāse mahārdrāyāṁ caturdaśīdinepi ca",
+   "mean_en": "That Shiva-puja grants long life, wards off death, and bestows all attainments on humans; it should also be done on the chaturdashi day joined with Mahardra in the month of Jyeshtha.",
+   "mean_te": "ఆ శివుని పూజ ఆయువు ప్రసాదించేది, మరణాన్ని హరించేది, మానవులకు సర్వ సిద్ధులు కలిగించేది; జ్యేష్ఠ మాసంలో మహార్ద్రతో కూడిన చతుర్దశి నాడు కూడా (చేయాలి)."
+  },
+  {
+   "n": 44,
+   "text_deva": "मार्गशीर्षार्द्रकायां वा षोडशैरुपचारकैः | तत्तन्मूर्तिशिवं पूज्य तस्य वै पाददर्शनम्",
+   "text_te": "మార్గశీర్షార్ద్రకాయాం వా షోడశైరుపచారకైః | తత్తన్మూర్తిశివం పూజ్య తస్య వై పాదదర్శనమ్",
+   "text_en": "mārgaśīrṣārdrakāyāṁ vā ṣoḍaśairupacārakaiḥ | tattanmūrtiśivaṁ pūjya tasya vai pādadarśanam",
+   "mean_en": "Or on the Ardra star in Margashirsha, worship the auspicious form of Shiva with the sixteen services; then one obtains the sight of His feet.",
+   "mean_te": "లేదా మార్గశిర మాసంలో ఆర్ద్ర నక్షత్రం నాడు షోడశ ఉపచారాలతో శివుని మంగళ మూర్తిని పూజించాలి; అప్పుడు ఆయన పాదాల దర్శనం లభిస్తుంది."
+  },
+  {
+   "n": 45,
+   "text_deva": "शिवस्य यजनं ज्ञेयं भोगमोक्षप्रदं नृणाम् | वारादिदेवयजनं कार्तिके हि विशिष्यते",
+   "text_te": "శివస్య యజనం జ్ఞేయం భోగమోక్షప్రదం నృణామ్ | వారాదిదేవయజనం కార్తికే హి విశిష్యతే",
+   "text_en": "śivasya yajanaṁ jñeyaṁ bhogamokṣapradaṁ nṛṇām | vārādidevayajanaṁ kārtike hi viśiṣyate",
+   "mean_en": "Know the worship of Shiva as the bestower of enjoyment and liberation for men; worship of Ishvara on the weekdays is especially excellent in Kartika.",
+   "mean_te": "శివుని పూజ మానవులకు భోగ, మోక్షాలు ఇచ్చేదని తెలుసుకోవాలి; వారాల్లో ఈశ్వర పూజ కార్తీకంలో విశేషమైనది."
+  },
+  {
+   "n": 46,
+   "text_deva": "कार्तिके मासि संप्राप्ते सर्वान्देवान्यजेद्बुधः | दानेन तपसा होमैर्जपेन नियमेन च",
+   "text_te": "కార్తికే మాసి సంప్రాప్తే సర్వాన్దేవాన్యజేద్బుధః | దానేన తపసా హోమైర్జపేన నియమేన చ",
+   "text_en": "kārtike māsi saṁprāpte sarvāndevānyajedbudhaḥ | dānena tapasā homairjapena niyamena ca",
+   "mean_en": "When the month of Kartika arrives, the wise should worship all the gods through charity, austerity, homa, japa and observance of vows.",
+   "mean_te": "కార్తీక మాసం వచ్చినప్పుడు వివేకి అయినవాడు దాన, తపస్సు, హోమ, జప, నియమాలతో సర్వ దేవతలను పూజించాలి."
+  },
+  {
+   "n": 47,
+   "text_deva": "षोडशैरुपचारैश्च प्रतिमा विप्रमंत्रकैः | ब्राह्मणानां भोजनेन निष्कामार्तिकरो भवेत्",
+   "text_te": "షోడశైరుపచారైశ్చ ప్రతిమా విప్రమంత్రకైః | బ్రాహ్మణానాం భోజనేన నిష్కామార్తికరో భవేత్",
+   "text_en": "ṣoḍaśairupacāraiśca pratimā vipramaṁtrakaiḥ | brāhmaṇānāṁ bhojanena niṣkāmārtikaro bhavet",
+   "mean_en": "With the sixteen services, with images and Vedic mantras, and by feeding Brahmins, one becomes free of desires and afflictions.",
+   "mean_te": "షోడశ ఉపచారాలతో, ప్రతిమలతో, వేద మంత్రాలతో, బ్రాహ్మణ భోజనంతో కోరికలు లేనివాడూ, కష్టాలు లేనివాడూ అవుతాడు."
+  },
+  {
+   "n": 48,
+   "text_deva": "कार्तिके देवयजनं सर्वभोगप्रदं भवेत् | व्याधीनां हरणं चैव भवेद्भूतग्रहक्षयः",
+   "text_te": "కార్తికే దేవయజనం సర్వభోగప్రదం భవేత్ | వ్యాధీనాం హరణం చైవ భవేద్భూతగ్రహక్షయః",
+   "text_en": "kārtike devayajanaṁ sarvabhogapradaṁ bhavet | vyādhīnāṁ haraṇaṁ caiva bhavedbhūtagrahakṣayaḥ",
+   "mean_en": "Worship of the gods in Kartika grants all enjoyments; it removes diseases and destroys possession by bhutas (evil spirits).",
+   "mean_te": "కార్తీకంలో దేవతల పూజ సర్వ భోగాలను ఇచ్చేది; అది రోగాలను హరించును, భూతగ్రహ బాధలను నశింపజేయును."
+  },
+  {
+   "n": 49,
+   "text_deva": "कार्तिकादित्यवारेषु नृणामादित्यपूजनात् | तैलकार्पासदानात्तु भवेत्कुष्ठादिसंक्षयः",
+   "text_te": "కార్తికాదిత్యవారేషు నృణామాదిత్యపూజనాత్ | తైలకార్పాసదానాత్తు భవేత్కుష్ఠాదిసంక్షయః",
+   "text_en": "kārtikādityavāreṣu nṛṇāmādityapūjanāt | tailakārpāsadānāttu bhavetkuṣṭhādisaṁkṣayaḥ",
+   "mean_en": "By worshipping the Sun on Sundays in Kartika, and by donating oil and cotton, diseases like kushtha (skin disease) are destroyed.",
+   "mean_te": "కార్తీకంలో ఆదివారాలలో సూర్యుని పూజించడం వల్లను, తైలం (నూనె) మరియు కార్పాసం దానం వల్లను కుష్ఠు మొదలైన రోగాలు నశిస్తాయి."
+  },
+  {
+   "n": 50,
+   "text_deva": "हरीतकीमरीचीनां वस्त्रक्षीरादिदानतः | ब्रह्मप्रतिष्ठया चैव क्षयरोगक्षयो भवेत्",
+   "text_te": "హరీతకీమరీచీనాం వస్త్రక్షీరాదిదానతః | బ్రహ్మప్రతిష్ఠయా చైవ క్షయరోగక్షయో భవేత్",
+   "text_en": "harītakīmarīcīnāṁ vastrakṣīrādidānataḥ | brahmapratiṣṭhayā caiva kṣayarogakṣayo bhavet",
+   "mean_en": "By donating haritaki (myrobalan), pepper, cloth, milk and the like, and by consecrating Brahma, the wasting disease (kshayaroga) is destroyed.",
+   "mean_te": "హరీతకి (కరక్కాయ), మిరియాలు (మరీచి), వస్త్రం, పాలు మొదలైన దానాల వల్లను, బ్రహ్మ ప్రతిష్ఠ వల్లను క్షయరోగం నశించిపోతుంది."
+  },
+  {
+   "n": 51,
+   "text_deva": "दीपसर्षपदानाच्च अपस्मारक्षयो भवेत् | कृत्तिकासोमवारेषु शिवस्य यजनं नृणाम्",
+   "text_te": "దీపసర్షపదానాచ్చ అపస్మారక్షయో భవేత్ | కృత్తికాసోమవారేషు శివస్య యజనం నృణామ్",
+   "text_en": "dīpasarṣapadānācca apasmārakṣayo bhavet | kṛttikāsomavāreṣu śivasya yajanaṁ nṛṇām",
+   "mean_en": "By donating lamps and mustard seeds, epilepsy (apasmara) is destroyed; men should perform the worship of Shiva on Mondays under the Krittika star.",
+   "mean_te": "దీపం మరియు ఆవాల (సర్షప) దానం వల్ల అపస్మారక రోగం నశిస్తుంది; కృత్తికా నక్షత్రంతో కూడిన సోమవారాలలో శివుని పూజ చేయాలి."
+  },
+  {
+   "n": 52,
+   "text_deva": "महादारिद्र्य शमनं सर्वसंपत्करं भवेत् | गृहक्षेत्रादिदानाच्च गृहोपकरणादिना",
+   "text_te": "మహాదారిద్ర్య శమనం సర్వసంపత్కరం భవేత్ | గృహక్షేత్రాదిదానాచ్చ గృహోపకరణాదినా",
+   "text_en": "mahādāridrya śamanaṁ sarvasaṁpatkaraṁ bhavet | gṛhakṣetrādidānācca gṛhopakaraṇādinā",
+   "mean_en": "Donating a house, land, and household utensils destroys great poverty and bestows all prosperity.",
+   "mean_te": "గృహం, భూమి మొదలైన వాటిని, గృహోపకరణాలను దానం చేయడం వల్ల మహాదారిద్ర్యం శమించి సర్వసంపదలు కలుగుతాయి."
+  },
+  {
+   "n": 53,
+   "text_deva": "कृत्तिकाभौमवारेषु स्कंदस्य यजनान्नृणाम् | दीपघंटादिदानाद्वै वाक्सिद्धिरचिराद्भवेत्",
+   "text_te": "కృత్తికాభౌమవారేషు స్కందస్య యజనాన్నృణామ్ | దీపఘంటాదిదానాద్వై వాక్సిద్ధిరచిరాద్భవేత్",
+   "text_en": "kṛttikābhaumavāreṣu skaṁdasya yajanānnṛṇām | dīpaghaṁṭādidānādvai vāksiddhiracirādbhavet",
+   "mean_en": "Worshipping Skanda on days when Krittika falls on a Tuesday, and gifting lamps and bells, quickly grants success in speech (vak siddhi).",
+   "mean_te": "కృత్తిక మంగళవారం నాడు స్కందుని పూజించి, దీపం, గంట మొదలైన దానాలు చేస్తే వాక్సిద్ధి త్వరలో కలుగుతుంది."
+  },
+  {
+   "n": 54,
+   "text_deva": "कृत्तिकासौम्यवारेषु विष्णोर्वै यजनं नृणाम् | दध्योदनस्य दानं च सत्संतानकरं भवेत्",
+   "text_te": "కృత్తికాసౌమ్యవారేషు విష్ణోర్వై యజనం నృణామ్ | దధ్యోదనస్య దానం చ సత్సంతానకరం భవేత్",
+   "text_en": "kṛttikāsaumyavāreṣu viṣṇorvai yajanaṁ nṛṇām | dadhyodanasya dānaṁ ca satsaṁtānakaraṁ bhavet",
+   "mean_en": "Worshipping Vishnu when Krittika falls on a Monday and donating curd rice brings worthy progeny.",
+   "mean_te": "కృత్తిక సోమవారం నాడు విష్ణువును పూజించి, దధియోదనం (పెరుగన్నం) దానం చేస్తే సత్సంతానం కలుగుతుంది."
+  },
+  {
+   "n": 55,
+   "text_deva": "कृतिकागुरुवारेषु ब्रह्मणो यजनाद्धनैः | मधुस्वर्णाज्यदानेन भोगवृद्धिर्भवेन्नृणाम्",
+   "text_te": "కృతికాగురువారేషు బ్రహ్మణో యజనాద్ధనైః | మధుస్వర్ణాజ్యదానేన భోగవృద్ధిర్భవేన్నృణామ్",
+   "text_en": "kṛtikāguruvāreṣu brahmaṇo yajanāddhanaiḥ | madhusvarṇājyadānena bhogavṛddhirbhavennṛṇām",
+   "mean_en": "Worshipping Brahma when Krittika falls on a Thursday and donating honey, gold, and ghee increases enjoyments for people.",
+   "mean_te": "కృత్తిక గురువారం నాడు బ్రహ్మను పూజించి, తేనె, బంగారం, నెయ్యి దానాలు చేస్తే భోగాలు వృద్ధి చెందుతాయి."
+  },
+  {
+   "n": 56,
+   "text_deva": "कृत्तिकाशुक्रवारेषु गजकोमेडयाजनात्",
+   "text_te": "కృత్తికాశుక్రవారేషు గజకోమేడయాజనాత్",
+   "text_en": "kṛttikāśukravāreṣu gajakomeḍayājanāt",
+   "mean_en": "When Krittika falls on a Friday, worshipping elephants and camels...",
+   "mean_te": "కృత్తిక శుక్రవారం నాడు ఏనుగులు, ఒంటెలను పూజించడం వల్ల..."
+  },
+  {
+   "n": 57,
+   "text_deva": "गंधपुष्पान्नदानेन भोग्यवृद्धिर्भवेन्नृणाम्",
+   "text_te": "గంధపుష్పాన్నదానేన భోగ్యవృద్ధిర్భవేన్నృణామ్",
+   "text_en": "gaṁdhapuṣpānnadānena bhogyavṛddhirbhavennṛṇām",
+   "mean_en": "...and donating sandalwood, flowers, and food increases enjoyments for people.",
+   "mean_te": "...గంధం, పుష్పాలు, అన్నం దానాల వల్ల భోగాలు వృద్ధి చెందుతాయి."
+  },
+  {
+   "n": 58,
+   "text_deva": "वंध्या सुपुत्रं लभते स्वर्णरौप्यादिदानतः | कृत्तिकाशनिवारेषु दिक्पालानां च वंदनम्",
+   "text_te": "వంధ్యా సుపుత్రం లభతే స్వర్ణరౌప్యాదిదానతః | కృత్తికాశనివారేషు దిక్పాలానాం చ వందనమ్",
+   "text_en": "vaṁdhyā suputraṁ labhate svarṇaraupyādidānataḥ | kṛttikāśanivāreṣu dikpālānāṁ ca vaṁdanam",
+   "mean_en": "By donating gold, silver, and the like a childless woman obtains a good son; when Krittika falls on a Saturday, the guardians of the directions are to be saluted.",
+   "mean_te": "బంగారు, వెండి మొదలైన దానాల వల్ల సంతానహీనురాలు మంచి కుమారుడిని పొందుతుంది; కృత్తిక శనివారం నాడు దిక్పాలకు వందనం చేయాలి."
+  },
+  {
+   "n": 59,
+   "text_deva": "दिग्गजानां च नागानां सेतुपानां च पूजनम् | त्र्यंबकस्य च रुद्रस्य विष्णोः पापहरस्य च",
+   "text_te": "దిగ్గజానాం చ నాగానాం సేతుపానాం చ పూజనమ్ | త్ర్యంబకస్య చ రుద్రస్య విష్ణోః పాపహరస్య చ",
+   "text_en": "diggajānāṁ ca nāgānāṁ setupānāṁ ca pūjanam | tryaṁbakasya ca rudrasya viṣṇoḥ pāpaharasya ca",
+   "mean_en": "Worshipping the diggajas (directional elephants), serpents, sacred setus, Tryambaka Rudra, and Vishnu who removes sins...",
+   "mean_te": "దిగ్గజాలు, నాగాలు, సేటులు, త్రయంబక రుద్రుడు, పాపహరుడైన విష్ణువు..."
+  },
+  {
+   "n": 60,
+   "text_deva": "ज्ञानदं ब्रह्मणश्चैव धन्वंतर्यश्विनोस्तथा | रोगापमृत्युहरणं तत्कालव्याधिशांतिदम्",
+   "text_te": "జ్ఞానదం బ్రహ్మణశ్చైవ ధన్వంతర్యశ్వినోస్తథా | రోగాపమృత్యుహరణం తత్కాలవ్యాధిశాంతిదమ్",
+   "text_en": "jñānadaṁ brahmaṇaścaiva dhanvaṁtaryaśvinostathā | rogāpamṛtyuharaṇaṁ tatkālavyādhiśāṁtidam",
+   "mean_en": "...as well as Brahma the giver of knowledge, Dhanvantari, and the Ashvins, removes disease and untimely death and pacifies the ailments of that season.",
+   "mean_te": "...జ్ఞానదాత అయిన బ్రహ్మ, ధన్వంతరి, అశ్వినులను పూజించడం వల్ల రోగాలు, అకాలమరణం తొలగి ఆ కాల వ్యాధులు శాంతించుతాయి."
+  },
+  {
+   "n": 61,
+   "text_deva": "लवणायसतैलानां माषादीनां च दानतः | त्रिकटुफलगंधानां जलादीनां च दानतः",
+   "text_te": "లవణాయసతైలానాం మాషాదీనాం చ దానతః | త్రికటుఫలగంధానాం జలాదీనాం చ దానతః",
+   "text_en": "lavaṇāyasatailānāṁ māṣādīnāṁ ca dānataḥ | trikaṭuphalagaṁdhānāṁ jalādīnāṁ ca dānataḥ",
+   "mean_en": "By donating salt, iron, oils, black gram and other beans, the three pungent spices (trikatu), fragrant substances, and water...",
+   "mean_te": "ఉప్పు, ఇనుము, నూనెలు, ఉలవలు మొదలైన దానాల వల్ల, త్రికటు, సుగంధ ద్రవ్యాలు, నీరు మొదలైన దానాల వల్ల..."
+  },
+  {
+   "n": 62,
+   "text_deva": "द्रवाणां कठिनानां च प्रस्थेन पलमानतः | स्वर्गप्राप्तिर्धनुर्मासे ह्युषःकाले च पूजनम्",
+   "text_te": "ద్రవాణాం కఠినానాం చ ప్రస్థేన పలమానతః | స్వర్గప్రాప్తిర్ధనుర్మాసే హ్యుషఃకాలే చ పూజనమ్",
+   "text_en": "dravāṇāṁ kaṭhinānāṁ ca prasthena palamānataḥ | svargaprāptirdhanurmāse hyuṣaḥkāle ca pūjanam",
+   "mean_en": "...liquids measured in prastha and solids in pala, with worship in Dhanurmaasa during the dawn hour, one attains heaven.",
+   "mean_te": "...ద్రవాలకు ప్రస్థం, ఘనాలకు పలము అనే కొలతలతో ధనుర్మాసంలో ఉషఃకాలంలో పూజ చేస్తే స్వర్గప్రాప్తి కలుగుతుంది."
+  },
+  {
+   "n": 63,
+   "text_deva": "शिवादीनां च सर्वेषां क्रमाद्वै सर्वसिद्धये | शाल्यन्नस्य हविष्यस्य नैवेद्यं शस्तमुच्यते*",
+   "text_te": "శివాదీనాం చ సర్వేషాం క్రమాద్వై సర్వసిద్ధయే | శాల్యన్నస్య హవిష్యస్య నైవేద్యం శస్తముచ్యతే*",
+   "text_en": "śivādīnāṁ ca sarveṣāṁ kramādvai sarvasiddhaye | śālyannasya haviṣyasya naivedyaṁ śastamucyate*",
+   "mean_en": "Worshipping Shiva and all the deities in proper order grants all accomplishments; the naivedya of shali rice offered as havis is declared the best.",
+   "mean_te": "శివుడు మొదలైన సర్వదేవతలను క్రమంగా సర్వసిద్ధులకోసం పూజించాలి; శాలి అన్నంతో చేసే హవిస్సు నైవేద్యం శ్రేష్ఠమైనదిగా చెప్పబడింది."
+  },
+  {
+   "n": 64,
+   "text_deva": "विविधान्नस्य नैवेद्यं धनुर्मासे विशिष्यते | मार्गशीर्षेऽन्नदस्यैव सर्वमिष्टफलं भवेत्",
+   "text_te": "వివిధాన్నస్య నైవేద్యం ధనుర్మాసే విశిష్యతే | మార్గశీర్షేఽన్నదస్యైవ సర్వమిష్టఫలం భవేత్",
+   "text_en": "vividhānnasya naivedyaṁ dhanurmāse viśiṣyate | mārgaśīrṣe'nnadasyaiva sarvamiṣṭaphalaṁ bhavet",
+   "mean_en": "Offering naivedya of various foods in Dhanurmaasa is especially meritorious; giving food in Margasirsha yields all desired fruits.",
+   "mean_te": "ధనుర్మాసంలో వివిధ పదార్థాలతో చేసే నైవేద్యం విశిష్టం; మార్గశిరంలో అన్నదానం చేస్తే సర్వ ఇష్టఫలాలు కలుగుతాయి."
+  },
+  {
+   "n": 65,
+   "text_deva": "पापक्षयं चेष्टसिद्धिं चारोग्यं धर्ममेव च | सम्यग्वेदपरिज्ञानं सदनुष्ठानमेव च",
+   "text_te": "పాపక్షయం చేష్టసిద్ధిం చారోగ్యం ధర్మమేవ చ | సమ్యగ్వేదపరిజ్ఞానం సదనుష్ఠానమేవ చ",
+   "text_en": "pāpakṣayaṁ ceṣṭasiddhiṁ cārogyaṁ dharmameva ca | samyagvedaparijñānaṁ sadanuṣṭhānameva ca",
+   "mean_en": "From it come the destruction of sins, success of endeavors, health, righteousness, proper knowledge of the Vedas, and their faithful observance.",
+   "mean_te": "అందువల్ల పాపక్షయం, ఇష్టసిద్ధి, ఆరోగ్యం, ధర్మం, వేదాల సరైన పరిజ్ఞానం, వాటి ఆచరణ కలుగుతాయి."
+  },
+  {
+   "n": 66,
+   "text_deva": "इहामुत्र महाभोगानंते योगं च शाश्वतम् | वेदांतज्ञानसिद्धिं च मार्गशीर्षान्नदो लभेत्",
+   "text_te": "ఇహాముత్ర మహాభోగానంతే యోగం చ శాశ్వతమ్ | వేదాంతజ్ఞానసిద్ధిం చ మార్గశీర్షాన్నదో లభేత్",
+   "text_en": "ihāmutra mahābhogānaṁte yogaṁ ca śāśvatam | vedāṁtajñānasiddhiṁ ca mārgaśīrṣānnado labhet",
+   "mean_en": "Great enjoyments in this world and the next, eternal yoga, and realization of the knowledge of Vedanta are obtained by giving food in Margasirsha.",
+   "mean_te": "ఇహలోకంలో, పరలోకంలో మహాభోగాలు, శాశ్వతమైన యోగం, వేదాంత జ్ఞానసిద్ధి — ఇవన్నీ మార్గశిరంలో అన్నదానం చేయడం వల్ల లభిస్తాయి."
+  },
+  {
+   "n": 67,
+   "text_deva": "मार्गशीर्षे ह्युषःकाले दिनत्रयमथापि वा | यजेद्देवान्भोगकामो नाधनुर्मासिको भवेत्",
+   "text_te": "మార్గశీర్షే హ్యుషఃకాలే దినత్రయమథాపి వా | యజేద్దేవాన్భోగకామో నాధనుర్మాసికో భవేత్",
+   "text_en": "mārgaśīrṣe hyuṣaḥkāle dinatrayamathāpi vā | yajeddevānbhogakāmo nādhanurmāsiko bhavet",
+   "mean_en": "One desiring enjoyments should worship the gods at dawn in Margasirsha for three days or more, and should not neglect the observance of Dhanurmaasa.",
+   "mean_te": "మార్గశిరంలో ఉషఃకాలంలో మూడు రోజులు లేదా అంతకు ఎక్కువ భోగాలను కోరేవాడు దేవతలను పూజించాలి; ధనుర్మాసాన్ని వదిలేయకూడదు."
+  },
+  {
+   "n": 68,
+   "text_deva": "यावत्संगवकालं तु धनुर्मासो विधीयते | धनुर्मासे निराहारो मासमात्रं जितेंद्रियः",
+   "text_te": "యావత్సంగవకాలం తు ధనుర్మాసో విధీయతే | ధనుర్మాసే నిరాహారో మాసమాత్రం జితేంద్రియః",
+   "text_en": "yāvatsaṁgavakālaṁ tu dhanurmāso vidhīyate | dhanurmāse nirāhāro māsamātraṁ jiteṁdriyaḥ",
+   "mean_en": "Dhanurmaasa worship is prescribed until the sangava period of the morning; in Dhanurmaasa one should fast for the whole month with senses subdued.",
+   "mean_te": "ధనుర్మాసంలో సంగవకాలం వరకు పూజ నిర్ణీతం; ధనుర్మాసంలో సంపూర్ణ నెల రోజూ నిరాహారంగా, ఇంద్రియాలను జయించి ఉండాలి."
+  },
+  {
+   "n": 69,
+   "text_deva": "आमध्याह्नजपेद्विप्रो गायत्रीं वेदमातरम् | पंचाक्षरादिकान्मंत्रान्पश्चादासप्तिकं जपेत्",
+   "text_te": "ఆమధ్యాహ్నజపేద్విప్రో గాయత్రీం వేదమాతరమ్ | పంచాక్షరాదికాన్మంత్రాన్పశ్చాదాసప్తికం జపేత్",
+   "text_en": "āmadhyāhnajapedvipro gāyatrīṁ vedamātaram | paṁcākṣarādikānmaṁtrānpaścādāsaptikaṁ japet",
+   "mean_en": "At dawn and midday a Brāhmaṇa should repeat the Gāyatrī, the mother of the Vedas; afterwards he should mutter the mantras beginning with the Pañcākṣara in sets of seven.",
+   "mean_te": "ఉదయం మరియు మధ్యాహ్నం వేళల్లో బ్రాహ్మణుడు వేదమాత అయిన గాయత్రీని జపించాలి; తరువాత పంచాక్షరితో మొదలయ్యే మంత్రాలను ఏడేసి చొప్పున జపించాలి."
+  },
+  {
+   "n": 70,
+   "text_deva": "ज्ञानं लब्ध्वा च देहांते विप्रो मुक्तिमवाप्नुयात् | अन्येषां नरनारीणां त्रिःस्नानेन जपेन च",
+   "text_te": "జ్ఞానం లబ్ధ్వా చ దేహాంతే విప్రో ముక్తిమవాప్నుయాత్ | అన్యేషాం నరనారీణాం త్రిఃస్నానేన జపేన చ",
+   "text_en": "jñānaṁ labdhvā ca dehāṁte vipro muktimavāpnuyāt | anyeṣāṁ naranārīṇāṁ triḥsnānena japena ca",
+   "mean_en": "Having thus gained knowledge, the Brāhmaṇa attains liberation at the end of his body; for other men and women, bathing three times a day along with muttering (the mantra) brings the same fruit.",
+   "mean_te": "ఈ విధంగా జ్ఞానాన్ని పొందిన బ్రాహ్మణుడు దేహాంత సమయంలో ముక్తిని పొందుతాడు; ఇతర పురుషులు, స్త్రీలు రోజుకు మూడుసార్లు స్నానం చేసి జపం చేయడం వల్ల అదే ఫలాన్ని పొందుతారు."
+  },
+  {
+   "n": 71,
+   "text_deva": "सदा पंचाक्षरस्यैव विशुद्धं ज्ञानमाप्यते | इष्टमन्त्रान्सदा जप्त्वा महापापक्षयं लभेत्",
+   "text_te": "సదా పంచాక్షరస్యైవ విశుద్ధం జ్ఞానమాప్యతే | ఇష్టమన్త్రాన్సదా జప్త్వా మహాపాపక్షయం లభేత్",
+   "text_en": "sadā paṁcākṣarasyaiva viśuddhaṁ jñānamāpyate | iṣṭamantrānsadā japtvā mahāpāpakṣayaṁ labhet",
+   "mean_en": "By always muttering the Pañcākṣara itself one attains pure knowledge; by constantly repeating one's chosen (iṣṭa) mantras one obtains the destruction of great sins.",
+   "mean_te": "పంచాక్షరిని ఎప్పుడూ జపిస్తే పరిశుద్ధమైన జ్ఞానం లభిస్తుంది; ఇష్ట మంత్రాలను నిరంతరం జపించడం వల్ల మహాపాపాలు క్షయించి నశిస్తాయి."
+  },
+  {
+   "n": 72,
+   "text_deva": "धनुर्मासे विशेषेण महानैवेद्यमाचरेत् | शालितंडुलभारेण मरीचप्रस्थकेन च",
+   "text_te": "ధనుర్మాసే విశేషేణ మహానైవేద్యమాచరేత్ | శాలితండులభారేణ మరీచప్రస్థకేన చ",
+   "text_en": "dhanurmāse viśeṣeṇa mahānaivedyamācaret | śālitaṁḍulabhāreṇa marīcaprasthakena ca",
+   "mean_en": "In the month of Dhanus (Mārgaśīrṣa), especially, one should perform the Mahānaivedya — with rice measured by weight and a prastha measure of pepper.",
+   "mean_te": "ధనుర్మాసంలో ప్రత్యేకంగా మహానైవేద్యాన్ని ఆచరించాలి — కొలతతో తీసిన శాలి వరి ధాన్యంతో, ఒక ప్రస్థ కొలత మిరియాలతో సహా."
+  },
+  {
+   "n": 73,
+   "text_deva": "गणनाद्द्वादशं सर्वं मध्वाज्यकुडवेन हि | द्रोणयुक्तेन मुद्गेन द्वादशव्यंजनेन च",
+   "text_te": "గణనాద్ద్వాదశం సర్వం మధ్వాజ్యకుడవేన హి | ద్రోణయుక్తేన ముద్గేన ద్వాదశవ్యంజనేన చ",
+   "text_en": "gaṇanāddvādaśaṁ sarvaṁ madhvājyakuḍavena hi | droṇayuktena mudgena dvādaśavyaṁjanena ca",
+   "mean_en": "Twelve (measures) of everything by count: a kuḍava each of honey and ghee, a droṇa of green-gram, and twelve side-dishes (vyañjanas).",
+   "mean_te": "లెక్కప్రకారం అన్నిటిలోనూ పన్నెండు (కొలతలు): తేనె, నెయ్యి ఒక్క కుడవ చొప్పున, పెసలు ఒక ద్రోణం చొప్పున, పన్నెండు రకాల వంటకాలతో (వ్యంజనాలతో) సహా."
+  },
+  {
+   "n": 74,
+   "text_deva": "घृतपक्वैरपूपैश्च मोदकैः शालिकादिभिः | द्वादशैश्च दधिक्षीरैर्द्वादशप्रस्थकेन च",
+   "text_te": "ఘృతపక్వైరపూపైశ్చ మోదకైః శాలికాదిభిః | ద్వాదశైశ్చ దధిక్షీరైర్ద్వాదశప్రస్థకేన చ",
+   "text_en": "ghṛtapakvairapūpaiśca modakaiḥ śālikādibhiḥ | dvādaśaiśca dadhikṣīrairdvādaśaprasthakena ca",
+   "mean_en": "With twelve apūpas cooked in ghee, twelve modakas, śāli rice and the like, and twelve prastha measures of curd and milk.",
+   "mean_te": "నెయ్యిలో వేసిన అపూపాలు (అరిసెలు), మోదకాలు, శాలి వరి వంటివి పన్నెండేసి చొప్పున, పెరుగు, పాలు పన్నెండు ప్రస్థ కొలతల చొప్పున ఇవ్వాలి."
+  },
+  {
+   "n": 75,
+   "text_deva": "नारिकेलफलादीनां तथा गणनया सह | द्वादशक्रमुकैर्युक्तं षट्त्रिंशत्पत्रकैर्युतम्",
+   "text_te": "నారికేలఫలాదీనాం తథా గణనయా సహ | ద్వాదశక్రముకైర్యుక్తం షట్త్రింశత్పత్రకైర్యుతమ్",
+   "text_en": "nārikelaphalādīnāṁ tathā gaṇanayā saha | dvādaśakramukairyuktaṁ ṣaṭtriṁśatpatrakairyutam",
+   "mean_en": "Coconuts and other fruits likewise by the same count, joined with twelve areca nuts and thirty-six betel leaves.",
+   "mean_te": "కొబ్బరికాయలు, ఇతర ఫలాలు కూడా అదే లెక్కతో, పన్నెండు వక్కలు (క్రముక పళ్లు), ముప్పై ఆరు తమలపాకులతో కూడి ఉండాలి."
+  },
+  {
+   "n": 76,
+   "text_deva": "कर्पूरखुरचूर्णेन पंचसौगंधिकैर्युतम् | तांबूलयुक्तं तु यदा महानैवेद्यलक्षणम्*",
+   "text_te": "కర్పూరఖురచూర్ణేన పంచసౌగంధికైర్యుతమ్ | తాంబూలయుక్తం తు యదా మహానైవేద్యలక్షణమ్*",
+   "text_en": "karpūrakhuracūrṇena paṁcasaugaṁdhikairyutam | tāṁbūlayuktaṁ tu yadā mahānaivedyalakṣaṇam*",
+   "mean_en": "Joined with powdered camphor of a khur measure and five fragrant substances, and completed with tāmbūla (betel) — such is the definition of the Mahānaivedya.",
+   "mean_te": "ఖుర కొలత కర్పూరపు పొడితో, ఐదు సుగంధ ద్రవ్యాలతో కూడి, తాంబూలంతో పూర్తి కావడమే మహానైవేద్యానికి లక్షణం."
+  },
+  {
+   "n": 77,
+   "text_deva": "महानैवेद्यमेतद्वै देवतार्पणपूर्वकम् | वर्णानुक्रमपूर्वेण तद्भक्तेभ्यः प्रदापयेत्",
+   "text_te": "మహానైవేద్యమేతద్వై దేవతార్పణపూర్వకమ్ | వర్ణానుక్రమపూర్వేణ తద్భక్తేభ్యః ప్రదాపయేత్",
+   "text_en": "mahānaivedyametadvai devatārpaṇapūrvakam | varṇānukramapūrveṇa tadbhaktebhyaḥ pradāpayet",
+   "mean_en": "This indeed is the Mahānaivedya, offered first to the deities; thereafter one should have it distributed to its partakers in the sequential order of the varṇas.",
+   "mean_te": "ఇదే దేవతలకు ముందుగా సమర్పించబడే మహానైవేద్యం; తరువాత వర్ణక్రమం (కులాల క్రమం) ప్రకారం భక్తులకు పంచివ్వాలి."
+  },
+  {
+   "n": 78,
+   "text_deva": "एवं चौदननैवेद्याद्भूमौ राष्ट्रपतिर्भवेत् | महानैवेद्यदानेन नरः स्वर्गमवाप्नुयात्",
+   "text_te": "ఏవం చౌదననైవేద్యాద్భూమౌ రాష్ట్రపతిర్భవేత్ | మహానైవేద్యదానేన నరః స్వర్గమవాప్నుయాత్",
+   "text_en": "evaṁ caudananaivedyādbhūmau rāṣṭrapatirbhavet | mahānaivedyadānena naraḥ svargamavāpnuyāt",
+   "mean_en": "By such (daily) naivedya one becomes a ruler of the land on earth, and by gifting the Mahānaivedya a man attains heaven.",
+   "mean_te": "ఈ విధమైన నైవేద్యం వల్ల భూమిపై రాష్ట్రాధిపతి (రాజు) అవుతాడు; మహానైవేద్య దానం చేస్తే మనిషి స్వర్గాన్ని పొందుతాడు."
+  },
+  {
+   "n": 79,
+   "text_deva": "महानैवेद्यदानेन सहस्रेण द्विजर्षभाः | सत्यलोके च तल्लोके पूर्णमायुरवाप्नुयात्",
+   "text_te": "మహానైవేద్యదానేన సహస్రేణ ద్విజర్షభాః | సత్యలోకే చ తల్లోకే పూర్ణమాయురవాప్నుయాత్",
+   "text_en": "mahānaivedyadānena sahasreṇa dvijarṣabhāḥ | satyaloke ca talloke pūrṇamāyuravāpnuyāt",
+   "mean_en": "By gifting a thousand Mahānaivedyas, O bull among the twice-born, one obtains one's full span of life in Satyaloka and in that world.",
+   "mean_te": "వెయ్యి మహానైవేద్యాలు దానం చేసిన ద్విజోత్తములు సత్యలోకంలో, ఆ లోకంలో పూర్ణాయుస్సును పొందుతారు."
+  },
+  {
+   "n": 80,
+   "text_deva": "सहस्राणां च त्रिंशत्या महानैवेद्यदानतः | तदूर्ध्वलोकमाप्यैव न पुनर्जन्मभाग्भवेत्",
+   "text_te": "సహస్రాణాం చ త్రింశత్యా మహానైవేద్యదానతః | తదూర్ధ్వలోకమాప్యైవ న పునర్జన్మభాగ్భవేత్",
+   "text_en": "sahasrāṇāṁ ca triṁśatyā mahānaivedyadānataḥ | tadūrdhvalokamāpyaiva na punarjanmabhāgbhavet",
+   "mean_en": "By the gift of thirty thousand Mahānaivedyas one attains the world above that, and no longer meets with the fate of rebirth.",
+   "mean_te": "ముప్పై వేల మహానైవేద్య దానాల వల్ల అంతకు పైనున్న లోకాన్ని పొంది, మళ్ళీ పునర్జన్మ అనే తలరాత ఉండదు."
+  },
+  {
+   "n": 81,
+   "text_deva": "सहस्राणां च षट्त्रिंशज्जन्म नैवेद्यमीरितम् | तावन्नैवेद्यदानं तु महापूर्णं तदुच्यते",
+   "text_te": "సహస్రాణాం చ షట్త్రింశజ్జన్మ నైవేద్యమీరితమ్ | తావన్నైవేద్యదానం తు మహాపూర్ణం తదుచ్యతే",
+   "text_en": "sahasrāṇāṁ ca ṣaṭtriṁśajjanma naivedyamīritam | tāvannaivedyadānaṁ tu mahāpūrṇaṁ taducyate",
+   "mean_en": "Sixty thousand are declared to be the 'janma-naivedya' (birth offering); a naivedya-gift made to that extent is called Mahāpūrṇa (the great complete one).",
+   "mean_te": "అరవై వేల మహానైవేద్యాలు 'జన్మ నైవేద్యం'గా చెప్పబడ్డాయి; అంత వరకు చేసే నైవేద్య దానం 'మహాపూర్ణం' అని పిలువబడుతుంది."
+  },
+  {
+   "n": 82,
+   "text_deva": "महापूर्णस्य नैवेद्यं जन्मनैवेद्यमिष्यते | जन्मनैवेद्यदानेन पुनर्जन्म न विद्यते",
+   "text_te": "మహాపూర్ణస్య నైవేద్యం జన్మనైవేద్యమిష్యతే | జన్మనైవేద్యదానేన పునర్జన్మ న విద్యతే",
+   "text_en": "mahāpūrṇasya naivedyaṁ janmanaivedyamiṣyate | janmanaivedyadānena punarjanma na vidyate",
+   "mean_en": "The naivedya of the Mahāpūrṇa is known as the janma-naivedya; by giving the janma-naivedya there is no rebirth.",
+   "mean_te": "మహాపూర్ణమైన ఆ నైవేద్యమే 'జన్మ నైవేద్యం'గా పరిగణించబడుతుంది; జన్మ నైవేద్య దానం చేస్తే పునర్జన్మ ఉండదు."
+  },
+  {
+   "n": 83,
+   "text_deva": "ऊर्जे मासि दिने पुण्ये जन्म नैवेद्यमाचरेत् | संक्रांतिपातजन्मर्क्षपौर्णमास्यादिसंयुते",
+   "text_te": "ఊర్జే మాసి దినే పుణ్యే జన్మ నైవేద్యమాచరేత్ | సంక్రాంతిపాతజన్మర్క్షపౌర్ణమాస్యాదిసంయుతే",
+   "text_en": "ūrje māsi dine puṇye janma naivedyamācaret | saṁkrāṁtipātajanmarkṣapaurṇamāsyādisaṁyute",
+   "mean_en": "In the month of Ūrja (Kārttika), on a holy day conjoined with Saṁkrānti, Vyatīpāta, one's birth-star, or the full moon, one should perform the janma-naivedya.",
+   "mean_te": "ఉర్జ మాసం (కార్తీకం)లో సంక్రాంతి, వ్యతీపాత, జన్మనక్షత్రం, పౌర్ణమి వంటి వాటితో కూడిన పుణ్యదినాన జన్మ నైవేద్యాన్ని ఆచరించాలి."
+  },
+  {
+   "n": 84,
+   "text_deva": "अब्दजन्मदिने कुर्याज्जन्मनैवेद्यमुत्तमम् | मासांतरेषु जन्मर्क्षपूर्णयोगदिनेपि च",
+   "text_te": "అబ్దజన్మదినే కుర్యాజ్జన్మనైవేద్యముత్తమమ్ | మాసాంతరేషు జన్మర్క్షపూర్ణయోగదినేపి చ",
+   "text_en": "abdajanmadine kuryājjanmanaivedyamuttamam | māsāṁtareṣu janmarkṣapūrṇayogadinepi ca",
+   "mean_en": "On the day of one's annual birth one should perform the excellent janma-naivedya; also in other months on days of the birth-star, the full moon, or an auspicious yoga.",
+   "mean_te": "వార్షిక జన్మదినాన ఉత్తమమైన జన్మ నైవేద్యాన్ని చేయాలి; అలాగే ఇతర మాసాల్లో జన్మనక్షత్రం, పౌర్ణమి, శుభయోగం కలిసిన దినాల్లో కూడా చేయాలి."
+  },
+  {
+   "n": 85,
+   "text_deva": "मेलने च शनैर्वापि तावत्साहस्रमाचरेत् | जन्मनैवेद्यदानेन जन्मार्पणफलं लभेत्",
+   "text_te": "మేలనే చ శనైర్వాపి తావత్సాహస్రమాచరేత్ | జన్మనైవేద్యదానేన జన్మార్పణఫలం లభేత్",
+   "text_en": "melane ca śanairvāpi tāvatsāhasramācaret | janmanaivedyadānena janmārpaṇaphalaṁ labhet",
+   "mean_en": "Whether in a gathering or gradually, one should perform them to the extent of a thousand at a time; by giving the janma-naivedya one obtains the fruit of dedicating one's birth (self-offering).",
+   "mean_te": "సమూహంగా గాని, క్రమంగా (నెమ్మదిగా) గాని, వెయ్యి అనే సంఖ్య వరకు ఆచరించాలి; జన్మ నైవేద్య దానం వల్ల జన్మను అర్పించిన ఫలం (ఆత్మార్పణ ఫలం) లభిస్తుంది."
+  },
+  {
+   "n": 86,
+   "text_deva": "जन्मार्पणाच्छिवः प्रीतिः स्वसायुज्यं ददाति हि | इदं तज्जन्मनैवेद्यं शिवस्यैव प्रदापयेत्",
+   "text_te": "జన్మార్పణాచ్ఛివః ప్రీతిః స్వసాయుజ్యం దదాతి హి | ఇదం తజ్జన్మనైవేద్యం శివస్యైవ ప్రదాపయేత్",
+   "text_en": "janmārpaṇācchivaḥ prītiḥ svasāyujyaṁ dadāti hi | idaṁ tajjanmanaivedyaṁ śivasyaiva pradāpayet",
+   "mean_en": "Pleased by the offering of one's birth, Shiva grants sayujya, union with himself. Therefore this birth should be offered as a naivedya (sacred offering) to Shiva alone.",
+   "mean_te": "జన్మార్పణ చేయబడినప్పుడు శివుడు సంతోషించి స్వసాయుజ్యాన్ని (తనతో ఐక్యత) ప్రసాదిస్తాడు. కావున ఈ జన్మను శివునికే నైవేద్యంగా సమర్పించాలి."
+  },
+  {
+   "n": 87,
+   "text_deva": "योनिलिंगस्वरूपेण शिवो जन्मनिरूपकः | तस्माज्जन्मनिवृत्त्यर्थं जन्म पूजा शिवस्य हि",
+   "text_te": "యోనిలింగస్వరూపేణ శివో జన్మనిరూపకః | తస్మాజ్జన్మనివృత్త్యర్థం జన్మ పూజా శివస్య హి",
+   "text_en": "yoniliṁgasvarūpeṇa śivo janmanirūpakaḥ | tasmājjanmanivṛttyarthaṁ janma pūjā śivasya hi",
+   "mean_en": "Shiva, in the form of yoni and linga, is the determinant of birth. Hence, to end the cycle of birth, one's birth itself must be offered in worship to Shiva.",
+   "mean_te": "యోనిలింగ స్వరూపుడైన శివుడే జన్మను నిర్దేశించేవాడు. కావున జన్మ నివృత్తి కోసం జన్మనే శివునికి పూజగా సమర్పించాలి."
+  },
+  {
+   "n": 88,
+   "text_deva": "बिंदुनादात्मकं सर्वं जगत्स्थावरजंगमम् | बिंदुः शक्तिः शिवो नादः शिवशक्त्यात्मकं जगत्",
+   "text_te": "బిందునాదాత్మకం సర్వం జగత్స్థావరజంగమమ్ | బిందుః శక్తిః శివో నాదః శివశక్త్యాత్మకం జగత్",
+   "text_en": "biṁdunādātmakaṁ sarvaṁ jagatsthāvarajaṁgamam | biṁduḥ śaktiḥ śivo nādaḥ śivaśaktyātmakaṁ jagat",
+   "mean_en": "This entire universe of moving and unmoving beings is of the nature of bindu and nada. Bindu is the Shakti and nada is Shiva, so the world is of the essence of Shiva and Shakti.",
+   "mean_te": "చలించేదీ, చలించనిదీ అయిన ఈ సమస్త జగత్తు బిందు-నాద స్వరూపమైనది. బిందువు శక్తి, నాదము శివుడు; ఈ జగత్తు శివశక్తి స్వరూపమైనది."
+  },
+  {
+   "n": 89,
+   "text_deva": "नादाधारमिदं बिंदुर्बिंद्वाधारमिदं जगत् | जगदाधारभूतौ हि बिंदुनादौ व्यवस्थितौ",
+   "text_te": "నాదాధారమిదం బిందుర్బింద్వాధారమిదం జగత్ | జగదాధారభూతౌ హి బిందునాదౌ వ్యవస్థితౌ",
+   "text_en": "nādādhāramidaṁ biṁdurbiṁdvādhāramidaṁ jagat | jagadādhārabhūtau hi biṁdunādau vyavasthitau",
+   "mean_en": "The bindu rests upon nada, and the world rests upon the bindu. Bindu and nada stand as the very foundation of the universe.",
+   "mean_te": "ఈ బిందువు నాదానికి ఆధారమై ఉంది; ఈ జగత్తు బిందువును ఆధారంగా కలిగి ఉంది. బిందువు, నాదము అనే రెండూ జగత్తునకు ఆధారభూతంగా నిలిచి ఉన్నాయి."
+  },
+  {
+   "n": 90,
+   "text_deva": "बिन्दुनादयुतं सर्वं सकलीकरणं भवेत् | सकलीकरणाज्जन्मजगत्प्राप्नोत्यसंशयः",
+   "text_te": "బిన్దునాదయుతం సర్వం సకలీకరణం భవేత్ | సకలీకరణాజ్జన్మజగత్ప్రాప్నోత్యసంశయః",
+   "text_en": "bindunādayutaṁ sarvaṁ sakalīkaraṇaṁ bhavet | sakalīkaraṇājjanmajagatprāpnotyasaṁśayaḥ",
+   "mean_en": "Everything united with bindu and nada becomes sakala, manifest with parts. Through this manifestation the world of births certainly comes into being.",
+   "mean_te": "బిందువు, నాదములతో కూడినదంతా సకలీకరణానికి (అభివ్యక్తికి) గురవుతుంది. ఆ సకలీకరణ వల్లనే జన్మలుగల జగత్తు సందేహము లేకుండా పొందబడుతుంది."
+  },
+  {
+   "n": 91,
+   "text_deva": "बिंदुनादात्मकं लिंगं जगत्कारणमुच्यते | बिंदुर्देवीशिवो नादः शिवलिंगं तु कथ्यते",
+   "text_te": "బిందునాదాత్మకం లింగం జగత్కారణముచ్యతే | బిందుర్దేవీశివో నాదః శివలింగం తు కథ్యతే",
+   "text_en": "biṁdunādātmakaṁ liṁgaṁ jagatkāraṇamucyate | biṁdurdevīśivo nādaḥ śivaliṁgaṁ tu kathyate",
+   "mean_en": "The linga of the nature of bindu and nada is called the cause of the world. Bindu is the Goddess (Devi) and nada is Shiva, and that union is taught as the Shivalinga.",
+   "mean_te": "బిందు-నాద స్వరూపమైన లింగము జగత్తునకు కారణమని చెప్పబడింది. బిందువే పార్వతీదేవి, నాదమే శివుడు; అదే శివలింగమని చెప్పబడుతుంది."
+  },
+  {
+   "n": 92,
+   "text_deva": "तस्माज्जन्मनिवृत्त्यर्थं शिवलिंगं प्रपूजयेत् | माता देवी बिंदुरूपा नादरूपः शिवः पिता",
+   "text_te": "తస్మాజ్జన్మనివృత్త్యర్థం శివలింగం ప్రపూజయేత్ | మాతా దేవీ బిందురూపా నాదరూపః శివః పితా",
+   "text_en": "tasmājjanmanivṛttyarthaṁ śivaliṁgaṁ prapūjayet | mātā devī biṁdurūpā nādarūpaḥ śivaḥ pitā",
+   "mean_en": "Therefore, to end the cycle of birth, one should worship the Shivalinga. The mother is the Goddess in the form of bindu, and Shiva in the form of nada is the father.",
+   "mean_te": "కావున జన్మ నివృత్తి కోసం శివలింగాన్ని పూజించాలి. బిందు రూపమైన పార్వతీదేవి తల్లి, నాద రూపుడైన శివుడు తండ్రి."
+  },
+  {
+   "n": 93,
+   "text_deva": "पूजिताभ्यां पितृभ्यां तु परमानंद एव हि | परमानंदलाभार्थं शिवलिंगं प्रपूजयेत्",
+   "text_te": "పూజితాభ్యాం పితృభ్యాం తు పరమానంద ఏవ హి | పరమానందలాభార్థం శివలింగం ప్రపూజయేత్",
+   "text_en": "pūjitābhyāṁ pitṛbhyāṁ tu paramānaṁda eva hi | paramānaṁdalābhārthaṁ śivaliṁgaṁ prapūjayet",
+   "mean_en": "When these two parents are worshipped, supreme bliss results. To attain that supreme bliss one should worship the Shivalinga.",
+   "mean_te": "ఈ మాతాపితలు (శివుడు, పార్వతీదేవి) పూజింపబడినప్పుడు పరమానందమే ఫలిస్తుంది. పరమానందాన్ని పొందే ఉద్దేశ్యంతో శివలింగాన్ని పూజించాలి."
+  },
+  {
+   "n": 94,
+   "text_deva": "सा देवी जगतां माता स शिवो जगतः पिता | पित्रोः शुश्रूषके नित्यं कृपाधिक्यं हि वर्धते",
+   "text_te": "సా దేవీ జగతాం మాతా స శివో జగతః పితా | పిత్రోః శుశ్రూషకే నిత్యం కృపాధిక్యం హి వర్ధతే",
+   "text_en": "sā devī jagatāṁ mātā sa śivo jagataḥ pitā | pitroḥ śuśrūṣake nityaṁ kṛpādhikyaṁ hi vardhate",
+   "mean_en": "She is Devi, the mother of the worlds, and he is Shiva, the father of the world. By constantly serving these parents, their grace keeps increasing.",
+   "mean_te": "ఆమె పార్వతీదేవి — జగత్తులకు తల్లి; ఆయన శివుడు — జగత్తునకు తండ్రి. ఈ మాతాపితలను నిరంతరం సేవిస్తుంటే వారి కృప అధికరిస్తూ ఉంటుంది."
+  },
+  {
+   "n": 95,
+   "text_deva": "कृपयांतर्गतैश्वर्यं पूजकस्य ददाति हि | तस्मादंतर्गतानंदलाभार्थं मुनिपुंगवाः",
+   "text_te": "కృపయాంతర్గతైశ్వర్యం పూజకస్య దదాతి హి | తస్మాదంతర్గతానందలాభార్థం మునిపుంగవాః",
+   "text_en": "kṛpayāṁtargataiśvaryaṁ pūjakasya dadāti hi | tasmādaṁtargatānaṁdalābhārthaṁ munipuṁgavāḥ",
+   "mean_en": "Through their grace they bestow inner wealth (aishvarya) upon the worshipper. Therefore, O best of sages, to attain the bliss abiding within...",
+   "mean_te": "వారి కృపచే పూజించేవానికి అంతర్గతమైన ఐశ్వర్యాన్ని ప్రసాదిస్తారు. కావున మునులశ్రేష్ఠులారా, అంతర్గత ఆనందాన్ని పొందుటకు..."
+  },
+  {
+   "n": 96,
+   "text_deva": "पितृमातृस्वरूपेण शिवलिंगं प्रपूजयेत् | भर्गः पुरुषरूपो हि भर्गा प्रकृतिरुच्यते",
+   "text_te": "పితృమాతృస్వరూపేణ శివలింగం ప్రపూజయేత్ | భర్గః పురుషరూపో హి భర్గా ప్రకృతిరుచ్యతే",
+   "text_en": "pitṛmātṛsvarūpeṇa śivaliṁgaṁ prapūjayet | bhargaḥ puruṣarūpo hi bhargā prakṛtirucyate",
+   "mean_en": "...one should worship the Shivalinga as the form of father and mother. Bharga (Shiva) is of the nature of purusha, while Bharga (Bharga, the Goddess) is called prakriti.",
+   "mean_te": "...మాతాపితృ స్వరూపంగా శివలింగాన్ని పూజించాలి. భర్గుడు (శివుడు) పురుష స్వరూపుడు; భర్గ (పార్వతీదేవి) ప్రకృతి అని చెప్పబడుతుంది."
+  },
+  {
+   "n": 97,
+   "text_deva": "अव्यक्तांतरधिष्ठानं गर्भः पुरुष उच्यते | सुव्यक्तांतरधिष्ठानं गर्भः प्रकृतिरुच्यते",
+   "text_te": "అవ్యక్తాంతరధిష్ఠానం గర్భః పురుష ఉచ్యతే | సువ్యక్తాంతరధిష్ఠానం గర్భః ప్రకృతిరుచ్యతే",
+   "text_en": "avyaktāṁtaradhiṣṭhānaṁ garbhaḥ puruṣa ucyate | suvyaktāṁtaradhiṣṭhānaṁ garbhaḥ prakṛtirucyate",
+   "mean_en": "The garbha (source) whose inner abode is the unmanifest is called purusha, while the garbha whose inner abode is clearly manifest is called prakriti.",
+   "mean_te": "అవ్యక్తమైన అంతరంగంలో స్థితిగల గర్భం పురుషుడని చెప్పబడుతుంది; సుస్పష్టమైన అంతరంగంలో స్థితిగల గర్భం ప్రకృతి అని చెప్పబడుతుంది."
+  },
+  {
+   "n": 98,
+   "text_deva": "पुरुषत्वादिगर्भो हि गर्भवाञ्जनको यतः | पुरुषात्प्रकृतो युक्तं प्रथमं जन्म कथ्यते",
+   "text_te": "పురుషత్వాదిగర్భో హి గర్భవాఞ్జనకో యతః | పురుషాత్ప్రకృతో యుక్తం ప్రథమం జన్మ కథ్యతే",
+   "text_en": "puruṣatvādigarbho hi garbhavāñjanako yataḥ | puruṣātprakṛto yuktaṁ prathamaṁ janma kathyate",
+   "mean_en": "Since he bears the garbha beginning with purusha-hood, he is called garbhavan and the progenitor (janaka). From purusha united with prakriti, the first birth is said to arise.",
+   "mean_te": "పురుషత్వాది గర్భాన్ని ధరించినందున అతడు గర్భవానుడు, జనకుడు (సృష్టికర్త) అని పిలువబడతాడు. పురుషునితో ప్రకృతి సంయుక్తమైనప్పుడు మొదటి జన్మ కలుగుతుందని చెప్పబడింది."
+  },
+  {
+   "n": 99,
+   "text_deva": "प्रकृतेर्व्यक्ततां यातं द्वितीयं जन्म कथ्यते | जन्म जंतुर्मृत्युजन्म पुरुषात्प्रतिपद्यते",
+   "text_te": "ప్రకృతేర్వ్యక్తతాం యాతం ద్వితీయం జన్మ కథ్యతే | జన్మ జంతుర్మృత్యుజన్మ పురుషాత్ప్రతిపద్యతే",
+   "text_en": "prakṛtervyaktatāṁ yātaṁ dvitīyaṁ janma kathyate | janma jaṁturmṛtyujanma puruṣātpratipadyate",
+   "mean_en": "The manifestation of prakriti is called the second birth. The birth of the living being, obtained from the purusha, is a birth that ends in death.",
+   "mean_te": "ప్రకృతి వ్యక్తమవడం రెండవ జన్మగా చెప్పబడుతుంది. పురుషుని నుండి లభించే జీవి జన్మ మరణానికి దారితీసే మరణజన్మ."
+  },
+  {
+   "n": 100,
+   "text_deva": "अन्यतो भाव्यतेऽवश्यं मायया जन्म कथ्यते | जीर्यते जन्मकालाद्यत्तस्माज्जीव इति स्मृतः",
+   "text_te": "అన్యతో భావ్యతేఽవశ్యం మాయయా జన్మ కథ్యతే | జీర్యతే జన్మకాలాద్యత్తస్మాజ్జీవ ఇతి స్మృతః",
+   "text_en": "anyato bhāvyate'vaśyaṁ māyayā janma kathyate | jīryate janmakālādyattasmājjīva iti smṛtaḥ",
+   "mean_en": "It is necessarily conceived as arising from another; through maya it is called birth. Because it decays and is consumed by the time of birth, it is remembered as jiva, the living being.",
+   "mean_te": "అది ఇతరత్రా నుండి భావించబడుతుంది; మాయ వల్ల అది జన్మగా చెప్పబడుతుంది. క్షీణిస్తుండుటచే, జన్మకాలముచే ఆక్రమింపబడుటచే అది జీవుడని స్మరింపబడుతుంది."
+  },
+  {
+   "n": 101,
+   "text_deva": "जन्यते तन्यते पाशैर्जीवशब्दार्थ एव हि | जन्मपाशनिवृत्त्यर्थं जन्मलिंगं प्रपूजयेत्",
+   "text_te": "జన్యతే తన్యతే పాశైర్జీవశబ్దార్థ ఏవ హి | జన్మపాశనివృత్త్యర్థం జన్మలింగం ప్రపూజయేత్",
+   "text_en": "janyate tanyate pāśairjīvaśabdārtha eva hi | janmapāśanivṛttyarthaṁ janmaliṁgaṁ prapūjayet",
+   "mean_en": "That which is produced and stretched out by bonds (pashas) is the very meaning of the word jiva. To end the bonds of birth, one should worship the janma-linga.",
+   "mean_te": "పాశముల ద్వారా ఉత్పన్నమవుతుంది, వ్యాపించుతుంది — ఇదే జీవుడు అనే పదార్థం. జన్మ పాశాల నివృత్తి కోసం జన్మలింగాన్ని పూజించాలి."
+  },
+  {
+   "n": 102,
+   "text_deva": "भं वृद्धिं गच्छतीत्यर्थाद्भगः प्रकृतिरुच्यते | प्राकृतैः शब्दमात्राद्यैः प्राकृतेंद्रियभोजनात्",
+   "text_te": "భం వృద్ధిం గచ్ఛతీత్యర్థాద్భగః ప్రకృతిరుచ్యతే | ప్రాకృతైః శబ్దమాత్రాద్యైః ప్రాకృతేంద్రియభోజనాత్",
+   "text_en": "bhaṁ vṛddhiṁ gacchatītyarthādbhagaḥ prakṛtirucyate | prākṛtaiḥ śabdamātrādyaiḥ prākṛteṁdriyabhojanāt",
+   "mean_en": "Because it grows from the syllable bha, prakriti is called bhaga (bhaga). She consists of the primal elements beginning with sound (shabda) and serves as the nourishment of the prakriti-born senses.",
+   "mean_te": "'భ' అను అక్షరమునుండి వృద్ధి చెందుటచే ప్రకృతి 'భగ' అని చెప్పబడుతుంది. శబ్దం మొదలైన ప్రాకృత తత్త్వములతో కూడి, ప్రాకృత ఇంద్రియములకు ఆహారముగా ఉంటుంది."
+  },
+  {
+   "n": 103,
+   "text_deva": "भगस्येदं भोगमिति शब्दार्थो मुख्यतः श्रुतः | मुख्यो भगस्तु प्रकृतिर्भगवाञ्छिव उच्यते",
+   "text_te": "భగస్యేదం భోగమితి శబ్దార్థో ముఖ్యతః శ్రుతః | ముఖ్యో భగస్తు ప్రకృతిర్భగవాఞ్ఛివ ఉచ్యతే",
+   "text_en": "bhagasyedaṁ bhogamiti śabdārtho mukhyataḥ śrutaḥ | mukhyo bhagastu prakṛtirbhagavāñchiva ucyate",
+   "mean_en": "The primary meaning of the word 'bhaga' is understood as 'bhoga' (enjoyment); the primary Bhaga is Prakriti, while Bhagavan is declared to be Shiva.",
+   "mean_te": "భగ అనే శబ్దానికి ముఖ్యార్థం భోగం అని శ్రుతి చెబుతోంది; భోగానికి ఆధారభూతుడైన భగుడు ప్రకృతి, భగవంతుడు శివుడే అని కీర్తించబడ్డాడు."
+  },
+  {
+   "n": 104,
+   "text_deva": "भगवान्भोगदाता हि नाऽन्यो भोगप्रदायकः | भगस्वामी च भगवान्भर्ग इत्युच्यते बुधैः",
+   "text_te": "భగవాన్భోగదాతా హి నాఽన్యో భోగప్రదాయకః | భగస్వామీ చ భగవాన్భర్గ ఇత్యుచ్యతే బుధైః",
+   "text_en": "bhagavānbhogadātā hi nā'nyo bhogapradāyakaḥ | bhagasvāmī ca bhagavānbharga ityucyate budhaiḥ",
+   "mean_en": "Bhagavan alone is the giver of all enjoyment; there is no other giver of enjoyment. Being the lord of bhaga, the wise call him Bhagavan.",
+   "mean_te": "భగవంతుడే భోగాలు ప్రసాదించేవాడు; భోగాలను ఇచ్చే వేరొకడు లేడు. భగానికి స్వామి కాబట్టి జ్ఞానులు ఆయన్ను భగవంతుడని పిలుస్తారు."
+  },
+  {
+   "n": 105,
+   "text_deva": "भगेन सहितं लिंगं भगंलिंगेन संयुतम् | इहामुत्र च भोगार्थं नित्यभोगार्थमेव च",
+   "text_te": "భగేన సహితం లింగం భగంలింగేన సంయుతమ్ | ఇహాముత్ర చ భోగార్థం నిత్యభోగార్థమేవ చ",
+   "text_en": "bhagena sahitaṁ liṁgaṁ bhagaṁliṁgena saṁyutam | ihāmutra ca bhogārthaṁ nityabhogārthameva ca",
+   "mean_en": "The linga endowed with bhaga and bhaga united with the linga serve enjoyment here and hereafter, and eternal enjoyment as well.",
+   "mean_te": "భగంతో కూడిన లింగము, లింగంతో సంయుక్తమైన భగము — ఇహలోకంలోను పరలోకంలోను భోగాల కోసం, నిత్యభోగాల కోసం ఉంటాయి."
+  },
+  {
+   "n": 106,
+   "text_deva": "भगवंतं महादेवं शिवलिंगं प्रपूजयेत् | लोकप्रसविता सूर्यस्तच्चिह्नं प्रसवाद्भवेत्",
+   "text_te": "భగవంతం మహాదేవం శివలింగం ప్రపూజయేత్ | లోకప్రసవితా సూర్యస్తచ్చిహ్నం ప్రసవాద్భవేత్",
+   "text_en": "bhagavaṁtaṁ mahādevaṁ śivaliṁgaṁ prapūjayet | lokaprasavitā sūryastaccihnaṁ prasavādbhavet",
+   "mean_en": "One should worship Bhagavan Mahadeva as the Shivalinga. The sun, the generator of the worlds, has his symbol arising from that act of generation.",
+   "mean_te": "భగవంతుడైన మహాదేవుని శివలింగరూపంలో పూజించాలి. లోకాలను సృష్టించేవాడు సూర్యుడు; ఆ సృష్టి నుండే అతని చిహ్నం ఏర్పడింది."
+  },
+  {
+   "n": 107,
+   "text_deva": "लिंगेप्रसूतिकर्तारं लिंगिनं पुरुषो यजेत् | लिंगार्थगमकं चिह्नं लिंगमित्यभिधीयते",
+   "text_te": "లింగేప్రసూతికర్తారం లింగినం పురుషో యజేత్ | లింగార్థగమకం చిహ్నం లింగమిత్యభిధీయతే",
+   "text_en": "liṁgeprasūtikartāraṁ liṁginaṁ puruṣo yajet | liṁgārthagamakaṁ cihnaṁ liṁgamityabhidhīyate",
+   "mean_en": "A man should worship in the linga the lingin (bearer of the linga), the maker of creation. The symbol that leads to the meaning of linga is called linga.",
+   "mean_te": "పురుషుడు లింగంలో సృష్టికర్తనైన లింగిని (లింగధారిని) పూజించాలి. లింగార్థాన్ని చేర్చే చిహ్నం లింగం అని పిలువబడుతుంది."
+  },
+  {
+   "n": 108,
+   "text_deva": "लिंगमर्थं हि पुरुषं शिवं गमयतीत्यदः | शिवशक्त्योश्च चिह्नस्य मेलनं लिंगमुच्यते",
+   "text_te": "లింగమర్థం హి పురుషం శివం గమయతీత్యదః | శివశక్త్యోశ్చ చిహ్నస్య మేలనం లింగముచ్యతే",
+   "text_en": "liṁgamarthaṁ hi puruṣaṁ śivaṁ gamayatītyadaḥ | śivaśaktyośca cihnasya melanaṁ liṁgamucyate",
+   "mean_en": "For it leads the purusha Shiva, the meaning of the linga; the union of the symbols of Shiva and Shakti is called linga.",
+   "mean_te": "ఎందుకంటే అది లింగార్థుడైన పురుషుడైన శివుని వైపు నడిపిస్తుంది; శివుని శక్తి చిహ్నాల సంగమమే లింగం అని పిలువబడుతుంది."
+  },
+  {
+   "n": 109,
+   "text_deva": "स्वचिह्नपूजनात्प्रीतश्चिह्नकार्यं न वीयते | चिह्नकार्यं तु जन्मादिजन्माद्यं विनिवर्तते",
+   "text_te": "స్వచిహ్నపూజనాత్ప్రీతశ్చిహ్నకార్యం న వీయతే | చిహ్నకార్యం తు జన్మాదిజన్మాద్యం వినివర్తతే",
+   "text_en": "svacihnapūjanātprītaścihnakāryaṁ na vīyate | cihnakāryaṁ tu janmādijanmādyaṁ vinivartate",
+   "mean_en": "Pleased by worship of his own symbol, he does not abandon the work of the symbol; by that symbol's work, repeated birth and its beginning are turned back.",
+   "mean_te": "తన చిహ్న పూజతో సంతోషించిన శివుడు చిహ్న కార్యాన్ని విడిచిపెట్టడు; అయితే ఆ చిహ్న కార్యం వల్ల పుట్టుక మొదలైన జన్మచక్రం ఆగిపోతుంది."
+  },
+  {
+   "n": 110,
+   "text_deva": "प्राकृतैः पुरुषैश्चापि बाह्याभ्यंतरसंभवैः | षोडशैरुपचारैश्च शिवलिंगं प्रपूजयेत्",
+   "text_te": "ప్రాకృతైః పురుషైశ్చాపి బాహ్యాభ్యంతరసంభవైః | షోడశైరుపచారైశ్చ శివలింగం ప్రపూజయేత్",
+   "text_en": "prākṛtaiḥ puruṣaiścāpi bāhyābhyaṁtarasaṁbhavaiḥ | ṣoḍaśairupacāraiśca śivaliṁgaṁ prapūjayet",
+   "mean_en": "With sixteen offerings, natural or human-made, arising outwardly or inwardly, one should worship the Shivalinga.",
+   "mean_te": "ప్రాకృతమైనవి మరియు మానవులచే సంభవించినవి, బాహ్యంగాను అంతరంగాను ఉండే పదహారు ఉపచారాలతో శివలింగాన్ని పూజించాలి."
+  },
+  {
+   "n": 111,
+   "text_deva": "एवमादित्यवारे हि पूजा जन्मनिवर्तिका | आदिवारे महालिंगं प्रणवेनैव पूजयेत्",
+   "text_te": "ఏవమాదిత్యవారే హి పూజా జన్మనివర్తికా | ఆదివారే మహాలింగం ప్రణవేనైవ పూజయేత్",
+   "text_en": "evamādityavāre hi pūjā janmanivartikā | ādivāre mahāliṁgaṁ praṇavenaiva pūjayet",
+   "mean_en": "Worship performed in this way on Sunday puts an end to rebirth; on Sunday one should worship the great linga with the pranava (Om) alone.",
+   "mean_te": "ఈ విధంగా ఆదివారం నాడు చేసే పూజ పునర్జన్మను నిలువరిస్తుంది; ఆదివారం నాడు ప్రణవం (ఓం) తోనే మహాలింగాన్ని పూజించాలి."
+  },
+  {
+   "n": 112,
+   "text_deva": "आदिवारे पंचगव्यैरभिषेको विशिष्यते | गोमयं गोजलं क्षीरं दध्याज्यं पंचगव्यकम्",
+   "text_te": "ఆదివారే పంచగవ్యైరభిషేకో విశిష్యతే | గోమయం గోజలం క్షీరం దధ్యాజ్యం పంచగవ్యకమ్",
+   "text_en": "ādivāre paṁcagavyairabhiṣeko viśiṣyate | gomayaṁ gojalaṁ kṣīraṁ dadhyājyaṁ paṁcagavyakam",
+   "mean_en": "On Sunday, abhisheka with the five cow-products is especially excellent: cow dung, cow urine, milk, curd, and ghee are the five gavyas.",
+   "mean_te": "ఆదివారం నాడు పంచగవ్యంతో చేసే అభిషేకం విశేషం; గోమయం (ఆవు పేడ), గోమూత్రం, పాలు, పెరుగు, నెయ్యి — ఇవే పంచగవ్యాలు."
+  },
+  {
+   "n": 113,
+   "text_deva": "क्षीराद्यं च पृथक्च्चैव मधुना चेक्षुसारकैः | गव्यक्षीरान्ननैवेद्यं प्रणवेनैव कारयेत्",
+   "text_te": "క్షీరాద్యం చ పృథక్చ్చైవ మధునా చేక్షుసారకైః | గవ్యక్షీరాన్ననైవేద్యం ప్రణవేనైవ కారయేత్",
+   "text_en": "kṣīrādyaṁ ca pṛthakccaiva madhunā cekṣusārakaiḥ | gavyakṣīrānnanaivedyaṁ praṇavenaiva kārayet",
+   "mean_en": "Milk and the rest, each separately too, along with honey and sugarcane juice; the food-offering of cow's milk should be made with the pranava.",
+   "mean_te": "పాలు మొదలైన వాటిని విడివిడిగాను, తేనెతోను చెరకురసంతోను కలిపి — ఆవు పాలతో చేసిన నైవేద్యాన్ని ప్రణవంతోనే సమర్పించాలి."
+  },
+  {
+   "n": 114,
+   "text_deva": "प्रणवं ध्वनिलिंगं तु नादलिंगं स्वयंभुवः | बिंदुलिंगं तु यंत्रं स्यान्मकारं तु प्रतिष्ठितम्",
+   "text_te": "ప్రణవం ధ్వనిలింగం తు నాదలింగం స్వయంభువః | బిందులింగం తు యంత్రం స్యాన్మకారం తు ప్రతిష్ఠితమ్",
+   "text_en": "praṇavaṁ dhvaniliṁgaṁ tu nādaliṁgaṁ svayaṁbhuvaḥ | biṁduliṁgaṁ tu yaṁtraṁ syānmakāraṁ tu pratiṣṭhitam",
+   "mean_en": "The pranava is the sound-linga, the nada-linga of the Self-born; the bindu-linga is the yantra in which the makara is established.",
+   "mean_te": "ప్రణవమే స్వయంభువైన శివుని ధ్వనిలింగం, నాదలింగం; బిందులింగం యంత్రం, అందులో మకారం (మ) ప్రతిష్ఠితమై ఉంటుంది."
+  },
+  {
+   "n": 115,
+   "text_deva": "उकारं चरलिंगं स्यादकारं गुरुविग्रहम् | षड्लिंगं पूजया नित्यं जीवन्मुक्तो न संशयः",
+   "text_te": "ఉకారం చరలింగం స్యాదకారం గురువిగ్రహమ్ | షడ్లింగం పూజయా నిత్యం జీవన్ముక్తో న సంశయః",
+   "text_en": "ukāraṁ caraliṁgaṁ syādakāraṁ guruvigraham | ṣaḍliṁgaṁ pūjayā nityaṁ jīvanmukto na saṁśayaḥ",
+   "mean_en": "The ukara is the movable linga and the akara is the form of the guru; by daily worshipping these six lingas one becomes jivanmukta, without doubt.",
+   "mean_te": "ఉకారం (ఉ) చరలింగం, అకారం (అ) గురువు స్వరూపం; ఈ ఆరు లింగాలను నిత్యం పూజించేవాడు జీవన్ముక్తుడవుతాడు, సందేహమేమీ లేదు."
+  },
+  {
+   "n": 116,
+   "text_deva": "शिवस्य भक्त्या पूजा हि जन्ममुक्तिकरी नृणाम् | रुद्रा क्षधारणात्पादमर्धं वैभूतिधारणात्",
+   "text_te": "శివస్య భక్త్యా పూజా హి జన్మముక్తికరీ నృణామ్ | రుద్రా క్షధారణాత్పాదమర్ధం వైభూతిధారణాత్",
+   "text_en": "śivasya bhaktyā pūjā hi janmamuktikarī nṛṇām | rudrā kṣadhāraṇātpādamardhaṁ vaibhūtidhāraṇāt",
+   "mean_en": "Worship of Shiva with devotion frees humans from rebirth; a quarter of the fruit comes from wearing rudraksha and half from wearing vibhuti (sacred ash).",
+   "mean_te": "శివుని భక్తితో చేసే పూజ మానవుల పునర్జన్మను హరించేది; రుద్రాక్షధారణవల్ల పావువంతు ఫలం, విభూతిధారణవల్ల అర్ధభాగం ఫలం లభిస్తుంది."
+  },
+  {
+   "n": 117,
+   "text_deva": "त्रिपादं मंत्रजाप्याच्च पूजया पूर्णभक्तिमान् | शिवलिंगं च भक्तं च पूज्य मोक्षं लभेन्नरः",
+   "text_te": "త్రిపాదం మంత్రజాప్యాచ్చ పూజయా పూర్ణభక్తిమాన్ | శివలింగం చ భక్తం చ పూజ్య మోక్షం లభేన్నరః",
+   "text_en": "tripādaṁ maṁtrajāpyācca pūjayā pūrṇabhaktimān | śivaliṁgaṁ ca bhaktaṁ ca pūjya mokṣaṁ labhennaraḥ",
+   "mean_en": "Three quarters of the fruit come from japa of the mantra and from worship; a man of full devotion who worships the Shivalinga and the devotees attains liberation.",
+   "mean_te": "మంత్రజపంవల్లను పూజవల్లను మూడు వంతుల ఫలం లభిస్తుంది; పరిపూర్ణ భక్తి కలవాడు శివలింగాన్ని, భక్తులను పూజిస్తే మోక్షాన్ని పొందుతాడు."
+  },
+  {
+   "n": 118,
+   "text_deva": "य इमं पठतेऽध्यायं शृणुयाद्वा समाहितः | तस्यैव शिवभक्तिश्च वर्धते सुदृढा द्विजाः ११७ ॥१॥ मन्त्रं लिख्यताम् उल्लेखं लिख्यताम् प्रेष्यताम् रक्षतु इति श्रीशिवमहापुराणे विद्येश्वरसंहितायां षोडशोऽध्यायः",
+   "text_te": "య ఇమం పఠతేఽధ్యాయం శృణుయాద్వా సమాహితః | తస్యైవ శివభక్తిశ్చ వర్ధతే సుదృఢా ద్విజాః ११७ ॥१॥ మన్త్రం లిఖ్యతామ్ ఉల్లేఖం లిఖ్యతామ్ ప్రేష్యతామ్ రక్షతు ఇతి శ్రీశివమహాపురాణే విద్యేశ్వరసంహితాయాం షోడశోఽధ్యాయః",
+   "text_en": "ya imaṁ paṭhate'dhyāyaṁ śṛṇuyādvā samāhitaḥ | tasyaiva śivabhaktiśca vardhate sudṛḍhā dvijāḥ ११७ ॥१॥ mantraṁ likhyatām ullekhaṁ likhyatām preṣyatām rakṣatu iti śrīśivamahāpurāṇe vidyeśvarasaṁhitāyāṁ ṣoḍaśo'dhyāyaḥ",
+   "mean_en": "Whoever reads this chapter or hears it with a focused mind, his devotion to Shiva grows most firm, O twice-born.",
+   "mean_te": "ఈ అధ్యాయాన్ని ఎవరైనా పఠించినా, ఏకాగ్రతతో శ్రవించినా, వారికి శివభక్తి అత్యంత దృఢంగా వృద్ధి చెందుతుంది — ఓ ద్విజులారా!"
+  }
+ ]
+}

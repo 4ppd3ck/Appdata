@@ -1,0 +1,473 @@
+{
+ "kanda": "rudra-samhita",
+ "n": 6,
+ "title_deva": "विष्णूत्पत्तिवर्णनः",
+ "title_te": "విష్ణూత్పత్తివర్ణనః",
+ "title_iast": "viṣṇūtpattivarṇanaḥ",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ब्रह्मोवाच भो ब्रह्मन्साधु पृष्टोऽहं त्वया विबुधसत्तम | लोकोपकारिणा नित्यं लोकानां हितकाम्यया",
+   "text_te": "బ్రహ్మోవాచ భో బ్రహ్మన్సాధు పృష్టోఽహం త్వయా విబుధసత్తమ | లోకోపకారిణా నిత్యం లోకానాం హితకామ్యయా",
+   "text_en": "brahmovāca bho brahmansādhu pṛṣṭo'haṁ tvayā vibudhasattama | lokopakāriṇā nityaṁ lokānāṁ hitakāmyayā",
+   "mean_en": "Brahma said: “O Brahmin, well have you asked me, best of the wise — you who ever benefit the worlds, seeking the welfare of all beings.",
+   "mean_te": "బ్రహ్మ అన్నాడు: “బ్రాహ్మణా, ఎంతో మంచి ప్రశ్న వేశావు, విబుధశ్రేష్ఠా — నువ్వు లోకానికి ఎల్లప్పుడూ ఉపకారం చేసేవాడివి, సమస్త ప్రాణుల హితం కోరుతూ."
+  },
+  {
+   "n": 2,
+   "text_deva": "यच्छ्रुत्वा सर्वलोकानां सर्वपापक्षयो भवेत् | तदहं ते प्रवक्ष्यामि शिवतत्त्वमनामयम्",
+   "text_te": "యచ్ఛ్రుత్వా సర్వలోకానాం సర్వపాపక్షయో భవేత్ | తదహం తే ప్రవక్ష్యామి శివతత్త్వమనామయమ్",
+   "text_en": "yacchrutvā sarvalokānāṁ sarvapāpakṣayo bhavet | tadahaṁ te pravakṣyāmi śivatattvamanāmayam",
+   "mean_en": "“Hearing which account, the sins of all beings come to an end — that unsullied tattva of Shiva I shall now tell you.”",
+   "mean_te": "“వినడం వల్ల సమస్త ప్రాణుల పాపాలు నశించే — ఆ కలుషం లేని శివతత్త్వాన్ని నీకు చెబుతాను.”"
+  },
+  {
+   "n": 3,
+   "text_deva": "शिवतत्त्वं मया नैव विष्णुनापि यथार्थतः | ज्ञातश्च परमं रूपमद्भुतं च परेण न",
+   "text_te": "శివతత్త్వం మయా నైవ విష్ణునాపి యథార్థతః | జ్ఞాతశ్చ పరమం రూపమద్భుతం చ పరేణ న",
+   "text_en": "śivatattvaṁ mayā naiva viṣṇunāpi yathārthataḥ | jñātaśca paramaṁ rūpamadbhutaṁ ca pareṇa na",
+   "mean_en": "“The tattva of Shiva was never truly known by me or by Vishnu; his supreme and wondrous form — by no one else either.”",
+   "mean_te": "“ఆ శివతత్త్వాన్ని నేనూ, విష్ణువూ యథార్థంగా ఎప్పుడూ ఎరుగలేదు; ఆయన పరమ అద్భుత రూపాన్ని — మరెవరూ కూడా ఎరుగలేదు.”"
+  },
+  {
+   "n": 4,
+   "text_deva": "महाप्रलयकाले च नष्टे स्थावरजंगमे | आसीत्तमोमयं सर्वमनर्कग्रहतारकम्",
+   "text_te": "మహాప్రలయకాలే చ నష్టే స్థావరజంగమే | ఆసీత్తమోమయం సర్వమనర్కగ్రహతారకమ్",
+   "text_en": "mahāpralayakāle ca naṣṭe sthāvarajaṁgame | āsīttamomayaṁ sarvamanarkagrahatārakam",
+   "mean_en": "“At the time of the great dissolution, when the moving and the unmoving had perished, all was darkness — sun, moon, planets and stars all gone.”",
+   "mean_te": "“మహాప్రళయ సమయంలో — చరాచరమైన జగత్తంతా నశించినప్పుడు — అంతా తమస్సు మాత్రమే; సూర్య, చంద్ర, గ్రహ, తారలన్నీ లేకుండా పోయాయి.”"
+  },
+  {
+   "n": 5,
+   "text_deva": "अचन्द्रमनहोरात्रमनग्न्यनिलभूजलम् | अप्रधानं वियच्छून्यमन्यतेजोविवर्जितम्",
+   "text_te": "అచన్ద్రమనహోరాత్రమనగ్న్యనిలభూజలమ్ | అప్రధానం వియచ్ఛూన్యమన్యతేజోవివర్జితమ్",
+   "text_en": "acandramanahorātramanagnyanilabhūjalam | apradhānaṁ viyacchūnyamanyatejovivarjitam",
+   "mean_en": "“No moon, no division of day and night, no fire, no wind, no earth or water; no pradhana, no sky — a void, devoid of all light.”",
+   "mean_te": "“చంద్రుడు లేడు; పగలు, రాత్రుల విభాగం లేదు; అగ్ని లేడు, వాయువు లేడు, భూమి, జలములు లేవు; ప్రధానం లేదు, ఆకాశం లేదు — శూన్యమే; ఏ తెలివీ లేదు.”"
+  },
+  {
+   "n": 6,
+   "text_deva": "अदृष्टत्वादिरहितं शब्दस्पर्शसमुज्झितम् | अव्यक्तगंधरूपं च रसत्यक्तमदिङ्मुखम्",
+   "text_te": "అదృష్టత్వాదిరహితం శబ్దస్పర్శసముజ్ఝితమ్ | అవ్యక్తగంధరూపం చ రసత్యక్తమదిఙ్ముఖమ్",
+   "text_en": "adṛṣṭatvādirahitaṁ śabdasparśasamujjhitam | avyaktagaṁdharūpaṁ ca rasatyaktamadiṅmukham",
+   "mean_en": "“Without any prior cause, free of sound and touch, with no smell and no form, devoid of taste, facing no direction — such was that state.”",
+   "mean_te": "“ఏ పూర్వ కారణం లేకుండా; శబ్ద, స్పర్శలకు అతీతంగా; గంధం లేక, రూపం లేక, రసం లేక, దిక్కులవైపు ఉన్నట్లు లేక — అలాంటి స్థితి అప్పుడు ఉంది.”"
+  },
+  {
+   "n": 7,
+   "text_deva": "इतीदृशं यदा नासीद्यत्तत्सदसदात्मकम् | योगिनोंतर्हिताकाशे यत्पश्यंति निरंतरम्",
+   "text_te": "ఇతీదృశం యదా నాసీద్యత్తత్సదసదాత్మకమ్ | యోగినోంతర్హితాకాశే యత్పశ్యంతి నిరంతరమ్",
+   "text_en": "itīdṛśaṁ yadā nāsīdyattatsadasadātmakam | yoginoṁtarhitākāśe yatpaśyaṁti niraṁtaram",
+   "mean_en": "“Thus there was neither being nor non-being; that which yogis behold unceasingly within, in the space of the heart —",
+   "mean_te": "“అప్పుడు సత్తు కాదు, అసత్తు కాదు; యోగులు నిరంతరం అంతరాకాశంలో — హృదయాకాశంలో — చూసేది అదే:"
+  },
+  {
+   "n": 8,
+   "text_deva": "अमनोगोचरम्वाचां विषयन्न कदाचन | अनामरूपवर्णं च न च स्थूलं न यत्कृशम्",
+   "text_te": "అమనోగోచరమ్వాచాం విషయన్న కదాచన | అనామరూపవర్ణం చ న చ స్థూలం న యత్కృశమ్",
+   "text_en": "amanogocaramvācāṁ viṣayanna kadācana | anāmarūpavarṇaṁ ca na ca sthūlaṁ na yatkṛśam",
+   "mean_en": "“that which is beyond the mind's reach and never the object of speech; without name, without form or colour; neither gross nor minute.”",
+   "mean_te": "“మనస్సు చేరనిది, వాక్కు విషయం కానిది; నామం లేనిది, రూప, వర్ణాలు లేనిది; స్థూలం కాదు, సూక్ష్మం కాదు.”"
+  },
+  {
+   "n": 9,
+   "text_deva": "अह्रस्वदीर्घमलघुगुरुत्वपरिवर्जितम् | न यत्रोपचयः कश्चित्तथा नापचयोऽपि च",
+   "text_te": "అహ్రస్వదీర్ఘమలఘుగురుత్వపరివర్జితమ్ | న యత్రోపచయః కశ్చిత్తథా నాపచయోఽపి చ",
+   "text_en": "ahrasvadīrghamalaghugurutvaparivarjitam | na yatropacayaḥ kaścittathā nāpacayo'pi ca",
+   "mean_en": "“Neither short, nor long, nor light; free of heaviness; in it there is no accumulation, nor any diminution either.”",
+   "mean_te": "“హ్రస్వం కాదు, దీర్ఘం కాదు, లఘువు కాదు; గురుత్వం లేనిది; దానిలో ఏ సంచయమూ లేదు, క్షయమూ లేదు.”"
+  },
+  {
+   "n": 10,
+   "text_deva": "अभिधत्ते स चकितं यदस्तीति श्रुतिः पुनः | सत्यं ज्ञानमनंतं च परानंदम्परम्महः | अप्रमेयमनाधारमविकारमनाकृति | निर्गुणं योगिगम्यञ्च सर्वव्याप्येककारकम्",
+   "text_te": "అభిధత్తే స చకితం యదస్తీతి శ్రుతిః పునః | సత్యం జ్ఞానమనంతం చ పరానందమ్పరమ్మహః | అప్రమేయమనాధారమవికారమనాకృతి | నిర్గుణం యోగిగమ్యఞ్చ సర్వవ్యాప్యేకకారకమ్",
+   "text_en": "abhidhatte sa cakitaṁ yadastīti śrutiḥ punaḥ | satyaṁ jñānamanaṁtaṁ ca parānaṁdamparammahaḥ | aprameyamanādhāramavikāramanākṛti | nirguṇaṁ yogigamyañca sarvavyāpyekakārakam",
+   "mean_en": "“Of it the Shruti declares again, as if startled: ‘It is!’ — Truth, knowledge, infinite, supreme bliss, supreme light; immeasurable, without support, unchanging, without form; qualityless, reached by yogis, pervading all, the one agent.”",
+   "mean_te": "“అది గురించి శ్రుతి మరలా — ఆశ్చర్యంతో — ‘అది ఉంది!’ అని చెప్పింది — సత్యం, జ్ఞానం, అనంతం, పరమానందం, పరమ తేజస్సు; అప్రమేయం, ఆధారం లేనిది, అవికారి, ఆకృతి లేనిది; నిర్గుణం, యోగులందుకునేది, సర్వాన్ని వ్యాపించినది, ఏక కర్త.”"
+  },
+  {
+   "n": 11,
+   "text_deva": "निर्विकल्पं निरारंभं निर्मायं निरुपद्रवम् | अद्वितीयमनाद्यन्तमविकाशं चिदात्मकम्",
+   "text_te": "నిర్వికల్పం నిరారంభం నిర్మాయం నిరుపద్రవమ్ | అద్వితీయమనాద్యన్తమవికాశం చిదాత్మకమ్",
+   "text_en": "nirvikalpaṁ nirāraṁbhaṁ nirmāyaṁ nirupadravam | advitīyamanādyantamavikāśaṁ cidātmakam",
+   "mean_en": "“Without division, without origination, without maya, without affliction; without a second, without beginning or end, beyond all space, of the nature of consciousness.”",
+   "mean_te": "“వికల్పం లేనిది, ఆరంభం లేనిది, మాయ లేనిది, ఉపద్రవం లేనిది; ద్వితీయం లేనిది, ఆద్యంతాలు లేనిది, దిక్స్పేసే లేనిది, చిత్స్వరూపం.”"
+  },
+  {
+   "n": 12,
+   "text_deva": "यस्येत्थं संविकल्पंते संज्ञासंज्ञोक्तितः स्म वै | कियता चैव कालेन द्वितीयेच्छाऽभवत्किल",
+   "text_te": "యస్యేత్థం సంవికల్పంతే సంజ్ఞాసంజ్ఞోక్తితః స్మ వై | కియతా చైవ కాలేన ద్వితీయేచ్ఛాఽభవత్కిల",
+   "text_en": "yasyetthaṁ saṁvikalpaṁte saṁjñāsaṁjñoktitaḥ sma vai | kiyatā caiva kālena dvitīyecchā'bhavatkila",
+   "mean_en": "“That alone is what is designated by the wise as both the named and the nameless. And after a long time there arose in it a second will — the will to create.”",
+   "mean_te": "“దానినే పండితులు ‘సంజ్ఞా, సంజ్ఞాతీతం’ — పేరుగలది, పేరులేనిది — అని వ్యవహరించారు. అంత కాలం గడిచాక అందులో ద్వితీయమైన ఇచ్ఛ — సృష్టి ఇచ్ఛ — పుట్టింది.”"
+  },
+  {
+   "n": 13,
+   "text_deva": "अमूर्तेन स्वमूर्तिश्च तेनाकल्पि स्वलीलया | सर्वैश्वर्यगुणोपेता सर्वज्ञानमयी शुभा",
+   "text_te": "అమూర్తేన స్వమూర్తిశ్చ తేనాకల్పి స్వలీలయా | సర్వైశ్వర్యగుణోపేతా సర్వజ్ఞానమయీ శుభా",
+   "text_en": "amūrtena svamūrtiśca tenākalpi svalīlayā | sarvaiśvaryaguṇopetā sarvajñānamayī śubhā",
+   "mean_en": "“That formless one, of his own accord and in play, created a form endowed with all sovereign powers and virtues — all knowledge, auspicious,”",
+   "mean_te": "“ఆ నిరాకారుడు తన ఇష్టం వచ్చినట్లు, లీలగా, తన స్వరూపాన్ని సృష్టించాడు — సర్వైశ్వర్య, గుణసంపన్నమైన; సర్వజ్ఞానమయమైన, శుభమైన రూపం,"
+  },
+  {
+   "n": 14,
+   "text_deva": "सर्वगा सर्वरूपा च सर्वदृक्सर्वकारिणी | सर्वेकवंद्या सर्वाद्या सर्वदा सर्वसंस्कृतिः",
+   "text_te": "సర్వగా సర్వరూపా చ సర్వదృక్సర్వకారిణీ | సర్వేకవంద్యా సర్వాద్యా సర్వదా సర్వసంస్కృతిః",
+   "text_en": "sarvagā sarvarūpā ca sarvadṛksarvakāriṇī | sarvekavaṁdyā sarvādyā sarvadā sarvasaṁskṛtiḥ",
+   "mean_en": "“all-pervading, of all forms, all-seeing, the doer of all; worshipped by all, the beginning of all, at all times the fashioner of all.”",
+   "mean_te": "“సర్వవ్యాపి, సర్వరూపి, సర్వదృక్, సర్వకారి; సర్వులచే పూజించబడేవాడు, సర్వానికి ఆది, ఎల్లప్పుడూ సర్వసృష్టికర్త.”"
+  },
+  {
+   "n": 15,
+   "text_deva": "परिकल्येति तां मूर्तिमैश्वरीं शुद्धरूपिणीम् | अद्वितीयमनाद्यंतं सर्वाभासं चिदात्मकम् | अंतर्दधे पराख्यं यद्ब्रह्म सर्वगमव्ययम्",
+   "text_te": "పరికల్యేతి తాం మూర్తిమైశ్వరీం శుద్ధరూపిణీమ్ | అద్వితీయమనాద్యంతం సర్వాభాసం చిదాత్మకమ్ | అంతర్దధే పరాఖ్యం యద్బ్రహ్మ సర్వగమవ్యయమ్",
+   "text_en": "parikalyeti tāṁ mūrtimaiśvarīṁ śuddharūpiṇīm | advitīyamanādyaṁtaṁ sarvābhāsaṁ cidātmakam | aṁtardadhe parākhyaṁ yadbrahma sarvagamavyayam",
+   "mean_en": "“He embodied that sovereign, pure-formed form of complete perfection; and the formless one called Para — the all-pervading, imperishable Brahman, without second, without beginning or end, the light of all, of the nature of consciousness — he concealed within it.”",
+   "mean_te": "“ఆ ఐశ్వరీయమైన, శుద్ధ స్వరూపమైన, సమగ్ర కళ్యాణ రూపాన్ని అతడు ధరించాడు; అందులో ‘పరా’ అనే నిరాకార తత్త్వాన్ని — సర్వవ్యాపి, అవ్యయుడైన బ్రహ్మాన్ని, ద్వితీయం లేని, ఆద్యంతాలు లేని, సర్వాలోకనీయ చిత్స్వరూపాన్ని — అంతర్ధానం చేశాడు.”"
+  },
+  {
+   "n": 16,
+   "text_deva": "अमूर्ते यत्पराख्यं वै तस्य मूर्तिस्सदाशिवः | अर्वाचीनाः पराचीना ईश्वरं तं जगुर्बुधाः",
+   "text_te": "అమూర్తే యత్పరాఖ్యం వై తస్య మూర్తిస్సదాశివః | అర్వాచీనాః పరాచీనా ఈశ్వరం తం జగుర్బుధాః",
+   "text_en": "amūrte yatparākhyaṁ vai tasya mūrtissadāśivaḥ | arvācīnāḥ parācīnā īśvaraṁ taṁ jagurbudhāḥ",
+   "mean_en": "“The form of that formless one called Para is Sadashiva; those of the nearer and those of the farther (schools) called him Ishvara — so the wise say.”",
+   "mean_te": "“ఆ నిరాకారమైన ‘పర’ అనే తత్త్వానికి రూపం సదాశివుడే; సమీపులైనవారూ, దూరంలో ఉన్నవారూ — అతనిని ఈశ్వరుడని పిలిచారు — అని వివేకులు చెప్పుచున్నారు.”"
+  },
+  {
+   "n": 17,
+   "text_deva": "शक्तिस्तदैकलेनापि स्वैरं विहरता तनुः | स्वविग्रहात्स्वयं सृष्टा स्वशरीरानपायिनी",
+   "text_te": "శక్తిస్తదైకలేనాపి స్వైరం విహరతా తనుః | స్వవిగ్రహాత్స్వయం సృష్టా స్వశరీరానపాయినీ",
+   "text_en": "śaktistadaikalenāpi svairaṁ viharatā tanuḥ | svavigrahātsvayaṁ sṛṣṭā svaśarīrānapāyinī",
+   "mean_en": "“While he roamed at will with that Shakti alone, she manifested a body from his own form — one born of his own body, never perishing from it.”",
+   "mean_te": "“ఆ శక్తితోనే స్వేచ్ఛగా విహరిస్తుండగా, ఆమె అతని సొంత రూపం నుండి ఒక తనువును (శరీరాన్ని) సృష్టించుకుంది — అతని శరీరం నుండే పుట్టినది, ఎప్పుడూ నశించనిది.”"
+  },
+  {
+   "n": 18,
+   "text_deva": "प्रधानं प्रकृति तां च मायां गुणवतीं पराम् | बुद्धितत्त्वस्य जननीमाहुर्विकृतिवर्जिताम्",
+   "text_te": "ప్రధానం ప్రకృతి తాం చ మాయాం గుణవతీం పరామ్ | బుద్ధితత్త్వస్య జననీమాహుర్వికృతివర్జితామ్",
+   "text_en": "pradhānaṁ prakṛti tāṁ ca māyāṁ guṇavatīṁ parām | buddhitattvasya jananīmāhurvikṛtivarjitām",
+   "mean_en": "“She is called Pradhana, Prakriti and Maya — endowed with the gunas, supreme; the mother of the tattva of buddhi, free of all modification.”",
+   "mean_te": "“ఆమెను ప్రధానం, ప్రకృతి, మాయ అని పిలుస్తారు — గుణమయి, పరమాత్మ; బుద్ధితత్త్వానికి జనని; వికృతులన్నింటికీ అతీత.”"
+  },
+  {
+   "n": 19,
+   "text_deva": "सा शक्तिरम्बिका प्रोक्ता प्रकृतिस्सकलेश्वरी | त्रिदेवजननी नित्या मूलकारणमित्युत",
+   "text_te": "సా శక్తిరమ్బికా ప్రోక్తా ప్రకృతిస్సకలేశ్వరీ | త్రిదేవజననీ నిత్యా మూలకారణమిత్యుత",
+   "text_en": "sā śaktirambikā proktā prakṛtissakaleśvarī | tridevajananī nityā mūlakāraṇamityuta",
+   "mean_en": "“That Shakti is called Ambika, Prakriti, the Ishvari of all; the mother of the three gods, eternal, the root cause — so it is said.”",
+   "mean_te": "“ఆ శక్తి అంబిక అని, ప్రకృతి అని, సర్వకళలకూ ఈశ్వరి అని చెప్పబడుతుంది; త్రిదేవతల జనని, నిత్యురాలు, మూలకారణం — అని చెప్పబడింది.”"
+  },
+  {
+   "n": 20,
+   "text_deva": "अस्या अष्टौ भुजाश्चासन्विचित्रवदना शुभा | राकाचन्द्रसहस्रस्य वदने भाश्च नित्यशः",
+   "text_te": "అస్యా అష్టౌ భుజాశ్చాసన్విచిత్రవదనా శుభా | రాకాచన్ద్రసహస్రస్య వదనే భాశ్చ నిత్యశః",
+   "text_en": "asyā aṣṭau bhujāścāsanvicitravadanā śubhā | rākācandrasahasrasya vadane bhāśca nityaśaḥ",
+   "mean_en": "“She has eight arms and manifold, beautiful faces; her faces are ever like thousands of full moons.”",
+   "mean_te": "“ఆమెకు ఎనిమిది భుజాలు, విచిత్రమైన సుందర వదనాలు; ఆమె వదనాలు ఎల్లప్పుడూ వేయి పూర్ణచంద్రుల వంటివి.”"
+  },
+  {
+   "n": 21,
+   "text_deva": "नानाभरणसंयुक्ता नानागतिसमन्विता | नानायुधधरा देवी फुल्लपंकजलोचना",
+   "text_te": "నానాభరణసంయుక్తా నానాగతిసమన్వితా | నానాయుధధరా దేవీ ఫుల్లపంకజలోచనా",
+   "text_en": "nānābharaṇasaṁyuktā nānāgatisamanvitā | nānāyudhadharā devī phullapaṁkajalocanā",
+   "mean_en": "“Adorned with many ornaments, endowed with many a gait and grace, bearing many weapons — the goddess with eyes like full-blown lotuses.”",
+   "mean_te": "“అనేక ఆభరణాలతో అలంకృతురాలు, అనేక విధమైన నడకలతో కూడినది, అనేక ఆయుధాలను ధరించినది — వికసించిన పద్మాల వంటి నేత్రాలు గల దేవి.”"
+  },
+  {
+   "n": 22,
+   "text_deva": "अचिंत्यतेजसा युक्ता सर्वयोनिस्समुद्यता | एकाकिनी यदा माया संयोगाच्चाप्यनेकिका",
+   "text_te": "అచింత్యతేజసా యుక్తా సర్వయోనిస్సముద్యతా | ఏకాకినీ యదా మాయా సంయోగాచ్చాప్యనేకికా",
+   "text_en": "aciṁtyatejasā yuktā sarvayonissamudyatā | ekākinī yadā māyā saṁyogāccāpyanekikā",
+   "mean_en": "“Endowed with inconceivable radiance, issuing from every source; one as Maya, she becomes many through union.”",
+   "mean_te": "“అచింత్యమైన తేజస్సు కలిగినది, సర్వ యోనుల నుండీ వెలువడినది; మాయగా ఒక్కటే, సంయోగం వల్ల అనేకమవుతుంది.”"
+  },
+  {
+   "n": 23,
+   "text_deva": "परः पुमानीश्वरस्स शिवश्शंभुरनीश्वरः | शीर्षे मन्दाकिनीधारी भालचन्द्रस्त्रिलोचनः",
+   "text_te": "పరః పుమానీశ్వరస్స శివశ్శంభురనీశ్వరః | శీర్షే మన్దాకినీధారీ భాలచన్ద్రస్త్రిలోచనః",
+   "text_en": "paraḥ pumānīśvarassa śivaśśaṁbhuranīśvaraḥ | śīrṣe mandākinīdhārī bhālacandrastrilocanaḥ",
+   "mean_en": "“The supreme Purusha is Ishvara — Shiva, Shambhu, the Lord; bearing the stream of the Mandakini on his head, with the young moon and three eyes,”",
+   "mean_te": "“పరమ పురుషుడే ఈశ్వరుడు — శివుడు, శంభువు, ప్రభువు; శిరస్సుపై మందాకినీ ధారను ధరించినవాడు; బాలచంద్రుడు, త్రిలోచనుడు,”"
+  },
+  {
+   "n": 24,
+   "text_deva": "पंचवक्त्रः प्रसन्नात्मा दशबाहुस्त्रिशूलधृक् | कर्पूरगौरसुसितो भस्मोद्धूलितविग्रहः",
+   "text_te": "పంచవక్త్రః ప్రసన్నాత్మా దశబాహుస్త్రిశూలధృక్ | కర్పూరగౌరసుసితో భస్మోద్ధూలితవిగ్రహః",
+   "text_en": "paṁcavaktraḥ prasannātmā daśabāhustriśūladhṛk | karpūragaurasusito bhasmoddhūlitavigrahaḥ",
+   "mean_en": "“five-faced, gracious of soul, ten-armed, bearing the trident; white as camphor, his body dusted with bhasma.”",
+   "mean_te": "“పంచవక్త్రుడు, ప్రసన్నాత్ముడు, దశభుజుడు, త్రిశూలధారి; కర్పూరం వంటి గౌర వర్ణుడు, భస్మంతో అలంకృత శరీరుడు.”"
+  },
+  {
+   "n": 25,
+   "text_deva": "युगपच्च तया शक्त्या साकं कालस्वरूपिणा | शिवलोकाभिधं क्षेत्रं निर्मितं तेन ब्रह्मणा",
+   "text_te": "యుగపచ్చ తయా శక్త్యా సాకం కాలస్వరూపిణా | శివలోకాభిధం క్షేత్రం నిర్మితం తేన బ్రహ్మణా",
+   "text_en": "yugapacca tayā śaktyā sākaṁ kālasvarūpiṇā | śivalokābhidhaṁ kṣetraṁ nirmitaṁ tena brahmaṇā",
+   "mean_en": "“And simultaneously with that Shakti, together with Time (Kala), he — that Brahman — created the kshetra named Shivaloka.”",
+   "mean_te": "“అలాగే ఆ శక్తితో ఏకకాలంలో, కాలస్వరూపంతో సహా, ఆ బ్రహ్మ ‘శివలోక’ అనే క్షేత్రాన్ని నిర్మించాడు.”"
+  },
+  {
+   "n": 26,
+   "text_deva": "तदेव काशिकेत्येतत्प्रोच्यते क्षेत्रमुत्तमम् | परं निर्वाणसंख्यानं सर्वोपरि विराजितम्",
+   "text_te": "తదేవ కాశికేత్యేతత్ప్రోచ్యతే క్షేత్రముత్తమమ్ | పరం నిర్వాణసంఖ్యానం సర్వోపరి విరాజితమ్",
+   "text_en": "tadeva kāśiketyetatprocyate kṣetramuttamam | paraṁ nirvāṇasaṁkhyānaṁ sarvopari virājitam",
+   "mean_en": "“That indeed is the kshetra called Kashi, the supreme — renowned as liberation itself, shining above all.”",
+   "mean_te": "“అదే కాశీ అని పిలువబడే ఉత్తమ క్షేత్రం — మోక్షంగా ప్రసిద్ధమైనది, సర్వోపరిగా వెలుగొందుతున్నది.”"
+  },
+  {
+   "n": 27,
+   "text_deva": "ताभ्यां च रममाणाभ्यां च तस्मिन्क्षेत्रे मनोरमे | परमानंदरूपाभ्यां परमानन्दरूपिणी",
+   "text_te": "తాభ్యాం చ రమమాణాభ్యాం చ తస్మిన్క్షేత్రే మనోరమే | పరమానందరూపాభ్యాం పరమానన్దరూపిణీ",
+   "text_en": "tābhyāṁ ca ramamāṇābhyāṁ ca tasminkṣetre manorame | paramānaṁdarūpābhyāṁ paramānandarūpiṇī",
+   "mean_en": "“And sporting together in that kshetra, O muni, were those two — both of the form of supreme bliss.”",
+   "mean_te": "“ఆ క్షేత్రంలో ఇద్దరూ — పరమానంద రూపులిద్దరూ — మనోహరంగా విహరించుచున్నారు, మునీ."
+  },
+  {
+   "n": 28,
+   "text_deva": "मुने प्रलयकालेपि न तत्क्षेत्रं कदाचन | विमुक्तं हि शिवाभ्यां यदविमुक्तं ततो विदुः",
+   "text_te": "మునే ప్రలయకాలేపి న తత్క్షేత్రం కదాచన | విముక్తం హి శివాభ్యాం యదవిముక్తం తతో విదుః",
+   "text_en": "mune pralayakālepi na tatkṣetraṁ kadācana | vimuktaṁ hi śivābhyāṁ yadavimuktaṁ tato viduḥ",
+   "mean_en": "“Even at the time of dissolution that kshetra is never destroyed; for it is released together with Shiva — know that whatever is not thus released (perishes).”",
+   "mean_te": "“ప్రళయకాలంలోనైనా ఆ క్షేత్రం ఎప్పుడూ నశించదు; శివునితో సహా విముక్తమై ఉన్నందున — అలా విముక్తం కానిది నశిస్తుందని తెలుసుకో.”"
+  },
+  {
+   "n": 29,
+   "text_deva": "अस्यानन्दवनं नाम पुराकारि पिनाकिना | क्षेत्रस्यानंदहेतुत्वादविमुक्तमनंतरम्",
+   "text_te": "అస్యానన్దవనం నామ పురాకారి పినాకినా | క్షేత్రస్యానందహేతుత్వాదవిముక్తమనంతరమ్",
+   "text_en": "asyānandavanaṁ nāma purākāri pinākinā | kṣetrasyānaṁdahetutvādavimuktamanaṁtaram",
+   "mean_en": "“Of old the Pinaka-bearer (Shiva) created in it the grove named Anandavana; since it is the cause of the kshetra's bliss, it is the Avimukta-kshetra, ever near.”",
+   "mean_te": "“పూర్వం పినాకి (శివుడు) దానిలో ‘ఆనందవనం’ అనే వనాన్ని చేశాడు; క్షేత్రానికి ఆనందం ఇచ్చేది కాబట్టి అది అవిముక్త క్షేత్రం — ఎప్పుడూ సన్నిహితం.”"
+  },
+  {
+   "n": 30,
+   "text_deva": "अथानन्दवने तस्मिञ्च्छिवयो रममाणयोः | इच्छेत्यभूत्सुरर्षे हि सृज्यः कोप्यपरः किल",
+   "text_te": "అథానన్దవనే తస్మిఞ్చ్ఛివయో రమమాణయోః | ఇచ్ఛేత్యభూత్సురర్షే హి సృజ్యః కోప్యపరః కిల",
+   "text_en": "athānandavane tasmiñcchivayo ramamāṇayoḥ | icchetyabhūtsurarṣe hi sṛjyaḥ kopyaparaḥ kila",
+   "mean_en": "“And while Shiva and Shakti sported in that Anandavana, there arose, O best of sages, the will to create yet another.”",
+   "mean_te": "“అలా శివ, శక్తులు ఆ ఆనందవనంలో విహరించుచుండగా, సురఋషిశ్రేష్ఠా — మరొకరిని సృష్టించాలనే ఇచ్ఛ కలిగింది."
+  },
+  {
+   "n": 31,
+   "text_deva": "यस्मिन्यस्य महाभारमावां स्वस्वैरचारिणौ | निर्वाणधारणं कुर्वः केवलं काशिशायिनौ",
+   "text_te": "యస్మిన్యస్య మహాభారమావాం స్వస్వైరచారిణౌ | నిర్వాణధారణం కుర్వః కేవలం కాశిశాయినౌ",
+   "text_en": "yasminyasya mahābhāramāvāṁ svasvairacāriṇau | nirvāṇadhāraṇaṁ kurvaḥ kevalaṁ kāśiśāyinau",
+   "mean_en": "“‘In whichever (form) each bears his great burden — we two, roaming as we please, shall hold the line of liberation, resting in Kashi alone.’”",
+   "mean_te": "“‘ఎవరిలో ఎంత మహాభారం ఉందో — దానిని మేమిద్దరం స్వేచ్ఛగా సంచరిస్తూ భరిస్తాము; కాశీలో మాత్రమే విశ్రమిస్తాము — మోక్షమార్గాన్ని ధరిస్తూ.’”"
+  },
+  {
+   "n": 32,
+   "text_deva": "स एव सर्वं कुरुतां स एव परिपातु च | स एव संवृणोत्वं ते मदनुग्रहतस्सदा",
+   "text_te": "స ఏవ సర్వం కురుతాం స ఏవ పరిపాతు చ | స ఏవ సంవృణోత్వం తే మదనుగ్రహతస్సదా",
+   "text_en": "sa eva sarvaṁ kurutāṁ sa eva paripātu ca | sa eva saṁvṛṇotvaṁ te madanugrahatassadā",
+   "mean_en": "“It is he alone who does all things, and he alone who protects; it is he who conceals all — by my grace, ever.”",
+   "mean_te": "“అన్నింటినీ చేసేది ఆయనే; పాలించేది కూడా ఆయనే; అన్నిటినీ కప్పి (దాచి) పెట్టేది ఆయనే — నా అనుగ్రహం వల్ల, ఎల్లప్పుడూ.”"
+  },
+  {
+   "n": 33,
+   "text_deva": "चेतस्समुद्रमाकुंच्य चिंताकल्लोललोलितम् | सत्त्वरत्नं तमोग्राहं रजोविद्रुमवल्लितम्",
+   "text_te": "చేతస్సముద్రమాకుంచ్య చింతాకల్లోలలోలితమ్ | సత్త్వరత్నం తమోగ్రాహం రజోవిద్రుమవల్లితమ్",
+   "text_en": "cetassamudramākuṁcya ciṁtākallolalolitam | sattvaratnaṁ tamogrāhaṁ rajovidrumavallitam",
+   "mean_en": "“Folding back the ocean of the mind — its waves the tossing of thought, its gem the sattva, its clutch the tamas, its coral band the rajas —”",
+   "mean_te": "“మనస్సనే సముద్రాన్ని మడచి — దాని అలలు చింతా తరంగాలు; రత్నం సత్వం; ఆకర్షణ తమస్సు; పగడపు చుట్ట రజస్సు —"
+  },
+  {
+   "n": 34,
+   "text_deva": "यस्य प्रसादात्तिष्ठावस्सुखमानंदकानने | परिक्षिप्तमनोवृत्तौ बहिश्चिंतातुरे सुखम्",
+   "text_te": "యస్య ప్రసాదాత్తిష్ఠావస్సుఖమానందకాననే | పరిక్షిప్తమనోవృత్తౌ బహిశ్చింతాతురే సుఖమ్",
+   "text_en": "yasya prasādāttiṣṭhāvassukhamānaṁdakānane | parikṣiptamanovṛttau bahiściṁtāture sukham",
+   "mean_en": "“by whose grace we two abide in that forest of happiness and bliss, the mind's waves encompassed and outward thought at ease —”",
+   "mean_te": "“ఎవని అనుగ్రహంతో మేమిద్దరం ఆ సుఖానంద వనంలో నిలిచామో — మనోవృత్తులు వశంలో ఉంచి, బయటి చింతలను లేనియాల చేసి —"
+  },
+  {
+   "n": 35,
+   "text_deva": "संप्रधार्य्येति स विभुस्तया शक्त्या परेश्वरः | सव्ये व्यापारयांचक्रे दशमेंऽगेसुधासवम्",
+   "text_te": "సంప్రధార్య్యేతి స విభుస్తయా శక్త్యా పరేశ్వరః | సవ్యే వ్యాపారయాంచక్రే దశమేంఽగేసుధాసవమ్",
+   "text_en": "saṁpradhāryyeti sa vibhustayā śaktyā pareśvaraḥ | savye vyāpārayāṁcakre daśameṁ'gesudhāsavam",
+   "mean_en": "“then that Lord, the supreme Ishvara, having resolved with that Shakti, set flowing on his left side a stream of nectar.”",
+   "mean_te": "“అప్పుడు ఆ విభుడు, పరమేశ్వరుడు — ఆ శక్తితో సంకల్పించి — తన ఎడమ వైపు సుధాధారను (అమృత ధారను) ప్రవహింపజేశాడు.”"
+  },
+  {
+   "n": 36,
+   "text_deva": "ततः पुमानाविरासीदेकस्त्रैलोक्यसुंदरः | शांतस्सत्त्वगुणोद्रिक्तो गांभीर्य्यामितसागरः",
+   "text_te": "తతః పుమానావిరాసీదేకస్త్రైలోక్యసుందరః | శాంతస్సత్త్వగుణోద్రిక్తో గాంభీర్య్యామితసాగరః",
+   "text_en": "tataḥ pumānāvirāsīdekastrailokyasuṁdaraḥ | śāṁtassattvaguṇodrikto gāṁbhīryyāmitasāgaraḥ",
+   "mean_en": "“Then appeared the Purusha — beautiful in the three worlds, one alone; calm, rich in the sattva-guna, deep as the ocean in gravity.”",
+   "mean_te": "“అప్పుడు ఆ పురుషుడు ప్రత్యక్షమయ్యాడు — మూడు లోకాలలోనూ సుందరుడు, ఏకాకి; శాంతుడు, సత్వగుణంతో కొద్దీబడినవాడు, సాగరం వంటి గాంభీర్యుడు.”"
+  },
+  {
+   "n": 37,
+   "text_deva": "तथा च क्षमया युक्तो मुनेऽलब्धोपमो ऽभवत् | इन्द्रनीलद्युतिः श्रीमान्पुण्डरीकोत्तमेक्षणः",
+   "text_te": "తథా చ క్షమయా యుక్తో మునేఽలబ్ధోపమో ఽభవత్ | ఇన్ద్రనీలద్యుతిః శ్రీమాన్పుణ్డరీకోత్తమేక్షణః",
+   "text_en": "tathā ca kṣamayā yukto mune'labdhopamo 'bhavat | indranīladyutiḥ śrīmānpuṇḍarīkottamekṣaṇaḥ",
+   "mean_en": "“Endowed with forgiveness, he became peerless, O muni; radiant as the blue sapphire, glorious, with eyes like the finest lotus.”",
+   "mean_te": "“క్షమతో యుక్తుడు, తుల్యం లేనివాడై వెలిగాడు, మునీ; ఇంద్రనీల మణి కాంతి కలవాడు, శ్రీమంతుడు, అత్యుత్తమ పద్మాల వంటి నేత్రాలు గలవాడు.”"
+  },
+  {
+   "n": 38,
+   "text_deva": "सुवर्णकृतिभृच्छ्रेष्ठ दुकूलयुगलावृतः | लसत्प्रचंडदोर्दण्डयुगलोह्यपराजितः",
+   "text_te": "సువర్ణకృతిభృచ్ఛ్రేష్ఠ దుకూలయుగలావృతః | లసత్ప్రచండదోర్దణ్డయుగలోహ్యపరాజితః",
+   "text_en": "suvarṇakṛtibhṛcchreṣṭha dukūlayugalāvṛtaḥ | lasatpracaṁḍadordaṇḍayugalohyaparājitaḥ",
+   "mean_en": "“Clothed in the pair of finest golden cloths, with his two mighty arms like gleaming maces — unconquered, he shone.”",
+   "mean_te": "“ఉత్తమ బంగారు దుకూలాల జంటతో ఆవరించి, మెరిసే ప్రచండమైన దండాల వంటి భుజయుగ్మంతో — అజేయుడై వెలిగాడు.”"
+  },
+  {
+   "n": 39,
+   "text_deva": "ततस्स पुरुषश्शंभुं प्रणम्य परमेश्वरम् | नामानि कुरु मे स्वामिन्वद कर्मं जगाविति",
+   "text_te": "తతస్స పురుషశ్శంభుం ప్రణమ్య పరమేశ్వరమ్ | నామాని కురు మే స్వామిన్వద కర్మం జగావితి",
+   "text_en": "tatassa puruṣaśśaṁbhuṁ praṇamya parameśvaram | nāmāni kuru me svāminvada karmaṁ jagāviti",
+   "mean_en": "“Then that Purusha bowed to Shambhu, the Parameshvara, and said: ‘Make names for me, O Lord — and declare my task!’”",
+   "mean_te": "“తరువాత ఆ పురుషుడు శంభువును — పరమేశ్వరుని — నమస్కరించి అన్నాడు: ‘నాకు నామాలను తయారుచేయి, స్వామీ; నా కర్మాన్ని నాకు చెప్పు!’”"
+  },
+  {
+   "n": 40,
+   "text_deva": "तच्छ्रुत्वा वचनम्प्राह शंकरः प्रहसन्प्रभुः | पुरुषं तं महेशानो वाचा मेघगभीरया",
+   "text_te": "తచ్ఛ్రుత్వా వచనమ్ప్రాహ శంకరః ప్రహసన్ప్రభుః | పురుషం తం మహేశానో వాచా మేఘగభీరయా",
+   "text_en": "tacchrutvā vacanamprāha śaṁkaraḥ prahasanprabhuḥ | puruṣaṁ taṁ maheśāno vācā meghagabhīrayā",
+   "mean_en": "“Hearing those words, Shankara, the Lord, smiled; Maheshana addressed that Purusha with a voice deep as a thundercloud:”",
+   "mean_te": "“ఆ మాటలు విన్న శంకరుడు చిరునవ్వుతో — మేఘం లాంటి గంభీర స్వరంతో ఆ పురుషునికి మహేశానుడు ఇలా అన్నాడు:"
+  },
+  {
+   "n": 41,
+   "text_deva": "विष्ण्वितिव्यापकत्वात्ते नाम ख्यातं भविष्यति | बहून्यन्यानि नामानि भक्तसौख्यकराणि ह",
+   "text_te": "విష్ణ్వితివ్యాపకత్వాత్తే నామ ఖ్యాతం భవిష్యతి | బహూన్యన్యాని నామాని భక్తసౌఖ్యకరాణి హ",
+   "text_en": "viṣṇvitivyāpakatvātte nāma khyātaṁ bhaviṣyati | bahūnyanyāni nāmāni bhaktasaukhyakarāṇi ha",
+   "mean_en": "“‘Vishnu’ shall be your name — for you pervade everywhere. And many other names will be yours, bestowing joy on devotees.”",
+   "mean_te": "“‘విష్ణువు’ అనే పేరు నీది — నువ్వు సర్వదా వ్యాపించి ఉన్నావు కాబట్టి. అనేక ఇతర నామాలు కూడా నీకుంటాయి — భక్తులకు సుఖం ఇచ్చేవి.”"
+  },
+  {
+   "n": 42,
+   "text_deva": "तपः कुरु दृढो भूत्वा परमं कार्यसाधनम् | इत्युक्त्वा श्वासमार्गेण ददौ च निगमं ततः",
+   "text_te": "తపః కురు దృఢో భూత్వా పరమం కార్యసాధనమ్ | ఇత్యుక్త్వా శ్వాసమార్గేణ దదౌ చ నిగమం తతః",
+   "text_en": "tapaḥ kuru dṛḍho bhūtvā paramaṁ kāryasādhanam | ityuktvā śvāsamārgeṇa dadau ca nigamaṁ tataḥ",
+   "mean_en": "“‘Perform tapas, firm and steady — it is the supreme means of accomplishment.’ So saying, he then bestowed on him the Nigama (the Veda), breathing it into him through his breath.”",
+   "mean_te": "“‘దృఢంగా తపస్సు ఆచరించు — అదే పరమ కార్యసాధనం.’ అని అని, శ్వాసమార్గంతో (శ్వాసలో కలిగించి) నిగమాన్ని (వేదాన్ని) ఆయన ప్రసాదించాడు.”"
+  },
+  {
+   "n": 43,
+   "text_deva": "ततोऽच्युतश्शिवं नत्वा चकार विपुलं तपः | अंतर्द्धानं गतश्शक्त्या सलोकः परमेश्वरः",
+   "text_te": "తతోఽచ్యుతశ్శివం నత్వా చకార విపులం తపః | అంతర్ద్ధానం గతశ్శక్త్యా సలోకః పరమేశ్వరః",
+   "text_en": "tato'cyutaśśivaṁ natvā cakāra vipulaṁ tapaḥ | aṁtarddhānaṁ gataśśaktyā salokaḥ parameśvaraḥ",
+   "mean_en": "“Then Achyuta, bowing to Shiva, performed vast tapas; and the Parameshvara, with his Shakti and his realm, passed into concealment.”",
+   "mean_te": "“అప్పుడు అచ్యుతుడు శివుని నమస్కరించి విశాలమైన తపస్సు చేశాడు; పరమేశ్వరుడు మాత్రం తన శక్తితో, తన లోకంతో సహా అంతర్ధానమయ్యాడు.”"
+  },
+  {
+   "n": 44,
+   "text_deva": "दिव्यं द्वादश साहस्रं वर्षं तप्त्वापि चाच्युतः | न प्राप स्वाभिलषितं सर्वदं शंभुदर्शनम्",
+   "text_te": "దివ్యం ద్వాదశ సాహస్రం వర్షం తప్త్వాపి చాచ్యుతః | న ప్రాప స్వాభిలషితం సర్వదం శంభుదర్శనమ్",
+   "text_en": "divyaṁ dvādaśa sāhasraṁ varṣaṁ taptvāpi cācyutaḥ | na prāpa svābhilaṣitaṁ sarvadaṁ śaṁbhudarśanam",
+   "mean_en": "“Though Achyuta performed tapas for twelve thousand divine years, he did not attain what he desired — the all-granting vision of Shambhu.”",
+   "mean_te": "“అచ్యుతుడు పన్నెండు వేల దివ్యమైన సంవత్సరాలు తపస్సు చేసినా — సర్వాన్నీ ఇచ్చే శంభు దర్శనమనే తన కోరికను పొందలేదు.”"
+  },
+  {
+   "n": 45,
+   "text_deva": "तत्तत्संशयमापन्नश्चिंतितं हृदि सादरम् | मयाद्य किं प्रकर्तव्यमिति विष्णुश्शिवं स्मरन्",
+   "text_te": "తత్తత్సంశయమాపన్నశ్చింతితం హృది సాదరమ్ | మయాద్య కిం ప్రకర్తవ్యమితి విష్ణుశ్శివం స్మరన్",
+   "text_en": "tattatsaṁśayamāpannaściṁtitaṁ hṛdi sādaram | mayādya kiṁ prakartavyamiti viṣṇuśśivaṁ smaran",
+   "mean_en": "“He fell into doubt and thought earnestly in his heart, remembering Shiva: ‘What am I to do now?’”",
+   "mean_te": "“అతడు సందేహంలో పడి, శివుని స్మరిస్తూ, హృదయంలో గాఢంగా తలచుకున్నాడు: ‘ఇప్పుడు నేనేమి చేయాలి?’”"
+  },
+  {
+   "n": 46,
+   "text_deva": "एतस्मिन्नंतरे वाणी समुत्पन्ना शिवाच्छुभा | तपः पुनः प्रकर्त्तव्यं संशयस्यापनुत्तये",
+   "text_te": "ఏతస్మిన్నంతరే వాణీ సముత్పన్నా శివాచ్ఛుభా | తపః పునః ప్రకర్త్తవ్యం సంశయస్యాపనుత్తయే",
+   "text_en": "etasminnaṁtare vāṇī samutpannā śivācchubhā | tapaḥ punaḥ prakarttavyaṁ saṁśayasyāpanuttaye",
+   "mean_en": "“Meanwhile a fair voice issued from Shiva: ‘Tapas must be performed once more, for the removal of this doubt.’”",
+   "mean_te": "“ఆ మధ్యలో శివుని నుండి ఒక శుభమైన వాణి వెలువడింది: ‘ఈ సందేహం తొలగించుకోవడానికి మరల తపస్సు ఆచరించాలి.’”"
+  },
+  {
+   "n": 47,
+   "text_deva": "ततस्तेन च तच्छ्रुत्वा तपस्तप्तं सुदारुणम् | बहुकालं तदा ब्रह्मध्यानमार्गपरेण हि",
+   "text_te": "తతస్తేన చ తచ్ఛ్రుత్వా తపస్తప్తం సుదారుణమ్ | బహుకాలం తదా బ్రహ్మధ్యానమార్గపరేణ హి",
+   "text_en": "tatastena ca tacchrutvā tapastaptaṁ sudāruṇam | bahukālaṁ tadā brahmadhyānamārgapareṇa hi",
+   "mean_en": "“Hearing it, he performed that very dreadful tapas again, for a long time, following the path of meditation on Brahman.”",
+   "mean_te": "“దాన్ని విన్న అతడు ఆ అత్యంత ఘోరమైన తపస్సును మరల బహుకాలం ఆచరించాడు — బ్రహ్మధ్యానమార్గాన్ని అనుసరిస్తూ.”"
+  },
+  {
+   "n": 48,
+   "text_deva": "ततस्स पुरुषो विष्णुः प्रबुद्धो ध्यानमार्गतः | सुप्रीतो विस्मयं प्राप्तः किं यत्तव महा इति",
+   "text_te": "తతస్స పురుషో విష్ణుః ప్రబుద్ధో ధ్యానమార్గతః | సుప్రీతో విస్మయం ప్రాప్తః కిం యత్తవ మహా ఇతి",
+   "text_en": "tatassa puruṣo viṣṇuḥ prabuddho dhyānamārgataḥ | suprīto vismayaṁ prāptaḥ kiṁ yattava mahā iti",
+   "mean_en": "“Then the Purusha Vishnu, awakened through the path of meditation, was supremely pleased and astonished: ‘What is this great thing that is thine?’”",
+   "mean_te": "“అప్పుడు ఆ పురుషుడు విష్ణువు ధ్యానమార్గంతో బుద్ధి తేరుకుని — మిక్కిలి సంతోషించి, ఆశ్చర్యపోయాడు: ‘ఇది నీ గొప్పతనం ఏమిటి?’”"
+  },
+  {
+   "n": 49,
+   "text_deva": "परिश्रमवतस्तस्य विष्णोः स्वाङ्गेभ्य एव च | जलधारा हि संयाता विविधाश्शिवमायया",
+   "text_te": "పరిశ్రమవతస్తస్య విష్ణోః స్వాఙ్గేభ్య ఏవ చ | జలధారా హి సంయాతా వివిధాశ్శివమాయయా",
+   "text_en": "pariśramavatastasya viṣṇoḥ svāṅgebhya eva ca | jaladhārā hi saṁyātā vividhāśśivamāyayā",
+   "mean_en": "“As if weary, from Vishnu's own limbs flowed streams of many kinds — by Shiva's maya.”",
+   "mean_te": "“అలసిపోయినట్లు — విష్ణువు సొంత అవయవాల నుండి వివిధమైన జలధారలు ప్రవహించాయి — శివమాయ వల్ల.”"
+  },
+  {
+   "n": 50,
+   "text_deva": "अभिव्याप्तं च सकलं शून्यं यत्तन्महामुने | ब्रह्मरूपं जलमभूत्स्पर्शनात्पापनाशनम्",
+   "text_te": "అభివ్యాప్తం చ సకలం శూన్యం యత్తన్మహామునే | బ్రహ్మరూపం జలమభూత్స్పర్శనాత్పాపనాశనమ్",
+   "text_en": "abhivyāptaṁ ca sakalaṁ śūnyaṁ yattanmahāmune | brahmarūpaṁ jalamabhūtsparśanātpāpanāśanam",
+   "mean_en": "“That whole void became pervaded by them; the water took the form of Brahman, and by its touch sins perish.”",
+   "mean_te": "“ఆ శూన్యమంతా వాటిచే నిండిపోయింది; ఆ జలం బ్రహ్మస్వరూపమైంది; దాని స్పర్శ వల్ల పాపాలు నశిస్తాయి.”"
+  },
+  {
+   "n": 51,
+   "text_deva": "तदा श्रांतश्च पुरुषो विष्णुस्तस्मिञ्जले स्वयम् | सुष्वाप परम प्रीतो बहुकालं विमोहितः",
+   "text_te": "తదా శ్రాంతశ్చ పురుషో విష్ణుస్తస్మిఞ్జలే స్వయమ్ | సుష్వాప పరమ ప్రీతో బహుకాలం విమోహితః",
+   "text_en": "tadā śrāṁtaśca puruṣo viṣṇustasmiñjale svayam | suṣvāpa parama prīto bahukālaṁ vimohitaḥ",
+   "mean_en": "“Then that wearied Purusha Vishnu, supremely content, fell asleep in that very water for a long time — beguiled by maya.”",
+   "mean_te": "“అప్పుడు ఆ అలసిన పురుషుడు విష్ణువు మిక్కిలి సంతోషంతో, ఆ జలంలోనే బహుకాలం నిద్రపోయాడు — మాయ వల్ల మోహితుడై.”"
+  },
+  {
+   "n": 52,
+   "text_deva": "नारायणेति नामापि तस्यसीच्छ्रुतिसंमतम् | नान्यत्किंचित्तदा ह्यासीत्प्राकृतं पुरुषं विना",
+   "text_te": "నారాయణేతి నామాపి తస్యసీచ్ఛ్రుతిసంమతమ్ | నాన్యత్కించిత్తదా హ్యాసీత్ప్రాకృతం పురుషం వినా",
+   "text_en": "nārāyaṇeti nāmāpi tasyasīcchrutisaṁmatam | nānyatkiṁcittadā hyāsītprākṛtaṁ puruṣaṁ vinā",
+   "mean_en": "“The name ‘Narayana’ was bestowed on him too — sanctioned by the Shruti; for at that time there existed nothing else, save that primal Purusha.”",
+   "mean_te": "“‘నారాయణుడు’ అనే నామం కూడా అతనికి ఇవ్వబడింది — శ్రుతికి అంగీకారమైనదిగా; అప్పుడు ఆ ప్రాకృత పురుషుడు (ఆది పురుషుడు) తప్ప మరేదీ ఉండలేదు కాబట్టి.”"
+  },
+  {
+   "n": 53,
+   "text_deva": "एतस्मिन्नन्तरे काले तत्त्वान्यासन्महात्मनः | तत्प्रकारं शृणु प्राज्ञ गदतो मे महामते",
+   "text_te": "ఏతస్మిన్నన్తరే కాలే తత్త్వాన్యాసన్మహాత్మనః | తత్ప్రకారం శృణు ప్రాజ్ఞ గదతో మే మహామతే",
+   "text_en": "etasminnantare kāle tattvānyāsanmahātmanaḥ | tatprakāraṁ śṛṇu prājña gadato me mahāmate",
+   "mean_en": "“In this interval the other tattvas arose of that great soul; hear their manner from me, O wise and great-minded one.”",
+   "mean_te": "“ఈ మధ్యలో ఆ మహాత్ముని నుండి మిగిలిన తత్త్వాలు పుట్టాయి; వాటి విధానాన్ని నా నుండి విను, ప్రాజ్ఞా, మహామతీ.”"
+  },
+  {
+   "n": 54,
+   "text_deva": "प्रकृतेश्च महानासीन्महतश्च गुणास्त्रयः | अहंकारस्ततो जातस्त्रिविधो गुणभेदतः",
+   "text_te": "ప్రకృతేశ్చ మహానాసీన్మహతశ్చ గుణాస్త్రయః | అహంకారస్తతో జాతస్త్రివిధో గుణభేదతః",
+   "text_en": "prakṛteśca mahānāsīnmahataśca guṇāstrayaḥ | ahaṁkārastato jātastrividho guṇabhedataḥ",
+   "mean_en": "“From Prakriti arose Mahat; from Mahat, ahamkara — threefold by the difference of the gunas.”",
+   "mean_te": "“ప్రకృతి నుండి మహత్తు పుట్టింది; మహత్తు నుండి అహంకారం — గుణభేదం వల్ల మూడు విధాలుగా.”"
+  },
+  {
+   "n": 55,
+   "text_deva": "तन्मात्राश्च ततो जातः पञ्चभूतानि वै तता | तदैव तानीन्द्रियाणि ज्ञानकर्ममयानि च",
+   "text_te": "తన్మాత్రాశ్చ తతో జాతః పఞ్చభూతాని వై తతా | తదైవ తానీన్ద్రియాణి జ్ఞానకర్మమయాని చ",
+   "text_en": "tanmātrāśca tato jātaḥ pañcabhūtāni vai tatā | tadaiva tānīndriyāṇi jñānakarmamayāni ca",
+   "mean_en": "“From it were born the tanmatras, and then the five bhutas; and at that time the indriyas — of knowledge and of action.”",
+   "mean_te": "“దాని నుండి తన్మాత్రలు పుట్టాయి; తరువాత పంచభూతాలు; అప్పుడే జ్ఞానేంద్రియ, కర్మేంద్రియాలు కూడా పుట్టాయి.”"
+  },
+  {
+   "n": 56,
+   "text_deva": "तत्त्वानामिति संख्यानमुक्तं ते ऋषिसत्तम | जडात्मकञ्च तत्सर्वं प्रकृतेः पुरुषं विना",
+   "text_te": "తత్త్వానామితి సంఖ్యానముక్తం తే ఋషిసత్తమ | జడాత్మకఞ్చ తత్సర్వం ప్రకృతేః పురుషం వినా",
+   "text_en": "tattvānāmiti saṁkhyānamuktaṁ te ṛṣisattama | jaḍātmakañca tatsarvaṁ prakṛteḥ puruṣaṁ vinā",
+   "mean_en": "“These are reckoned as the tattvas, O best of sages — all of them insentient, apart from the Purusha.”",
+   "mean_te": "“ఇవే తత్త్వాలుగా గణించబడతాయి, ఋషిశ్రేష్ఠా — పురుషుడు తప్ప వీటన్నింటికీ జడత్వమే.”"
+  },
+  {
+   "n": 57,
+   "text_deva": "तत्तदैकीकृतं तत्त्वं चतुर्विंशतिसंख्यकम् | शिवेच्छया गृहीत्वा स सुष्वाप ब्रह्मरूपके",
+   "text_te": "తత్తదైకీకృతం తత్త్వం చతుర్వింశతిసంఖ్యకమ్ | శివేచ్ఛయా గృహీత్వా స సుష్వాప బ్రహ్మరూపకే",
+   "text_en": "tattadaikīkṛtaṁ tattvaṁ caturviṁśatisaṁkhyakam | śivecchayā gṛhītvā sa suṣvāpa brahmarūpake",
+   "mean_en": "“Those tattvas, combined, number twenty-four; by Shiva's will he took them up and slept upon that Brahman-formed water.”",
+   "mean_te": "“ఆ తత్త్వాలు ఏకీకృతమై ఇరవై నాలుగు సంఖ్యగలవి; శివేచ్ఛతో వాటిని స్వీకరించి, అతడు ఆ బ్రహ్మస్వరూప జలంపై నిద్రించాడు.”"
+  },
+  {
+   "n": 58,
+   "text_deva": "इति श्रीशिवमहापुराणे द्वितीयायां रुद्रसंहितायां सृष्टिव्याख्यने प्रथमखंडे विष्णूत्पत्तिवर्णनो नाम षष्ठोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే ద్వితీయాయాం రుద్రసంహితాయాం సృష్టివ్యాఖ్యనే ప్రథమఖండే విష్ణూత్పత్తివర్ణనో నామ షష్ఠోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe dvitīyāyāṁ rudrasaṁhitāyāṁ sṛṣṭivyākhyane prathamakhaṁḍe viṣṇūtpattivarṇano nāma ṣaṣṭho'dhyāyaḥ",
+   "mean_en": "Thus ends, in the Sri Shiva Mahapurana, in the second (Rudra) Samhita, in the first khanda, the Srishti-vyakhana: the sixth adhyaya, called “Vishnutpatti-varnana.”",
+   "mean_te": "ఇది శ్రీశివమహాపురాణములో రెండవ రుద్రసంహితలో మొదటి ఖండమైన సృష్టివ్యాఖ్యానములో “విష్ణూత్పత్తివర్ణనము” అనే ఆరవ అధ్యాయము — ఇది పూర్తయింది."
+  }
+ ]
+}

@@ -1,0 +1,833 @@
+{
+ "kanda": "kotirudra-samhita",
+ "n": 40,
+ "title_deva": "शिवरात्रिव्रतमाहात्म्यवर्णनम्",
+ "title_te": "శివరాత్రివ్రతమాహాత్మ్యవర్ణనమ్",
+ "title_iast": "śivarātrivratamāhātmyavarṇanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ऋषय ऊचुः सूत ते वचनं श्रुत्वा परानन्दं वयं गताः | विस्तरात्कथय प्रीत्या तदेव व्रतमुत्तमम्",
+   "text_te": "ఋషయ ఊచుః సూత తే వచనం శ్రుత్వా పరానన్దం వయం గతాః | విస్తరాత్కథయ ప్రీత్యా తదేవ వ్రతముత్తమమ్",
+   "text_en": "ṛṣaya ūcuḥ sūta te vacanaṁ śrutvā parānandaṁ vayaṁ gatāḥ | vistarātkathaya prītyā tadeva vratamuttamam",
+   "mean_en": "The sages said: O Suta, hearing your words we have attained supreme bliss. Please tell us lovingly and in detail about that supreme vow (Shivaratri).",
+   "mean_te": "మునులు అన్నారు: ఓ సూతా! నీ మాటలు విని మేము అపారమైన ఆనందాన్ని పొందాము. ఆ శ్రేష్ఠమైన వ్రతం (శివరాత్రి) గురించి ప్రీతితో విపులంగా చెప్పు."
+  },
+  {
+   "n": 2,
+   "text_deva": "कृतं पुरा तु केनेह सूतैतद्व्रतमुत्तमम् | कृत्वाप्यज्ञानतश्चैव प्राप्तं किं फलमुत्तमम्",
+   "text_te": "కృతం పురా తు కేనేహ సూతైతద్వ్రతముత్తమమ్ | కృత్వాప్యజ్ఞానతశ్చైవ ప్రాప్తం కిం ఫలముత్తమమ్",
+   "text_en": "kṛtaṁ purā tu keneha sūtaitadvratamuttamam | kṛtvāpyajñānataścaiva prāptaṁ kiṁ phalamuttamam",
+   "mean_en": "O Suta, who performed this supreme vow in ancient times? And what fruit was obtained even by performing it unknowingly?",
+   "mean_te": "ఓ సూతా! ఈ ఉత్తమ వ్రతాన్ని పూర్వం ఎవరు ఆచరించారు? తెలియకుండానే ఆచరించినా ఏ ఫలం లభించింది?"
+  },
+  {
+   "n": 3,
+   "text_deva": "श्रूयतामृषयस्सर्वे कथयामि पुरातनम् | इतिहासं निषादस्य सर्वपापप्रणाशनम्",
+   "text_te": "శ్రూయతామృషయస్సర్వే కథయామి పురాతనమ్ | ఇతిహాసం నిషాదస్య సర్వపాపప్రణాశనమ్",
+   "text_en": "śrūyatāmṛṣayassarve kathayāmi purātanam | itihāsaṁ niṣādasya sarvapāpapraṇāśanam",
+   "mean_en": "O sages, listen all of you; I shall narrate the ancient story of the Nishada (hunter), which destroys all sins.",
+   "mean_te": "ఓ మునులారా! అందరూ వినండి; నేను పురాతనమైన నిషాధుని (వేటగాని) కథను చెబుతాను, అది సమస్త పాపాలను నాశనం చేస్తుంది."
+  },
+  {
+   "n": 4,
+   "text_deva": "पुरा कश्चिद्वने भिल्लो नाम्ना ह्यासीद्गुरुद्रुहः | कुटुम्बी बलवान्क्रूरः क्रूरकर्मपरायणः",
+   "text_te": "పురా కశ్చిద్వనే భిల్లో నామ్నా హ్యాసీద్గురుద్రుహః | కుటుమ్బీ బలవాన్క్రూరః క్రూరకర్మపరాయణః",
+   "text_en": "purā kaścidvane bhillo nāmnā hyāsīdgurudruhaḥ | kuṭumbī balavānkrūraḥ krūrakarmaparāyaṇaḥ",
+   "mean_en": "Formerly, in a forest, there lived a hunter (bhilla) named Gurudruha, who had a family, was strong, cruel, and devoted to cruel deeds.",
+   "mean_te": "పూర్వం ఒక అడవిలో గురుద్రుహుడు అనే భిల్లుడు (వేటగాడు) ఉండేవాడు. అతడు కుటుంబీకుడు, బలవంతుడు, నిర్దయుడు, క్రూరమైన కార్యాలలో నిమగ్నుడు."
+  },
+  {
+   "n": 5,
+   "text_deva": "निरन्तरं वने गत्वा मृगान्हन्ति स्म नित्यशः | चौर्य्यं च विविधं तत्र करोति स्म वने वसन्",
+   "text_te": "నిరన్తరం వనే గత్వా మృగాన్హన్తి స్మ నిత్యశః | చౌర్య్యం చ వివిధం తత్ర కరోతి స్మ వనే వసన్",
+   "text_en": "nirantaraṁ vane gatvā mṛgānhanti sma nityaśaḥ | cauryyaṁ ca vividhaṁ tatra karoti sma vane vasan",
+   "mean_en": "He would constantly go into the forest and hunt deer every day. Living in the forest, he also committed various kinds of thefts there.",
+   "mean_te": "అతడు నిరంతరం అడవికి వెళ్లి ప్రతిరోజూ మృగాలను వేటాడేవాడు. అడవిలో నివసిస్తూ అక్కడ వివిధ రకాల దొంగతనాలు చేసేవాడు."
+  },
+  {
+   "n": 6,
+   "text_deva": "बाल्यादारभ्य तेनेह कृतं किंचिच्छुभं नहि | महान्कालो व्यतीयाय वने तस्य दुरात्मनः",
+   "text_te": "బాల్యాదారభ్య తేనేహ కృతం కించిచ్ఛుభం నహి | మహాన్కాలో వ్యతీయాయ వనే తస్య దురాత్మనః",
+   "text_en": "bālyādārabhya teneha kṛtaṁ kiṁcicchubhaṁ nahi | mahānkālo vyatīyāya vane tasya durātmanaḥ",
+   "mean_en": "From childhood onward he had done no good deed at all here. A long span of time passed for that wicked man in the forest.",
+   "mean_te": "బాల్యం నుండి అతడు ఏ మంచి పనీ చేయలేదు. ఆ దురాత్మునికి అడవిలో ఎన్నో ఏళ్లు గడిచాయి."
+  },
+  {
+   "n": 7,
+   "text_deva": "कदाचिच्छिवरात्रिश्च प्राप्तासीत्तत्र शोभना | न दुरात्मा स्म जानाति महद्वननिवासकृत्",
+   "text_te": "కదాచిచ్ఛివరాత్రిశ్చ ప్రాప్తాసీత్తత్ర శోభనా | న దురాత్మా స్మ జానాతి మహద్వననివాసకృత్",
+   "text_en": "kadācicchivarātriśca prāptāsīttatra śobhanā | na durātmā sma jānāti mahadvananivāsakṛt",
+   "mean_en": "Once, the auspicious Shivaratri arrived there. That wicked man, dwelling in the great forest, did not know of it.",
+   "mean_te": "ఒకసారి అక్కడ శోభనమైన శివరాత్రి రానేసింది. కానీ ఆ దురాత్ముడు అది తెలుసుకోలేదు, ఎందుకంటే అతడు అడవిలోనే నివసించేవాడు."
+  },
+  {
+   "n": 8,
+   "text_deva": "एतस्मिन्समये भिल्लो मात्रा पित्रा स्त्रिया तथा | प्रार्थितश्च क्षुधाऽविष्टैर्भक्ष्यं देहि वनेचर",
+   "text_te": "ఏతస్మిన్సమయే భిల్లో మాత్రా పిత్రా స్త్రియా తథా | ప్రార్థితశ్చ క్షుధాఽవిష్టైర్భక్ష్యం దేహి వనేచర",
+   "text_en": "etasminsamaye bhillo mātrā pitrā striyā tathā | prārthitaśca kṣudhā'viṣṭairbhakṣyaṁ dehi vanecara",
+   "mean_en": "At that time the hunter was importuned by his mother, father, and wife as well, all tormented by hunger: \"O forest-dweller, give us food to eat.\"",
+   "mean_te": "ఆ సమయంలో ఆకలితో బాధపడుతూ అతని తల్లి, తండ్రి, భార్య ఆ వేటగానిని వేడుకున్నారు: \"ఓ అడవి నివాసి! మాకు తినడానికి ఆహారమివ్వు.\""
+  },
+  {
+   "n": 9,
+   "text_deva": "इति संप्रार्थितः सोऽपि धनुरादाय सत्वरम् | जगाम मृगहिंसार्थं बभ्राम सकलं वनम्",
+   "text_te": "ఇతి సంప్రార్థితః సోఽపి ధనురాదాయ సత్వరమ్ | జగామ మృగహింసార్థం బభ్రామ సకలం వనమ్",
+   "text_en": "iti saṁprārthitaḥ so'pi dhanurādāya satvaram | jagāma mṛgahiṁsārthaṁ babhrāma sakalaṁ vanam",
+   "mean_en": "Being thus beseeched, he quickly took up his bow and set out to kill deer, wandering through the entire forest.",
+   "mean_te": "అలా వేడుకున్న అతడు వెంటనే ధనుస్సు తీసుకొని మృగాలను చంపడానికి బయలుదేరి మొత్తం అడవిలో తిరిగాడు."
+  },
+  {
+   "n": 10,
+   "text_deva": "दैवयोगात्तदा तेन न प्राप्तं किंचिदेव हि | अस्तप्राप्तस्तदा सूर्यस्स वै दुःखमुपागतः",
+   "text_te": "దైవయోగాత్తదా తేన న ప్రాప్తం కించిదేవ హి | అస్తప్రాప్తస్తదా సూర్యస్స వై దుఃఖముపాగతః",
+   "text_en": "daivayogāttadā tena na prāptaṁ kiṁcideva hi | astaprāptastadā sūryassa vai duḥkhamupāgataḥ",
+   "mean_en": "By the decree of fate he got nothing at all that day. When the sun had set, he fell into distress.",
+   "mean_te": "అయితే విధి వల్ల ఆ రోజు అతడికి ఏమీ దొరకలేదు. సూర్యుడు అస్తమించగానే అతడు దుఃఖానికి గురయ్యాడు."
+  },
+  {
+   "n": 11,
+   "text_deva": "किं कर्तव्यं क्व गंतव्यं न प्राप्तं मेऽद्य किंचन | बालाश्च ये गृहे तेषां किं पित्रोश्च भविष्यति",
+   "text_te": "కిం కర్తవ్యం క్వ గంతవ్యం న ప్రాప్తం మేఽద్య కించన | బాలాశ్చ యే గృహే తేషాం కిం పిత్రోశ్చ భవిష్యతి",
+   "text_en": "kiṁ kartavyaṁ kva gaṁtavyaṁ na prāptaṁ me'dya kiṁcana | bālāśca ye gṛhe teṣāṁ kiṁ pitrośca bhaviṣyati",
+   "mean_en": "\"What shall I do? Where shall I go? Today I have obtained nothing. What will become of the children at home, and of my parents?\"",
+   "mean_te": "\"ఇప్పుడు నేను ఏమి చేయాలి? ఎక్కడికి వెళ్లాలి? నాకు ఈరోజు ఏమీ దొరకలేదు. ఇంట్లో ఉన్న పిల్లలకు, తల్లిదండ్రులకు ఏమవుతుంది?\""
+  },
+  {
+   "n": 12,
+   "text_deva": "मदीयं वै कलत्रं च तस्याः किंचिद्भविष्यति | किंचिद्गृहीत्वा हि मया गंतव्यं नान्यथा भवेत्",
+   "text_te": "మదీయం వై కలత్రం చ తస్యాః కించిద్భవిష్యతి | కించిద్గృహీత్వా హి మయా గంతవ్యం నాన్యథా భవేత్",
+   "text_en": "madīyaṁ vai kalatraṁ ca tasyāḥ kiṁcidbhaviṣyati | kiṁcidgṛhītvā hi mayā gaṁtavyaṁ nānyathā bhavet",
+   "mean_en": "\"What will befall my wife? I must somehow bring home something; otherwise there is no other way.\"",
+   "mean_te": "\"నా భార్యకు ఏమవుతుంది? ఏదో ఒకటి పట్టుకొని నేను ఇంటికి వెళ్లాలి; లేకపోతే ఇక మార్గం లేదు.\""
+  },
+  {
+   "n": 13,
+   "text_deva": "इत्थं विचार्य स व्याधो जलाशय समीपगः | जलावतरणं यत्र तत्र गत्वा स्वयं स्थितः",
+   "text_te": "ఇత్థం విచార్య స వ్యాధో జలాశయ సమీపగః | జలావతరణం యత్ర తత్ర గత్వా స్వయం స్థితః",
+   "text_en": "itthaṁ vicārya sa vyādho jalāśaya samīpagaḥ | jalāvataraṇaṁ yatra tatra gatvā svayaṁ sthitaḥ",
+   "mean_en": "Having reflected thus, the hunter approached a lake. He went to the spot where animals descend to drink water and stationed himself there.",
+   "mean_te": "అలా ఆలోచించి, ఆ వేటగాడు ఒక నీటి చెరువు దగ్గరకు వెళ్లాడు. మృగాలు నీళ్లు తాగడానికి దిగే చోటుకు వెళ్లి అక్కడే నిలబడ్డాడు."
+  },
+  {
+   "n": 14,
+   "text_deva": "अवश्यमत्र कश्चिद्वै जीवश्चैवागमिष्यति | तं हत्वा स्वगृहं प्रीत्या यास्यामि कृतकार्यकः",
+   "text_te": "అవశ్యమత్ర కశ్చిద్వై జీవశ్చైవాగమిష్యతి | తం హత్వా స్వగృహం ప్రీత్యా యాస్యామి కృతకార్యకః",
+   "text_en": "avaśyamatra kaścidvai jīvaścaivāgamiṣyati | taṁ hatvā svagṛhaṁ prītyā yāsyāmi kṛtakāryakaḥ",
+   "mean_en": "\"Surely some creature will come here. Having killed it, I shall joyfully return home, my task accomplished.\"",
+   "mean_te": "\"ఇక్కడకు ఖచ్చితంగా ఏదైనా జీవి వస్తుంది. దానిని చంపి, పని పూర్తయినట్టుగా సంతోషంగా నా ఇంటికి వెళ్తాను\" అని అనుకున్నాడు."
+  },
+  {
+   "n": 15,
+   "text_deva": "इति मत्वा स वै वृक्षमेकं बिल्वेतिसंज्ञकम् | समारुह्य स्थितस्तत्र जलमादाय भिल्लकः",
+   "text_te": "ఇతి మత్వా స వై వృక్షమేకం బిల్వేతిసంజ్ఞకమ్ | సమారుహ్య స్థితస్తత్ర జలమాదాయ భిల్లకః",
+   "text_en": "iti matvā sa vai vṛkṣamekaṁ bilvetisaṁjñakam | samāruhya sthitastatra jalamādāya bhillakaḥ",
+   "mean_en": "Having so resolved, the hunter climbed a single Bilva tree named so, and remained stationed there, taking his water (vessel) with him.",
+   "mean_te": "అలా నిర్ణయించుకొని, ఆ వేటగాడు బిల్వ (మారేడు) వృక్షం ఒకటి ఎక్కి, నీళ్లు తీసుకొని అక్కడ నిలబడ్డాడు."
+  },
+  {
+   "n": 16,
+   "text_deva": "कदा यास्यति कश्चिद्वै कदा हन्यामहं पुनः | इति बुद्धिं समास्थाय स्थितोऽसौ क्षुत्तृषान्वितः",
+   "text_te": "కదా యాస్యతి కశ్చిద్వై కదా హన్యామహం పునః | ఇతి బుద్ధిం సమాస్థాయ స్థితోఽసౌ క్షుత్తృషాన్వితః",
+   "text_en": "kadā yāsyati kaścidvai kadā hanyāmahaṁ punaḥ | iti buddhiṁ samāsthāya sthito'sau kṣuttṛṣānvitaḥ",
+   "mean_en": "\"When will some creature come? When shall I kill it?\" Thinking thus, he remained on the tree, afflicted by hunger and thirst.",
+   "mean_te": "\"ఎప్పుడైనా ఏదైనా జీవి వస్తుందా? ఎప్పుడు నేను దానిని చంపగలను?\" అని ఆలోచిస్తూ, ఆకలి దాహంతో బాధపడుతూ అతడు చెట్టుపైనే ఉండిపోయాడు."
+  },
+  {
+   "n": 17,
+   "text_deva": "तद्रात्रौ प्रथमे यामे मृगी त्वेका समागता | तृषार्ता चकिता सा च प्रोत्फालं कुर्वती तदा",
+   "text_te": "తద్రాత్రౌ ప్రథమే యామే మృగీ త్వేకా సమాగతా | తృషార్తా చకితా సా చ ప్రోత్ఫాలం కుర్వతీ తదా",
+   "text_en": "tadrātrau prathame yāme mṛgī tvekā samāgatā | tṛṣārtā cakitā sā ca protphālaṁ kurvatī tadā",
+   "mean_en": "That night, in the first watch (yama), a single doe arrived there, tormented by thirst and frightened, her mouth quivering as she came.",
+   "mean_te": "ఆ రాత్రి మొదటి యామంలో (ప్రథమ పహరాలో) ఒంటరి ఒక లేడి అక్కడికి వచ్చింది. దాహంతో బాధపడి, భయంతో వణుకుతూ, నోరు తెరుచుకుంటూ అది వచ్చింది."
+  },
+  {
+   "n": 18,
+   "text_deva": "तां दृष्ट्वा च तदा तेन तद्वधार्थमथो शरः | संहृष्टेन द्रुतं विष्णो धनुषि स्वे हि संदधे",
+   "text_te": "తాం దృష్ట్వా చ తదా తేన తద్వధార్థమథో శరః | సంహృష్టేన ద్రుతం విష్ణో ధనుషి స్వే హి సందధే",
+   "text_en": "tāṁ dṛṣṭvā ca tadā tena tadvadhārthamatho śaraḥ | saṁhṛṣṭena drutaṁ viṣṇo dhanuṣi sve hi saṁdadhe",
+   "mean_en": "Seeing the doe and eager to slay her, the hunter joyfully and quickly fixed an arrow on his own bow.",
+   "mean_te": "ఆ జింకెను చూసి, దానిని చంపాలనే తలంపుతో, అతడు సంతోషంగా వేగంగా తన విల్లుపై బాణం సిద్ధం చేశాడు."
+  },
+  {
+   "n": 19,
+   "text_deva": "इत्येवं कुर्वतस्तस्य जलं बिल्वदलानि च | पतितानि ह्यधस्तत्र शिवलिंगमभूत्ततः",
+   "text_te": "ఇత్యేవం కుర్వతస్తస్య జలం బిల్వదలాని చ | పతితాని హ్యధస్తత్ర శివలింగమభూత్తతః",
+   "text_en": "ityevaṁ kurvatastasya jalaṁ bilvadalāni ca | patitāni hyadhastatra śivaliṁgamabhūttataḥ",
+   "mean_en": "While he was thus occupied, the water and the bilva leaves fell down below there, and thus came about the worship of the Shiva linga.",
+   "mean_te": "అతడు అలా చేస్తుండగా, నీరు మరియు బిల్వదళాలు క్రిందకు పడ్డాయి; దాంతో అక్కడ శివలింగ పూజ జరిగింది."
+  },
+  {
+   "n": 20,
+   "text_deva": "यामस्य प्रथमस्यैव पूजा जाता शिवस्य च | तन्महिम्ना हि तस्यैव पातकं गलितन्तदा",
+   "text_te": "యామస్య ప్రథమస్యైవ పూజా జాతా శివస్య చ | తన్మహిమ్నా హి తస్యైవ పాతకం గలితన్తదా",
+   "text_en": "yāmasya prathamasyaiva pūjā jātā śivasya ca | tanmahimnā hi tasyaiva pātakaṁ galitantadā",
+   "mean_en": "The worship of Shiva that occurred during the very first watch (yama) of the night — by its glory his sin melted away at that very time.",
+   "mean_te": "ఆ రాత్రి మొదటి యామములోనే శివునికి పూజ జరిగింది; దాని మహిమవల్ల అతని పాపం ఆ సమయంలోనే కరిగిపోయింది."
+  },
+  {
+   "n": 21,
+   "text_deva": "तत्रत्यं चैव तच्छब्दं श्रुत्वा सा हरिणी भिया | व्याधं दृष्ट्वा व्याकुला हि वचनं चेदमब्रवीत्",
+   "text_te": "తత్రత్యం చైవ తచ్ఛబ్దం శ్రుత్వా సా హరిణీ భియా | వ్యాధం దృష్ట్వా వ్యాకులా హి వచనం చేదమబ్రవీత్",
+   "text_en": "tatratyaṁ caiva tacchabdaṁ śrutvā sā hariṇī bhiyā | vyādhaṁ dṛṣṭvā vyākulā hi vacanaṁ cedamabravīt",
+   "mean_en": "Hearing that sound there, the doe, frightened and agitated on seeing the hunter, spoke these words:",
+   "mean_te": "అక్కడ ఆ శబ్దం విని, వేటగాడిని చూసి భయంతో కలవరపడిన ఆ జింకె ఈ మాటలు పలికింది:"
+  },
+  {
+   "n": 22,
+   "text_deva": "मृग्युवाच किं कर्तुमिच्छसि व्याध सत्यं वद ममाग्रतः | तच्छुत्वा हरिणीवाक्यं व्याधो वचनमब्रवीत्",
+   "text_te": "మృగ్యువాచ కిం కర్తుమిచ్ఛసి వ్యాధ సత్యం వద మమాగ్రతః | తచ్ఛుత్వా హరిణీవాక్యం వ్యాధో వచనమబ్రవీత్",
+   "text_en": "mṛgyuvāca kiṁ kartumicchasi vyādha satyaṁ vada mamāgrataḥ | tacchutvā hariṇīvākyaṁ vyādho vacanamabravīt",
+   "mean_en": "The doe said: 'O hunter, what do you intend to do? Speak the truth before me.' Hearing the doe's words, the hunter spoke:",
+   "mean_te": "జింకె పలికింది: 'వేటగాడా, నీవు ఏం చేయాలనుకుంటున్నావు? నా ముందే సత్యం చెప్పు.' జింకె మాటలు విని వేటగాడు ఇలా పలికాడు:"
+  },
+  {
+   "n": 23,
+   "text_deva": "कुटुम्बं क्षुधितं मेऽद्य हत्वा त्वां तर्पयाम्यहम् | दारुणं तद्वचश्श्रुत्वा दृष्ट्वा तं दुर्द्धरं खलम्",
+   "text_te": "కుటుమ్బం క్షుధితం మేఽద్య హత్వా త్వాం తర్పయామ్యహమ్ | దారుణం తద్వచశ్శ్రుత్వా దృష్ట్వా తం దుర్ద్ధరం ఖలమ్",
+   "text_en": "kuṭumbaṁ kṣudhitaṁ me'dya hatvā tvāṁ tarpayāmyaham | dāruṇaṁ tadvacaśśrutvā dṛṣṭvā taṁ durddharaṁ khalam",
+   "mean_en": "The hunter said: 'My family is hungry today; killing you I shall satisfy them.' Hearing those cruel words and seeing that wicked, unbearable fellow, she was alarmed.",
+   "mean_te": "వేటగాడు పలికాడు: 'ఈరోజు నా కుటుంబం ఆకలితో ఉంది; నిన్ను చంపి వారిని తృప్తిపరుస్తాను.' ఆ ఘోరమైన మాటలు విని, ఆ భరించడానికి కష్టమైన దుర్మార్గుడిని చూసి ఆమె భయపడింది."
+  },
+  {
+   "n": 24,
+   "text_deva": "किं करोमि क्व गच्छामि ह्युपायं रचयाम्यहम् | इत्थं विचार्यं सा तत्र वचनं चेदमब्रवीत्",
+   "text_te": "కిం కరోమి క్వ గచ్ఛామి హ్యుపాయం రచయామ్యహమ్ | ఇత్థం విచార్యం సా తత్ర వచనం చేదమబ్రవీత్",
+   "text_en": "kiṁ karomi kva gacchāmi hyupāyaṁ racayāmyaham | itthaṁ vicāryaṁ sā tatra vacanaṁ cedamabravīt",
+   "mean_en": "(She thought:) 'What can I do? Where shall I go? Let me devise some plan.' Having thus pondered, she spoke these words:",
+   "mean_te": "'నేను ఏం చేయాలి? ఎక్కడికి వెళ్ళాలి? ఏదైనా ఉపాయం పన్నుకుంటాను' అని ఆమె ఆలోచించింది; అలా విచారించి ఆమె ఈ మాటలు పలికింది:"
+  },
+  {
+   "n": 25,
+   "text_deva": "मृग्युवाच मन्मांसेन सुखं ते स्याद्देहस्यानर्थकारिणः | अधिकं किं महत्पुण्यं धन्याहं नात्र संशयः",
+   "text_te": "మృగ్యువాచ మన్మాంసేన సుఖం తే స్యాద్దేహస్యానర్థకారిణః | అధికం కిం మహత్పుణ్యం ధన్యాహం నాత్ర సంశయః",
+   "text_en": "mṛgyuvāca manmāṁsena sukhaṁ te syāddehasyānarthakāriṇaḥ | adhikaṁ kiṁ mahatpuṇyaṁ dhanyāhaṁ nātra saṁśayaḥ",
+   "mean_en": "The doe said: 'You will be pleased with my flesh, for this body of mine is of no use. What greater, nobler merit could there be? I am blessed indeed, without doubt.'",
+   "mean_te": "జింకె పలికింది: 'నా మాంసంతో నీకు ముది కలుగుతుంది; ఎందుకంటే ఈ దేహం నాకు ఏ పనికీ రాదు. ఇంతకంటే గొప్ప పుణ్యం ఏముంటుంది? నేను ధన్యురాలినే, దీనిలో సందేహమే లేదు.'"
+  },
+  {
+   "n": 26,
+   "text_deva": "उपकारकरस्यैव यत्पुण्यं जायते त्विह | तत्पुण्यं शक्यते नैव वक्तुं वर्षशतैरपि",
+   "text_te": "ఉపకారకరస్యైవ యత్పుణ్యం జాయతే త్విహ | తత్పుణ్యం శక్యతే నైవ వక్తుం వర్షశతైరపి",
+   "text_en": "upakārakarasyaiva yatpuṇyaṁ jāyate tviha | tatpuṇyaṁ śakyate naiva vaktuṁ varṣaśatairapi",
+   "mean_en": "The merit that arises here to one who does a helpful act to another cannot be described even in hundreds of years.",
+   "mean_te": "ఇతరులకు ఉపకారం చేసేవానికి ఇక్కడ కలిగే పుణ్యాన్ని వందల సంవత్సరాలైనా చెప్పలేము."
+  },
+  {
+   "n": 27,
+   "text_deva": "परं तु शिशवो मेऽद्य वर्तंते स्वाश्रमेऽखिलाः | भगिन्यै तान्समर्प्यैव प्रायास्ये स्वामिनेऽथ वा",
+   "text_te": "పరం తు శిశవో మేఽద్య వర్తంతే స్వాశ్రమేఽఖిలాః | భగిన్యై తాన్సమర్ప్యైవ ప్రాయాస్యే స్వామినేఽథ వా",
+   "text_en": "paraṁ tu śiśavo me'dya vartaṁte svāśrame'khilāḥ | bhaginyai tānsamarpyaiva prāyāsye svāmine'tha vā",
+   "mean_en": "But today all my young ones are staying in my lair; having entrusted them to my sister, I shall go away to my lord.",
+   "mean_te": "కానీ ఈరోజు నా పిల్లలంతా నా నివాసంలో ఉన్నాయి; వాటిని నా సోదరికి అప్పగించి, నేను నా స్వామి వద్దకు వెళ్తాను."
+  },
+  {
+   "n": 28,
+   "text_deva": "न मे मिथ्यावचस्त्वं हि विजानीहि वनेचर | आयास्येह पुनश्चेह समीपं ते न संशयः",
+   "text_te": "న మే మిథ్యావచస్త్వం హి విజానీహి వనేచర | ఆయాస్యేహ పునశ్చేహ సమీపం తే న సంశయః",
+   "text_en": "na me mithyāvacastvaṁ hi vijānīhi vanecara | āyāsyeha punaśceha samīpaṁ te na saṁśayaḥ",
+   "mean_en": "'I am not speaking falsely — know this, O wanderer of the forest. I shall come back here again and come near you, without doubt.'",
+   "mean_te": "'నేను అసత్యం చెప్పట్లేదు; దీన్ని గ్రహించు, అడవిలో తిరిగేవాడా! నేను మళ్ళీ ఇక్కడికి వచ్చి నీ సమీపానికి వస్తాను; దీనిలో సందేహం లేదు.'"
+  },
+  {
+   "n": 29,
+   "text_deva": "स्थिता सत्येन धरणी सत्येनैव च वारिधिः | सत्येन जलधाराश्च सत्ये सर्वम्प्रतिष्ठितम्",
+   "text_te": "స్థితా సత్యేన ధరణీ సత్యేనైవ చ వారిధిః | సత్యేన జలధారాశ్చ సత్యే సర్వమ్ప్రతిష్ఠితమ్",
+   "text_en": "sthitā satyena dharaṇī satyenaiva ca vāridhiḥ | satyena jaladhārāśca satye sarvampratiṣṭhitam",
+   "mean_en": "'The earth is established by truth, the ocean by truth, and the rain-showers by truth; in truth everything is established.'",
+   "mean_te": "'సత్యంతో భూమి నిలిచింది; సత్యంతోనే సముద్రం; సత్యంతోనే వర్షధారలు; సత్యంలోనే సర్వం ప్రతిష్ఠితమై ఉంది.'"
+  },
+  {
+   "n": 30,
+   "text_deva": "इत्युक्तोऽपि तया व्याधो न मेने तद्वचो यदा | तदा सुविस्मिता भीता वचनं साब्रवीत्पुनः",
+   "text_te": "ఇత్యుక్తోఽపి తయా వ్యాధో న మేనే తద్వచో యదా | తదా సువిస్మితా భీతా వచనం సాబ్రవీత్పునః",
+   "text_en": "ityukto'pi tayā vyādho na mene tadvaco yadā | tadā suvismitā bhītā vacanaṁ sābravītpunaḥ",
+   "mean_en": "Even after she said this, when the hunter did not believe her words, she — greatly astonished and frightened — spoke again:",
+   "mean_te": "ఇలా చెప్పినప్పటికీ వేటగాడు ఆమె మాటను నమ్మకపోగా, ఆమె అత్యంత ఆశ్చర్యపడి, భయపడి మళ్ళీ ఈ మాటలు పలికింది:"
+  },
+  {
+   "n": 31,
+   "text_deva": "मृग्युवाच शृणु व्याध प्रवक्ष्यामि शपथं हि करोम्यहम् | आगच्छेयं यथा ते न समीपं स्वगृहाद्गता",
+   "text_te": "మృగ్యువాచ శృణు వ్యాధ ప్రవక్ష్యామి శపథం హి కరోమ్యహమ్ | ఆగచ్ఛేయం యథా తే న సమీపం స్వగృహాద్గతా",
+   "text_en": "mṛgyuvāca śṛṇu vyādha pravakṣyāmi śapathaṁ hi karomyaham | āgaccheyaṁ yathā te na samīpaṁ svagṛhādgatā",
+   "mean_en": "The doe said: 'Listen, O hunter; I shall declare an oath I take — that if, having gone to my home, I do not come near you again...'",
+   "mean_te": "జింకె పలికింది: 'విను వేటగాడా, నేను శపథం చేస్తాను — నేను నా ఇంటికి వెళ్ళి నీ సమీపానికి రాకపోతే...'"
+  },
+  {
+   "n": 32,
+   "text_deva": "ब्राह्मणो वेदविक्रेता सन्ध्याहीनस्त्रिकालकम् | स्त्रियस्स्वस्वामिनो ह्याज्ञां समुल्लंघ्य क्रियान्विताः",
+   "text_te": "బ్రాహ్మణో వేదవిక్రేతా సన్ధ్యాహీనస్త్రికాలకమ్ | స్త్రియస్స్వస్వామినో హ్యాజ్ఞాం సముల్లంఘ్య క్రియాన్వితాః",
+   "text_en": "brāhmaṇo vedavikretā sandhyāhīnastrikālakam | striyassvasvāmino hyājñāṁ samullaṁghya kriyānvitāḥ",
+   "mean_en": "'...(I shall incur the sin) of the Brahmin who sells the Vedas and neglects the sandhya worship of the three periods, and of women who transgress their lords' command even while performing rites.'",
+   "mean_te": "'...(నాకు) వేదాలను విక్రయించి, మూడు కాలాల సంధ్యావందనను వదిలేసిన బ్రాహ్మణుడి పాపం, క్రియలు చేస్తూనే తమ భర్తల ఆజ్ఞను ఉల్లంఘించే స్త్రీల పాపం అంటుకుంటుంది.'"
+  },
+  {
+   "n": 33,
+   "text_deva": "कृतघ्ने चैव यत्पापं तत्पापं विमुखे हरे | द्रोहिणश्चैव यत्पापं तत्पापं धर्मलंघने",
+   "text_te": "కృతఘ్నే చైవ యత్పాపం తత్పాపం విముఖే హరే | ద్రోహిణశ్చైవ యత్పాపం తత్పాపం ధర్మలంఘనే",
+   "text_en": "kṛtaghne caiva yatpāpaṁ tatpāpaṁ vimukhe hare | drohiṇaścaiva yatpāpaṁ tatpāpaṁ dharmalaṁghane",
+   "mean_en": "'...the sin of the ungrateful, the sin of one who turns his face away from Hari, and the sin of the treacherous violator of dharma.'",
+   "mean_te": "'...కృతఘ్నుడి పాపం, హరికి విముఖుడైనవాడి పాపం, అలాగే ధర్మాన్ని అతిక్రమించే ద్రోహి పాపం.'"
+  },
+  {
+   "n": 34,
+   "text_deva": "विश्वासघातके तच्च तथा वै छलकर्तरि | तेन पापेन लिम्पामि यद्यहं नागमे पुनः",
+   "text_te": "విశ్వాసఘాతకే తచ్చ తథా వై ఛలకర్తరి | తేన పాపేన లిమ్పామి యద్యహం నాగమే పునః",
+   "text_en": "viśvāsaghātake tacca tathā vai chalakartari | tena pāpena limpāmi yadyahaṁ nāgame punaḥ",
+   "mean_en": "'...and of the betrayer of trust and likewise of the deceiver — with that sin I shall be stained if I do not come back.'",
+   "mean_te": "'...అలాగే నమ్మకాన్ని ఘాతకం చేసేవాడి పాపం, మోసం చేసేవాడి పాపం — నేను మళ్ళీ రాకపోతే ఆ పాపంతో నేను కలుషితురాలిని అవుతాను.'"
+  },
+  {
+   "n": 35,
+   "text_deva": "इत्याद्यनेकशपथान्मृगी कृत्वा स्थिता यदा | तदा व्याधस्य विश्वस्य गच्छेति गृहमब्रवीत्",
+   "text_te": "ఇత్యాద్యనేకశపథాన్మృగీ కృత్వా స్థితా యదా | తదా వ్యాధస్య విశ్వస్య గచ్ఛేతి గృహమబ్రవీత్",
+   "text_en": "ityādyanekaśapathānmṛgī kṛtvā sthitā yadā | tadā vyādhasya viśvasya gaccheti gṛhamabravīt",
+   "mean_en": "When the doe had thus pronounced many curses as described above, she then said to the hunter, 'Go home.'",
+   "mean_te": "ఆవిధంగా అనేక శాపాలు ఇచ్చిన తరువాత ఆ మృగి (హరిణి) అప్పుడు వేటగాడితో 'నువ్వు ఇంటికి వెళ్ళు' అని పలికింది."
+  },
+  {
+   "n": 36,
+   "text_deva": "मृगी हृष्टाजलं पीत्वा गता स्वाश्रममण्डलम् | तावच्च प्रथमो यामस्तस्य निद्रां विना गतः",
+   "text_te": "మృగీ హృష్టాజలం పీత్వా గతా స్వాశ్రమమణ్డలమ్ | తావచ్చ ప్రథమో యామస్తస్య నిద్రాం వినా గతః",
+   "text_en": "mṛgī hṛṣṭājalaṁ pītvā gatā svāśramamaṇḍalam | tāvacca prathamo yāmastasya nidrāṁ vinā gataḥ",
+   "mean_en": "The doe joyfully drank water and returned to her own hermitage, while the hunter's first watch of the night passed without sleep.",
+   "mean_te": "ఆ మృగి సంతోషంగా నీళ్లు తాగి తన ఆశ్రమానికి వెళ్ళింది. వేటగాడికి మొదటి యామము నిద్ర లేకుండా గడిచింది."
+  },
+  {
+   "n": 37,
+   "text_deva": "तदीया भगिनी या वै मृगी च परिभाविता | तस्या मार्गं विचिन्वन्ती ह्याजगाम जलार्थिनी",
+   "text_te": "తదీయా భగినీ యా వై మృగీ చ పరిభావితా | తస్యా మార్గం విచిన్వన్తీ హ్యాజగామ జలార్థినీ",
+   "text_en": "tadīyā bhaginī yā vai mṛgī ca paribhāvitā | tasyā mārgaṁ vicinvantī hyājagāma jalārthinī",
+   "mean_en": "His sister, who was infused with divine power and was also a doe, came searching for her path, being thirsty for water.",
+   "mean_te": "అతని సోదరి, దైవబలంతో కూడిన మృగిగా ఉండి, నీళ్ల దాహంతో తన మార్గాన్ని వెతుకుంటూ వచ్చింది."
+  },
+  {
+   "n": 38,
+   "text_deva": "तां दृष्ट्वा च स्वयं भिल्लोऽकार्षीद्बाणस्य कर्षणम् | पूर्ववज्जलपत्राणि पतितानि शिवोपरि",
+   "text_te": "తాం దృష్ట్వా చ స్వయం భిల్లోఽకార్షీద్బాణస్య కర్షణమ్ | పూర్వవజ్జలపత్రాణి పతితాని శివోపరి",
+   "text_en": "tāṁ dṛṣṭvā ca svayaṁ bhillo'kārṣīdbāṇasya karṣaṇam | pūrvavajjalapatrāṇi patitāni śivopari",
+   "mean_en": "Seeing her, the hunter himself drew his bow and, as before, the arrow-tips fell upon Shiva.",
+   "mean_te": "ఆమెను చూసిన వేటగాడు విల్లు ఎక్కించగా, మునుపటిలాగే బాణపు మొనలు శివునిపై పడినవి."
+  },
+  {
+   "n": 39,
+   "text_deva": "यामस्य च द्वितीयस्य तेन शंभोर्महात्मनः | पूजा जाता प्रसंगेन व्याधस्य सुखदायिनी",
+   "text_te": "యామస్య చ ద్వితీయస్య తేన శంభోర్మహాత్మనః | పూజా జాతా ప్రసంగేన వ్యాధస్య సుఖదాయినీ",
+   "text_en": "yāmasya ca dvitīyasya tena śaṁbhormahātmanaḥ | pūjā jātā prasaṁgena vyādhasya sukhadāyinī",
+   "mean_en": "Thus in the second watch, worship of the great Shambhu occurred through the hunter's act, bringing joy to him.",
+   "mean_te": "ఈ విధంగా రెండవ యామములో వేటగాడి చేత శంభువుకు పూజ జరిగింది, అది ఆ మహాత్మునికి ఆనందాన్నిచ్చింది."
+  },
+  {
+   "n": 40,
+   "text_deva": "मृगी सा प्राह तं दृष्ट्वा किं करोषि वनेचर | पूर्ववत्कथितं तेन तच्छ्रुत्वाह मृगी पुनः",
+   "text_te": "మృగీ సా ప్రాహ తం దృష్ట్వా కిం కరోషి వనేచర | పూర్వవత్కథితం తేన తచ్ఛ్రుత్వాహ మృగీ పునః",
+   "text_en": "mṛgī sā prāha taṁ dṛṣṭvā kiṁ karoṣi vanecara | pūrvavatkathitaṁ tena tacchrutvāha mṛgī punaḥ",
+   "mean_en": "Seeing him, the doe asked, 'O forest-dweller, what are you doing?' He replied as before, and hearing it the doe spoke again.",
+   "mean_te": "ఆమెను (మృగిని) చూసి వేటగాడిని 'అడవివాసి, నువ్వు ఏం చేస్తున్నావు?' అని అడిగింది. మునుపటిలాగే వివరణ ఇచ్చాడు. విన్న ఆమె మళ్ళీ పలికింది."
+  },
+  {
+   "n": 41,
+   "text_deva": "मृग्युवाच धन्याहं श्रूयतां व्याध सफलं देहधारणम् | अनित्येन शरीरेण ह्युपकारो भविष्यति",
+   "text_te": "మృగ్యువాచ ధన్యాహం శ్రూయతాం వ్యాధ సఫలం దేహధారణమ్ | అనిత్యేన శరీరేణ హ్యుపకారో భవిష్యతి",
+   "text_en": "mṛgyuvāca dhanyāhaṁ śrūyatāṁ vyādha saphalaṁ dehadhāraṇam | anityena śarīreṇa hyupakāro bhaviṣyati",
+   "mean_en": "The doe said: 'Blessed am I, O hunter; listen — my embodied life becomes fruitful, for with this impermanent body I shall be of help.',",
+   "mean_te": "మృగి పలికింది: 'ధన్యురాలిని నేను, వేటగాడా, విను — నా దేహధారణ సార్థకమైంది; ఈ శాశ్వతం కాని శరీరంతో ఉపకారం చేయబోతున్నాను.'"
+  },
+  {
+   "n": 42,
+   "text_deva": "परन्तु मम बालाश्च गृहे तिष्ठन्ति चार्भकाः | भर्त्रे तांश्च समर्प्यैव ह्यागमिष्याम्यहं पुनः",
+   "text_te": "పరన్తు మమ బాలాశ్చ గృహే తిష్ఠన్తి చార్భకాః | భర్త్రే తాంశ్చ సమర్ప్యైవ హ్యాగమిష్యామ్యహం పునః",
+   "text_en": "parantu mama bālāśca gṛhe tiṣṭhanti cārbhakāḥ | bhartre tāṁśca samarpyaiva hyāgamiṣyāmyahaṁ punaḥ",
+   "mean_en": "'But my children are still young and stay at home; entrusting them to their father, I shall come back again.'",
+   "mean_te": "'అయితే నా పిల్లలు ఇంకా చిన్నవాళ్లు, ఇంట్లో ఉన్నారు; వాళ్లను తండ్రికి అప్పగించి నేను మళ్ళీ వస్తాను.'"
+  },
+  {
+   "n": 43,
+   "text_deva": "त्वया चोक्तं न मन्येहं हन्मि त्वां नात्र संशयः | तच्छुत्वा हरिणी प्राह शपथं कुर्वती हरे",
+   "text_te": "త్వయా చోక్తం న మన్యేహం హన్మి త్వాం నాత్ర సంశయః | తచ్ఛుత్వా హరిణీ ప్రాహ శపథం కుర్వతీ హరే",
+   "text_en": "tvayā coktaṁ na manyehaṁ hanmi tvāṁ nātra saṁśayaḥ | tacchutvā hariṇī prāha śapathaṁ kurvatī hare",
+   "mean_en": "'You say you will kill me if I do not believe — no doubt about it.' Hearing this, the doe (hind) spoke while taking an oath.",
+   "mean_te": "'నన్ను నమ్మకపోతే నిన్ను చంపుతానని నువ్వు చెప్పావు — దీనిలో సందేహం లేదు.' విన్న ఆ హరిణి ప్రమాణం చేస్తూ పలికింది."
+  },
+  {
+   "n": 44,
+   "text_deva": "मृग्युवाच शृणु व्याध प्रवक्ष्यामि नागच्छेयं पुनर्यदि | वाचा विचलितो यस्तु सुकृतं तेन हारितम्",
+   "text_te": "మృగ్యువాచ శృణు వ్యాధ ప్రవక్ష్యామి నాగచ్ఛేయం పునర్యది | వాచా విచలితో యస్తు సుకృతం తేన హారితమ్",
+   "text_en": "mṛgyuvāca śṛṇu vyādha pravakṣyāmi nāgaccheyaṁ punaryadi | vācā vicalito yastu sukṛtaṁ tena hāritam",
+   "mean_en": "The doe said: 'Listen, O hunter; I will tell you: if I do not come back, may the merit of one whose mind wavers in speech be destroyed.'",
+   "mean_te": "మృగి పలికింది: 'విను వేటగాడా, నేను చెబుతాను — నేను మళ్ళీ రాకపోతే, మాట తప్పిన వాని సుకృతం నాశనము అవుగాక.'"
+  },
+  {
+   "n": 45,
+   "text_deva": "परिणीता स्त्रियं हित्वा गच्छत्यन्यां च यः पुमान् | वेदधर्मं समुल्लंघ्य कल्पितेन च यो व्रजेत्",
+   "text_te": "పరిణీతా స్త్రియం హిత్వా గచ్ఛత్యన్యాం చ యః పుమాన్ | వేదధర్మం సముల్లంఘ్య కల్పితేన చ యో వ్రజేత్",
+   "text_en": "pariṇītā striyaṁ hitvā gacchatyanyāṁ ca yaḥ pumān | vedadharmaṁ samullaṁghya kalpitena ca yo vrajet",
+   "mean_en": "'Whoever abandons his wedded wife and goes to another, transgressing Vedic dharma — or acts per convention — his merit is lost.'",
+   "mean_te": "'వివాహం చేసుకున్న భార్యను వదిలి ఇంకొరాలిని చేరువాడు, వేదధర్మాన్ని ఉల్లంఘించినవాడు — అతని పుణ్యం నాశనమవుతుంది.'"
+  },
+  {
+   "n": 46,
+   "text_deva": "विष्णुभक्तिसमायुक्तः शिवनिन्दां करोति यः | पित्रोः क्षयाहमासाद्य शून्यं चैवाक्रमेदिह",
+   "text_te": "విష్ణుభక్తిసమాయుక్తః శివనిన్దాం కరోతి యః | పిత్రోః క్షయాహమాసాద్య శూన్యం చైవాక్రమేదిహ",
+   "text_en": "viṣṇubhaktisamāyuktaḥ śivanindāṁ karoti yaḥ | pitroḥ kṣayāhamāsādya śūnyaṁ caivākramediha",
+   "mean_en": "'One endowed with devotion to Vishnu yet blasphemes Shiva, or having lost his parents, transgresses — such a one is empty.',",
+   "mean_te": "'విష్ణుభక్తి కలిగి ఉండి శివుని నిందించేవాడు, లేదా తల్లిదండ్రులను కోల్పోయి ధర్మాన్ని అతిక్రమించేవాడు — అతని పుణ్యం శూన్యమవుతుంది.'"
+  },
+  {
+   "n": 47,
+   "text_deva": "कृत्वा च पारतापं हि करोति वचनं पुनः | तेन पापेन लिंपामि नागच्छेयं पुनर्यदि",
+   "text_te": "కృత్వా చ పారతాపం హి కరోతి వచనం పునః | తేన పాపేన లింపామి నాగచ్ఛేయం పునర్యది",
+   "text_en": "kṛtvā ca pāratāpaṁ hi karoti vacanaṁ punaḥ | tena pāpena liṁpāmi nāgaccheyaṁ punaryadi",
+   "mean_en": "'Having inflicted pain and then making promises again — with that sin I shall be tainted if I do not return.'",
+   "mean_te": "'ఇతరులకు వేదన కలిగించి మళ్ళీ మాటలు చేసేవాడు — నేను తిరిగి రాకపోతే ఆ పాపం నాకు అంటుకుంటుంది.'"
+  },
+  {
+   "n": 48,
+   "text_deva": "इत्युक्तश्च तया व्याधो गच्छेत्याह मृगीं च सः | सा मृगी च जलं पीत्वा हृष्टाऽगच्छत्स्वमाश्रमम्",
+   "text_te": "ఇత్యుక్తశ్చ తయా వ్యాధో గచ్ఛేత్యాహ మృగీం చ సః | సా మృగీ చ జలం పీత్వా హృష్టాఽగచ్ఛత్స్వమాశ్రమమ్",
+   "text_en": "ityuktaśca tayā vyādho gacchetyāha mṛgīṁ ca saḥ | sā mṛgī ca jalaṁ pītvā hṛṣṭā'gacchatsvamāśramam",
+   "mean_en": "Thus addressed, the hunter said to the doe, 'Go'; she joyfully drank water and went to her own hermitage.",
+   "mean_te": "ఇలా చెప్పిన తరువాత వేటగాడు మృగితో 'వెళ్ళు' అన్నాడు. ఆ మృగి సంతోషంగా నీళ్లు తాగి తన ఆశ్రమానికి వెళ్ళింది."
+  },
+  {
+   "n": 49,
+   "text_deva": "तावद्द्वितीयो यामो वै तस्य निद्रां विना गतः | एतस्मिन्समये तत्र प्राप्ते यामे तृतीयके",
+   "text_te": "తావద్ద్వితీయో యామో వై తస్య నిద్రాం వినా గతః | ఏతస్మిన్సమయే తత్ర ప్రాప్తే యామే తృతీయకే",
+   "text_en": "tāvaddvitīyo yāmo vai tasya nidrāṁ vinā gataḥ | etasminsamaye tatra prāpte yāme tṛtīyake",
+   "mean_en": "The second watch passed without sleep, and at that moment, when the third watch arrived,",
+   "mean_te": "రెండవ యామము నిద్ర లేకుండా గడిచింది. ఆ సమయంలో మూడవ యామము రాగా,"
+  },
+  {
+   "n": 50,
+   "text_deva": "ज्ञात्वा विलंबं चकितस्तदन्वेषणतत्परः | तद्यामे मृगमद्राक्षीज्जलमार्गगतं ततः",
+   "text_te": "జ్ఞాత్వా విలంబం చకితస్తదన్వేషణతత్పరః | తద్యామే మృగమద్రాక్షీజ్జలమార్గగతం తతః",
+   "text_en": "jñātvā vilaṁbaṁ cakitastadanveṣaṇatatparaḥ | tadyāme mṛgamadrākṣījjalamārgagataṁ tataḥ",
+   "mean_en": "Knowing the delay and becoming anxious, he eagerly searched; in that watch he saw the deer on the water's path.",
+   "mean_te": "ఆలస్యం తెలుసుకుని, భయపడి, ఆత్రుతగా వెతకడానికి సిద్ధమయ్యాడు. ఆ యామములో నీటి దారిలో వచ్చే మృగాన్ని చూశాడు."
+  },
+  {
+   "n": 51,
+   "text_deva": "पुष्टं मृगं च तं दृष्ट्वा हृष्टो वनचरस्स वै | शरं धनुषि संधाय हन्तुं तं हि प्रचक्रमे",
+   "text_te": "పుష్టం మృగం చ తం దృష్ట్వా హృష్టో వనచరస్స వై | శరం ధనుషి సంధాయ హన్తుం తం హి ప్రచక్రమే",
+   "text_en": "puṣṭaṁ mṛgaṁ ca taṁ dṛṣṭvā hṛṣṭo vanacarassa vai | śaraṁ dhanuṣi saṁdhāya hantuṁ taṁ hi pracakrame",
+   "mean_en": "Seeing the deer well-nourished, the forest-dweller (hunter) rejoiced; aiming his arrow upon the bow, he began to kill it.",
+   "mean_te": "బాగుపడిన (పుష్టిగించిన) మృగాన్ని చూసి ఆ వనచరుడు (వేటగాడు) సంతోషించి, ధనుస్సుపై బాణం సంధానించి, దానిని చంపడానికి ప్రయత్నించాడు."
+  },
+  {
+   "n": 52,
+   "text_deva": "तदैवं कुर्वतस्तस्य बिल्वपत्राणि कानिचित् | तत्प्रारब्धवशाद्विष्णो पतितानि शिवोपरि",
+   "text_te": "తదైవం కుర్వతస్తస్య బిల్వపత్రాణి కానిచిత్ | తత్ప్రారబ్ధవశాద్విష్ణో పతితాని శివోపరి",
+   "text_en": "tadaivaṁ kurvatastasya bilvapatrāṇi kānicit | tatprārabdhavaśādviṣṇo patitāni śivopari",
+   "mean_en": "While the hunter was thus engaged, a few bilva leaves fell upon the Shiva linga below through the force of his past karma.",
+   "mean_te": "ఆ వేటగాడు అలా నిమగ్నుడై ఉండగా, అతని పూర్వకర్మ ప్రభావంతో కొన్ని బిల్వ పత్రాలు (మారేడు ఆకులు) కింద ఉన్న శివలింగంపై పడ్డాయి."
+  },
+  {
+   "n": 53,
+   "text_deva": "तेन तृतीययामस्य तद्रात्रौ तस्य भाग्यतः | पूजा जाता शिवस्यैव कृपालुत्वं प्रदर्शितम्",
+   "text_te": "తేన తృతీయయామస్య తద్రాత్రౌ తస్య భాగ్యతః | పూజా జాతా శివస్యైవ కృపాలుత్వం ప్రదర్శితమ్",
+   "text_en": "tena tṛtīyayāmasya tadrātrau tasya bhāgyataḥ | pūjā jātā śivasyaiva kṛpālutvaṁ pradarśitam",
+   "mean_en": "Thus, in the third watch of that night, worship of Shiva was performed by him through sheer good fortune, revealing Shiva's boundless mercy.",
+   "mean_te": "ఆ విధంగా, ఆ రాత్రి మూడవ ప్రహరలో కేవలం భాగ్యం వల్ల అతని చేత శివునికి పూజ జరిగింది; ఇది శివుని అపార కృపను చాటింది."
+  },
+  {
+   "n": 54,
+   "text_deva": "श्रुत्वा तत्र च तं शब्दं किं करोषीति प्राह सः | कुटुम्बार्थमहं हन्मि त्वां व्याधश्चेति सोब्रवीत्",
+   "text_te": "శ్రుత్వా తత్ర చ తం శబ్దం కిం కరోషీతి ప్రాహ సః | కుటుమ్బార్థమహం హన్మి త్వాం వ్యాధశ్చేతి సోబ్రవీత్",
+   "text_en": "śrutvā tatra ca taṁ śabdaṁ kiṁ karoṣīti prāha saḥ | kuṭumbārthamahaṁ hanmi tvāṁ vyādhaśceti sobravīt",
+   "mean_en": "Hearing a sound there, one asked what he was doing, and the answer came: 'I am a hunter; for the sake of my family I am going to kill you.'",
+   "mean_te": "అక్కడ ఒక శబ్దం విని 'నువ్వు ఏం చేస్తున్నావు?' అని అడిగారు; 'నేను వేటగాడను; కుటుంబ భరణం కోసం నిన్ను చంపబోతున్నాను' అని బదులు వచ్చింది."
+  },
+  {
+   "n": 55,
+   "text_deva": "तच्छ्रुत्वा व्याधवचनं हरिणो हृष्टमानसः | द्रुतमेव च तं व्याधं वचनं चेदमब्रवीत्",
+   "text_te": "తచ్ఛ్రుత్వా వ్యాధవచనం హరిణో హృష్టమానసః | ద్రుతమేవ చ తం వ్యాధం వచనం చేదమబ్రవీత్",
+   "text_en": "tacchrutvā vyādhavacanaṁ hariṇo hṛṣṭamānasaḥ | drutameva ca taṁ vyādhaṁ vacanaṁ cedamabravīt",
+   "mean_en": "Hearing the hunter's words, the deer felt gladdened at heart and quickly spoke these words to him.",
+   "mean_te": "వేటగాని మాటలు విన్న జింక మనసులో సంతోషపడి, వెంటనే దానితో ఈ మాటలు పలికింది."
+  },
+  {
+   "n": 56,
+   "text_deva": "धन्योहं पुष्टिमानद्य भवत्तृप्तिर्भविष्यति | यस्यांगं नोपकाराय तस्य सर्वं वृथा गतम्",
+   "text_te": "ధన్యోహం పుష్టిమానద్య భవత్తృప్తిర్భవిష్యతి | యస్యాంగం నోపకారాయ తస్య సర్వం వృథా గతమ్",
+   "text_en": "dhanyohaṁ puṣṭimānadya bhavattṛptirbhaviṣyati | yasyāṁgaṁ nopakārāya tasya sarvaṁ vṛthā gatam",
+   "mean_en": "Today I am fortunate and well-nourished; your hunger will be satisfied. For one whose body is never used to help another, everything is futile.",
+   "mean_te": "ఈరోజు నేను ధన్యుడను, సంపూర్ణ పోషణ కలవాడను; నీ ఆకలి తీరుతుంది. ఎవరి శరీరం ఎప్పుడూ పరులకు ఉపకారం చేయదో, వానికి అంతా వ్యర్థమే."
+  },
+  {
+   "n": 57,
+   "text_deva": "यो वै सामर्थ्ययुक्तश्च नोपकारं करोति वै | तत्सामर्थ्यं भवेद्व्यर्थं परत्र नरकं व्रजेत्",
+   "text_te": "యో వై సామర్థ్యయుక్తశ్చ నోపకారం కరోతి వై | తత్సామర్థ్యం భవేద్వ్యర్థం పరత్ర నరకం వ్రజేత్",
+   "text_en": "yo vai sāmarthyayuktaśca nopakāraṁ karoti vai | tatsāmarthyaṁ bhavedvyarthaṁ paratra narakaṁ vrajet",
+   "mean_en": "One who has the ability but does not help others, that ability is in vain, and hereafter he goes to hell.",
+   "mean_te": "సామర్థ్యం ఉన్నా పరులకు ఉపకారం చేయనివాని ఆ సామర్థ్యం వ్యర్థమే; అతడు పరలోకంలో నరకానికి పోతాడు."
+  },
+  {
+   "n": 58,
+   "text_deva": "परन्तु बालकान् स्वांश्च समर्प्य जननीं शिशून् | आश्वास्याप्यथ तान् सर्वानागमिष्याम्यहं पुनः",
+   "text_te": "పరన్తు బాలకాన్ స్వాంశ్చ సమర్ప్య జననీం శిశూన్ | ఆశ్వాస్యాప్యథ తాన్ సర్వానాగమిష్యామ్యహం పునః",
+   "text_en": "parantu bālakān svāṁśca samarpya jananīṁ śiśūn | āśvāsyāpyatha tān sarvānāgamiṣyāmyahaṁ punaḥ",
+   "mean_en": "But first, having entrusted my fawns to their mother and comforted them all, I shall come back again.",
+   "mean_te": "అయితే, ముందుగా నా పిల్లలను వారి తల్లికి అప్పగించి, అందరినీ ఓదార్చి, నేను మళ్ళీ వచ్చెదను."
+  },
+  {
+   "n": 59,
+   "text_deva": "इत्युक्तस्तेन स व्याधो विस्मितोतीव चेतसि | मनाक् शुद्धमनानष्टपापपुंजो वचोऽब्रवीत्",
+   "text_te": "ఇత్యుక్తస్తేన స వ్యాధో విస్మితోతీవ చేతసి | మనాక్ శుద్ధమనానష్టపాపపుంజో వచోఽబ్రవీత్",
+   "text_en": "ityuktastena sa vyādho vismitotīva cetasi | manāk śuddhamanānaṣṭapāpapuṁjo vaco'bravīt",
+   "mean_en": "Addressed thus, the hunter was utterly astonished at heart, and with his mind somewhat purified though his heap of sins remained, he spoke these words.",
+   "mean_te": "అలా పలికిన జింక మాటలతో వేటగాని మనసు మహా ఆశ్చర్యపోయింది; పాపరాశి ఇంకా పోకుండానే, అతని మనసు కొంత శుద్ధి చెంది ఈ మాటలు పలికాడు."
+  },
+  {
+   "n": 60,
+   "text_deva": "ये ये समागताश्चात्र तेते सर्वे त्वया यथा | कथयित्वा गता ह्यत्र नायान्त्यद्यापि वंचकाः",
+   "text_te": "యే యే సమాగతాశ్చాత్ర తేతే సర్వే త్వయా యథా | కథయిత్వా గతా హ్యత్ర నాయాన్త్యద్యాపి వంచకాః",
+   "text_en": "ye ye samāgatāścātra tete sarve tvayā yathā | kathayitvā gatā hyatra nāyāntyadyāpi vaṁcakāḥ",
+   "mean_en": "All those who have come here told me just as you have, and went away; even today the deceitful ones do not return.",
+   "mean_te": "ఇక్కడికి వచ్చిన వారందరూ నీలాగే చెప్పుకొని వెళ్ళిపోయారు; వంచకులు ఈ రోజు వరకూ తిరిగి రాలేదు."
+  },
+  {
+   "n": 61,
+   "text_deva": "त्वं चापि संकटे प्राप्तो व्यलीकं च गमिष्यसि | मम सञ्जीवनं चाद्य भविष्यति कथं मृग",
+   "text_te": "త్వం చాపి సంకటే ప్రాప్తో వ్యలీకం చ గమిష్యసి | మమ సఞ్జీవనం చాద్య భవిష్యతి కథం మృగ",
+   "text_en": "tvaṁ cāpi saṁkaṭe prāpto vyalīkaṁ ca gamiṣyasi | mama sañjīvanaṁ cādya bhaviṣyati kathaṁ mṛga",
+   "mean_en": "You too have fallen into this peril and will resort to deceit; my very survival depends on today, how then, O deer?",
+   "mean_te": "నువ్వు కూడా ఈ సంకటంలో పడి వంచన చేస్తావు; ఈరోజే నా జీవనం నడిచేది, ఎల్లా జరుగుతుంది ఓ మృగమా?"
+  },
+  {
+   "n": 62,
+   "text_deva": "शृणु व्याध प्रवक्ष्यामि नानृतं विद्यते मयि | सत्येन सर्वं ब्रह्माण्डं तिष्ठत्येव चराचरम्",
+   "text_te": "శృణు వ్యాధ ప్రవక్ష్యామి నానృతం విద్యతే మయి | సత్యేన సర్వం బ్రహ్మాణ్డం తిష్ఠత్యేవ చరాచరమ్",
+   "text_en": "śṛṇu vyādha pravakṣyāmi nānṛtaṁ vidyate mayi | satyena sarvaṁ brahmāṇḍaṁ tiṣṭhatyeva carācaram",
+   "mean_en": "Listen, O hunter, I will tell you: there is no falsehood in me. By truth the entire universe, moving and unmoving, is sustained.",
+   "mean_te": "విను, ఓ వేటగాడా, నీకు చెప్తాను: నాలో అసత్యం లేదు. సత్యంతోనే చరాచరమైన ఈ సమస్త బ్రహ్మాండం నిలిచి ఉంది."
+  },
+  {
+   "n": 63,
+   "text_deva": "यस्य वाणी व्यलीका हि तत्पुण्यं गलितं क्षणात् | तथापि शृणु वै सत्यां प्रतिज्ञां मम भिल्लक",
+   "text_te": "యస్య వాణీ వ్యలీకా హి తత్పుణ్యం గలితం క్షణాత్ | తథాపి శృణు వై సత్యాం ప్రతిజ్ఞాం మమ భిల్లక",
+   "text_en": "yasya vāṇī vyalīkā hi tatpuṇyaṁ galitaṁ kṣaṇāt | tathāpi śṛṇu vai satyāṁ pratijñāṁ mama bhillaka",
+   "mean_en": "One whose speech is false, his merit melts away in a moment. Even so, listen to my truthful vow, O Bhilla (hunter).",
+   "mean_te": "మాటలో అబద్ధం ఉన్నవాని పుణ్యం క్షణమాత్రంలో కరిగిపోతుంది. అయినా, నా సత్యమైన ప్రతిజ్ఞను విను, ఓ భిల్లుడా (వేటగాడా)."
+  },
+  {
+   "n": 64,
+   "text_deva": "सन्ध्यायां मैथुने घस्रे शिवरात्र्यां च भोजने | कूटसाक्ष्ये न्यासहारे संध्याहीने द्विजे तथा",
+   "text_te": "సన్ధ్యాయాం మైథునే ఘస్రే శివరాత్ర్యాం చ భోజనే | కూటసాక్ష్యే న్యాసహారే సంధ్యాహీనే ద్విజే తథా",
+   "text_en": "sandhyāyāṁ maithune ghasre śivarātryāṁ ca bhojane | kūṭasākṣye nyāsahāre saṁdhyāhīne dvije tathā",
+   "mean_en": "If I fail my word, may the sins come upon me of one who mates at twilight, who eats by day and on the Shivaratri night, who bears false witness, who misappropriates what is entrusted, and who, though twice-born, neglects the sandhya rites.",
+   "mean_te": "నేను మాట తప్పితే, సంధ్యావేళలో సంభోగించిన, పగలు మరియు శివరాత్రి నాడు భోజనం చేసిన, కట్టిపెట్టని సాక్ష్యం చెప్పిన, అప్పగించినది అపహరించిన, ద్విజుడై సంధ్యావందనం మానిన వారి పాపాలు నాకు కలుగుగాక."
+  },
+  {
+   "n": 65,
+   "text_deva": "शिवहीनं मुखं यस्य नोपकर्ता क्षमोऽपि सन् | पर्वणि श्रीफलस्यैव त्रोटनेऽभक्ष्यभक्षणे",
+   "text_te": "శివహీనం ముఖం యస్య నోపకర్తా క్షమోఽపి సన్ | పర్వణి శ్రీఫలస్యైవ త్రోటనేఽభక్ష్యభక్షణే",
+   "text_en": "śivahīnaṁ mukhaṁ yasya nopakartā kṣamo'pi san | parvaṇi śrīphalasyaiva troṭane'bhakṣyabhakṣaṇe",
+   "mean_en": "Likewise may the sins of one whose mouth is devoid of Shiva's name, of one who though able does not help others, of splitting a sacred shriphala on a festival day, and of eating forbidden food come upon me.",
+   "mean_te": "అలాగే, నోటిలో శివుని నామం లేనివాని, సామర్థ్యం ఉన్నా పరులకు ఉపకారం చేయనివాని, పర్వదినాన శ్రీఫలాన్ని పగులగొట్టిన, తినకూడని ఆహారం తిన్న వారి పాపాలు నాకు కలుగుగాక."
+  },
+  {
+   "n": 66,
+   "text_deva": "असंपूज्य शिवं भस्मरहितश्चान्नभुक् च यः | एतेषां पातकं मे स्यान्नागच्छेयं पुनर्यदि",
+   "text_te": "అసంపూజ్య శివం భస్మరహితశ్చాన్నభుక్ చ యః | ఏతేషాం పాతకం మే స్యాన్నాగచ్ఛేయం పునర్యది",
+   "text_en": "asaṁpūjya śivaṁ bhasmarahitaścānnabhuk ca yaḥ | eteṣāṁ pātakaṁ me syānnāgaccheyaṁ punaryadi",
+   "mean_en": "Also of one who does not worship Shiva and who eats food untouched by sacred ash; if I do not come back again, may the sin of all these befall me.",
+   "mean_te": "అలాగే శివుని పూజించని, భస్మం (విభూతి) లేకుండా అన్నం తినేవాని పాపం; నేను మళ్ళీ రాకపోతే ఈ అన్ని పాపాలు నాకు కలుగుగాక."
+  },
+  {
+   "n": 67,
+   "text_deva": "इति श्रुत्वा वचस्तस्य गच्छ शीघ्रं समाव्रज | स व्याधेनैवमुक्तस्तु जलं पीत्वा गतो मृगः",
+   "text_te": "ఇతి శ్రుత్వా వచస్తస్య గచ్ఛ శీఘ్రం సమావ్రజ | స వ్యాధేనైవముక్తస్తు జలం పీత్వా గతో మృగః",
+   "text_en": "iti śrutvā vacastasya gaccha śīghraṁ samāvraja | sa vyādhenaivamuktastu jalaṁ pītvā gato mṛgaḥ",
+   "mean_en": "Hearing these words of his, the hunter said: 'Go quickly and return.' Addressed thus by the hunter, the deer drank water and went away.",
+   "mean_te": "అతని ఈ మాటలు విని వేటగాడు పలికాడు: 'వెంటనే వెళ్ళి త్వరగా తిరిగి రా.' వేటగాని చేత అలా పలుకబడి, జింక నీళ్ళు తాగి వెళ్ళిపోయింది."
+  },
+  {
+   "n": 68,
+   "text_deva": "ते सर्वे मिलितास्तत्र स्वाश्रमे कृतसुप्रणाः | वृत्तांतं चैव तं सर्वं श्रुत्वा सम्यक् परस्परम्",
+   "text_te": "తే సర్వే మిలితాస్తత్ర స్వాశ్రమే కృతసుప్రణాః | వృత్తాంతం చైవ తం సర్వం శ్రుత్వా సమ్యక్ పరస్పరమ్",
+   "text_en": "te sarve militāstatra svāśrame kṛtasupraṇāḥ | vṛttāṁtaṁ caiva taṁ sarvaṁ śrutvā samyak parasparam",
+   "mean_en": "They all gathered there in their own forest abode and heard that whole account fully from one another.",
+   "mean_te": "అందరూ అక్కడ తమ అడవి నివాసంలో కూడి, ఆ పూర్తి వృత్తాంతాన్ని ఒకరినొకరు సవివరంగా విన్నారు."
+  },
+  {
+   "n": 69,
+   "text_deva": "गन्तव्यं निश्चयेनेति सत्यपाशेन यंत्रिताः | आश्वास्य बालकांस्तत्र गन्तुमुत्कण्ठितास्तदा",
+   "text_te": "గన్తవ్యం నిశ్చయేనేతి సత్యపాశేన యంత్రితాః | ఆశ్వాస్య బాలకాంస్తత్ర గన్తుముత్కణ్ఠితాస్తదా",
+   "text_en": "gantavyaṁ niścayeneti satyapāśena yaṁtritāḥ | āśvāsya bālakāṁstatra gantumutkaṇṭhitāstadā",
+   "mean_en": "Saying that one must surely go, they were bound by the bond of truth; having consoled their children, they then grew eager to go there.",
+   "mean_te": "'తప్పకుండా అక్కడికి వెళ్ళాలి' అని సత్యబద్ధంతో నిబద్ధులై, పిల్లలను ఓదార్చి, అప్పుడు అక్కడికి వెళ్ళడానికి ఆతురత చెందారు."
+  },
+  {
+   "n": 70,
+   "text_deva": "मृगी ज्येष्ठा च या तत्र स्वामिनं वाक्यमब्रवीत् | त्वां विना बालका ह्यत्र कथं स्थास्यंति वै मृग",
+   "text_te": "మృగీ జ్యేష్ఠా చ యా తత్ర స్వామినం వాక్యమబ్రవీత్ | త్వాం వినా బాలకా హ్యత్ర కథం స్థాస్యంతి వై మృగ",
+   "text_en": "mṛgī jyeṣṭhā ca yā tatra svāminaṁ vākyamabravīt | tvāṁ vinā bālakā hyatra kathaṁ sthāsyaṁti vai mṛga",
+   "mean_en": "The eldest doe there said to her lord: 'O deer, without you how indeed will the children survive here?'",
+   "mean_te": "అక్కడి పెద్ద ఆడమృగం తన భర్తకు 'నిన్ను లేకుండా ఇక్కడ పిల్లలు ఎలా ఉంటారు?' అని పలికింది."
+  },
+  {
+   "n": 71,
+   "text_deva": "प्रथमं तु मया तत्र प्रतिज्ञा च कृता प्रभो | तस्मान्मया च गन्तव्यं भवद्भ्यां स्थीयतामिह",
+   "text_te": "ప్రథమం తు మయా తత్ర ప్రతిజ్ఞా చ కృతా ప్రభో | తస్మాన్మయా చ గన్తవ్యం భవద్భ్యాం స్థీయతామిహ",
+   "text_en": "prathamaṁ tu mayā tatra pratijñā ca kṛtā prabho | tasmānmayā ca gantavyaṁ bhavadbhyāṁ sthīyatāmiha",
+   "mean_en": "'O lord, first of all I made a vow there; therefore I must go, and both of you stay here.'",
+   "mean_te": "'ప్రభూ! నేనే అక్కడ ముందుగా మాట ఇచ్చాను; కాబట్టి నేను వెళ్ళాలి, మీరిద్దరూ ఇక్కడే ఉండండి.'"
+  },
+  {
+   "n": 72,
+   "text_deva": "इति तद्वचनं श्रुत्वा कनिष्ठा वाक्यमब्रवीत् | अहं त्वत्सेविका चाद्य गच्छामि स्थीयतां त्वया",
+   "text_te": "ఇతి తద్వచనం శ్రుత్వా కనిష్ఠా వాక్యమబ్రవీత్ | అహం త్వత్సేవికా చాద్య గచ్ఛామి స్థీయతాం త్వయా",
+   "text_en": "iti tadvacanaṁ śrutvā kaniṣṭhā vākyamabravīt | ahaṁ tvatsevikā cādya gacchāmi sthīyatāṁ tvayā",
+   "mean_en": "Hearing her words, the youngest doe said: 'I am devoted to you; I shall go now, you stay here.'",
+   "mean_te": "ఆ మాటలు విన్న చిన్నది, 'నేను నీ సేవకురాలిని; నేను వెళ్తాను, నువ్వు ఇక్కడ ఉండు' అని పలికింది."
+  },
+  {
+   "n": 73,
+   "text_deva": "तच्छ्रुत्वा च मृगः प्राह गम्यते तत्र वै मया | भवत्यौ तिष्ठतां चात्र मातृतः शिशुरक्षणम्",
+   "text_te": "తచ్ఛ్రుత్వా చ మృగః ప్రాహ గమ్యతే తత్ర వై మయా | భవత్యౌ తిష్ఠతాం చాత్ర మాతృతః శిశురక్షణమ్",
+   "text_en": "tacchrutvā ca mṛgaḥ prāha gamyate tatra vai mayā | bhavatyau tiṣṭhatāṁ cātra mātṛtaḥ śiśurakṣaṇam",
+   "mean_en": "Hearing that, the buck said: 'I shall go there; both of you stay here and protect the children like mothers.'",
+   "mean_te": "అది విన్న మగమృగం, 'అక్కడికి నేనే వెళ్తాను; మీరిద్దరూ ఇక్కడ పిల్లలను తల్లుల్లా కాపాడండి' అని పలికింది."
+  },
+  {
+   "n": 74,
+   "text_deva": "तत्स्वामिवचनं श्रुत्वा मेनाते तन्न धर्मतः | प्रोचुः प्रीत्या स्वभर्तारं वैधव्ये जीवितं च धिक्",
+   "text_te": "తత్స్వామివచనం శ్రుత్వా మేనాతే తన్న ధర్మతః | ప్రోచుః ప్రీత్యా స్వభర్తారం వైధవ్యే జీవితం చ ధిక్",
+   "text_en": "tatsvāmivacanaṁ śrutvā menāte tanna dharmataḥ | procuḥ prītyā svabhartāraṁ vaidhavye jīvitaṁ ca dhik",
+   "mean_en": "Hearing their lord's words, the does lovingly said to their husband: 'That is not dharma; fie on living on as widows.'",
+   "mean_te": "భర్త మాటలు విన్న ఆడమృగాలు ప్రేమతో 'అది ధర్మం కాదు; విధవరాల్లా బ్రతకడం ధిక్కారం' అని పలికాయి."
+  },
+  {
+   "n": 75,
+   "text_deva": "बालानाश्वास्य तांस्तत्र समर्प्य सहवासिनः | गतास्ते सर्व एवाशु यत्रास्ते व्याधसत्तमः",
+   "text_te": "బాలానాశ్వాస్య తాంస్తత్ర సమర్ప్య సహవాసినః | గతాస్తే సర్వ ఏవాశు యత్రాస్తే వ్యాధసత్తమః",
+   "text_en": "bālānāśvāsya tāṁstatra samarpya sahavāsinaḥ | gatāste sarva evāśu yatrāste vyādhasattamaḥ",
+   "mean_en": "Having consoled their children and entrusted them to their companions, they all quickly went to where the best of hunters was.",
+   "mean_te": "పిల్లలను ఓదార్చి, వారిని తోటివారికి అప్పగించి, అందరూ శీఘ్రంగా వేటగాడు ఉన్న చోటికి వెళ్ళారు."
+  },
+  {
+   "n": 76,
+   "text_deva": "ते बाला अपि सर्वे वै विलोक्यानुसमागताः | एतेषां या गतिः स्याद्वै ह्यस्माकं सा भवत्विति",
+   "text_te": "తే బాలా అపి సర్వే వై విలోక్యానుసమాగతాః | ఏతేషాం యా గతిః స్యాద్వై హ్యస్మాకం సా భవత్వితి",
+   "text_en": "te bālā api sarve vai vilokyānusamāgatāḥ | eteṣāṁ yā gatiḥ syādvai hyasmākaṁ sā bhavatviti",
+   "mean_en": "Even all the little ones, seeing them, followed and gathered there, thinking: 'Let whatever fate befalls these elders be ours too.'",
+   "mean_te": "పిల్లలు కూడా వారిని చూసి వారి వెంట చేరి, 'వీరికి కలిగే గతి మాకూ కలగాలి' అని పలికారు."
+  },
+  {
+   "n": 77,
+   "text_deva": "तान् दृष्ट्वा हर्षितो व्याधो बाणं धनुषि संदधे | पुनश्च जलपत्राणि पतितानि शिवोपरि",
+   "text_te": "తాన్ దృష్ట్వా హర్షితో వ్యాధో బాణం ధనుషి సందధే | పునశ్చ జలపత్రాణి పతితాని శివోపరి",
+   "text_en": "tān dṛṣṭvā harṣito vyādho bāṇaṁ dhanuṣi saṁdadhe | punaśca jalapatrāṇi patitāni śivopari",
+   "mean_en": "Seeing them, the delighted hunter fixed an arrow on his bow; again leaves fell upon Śiva (the liṅga) there.",
+   "mean_te": "వారిని చూసి సంతోషించిన వేటగాడు ధనుస్సుపై బాణం సంధించాడు; మళ్ళీ ఆ క్షణంలో పత్రాలు శివలింగంపై పడ్డాయి."
+  },
+  {
+   "n": 78,
+   "text_deva": "तेन जाता चतुर्थस्य पूजा यामस्य वै शुभा | तस्य पापन्तदा सर्वं भस्मसादभवत् क्षणात्",
+   "text_te": "తేన జాతా చతుర్థస్య పూజా యామస్య వై శుభా | తస్య పాపన్తదా సర్వం భస్మసాదభవత్ క్షణాత్",
+   "text_en": "tena jātā caturthasya pūjā yāmasya vai śubhā | tasya pāpantadā sarvaṁ bhasmasādabhavat kṣaṇāt",
+   "mean_en": "By that, the auspicious worship of the fourth yāma was completed; at that moment all his sin instantly turned to ashes.",
+   "mean_te": "దానితో నాల్గవ యామపు శుభపూజ పూర్తయింది; అప్పుడు అతని సర్వపాపాలు క్షణమాత్రంలో భస్మమయ్యాయి."
+  },
+  {
+   "n": 79,
+   "text_deva": "मृगी मृगी मृगश्चोचुश्शीघ्रं वै व्याधसत्तम | अस्माकं सार्थकं देहं कुरु त्वं हि कृपां कुरु",
+   "text_te": "మృగీ మృగీ మృగశ్చోచుశ్శీఘ్రం వై వ్యాధసత్తమ | అస్మాకం సార్థకం దేహం కురు త్వం హి కృపాం కురు",
+   "text_en": "mṛgī mṛgī mṛgaścocuśśīghraṁ vai vyādhasattama | asmākaṁ sārthakaṁ dehaṁ kuru tvaṁ hi kṛpāṁ kuru",
+   "mean_en": "The does and the buck cried out quickly: 'O best of hunters, make our bodies serve your purpose and show us your mercy.'",
+   "mean_te": "ఆడమృగాలు, మగమృగం వేగంగా 'వేటగాడా! మా శరీరాలను సార్థకం చేయి, కృప చూపు' అని మొరపెట్టుకున్నాయి."
+  },
+  {
+   "n": 80,
+   "text_deva": "इति तेषां वचश्श्रुत्वा व्याधो विस्मयमागतः | शिवपूजाप्रभावेण ज्ञानं दुर्लभमाप्तवान्",
+   "text_te": "ఇతి తేషాం వచశ్శ్రుత్వా వ్యాధో విస్మయమాగతః | శివపూజాప్రభావేణ జ్ఞానం దుర్లభమాప్తవాన్",
+   "text_en": "iti teṣāṁ vacaśśrutvā vyādho vismayamāgataḥ | śivapūjāprabhāveṇa jñānaṁ durlabhamāptavān",
+   "mean_en": "Hearing their words, the hunter was filled with wonder; by the power of Śiva's worship he had attained the rare knowledge.",
+   "mean_te": "వారి మాటలు విన్న వేటగాడు ఆశ్చర్యం చెందాడు; శివపూజ ప్రభావంతో దుర్లభమైన జ్ఞానాన్ని పొందాడు."
+  },
+  {
+   "n": 81,
+   "text_deva": "एते धन्या मृगाश्चैव ज्ञानहीनास्सुसंमताः | स्वीयेनैव शरीरेण परोपकरणे रताः",
+   "text_te": "ఏతే ధన్యా మృగాశ్చైవ జ్ఞానహీనాస్సుసంమతాః | స్వీయేనైవ శరీరేణ పరోపకరణే రతాః",
+   "text_en": "ete dhanyā mṛgāścaiva jñānahīnāssusaṁmatāḥ | svīyenaiva śarīreṇa paropakaraṇe ratāḥ",
+   "mean_en": "'These deer are blessed; though devoid of knowledge they are highly commendable, being devoted to helping others with their own bodies.'",
+   "mean_te": "'ఈ మృగాలు ధన్యులు; జ్ఞానం లేకపోయినా అత్యంత ప్రశంసనీయులు — స్వశరీరంతోనే పరులకు ఉపకారం చేయడానికి సిద్ధపడ్డాయి.'"
+  },
+  {
+   "n": 82,
+   "text_deva": "मानुष्यं जन्म संप्राप्य साधितं किं मयाधुना | परकायं च संपीड्य शरीरं पोषितं मया",
+   "text_te": "మానుష్యం జన్మ సంప్రాప్య సాధితం కిం మయాధునా | పరకాయం చ సంపీడ్య శరీరం పోషితం మయా",
+   "text_en": "mānuṣyaṁ janma saṁprāpya sādhitaṁ kiṁ mayādhunā | parakāyaṁ ca saṁpīḍya śarīraṁ poṣitaṁ mayā",
+   "mean_en": "'Having obtained human birth, what have I accomplished now? Tormenting others' bodies, I have nourished my own body.'",
+   "mean_te": "'మానవ జన్మ పొంది నేనేం సాధించాను? పరుల శరీరాలను బాధపెట్టి సొంత శరీరాన్ని పోషించాను.'"
+  },
+  {
+   "n": 83,
+   "text_deva": "कुटुम्बं पोषितं नित्यं कृत्वा पापान्यनेकशः | एवं पापानि हा कृत्वा का गतिर्मे भविष्यति",
+   "text_te": "కుటుమ్బం పోషితం నిత్యం కృత్వా పాపాన్యనేకశః | ఏవం పాపాని హా కృత్వా కా గతిర్మే భవిష్యతి",
+   "text_en": "kuṭumbaṁ poṣitaṁ nityaṁ kṛtvā pāpānyanekaśaḥ | evaṁ pāpāni hā kṛtvā kā gatirme bhaviṣyati",
+   "mean_en": "'I have always supported my family by committing sins in many ways; alas, having committed such sins, what will become of me?'",
+   "mean_te": "'ఎన్నో పాపాలు చేసి కుటుంబాన్ని ఎప్పుడూ పోషించాను; ఇలా పాపాలు చేసిన తరువాత నా గతి ఏమవుతుంది?'"
+  },
+  {
+   "n": 84,
+   "text_deva": "कां वा गतिं गमिष्यामि पातकं जन्मतः कृतम् | इदानीं चिंतयाम्येवं धिग्धिक् च जीवनं मम",
+   "text_te": "కాం వా గతిం గమిష్యామి పాతకం జన్మతః కృతమ్ | ఇదానీం చింతయామ్యేవం ధిగ్ధిక్ చ జీవనం మమ",
+   "text_en": "kāṁ vā gatiṁ gamiṣyāmi pātakaṁ janmataḥ kṛtam | idānīṁ ciṁtayāmyevaṁ dhigdhik ca jīvanaṁ mama",
+   "mean_en": "'Being a sinner from birth, what destination shall I go to?' Thus he reflected: 'Fie, fie upon my life.'",
+   "mean_te": "'పుట్టుకునే పాపి అయిన నేను ఏ గతికి వెళతాను?' అని అప్పుడు ఆలోచించి, 'ధిక్కారం, నా జీవితం ధిక్కారం' అనుకున్నాడు."
+  },
+  {
+   "n": 85,
+   "text_deva": "इति ज्ञानं समापन्नो बाणं संवारयंस्तदा | गम्यतां च मृगश्रेष्ठा धन्याः स्थ इति चाब्रवीत्",
+   "text_te": "ఇతి జ్ఞానం సమాపన్నో బాణం సంవారయంస్తదా | గమ్యతాం చ మృగశ్రేష్ఠా ధన్యాః స్థ ఇతి చాబ్రవీత్",
+   "text_en": "iti jñānaṁ samāpanno bāṇaṁ saṁvārayaṁstadā | gamyatāṁ ca mṛgaśreṣṭhā dhanyāḥ stha iti cābravīt",
+   "mean_en": "Thus having attained that knowledge, he withdrew the arrow then and said: 'Go, O best of deer; you are blessed.'",
+   "mean_te": "ఆ జ్ఞానాన్ని పొందిన వేటగాడు అప్పుడు బాణాన్ని ఉపసంహరించుకొని, 'వెళ్ళండి మృగేంద్రులారా, మీరు ధన్యులు' అని పలికాడు."
+  },
+  {
+   "n": 86,
+   "text_deva": "इत्युक्ते च तदा तेन प्रसन्नश्शंकरस्तदा | पूजितं च स्वरूपं हि दर्शयामास संमतम्",
+   "text_te": "ఇత్యుక్తే చ తదా తేన ప్రసన్నశ్శంకరస్తదా | పూజితం చ స్వరూపం హి దర్శయామాస సంమతమ్",
+   "text_en": "ityukte ca tadā tena prasannaśśaṁkarastadā | pūjitaṁ ca svarūpaṁ hi darśayāmāsa saṁmatam",
+   "mean_en": "When he was addressed thus, Śaṅkara, well pleased, showed the hunter his own true worshipped form.",
+   "mean_te": "ఈ విధంగా చెప్పబడగా, శంకరుడు సంతోషించి తన పూజింపబడిన సొంత రూపాన్ని వేటగాడికి దర్శనమిచ్చాడు."
+  },
+  {
+   "n": 87,
+   "text_deva": "संस्पृश्य कृपया शंभुस्तं व्याधं प्रीतितोऽब्रवीत् | वरं ब्रूहि प्रसन्नोऽस्मि व्रतेनानेन भिल्लक",
+   "text_te": "సంస్పృశ్య కృపయా శంభుస్తం వ్యాధం ప్రీతితోఽబ్రవీత్ | వరం బ్రూహి ప్రసన్నోఽస్మి వ్రతేనానేన భిల్లక",
+   "text_en": "saṁspṛśya kṛpayā śaṁbhustaṁ vyādhaṁ prītito'bravīt | varaṁ brūhi prasanno'smi vratenānena bhillaka",
+   "mean_en": "That Śambhu, with grace, touched the hunter and said lovingly: 'O Bhilla, ask for a boon; I am pleased with this vow you have kept.'",
+   "mean_te": "ఆ శంభుడు కృపతో వేటగాడిని తాకి, ప్రీతితో 'భిల్లా! వరం కోరుకో, నీ వ్రతానికి నేను సంతోషించాను' అని పలికాడు."
+  },
+  {
+   "n": 88,
+   "text_deva": "व्याधोऽपि शिवरूपं च दृष्ट्वा मुक्तोऽभवत्क्षणात् | पपात शिवपादाग्रे सर्वं प्राप्तमिति बुवन्",
+   "text_te": "వ్యాధోఽపి శివరూపం చ దృష్ట్వా ముక్తోఽభవత్క్షణాత్ | పపాత శివపాదాగ్రే సర్వం ప్రాప్తమితి బువన్",
+   "text_en": "vyādho'pi śivarūpaṁ ca dṛṣṭvā mukto'bhavatkṣaṇāt | papāta śivapādāgre sarvaṁ prāptamiti buvan",
+   "mean_en": "The hunter, having beheld Śiva's form, was instantly liberated; falling at Śiva's feet he said that everything had been attained.",
+   "mean_te": "శివుని రూపాన్ని చూసిన వేటగాడు క్షణమాత్రంలో ముక్తి పొంది, శివపాదాల వద్ద పడి 'అన్నీ దొరికాయి' అని పలికాడు."
+  },
+  {
+   "n": 89,
+   "text_deva": "शिवोऽपि सुप्रन्नात्मा नाम दत्वा गुहेति च | विलोक्य तं कृपादृष्ट्या तस्मै दिव्यान्वरानदात्",
+   "text_te": "శివోఽపి సుప్రన్నాత్మా నామ దత్వా గుహేతి చ | విలోక్య తం కృపాదృష్ట్యా తస్మై దివ్యాన్వరానదాత్",
+   "text_en": "śivo'pi suprannātmā nāma datvā guheti ca | vilokya taṁ kṛpādṛṣṭyā tasmai divyānvarānadāt",
+   "mean_en": "Śiva, seeing him with compassion, gave him the name 'Suprannātmā' and told him to cherish it, and granted him divine splendour.",
+   "mean_te": "శివుడు కృపాదృష్టితో అతనిని చూసి, 'సుప్రణ్ణాత్మ' అనే పేరు పెట్టి దాన్ని రక్షించుకోమని చెప్పి, దివ్యమైన తేజస్సును ప్రసాదించాడు."
+  },
+  {
+   "n": 90,
+   "text_deva": "शृणु व्याधाद्य भोगांस्त्वं भुंक्ष्व दिव्यान्यथेप्सितान् | राजधानीं समाश्रित्य शृंगवेरपुरे पराम्",
+   "text_te": "శృణు వ్యాధాద్య భోగాంస్త్వం భుంక్ష్వ దివ్యాన్యథేప్సితాన్ | రాజధానీం సమాశ్రిత్య శృంగవేరపురే పరామ్",
+   "text_en": "śṛṇu vyādhādya bhogāṁstvaṁ bhuṁkṣva divyānyathepsitān | rājadhānīṁ samāśritya śṛṁgaverapure parām",
+   "mean_en": "'O best of hunters, enjoy the divine pleasures you desire; reside in the royal city of Śrīgaverapura.'",
+   "mean_te": "'వేటగాడా! నీకు కావాల్సిన దివ్యమైన భోగాలను అనుభవించు; శ్రీంగవేరపురం అనే రాజధానిలో స్థిరనివసించు.'"
+  },
+  {
+   "n": 91,
+   "text_deva": "अनपाया वंशवृद्धिश्श्लाघनीयः सुरैरपि | गृहे रामस्तव व्याध समायास्यति निश्चितम्",
+   "text_te": "అనపాయా వంశవృద్ధిశ్శ్లాఘనీయః సురైరపి | గృహే రామస్తవ వ్యాధ సమాయాస్యతి నిశ్చితమ్",
+   "text_en": "anapāyā vaṁśavṛddhiśślāghanīyaḥ surairapi | gṛhe rāmastava vyādha samāyāsyati niścitam",
+   "mean_en": "'Undying increase of lineage and praise-worthy even by gods, Rāma will surely come to your home, O hunter.'",
+   "mean_te": "'వేటగాడా! తెగిపోని వంశ వృద్ధి, దేవతలచే కూడా కీర్తించదగినది; రాముడు ఖచ్చితంగా నీ ఇంటికి వస్తాడు.'"
+  },
+  {
+   "n": 92,
+   "text_deva": "करिष्यति त्वया मैत्री मद्भक्तस्नेहकारकः | मत्सेवासक्तचेतास्त्वं मुक्तिं यास्यसि दुर्लभाम्",
+   "text_te": "కరిష్యతి త్వయా మైత్రీ మద్భక్తస్నేహకారకః | మత్సేవాసక్తచేతాస్త్వం ముక్తిం యాస్యసి దుర్లభామ్",
+   "text_en": "kariṣyati tvayā maitrī madbhaktasnehakārakaḥ | matsevāsaktacetāstvaṁ muktiṁ yāsyasi durlabhām",
+   "mean_en": "'You will become the doer of my friendship, the maker of affection for my devotee; being devoted to my service, you will attain the liberation hard to obtain.'",
+   "mean_te": "'నా భక్తుని పట్ల స్నేహం చేసేవాడవుతావు; నా సేవపై ఆసక్తి గల మనసుతో ఉండి, దుర్లభమైన ముక్తిని పొందుతావు.'"
+  },
+  {
+   "n": 93,
+   "text_deva": "एतस्मिन्नंतरे ते तु कृत्वा शंकरदर्शनम् | सर्वे प्रणम्य सन्मुक्तिं मृगयोनेः प्रपेदिरे",
+   "text_te": "ఏతస్మిన్నంతరే తే తు కృత్వా శంకరదర్శనమ్ | సర్వే ప్రణమ్య సన్ముక్తిం మృగయోనేః ప్రపేదిరే",
+   "text_en": "etasminnaṁtare te tu kṛtvā śaṁkaradarśanam | sarve praṇamya sanmuktiṁ mṛgayoneḥ prapedire",
+   "mean_en": "Meanwhile, having had the darśan of Śaṅkara, all the hunters bowed and attained liberation; the Lord of the creatures grants salvation.",
+   "mean_te": "ఈ లోగా, శంకరుని దర్శించిన ఆ వేటగాళ్ళందరూ సాష్టాంగం చేసి, మృగయాధిపతి అయిన శివుని కృపతో ముక్తి పొందారు."
+  },
+  {
+   "n": 94,
+   "text_deva": "विमानं च समारुह्य दिव्यदेहा गतास्तदा | शिवदर्शनमात्रेण शापान्मुक्ता दिवं गताः",
+   "text_te": "విమానం చ సమారుహ్య దివ్యదేహా గతాస్తదా | శివదర్శనమాత్రేణ శాపాన్ముక్తా దివం గతాః",
+   "text_en": "vimānaṁ ca samāruhya divyadehā gatāstadā | śivadarśanamātreṇa śāpānmuktā divaṁ gatāḥ",
+   "mean_en": "Then, with divine bodies, they ascended the celestial car; by the mere sight of Śiva, they were freed from the curse and reached heaven.",
+   "mean_te": "తరువాత వారు దివ్య దేహాలతో విమానాన్ని ఎక్కి; శివుని దర్శనం మాత్రంచే శాపవిముక్తులై స్వర్గాన్ని చేరారు."
+  },
+  {
+   "n": 95,
+   "text_deva": "व्याधेश्वरः शिवो जातः पर्वते ह्यर्बुदाचले | दर्शनात्पूजनात्सद्यो भुक्तिमुक्तिप्रदायकः",
+   "text_te": "వ్యాధేశ్వరః శివో జాతః పర్వతే హ్యర్బుదాచలే | దర్శనాత్పూజనాత్సద్యో భుక్తిముక్తిప్రదాయకః",
+   "text_en": "vyādheśvaraḥ śivo jātaḥ parvate hyarbudācale | darśanātpūjanātsadyo bhuktimuktipradāyakaḥ",
+   "mean_en": "The Lord of the hunters was born as Śiva on the mountain Arbudācala; by seeing and worshipping him one obtains enjoyment and liberation at once.",
+   "mean_te": "వేటగాడి రూపంలో ఉన్నవాడు శివుడే; అర్బుదాచలంపై జన్మించాడు. ఆ దర్శనం మరియు పూజ వల్ల వెంటనే భుక్తి ముక్తులు కలుగుతాయి."
+  },
+  {
+   "n": 96,
+   "text_deva": "व्याधोपि तद्दिनान्नूनं भोगान्स सुरसत्तम | भुक्त्वा रामकृपां प्राप्य शिवसायुज्यमाप्तवान्",
+   "text_te": "వ్యాధోపి తద్దినాన్నూనం భోగాన్స సురసత్తమ | భుక్త్వా రామకృపాం ప్రాప్య శివసాయుజ్యమాప్తవాన్",
+   "text_en": "vyādhopi taddinānnūnaṁ bhogānsa surasattama | bhuktvā rāmakṛpāṁ prāpya śivasāyujyamāptavān",
+   "mean_en": "'O best of gods, the hunter surely enjoyed the pleasures from that day; having received Rāma's grace, he attained union with Śiva.'",
+   "mean_te": "'దేవతలలో శ్రేష్ఠుడా! ఆ రోజు నుండి వేటగాడు భోగాలను అనుభవించి, రాముని కృపను పొంది, శివసాయుజ్యాన్ని పొందాడు.'"
+  },
+  {
+   "n": 97,
+   "text_deva": "अज्ञानात्स व्रतञ्चैतत्कृत्वा सायुज्यमाप्तवान् | किं पुनर्भक्तिसंपन्ना यान्ति तन्मयतां शुभाम्",
+   "text_te": "అజ్ఞానాత్స వ్రతఞ్చైతత్కృత్వా సాయుజ్యమాప్తవాన్ | కిం పునర్భక్తిసంపన్నా యాన్తి తన్మయతాం శుభామ్",
+   "text_en": "ajñānātsa vratañcaitatkṛtvā sāyujyamāptavān | kiṁ punarbhaktisaṁpannā yānti tanmayatāṁ śubhām",
+   "mean_en": "Through ignorance he performed this vow and attained union with Śiva; what then of those rich in devotion — they attain that auspicious state of being one with him.",
+   "mean_te": "అతడు అజ్ఞానంతో ఈ వ్రతం ఆచరించి సాయుజ్యాన్ని పొందాడు; భక్తిపరులైన వారు పొందే ఆ శుభమైన తన్మయత్వాన్ని పొందుతారు."
+  },
+  {
+   "n": 98,
+   "text_deva": "विचार्य्य सर्वशास्त्राणि धर्मांश्चैवाप्यनेकशः | शिवरात्रिव्रतमिदं सर्वोत्कृष्टं प्रकीर्तितम्",
+   "text_te": "విచార్య్య సర్వశాస్త్రాణి ధర్మాంశ్చైవాప్యనేకశః | శివరాత్రివ్రతమిదం సర్వోత్కృష్టం ప్రకీర్తితమ్",
+   "text_en": "vicāryya sarvaśāstrāṇi dharmāṁścaivāpyanekaśaḥ | śivarātrivratamidaṁ sarvotkṛṣṭaṁ prakīrtitam",
+   "mean_en": "Having considered all the śāstras and the various duties, this Śivarātri vow is proclaimed as the best of all.",
+   "mean_te": "అన్ని శాస్త్రాలను మరియు అనేక ధర్మాలను పరిశీలించిన తర్వాత, ఈ శివరాత్రి వ్రతం అన్నిటికంటే శ్రేష్ఠమని ప్రసిద్ధి చెందింది."
+  },
+  {
+   "n": 99,
+   "text_deva": "व्रतानि विविधान्यत्र तीर्थानि विविधानि च | दानानि च विचित्राणि मखाश्च विविधास्तथा",
+   "text_te": "వ్రతాని వివిధాన్యత్ర తీర్థాని వివిధాని చ | దానాని చ విచిత్రాణి మఖాశ్చ వివిధాస్తథా",
+   "text_en": "vratāni vividhānyatra tīrthāni vividhāni ca | dānāni ca vicitrāṇi makhāśca vividhāstathā",
+   "mean_en": "There are various vows, various holy places, varied gifts, and various sacrifices; yet none of them equals this Śivarātri vow.",
+   "mean_te": "ఇక్కడ వివిధ వ్రతాలు, వివిధ తీర్థాలు, విచిత్రమైన దానాలు, వివిధ యజ్ఞాలు ఉన్నాయి; అయితే ఈ శివరాత్రి వ్రతానికి సమానంగా అవి ఉండవు."
+  },
+  {
+   "n": 100,
+   "text_deva": "तपांसि विविधान्येव जपाश्चैवाप्य नेकशः | नैतेन समतां यान्ति शिवरात्रिव्रतेन च",
+   "text_te": "తపాంసి వివిధాన్యేవ జపాశ్చైవాప్య నేకశః | నైతేన సమతాం యాన్తి శివరాత్రివ్రతేన చ",
+   "text_en": "tapāṁsi vividhānyeva japāścaivāpya nekaśaḥ | naitena samatāṁ yānti śivarātrivratena ca",
+   "mean_en": "Various austerities and many japas do not attain equality with this Śivarātri vow.",
+   "mean_te": "వివిధ తపస్సులు, అనేక జపాలు కూడా ఈ శివరాత్రి వ్రతానికి సమానత్వం పొందవు."
+  },
+  {
+   "n": 101,
+   "text_deva": "तस्माच्छुभतरं चैतत्कर्तव्यं हितमीप्सुभिः | शिवरात्रिव्रतन्दिव्यं भुक्ति मुक्तिप्रदं सदा",
+   "text_te": "తస్మాచ్ఛుభతరం చైతత్కర్తవ్యం హితమీప్సుభిః | శివరాత్రివ్రతన్దివ్యం భుక్తి ముక్తిప్రదం సదా",
+   "text_en": "tasmācchubhataraṁ caitatkartavyaṁ hitamīpsubhiḥ | śivarātrivratandivyaṁ bhukti muktipradaṁ sadā",
+   "mean_en": "Therefore, those who desire their own welfare should perform this most auspicious divine Śivarātri vow, which always grants enjoyment and liberation.",
+   "mean_te": "కాబట్టి, మంగళం కోరుకునేవారు ఈ శుభతరమైన దివ్యమైన శివరాత్రి వ్రతాన్ని ఆచరించాలి; అది ఎప్పుడూ భుక్తి ముక్తులను ప్రసాదిస్తుంది."
+  },
+  {
+   "n": 102,
+   "text_deva": "एतत्सर्वं समाख्यातं शिवरात्रिव्रतं शुभम् | व्रतराजेति विख्यातं किमन्यच्छ्रोतुमिच्छसि",
+   "text_te": "ఏతత్సర్వం సమాఖ్యాతం శివరాత్రివ్రతం శుభమ్ | వ్రతరాజేతి విఖ్యాతం కిమన్యచ్ఛ్రోతుమిచ్ఛసి",
+   "text_en": "etatsarvaṁ samākhyātaṁ śivarātrivrataṁ śubham | vratarājeti vikhyātaṁ kimanyacchrotumicchasi",
+   "mean_en": "All this, the auspicious Śivarātri vow, has been fully narrated; it is renowned as the king of vows. What else do you wish to hear?",
+   "mean_te": "ఈ శుభమైన శివరాత్రి వ్రతం అంతా వివరించబడింది; ఇది 'వ్రతరాజు' గా ప్రసిద్ధి చెందింది. మరేమి వినాలనుకుంటున్నావు?"
+  },
+  {
+   "n": 103,
+   "text_deva": "इति श्रीशिवमहापुराणे चतुर्थ्यां कोटिरुद्रसंहितायां व्याधेश्वरमाहात्म्ये शिवरात्रिव्रतमाहात्म्यवर्णनं नाम चत्वारिंशोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే చతుర్థ్యాం కోటిరుద్రసంహితాయాం వ్యాధేశ్వరమాహాత్మ్యే శివరాత్రివ్రతమాహాత్మ్యవర్ణనం నామ చత్వారింశోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe caturthyāṁ koṭirudrasaṁhitāyāṁ vyādheśvaramāhātmye śivarātrivratamāhātmyavarṇanaṁ nāma catvāriṁśo'dhyāyaḥ",
+   "mean_en": "This is the colophon verse: thus concludes the fortieth chapter, named 'Description of the Greatness of the Shivaratri Vow', from the Vyadheshvara Mahatmya, in the fourth Kotirudra Samhita of the Shiva Mahapurana.",
+   "mean_te": "ఇది సమాప్తి శ్లోకం: శ్రీశివమహాపురాణంలోని నాలుగో కోటిరుద్ర సంహితలో, వ్యాఘ్రేశ్వర మాహాత్మ్యంలో, 'శివరాత్రి వ్రత మహిమ' అనే నలభైవ అధ్యాయం ఇలా సమాప్తమైంది."
+  }
+ ]
+}

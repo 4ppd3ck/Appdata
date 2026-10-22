@@ -1,0 +1,537 @@
+{
+ "kanda": "uma-samhita",
+ "n": 23,
+ "title_deva": "शुचित्वबाल्याद्यवस्थादुःखवर्णनम्",
+ "title_te": "శుచిత్వబాల్యాద్యవస్థాదుఃఖవర్ణనమ్",
+ "title_iast": "śucitvabālyādyavasthāduḥkhavarṇanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "शृणु व्यास महाबुद्धे देहस्याशुचितां मुने | महत्त्वं च स्वभावस्य समासात्कथयाम्यहम्",
+   "text_te": "శృణు వ్యాస మహాబుద్ధే దేహస్యాశుచితాం మునే | మహత్త్వం చ స్వభావస్య సమాసాత్కథయామ్యహమ్",
+   "text_en": "śṛṇu vyāsa mahābuddhe dehasyāśucitāṁ mune | mahattvaṁ ca svabhāvasya samāsātkathayāmyaham",
+   "mean_en": "Listen, O Vyasa of great intellect, O sage, I shall tell you briefly the impurity of the body and the greatness of its inherent nature.",
+   "mean_te": "హే వ్యాసుడు, గొప్ప బుద్ధి కలవాడా, హే మునీంద్రా, శరీరపు అపవిత్రతను మరియు దాని స్వభావపు మహత్తును సంక్షిప్తంగా నేను నీకు చెబుతాను, విను."
+  },
+  {
+   "n": 2,
+   "text_deva": "शुक्रशोणितसंयोगाद्देहस्संजायते यतः | नित्यं विण्मूत्रसंपूर्णस्तेनायमशुचिस्स्मृतः",
+   "text_te": "శుక్రశోణితసంయోగాద్దేహస్సంజాయతే యతః | నిత్యం విణ్మూత్రసంపూర్ణస్తేనాయమశుచిస్స్మృతః",
+   "text_en": "śukraśoṇitasaṁyogāddehassaṁjāyate yataḥ | nityaṁ viṇmūtrasaṁpūrṇastenāyamaśucissmṛtaḥ",
+   "mean_en": "Since the body is born from the union of semen and blood, and is always filled with urine and faeces, therefore it is remembered as impure.",
+   "mean_te": "శుక్రం (వీర్యం) మరియు రక్తం కలయిక వల్ల శరీరం పుడుతుంది; అది ఎల్లప్పుడూ మూత్రం మరియు మలంతో నిండి ఉంటుంది; అందుకే అది అశుచిగా స్మరింపబడుతుంది."
+  },
+  {
+   "n": 3,
+   "text_deva": "यथांतर्विष्ठया पूर्णश्शुचिमान्न बहिर्घटः | शोध्यमानो हि देहोऽयं तेनायमशुचिस्ततः",
+   "text_te": "యథాంతర్విష్ఠయా పూర్ణశ్శుచిమాన్న బహిర్ఘటః | శోధ్యమానో హి దేహోఽయం తేనాయమశుచిస్తతః",
+   "text_en": "yathāṁtarviṣṭhayā pūrṇaśśucimānna bahirghaṭaḥ | śodhyamāno hi deho'yaṁ tenāyamaśucistataḥ",
+   "mean_en": "Just as a pot filled inside with excrement is not clean on the outside, this body, even when cleansed, remains impure.",
+   "mean_te": "లోపల మలంతో నిండిన కుండ బయట శుభ్రంగా లేనట్లే, ఎంత శుద్ధి చేసినా ఈ శరీరం అశుచిగానే ఉంటుంది."
+  },
+  {
+   "n": 4,
+   "text_deva": "संप्राप्यातिपवित्राणि पंचगव्यहवींषि चा| अशुचित्वं क्षणाद्यांति किमन्यदशुचिस्ततः",
+   "text_te": "సంప్రాప్యాతిపవిత్రాణి పంచగవ్యహవీంషి చా| అశుచిత్వం క్షణాద్యాంతి కిమన్యదశుచిస్తతః",
+   "text_en": "saṁprāpyātipavitrāṇi paṁcagavyahavīṁṣi cā| aśucitvaṁ kṣaṇādyāṁti kimanyadaśucistataḥ",
+   "mean_en": "Even after receiving the most sacred Pañcagavya oblations, the body becomes impure again within moments; what greater impurity can there be than this?",
+   "mean_te": "అత్యంత పవిత్రమైన పంచగవ్య హోమాలు చేసినా, క్షణాల్లోనే శరీరం మళ్ళీ అశుద్ధమవుతుంది; దీనికంటే ఇంకేమి అశుచి ఉంటుంది?"
+  },
+  {
+   "n": 5,
+   "text_deva": "हृद्यान्यप्यन्नपानानि यं प्राप्य सुरभीणि च | अशुचित्वं प्रयांत्याशु किमन्यदशुचिस्ततः",
+   "text_te": "హృద్యాన్యప్యన్నపానాని యం ప్రాప్య సురభీణి చ | అశుచిత్వం ప్రయాంత్యాశు కిమన్యదశుచిస్తతః",
+   "text_en": "hṛdyānyapyannapānāni yaṁ prāpya surabhīṇi ca | aśucitvaṁ prayāṁtyāśu kimanyadaśucistataḥ",
+   "mean_en": "Even delicious foods and drinks and fragrant things, on coming into contact with the body, quickly become impure; what other impurity need be mentioned?",
+   "mean_te": "రుచికరమైన ఆహారపదార్థాలు, పానీయాలు, సువాసనగల వస్తువులు కూడా శరీరాన్ని తాకగానే త్వరగా అశుద్ధమవుతాయి; దీనికంటే ఇంకేమి అశుచి చెప్పాలి?"
+  },
+  {
+   "n": 6,
+   "text_deva": "हे जनाः किन्न पश्यंति यन्निर्याति दिनेदिने | स्वदेहात्कश्मलं पूतिस्तदाधारः कथं शुचिः",
+   "text_te": "హే జనాః కిన్న పశ్యంతి యన్నిర్యాతి దినేదినే | స్వదేహాత్కశ్మలం పూతిస్తదాధారః కథం శుచిః",
+   "text_en": "he janāḥ kinna paśyaṁti yanniryāti dinedine | svadehātkaśmalaṁ pūtistadādhāraḥ kathaṁ śuciḥ",
+   "mean_en": "O people, why do you not see what comes out of your own bodies day after day — that foul impurity? How can the container of such putrid matter be pure?",
+   "mean_te": "హే మానవులారా, మీ శరీరం నుండి రోజు రోజూ వెలువడే ఆ దుర్వాసన మైలను ఎందుకు చూడట్లేదు? ఆ చేదగుడిసెకు ఆధారమైన శరీరం ఎలా శుచిగా ఉంటుంది?"
+  },
+  {
+   "n": 7,
+   "text_deva": "देहस्संशोध्यमानोऽपि पंचगव्यकुशांबुभिः | घृष्यमाण इवांगारो निर्मलत्वं न गच्छति",
+   "text_te": "దేహస్సంశోధ్యమానోఽపి పంచగవ్యకుశాంబుభిః | ఘృష్యమాణ ఇవాంగారో నిర్మలత్వం న గచ్ఛతి",
+   "text_en": "dehassaṁśodhyamāno'pi paṁcagavyakuśāṁbubhiḥ | ghṛṣyamāṇa ivāṁgāro nirmalatvaṁ na gacchati",
+   "mean_en": "Even though the body is scrubbed with Pañcagavya and kuśa water, like charcoal being rubbed it does not attain spotlessness.",
+   "mean_te": "పంచగవ్యంతోను, కుశోదకంతోను శరీరాన్ని ఎంత రుద్ది శుద్ధి చేసినా, రుద్దబడే బొగ్గు వలె అది నిర్మలత్వాన్ని పొందదు."
+  },
+  {
+   "n": 8,
+   "text_deva": "स्रोतांसि यस्य सततं प्रभवंति गिरेरिव | कफमूत्रपुरीषाद्यैस्स देहश्शुध्यते कथम्",
+   "text_te": "స్రోతాంసి యస్య సతతం ప్రభవంతి గిరేరివ | కఫమూత్రపురీషాద్యైస్స దేహశ్శుధ్యతే కథమ్",
+   "text_en": "srotāṁsi yasya satataṁ prabhavaṁti gireriva | kaphamūtrapurīṣādyaissa dehaśśudhyate katham",
+   "mean_en": "From this body, streams of phlegm, urine, faeces and the like constantly flow as streams flow from a mountain; how can such a body ever become pure?",
+   "mean_te": "ఈ శరీరం నుండి కఫం, మూత్రం, మలం మొదలైనవి పర్వతం నుండి ప్రవహించే నదుల వలె ఎప్పుడూ ప్రవహిస్తుంటాయి; అటువంటి శరీరం ఎలా శుద్ధి అవుతుంది?"
+  },
+  {
+   "n": 9,
+   "text_deva": "सर्वाशुचिनिधानस्य शरीरस्य न विद्यते | शुचिरेकः प्रदेशोऽपि विण्मूत्रस्य दृतेरिव",
+   "text_te": "సర్వాశుచినిధానస్య శరీరస్య న విద్యతే | శుచిరేకః ప్రదేశోఽపి విణ్మూత్రస్య దృతేరివ",
+   "text_en": "sarvāśucinidhānasya śarīrasya na vidyate | śucirekaḥ pradeśo'pi viṇmūtrasya dṛteriva",
+   "mean_en": "In this body, the storehouse of all impurities, there is not even a single spot that is pure — just as no part of a vessel holding urine and faeces is clean.",
+   "mean_te": "సర్వ అశుచులకు నిలయమైన ఈ శరీరంలో ఒక్క చోటు కూడా శుచిగా లేదు — మూత్రమలాలు నిలిచే కుండలో ఒక్క ముక్క కూడా శుభ్రం కాకపోవటం వలె."
+  },
+  {
+   "n": 10,
+   "text_deva": "सृष्ट्वात्मदेहस्रोतांसि मृत्तोयैः शोध्यते करः | तथाप्यशुचिभांडस्य न विभ्रश्यति किं करः",
+   "text_te": "సృష్ట్వాత్మదేహస్రోతాంసి మృత్తోయైః శోధ్యతే కరః | తథాప్యశుచిభాండస్య న విభ్రశ్యతి కిం కరః",
+   "text_en": "sṛṣṭvātmadehasrotāṁsi mṛttoyaiḥ śodhyate karaḥ | tathāpyaśucibhāṁḍasya na vibhraśyati kiṁ karaḥ",
+   "mean_en": "After voiding the body's waste one washes the hands with clay and water; yet the hand, being part of this vessel of impurity, does not thereby escape impurity.",
+   "mean_te": "శరీరం నుండి మలమూత్రాలు విడిచిపెట్టి, చేతులను మట్టితో కడిగినా, అశుచి పాత్రలో భాగమైన ఆ చేతి అశుచి తొలగదు."
+  },
+  {
+   "n": 11,
+   "text_deva": "कायस्सुगंधधूपाद्यैर्य न्नेनापि सुसंस्कृतः | न जहाति स्वभावं स श्वपुच्छमिव नामितम्",
+   "text_te": "కాయస్సుగంధధూపాద్యైర్య న్నేనాపి సుసంస్కృతః | న జహాతి స్వభావం స శ్వపుచ్ఛమివ నామితమ్",
+   "text_en": "kāyassugaṁdhadhūpādyairya nnenāpi susaṁskṛtaḥ | na jahāti svabhāvaṁ sa śvapucchamiva nāmitam",
+   "mean_en": "Even when the body is well refined with fragrant pastes, incense and fine food, it does not give up its nature — like a dog's tail, which can never be straightened.",
+   "mean_te": "సుగంధ ధూపాలతో, మంచి భోజనంతో శరీరాన్ని ఎంత సంస్కరించినా, అది తన స్వభావాన్ని వదిలిపెట్టదు — ఎన్ని ప్రయత్నాలు చేసినా నిటారుకాని కుక్క తోక వలె."
+  },
+  {
+   "n": 12,
+   "text_deva": "यथा जात्यैव कृष्णोर्थः शुक्लस्स्यान्न ह्युपायतः | संशोद्ध्यमानापि तथा भवेन्मूर्तिर्न निर्मला",
+   "text_te": "యథా జాత్యైవ కృష్ణోర్థః శుక్లస్స్యాన్న హ్యుపాయతః | సంశోద్ధ్యమానాపి తథా భవేన్మూర్తిర్న నిర్మలా",
+   "text_en": "yathā jātyaiva kṛṣṇorthaḥ śuklassyānna hyupāyataḥ | saṁśoddhyamānāpi tathā bhavenmūrtirna nirmalā",
+   "mean_en": "Just as a crow is black by birth and cannot become white by any means, so the body, even when cleansed, does not become spotless.",
+   "mean_te": "కాకి పుట్టుకతోనే నల్లగా ఉండి, ఏ ఉపాయంతోనూ తెల్లగా మారలేనట్లే, శుద్ధి చేసినా ఈ శరీరం నిర్మలంగా ఉండదు."
+  },
+  {
+   "n": 13,
+   "text_deva": "जिघ्रन्नपि स्वदुर्गंधं पश्यन्नपि स्वकं मलम् | न विरज्येत लोकोऽयं पीडयन्नपि नासिकाम्",
+   "text_te": "జిఘ్రన్నపి స్వదుర్గంధం పశ్యన్నపి స్వకం మలమ్ | న విరజ్యేత లోకోఽయం పీడయన్నపి నాసికామ్",
+   "text_en": "jighrannapi svadurgaṁdhaṁ paśyannapi svakaṁ malam | na virajyeta loko'yaṁ pīḍayannapi nāsikām",
+   "mean_en": "Even while smelling one's own foul odour and seeing one's own filth — even though it torments the nose — this world does not become detached.",
+   "mean_te": "తన దుర్గంధాన్ని వాసన చూస్తూనే, తన మైలను చూస్తూనే, ముక్కును పిసికుకుంటూనే, ఈ లోకం వైరాగ్యం పొందడం లేదు."
+  },
+  {
+   "n": 14,
+   "text_deva": "अहो मोहस्य माहात्म्यं येनेदं छादितं जगत् | शीघ्रं पश्यन्स्वकं दोषं कायस्य न विरज्यते",
+   "text_te": "అహో మోహస్య మాహాత్మ్యం యేనేదం ఛాదితం జగత్ | శీఘ్రం పశ్యన్స్వకం దోషం కాయస్య న విరజ్యతే",
+   "text_en": "aho mohasya māhātmyaṁ yenedaṁ chāditaṁ jagat | śīghraṁ paśyansvakaṁ doṣaṁ kāyasya na virajyate",
+   "mean_en": "Oh, how great is the power of delusion, by which this world is veiled! Even while quickly seeing the defects of his own body, man does not become detached.",
+   "mean_te": "ఆహా! ఈ జగత్తును కప్పేసిన మోహపు మహత్తు ఎంత గొప్పదీ! తన శరీర దోషాలను వెంటనే చూస్తూనే, మనిషి వైరాగ్యం పొందడం లేదు."
+  },
+  {
+   "n": 15,
+   "text_deva": "स्वदेहस्य विगंधेन न विरज्येत यो नरः | विरागकारणं तस्य किमेतदुपदिश्यते",
+   "text_te": "స్వదేహస్య విగంధేన న విరజ్యేత యో నరః | విరాగకారణం తస్య కిమేతదుపదిశ్యతే",
+   "text_en": "svadehasya vigaṁdhena na virajyeta yo naraḥ | virāgakāraṇaṁ tasya kimetadupadiśyate",
+   "mean_en": "If a man does not feel revulsion even at the foul smell of his own body, what can be prescribed to him as the cause of detachment?",
+   "mean_te": "తన శరీర దుర్గంధం చూసి కూడా వైరాగ్యం పొందని మనిషికి, వైరాగ్యానికి కారణమైన ఏమి ఉపదేశించాలి?"
+  },
+  {
+   "n": 16,
+   "text_deva": "सर्वस्यैव जगन्मध्ये देह एवाशुचिर्भवेत् | तन्मलावयवस्पर्शाच्छुचिरप्यशुचिर्भवेत्",
+   "text_te": "సర్వస్యైవ జగన్మధ్యే దేహ ఏవాశుచిర్భవేత్ | తన్మలావయవస్పర్శాచ్ఛుచిరప్యశుచిర్భవేత్",
+   "text_en": "sarvasyaiva jaganmadhye deha evāśucirbhavet | tanmalāvayavasparśācchucirapyaśucirbhavet",
+   "mean_en": "Amid all the things of the world, the body alone is impure; by the touch of its impure limbs, even what is pure becomes impure.",
+   "mean_te": "సమస్త జగత్తులో అశుచిగా ఉండేది ఈ శరీరమే; దాని మలిన అవయవాల స్పర్శతో శుభ్రమైనవి కూడా అశుద్ధమవుతాయి."
+  },
+  {
+   "n": 17,
+   "text_deva": "गंधलेपापनोदार्थ शौचं देहस्य कीर्तितम् | द्वयस्यापगमाच्छुद्धिश्शुद्धस्पर्शाद्विशुध्यति",
+   "text_te": "గంధలేపాపనోదార్థ శౌచం దేహస్య కీర్తితమ్ | ద్వయస్యాపగమాచ్ఛుద్ధిశ్శుద్ధస్పర్శాద్విశుధ్యతి",
+   "text_en": "gaṁdhalepāpanodārtha śaucaṁ dehasya kīrtitam | dvayasyāpagamācchuddhiśśuddhasparśādviśudhyati",
+   "mean_en": "The cleansing of the body is proclaimed only for removing the coating of dirt and foul smear; with the removal of that pair it becomes clean, and by contact with pure things it becomes fully purified.",
+   "mean_te": "గంధం మరియు మలిన పొరలను తొలగించడానికే శరీరానికి శౌచం అని కీర్తించబడింది; ఆ రెండు తొలగిపోగా శుద్ధి కలుగుతుంది, శుభ్రమైన వాటి స్పర్శతో పూర్తిగా పరిశుద్ధమవుతుంది."
+  },
+  {
+   "n": 18,
+   "text_deva": "गंगातोयेन सर्वेण मृद्भारैः पर्वतोपमैः | आमृत्योराचरेच्छौचं भावदुष्टो न शुध्यति",
+   "text_te": "గంగాతోయేన సర్వేణ మృద్భారైః పర్వతోపమైః | ఆమృత్యోరాచరేచ్ఛౌచం భావదుష్టో న శుధ్యతి",
+   "text_en": "gaṁgātoyena sarveṇa mṛdbhāraiḥ parvatopamaiḥ | āmṛtyorācarecchaucaṁ bhāvaduṣṭo na śudhyati",
+   "mean_en": "Even if one bathes scrupulously until death with all the Ganga water and mountain-sized lumps of clay, a person of corrupt mind is not purified.",
+   "mean_te": "ఒకానొకడు మరణము వరకు సమస్త గంగాజలముతోను, పర్వతములవంటి మట్టిముద్దలతోను యథావిధిగా స్నానము చేసినను, భావము (మనస్సు) చెడిపోయినవాడు శుద్ధి పొందడు."
+  },
+  {
+   "n": 19,
+   "text_deva": "तीर्थस्नानैस्तपोभिर्वा दुष्टात्मा नैव शुध्यति | श्वदृतिः क्षालिता तीर्थे किं शुद्धिमधिगच्छति",
+   "text_te": "తీర్థస్నానైస్తపోభిర్వా దుష్టాత్మా నైవ శుధ్యతి | శ్వదృతిః క్షాలితా తీర్థే కిం శుద్ధిమధిగచ్ఛతి",
+   "text_en": "tīrthasnānaistapobhirvā duṣṭātmā naiva śudhyati | śvadṛtiḥ kṣālitā tīrthe kiṁ śuddhimadhigacchati",
+   "mean_en": "A wicked soul is never purified by bathing in holy places or by austerities, just as a dog's hide washed in a tirtha does not become pure.",
+   "mean_te": "తీర్థస్నానములతో గాని, తపస్సులతో గాని దుష్టాత్ముడు ఎల్లప్పుడూ శుద్ధి పొందడు; శునచర్మము (కుక్క చర్మము) తీర్థములో కడిగినను ఏమి శుద్ధి చెందును?"
+  },
+  {
+   "n": 20,
+   "text_deva": "अंतर्भावप्रदुष्टस्य विशतोऽपि हुताशनम् | न स्वर्गो नापवर्गश्च देहनिर्दहनं परम्",
+   "text_te": "అంతర్భావప్రదుష్టస్య విశతోఽపి హుతాశనమ్ | న స్వర్గో నాపవర్గశ్చ దేహనిర్దహనం పరమ్",
+   "text_en": "aṁtarbhāvapraduṣṭasya viśato'pi hutāśanam | na svargo nāpavargaśca dehanirdahanaṁ param",
+   "mean_en": "For one whose inner mind is corrupt, even entering the fire brings neither heaven nor liberation; the burning of his body alone is the only outcome.",
+   "mean_te": "అంతరంగపు భావము దూషితమైనవానికి, అగ్నిలోనికి ప్రవేశించినను స్వర్గము గాని, అపవర్గము (మోక్షము) గాని లభించవు; దేహము దగ్ధమగుటయే పరమగతి."
+  },
+  {
+   "n": 21,
+   "text_deva": "सर्वेण गांगेन जलेन सम्यङ् मृत्पर्वतेनाप्यथ भावदुष्टः | आजन्मनः स्नानपरो मनुष्यो न शुध्यतीत्येव वयं वदामः",
+   "text_te": "సర్వేణ గాంగేన జలేన సమ్యఙ్ మృత్పర్వతేనాప్యథ భావదుష్టః | ఆజన్మనః స్నానపరో మనుష్యో న శుధ్యతీత్యేవ వయం వదామః",
+   "text_en": "sarveṇa gāṁgena jalena samyaṅ mṛtparvatenāpyatha bhāvaduṣṭaḥ | ājanmanaḥ snānaparo manuṣyo na śudhyatītyeva vayaṁ vadāmaḥ",
+   "mean_en": "We declare that even with the entire Ganga water and a mountain of clay, a man of corrupt mind devoted to bathing all his life does not become pure.",
+   "mean_te": "సమస్త గంగాజలముతోను, మట్టి పర్వతముతోను సహితముగా, జన్మాంతము స్నానమునందే నిష్ఠ గల మనుష్యుడు, భావదోషము గలవాడగుటచే శుద్ధి పొందడని మేము చెప్పుదుము."
+  },
+  {
+   "n": 22,
+   "text_deva": "प्रज्वाल्य वह्निं घृततैलसिक्तं प्रदक्षिणावर्तशिखं महांतम् | प्रविश्य दग्धस्त्वपि भावदुष्टो न धर्ममाप्नोति फलं न चान्यत",
+   "text_te": "ప్రజ్వాల్య వహ్నిం ఘృతతైలసిక్తం ప్రదక్షిణావర్తశిఖం మహాంతమ్ | ప్రవిశ్య దగ్ధస్త్వపి భావదుష్టో న ధర్మమాప్నోతి ఫలం న చాన్యత",
+   "text_en": "prajvālya vahniṁ ghṛtatailasiktaṁ pradakṣiṇāvartaśikhaṁ mahāṁtam | praviśya dagdhastvapi bhāvaduṣṭo na dharmamāpnoti phalaṁ na cānyata",
+   "mean_en": "Even if a man kindles a great fire sprinkled with ghee and oil, with flames whirling clockwise, and entering it is burnt, the corrupt-minded person attains neither dharma nor any other fruit.",
+   "mean_te": "ఘృతతైలములతో చల్లబడిన, ప్రదక్షిణావర్తముగా జ్వలించు మహాగ్నిని ప్రజ్వలింపజేసి, దానిలో ప్రవేశించి దగ్ధుడైనను, భావదుష్టుడు ధర్మమును గాని, ఇతర ఫలమును గాని పొందడు."
+  },
+  {
+   "n": 23,
+   "text_deva": "गंगादितीर्थेषु वसंति मत्स्या देवालये पक्षिगणाश्च नित्यम् | भावोज्झितास्ते न फलं लभंते तीर्थावगाहाच्च तथैव दानात्",
+   "text_te": "గంగాదితీర్థేషు వసంతి మత్స్యా దేవాలయే పక్షిగణాశ్చ నిత్యమ్ | భావోజ్ఝితాస్తే న ఫలం లభంతే తీర్థావగాహాచ్చ తథైవ దానాత్",
+   "text_en": "gaṁgāditīrtheṣu vasaṁti matsyā devālaye pakṣigaṇāśca nityam | bhāvojjhitāste na phalaṁ labhaṁte tīrthāvagāhācca tathaiva dānāt",
+   "mean_en": "Fish live forever in the Ganga and other tirthas, and birds dwell constantly in temples; those who lack pure inner feeling gain no fruit from bathing in tirthas or from giving gifts.",
+   "mean_te": "గంగాది తీర్థములయందు మత్స్యములు నిత్యము నివసించుచున్నవి, దేవాలయములయందు పక్షులగణములు నిరంతరము ఉండుచున్నవి; భావమును విడిచిపెట్టినవారు తీర్థములందు మునగుటవలన గాని, దానమువలన గాని ఫలము పొందరు."
+  },
+  {
+   "n": 24,
+   "text_deva": "भावशुद्धिः परं शौचं प्रमाणे सर्वकर्मसु | अन्यथाऽऽलिंग्यते कांता भावेन दुहितान्यथा",
+   "text_te": "భావశుద్ధిః పరం శౌచం ప్రమాణే సర్వకర్మసు | అన్యథాఽఽలింగ్యతే కాంతా భావేన దుహితాన్యథా",
+   "text_en": "bhāvaśuddhiḥ paraṁ śaucaṁ pramāṇe sarvakarmasu | anyathā''liṁgyate kāṁtā bhāvena duhitānyathā",
+   "mean_en": "Purity of inner feeling is the supreme purity — this is the authority for all actions; otherwise note how the wife embraces in one manner and the daughter in quite another, according to their feeling.",
+   "mean_te": "భావశుద్ధియే పరమశౌచము; సర్వకర్మలయందు ఇదే ప్రమాణము. లేదయితే — భార్య ఒక భావముతో ఆలింగనము చేయును, పుత్రిక వేరొక భావముతో చేయును."
+  },
+  {
+   "n": 25,
+   "text_deva": "मनसो भिद्यते वृत्तिरभिन्नेष्वपि वस्तुषु | अन्यथैव सुतं नारी चिन्तयत्यन्यथा पतिम्",
+   "text_te": "మనసో భిద్యతే వృత్తిరభిన్నేష్వపి వస్తుషు | అన్యథైవ సుతం నారీ చిన్తయత్యన్యథా పతిమ్",
+   "text_en": "manaso bhidyate vṛttirabhinneṣvapi vastuṣu | anyathaiva sutaṁ nārī cintayatyanyathā patim",
+   "mean_en": "Because of the mind, one's disposition differs even toward identical objects; thus a woman thinks of her son in one way and of her husband in quite another.",
+   "mean_te": "మనస్సు వలన, అభిన్నమైన వస్తువులయందును వృత్తి (భావము) భిన్నముగా నుండును; అందుచే స్త్రీ పుత్రునిని ఒకలాగున, భర్తను వేరొకలాగున ఆలోచించును."
+  },
+  {
+   "n": 26,
+   "text_deva": "पश्यध्वमस्य भावस्य महाभाग्यमशेषतः | परिष्वक्तोपि यन्नार्य्या भावहीनं न कामयेत्",
+   "text_te": "పశ్యధ్వమస్య భావస్య మహాభాగ్యమశేషతః | పరిష్వక్తోపి యన్నార్య్యా భావహీనం న కామయేత్",
+   "text_en": "paśyadhvamasya bhāvasya mahābhāgyamaśeṣataḥ | pariṣvaktopi yannāryyā bhāvahīnaṁ na kāmayet",
+   "mean_en": "Observe the great power of this inner feeling in every respect: even though embraced by the woman, a man devoid of feeling feels no desire.",
+   "mean_te": "ఈ భావము యొక్క మహామహిమను సర్వప్రకారముగా జూడుడి: భార్యచేత ఆలింగనము చేయబడినను, భావహీనుడైనవాడు కామమును కోరడు."
+  },
+  {
+   "n": 27,
+   "text_deva": "नाद्याद्विविधमन्नाद्यं भक्ष्याणि सुरभीणि च | यदि चिंतां समाधत्ते चित्ते कामादिषु त्रिषु",
+   "text_te": "నాద్యాద్వివిధమన్నాద్యం భక్ష్యాణి సురభీణి చ | యది చింతాం సమాధత్తే చిత్తే కామాదిషు త్రిషు",
+   "text_en": "nādyādvividhamannādyaṁ bhakṣyāṇi surabhīṇi ca | yadi ciṁtāṁ samādhatte citte kāmādiṣu triṣu",
+   "mean_en": "However varied the delicious foods, drinks, and fragrant eatables may be, if the mind fixes its thought on the three desires such as lust, ...",
+   "mean_te": "నానావిధమైన ఆహారపదార్థములు, పానీయములు, సువాసన గల భక్ష్యములు ఉన్నను, మనస్సు కామాదులయిన మూడు విషయములయందు చింతనను నిలుపుకొనినట్లయితే..."
+  },
+  {
+   "n": 28,
+   "text_deva": "गृह्यते तेन भावेन नरो भावाद्विमुच्यते | भावतश्शुचि शुद्धात्मा स्वर्गं मोक्षं च विंदति",
+   "text_te": "గృహ్యతే తేన భావేన నరో భావాద్విముచ్యతే | భావతశ్శుచి శుద్ధాత్మా స్వర్గం మోక్షం చ విందతి",
+   "text_en": "gṛhyate tena bhāvena naro bhāvādvimucyate | bhāvataśśuci śuddhātmā svargaṁ mokṣaṁ ca viṁdati",
+   "mean_en": "...everything is seized by that (evil) feeling, yet by right feeling a man is released; through pure feeling the pure-souled one attains both heaven and liberation.",
+   "mean_te": "...అవి ఆ (దుర్భావ) భావముచేత గ్రహింపబడును; భావముచేతనే (సద్భావముతో) మనుష్యుడు విముక్తుడగును. సద్భావమువలన శుచియైన శుద్ధాత్ముడు స్వర్గమును, మోక్షమును పొందును."
+  },
+  {
+   "n": 29,
+   "text_deva": "भावेनैकात्मशुद्धात्मा दहञ्जुह्वन्स्तुवन्मृतः | ज्ञानावाप्तेरवाप्याशु लोकान्सुबहुयाजिनाम्",
+   "text_te": "భావేనైకాత్మశుద్ధాత్మా దహఞ్జుహ్వన్స్తువన్మృతః | జ్ఞానావాప్తేరవాప్యాశు లోకాన్సుబహుయాజినామ్",
+   "text_en": "bhāvenaikātmaśuddhātmā dahañjuhvanstuvanmṛtaḥ | jñānāvāpteravāpyāśu lokānsubahuyājinām",
+   "mean_en": "A man whose self is purified by pure feeling — whether burning, offering oblations, praising, or even at death — having attained knowledge, quickly reaches the worlds won by performers of many sacrifices.",
+   "mean_te": "భావముచేత ఆత్మశుద్ధి పొందినవాడు — అగ్నిలో దహించుచుండగానో, హోమములు చేయుచుండగానో, స్తుతించుచుండగానో, మరణించినను — జ్ఞానమును పొంది, బహుయాగములు చేసినవారు చేరు లోకములను శీఘ్రముగా పొందును."
+  },
+  {
+   "n": 30,
+   "text_deva": "ज्ञानामलांभसा पुंसां सद्वैराग्यमृदा पुनः | अविद्यारागविण्मूत्रलेपगंधविशोधनम्",
+   "text_te": "జ్ఞానామలాంభసా పుంసాం సద్వైరాగ్యమృదా పునః | అవిద్యారాగవిణ్మూత్రలేపగంధవిశోధనమ్",
+   "text_en": "jñānāmalāṁbhasā puṁsāṁ sadvairāgyamṛdā punaḥ | avidyārāgaviṇmūtralepagaṁdhaviśodhanam",
+   "mean_en": "The faultless water of knowledge and the clay of true detachment again wash away the stains of ignorance and passion, together with the filth of excrement and urine.",
+   "mean_te": "జ్ఞానము అను మలినరహిత జలముతోను, సద్వైరాగ్యము అను మట్టితోను, అవిద్య, రాగము, మలమూత్రముల ముసురు (మాలిన్యము) మరల శుద్ధిచేయబడును."
+  },
+  {
+   "n": 31,
+   "text_deva": "एवमेतच्छरीरं हि निसर्गादशुचि स्मृतम् | त्वङ्मात्रसारं निःसारं कदलीसारसन्निभम्",
+   "text_te": "ఏవమేతచ్ఛరీరం హి నిసర్గాదశుచి స్మృతమ్ | త్వఙ్మాత్రసారం నిఃసారం కదలీసారసన్నిభమ్",
+   "text_en": "evametaccharīraṁ hi nisargādaśuci smṛtam | tvaṅmātrasāraṁ niḥsāraṁ kadalīsārasannibham",
+   "mean_en": "Thus this body is by nature regarded as impure — essentially mere skin, without real substance, like the plantain-stem.",
+   "mean_te": "ఈ విధముగా ఈ శరీరము సహజముగానే అశుచియైనదిగా స్మరించబడును; చర్మమే సారమైనది, నిర్సారమైనది, అరటితొడిమవలె ఉండును."
+  },
+  {
+   "n": 32,
+   "text_deva": "ज्ञात्वैवं दोषवद्देहं यः प्राज्ञश्शिथिलो भवेत् | देह भोगोद्भवाद्भावाच्छमचित्तः प्रसन्नधीः",
+   "text_te": "జ్ఞాత్వైవం దోషవద్దేహం యః ప్రాజ్ఞశ్శిథిలో భవేత్ | దేహ భోగోద్భవాద్భావాచ్ఛమచిత్తః ప్రసన్నధీః",
+   "text_en": "jñātvaivaṁ doṣavaddehaṁ yaḥ prājñaśśithilo bhavet | deha bhogodbhavādbhāvācchamacittaḥ prasannadhīḥ",
+   "mean_en": "Knowing the body to be thus full of defects, the wise man grows detached from it; freed from the feeling born of bodily enjoyment, his mind becomes calm and his intellect clear.",
+   "mean_te": "ఈ విధముగా దోషమయమైన దేహమును తెలిసికొన్న ప్రజ్ఞావంతుడు నిర్లిప్తుడగును; దేహభోగముచేత పుట్టిన భావమును విడనాడి, శమముగల మనస్సును, ప్రసన్నమైన బుద్ధిని పొందును."
+  },
+  {
+   "n": 33,
+   "text_deva": "सोऽतिक्रामति संसारं जीवन्मुक्तः प्रजायते | संसारं कदलीसारदृढग्राह्यवतिष्ठते",
+   "text_te": "సోఽతిక్రామతి సంసారం జీవన్ముక్తః ప్రజాయతే | సంసారం కదలీసారదృఢగ్రాహ్యవతిష్ఠతే",
+   "text_en": "so'tikrāmati saṁsāraṁ jīvanmuktaḥ prajāyate | saṁsāraṁ kadalīsāradṛḍhagrāhyavatiṣṭhate",
+   "mean_en": "Such a man crosses over samsara and becomes liberated while living; he remains established in the world as though firmly holding a plantain-stem, knowing it to be essence-less.",
+   "mean_te": "అట్టివాడు సంసారమును అధిగమించి జీవన్ముక్తుడగును; అరటితొడిమను (సారహీనమైనదిగా తెలిసి) గట్టిగా పట్టుకొన్నట్లు సంసారములో స్థిరముగా నిలువును."
+  },
+  {
+   "n": 34,
+   "text_deva": "एवमेतन्महाकष्टं जन्म दुःखं प्रकीर्तितम् | पुंसामज्ञानदोषेण नानाकार्मवशेन च",
+   "text_te": "ఏవమేతన్మహాకష్టం జన్మ దుఃఖం ప్రకీర్తితమ్ | పుంసామజ్ఞానదోషేణ నానాకార్మవశేన చ",
+   "text_en": "evametanmahākaṣṭaṁ janma duḥkhaṁ prakīrtitam | puṁsāmajñānadoṣeṇa nānākārmavaśena ca",
+   "mean_en": "Thus birth is proclaimed to be a great misery and sorrow, arising from men's fault of ignorance and from the influence of various past karmas.",
+   "mean_te": "ఈ విధముగా జన్మ మహాకష్టము, దుఃఖము అని ప్రకీర్తింపబడినది; అది పురుషుల అజ్ఞానదోషమువలను, నానావిధ కర్మల వశమువలను కలుగుచున్నది."
+  },
+  {
+   "n": 35,
+   "text_deva": "श्लोकार्धेन तु वक्ष्यामि यदुक्तं ग्रन्थकोटिभिः | ममेति परमं दुःखं न ममेति परं सुखम्",
+   "text_te": "శ్లోకార్ధేన తు వక్ష్యామి యదుక్తం గ్రన్థకోటిభిః | మమేతి పరమం దుఃఖం న మమేతి పరం సుఖమ్",
+   "text_en": "ślokārdhena tu vakṣyāmi yaduktaṁ granthakoṭibhiḥ | mameti paramaṁ duḥkhaṁ na mameti paraṁ sukham",
+   "mean_en": "In half a verse I shall state what has been declared by crores of books: 'Mine' is the greatest sorrow, and 'Not mine' is the supreme happiness.",
+   "mean_te": "కోట్ల గ్రంథాలు చెప్పిన సారాంశాన్ని నేను అర్ధశ్లోకంలో చెబుతాను: 'నాది' అనేది పరమ దుఃఖం; 'నాది కాదు' అనేది పరమ సుఖం."
+  },
+  {
+   "n": 36,
+   "text_deva": "बहवोपीह राजानः परं लोक मितो गताः | निर्ममत्वसमेतास्तु बद्धाश्शतसहस्रशः",
+   "text_te": "బహవోపీహ రాజానః పరం లోక మితో గతాః | నిర్మమత్వసమేతాస్తు బద్ధాశ్శతసహస్రశః",
+   "text_en": "bahavopīha rājānaḥ paraṁ loka mito gatāḥ | nirmamatvasametāstu baddhāśśatasahasraśaḥ",
+   "mean_en": "Many kings have gone from here to the other world, yet those still clinging to possessiveness are bound again and again hundreds and thousands of times (in rebirth).",
+   "mean_te": "అనేకులైన రాజులు ఇక్కడినుండి పరలోకం చేరారు; కానీ 'నాది' అనే మమకారంలో చిక్కుకున్నవారు వేలు కొలది మళ్ళీ మళ్ళీ జన్మబంధనంలో పడుతున్నారు."
+  },
+  {
+   "n": 37,
+   "text_deva": "गर्भस्थस्य स्मृतिर्यासीत्सा च तस्य प्रणश्यति | संमूर्छितेन दुःखेन योनियन्त्रनिपीडनात्",
+   "text_te": "గర్భస్థస్య స్మృతిర్యాసీత్సా చ తస్య ప్రణశ్యతి | సంమూర్ఛితేన దుఃఖేన యోనియన్త్రనిపీడనాత్",
+   "text_en": "garbhasthasya smṛtiryāsītsā ca tasya praṇaśyati | saṁmūrchitena duḥkhena yoniyantranipīḍanāt",
+   "mean_en": "The memory (of past life) that an embryo has is destroyed by the intense anguish caused by being confined and tormented within the womb.",
+   "mean_te": "గర్భంలో ఉన్నప్పుడు కలిగిన స్మృతి (గత జన్మ జ్ఞాపకం), గర్భకోశంలో బిగుసుకుపోయి పీడింపబడే తీవ్ర బాధతో నశించిపోతుంది."
+  },
+  {
+   "n": 38,
+   "text_deva": "बाह्येन वायुना वास्य मोहसङ्गेन देहिनः | स्पृष्टमात्रेण घोरेण ज्वरस्समुपजायते",
+   "text_te": "బాహ్యేన వాయునా వాస్య మోహసఙ్గేన దేహినః | స్పృష్టమాత్రేణ ఘోరేణ జ్వరస్సముపజాయతే",
+   "text_en": "bāhyena vāyunā vāsya mohasaṅgena dehinaḥ | spṛṣṭamātreṇa ghoreṇa jvarassamupajāyate",
+   "mean_en": "When touched by the outer air and overcome by the contact of delusion, a fierce fever arises in the embodied being.",
+   "mean_te": "బయటి వాయువు తగిలినప్పుడు, మోహం (భ్రాంతి) ప్రభావంలో పడ్డప్పుడు, దేహునికి ఘోరమైన జ్వరం పుడుతుంది."
+  },
+  {
+   "n": 39,
+   "text_deva": "तेन ज्वारेण महता सम्मोहश्च प्रजायते | सम्मूढस्य स्मृतिभ्रंशश्शीघ्रं संजायते पुनः",
+   "text_te": "తేన జ్వారేణ మహతా సమ్మోహశ్చ ప్రజాయతే | సమ్మూఢస్య స్మృతిభ్రంశశ్శీఘ్రం సంజాయతే పునః",
+   "text_en": "tena jvāreṇa mahatā sammohaśca prajāyate | sammūḍhasya smṛtibhraṁśaśśīghraṁ saṁjāyate punaḥ",
+   "mean_en": "From that great fever complete delusion arises, and in the deluded one loss of memory quickly comes about again.",
+   "mean_te": "ఆ మహా జ్వరం వల్ల పూర్తి మోహగ్రస్తత్వం పుడుతుంది; మోహపరవశుడైనవానికి త్వరలోనే స్మృతి మళ్ళీ నశించిపోతుంది."
+  },
+  {
+   "n": 40,
+   "text_deva": "स्मृतिभ्रंशात्ततस्तस्य स्मृतिर्न्नोऽपूर्वकर्मणः | रतिः संजायते तूर्णं जन्तोस्तत्रैव जन्मनि",
+   "text_te": "స్మృతిభ్రంశాత్తతస్తస్య స్మృతిర్న్నోఽపూర్వకర్మణః | రతిః సంజాయతే తూర్ణం జన్తోస్తత్రైవ జన్మని",
+   "text_en": "smṛtibhraṁśāttatastasya smṛtirnno'pūrvakarmaṇaḥ | ratiḥ saṁjāyate tūrṇaṁ jantostatraiva janmani",
+   "mean_en": "Because of that loss of memory, the being does not remember its previous karma, and attachment (desire) quickly arises in it in that very birth.",
+   "mean_te": "ఆ స్మృతినష్టం వల్ల పూర్వకర్మల జ్ఞాపకం ఉండదు; అదే జన్మలో ఆ జీవికి త్వరగా అనురక్తి (కోరిక) పుడుతుంది."
+  },
+  {
+   "n": 41,
+   "text_deva": "रक्तो मूढश्च लोकोऽयं न कार्य्ये सम्प्रवर्तते | न चात्मानं विजानाति न परं न च दैवतम्",
+   "text_te": "రక్తో మూఢశ్చ లోకోఽయం న కార్య్యే సమ్ప్రవర్తతే | న చాత్మానం విజానాతి న పరం న చ దైవతమ్",
+   "text_en": "rakto mūḍhaśca loko'yaṁ na kāryye sampravartate | na cātmānaṁ vijānāti na paraṁ na ca daivatam",
+   "mean_en": "Attached and deluded, this world does not engage in its proper duty; it knows neither the Self, nor the Supreme, nor God.",
+   "mean_te": "మోహంతో అనురక్తుడైన ఈ లోకం ధర్మకార్యంలో ప్రవర్తించడు; తన ఆత్మనూ, పరమాత్ముణ్ణి, దైవాన్ని తెలుసుకోదు."
+  },
+  {
+   "n": 42,
+   "text_deva": "न शृणोति परं श्रेयस्सति कर्णेऽपि सन्मुने | न पश्यति परं श्रेयस्सति चक्षुषि तत्क्षमे",
+   "text_te": "న శృణోతి పరం శ్రేయస్సతి కర్ణేఽపి సన్మునే | న పశ్యతి పరం శ్రేయస్సతి చక్షుషి తత్క్షమే",
+   "text_en": "na śṛṇoti paraṁ śreyassati karṇe'pi sanmune | na paśyati paraṁ śreyassati cakṣuṣi tatkṣame",
+   "mean_en": "Though the ear exists, he does not hear the supreme good; though the eye is capable, he does not see the supreme good.",
+   "mean_te": "చెవులున్నప్పటికీ అతడు పరమ కల్యాణాన్ని వినడు; కళ్ళు చూడగలిగినప్పటికీ పరమ కల్యాణాన్ని చూడడు."
+  },
+  {
+   "n": 43,
+   "text_deva": "समे पथि शनैर्गच्छन् स्खलतीव पदेपदे | सत्यां बुद्धौ न जानाति बोध्यमानो बुधैरपि",
+   "text_te": "సమే పథి శనైర్గచ్ఛన్ స్ఖలతీవ పదేపదే | సత్యాం బుద్ధౌ న జానాతి బోధ్యమానో బుధైరపి",
+   "text_en": "same pathi śanairgacchan skhalatīva padepade | satyāṁ buddhau na jānāti bodhyamāno budhairapi",
+   "mean_en": "Though walking slowly on an even path he stumbles at every step; though his understanding is true, and though instructed by the wise, he does not grasp what should be understood.",
+   "mean_te": "సమమైన మార్గంలో నెమ్మదిగా నడుస్తూనే అడుగడుగునా తడుచుకుంటాడు; బుద్ధి సరైనదై ఉన్నా, జ్ఞానులు బోధించినా గ్రహించలేడు."
+  },
+  {
+   "n": 44,
+   "text_deva": "संसारे क्लिश्यते तेन गर्भलोभवशानुगः | गर्भस्मृतेन पापेन समुज्झितमतिः पुमान्",
+   "text_te": "సంసారే క్లిశ్యతే తేన గర్భలోభవశానుగః | గర్భస్మృతేన పాపేన సముజ్ఝితమతిః పుమాన్",
+   "text_en": "saṁsāre kliśyate tena garbhalobhavaśānugaḥ | garbhasmṛtena pāpena samujjhitamatiḥ pumān",
+   "mean_en": "Thus he suffers in worldly existence, led by the craving for the womb; by that sinful memory of the womb his intellect is cast into confusion.",
+   "mean_te": "పుట్టుక (గర్భ) కోరిక వశప్రవాహంగా నడిచేవాడయిన ఆ మనిషి సంసారంలో బాధపడతాడు; ఆ పాపపు గర్భస్మృతి వల్ల అతని బుద్ధి సరైన జ్ఞానాన్ని విడనాడుతుంది."
+  },
+  {
+   "n": 45,
+   "text_deva": "इत्थं महत्परं दिव्यं शास्त्रमुक्तं शिवेन तु | तपसः कथनार्थाय स्वर्गमोक्षप्रसाधनम्",
+   "text_te": "ఇత్థం మహత్పరం దివ్యం శాస్త్రముక్తం శివేన తు | తపసః కథనార్థాయ స్వర్గమోక్షప్రసాధనమ్",
+   "text_en": "itthaṁ mahatparaṁ divyaṁ śāstramuktaṁ śivena tu | tapasaḥ kathanārthāya svargamokṣaprasādhanam",
+   "mean_en": "Thus the great, supreme, divine scripture has been uttered by Śiva, expounding austerity, as the means of attaining heaven and liberation.",
+   "mean_te": "ఈ విధంగా మహోన్నతమైన దివ్యమైన శాస్త్రాన్ని శివుడు ఉపదేశించాడు; తపస్సును వివరించడానికి, స్వర్గము మోక్షము ప్రసాదించే ఉపాయంగా."
+  },
+  {
+   "n": 46,
+   "text_deva": "ये सत्यस्मिच्छिवे ज्ञाने सर्वकामार्थ साधने | न कुर्वन्त्यात्मनः श्रेयस्तदत्र महदद्भुतम्",
+   "text_te": "యే సత్యస్మిచ్ఛివే జ్ఞానే సర్వకామార్థ సాధనే | న కుర్వన్త్యాత్మనః శ్రేయస్తదత్ర మహదద్భుతమ్",
+   "text_en": "ye satyasmicchive jñāne sarvakāmārtha sādhane | na kurvantyātmanaḥ śreyastadatra mahadadbhutam",
+   "mean_en": "Even though this knowledge fulfills all desired aims, those who do not strive for their own supreme good through it — that indeed is a great wonder.",
+   "mean_te": "సర్వ కామార్థాలను సిద్ధింపజేసే ఈ జ్ఞానంలో కూడా తమ శ్రేయస్సు కోసం ప్రయత్నించనివారు — అది ఇక్కడ మహా అద్భుతం."
+  },
+  {
+   "n": 47,
+   "text_deva": "अव्यक्तेन्द्रियवृत्तित्वाद्बाल्ये दुःखं महत्पुनः | इच्छन्नपि न शक्नोति वक्तुं कर्त्तुं प्रतिक्रियाम्",
+   "text_te": "అవ్యక్తేన్ద్రియవృత్తిత్వాద్బాల్యే దుఃఖం మహత్పునః | ఇచ్ఛన్నపి న శక్నోతి వక్తుం కర్త్తుం ప్రతిక్రియామ్",
+   "text_en": "avyaktendriyavṛttitvādbālye duḥkhaṁ mahatpunaḥ | icchannapi na śaknoti vaktuṁ karttuṁ pratikriyām",
+   "mean_en": "In childhood, again, there is great sorrow because the functions of the senses are not developed; though he wishes, he cannot speak or make any response.",
+   "mean_te": "బాల్యంలో మళ్ళీ మహా దుఃఖం ఉంది — ఇంద్రియాల పనితీరు వ్యక్తంగా లేనందువల్ల; కోరుకున్నా మాట్లాడలేడు, ప్రతిస్పందన చూపలేడు."
+  },
+  {
+   "n": 48,
+   "text_deva": "दंतोत्थाने महद्दुःखमल्पेन व्याधिना तथा | बालरोगैश्च विविधै पीडा बालग्रहैरपि",
+   "text_te": "దంతోత్థానే మహద్దుఃఖమల్పేన వ్యాధినా తథా | బాలరోగైశ్చ వివిధై పీడా బాలగ్రహైరపి",
+   "text_en": "daṁtotthāne mahadduḥkhamalpena vyādhinā tathā | bālarogaiśca vividhai pīḍā bālagrahairapi",
+   "mean_en": "When the teeth emerge there is great pain, and even a slight illness afflicts him; various childhood ailments and the bālagraha afflictions torment him too.",
+   "mean_te": "పన్నులు మొలచేటప్పుడు మహా బాధ ఉంటుంది; స్వల్పమైన వ్యాధితో కూడా ఇబ్బంది పడతాడు; పిల్లల వివిధ రోగాలు, బాలగ్రహ పీడలు కూడా వేధిస్తాయి."
+  },
+  {
+   "n": 49,
+   "text_deva": "क्वचित्क्षुत्तृट्परीतांगः क्वचित्तिष्ठति संरटन् | विण्मूत्रभक्षणाद्यं च मोहाद्बालस्समाचरेत्",
+   "text_te": "క్వచిత్క్షుత్తృట్పరీతాంగః క్వచిత్తిష్ఠతి సంరటన్ | విణ్మూత్రభక్షణాద్యం చ మోహాద్బాలస్సమాచరేత్",
+   "text_en": "kvacitkṣuttṛṭparītāṁgaḥ kvacittiṣṭhati saṁraṭan | viṇmūtrabhakṣaṇādyaṁ ca mohādbālassamācaret",
+   "mean_en": "Sometimes his body is overcome by hunger and thirst, sometimes he lies wailing; and out of delusion the child even eats excrement and urine.",
+   "mean_te": "కొన్నిసార్లు ఆకలి దాహంతో శరీరం అలమటిస్తుంది; కొన్నిసార్లు ఏడుస్తూ పడుకుంటాడు; మోహం వల్ల ఆ పసిబిడ్డ మలమూత్రాలు కూడా తింటాడు."
+  },
+  {
+   "n": 50,
+   "text_deva": "कौमारे कर्णपीडायां मातापित्रोश्च साधनः | अक्षराध्ययनाद्यैश्च नानादुःखं प्रवर्तते",
+   "text_te": "కౌమారే కర్ణపీడాయాం మాతాపిత్రోశ్చ సాధనః | అక్షరాధ్యయనాద్యైశ్చ నానాదుఃఖం ప్రవర్తతే",
+   "text_en": "kaumāre karṇapīḍāyāṁ mātāpitrośca sādhanaḥ | akṣarādhyayanādyaiśca nānāduḥkhaṁ pravartate",
+   "mean_en": "In boyhood, in the ear-boring ceremony, in the disciplining by mother and father, and in the learning of letters and so on, various sorrows arise.",
+   "mean_te": "బాల్యంలో చెవిపోగు (కర్ణవేధన) లో, తల్లిదండ్రుల శిక్షణలో, అక్షరాభ్యాసం వంటి కార్యాలలో అనేక దుఃఖాలు కలుగుతాయి."
+  },
+  {
+   "n": 51,
+   "text_deva": "बाल्ये दुःखमतीत्यैव पश्यन्नपि विमूढधीः | न कुर्वीतात्मनः श्रेयस्तदत्र महदद्भुतम्",
+   "text_te": "బాల్యే దుఃఖమతీత్యైవ పశ్యన్నపి విమూఢధీః | న కుర్వీతాత్మనః శ్రేయస్తదత్ర మహదద్భుతమ్",
+   "text_en": "bālye duḥkhamatītyaiva paśyannapi vimūḍhadhīḥ | na kurvītātmanaḥ śreyastadatra mahadadbhutam",
+   "mean_en": "Though he passes through and even sees the sorrows of childhood, the one of deluded intellect does not pursue his own supreme good — that indeed is a great wonder.",
+   "mean_te": "బాల్యంలోని దుఃఖాలను అనుభవించి, చూసినా, మోహపరుడైన బుద్ధి కలవాడు తన శ్రేయస్సు కోసం ప్రయత్నించడు — అది మహా అద్భుతం."
+  },
+  {
+   "n": 52,
+   "text_deva": "प्रवृत्तेन्द्रियवृत्तित्वात्कामरोगप्रपीडनात् | तदप्राप्ते तु सततं कुतस्सौख्यं तु यौवने",
+   "text_te": "ప్రవృత్తేన్ద్రియవృత్తిత్వాత్కామరోగప్రపీడనాత్ | తదప్రాప్తే తు సతతం కుతస్సౌఖ్యం తు యౌవనే",
+   "text_en": "pravṛttendriyavṛttitvātkāmarogaprapīḍanāt | tadaprāpte tu satataṁ kutassaukhyaṁ tu yauvane",
+   "mean_en": "Because his senses are ever engaged in their objects and he is tormented by the disease of lust, which pains him whenever its object is not attained, where can there be any happiness in youth?",
+   "mean_te": "ఇంద్రియాలు ఎప్పుడూ విషయాలలో నిమగ్నమై కామవ్యాధితో పీడించబడుతూ, ఆ విషయం దొరకకపోతే నిరంతరం బాధపడుతూ ఉంటే, యౌవనంలో సుఖం ఎక్కడినుంచి వస్తుంది?"
+  },
+  {
+   "n": 53,
+   "text_deva": "ईर्ष्यया च महद्दुःखं मोहाद्रक्तस्य तस्य च | नेत्रस्य कुपितस्येव त्यागी दुःखाय केवलम्",
+   "text_te": "ఈర్ష్యయా చ మహద్దుఃఖం మోహాద్రక్తస్య తస్య చ | నేత్రస్య కుపితస్యేవ త్యాగీ దుఃఖాయ కేవలమ్",
+   "text_en": "īrṣyayā ca mahadduḥkhaṁ mohādraktasya tasya ca | netrasya kupitasyeva tyāgī duḥkhāya kevalam",
+   "mean_en": "One attached through delusion suffers great misery from envy; like an inflamed, angry eye, whatever he gives up or holds yields him nothing but sorrow.",
+   "mean_te": "మోహంతో అనురక్తుడైన వానికి అసూయ వల్ల గొప్ప దుఃఖం కలుగుతుంది; కోపంతో మండే కన్ను వంటి వానికి వదిలినా, పట్టుకున్నా దుఃఖమే మిగులుతుంది."
+  },
+  {
+   "n": 54,
+   "text_deva": "न रात्रौ विंदते निद्रां कामाग्निपरिवेदितः | दिवापि च कुतस्सौख्यमर्थोपार्जनचिंतया",
+   "text_te": "న రాత్రౌ విందతే నిద్రాం కామాగ్నిపరివేదితః | దివాపి చ కుతస్సౌఖ్యమర్థోపార్జనచింతయా",
+   "text_en": "na rātrau viṁdate nidrāṁ kāmāgnipariveditaḥ | divāpi ca kutassaukhyamarthopārjanaciṁtayā",
+   "mean_en": "Tormented by the fire of lust he gets no sleep at night, and by day, preoccupied with anxious thoughts of earning wealth, he cannot be happy either.",
+   "mean_te": "కామాగ్ని తాకిన బాధతో రాత్రి నిద్ర రాదు; పగలు ధనార్జన ఆలోచనలతో తికమక పడతాడు — అలాంటప్పుడు సుఖం ఎక్కడ?"
+  },
+  {
+   "n": 55,
+   "text_deva": "स्त्रीष्वध्यासितचित्तस्य ये पुंसः शुक्रबिन्दवः | ते सुखाय न मन्यन्ते स्वेदजा इव ते तथा",
+   "text_te": "స్త్రీష్వధ్యాసితచిత్తస్య యే పుంసః శుక్రబిన్దవః | తే సుఖాయ న మన్యన్తే స్వేదజా ఇవ తే తథా",
+   "text_en": "strīṣvadhyāsitacittasya ye puṁsaḥ śukrabindavaḥ | te sukhāya na manyante svedajā iva te tathā",
+   "mean_en": "For a man whose mind is wholly fixed on women, his drops of seed do not produce happiness; they are as worthless as drops of sweat.",
+   "mean_te": "స్త్రీలపై మనసు పూర్తిగా లగ్నమైన పురుషుని రేతోబిందువులు సుఖానికి దారి తీయవు; అవి చెమట బిందువుల వంటివే."
+  },
+  {
+   "n": 56,
+   "text_deva": "कृमिभिस्तुद्यमानस्य कुष्ठिनो वानरस्य च | कंडूयनाभितापेन यद्भवेत्स्त्रिषु तद्विदः",
+   "text_te": "కృమిభిస్తుద్యమానస్య కుష్ఠినో వానరస్య చ | కండూయనాభితాపేన యద్భవేత్స్త్రిషు తద్విదః",
+   "text_en": "kṛmibhistudyamānasya kuṣṭhino vānarasya ca | kaṁḍūyanābhitāpena yadbhavetstriṣu tadvidaḥ",
+   "mean_en": "The pleasure in women should be known to be like the itching relief, mixed with burning, that a leper feels while worms torment his flesh, or that a monkey feels in scratching.",
+   "mean_te": "క్రిములు కుట్టినప్పుడు కుష్ఠునికి, గోరు వేసుకున్నప్పుడు కోతికి కలిగే మంట కలగలసిన దురద ఉపశమనం ఎలా ఉంటుందో, స్త్రీలలోని సుఖం కూడా అంతేనని తెలుసుకోవాలి."
+  },
+  {
+   "n": 57,
+   "text_deva": "यादृशं मन्यते सौख्यं गंडे पूतिविनिर्गमात् | तादृशं स्त्रीषु मन्तव्यं नाधिकं तासु विद्यते",
+   "text_te": "యాదృశం మన్యతే సౌఖ్యం గండే పూతివినిర్గమాత్ | తాదృశం స్త్రీషు మన్తవ్యం నాధికం తాసు విద్యతే",
+   "text_en": "yādṛśaṁ manyate saukhyaṁ gaṁḍe pūtivinirgamāt | tādṛśaṁ strīṣu mantavyaṁ nādhikaṁ tāsu vidyate",
+   "mean_en": "Just as a man imagines happiness when pus flows out of an abscess, so is the pleasure in women to be regarded; there is nothing beyond that in them.",
+   "mean_te": "గడ్డ నుంచి చీము కారినప్పుడు మనిషి భావించే సుఖం ఎంతటిదో, స్త్రీలలో సుఖం కూడా అంతే; అంతకంటే ఎక్కువేమీ వాటిలో లేదు."
+  },
+  {
+   "n": 58,
+   "text_deva": "विण्मूत्रस्य समुत्सर्गात्सुखं भवति यादृशम् | तादृशं स्त्रीषु विज्ञेयं मूढैः कल्पितमन्यथा",
+   "text_te": "విణ్మూత్రస్య సముత్సర్గాత్సుఖం భవతి యాదృశమ్ | తాదృశం స్త్రీషు విజ్ఞేయం మూఢైః కల్పితమన్యథా",
+   "text_en": "viṇmūtrasya samutsargātsukhaṁ bhavati yādṛśam | tādṛśaṁ strīṣu vijñeyaṁ mūḍhaiḥ kalpitamanyathā",
+   "mean_en": "The pleasure in women is like the satisfaction felt in evacuating faeces and urine; it is only fools who imagine it to be otherwise.",
+   "mean_te": "స్త్రీలలో కల్పించుకునే సుఖం, మలమూత్ర విసర్జనలో కలిగే సుఖం వంటిదే; దాన్ని వేరేలా ఊహించేది మూర్ఖులే."
+  },
+  {
+   "n": 59,
+   "text_deva": "नारीष्ववस्तुभूतासु सर्वदोषाश्रयासु वा| नाणुमात्रं सुखं तासु कथितं पंचचूडया",
+   "text_te": "నారీష్వవస్తుభూతాసు సర్వదోషాశ్రయాసు వా| నాణుమాత్రం సుఖం తాసు కథితం పంచచూడయా",
+   "text_en": "nārīṣvavastubhūtāsu sarvadoṣāśrayāsu vā| nāṇumātraṁ sukhaṁ tāsu kathitaṁ paṁcacūḍayā",
+   "mean_en": "Of women, who are essentially insubstantial and the abode of every defect, the sage Pañcacūḍa declared that not even an atom of happiness exists in them.",
+   "mean_te": "నిజమైన వస్తువు కాక, సమస్త దోషాలకు ఆశ్రయంగా ఉండే స్త్రీలలో అణువంత సుఖం కూడా లేదని పంచచూడుడు అనే ముని ఉపదేశించాడు."
+  },
+  {
+   "n": 60,
+   "text_deva": "सम्माननावमानाभ्यां वियोगेनेष्टसंगमात् | यौवनं जरया ग्रस्तं क्व सौख्यमनुपद्रवम्",
+   "text_te": "సమ్మాననావమానాభ్యాం వియోగేనేష్టసంగమాత్ | యౌవనం జరయా గ్రస్తం క్వ సౌఖ్యమనుపద్రవమ్",
+   "text_en": "sammānanāvamānābhyāṁ viyogeneṣṭasaṁgamāt | yauvanaṁ jarayā grastaṁ kva saukhyamanupadravam",
+   "mean_en": "Amid honour and dishonour, separation and undesired union, and with youth devoured by old age, where is a happiness free of affliction?",
+   "mean_te": "గౌరవాపమానాలు, వియోగం, ఇష్టం లేని సంయోగం, వృద్ధాప్యం మింగేసిన యౌవనం — ఇలా ఉండగా బాధ లేని సుఖం ఎక్కడ?"
+  },
+  {
+   "n": 61,
+   "text_deva": "वलीपलितखालित्यैश्शिथिलिकृतविग्रहम् | सर्वक्रियास्वशक्तिं च जरया जर्जरीकृतम्",
+   "text_te": "వలీపలితఖాలిత్యైశ్శిథిలికృతవిగ్రహమ్ | సర్వక్రియాస్వశక్తిం చ జరయా జర్జరీకృతమ్",
+   "text_en": "valīpalitakhālityaiśśithilikṛtavigraham | sarvakriyāsvaśaktiṁ ca jarayā jarjarīkṛtam",
+   "mean_en": "Wrinkles, grey hair and drooling make the body limp and flaccid, and old age cripples all capacity for action.",
+   "mean_te": "సుడులు, తెల్లని జుట్టు, నోటి నుంచి ఊరే లాలాజలం — ఇవి శరీరాన్ని తడారిపోయేలా చేస్తాయి; అన్ని కార్యాలలోని శక్తిని వృద్ధాప్యం కుంగదీస్తుంది."
+  },
+  {
+   "n": 62,
+   "text_deva": "स्त्रीपुंसयौवनं हृद्यमन्योऽन्यस्य प्रियं पुरा | तदेव जरयाग्रस्तमनयोरपि न प्रियम्",
+   "text_te": "స్త్రీపుంసయౌవనం హృద్యమన్యోఽన్యస్య ప్రియం పురా | తదేవ జరయాగ్రస్తమనయోరపి న ప్రియమ్",
+   "text_en": "strīpuṁsayauvanaṁ hṛdyamanyo'nyasya priyaṁ purā | tadeva jarayāgrastamanayorapi na priyam",
+   "mean_en": "The youth of man and woman was once dear to each of them; but those very bodies, seized by old age, are pleasing to neither any more.",
+   "mean_te": "పూర్వం స్త్రీపురుషుల యౌవనం ఒకరికొకరు ప్రియంగా ఉండేది; కానీ అదే శరీరం వృద్ధాప్యం పట్టుకున్న తర్వాత ఇరువురికీ అందగం మాత్రం మాయమైపోతుంది."
+  },
+  {
+   "n": 63,
+   "text_deva": "अपूर्ववत्स्वमात्मानं जरया परिवर्तितम् | यः पश्यन्नपि रज्येत कोऽन्यस्तस्मादचेतनः",
+   "text_te": "అపూర్వవత్స్వమాత్మానం జరయా పరివర్తితమ్ | యః పశ్యన్నపి రజ్యేత కోఽన్యస్తస్మాదచేతనః",
+   "text_en": "apūrvavatsvamātmānaṁ jarayā parivartitam | yaḥ paśyannapi rajyeta ko'nyastasmādacetanaḥ",
+   "mean_en": "Who but a senseless person could still take delight in his own body when he sees it transformed by old age into something never seen before?",
+   "mean_te": "తన శరీరం వృద్ధాప్యంతో ఇంతకుముందు ఎన్నడూ చూడని రూపంలోకి మారిపోతుండగా దానిమీద మక్కువ పెంచుకునేవాడు బుద్ధిహీనుడు తప్ప మరెవరు?"
+  },
+  {
+   "n": 64,
+   "text_deva": "जराभिभूतः पुरुषः पुत्रीपुत्रादिबांधवैः | आसक्तत्वाद्दुराधर्षैर्भृत्यैश्च परिभूयते",
+   "text_te": "జరాభిభూతః పురుషః పుత్రీపుత్రాదిబాంధవైః | ఆసక్తత్వాద్దురాధర్షైర్భృత్యైశ్చ పరిభూయతే",
+   "text_en": "jarābhibhūtaḥ puruṣaḥ putrīputrādibāṁdhavaiḥ | āsaktatvāddurādharṣairbhṛtyaiśca paribhūyate",
+   "mean_en": "A man overwhelmed by old age, because of his own attachment, is disregarded by kinsmen such as sons and daughters-in-law, and is even humiliated by unruly servants.",
+   "mean_te": "వృద్ధాప్యం ఆక్రమించిన వ్యక్తి, తన మక్కువ కారణంగా కొడుకులు, కోడళ్లు మొదలైన బంధువుల చేత నిర్లక్ష్యం చేయబడతాడు; విధేయత లేని పనివాళ్ల చేత అవమానపడతాడు."
+  },
+  {
+   "n": 65,
+   "text_deva": "धर्ममर्थं च कामं वा मोक्षं वातिजरातुरः | अशक्तस्साधितुं तस्माद्युवा धर्मं समाचरेत्",
+   "text_te": "ధర్మమర్థం చ కామం వా మోక్షం వాతిజరాతురః | అశక్తస్సాధితుం తస్మాద్యువా ధర్మం సమాచరేత్",
+   "text_en": "dharmamarthaṁ ca kāmaṁ vā mokṣaṁ vātijarāturaḥ | aśaktassādhituṁ tasmādyuvā dharmaṁ samācaret",
+   "mean_en": "One stricken by old age has no strength to attain dharma, wealth, pleasure or liberation; therefore one should practise dharma while young.",
+   "mean_te": "వృద్ధాప్య వ్యాధితో తాత్రేయపడేవాడు ధర్మ, అర్థ, కామ, మోక్షాలను సాధించే శక్తి కలిగి ఉండడు; కాబట్టి యౌవనంలోనే ధర్మాన్ని ఆచరించాలి."
+  },
+  {
+   "n": 66,
+   "text_deva": "इति श्रीशिवमहापुराणे पञ्चम्यामुमासंहितायां संसारचिकित्सायां देहा शुचित्वबाल्याद्यवस्थादुःखवर्णनं नाम त्रयोविंशोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే పఞ్చమ్యాముమాసంహితాయాం సంసారచికిత్సాయాం దేహా శుచిత్వబాల్యాద్యవస్థాదుఃఖవర్ణనం నామ త్రయోవింశోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe pañcamyāmumāsaṁhitāyāṁ saṁsāracikitsāyāṁ dehā śucitvabālyādyavasthāduḥkhavarṇanaṁ nāma trayoviṁśo'dhyāyaḥ",
+   "mean_en": "Thus ends the twenty-third chapter, called 'A description of the impurity of the body and the miseries of childhood and the other stages of life', in the discourse on the treatment of worldly existence, in the fifth Uma Samhita of the Shiva Mahapurana.",
+   "mean_te": "ఈ విధంగా శ్రీశివమహాపురాణంలోని ఐదవ ఉమాసంహితలో, సంసారచికిత్సా ప్రకరణంలో, శరీరాశుచిత్వ, బాల్యాది అవస్థా దుఃఖవర్ణన అనే ఇరవై మూడవ అధ్యాయం సమాప్తమైంది."
+  }
+ ]
+}

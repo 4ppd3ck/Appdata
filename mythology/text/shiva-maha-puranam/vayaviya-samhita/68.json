@@ -1,0 +1,153 @@
+{
+ "kanda": "vayaviya-samhita",
+ "n": 68,
+ "title_deva": "आमुष्मिककर्मविधिवर्णनम्",
+ "title_te": "ఆముష్మికకర్మవిధివర్ణనమ్",
+ "title_iast": "āmuṣmikakarmavidhivarṇanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "उपमन्युरुवाच अतः परं प्रवक्ष्यामि केवलामुष्मिकं विधिम् | नैतेन सदृशं किंचित्कर्मास्ति भुवनत्रये",
+   "text_te": "ఉపమన్యురువాచ అతః పరం ప్రవక్ష్యామి కేవలాముష్మికం విధిమ్ | నైతేన సదృశం కించిత్కర్మాస్తి భువనత్రయే",
+   "text_en": "upamanyuruvāca ataḥ paraṁ pravakṣyāmi kevalāmuṣmikaṁ vidhim | naitena sadṛśaṁ kiṁcitkarmāsti bhuvanatraye",
+   "mean_en": "Upamanyu said: \"Henceforth I shall declare the rite that yields only the fruit of the next world; there is no rite in the three worlds to be compared with it.\"",
+   "mean_te": "ఉపమన్యువు అన్నాడు: \"ఇకపై పరలోక ఫలాన్ని మాత్రమే ఇచ్చే విధిని చెప్తాను; ముల్లోకాలలో ఈ కర్మకు సమానమైనది మరొకటి లేదు.\""
+  },
+  {
+   "n": 2,
+   "text_deva": "पुण्यातिशयसंयुक्तः सर्वैर्देवैरनुष्ठितः | ब्रह्मणा विष्णुना चैव रुद्रेण च विशेषतः",
+   "text_te": "పుణ్యాతిశయసంయుక్తః సర్వైర్దేవైరనుష్ఠితః | బ్రహ్మణా విష్ణునా చైవ రుద్రేణ చ విశేషతః",
+   "text_en": "puṇyātiśayasaṁyuktaḥ sarvairdevairanuṣṭhitaḥ | brahmaṇā viṣṇunā caiva rudreṇa ca viśeṣataḥ",
+   "mean_en": "\"This rite is joined with an abundance of merit and has been performed by all the gods — by Brahma, by Vishnu, and above all by Rudra.\"",
+   "mean_te": "\"ఇది విశేష పుణ్యంతో కూడినది; బ్రహ్మ, విష్ణువు, ముఖ్యంగా రుద్రుడుతో సహా దేవతలందరూ దీనిని ఆచరించారు.\""
+  },
+  {
+   "n": 3,
+   "text_deva": "इंद्रादिलोकपारैश्च सूर्याद्यैर्नवभिर्ग्रहैः | विश्वामित्रवसिष्ठाद्यैर्ब्रह्मविद्भिर्महर्षिभिः",
+   "text_te": "ఇంద్రాదిలోకపారైశ్చ సూర్యాద్యైర్నవభిర్గ్రహైః | విశ్వామిత్రవసిష్ఠాద్యైర్బ్రహ్మవిద్భిర్మహర్షిభిః",
+   "text_en": "iṁdrādilokapāraiśca sūryādyairnavabhirgrahaiḥ | viśvāmitravasiṣṭhādyairbrahmavidbhirmaharṣibhiḥ",
+   "mean_en": "\"…and by the guardians of the worlds beginning with Indra, by the nine planets beginning with the Sun, and by the brahma-knowing sages such as Vishvamitra and Vasishtha.\"",
+   "mean_te": "\"ఇంద్రుడు మొదలైన లోకపాలకులు, సూర్యుడు మొదలైన నవగ్రహాలు, విశ్వామిత్రుడు, వసిష్ఠుడు మొదలైన బ్రహ్మజ్ఞానులైన మహర్షులూ దీనిని ఆచరించారు.\""
+  },
+  {
+   "n": 4,
+   "text_deva": "श्वेतागस्त्यदधीचाद्यैरस्माभिश्च शिवाश्रितैः | नंदीश्वरमहाकालभृंगीशाद्यैर्गणेश्वरैः",
+   "text_te": "శ్వేతాగస్త్యదధీచాద్యైరస్మాభిశ్చ శివాశ్రితైః | నందీశ్వరమహాకాలభృంగీశాద్యైర్గణేశ్వరైః",
+   "text_en": "śvetāgastyadadhīcādyairasmābhiśca śivāśritaiḥ | naṁdīśvaramahākālabhṛṁgīśādyairgaṇeśvaraiḥ",
+   "mean_en": "\"…and by Shveta, Agastya, Dadhichi and others, by us who take refuge in Shiva, and by the ganas of Nandishvara, Mahakala and Bhringisha.\"",
+   "mean_te": "\"శ్వేతుడు, అగస్త్యుడు, దధీచి మొదలైనవారు, శివాశ్రితులమైన మేమూ, నందీశ్వరుడు, మహాకాలుడు, భృంగీశుడు మొదలైన గణేశ్వరులూ దీనిని ఆచరించారు.\""
+  },
+  {
+   "n": 5,
+   "text_deva": "पातालवासिभिर्दैत्यैः शेषाद्यैश्च महोरगैः | सिद्धैर्यक्षैश्च गंधर्वै रक्षोभूतपिशाचकैः",
+   "text_te": "పాతాలవాసిభిర్దైత్యైః శేషాద్యైశ్చ మహోరగైః | సిద్ధైర్యక్షైశ్చ గంధర్వై రక్షోభూతపిశాచకైః",
+   "text_en": "pātālavāsibhirdaityaiḥ śeṣādyaiśca mahoragaiḥ | siddhairyakṣaiśca gaṁdharvai rakṣobhūtapiśācakaiḥ",
+   "mean_en": "\"…and by the daityas dwelling in the nether world, by the great serpents beginning with Shesha, by siddhas, yakshas, gandharvas, rakshasas, bhutas and pishachas.\"",
+   "mean_te": "\"పాతాళంలో నివసించే దైత్యులు, శేషుడు మొదలైన మహాసర్పాలు, సిద్ధులు, యక్షులు, గంధర్వులు, రాక్షసులు, భూతపిశాచాలూ దీనిని ఆచరించారు.\""
+  },
+  {
+   "n": 6,
+   "text_deva": "स्वंस्वं पदमनुप्राप्तं सर्वैरयमनुष्ठितः | अनेन विधिना सर्वे देवा देवत्वमागताः",
+   "text_te": "స్వంస్వం పదమనుప్రాప్తం సర్వైరయమనుష్ఠితః | అనేన విధినా సర్వే దేవా దేవత్వమాగతాః",
+   "text_en": "svaṁsvaṁ padamanuprāptaṁ sarvairayamanuṣṭhitaḥ | anena vidhinā sarve devā devatvamāgatāḥ",
+   "mean_en": "\"Each of them, having reached his own station, performed it; it is by this rite that all the gods attained godhood.\"",
+   "mean_te": "\"వారందరూ తమతమ పదాలను పొంది దీనిని ఆచరించారు; ఈ విధి వల్లనే సమస్త దేవతలు దేవత్వాన్ని పొందారు.\""
+  },
+  {
+   "n": 7,
+   "text_deva": "ब्रह्मा ब्रह्मत्वमापन्नो विष्णुर्विष्णुत्वमागतः | रुद्रो रुद्रत्वमापन्न इंद्रश्चेन्द्रत्वमागतः",
+   "text_te": "బ్రహ్మా బ్రహ్మత్వమాపన్నో విష్ణుర్విష్ణుత్వమాగతః | రుద్రో రుద్రత్వమాపన్న ఇంద్రశ్చేన్ద్రత్వమాగతః",
+   "text_en": "brahmā brahmatvamāpanno viṣṇurviṣṇutvamāgataḥ | rudro rudratvamāpanna iṁdraścendratvamāgataḥ",
+   "mean_en": "\"Brahma attained the state of Brahma, Vishnu attained the state of Vishnu, Rudra attained the state of Rudra, and Indra attained the state of Indra.\"",
+   "mean_te": "\"బ్రహ్మ బ్రహ్మత్వాన్ని, విష్ణువు విష్ణుత్వాన్ని, రుద్రుడు రుద్రత్వాన్ని, ఇంద్రుడు ఇంద్రత్వాన్ని పొందారు.\""
+  },
+  {
+   "n": 8,
+   "text_deva": "गणेशश्च गणेशत्वमनेन विधिना गतः | सितचंदनतोयेन लिंगं स्नाप्य शिवं शिवाम् | श्वेतैर्विकसितैः पद्मैः संपूज्य प्रणिपत्य च",
+   "text_te": "గణేశశ్చ గణేశత్వమనేన విధినా గతః | సితచందనతోయేన లింగం స్నాప్య శివం శివామ్ | శ్వేతైర్వికసితైః పద్మైః సంపూజ్య ప్రణిపత్య చ",
+   "text_en": "gaṇeśaśca gaṇeśatvamanena vidhinā gataḥ | sitacaṁdanatoyena liṁgaṁ snāpya śivaṁ śivām | śvetairvikasitaiḥ padmaiḥ saṁpūjya praṇipatya ca",
+   "mean_en": "\"Ganesha too attained Ganesha-hood by this rite: bathing the linga with water of white sandal, worshipping Shiva and Shiva (Parvati) with white-blossomed lotuses, and bowing down.\"",
+   "mean_te": "\"గణేశుడు కూడా ఈ విధి వల్లనే గణేశత్వాన్ని పొందాడు — తెల్ల చందన జలంతో లింగానికి అభిషేకం చేసి, తెల్లగా విరిసిన పద్మాలతో శివుని, పార్వతీదేవిని పూజించి నమస్కరించాలి.\""
+  },
+  {
+   "n": 9,
+   "text_deva": "तत्र पद्मासनं रम्यं कृत्वा लक्षणसंयुतम् | विभवे सति हेमाद्यै रत्नाद्यैर्वा स्वशक्तितः",
+   "text_te": "తత్ర పద్మాసనం రమ్యం కృత్వా లక్షణసంయుతమ్ | విభవే సతి హేమాద్యై రత్నాద్యైర్వా స్వశక్తితః",
+   "text_en": "tatra padmāsanaṁ ramyaṁ kṛtvā lakṣaṇasaṁyutam | vibhave sati hemādyai ratnādyairvā svaśaktitaḥ",
+   "mean_en": "\"There one should make a lovely lotus seat furnished with its proper marks, using gold or jewels according to one's means.\"",
+   "mean_te": "\"అక్కడ లక్షణాలతో కూడిన మనోహరమైన పద్మాసనాన్ని చేసి, తన శక్తిని బట్టి బంగారం, రత్నాలు మొదలైనవాటితో అలంకరించాలి.\""
+  },
+  {
+   "n": 10,
+   "text_deva": "मध्ये केसरजालास्य स्थाप्य लिंगं कनीयसम् | अंगुष्ठप्रतिमं रम्यं सर्वगन्धमयं शुभम्",
+   "text_te": "మధ్యే కేసరజాలాస్య స్థాప్య లింగం కనీయసమ్ | అంగుష్ఠప్రతిమం రమ్యం సర్వగన్ధమయం శుభమ్",
+   "text_en": "madhye kesarajālāsya sthāpya liṁgaṁ kanīyasam | aṁguṣṭhapratimaṁ ramyaṁ sarvagandhamayaṁ śubham",
+   "mean_en": "\"In its centre one should set a small linga, thumb-sized, beautiful, made of all fragrances and auspicious.\"",
+   "mean_te": "\"దాని మధ్యలో బొటనవేలు ప్రమాణమున్న చిన్న లింగాన్ని — సర్వగంధమయమైన, శుభప్రదమైన సుందర లింగాన్ని — ప్రతిష్ఠించాలి.\""
+  },
+  {
+   "n": 11,
+   "text_deva": "दक्षिणे स्थापयित्वा तु बिल्वपत्रैः समर्चयेत् | अगुरुं दक्षिणे पार्श्वे पश्चिमे तु मनःशिलाम्",
+   "text_te": "దక్షిణే స్థాపయిత్వా తు బిల్వపత్రైః సమర్చయేత్ | అగురుం దక్షిణే పార్శ్వే పశ్చిమే తు మనఃశిలామ్",
+   "text_en": "dakṣiṇe sthāpayitvā tu bilvapatraiḥ samarcayet | aguruṁ dakṣiṇe pārśve paścime tu manaḥśilām",
+   "mean_en": "\"Having established it, one should worship it with bilva leaves; aguru is to be placed on its southern side and manahshila on the western.\"",
+   "mean_te": "\"అలా ప్రతిష్ఠించి బిల్వపత్రాలతో పూజించాలి; దక్షిణ భాగంలో అగరును, పడమటి భాగంలో మనఃశిలను ఉంచాలి.\""
+  },
+  {
+   "n": 12,
+   "text_deva": "उत्तरे चंदनं दद्याद्धरितालं तु पूर्वतः | सुगन्धैः कुसुमै रम्यैर्विचित्रैश्चापि पूजयेत्",
+   "text_te": "ఉత్తరే చందనం దద్యాద్ధరితాలం తు పూర్వతః | సుగన్ధైః కుసుమై రమ్యైర్విచిత్రైశ్చాపి పూజయేత్",
+   "text_en": "uttare caṁdanaṁ dadyāddharitālaṁ tu pūrvataḥ | sugandhaiḥ kusumai ramyairvicitraiścāpi pūjayet",
+   "mean_en": "\"Sandal is to be offered on the north and haritala on the east; one should worship with fragrant, lovely and many-coloured flowers.\"",
+   "mean_te": "\"ఉత్తరాన చందనాన్ని, తూర్పున హరితాలాన్ని ఉంచి, సుగంధభరితమైన సుందర విచిత్ర పుష్పాలతో పూజించాలి.\""
+  },
+  {
+   "n": 13,
+   "text_deva": "धूपं कृष्णागुरुं दद्यात्सर्वतश्च सगुग्गुलम् | वासांसि चातिसूक्ष्माणि विकाशानि निवेदयेत्",
+   "text_te": "ధూపం కృష్ణాగురుం దద్యాత్సర్వతశ్చ సగుగ్గులమ్ | వాసాంసి చాతిసూక్ష్మాణి వికాశాని నివేదయేత్",
+   "text_en": "dhūpaṁ kṛṣṇāguruṁ dadyātsarvataśca saguggulam | vāsāṁsi cātisūkṣmāṇi vikāśāni nivedayet",
+   "mean_en": "\"One should offer incense of black aguru mixed with guggulu on every side, and present garments that are exceedingly fine and shining.\"",
+   "mean_te": "\"కృష్ణాగురువుతో గుగ్గులం కలిపిన ధూపాన్ని అంతటా సమర్పించి, అత్యంత సూక్ష్మమైన ప్రకాశవంత వస్త్రాలను నివేదించాలి.\""
+  },
+  {
+   "n": 14,
+   "text_deva": "पायसं घृतसंमिश्रं घृतदीपांश्च दापयेत् | सर्वं निवेद्य मन्त्रेण ततो गच्छेत्प्रदक्षिणाम्",
+   "text_te": "పాయసం ఘృతసంమిశ్రం ఘృతదీపాంశ్చ దాపయేత్ | సర్వం నివేద్య మన్త్రేణ తతో గచ్ఛేత్ప్రదక్షిణామ్",
+   "text_en": "pāyasaṁ ghṛtasaṁmiśraṁ ghṛtadīpāṁśca dāpayet | sarvaṁ nivedya mantreṇa tato gacchetpradakṣiṇām",
+   "mean_en": "\"One should give rice-pudding mixed with ghee and lamps of ghee; having offered everything with the mantra, one should then go round in circumambulation.\"",
+   "mean_te": "\"ఘృతమిశ్రితమైన పాయసాన్ని, ఘృతదీపాలను సమర్పించాలి; మంత్రంతో సమస్తాన్ని నివేదించి, తరువాత ప్రదక్షిణ చేయాలి.\""
+  },
+  {
+   "n": 15,
+   "text_deva": "प्रणम्य भक्त्या देवेशं स्तुत्वा चान्ते क्षमापयेत् | सर्वोपहारसंमिश्रं ततो लिंगं निवेदयेत्",
+   "text_te": "ప్రణమ్య భక్త్యా దేవేశం స్తుత్వా చాన్తే క్షమాపయేత్ | సర్వోపహారసంమిశ్రం తతో లింగం నివేదయేత్",
+   "text_en": "praṇamya bhaktyā deveśaṁ stutvā cānte kṣamāpayet | sarvopahārasaṁmiśraṁ tato liṁgaṁ nivedayet",
+   "mean_en": "\"Bowing to the lord of gods with devotion and praising him, one should at the end beg his forgiveness; then the linga is to be offered together with all the offerings.\"",
+   "mean_te": "\"భక్తితో దేవేశునికి నమస్కరించి, స్తుతించి, చివరిలో క్షమాపణ కోరి, సమస్త ఉపహారాలతో కూడిన లింగాన్ని సమర్పించాలి.\""
+  },
+  {
+   "n": 16,
+   "text_deva": "शिवाय शिवमन्त्रेण दक्षिणामूर्तिमाश्रितः | एवं यो ऽर्चयते नित्यं पञ्चगन्धमयं शुभम्",
+   "text_te": "శివాయ శివమన్త్రేణ దక్షిణామూర్తిమాశ్రితః | ఏవం యో ఽర్చయతే నిత్యం పఞ్చగన్ధమయం శుభమ్",
+   "text_en": "śivāya śivamantreṇa dakṣiṇāmūrtimāśritaḥ | evaṁ yo 'rcayate nityaṁ pañcagandhamayaṁ śubham",
+   "mean_en": "\"Using the Shiva mantra, 'to Shiva', and resorting to Dakshinamurti — whoever thus worships this auspicious linga made of the five fragrances daily…\"",
+   "mean_te": "\"శివమంత్రంతో 'శివాయ' అని దక్షిణామూర్తిని ఆశ్రయించి, ఈ పంచగంధమయ శుభలింగాన్ని ఎవరు నిత్యం పూజిస్తారో…\""
+  },
+  {
+   "n": 17,
+   "text_deva": "सर्वपापविनिर्मुक्तः शिवलोके महीयते | एतद्व्रतोत्तमं गुह्यं शिवलिंगमहाव्रतम्",
+   "text_te": "సర్వపాపవినిర్ముక్తః శివలోకే మహీయతే | ఏతద్వ్రతోత్తమం గుహ్యం శివలింగమహావ్రతమ్",
+   "text_en": "sarvapāpavinirmuktaḥ śivaloke mahīyate | etadvratottamaṁ guhyaṁ śivaliṁgamahāvratam",
+   "mean_en": "\"…he is freed from all sins and is glorified in the world of Shiva. This is the best of vows, secret, the great vow of the Shivalinga.\"",
+   "mean_te": "\"…వారు సమస్త పాపాల నుండి విముక్తులై శివలోకంలో మహిమ పొందుతారు. ఇది వ్రతాలలో ఉత్తమమైనది, రహస్యమైనది, శివలింగ మహావ్రతం.\""
+  },
+  {
+   "n": 18,
+   "text_deva": "भक्तस्य ते समाख्यातं न देयं यस्य कस्यचित् | देयं च शिवभक्तेभ्यः शिवेन कथितं पुरा",
+   "text_te": "భక్తస్య తే సమాఖ్యాతం న దేయం యస్య కస్యచిత్ | దేయం చ శివభక్తేభ్యః శివేన కథితం పురా",
+   "text_en": "bhaktasya te samākhyātaṁ na deyaṁ yasya kasyacit | deyaṁ ca śivabhaktebhyaḥ śivena kathitaṁ purā",
+   "mean_en": "\"This has been declared to you who are a devotee; it is not to be given to just anyone — it is to be given to devotees of Shiva, as Shiva himself declared of old.\"",
+   "mean_te": "\"భక్తుడవైన నీకు ఇది చెప్పబడింది; ఇది ఎవరికి పడితే వారికి ఇవ్వకూడదు; శివభక్తులకే ఇవ్వాలి — పూర్వం శివుడే ఇలా చెప్పాడు.\""
+  }
+ ]
+}

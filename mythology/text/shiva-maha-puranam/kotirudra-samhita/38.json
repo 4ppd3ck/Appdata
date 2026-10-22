@@ -1,0 +1,721 @@
+{
+ "kanda": "kotirudra-samhita",
+ "n": 38,
+ "title_deva": "धन्योऽसि कृतकृत्योऽसि जीवितं सफलं तव",
+ "title_te": "ధన్యోఽసి కృతకృత్యోఽసి జీవితం సఫలం తవ",
+ "title_iast": "dhanyo'si kṛtakṛtyo'si jīvitaṁ saphalaṁ tava",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ऋषय ऊचुः धन्योऽसि कृतकृत्योऽसि जीवितं सफलं तव | यच्छ्रावयसि नस्तात महेश्वरकथां शुभाम्",
+   "text_te": "ఋషయ ఊచుః ధన్యోఽసి కృతకృత్యోఽసి జీవితం సఫలం తవ | యచ్ఛ్రావయసి నస్తాత మహేశ్వరకథాం శుభామ్",
+   "text_en": "ṛṣaya ūcuḥ dhanyo'si kṛtakṛtyo'si jīvitaṁ saphalaṁ tava | yacchrāvayasi nastāta maheśvarakathāṁ śubhām",
+   "mean_en": "The sages said: 'You are blessed, your duties are fulfilled and your life has become fruitful, because you are narrating to us the auspicious story of Maheshvara (Shiva).'",
+   "mean_te": "మునులు అన్నారు: 'మహేశ్వరుని (శివుని) శుభమైన కథను మాకు వినిపిస్తున్నావు కాబట్టి నీవు ధన్యుడివి, కృతకృత్యుడివి, నీ జీవితం సార్థకమైంది.'"
+  },
+  {
+   "n": 2,
+   "text_deva": "बहुभिश्चर्षिभि स्सूत श्रुतं यद्यपि वस्तु सत् | सन्देहो न मतोऽस्माकं तदेतत्कथयामि ते",
+   "text_te": "బహుభిశ్చర్షిభి స్సూత శ్రుతం యద్యపి వస్తు సత్ | సన్దేహో న మతోఽస్మాకం తదేతత్కథయామి తే",
+   "text_en": "bahubhiścarṣibhi ssūta śrutaṁ yadyapi vastu sat | sandeho na mato'smākaṁ tadetatkathayāmi te",
+   "mean_en": "'O Suta, though we have heard this substance from many sages and it is true, we have no doubt about it; even so we speak this (question) to you.'",
+   "mean_te": "'సూతుడు, ఈ విషయాన్ని అనేక మహర్షుల నుండి విన్నాము, అది సత్యమే; మాకు సందేహం లేదు, అయినా దీనిని నీతో చెబుతున్నాము (అడుగుతున్నాము).'"
+  },
+  {
+   "n": 3,
+   "text_deva": "केन व्रतेन सन्तुष्टः शिवो यच्छति सत्सुखम् | कुशलश्शिवकृत्ये त्वं तस्मात्पृच्छामहे वयम्",
+   "text_te": "కేన వ్రతేన సన్తుష్టః శివో యచ్ఛతి సత్సుఖమ్ | కుశలశ్శివకృత్యే త్వం తస్మాత్పృచ్ఛామహే వయమ్",
+   "text_en": "kena vratena santuṣṭaḥ śivo yacchati satsukham | kuśalaśśivakṛtye tvaṁ tasmātpṛcchāmahe vayam",
+   "mean_en": "'By which vow is Shiva pleased and does He bestow true happiness? You are skilled in the works of Shiva, therefore we ask you.'",
+   "mean_te": "'శివుడు ఏ వ్రతంతో సంతృప్తుడై మంచి సుఖాన్ని ప్రసాదిస్తాడు? శివుని కార్యాలలో నీవు కుశలుడివి కాబట్టి మేము నిన్ను అడుగుతున్నాము.'"
+  },
+  {
+   "n": 4,
+   "text_deva": "भुक्तिर्मुक्तिश्च लभ्येत भक्तैर्येन व्रतेन वै | तद्वद त्वं विशेषेण व्यासशिष्य नमोऽस्तु ते",
+   "text_te": "భుక్తిర్ముక్తిశ్చ లభ్యేత భక్తైర్యేన వ్రతేన వై | తద్వద త్వం విశేషేణ వ్యాసశిష్య నమోఽస్తు తే",
+   "text_en": "bhuktirmuktiśca labhyeta bhaktairyena vratena vai | tadvada tvaṁ viśeṣeṇa vyāsaśiṣya namo'stu te",
+   "mean_en": "'By which vow, through devotion, are enjoyment (bhukti) and liberation (mukti) obtained? Tell us that specifically, O disciple of Vyasa; our salutations to you.'",
+   "mean_te": "'భక్తితో ఏ వ్రతం వల్ల భుక్తి (ఐహిక సుఖాలు) మరియు ముక్తి లభిస్తాయి? వ్యాసుని శిష్యుడా, దానిని విశేషంగా చెప్పు; నీకు నమస్కారం.'"
+  },
+  {
+   "n": 5,
+   "text_deva": "सम्यक्पृष्टमृषिश्रेष्ठा भवद्भिः करुणात्मभिः | स्मृत्वा शिवपदांभोजं कथयामि यथाश्रुतम्",
+   "text_te": "సమ్యక్పృష్టమృషిశ్రేష్ఠా భవద్భిః కరుణాత్మభిః | స్మృత్వా శివపదాంభోజం కథయామి యథాశ్రుతమ్",
+   "text_en": "samyakpṛṣṭamṛṣiśreṣṭhā bhavadbhiḥ karuṇātmabhiḥ | smṛtvā śivapadāṁbhojaṁ kathayāmi yathāśrutam",
+   "mean_en": "Suta replied: 'O best of sages, you have asked well, being of compassionate nature; remembering the lotus feet of Shiva, I shall narrate it exactly as I have heard it.'",
+   "mean_te": "సూతుడు పలికాడు: 'కరుణామయులైన మీరు, మహర్షులలో శ్రేష్ఠులారా, సమ్యక్కుగా అడిగారు; శివుని పాదపద్మాలను స్మరించి, నేను విన్నట్లే చెబుతాను.'"
+  },
+  {
+   "n": 6,
+   "text_deva": "यथा भवद्भिः पृच्छेत तथा पृष्टं हि वेधसा | हरिणा शिवया चैव तथा वै शंकरं प्रति",
+   "text_te": "యథా భవద్భిః పృచ్ఛేత తథా పృష్టం హి వేధసా | హరిణా శివయా చైవ తథా వై శంకరం ప్రతి",
+   "text_en": "yathā bhavadbhiḥ pṛccheta tathā pṛṣṭaṁ hi vedhasā | hariṇā śivayā caiva tathā vai śaṁkaraṁ prati",
+   "mean_en": "'Just as you have asked, this very question was once asked by Brahma (Vedhasa) to Hari (Vishnu), and by Hari to Shankara (Shiva).' ",
+   "mean_te": "'మీరు అడిగినట్లే ఈ ప్రశ్న పూర్వం వేదహసుడు (బ్రహ్మ) విష్ణువును అడిగాడు, ఆ విష్ణువు శంకరుని (శివుని) అడిగాడు.'"
+  },
+  {
+   "n": 7,
+   "text_deva": "कस्मिंश्चित्समये तैस्तु पृष्टं च परमात्मने | केन व्रतेन सन्तुष्टो भुक्तिं मुक्तिं च यच्छसि",
+   "text_te": "కస్మింశ్చిత్సమయే తైస్తు పృష్టం చ పరమాత్మనే | కేన వ్రతేన సన్తుష్టో భుక్తిం ముక్తిం చ యచ్ఛసి",
+   "text_en": "kasmiṁścitsamaye taistu pṛṣṭaṁ ca paramātmane | kena vratena santuṣṭo bhuktiṁ muktiṁ ca yacchasi",
+   "mean_en": "'On a certain occasion they asked the Supreme Lord: \"By which vow, when pleased, do You grant enjoyment and liberation?\"'",
+   "mean_te": "'ఒక సమయాన వారు పరమాత్ముని (శివుని) అడిగారు: నీవు ఏ వ్రతంతో సంతృప్తుడవై భుక్తి-ముక్తులను ప్రసాదిస్తావు?'"
+  },
+  {
+   "n": 8,
+   "text_deva": "इति पृष्टस्तदा तैस्तु हरिणा तेन वै तदा | तदहं कथयाम्यद्य शृण्वतां पापहारकम्",
+   "text_te": "ఇతి పృష్టస్తదా తైస్తు హరిణా తేన వై తదా | తదహం కథయామ్యద్య శృణ్వతాం పాపహారకమ్",
+   "text_en": "iti pṛṣṭastadā taistu hariṇā tena vai tadā | tadahaṁ kathayāmyadya śṛṇvatāṁ pāpahārakam",
+   "mean_en": "'When He was thus asked by them at that time, I shall now narrate that reply of His, which destroys the sins of those who listen to it.'",
+   "mean_te": "'అలా వారు అడగగా, ఆనాడు శివుడు చెప్పిన సమాధానాన్ని — వినేవారి పాపాలను హరించేది — నేను ఇప్పుడు చెబుతాను.'"
+  },
+  {
+   "n": 9,
+   "text_deva": "भूरि व्रतानि मे सन्ति भुक्तिमुक्तिप्रदानि च | मुख्यानि तत्र ज्ञेयानि दशसंख्यानि तानि वै",
+   "text_te": "భూరి వ్రతాని మే సన్తి భుక్తిముక్తిప్రదాని చ | ముఖ్యాని తత్ర జ్ఞేయాని దశసంఖ్యాని తాని వై",
+   "text_en": "bhūri vratāni me santi bhuktimuktipradāni ca | mukhyāni tatra jñeyāni daśasaṁkhyāni tāni vai",
+   "mean_en": "Shiva said: 'I have many vows that grant enjoyment and liberation; among them, know these ten to be the principal ones.'",
+   "mean_te": "శివుడు పలికాడు: 'నాకు భుక్తి-ముక్తులను ప్రసాదించే అనేక వ్రతాలు ఉన్నాయి; వాటిలో పది ప్రధానమైనవిగా తెలుసుకోవాలి.'"
+  },
+  {
+   "n": 10,
+   "text_deva": "दश शैवव्रतान्याहुर्जाबालश्रुतिपारगाः | तानि व्रतानि यत्नेन कार्याण्येव द्विजैस्सदा",
+   "text_te": "దశ శైవవ్రతాన్యాహుర్జాబాలశ్రుతిపారగాః | తాని వ్రతాని యత్నేన కార్యాణ్యేవ ద్విజైస్సదా",
+   "text_en": "daśa śaivavratānyāhurjābālaśrutipāragāḥ | tāni vratāni yatnena kāryāṇyeva dvijaissadā",
+   "mean_en": "'These ten Shaiva vows, taught in the Jabala Shruti (Upanishad), must always be diligently performed by the twice-born.'",
+   "mean_te": "'జాబాల శ్రుతిలో నిర్ణయించబడిన ఆ పది శైవ వ్రతాలను ద్విజులు (బ్రాహ్మణులు) ఎప్పుడూ యత్నపూర్వకంగా ఆచరించాలి.'"
+  },
+  {
+   "n": 11,
+   "text_deva": "प्रत्यष्टम्यां प्रयत्नेन कर्तव्यं नक्तभोजनम् | कालाष्टम्यां विशेषेण हरे त्याज्यं हि भोजनम्",
+   "text_te": "ప్రత్యష్టమ్యాం ప్రయత్నేన కర్తవ్యం నక్తభోజనమ్ | కాలాష్టమ్యాం విశేషేణ హరే త్యాజ్యం హి భోజనమ్",
+   "text_en": "pratyaṣṭamyāṁ prayatnena kartavyaṁ naktabhojanam | kālāṣṭamyāṁ viśeṣeṇa hare tyājyaṁ hi bhojanam",
+   "mean_en": "'On every eighth lunar day (ashtami), the night meal must be observed with care; and especially on Kala-ashtami, food is to be given up entirely.'",
+   "mean_te": "'ప్రతి అష్టమి నాడు యత్నంతో రాత్రి భోజనం చేయాలి; కాలాష్టమి నాడు మాత్రం విశేషంగా భోజనాన్ని విడిచిపెట్టాలి (ఉపవాసం ఉండాలి).'"
+  },
+  {
+   "n": 12,
+   "text_deva": "एकादश्यां सितायां तु त्याज्यं विष्णो हि भोजनम् | असितायां तु भोक्तव्यं नक्तमभ्यर्च्य मां हरे",
+   "text_te": "ఏకాదశ్యాం సితాయాం తు త్యాజ్యం విష్ణో హి భోజనమ్ | అసితాయాం తు భోక్తవ్యం నక్తమభ్యర్చ్య మాం హరే",
+   "text_en": "ekādaśyāṁ sitāyāṁ tu tyājyaṁ viṣṇo hi bhojanam | asitāyāṁ tu bhoktavyaṁ naktamabhyarcya māṁ hare",
+   "mean_en": "'On the bright (shukla) ekadashi, food is to be given up as an observance for Vishnu; on the dark (krishna) ekadashi, O Hari, one should eat at night after worshipping me (Shiva).'",
+   "mean_te": "'శుక్ల ఏకాదశి నాడు విష్ణువు కోసం భోజనాన్ని త్యజించాలి (ఉపవాసం); కృష్ణ ఏకాదశి నాడు, దేవా, నన్ను (శివుని) పూజించి రాత్రి భోజనం చేయాలి.'"
+  },
+  {
+   "n": 13,
+   "text_deva": "त्रयोदश्यां सितायां तु कर्तव्यं निशि भोजनम् | असितायां तु भूतायां तत्र कार्यं शिवव्रतैः",
+   "text_te": "త్రయోదశ్యాం సితాయాం తు కర్తవ్యం నిశి భోజనమ్ | అసితాయాం తు భూతాయాం తత్ర కార్యం శివవ్రతైః",
+   "text_en": "trayodaśyāṁ sitāyāṁ tu kartavyaṁ niśi bhojanam | asitāyāṁ tu bhūtāyāṁ tatra kāryaṁ śivavrataiḥ",
+   "mean_en": "'On the bright trayodashi, a night meal is prescribed; on the dark trayodashi, that observance is to be performed by the devotees of Shiva.'",
+   "mean_te": "'శుక్ల త్రయోదశి నాడు రాత్రి భోజనం చేయాలి; కృష్ణ త్రయోదశి నాడు శివభక్తులు శైవ వ్రతాన్ని ఆచరించాలి.'"
+  },
+  {
+   "n": 14,
+   "text_deva": "निशि यत्नेन कर्तव्यं भोजनं सोमवासरे | उभयोः पक्षयोर्विष्णो सर्वस्मिञ्छिव तत्परैः",
+   "text_te": "నిశి యత్నేన కర్తవ్యం భోజనం సోమవాసరే | ఉభయోః పక్షయోర్విష్ణో సర్వస్మిఞ్ఛివ తత్పరైః",
+   "text_en": "niśi yatnena kartavyaṁ bhojanaṁ somavāsare | ubhayoḥ pakṣayorviṣṇo sarvasmiñchiva tatparaiḥ",
+   "mean_en": "'On Mondays the night meal must be carefully taken in both fortnights; (the ekadashi) in both fortnights belongs to Vishnu, while all the rest belong to Shiva and are observed by His devotees.'",
+   "mean_te": "'సోమవారపు రాత్రి భోజనం రెండు పక్షాలలోనూ యత్నంతో చేయాలి; రెండు పక్షాలలోనూ ఏకాదశి విష్ణువుది, మిగతా అన్ని నాళ్ళు శివునివి — ఆయన భక్తులు ఆచరించాలి.'"
+  },
+  {
+   "n": 15,
+   "text_deva": "व्रतेष्वेतेषु सर्वेषु शैवा भोज्याः प्रयत्नतः | यथाशक्ति द्विजश्रेष्ठा व्रतसंपूर्तिहेतवे",
+   "text_te": "వ్రతేష్వేతేషు సర్వేషు శైవా భోజ్యాః ప్రయత్నతః | యథాశక్తి ద్విజశ్రేష్ఠా వ్రతసంపూర్తిహేతవే",
+   "text_en": "vrateṣveteṣu sarveṣu śaivā bhojyāḥ prayatnataḥ | yathāśakti dvijaśreṣṭhā vratasaṁpūrtihetave",
+   "mean_en": "'In all these vows, the Shaiva observances (meals) are to be performed diligently according to one's capacity, O best of the twice-born, for the completion of the vow.'",
+   "mean_te": "'ఈ అన్ని వ్రతాలలో శైవ (భోజన) నియమాలను వ్రత సంపూర్తి కోసం, ద్విజశ్రేష్ఠులారా, తమ శక్తికి తగినట్లు యత్నపూర్వకంగా ఆచరించాలి.'"
+  },
+  {
+   "n": 16,
+   "text_deva": "व्रतान्येतानि नियमात्कर्तव्यानि द्विजन्मभिः | व्रतान्येतानि तु त्यक्त्वा जायन्ते तस्करा द्विजाः",
+   "text_te": "వ్రతాన్యేతాని నియమాత్కర్తవ్యాని ద్విజన్మభిః | వ్రతాన్యేతాని తు త్యక్త్వా జాయన్తే తస్కరా ద్విజాః",
+   "text_en": "vratānyetāni niyamātkartavyāni dvijanmabhiḥ | vratānyetāni tu tyaktvā jāyante taskarā dvijāḥ",
+   "mean_en": "'These vows must be performed by the twice-born as a sacred rule; those twice-born who abandon these vows become thieves (deprived of merit).'",
+   "mean_te": "'ఈ వ్రతాలను ద్విజులు నియమంగా ఆచరించాలి; ఈ వ్రతాలను విడిచిపెట్టిన ద్విజులు దొంగలవుతారు (పుణ్యహీనులవుతారు).'"
+  },
+  {
+   "n": 17,
+   "text_deva": "मुक्तिमार्गप्रवीणैश्च कर्तव्यं नियमादिति | मुक्तेस्तु प्रापकं चैव चतुष्टयमुदाहृतम्",
+   "text_te": "ముక్తిమార్గప్రవీణైశ్చ కర్తవ్యం నియమాదితి | ముక్తేస్తు ప్రాపకం చైవ చతుష్టయముదాహృతమ్",
+   "text_en": "muktimārgapravīṇaiśca kartavyaṁ niyamāditi | muktestu prāpakaṁ caiva catuṣṭayamudāhṛtam",
+   "mean_en": "'They must be performed, as a rule, by those who are proficient in the path of liberation; thus the fourfold set (of observances) that grants liberation has been declared.'",
+   "mean_te": "'ముక్తిమార్గంలో నైపుణ్యం కలవారు ఈ వ్రతాలను నియమంగా ఆచరించాలి; ముక్తిని ప్రసాదించే ఆ నాలుగు (వ్రతాల) సమూహం ఈ విధంగా వర్ణించబడింది.'"
+  },
+  {
+   "n": 18,
+   "text_deva": "शिवार्चनं रुद्रजपं उपवासश्शिवालये | वाराणस्यां च मरणं मुक्तिरेषा सनातनी",
+   "text_te": "శివార్చనం రుద్రజపం ఉపవాసశ్శివాలయే | వారాణస్యాం చ మరణం ముక్తిరేషా సనాతనీ",
+   "text_en": "śivārcanaṁ rudrajapaṁ upavāsaśśivālaye | vārāṇasyāṁ ca maraṇaṁ muktireṣā sanātanī",
+   "mean_en": "Worshiping Shiva, japa of Rudra, fasting in a Shiva temple, and death in Varanasi — this is the eternal liberation.",
+   "mean_te": "శివుడిని పూజించడం, రుద్రజపం చేయడం, శివాలయంలో ఉపవాసం ఉండడం, వారణాసిలో మరణించడం — ఇదే శాశ్వతమైన మోక్షం."
+  },
+  {
+   "n": 19,
+   "text_deva": "अष्टमी सोमवारे च कृष्णपक्षे चतुर्दशी | शिवतुष्टिकरं चैतन्नात्र कार्या विचारणा",
+   "text_te": "అష్టమీ సోమవారే చ కృష్ణపక్షే చతుర్దశీ | శివతుష్టికరం చైతన్నాత్ర కార్యా విచారణా",
+   "text_en": "aṣṭamī somavāre ca kṛṣṇapakṣe caturdaśī | śivatuṣṭikaraṁ caitannātra kāryā vicāraṇā",
+   "mean_en": "The ashtami that falls on a Monday and the chaturdashi of the dark fortnight especially please Shiva; there is no need for any further deliberation on this.",
+   "mean_te": "సోమవారం నాటి అష్టమి, కృష్ణపక్ష చతుర్దశి — ఇవి శివుడిని సంతోషపెట్టేవి; ఇందులో ఇంక విచారణ అవసరం లేదు."
+  },
+  {
+   "n": 20,
+   "text_deva": "चतुर्ष्वपि बलिष्ठं हि शिवरात्रिव्रतं हरे | तस्मात्तदेव कर्तव्यं भुक्तिमुक्तिफलेप्सुभिः",
+   "text_te": "చతుర్ష్వపి బలిష్ఠం హి శివరాత్రివ్రతం హరే | తస్మాత్తదేవ కర్తవ్యం భుక్తిముక్తిఫలేప్సుభిః",
+   "text_en": "caturṣvapi baliṣṭhaṁ hi śivarātrivrataṁ hare | tasmāttadeva kartavyaṁ bhuktimuktiphalepsubhiḥ",
+   "mean_en": "O Hari, among all these four the Shivaratri vow is the mightiest; therefore those desiring worldly enjoyment and liberation should perform it.",
+   "mean_te": "ఓ హరే, ఆ నాలుగింటిలో శివరాత్రి వ్రతమే అత్యుత్తమం; కాబట్టి భుక్తి-ముక్తులు కోరుకునేవారు దాన్ని ఆచరించాలి."
+  },
+  {
+   "n": 21,
+   "text_deva": "एतस्माच्च मतादन्यन्नास्ति नृणां हितावहम् | एतद्व्रतन्तु सर्वेषां धर्मसाधनमुत्तमम्",
+   "text_te": "ఏతస్మాచ్చ మతాదన్యన్నాస్తి నృణాం హితావహమ్ | ఏతద్వ్రతన్తు సర్వేషాం ధర్మసాధనముత్తమమ్",
+   "text_en": "etasmācca matādanyannāsti nṛṇāṁ hitāvaham | etadvratantu sarveṣāṁ dharmasādhanamuttamam",
+   "mean_en": "Apart from this teaching there is no other means so beneficial for people; this vow is the highest dharmic practice for all.",
+   "mean_te": "ఈ ఉపదేశం తప్ప మనుషులకు మేలు చేసే వేరే దారి లేదు; అందరికీ ఈ వ్రతమే ధర్మసాధనల్లో శ్రేష్ఠమైనది."
+  },
+  {
+   "n": 22,
+   "text_deva": "निष्कामानां सकामानां सर्वेषां च नृणान्तथा | वर्णानामाश्रमाणां च स्त्रीबालानां तथा हरे",
+   "text_te": "నిష్కామానాం సకామానాం సర్వేషాం చ నృణాన్తథా | వర్ణానామాశ్రమాణాం చ స్త్రీబాలానాం తథా హరే",
+   "text_en": "niṣkāmānāṁ sakāmānāṁ sarveṣāṁ ca nṛṇāntathā | varṇānāmāśramāṇāṁ ca strībālānāṁ tathā hare",
+   "mean_en": "O Hari, this vow benefits the desireless and the desirous alike, all human beings of every varna and ashrama, as well as women and children.",
+   "mean_te": "ఓ హరే, కోరికలు లేనివారికీ, కోరికలున్నవారికీ, అన్ని వర్ణాలు, ఆశ్రమాలవారికీ, స్త్రీలకు, పిల్లలకు కూడా ఈ వ్రతం ఉపయోగపడుతుంది."
+  },
+  {
+   "n": 23,
+   "text_deva": "दासानां दासिकानां च देवादीनां तथैव च | शरीरिणां च सर्वेषां हितमेतद्व्रतं वरम्",
+   "text_te": "దాసానాం దాసికానాం చ దేవాదీనాం తథైవ చ | శరీరిణాం చ సర్వేషాం హితమేతద్వ్రతం వరమ్",
+   "text_en": "dāsānāṁ dāsikānāṁ ca devādīnāṁ tathaiva ca | śarīriṇāṁ ca sarveṣāṁ hitametadvrataṁ varam",
+   "mean_en": "Including male and female servants, the devas and others, and all embodied beings — this excellent vow is beneficial to all.",
+   "mean_te": "దాసులకు, దాసీలకు, దేవతలకు, సకల దేహధారులకు — ఈ శ్రేష్ఠమైన వ్రతం అందరికీ మేలు చేస్తుంది."
+  },
+  {
+   "n": 24,
+   "text_deva": "माघस्य ह्यसिते पक्षे विशिष्टा सातिकीर्तिता | निशीथव्यापिनी ग्राह्या हत्याकोटिविनाशिनी",
+   "text_te": "మాఘస్య హ్యసితే పక్షే విశిష్టా సాతికీర్తితా | నిశీథవ్యాపినీ గ్రాహ్యా హత్యాకోటివినాశినీ",
+   "text_en": "māghasya hyasite pakṣe viśiṣṭā sātikīrtitā | niśīthavyāpinī grāhyā hatyākoṭivināśinī",
+   "mean_en": "The chaturdashi in the dark fortnight of Magha is celebrated as supremely distinguished; one should observe the night that extends through the nishitha period, for it destroys crores of sins even like killing.",
+   "mean_te": "మాఘ మాసం కృష్ణపక్ష చతుర్దశి అత్యంత విశిష్టమైనదిగా ప్రసిద్ధి; నిశీథ కాలం వ్యాపించే రాత్రిని ఆచరించాలి — అది కోట్ల హత్యాది పాపాలను నాశనం చేస్తుంది."
+  },
+  {
+   "n": 25,
+   "text_deva": "तद्दिने चैव यत्कार्यं प्रातरारभ्य केशव | श्रूयतान्तन्मनो दत्त्वा सुप्रीत्या कथयामि ते",
+   "text_te": "తద్దినే చైవ యత్కార్యం ప్రాతరారభ్య కేశవ | శ్రూయతాన్తన్మనో దత్త్వా సుప్రీత్యా కథయామి తే",
+   "text_en": "taddine caiva yatkāryaṁ prātarārabhya keśava | śrūyatāntanmano dattvā suprītyā kathayāmi te",
+   "mean_en": "O Keshava, listen attentively as I gladly tell you what is to be done on that day beginning from morning.",
+   "mean_te": "ఓ కేశవా, ఆ రోజు ఉదయం నుండి చేయవలసిన కార్యాలు ఏమిటో — మనసు ఇచ్చి విను; నీకు సంతోషంగా చెప్తాను."
+  },
+  {
+   "n": 26,
+   "text_deva": "प्रातरुत्थाय मेधावी परमानन्दसंयुतः | समाचरेन्नित्यकृत्यं स्नानादिकमतन्द्रितः",
+   "text_te": "ప్రాతరుత్థాయ మేధావీ పరమానన్దసంయుతః | సమాచరేన్నిత్యకృత్యం స్నానాదికమతన్ద్రితః",
+   "text_en": "prātarutthāya medhāvī paramānandasaṁyutaḥ | samācarennityakṛtyaṁ snānādikamatandritaḥ",
+   "mean_en": "Rising early, the wise person, filled with supreme bliss, should diligently perform the daily duties such as bathing, without laziness.",
+   "mean_te": "తెల్లవారుజామున లేచిన మేధావి పరమానందంతో నిండి, ఆలస్యం లేకుండా స్నానాదులు వంటి నిత్యకృత్యాలు ఆచరించాలి."
+  },
+  {
+   "n": 27,
+   "text_deva": "शिवालये ततो गत्वा पूजयित्वा यथाविधि | नमस्कृत्य शिवं पश्चात्संकल्पं सम्यगाचरेत्",
+   "text_te": "శివాలయే తతో గత్వా పూజయిత్వా యథావిధి | నమస్కృత్య శివం పశ్చాత్సంకల్పం సమ్యగాచరేత్",
+   "text_en": "śivālaye tato gatvā pūjayitvā yathāvidhi | namaskṛtya śivaṁ paścātsaṁkalpaṁ samyagācaret",
+   "mean_en": "Then going to a Shiva temple, worshiping according to rule, and bowing to Shiva, one should afterwards properly take the sankalpa.",
+   "mean_te": "తరువాత శివాలయానికి వెళ్ళి, విధిప్రకారం పూజించి, శివుడికి నమస్కరించి, పిదప సంకల్పం బాగా చేయాలి."
+  },
+  {
+   "n": 28,
+   "text_deva": "देवदेव महादेव नीलकण्ठ नमोऽस्तु ते | कर्तुमिच्छाम्यहं देव शिवरात्रिव्रतं तव",
+   "text_te": "దేవదేవ మహాదేవ నీలకణ్ఠ నమోఽస్తు తే | కర్తుమిచ్ఛామ్యహం దేవ శివరాత్రివ్రతం తవ",
+   "text_en": "devadeva mahādeva nīlakaṇṭha namo'stu te | kartumicchāmyahaṁ deva śivarātrivrataṁ tava",
+   "mean_en": "'O god of gods, Mahadeva, Nilakantha, obeisance to you! O lord, I wish to perform your Shivaratri vow.'",
+   "mean_te": "\"దేవతల దేవా, మహాదేవా, నీలకంఠా, నీకు నమస్కారం! దేవా, నీ శివరాత్రి వ్రతాన్ని ఆచరించాలని అనుకుంటున్నాను.\""
+  },
+  {
+   "n": 29,
+   "text_deva": "तव प्रभावाद्देवेश निर्विघ्नेन भवेदिति | कामाद्याः शत्रवो मां वै पीडां कुर्वन्तु नैव हि",
+   "text_te": "తవ ప్రభావాద్దేవేశ నిర్విఘ్నేన భవేదితి | కామాద్యాః శత్రవో మాం వై పీడాం కుర్వన్తు నైవ హి",
+   "text_en": "tava prabhāvāddeveśa nirvighnena bhavediti | kāmādyāḥ śatravo māṁ vai pīḍāṁ kurvantu naiva hi",
+   "mean_en": "'By your power, O lord of the devas, may it proceed without obstacles, and may enemies like Kama never torment me' — thus the devotee resolves.",
+   "mean_te": "\"దేవేశా, నీ ప్రభావంతో ఇది విఘ్నం లేకుండా జరగాలి; కామాది శత్రువులు నన్నెప్పుడూ పీడించకూడదు\" అని సంకల్పించాలి."
+  },
+  {
+   "n": 30,
+   "text_deva": "एवं संकल्पमास्थाय पूजाद्रव्यं समाहरेत् | सुस्थले चैव यल्लिंगं प्रसिद्धं चागमेषु वै",
+   "text_te": "ఏవం సంకల్పమాస్థాయ పూజాద్రవ్యం సమాహరేత్ | సుస్థలే చైవ యల్లింగం ప్రసిద్ధం చాగమేషు వై",
+   "text_en": "evaṁ saṁkalpamāsthāya pūjādravyaṁ samāharet | susthale caiva yalliṁgaṁ prasiddhaṁ cāgameṣu vai",
+   "mean_en": "Having taken this resolve, one should gather the articles of worship; the linga should be in a suitable spot that is renowned in the agamas.",
+   "mean_te": "ఇలా సంకల్పం చేసిన తరువాత పూజాద్రవ్యాలను సమకూర్చుకోవాలి; లింగం సుస్థలంలో, ఆగమాల్లో ప్రసిద్ధమైన చోట ఉండాలి."
+  },
+  {
+   "n": 31,
+   "text_deva": "रात्रौ तत्र स्वयं गत्वा संपाद्य विधिमुत्तमम् | शिवस्य दक्षिणे भागे पश्चिमे वा स्थले शुभे",
+   "text_te": "రాత్రౌ తత్ర స్వయం గత్వా సంపాద్య విధిముత్తమమ్ | శివస్య దక్షిణే భాగే పశ్చిమే వా స్థలే శుభే",
+   "text_en": "rātrau tatra svayaṁ gatvā saṁpādya vidhimuttamam | śivasya dakṣiṇe bhāge paścime vā sthale śubhe",
+   "mean_en": "At night one should personally go there and accomplish the excellent procedure, choosing the spot to the right side of Shiva or an auspicious place to the west.",
+   "mean_te": "రాత్రి అక్కడికి స్వయంగా వెళ్ళి, ఉత్తమమైన విధిని ఆచరించాలి; శివుడికి కుడివైపున లేదా శుభమైన పడమటి స్థలాన్ని ఎంచుకోవాలి."
+  },
+  {
+   "n": 32,
+   "text_deva": "निधाय चैव तद्द्रव्यं पूजार्थं शिवसन्निधौ | पुनः स्नायात्तदा तत्र विधिपूर्वं नरोत्तमः",
+   "text_te": "నిధాయ చైవ తద్ద్రవ్యం పూజార్థం శివసన్నిధౌ | పునః స్నాయాత్తదా తత్ర విధిపూర్వం నరోత్తమః",
+   "text_en": "nidhāya caiva taddravyaṁ pūjārthaṁ śivasannidhau | punaḥ snāyāttadā tatra vidhipūrvaṁ narottamaḥ",
+   "mean_en": "Having placed those worship articles there in Shiva's presence, then, O best of men, one should again bathe there according to the rules.",
+   "mean_te": "ఆ పూజాద్రవ్యాలను శివుని సన్నిధిలో పెట్టి, అనంతరం ఓ నరోత్తమా, అక్కడే విధిప్రకారం మళ్ళీ స్నానం చేయాలి."
+  },
+  {
+   "n": 33,
+   "text_deva": "परिधाय शुभं वस्त्रमन्तर्वासश्शुभन्तथा | आचम्य च त्रिवारं हि पूजारंभं समाचरेत्",
+   "text_te": "పరిధాయ శుభం వస్త్రమన్తర్వాసశ్శుభన్తథా | ఆచమ్య చ త్రివారం హి పూజారంభం సమాచరేత్",
+   "text_en": "paridhāya śubhaṁ vastramantarvāsaśśubhantathā | ācamya ca trivāraṁ hi pūjāraṁbhaṁ samācaret",
+   "mean_en": "Wearing auspicious garments and a clean inner garment, and sipping water three times (achamana), one should commence the worship.",
+   "mean_te": "శుభమైన వస్త్రాలను, శుభ్రమైన అంతర్వాసాన్ని ధరించి, మూడుసార్లు ఆచమనం చేసి, పూజను ప్రారంభించాలి."
+  },
+  {
+   "n": 34,
+   "text_deva": "यस्य मंत्रस्य यद्द्रव्यं तेन पूजां समाचरेत् | अमंत्रकं न कर्तव्यं पूजनं तु हरस्य च",
+   "text_te": "యస్య మంత్రస్య యద్ద్రవ్యం తేన పూజాం సమాచరేత్ | అమంత్రకం న కర్తవ్యం పూజనం తు హరస్య చ",
+   "text_en": "yasya maṁtrasya yaddravyaṁ tena pūjāṁ samācaret | amaṁtrakaṁ na kartavyaṁ pūjanaṁ tu harasya ca",
+   "mean_en": "One should perform the worship with each article joined to its proper mantra; the worship of Hara (Shiva) must never be done without mantras.",
+   "mean_te": "ఏ మంత్రానికి ఏ ద్రవ్యం సంబంధించిందో ఆ మంత్రంతో ఆ ద్రవ్యంతో పూజ చేయాలి; హరుని పూజ మంత్రం లేకుండా చేయకూడదు."
+  },
+  {
+   "n": 35,
+   "text_deva": "गीतैर्वाद्यैस्तथा नृत्यैर्भक्तिभावसमन्वितः | पूजनं प्रथमे यामे कृत्वा मंत्रं जपेद्बुधः",
+   "text_te": "గీతైర్వాద్యైస్తథా నృత్యైర్భక్తిభావసమన్వితః | పూజనం ప్రథమే యామే కృత్వా మంత్రం జపేద్బుధః",
+   "text_en": "gītairvādyaistathā nṛtyairbhaktibhāvasamanvitaḥ | pūjanaṁ prathame yāme kṛtvā maṁtraṁ japedbudhaḥ",
+   "mean_en": "Endowed with songs, musical instruments, and dances, and filled with devotion, the wise person performs the worship in the first watch of the night and then chants the mantra.",
+   "mean_te": "గీతాలతో, వాయిద్యాలతో, నృత్యాలతో సహా, భక్తిభావంతో కూడి, మొదటి యామంలో పూజ చేసి, బుద్ధిమంతుడు మంత్రాన్ని జపించాలి."
+  },
+  {
+   "n": 36,
+   "text_deva": "पार्थिवं च तदा श्रेष्ठं विदध्यान्मंत्रवान्यदि | कृतनित्यक्रियः पश्चात्पार्थिवं च समर्चयेत्",
+   "text_te": "పార్థివం చ తదా శ్రేష్ఠం విదధ్యాన్మంత్రవాన్యది | కృతనిత్యక్రియః పశ్చాత్పార్థివం చ సమర్చయేత్",
+   "text_en": "pārthivaṁ ca tadā śreṣṭhaṁ vidadhyānmaṁtravānyadi | kṛtanityakriyaḥ paścātpārthivaṁ ca samarcayet",
+   "mean_en": "Then, if one is skilled in mantras, one should install the excellent earthen (linga); after performing the daily rites, one should worship that earthen (linga).",
+   "mean_te": "అప్పుడు మంత్ర సామర్థ్యం కలవాడు, శ్రేష్ఠమైన మట్టి లింగాన్ని ప్రతిష్ఠించాలి; నిత్య కర్మలు చేసిన తరువాత ఆ మట్టి లింగాన్ని పూజించాలి."
+  },
+  {
+   "n": 37,
+   "text_deva": "प्रथमं पार्थिवं कृत्वा पश्चात्स्थापनमाचरेत् | स्तोत्रैर्नानाविधैर्देवं तोषयेद्वृषभध्वजम्",
+   "text_te": "ప్రథమం పార్థివం కృత్వా పశ్చాత్స్థాపనమాచరేత్ | స్తోత్రైర్నానావిధైర్దేవం తోషయేద్వృషభధ్వజమ్",
+   "text_en": "prathamaṁ pārthivaṁ kṛtvā paścātsthāpanamācaret | stotrairnānāvidhairdevaṁ toṣayedvṛṣabhadhvajam",
+   "mean_en": "First preparing the earthen (linga), one should then perform its installation; with various kinds of hymns one should please the deity, Shiva who bears the bull emblem.",
+   "mean_te": "మొదట మట్టి లింగాన్ని తయారు చేసి, తరువాత దాని ప్రతిష్ఠ చేయాలి; వివిధ రకాల స్తోత్రాలతో వృషభధ్వజుడైన శివుడిని మెప్పించాలి."
+  },
+  {
+   "n": 38,
+   "text_deva": "माहात्म्यं व्रतसंभूतं पठितव्यं सुधीमता | श्रोतव्यं भक्तवर्येण व्रतसम्पूर्तिकाम्यया",
+   "text_te": "మాహాత్మ్యం వ్రతసంభూతం పఠితవ్యం సుధీమతా | శ్రోతవ్యం భక్తవర్యేణ వ్రతసమ్పూర్తికామ్యయా",
+   "text_en": "māhātmyaṁ vratasaṁbhūtaṁ paṭhitavyaṁ sudhīmatā | śrotavyaṁ bhaktavaryeṇa vratasampūrtikāmyayā",
+   "mean_en": "The greatness (mahatmya) arising from the vow should be recited by the intelligent one, and heard by the foremost devotee who desires the completion of the vow.",
+   "mean_te": "వ్రతం వల్ల పుట్టిన మహత్యాన్ని జ్ఞాని పఠించాలి; వ్రత సంపూర్తి కోరుకునే ఉత్తమ భక్తుడు దాన్ని వినాలి."
+  },
+  {
+   "n": 39,
+   "text_deva": "चतुर्ष्वपि च यामेषु मूर्तीनां च चतुष्टयम् | कृत्वावाहनपूर्वं हि विसर्गावधि वै क्रमात्",
+   "text_te": "చతుర్ష్వపి చ యామేషు మూర్తీనాం చ చతుష్టయమ్ | కృత్వావాహనపూర్వం హి విసర్గావధి వై క్రమాత్",
+   "text_en": "caturṣvapi ca yāmeṣu mūrtīnāṁ ca catuṣṭayam | kṛtvāvāhanapūrvaṁ hi visargāvadhi vai kramāt",
+   "mean_en": "During all four watches of the night, one should perform the rites for the four images in order, beginning with their invocation (avahana) and continuing up to the dismissal (visarjana).",
+   "mean_te": "నాలుగు యామాలలో కూడా, నాలుగు మూర్తుల కోసం, అవాహన చేసి ముందుగా, విసర్జన వరకు క్రమంగా పూజ చేయాలి."
+  },
+  {
+   "n": 40,
+   "text_deva": "कार्यं जागरणं प्रीत्या महोत्सव समन्वितम् | प्रातः स्नात्वा पुनस्तत्र स्थापयेत्पूजयेच्छिवम्",
+   "text_te": "కార్యం జాగరణం ప్రీత్యా మహోత్సవ సమన్వితమ్ | ప్రాతః స్నాత్వా పునస్తత్ర స్థాపయేత్పూజయేచ్ఛివమ్",
+   "text_en": "kāryaṁ jāgaraṇaṁ prītyā mahotsava samanvitam | prātaḥ snātvā punastatra sthāpayetpūjayecchivam",
+   "mean_en": "The vigil (jagarana) should be joyfully observed, accompanied by a great festival; bathing again in the morning, one should then install and worship Shiva there.",
+   "mean_te": "సంతోషంతో, గొప్ప ఉత్సవంతో సహా జాగరణ చేయాలి; ఉదయం మళ్లీ స్నానం చేసి, అక్కడ శివుడిని ప్రతిష్ఠించి పూజించాలి."
+  },
+  {
+   "n": 41,
+   "text_deva": "ततः संप्रार्थयेच्छंभुं नतस्कन्धः कृताञ्जलिः | कृतसम्पूर्ण व्रतको नत्वा तं च पुनः पुनः",
+   "text_te": "తతః సంప్రార్థయేచ్ఛంభుం నతస్కన్ధః కృతాఞ్జలిః | కృతసమ్పూర్ణ వ్రతకో నత్వా తం చ పునః పునః",
+   "text_en": "tataḥ saṁprārthayecchaṁbhuṁ nataskandhaḥ kṛtāñjaliḥ | kṛtasampūrṇa vratako natvā taṁ ca punaḥ punaḥ",
+   "mean_en": "Then, bowing with bowed shoulders and joined palms, the observer of the completed vow should offer repeated prayers to Sambhu (Shiva), bowing again and again.",
+   "mean_te": "అప్పుడు, వ్రతం పూర్తి చేసినవాడు, భుజాలు వంచి, కరములు జోడించి, శంభుడిని ప్రార్థించాలి; పదే పదే నమస్కరించాలి."
+  },
+  {
+   "n": 42,
+   "text_deva": "नियमो यो महादेव कृतश्चैव त्वदाज्ञया | विसृज्यते मया स्वामिन्व्रतं जातमनुत्तमम्",
+   "text_te": "నియమో యో మహాదేవ కృతశ్చైవ త్వదాజ్ఞయా | విసృజ్యతే మయా స్వామిన్వ్రతం జాతమనుత్తమమ్",
+   "text_en": "niyamo yo mahādeva kṛtaścaiva tvadājñayā | visṛjyate mayā svāminvrataṁ jātamanuttamam",
+   "mean_en": "\"O Mahadeva, the restraint (niyama) that was performed by your command, I now release, O Lord — the vow that has become unsurpassed.\"",
+   "mean_te": "\"మహాదేవా, నీ ఆజ్ఞతో చేసిన నియమాన్ని నేను విసర్జిస్తున్నాను; అత్యుత్తమమైన వ్రతం పూర్తయింది, స్వామీ.\""
+  },
+  {
+   "n": 43,
+   "text_deva": "व्रतेनानेन देवेश यथाशक्तिकृतेन च | सन्तुष्टो भव शर्वाद्य कृपां कुरु ममोपरि",
+   "text_te": "వ్రతేనానేన దేవేశ యథాశక్తికృతేన చ | సన్తుష్టో భవ శర్వాద్య కృపాం కురు మమోపరి",
+   "text_en": "vratenānena deveśa yathāśaktikṛtena ca | santuṣṭo bhava śarvādya kṛpāṁ kuru mamopari",
+   "mean_en": "\"O Lord of gods, by this vow performed according to my ability, be pleased, O Sharva, and bestow your grace upon me.\"",
+   "mean_te": "\"దేవాధిదేవా, ఈ వ్రతంతో, నా శక్తి మేరకు చేసినదిగా, శర్వా, మీరు సంతుష్టులవగుదురు; నా పై కృప చూపాలి.\""
+  },
+  {
+   "n": 44,
+   "text_deva": "पुष्पाञ्जलिं शिवे दत्त्वा दद्याद्दानं यथाविधि | नमस्कृत्य शिवायैव नियमं तं विसर्जयेत्",
+   "text_te": "పుష్పాఞ్జలిం శివే దత్త్వా దద్యాద్దానం యథావిధి | నమస్కృత్య శివాయైవ నియమం తం విసర్జయేత్",
+   "text_en": "puṣpāñjaliṁ śive dattvā dadyāddānaṁ yathāvidhi | namaskṛtya śivāyaiva niyamaṁ taṁ visarjayet",
+   "mean_en": "Offering a handful of flowers to Shiva, one should give gifts according to the prescribed manner; having bowed to Shiva, one should dismiss that restraint (niyama).",
+   "mean_te": "శివుడికి పుష్పాంజలి సమర్పించి, శాస్త్ర విధి ప్రకారం దానం ఇవ్వాలి; శివుడిని నమస్కరించి, ఆ నియమాన్ని విసర్జించాలి."
+  },
+  {
+   "n": 45,
+   "text_deva": "यथाशक्ति द्विजाञ्छैवान्यतिनश्च विशेषतः | भोजयित्वा सुसन्तोष्य स्वयं भोजनमाचरेत्",
+   "text_te": "యథాశక్తి ద్విజాఞ్ఛైవాన్యతినశ్చ విశేషతః | భోజయిత్వా సుసన్తోష్య స్వయం భోజనమాచరేత్",
+   "text_en": "yathāśakti dvijāñchaivānyatinaśca viśeṣataḥ | bhojayitvā susantoṣya svayaṁ bhojanamācaret",
+   "mean_en": "According to one's capacity, one should feed the brahmins and especially the ascetics, fully satisfy them, and only then take one's own meal.",
+   "mean_te": "తన శక్తి మేరకు, బ్రాహ్మణులను, ముఖ్యంగా యతులను (సన్యాసులను) భోజనం పెట్టి, వారిని సంతృప్తి పరచి, తరువాత తాను భోజనం చేయాలి."
+  },
+  {
+   "n": 46,
+   "text_deva": "यामेयामे यथा पूजा कार्या भक्तवरैर्हरे | शिवरात्रौ विशेषेण तामहं कथयामि ते",
+   "text_te": "యామేయామే యథా పూజా కార్యా భక్తవరైర్హరే | శివరాత్రౌ విశేషేణ తామహం కథయామి తే",
+   "text_en": "yāmeyāme yathā pūjā kāryā bhaktavarairhare | śivarātrau viśeṣeṇa tāmahaṁ kathayāmi te",
+   "mean_en": "\"O Hara (Shiva), how the worship should be performed in each watch by the foremost devotees — especially on Shivaratri — that I shall narrate to you.\"",
+   "mean_te": "\"హరా, ప్రతి యామంలో ఉత్తమ భక్తులు ఎలా పూజ చేయాలి — ముఖ్యంగా శివరాత్రి రోజున — దాన్ని నీకు నేను చెబుతాను.\""
+  },
+  {
+   "n": 47,
+   "text_deva": "प्रथमे चैव यामे च स्थापितं पार्थिवं हरे | पूजयेत्परया भक्त्या सूपचारैरनेकशः",
+   "text_te": "ప్రథమే చైవ యామే చ స్థాపితం పార్థివం హరే | పూజయేత్పరయా భక్త్యా సూపచారైరనేకశః",
+   "text_en": "prathame caiva yāme ca sthāpitaṁ pārthivaṁ hare | pūjayetparayā bhaktyā sūpacārairanekaśaḥ",
+   "mean_en": "\"In the first watch, O Hara, the earthen (linga) that has been installed should be worshipped with supreme devotion, with many services offered repeatedly.\"",
+   "mean_te": "\"మొదటి యామంలో, హరా, ప్రతిష్ఠించిన మట్టి లింగాన్ని, పరమ భక్తితో, అనేక ఉపచారాలతో, పలుమార్లు పూజించాలి.\""
+  },
+  {
+   "n": 48,
+   "text_deva": "पंचद्रव्यैश्च प्रथमं पूजनीयो हरस्सदा | तस्य तस्य च मन्त्रेण पृथग्द्रव्यं समर्पयेत्",
+   "text_te": "పంచద్రవ్యైశ్చ ప్రథమం పూజనీయో హరస్సదా | తస్య తస్య చ మన్త్రేణ పృథగ్ద్రవ్యం సమర్పయేత్",
+   "text_en": "paṁcadravyaiśca prathamaṁ pūjanīyo harassadā | tasya tasya ca mantreṇa pṛthagdravyaṁ samarpayet",
+   "mean_en": "First, with the five substances, Shiva should always be worshipped, O Hara; each separate substance should be offered with its respective mantra.",
+   "mean_te": "ముందుగా ఐదు ద్రవ్యాలతో, హరుడైన శివుడిని ఎప్పుడూ పూజించాలి; ప్రతి ద్రవ్యాన్ని దానికి సంబంధించిన మంత్రంతో ప్రత్యేకంగా సమర్పించాలి."
+  },
+  {
+   "n": 49,
+   "text_deva": "तच्च द्रव्यं समर्प्यैव जलधारां ददेत वै | पश्चाच्च जलधाराभिर्द्रव्याणुत्तारयेद्बुधः",
+   "text_te": "తచ్చ ద్రవ్యం సమర్ప్యైవ జలధారాం దదేత వై | పశ్చాచ్చ జలధారాభిర్ద్రవ్యాణుత్తారయేద్బుధః",
+   "text_en": "tacca dravyaṁ samarpyaiva jaladhārāṁ dadeta vai | paścācca jaladhārābhirdravyāṇuttārayedbudhaḥ",
+   "mean_en": "Having offered each substance, one should then pour a stream of water; afterwards, with streams of water the wise one should rinse away the substances.",
+   "mean_te": "ప్రతి ద్రవ్యాన్ని సమర్పించిన తరువాత, జలధారను వదలాలి; తరువాత జలధారలతో బుద్ధిమంతుడు ఆ ద్రవ్యాలను శుభ్రం చేయాలి."
+  },
+  {
+   "n": 50,
+   "text_deva": "शतमष्टोत्तरं मन्त्रं पठित्वा जलधारया | पूजयेच्च शिवं तत्र निर्गुणं गुणरूपिणम्",
+   "text_te": "శతమష్టోత్తరం మన్త్రం పఠిత్వా జలధారయా | పూజయేచ్చ శివం తత్ర నిర్గుణం గుణరూపిణమ్",
+   "text_en": "śatamaṣṭottaraṁ mantraṁ paṭhitvā jaladhārayā | pūjayecca śivaṁ tatra nirguṇaṁ guṇarūpiṇam",
+   "mean_en": "Reciting the mantra one hundred and eight times, with a stream of water one should worship Shiva there, who is beyond qualities yet the very embodiment of qualities.",
+   "mean_te": "మంత్రాన్ని 108 సార్లు పఠించి, జలధారతో, నిర్గుణుడైనా గుణరూపుడైన శివుడిని అక్కడ పూజించాలి."
+  },
+  {
+   "n": 51,
+   "text_deva": "गुरुदत्तेन मंत्रेण पूजयेद्वृषभध्जम् | अन्यथा नाममंत्रेण पूजयेद्वै सदाशिवम्",
+   "text_te": "గురుదత్తేన మంత్రేణ పూజయేద్వృషభధ్జమ్ | అన్యథా నామమంత్రేణ పూజయేద్వై సదాశివమ్",
+   "text_en": "gurudattena maṁtreṇa pūjayedvṛṣabhadhjam | anyathā nāmamaṁtreṇa pūjayedvai sadāśivam",
+   "mean_en": "One should worship Shiva, who bears the bull emblem, with the mantra received from the guru; otherwise, one should worship Sadashiva with the mantra of his name.",
+   "mean_te": "గురువు ఇచ్చిన మంత్రంతో వృషభధ్వజుడైన శివుడిని పూజించాలి; లేకపోతే, నామ మంత్రంతో సదాశివుడిని పూజించాలి."
+  },
+  {
+   "n": 52,
+   "text_deva": "चन्दनेन विचित्रेण तण्डुलैश्चाप्यखण्डितैः | कृष्णैश्चैव तिलैः पूजा कार्या शंभोः परात्मनः",
+   "text_te": "చన్దనేన విచిత్రేణ తణ్డులైశ్చాప్యఖణ్డితైః | కృష్ణైశ్చైవ తిలైః పూజా కార్యా శంభోః పరాత్మనః",
+   "text_en": "candanena vicitreṇa taṇḍulaiścāpyakhaṇḍitaiḥ | kṛṣṇaiścaiva tilaiḥ pūjā kāryā śaṁbhoḥ parātmanaḥ",
+   "mean_en": "The worship of Sambhu, the Supreme Self, should be performed with lovely sandalwood paste, unbroken rice grains, and black sesame seeds.",
+   "mean_te": "శంభువైన పరాత్మనుకు అందమైన గంధపు పేసరంతో, అఖండితమైన బియ్యాలతో, నల్ల నువ్వులతో పూజ చేయాలి."
+  },
+  {
+   "n": 53,
+   "text_deva": "पुष्पैश्च शतपत्रैश्च करवीरैस्तथा पुनः | अष्टभिर्नाममंत्रैश्चार्पयेत्पुष्पाणि शंकरे",
+   "text_te": "పుష్పైశ్చ శతపత్రైశ్చ కరవీరైస్తథా పునః | అష్టభిర్నామమంత్రైశ్చార్పయేత్పుష్పాణి శంకరే",
+   "text_en": "puṣpaiśca śatapatraiśca karavīraistathā punaḥ | aṣṭabhirnāmamaṁtraiścārpayetpuṣpāṇi śaṁkare",
+   "mean_en": "Flowers, hundred-petaled flowers, and karavira (oleander) flowers should again be offered to Sankara along with the eight name-mantras.",
+   "mean_te": "పూలతో, వంద రేకుల పూలతో, గన్నేరు పూలతో కూడా, ఎనిమిది నామ మంత్రాలతో శంకరునికి పుష్పాలు సమర్పించాలి."
+  },
+  {
+   "n": 54,
+   "text_deva": "भवः शर्वस्तथा रुद्रः पुनः पशुपतिस्तथा | उग्रो महांस्तथा भीम ईशान इति तानि वै",
+   "text_te": "భవః శర్వస్తథా రుద్రః పునః పశుపతిస్తథా | ఉగ్రో మహాంస్తథా భీమ ఈశాన ఇతి తాని వై",
+   "text_en": "bhavaḥ śarvastathā rudraḥ punaḥ paśupatistathā | ugro mahāṁstathā bhīma īśāna iti tāni vai",
+   "mean_en": "Those eight names indeed are Bhava, Sarva, Rudra, Pasupati, Ugra, Mahan, Bhima, and Isana.",
+   "mean_te": "భవుడు, శర్వుడు, రుద్రుడు, పశుపతి, ఉగ్రుడు, మహాన్, భీముడు, ఈశానుడు — ఇవే ఆ ఎనిమిది నామాలు."
+  },
+  {
+   "n": 55,
+   "text_deva": "श्रीपूर्वैश्च चतुर्थ्यंतैर्नामभिः पूजयेच्छिवम् | पश्चाद्धूपं च दीपं च नैवेद्यं च ततः परम्",
+   "text_te": "శ్రీపూర్వైశ్చ చతుర్థ్యంతైర్నామభిః పూజయేచ్ఛివమ్ | పశ్చాద్ధూపం చ దీపం చ నైవేద్యం చ తతః పరమ్",
+   "text_en": "śrīpūrvaiśca caturthyaṁtairnāmabhiḥ pūjayecchivam | paścāddhūpaṁ ca dīpaṁ ca naivedyaṁ ca tataḥ param",
+   "mean_en": "One should worship Siva with those names, each preceded by 'Sri' and ending in the dative case; thereafter incense, lamp, and food-offering should be presented.",
+   "mean_te": "ఆ నామాలను 'శ్రీ' పూర్వంగా, చతుర్థి ప్రత్యయంతో ఉచ్చరిస్తూ శివుని పూజించాలి; తరువాత ధూపం, దీపం, నైవేద్యం సమర్పించాలి."
+  },
+  {
+   "n": 56,
+   "text_deva": "आद्ये यामे च नैवेद्यं पक्वान्नं कारयेद्बुधः | अर्घं च श्रीफलं दत्त्वा ताम्बूलं च निवेदयेत्",
+   "text_te": "ఆద్యే యామే చ నైవేద్యం పక్వాన్నం కారయేద్బుధః | అర్ఘం చ శ్రీఫలం దత్త్వా తామ్బూలం చ నివేదయేత్",
+   "text_en": "ādye yāme ca naivedyaṁ pakvānnaṁ kārayedbudhaḥ | arghaṁ ca śrīphalaṁ dattvā tāmbūlaṁ ca nivedayet",
+   "mean_en": "In the first yama (watch) the wise should have cooked food prepared as naivedya; having offered arghya and an excellent fruit, betel should be presented.",
+   "mean_te": "మొదటి యామమున బుద్ధిమంతుడు పక్వాన్నాన్ని నైవేద్యంగా చేయించాలి; అర్ఘ్యమును, శ్రేష్ఠమైన ఫలమును ఇచ్చి, తాంబూలము సమర్పించాలి."
+  },
+  {
+   "n": 57,
+   "text_deva": "नमस्कारं ततो ध्यानं जपः प्रोक्तो गुरोर्मनोः | अन्यथा पंचवर्णेन तोषयेत्तेन शंकरम्",
+   "text_te": "నమస్కారం తతో ధ్యానం జపః ప్రోక్తో గురోర్మనోః | అన్యథా పంచవర్ణేన తోషయేత్తేన శంకరమ్",
+   "text_en": "namaskāraṁ tato dhyānaṁ japaḥ prokto gurormanoḥ | anyathā paṁcavarṇena toṣayettena śaṁkaram",
+   "mean_en": "Then salutation, meditation, and the japa of the mantra taught by the guru; otherwise one should please Sankara with the five-syllabled mantra.",
+   "mean_te": "తరువాత నమస్కారము, ధ్యానము, గురువు చెప్పిన మంత్రముతో జపము; అది లేకపోతే పంచాక్షర మంత్రముతో శంకరుని మెప్పించాలి."
+  },
+  {
+   "n": 58,
+   "text_deva": "धेनुमुद्रां प्रदर्श्याथ सुजलैस्तर्पणं चरेत् | पंचब्राह्मणभोजं च कल्पयेद्वै यथाबलम्",
+   "text_te": "ధేనుముద్రాం ప్రదర్శ్యాథ సుజలైస్తర్పణం చరేత్ | పంచబ్రాహ్మణభోజం చ కల్పయేద్వై యథాబలమ్",
+   "text_en": "dhenumudrāṁ pradarśyātha sujalaistarpaṇaṁ caret | paṁcabrāhmaṇabhojaṁ ca kalpayedvai yathābalam",
+   "mean_en": "Then, showing the dhenumudra, tarpana should be performed with pure water, and food should be arranged for five Brahmanas according to one's capacity.",
+   "mean_te": "తరువాత ధేనుముద్రను చూపి, శుద్ధమైన నీటితో తర్పణము చేయాలి; తన శక్తి మేరకు ఐదుగురు బ్రాహ్మణులకు భోజనము ఏర్పాటు చేయాలి."
+  },
+  {
+   "n": 59,
+   "text_deva": "महोत्सवश्च कर्तव्यो यावद्यामो भवेदिह | ततः पूजाफलं तस्मै निवेद्य च विसर्जयेत्",
+   "text_te": "మహోత్సవశ్చ కర్తవ్యో యావద్యామో భవేదిహ | తతః పూజాఫలం తస్మై నివేద్య చ విసర్జయేత్",
+   "text_en": "mahotsavaśca kartavyo yāvadyāmo bhavediha | tataḥ pūjāphalaṁ tasmai nivedya ca visarjayet",
+   "mean_en": "A great festival should be celebrated for as long as that yama lasts; then, presenting to Him the fruit of the worship, one should conclude the worship.",
+   "mean_te": "ఆ యామము ఉన్నంత కాలము మహోత్సవము చేయాలి; తరువాత పూజాఫలమును ఆయనకు నివేదించి, పూజను విసర్జించాలి."
+  },
+  {
+   "n": 60,
+   "text_deva": "पुनर्द्वितीये यामे च संकल्पं सुसमा चरेत् | अथवैकदैव संकल्प्य कुर्यात्पूजां तथाविधाम्",
+   "text_te": "పునర్ద్వితీయే యామే చ సంకల్పం సుసమా చరేత్ | అథవైకదైవ సంకల్ప్య కుర్యాత్పూజాం తథావిధామ్",
+   "text_en": "punardvitīye yāme ca saṁkalpaṁ susamā caret | athavaikadaiva saṁkalpya kuryātpūjāṁ tathāvidhām",
+   "mean_en": "Again in the second yama one should duly make the sankalpa; or, having made the resolve once itself, one may perform the worship in that prescribed manner.",
+   "mean_te": "మళ్ళీ రెండవ యామమున సంకల్పము బాగుగా చేసుకోవాలి; లేదా ఒక్కసారే సంకల్పము చేసుకుని, ఆ విధంగా పూజ చేయవచ్చు."
+  },
+  {
+   "n": 61,
+   "text_deva": "द्रव्यैः पूर्वैस्तथा पूजां कृत्वा धारां समर्पयेत् | पूर्वतो द्विगुणं मंत्रं समुच्चार्यार्चयेच्छिवम्",
+   "text_te": "ద్రవ్యైః పూర్వైస్తథా పూజాం కృత్వా ధారాం సమర్పయేత్ | పూర్వతో ద్విగుణం మంత్రం సముచ్చార్యార్చయేచ్ఛివమ్",
+   "text_en": "dravyaiḥ pūrvaistathā pūjāṁ kṛtvā dhārāṁ samarpayet | pūrvato dviguṇaṁ maṁtraṁ samuccāryārcayecchivam",
+   "mean_en": "Performing the worship with the former materials, one should offer the dhara (continuous ablution); reciting the mantra twice the previous number of times, one should worship Siva.",
+   "mean_te": "పూర్వపు ద్రవ్యాలతోనే పూజ చేసి, ధార సమర్పించాలి; గతంకంటే రెండు రెట్లు మంత్రమును జపించి శివుని పూజించాలి."
+  },
+  {
+   "n": 62,
+   "text_deva": "पूर्वैस्तिलयवैश्चाथ कमलैः पूजयेच्छिवम् | बिल्वपत्रैर्विशेषेण पूजयेत्परमेश्वरम्",
+   "text_te": "పూర్వైస్తిలయవైశ్చాథ కమలైః పూజయేచ్ఛివమ్ | బిల్వపత్రైర్విశేషేణ పూజయేత్పరమేశ్వరమ్",
+   "text_en": "pūrvaistilayavaiścātha kamalaiḥ pūjayecchivam | bilvapatrairviśeṣeṇa pūjayetparameśvaram",
+   "mean_en": "With the former materials — sesame, barley, and lotuses — one should worship Siva, and especially with bilva leaves one should worship Paramesvara.",
+   "mean_te": "గత ద్రవ్యాలతో, నువ్వులు, యవలు, కమలాలతో శివుని పూజించాలి; ప్రత్యేకంగా బిల్వ పత్రాలతో పరమేశ్వరుని పూజించాలి."
+  },
+  {
+   "n": 63,
+   "text_deva": "अर्घ्यं च बीजपूरेण नैवेद्यं पायसन्तथा | मंत्रावृत्तिस्तु द्विगुणा पूर्वतोऽपि जनार्दन",
+   "text_te": "అర్ఘ్యం చ బీజపూరేణ నైవేద్యం పాయసన్తథా | మంత్రావృత్తిస్తు ద్విగుణా పూర్వతోఽపి జనార్దన",
+   "text_en": "arghyaṁ ca bījapūreṇa naivedyaṁ pāyasantathā | maṁtrāvṛttistu dviguṇā pūrvato'pi janārdana",
+   "mean_en": "Arghya should be offered with bijapura (citron), and the naivedya should be payasa (milk-pudding); the mantra repetition should be double the previous one, O Janardana.",
+   "mean_te": "బీజపూరి (సీతాఫలం వంటి ఫలము) తో అర్ఘ్యము, పాయసము నైవేద్యంగా ఇవ్వాలి; మంత్ర పునరావృత్తి గతంకంటే రెండు రెట్లు ఉండాలి, ఓ జనార్దనా."
+  },
+  {
+   "n": 64,
+   "text_deva": "ततश्च ब्राह्मणानां हि भोज्यो संकल्पमाचरेत् | अन्यत्सर्वं तथा कुर्याद्यावच्च द्वितयावधि",
+   "text_te": "తతశ్చ బ్రాహ్మణానాం హి భోజ్యో సంకల్పమాచరేత్ | అన్యత్సర్వం తథా కుర్యాద్యావచ్చ ద్వితయావధి",
+   "text_en": "tataśca brāhmaṇānāṁ hi bhojyo saṁkalpamācaret | anyatsarvaṁ tathā kuryādyāvacca dvitayāvadhi",
+   "mean_en": "Then Brahmanas should be fed and the sankalpa made; all the rest should be done similarly until the end of the second yama.",
+   "mean_te": "తరువాత బ్రాహ్మణులకు భోజనం పెట్టి, సంకల్పము చేయాలి; రెండవ యామము అయ్యే వరకు మిగతా అన్నీ అలాగే చేయాలి."
+  },
+  {
+   "n": 65,
+   "text_deva": "यामे प्राप्ते तृतीये च पूर्ववत्पूजनं चरेत् | यवस्थाने च गोधूमाः पुष्पाण्यर्कभवानि च",
+   "text_te": "యామే ప్రాప్తే తృతీయే చ పూర్వవత్పూజనం చరేత్ | యవస్థానే చ గోధూమాః పుష్పాణ్యర్కభవాని చ",
+   "text_en": "yāme prāpte tṛtīye ca pūrvavatpūjanaṁ caret | yavasthāne ca godhūmāḥ puṣpāṇyarkabhavāni ca",
+   "mean_en": "When the third yama arrives, worship should be performed as before, with wheat in place of barley and arka flowers in place of the former flowers.",
+   "mean_te": "మూడవ యామము రాగానే పూర్వంలాగే పూజ చేయాలి; యవలకు బదులు గోధుమలు, పూలకు బదులు అర్క పూలు వాడాలి."
+  },
+  {
+   "n": 66,
+   "text_deva": "धूपैश्च विविधैस्तत्र दीपैर्नानाविधैरपि | नैवेद्यापूपकैर्विष्णो शाकैर्नानाविधैरपि",
+   "text_te": "ధూపైశ్చ వివిధైస్తత్ర దీపైర్నానావిధైరపి | నైవేద్యాపూపకైర్విష్ణో శాకైర్నానావిధైరపి",
+   "text_en": "dhūpaiśca vividhaistatra dīpairnānāvidhairapi | naivedyāpūpakairviṣṇo śākairnānāvidhairapi",
+   "mean_en": "There one should use various kinds of incense and various kinds of lamps, with various apupa cakes as naivedya, O Vishnu, and with various kinds of vegetables.",
+   "mean_te": "అక్కడ వివిధ రకాల ధూపాలతో, వివిధ రకాల దీపాలతో, వివిధ రకాల అపూప నైవేద్యాలతో, ఓ విష్ణువా, వివిధ రకాల కూరగాయలతో పూజ చేయాలి."
+  },
+  {
+   "n": 67,
+   "text_deva": "कृत्वैव चाथ कर्पूरैरारार्तिक विधिं चरेत | अर्घ्यं सदाडिमं दद्याद्द्विगुणं जपमाचरेत्",
+   "text_te": "కృత్వైవ చాథ కర్పూరైరారార్తిక విధిం చరేత | అర్ఘ్యం సదాడిమం దద్యాద్ద్విగుణం జపమాచరేత్",
+   "text_en": "kṛtvaiva cātha karpūrairārārtika vidhiṁ careta | arghyaṁ sadāḍimaṁ dadyāddviguṇaṁ japamācaret",
+   "mean_en": "Having done so, one should perform the arartika ritual with camphor, offer arghya with pomegranate (dadima), and perform japa double the previous number.",
+   "mean_te": "ఇలా చేసిన తరువాత కర్పూరంతో ఆరాటిక చేయాలి; దానిమ్మతో అర్ఘ్యము ఇచ్చి, గతంకంటే రెండు రెట్లు జపము చేయాలి."
+  },
+  {
+   "n": 68,
+   "text_deva": "ततश्च ब्रह्मभोजस्य संकल्पं च सदक्षिणम् | उत्सवं पूर्ववत्कुर्या द्यावद्यामावधिर्भवेत्",
+   "text_te": "తతశ్చ బ్రహ్మభోజస్య సంకల్పం చ సదక్షిణమ్ | ఉత్సవం పూర్వవత్కుర్యా ద్యావద్యామావధిర్భవేత్",
+   "text_en": "tataśca brahmabhojasya saṁkalpaṁ ca sadakṣiṇam | utsavaṁ pūrvavatkuryā dyāvadyāmāvadhirbhavet",
+   "mean_en": "Then the sankalpa for feeding the Brahmanas with dakshina, and the festival as before, should be carried out until the end of the third yama.",
+   "mean_te": "తరువాత సదక్షిణతో బ్రాహ్మణ భోజనానికి సంకల్పము, పూర్వంలాగే ఉత్సవము — ఇవి మూడవ యామము అయ్యే వరకు చేయాలి."
+  },
+  {
+   "n": 69,
+   "text_deva": "यामे चतुर्थे संप्राते कुर्यात्तस्य विसर्जनम् | प्रयोगादि पुनः कृत्वा पूजां विधिवदाचरेत्",
+   "text_te": "యామే చతుర్థే సంప్రాతే కుర్యాత్తస్య విసర్జనమ్ | ప్రయోగాది పునః కృత్వా పూజాం విధివదాచరేత్",
+   "text_en": "yāme caturthe saṁprāte kuryāttasya visarjanam | prayogādi punaḥ kṛtvā pūjāṁ vidhivadācaret",
+   "mean_en": "When the fourth watch (yama) of the night arrives, one should perform the visarjana (concluding dismissal) of the worship. Then, preparing the worship materials again, one should conduct the puja according to the prescribed rules.",
+   "mean_te": "నాలుగవ యామము సమీపించగానే ఆ పూజ విసర్జన చేయాలి. తరువాత పూజా సామగ్రిని మళ్లీ సిద్ధం చేసి, విధి ప్రకారం పూజ చేయాలి."
+  },
+  {
+   "n": 70,
+   "text_deva": "माषैः प्रियंगुभिर्मुद्गैस्सप्तधान्यैस्तथाथवा | शंखीपुष्पैर्बिल्वपत्रैः पूजयेत्परमेश्वरम्",
+   "text_te": "మాషైః ప్రియంగుభిర్ముద్గైస్సప్తధాన్యైస్తథాథవా | శంఖీపుష్పైర్బిల్వపత్రైః పూజయేత్పరమేశ్వరమ్",
+   "text_en": "māṣaiḥ priyaṁgubhirmudgaissaptadhānyaistathāthavā | śaṁkhīpuṣpairbilvapatraiḥ pūjayetparameśvaram",
+   "mean_en": "One should worship Parameśvara (Śiva) with black gram (māṣa), priyaṅgu, green gram (mudga), the seven grains, or with śaṅkhī flowers and bilva leaves.",
+   "mean_te": "మాషాలు, ప్రియంగు, పెసలు (ముద్గాలు), ఏడు ధాన్యాలతో, లేదా శంఖపుష్పాలు మరియు బిల్వ పత్రాలతో పరమేశ్వరుడిని పూజించాలి."
+  },
+  {
+   "n": 71,
+   "text_deva": "नैवेद्यं तत्र दद्याद्वै मधुरैर्विविधैरपि | अथवा चैव माषान्नैस्तोषयेच्च सदाशिवम्",
+   "text_te": "నైవేద్యం తత్ర దద్యాద్వై మధురైర్వివిధైరపి | అథవా చైవ మాషాన్నైస్తోషయేచ్చ సదాశివమ్",
+   "text_en": "naivedyaṁ tatra dadyādvai madhurairvividhairapi | athavā caiva māṣānnaistoṣayecca sadāśivam",
+   "mean_en": "There one should offer naivedya (food offering) of various sweet items, or with preparations of black grain one should please Sadāśiva.",
+   "mean_te": "అక్కడ వివిధ తీపి పదార్థాలతో నైవేద్యం సమర్పించాలి; లేదా మాషాలతో చేసిన వంటకాలతో సదాశివుడిని తృప్తిపరచాలి."
+  },
+  {
+   "n": 72,
+   "text_deva": "अर्घं दद्यात्कदल्याश्च फलेनैवाथवा हरे | विविधैश्च फलैश्चैव दद्यादर्घ्यं शिवाय च",
+   "text_te": "అర్ఘం దద్యాత్కదల్యాశ్చ ఫలేనైవాథవా హరే | వివిధైశ్చ ఫలైశ్చైవ దద్యాదర్ఘ్యం శివాయ చ",
+   "text_en": "arghaṁ dadyātkadalyāśca phalenaivāthavā hare | vividhaiśca phalaiścaiva dadyādarghyaṁ śivāya ca",
+   "mean_en": "One should offer arghya with plantains or with fruit, and with various kinds of fruits one should offer arghya to Śiva.",
+   "mean_te": "అరటిపండ్లతో గాని, ఫలాలతో గాని అర్ఘ్యం సమర్పించాలి; వివిధ రకాల ఫలాలతో శివుడికి అర్ఘ్యం ఇవ్వాలి."
+  },
+  {
+   "n": 73,
+   "text_deva": "पूर्वतो द्विगुणं कुर्यान्मंत्रजापं नरोत्तमः | संकल्पं ब्रह्मभोजस्य यथाशक्ति चरेद्बुधः",
+   "text_te": "పూర్వతో ద్విగుణం కుర్యాన్మంత్రజాపం నరోత్తమః | సంకల్పం బ్రహ్మభోజస్య యథాశక్తి చరేద్బుధః",
+   "text_en": "pūrvato dviguṇaṁ kuryānmaṁtrajāpaṁ narottamaḥ | saṁkalpaṁ brahmabhojasya yathāśakti caredbudhaḥ",
+   "mean_en": "O best of men, one should perform japa of the mantra twice as much as before; the wise person should undertake the resolve (saṁkalpa) for feeding brāhmaṇas according to his capacity.",
+   "mean_te": "హే నరోత్తమా, గతంలో చేసినదానికి రెండు రెట్లు మంత్రజపం చేయాలి. జ్ఞాని తన శక్తి కొద్దీ బ్రాహ్మణ భోజనం కోసం సంకల్పం చేయాలి."
+  },
+  {
+   "n": 74,
+   "text_deva": "गीतैर्वाद्यैस्तथा नृत्यैर्नयेत्कालं च भक्तितः | महोत्सवैर्भक्तजनैर्यावत्स्यादरुणोदयः",
+   "text_te": "గీతైర్వాద్యైస్తథా నృత్యైర్నయేత్కాలం చ భక్తితః | మహోత్సవైర్భక్తజనైర్యావత్స్యాదరుణోదయః",
+   "text_en": "gītairvādyaistathā nṛtyairnayetkālaṁ ca bhaktitaḥ | mahotsavairbhaktajanairyāvatsyādaruṇodayaḥ",
+   "mean_en": "With songs, musical instruments and dances, one should pass the time devotedly; with devotees one should celebrate great festivals until the break of dawn.",
+   "mean_te": "గీతాలు, వాద్యాలు, నృత్యాలతో భక్తితో సమయం గడపాలి; భక్తులతో మహోత్సవాలు చేస్తూ తెల్లవారుజాము వరకు ఉండాలి."
+  },
+  {
+   "n": 75,
+   "text_deva": "उदये च तथा जाते पुनस्स्नात्वार्चयेच्छिवम् | नानापूजोपहारैश्च स्वाभिषेकमथाचरेत्",
+   "text_te": "ఉదయే చ తథా జాతే పునస్స్నాత్వార్చయేచ్ఛివమ్ | నానాపూజోపహారైశ్చ స్వాభిషేకమథాచరేత్",
+   "text_en": "udaye ca tathā jāte punassnātvārcayecchivam | nānāpūjopahāraiśca svābhiṣekamathācaret",
+   "mean_en": "When dawn arises, one should bathe again and worship Śiva with various pūjā offerings, and then perform the abhiṣeka of the deity.",
+   "mean_te": "తెల్లవారిన తర్వాత మళ్లీ స్నానం చేసి, నానావిధ పూజా ఉపహారాలతో శివుడిని పూజించి, స్వామికి అభిషేకం చేయాలి."
+  },
+  {
+   "n": 76,
+   "text_deva": "नानाविधानि दानानि भोज्यं च विविधन्तथा | ब्राह्मणानां यतीनां च कर्तव्यं यामसंख्यया",
+   "text_te": "నానావిధాని దానాని భోజ్యం చ వివిధన్తథా | బ్రాహ్మణానాం యతీనాం చ కర్తవ్యం యామసంఖ్యయా",
+   "text_en": "nānāvidhāni dānāni bhojyaṁ ca vividhantathā | brāhmaṇānāṁ yatīnāṁ ca kartavyaṁ yāmasaṁkhyayā",
+   "mean_en": "Various kinds of gifts and various foods must be given to brāhmaṇas and ascetics, in proportion to the number of watches (yāmas) observed.",
+   "mean_te": "యామాల సంఖ్య ప్రకారం బ్రాహ్మణులకు, యతులకు నానావిధ దానాలు మరియు వివిధ భోజ్య పదార్థాలు సమర్పించాలి."
+  },
+  {
+   "n": 77,
+   "text_deva": "शंकराय नमस्कृत्य पुष्पाञ्जलिमथाचरेत् | प्रार्थयेत्सुस्तुतिं कृत्वा मन्त्रैरेतैर्विचक्षणः",
+   "text_te": "శంకరాయ నమస్కృత్య పుష్పాఞ్జలిమథాచరేత్ | ప్రార్థయేత్సుస్తుతిం కృత్వా మన్త్రైరేతైర్విచక్షణః",
+   "text_en": "śaṁkarāya namaskṛtya puṣpāñjalimathācaret | prārthayetsustutiṁ kṛtvā mantrairetairvicakṣaṇaḥ",
+   "mean_en": "Having bowed to Śaṅkara, one should then offer a handful of flowers (puṣpāñjali); the wise should pray with excellent praise using these mantras.",
+   "mean_te": "శంకరుడికి నమస్కరించి, పుష్పాంజలి సమర్పించాలి; జ్ఞాని ఈ మంత్రాలతో సస్తుతించి ప్రార్థించాలి."
+  },
+  {
+   "n": 78,
+   "text_deva": "तावकस्त्वद्गतप्राणस्त्वच्चित्तोऽहं सदा मृड | कृपानिधे इति ज्ञात्वा यथा योग्यं तथा कुरु",
+   "text_te": "తావకస్త్వద్గతప్రాణస్త్వచ్చిత్తోఽహం సదా మృడ | కృపానిధే ఇతి జ్ఞాత్వా యథా యోగ్యం తథా కురు",
+   "text_en": "tāvakastvadgataprāṇastvaccitto'haṁ sadā mṛḍa | kṛpānidhe iti jñātvā yathā yogyaṁ tathā kuru",
+   "mean_en": "'O Mṛḍa (benign Lord), I am ever your servant, my life belongs to you and my mind belongs to you always; O ocean of mercy, knowing this, do what is fitting.'",
+   "mean_te": "\"హే మృడా, నేను నీ దాసుడను, నా ప్రాణం నీకే, నా మనసు ఎల్లప్పుడూ నీదే; హే కృపానిధీ, ఇది తెలుసుకుని యోగ్యమైనది చేయుము\" అని ప్రార్థించాలి."
+  },
+  {
+   "n": 79,
+   "text_deva": "अज्ञानाद्यदि वा ज्ञानाज्जपपूजादिकं मया | कृपानिधित्वाज्ज्ञात्वैव भूतनाथ प्रसीद मे",
+   "text_te": "అజ్ఞానాద్యది వా జ్ఞానాజ్జపపూజాదికం మయా | కృపానిధిత్వాజ్జ్ఞాత్వైవ భూతనాథ ప్రసీద మే",
+   "text_en": "ajñānādyadi vā jñānājjapapūjādikaṁ mayā | kṛpānidhitvājjñātvaiva bhūtanātha prasīda me",
+   "mean_en": "'O ocean of mercy, O lord of beings (Bhūtanātha), whether from ignorance or from knowledge my japa, pūjā and other acts were done — knowing this, be gracious to me.'",
+   "mean_te": "\"నా చేత జరిగిన జపపూజాదులు అజ్ఞానంతో గాని, జ్ఞానంతో గాని జరిగాయి; హే కృపానిధీ, హే భూతనాథా, దీనిని తెలుసుకుని నాపై ప్రసన్నుడవగుము\" అని ప్రార్థించాలి."
+  },
+  {
+   "n": 80,
+   "text_deva": "अनेनैवोपवासेन यज्जातं फलमेव च | तेनैव प्रीयतां देवः शंकरः सुखदायकः",
+   "text_te": "అనేనైవోపవాసేన యజ్జాతం ఫలమేవ చ | తేనైవ ప్రీయతాం దేవః శంకరః సుఖదాయకః",
+   "text_en": "anenaivopavāsena yajjātaṁ phalameva ca | tenaiva prīyatāṁ devaḥ śaṁkaraḥ sukhadāyakaḥ",
+   "mean_en": "'Whatever fruit has come from this fast (upavāsa), by that very fruit may the god Śaṅkara, the giver of happiness, be pleased.'",
+   "mean_te": "\"ఈ ఉపవాసం వల్ల కలిగిన ఫలంతోనే సుఖదాయకుడైన దేవుడు శంకరుడు తృప్తి చెందుగాక\" అని ప్రార్థించాలి."
+  },
+  {
+   "n": 81,
+   "text_deva": "कुले मम महादेव भजनं तेऽस्तु सर्वदा | माभूत्तस्य कुले जन्म यत्र त्वं नहि देवता",
+   "text_te": "కులే మమ మహాదేవ భజనం తేఽస్తు సర్వదా | మాభూత్తస్య కులే జన్మ యత్ర త్వం నహి దేవతా",
+   "text_en": "kule mama mahādeva bhajanaṁ te'stu sarvadā | mābhūttasya kule janma yatra tvaṁ nahi devatā",
+   "mean_en": "'O Mahādeva, may worship of you always remain in my family; may there never be a birth in that family where you are not the deity.'",
+   "mean_te": "\"హే మహాదేవా, నా కుటుంబంలో ఎల్లప్పుడూ నీ భజన ఉండాలి; నీవు దైవంగా లేని కుటుంబంలో జన్మ కలుగకూడదు\" అని వేడుకోవాలి."
+  },
+  {
+   "n": 82,
+   "text_deva": "पुष्पांजलिं समर्प्यैवं तिलकाशिष एव च | गृह्णीयाद्ब्राह्मणेभ्यश्च ततश्शंभुं विसर्जयेत्",
+   "text_te": "పుష్పాంజలిం సమర్ప్యైవం తిలకాశిష ఏవ చ | గృహ్ణీయాద్బ్రాహ్మణేభ్యశ్చ తతశ్శంభుం విసర్జయేత్",
+   "text_en": "puṣpāṁjaliṁ samarpyaivaṁ tilakāśiṣa eva ca | gṛhṇīyādbrāhmaṇebhyaśca tataśśaṁbhuṁ visarjayet",
+   "mean_en": "Having thus offered the puṣpāñjali, one should accept the tilaka and blessings from the brāhmaṇas, and then perform the visarjana (dismissal) of Śambhu.",
+   "mean_te": "ఈ విధంగా పుష్పాంజలి సమర్పించి, బ్రాహ్మణుల నుండి తిలకం మరియు ఆశీస్సులు స్వీకరించి, తర్వాత శంభువును విసర్జించాలి."
+  },
+  {
+   "n": 83,
+   "text_deva": "एवं व्रतं कृतं येन तस्माद्दूरो हरो न हि | न शक्यते फलं वक्तुं नादेयं विद्यते मम",
+   "text_te": "ఏవం వ్రతం కృతం యేన తస్మాద్దూరో హరో న హి | న శక్యతే ఫలం వక్తుం నాదేయం విద్యతే మమ",
+   "text_en": "evaṁ vrataṁ kṛtaṁ yena tasmāddūro haro na hi | na śakyate phalaṁ vaktuṁ nādeyaṁ vidyate mama",
+   "mean_en": "For one who has performed this vrata thus, Hara (Śiva) is never far away; its fruit cannot be described — nothing remains for me to say.",
+   "mean_te": "ఈ విధంగా వ్రతం ఆచరించినవాడికి హరుడు (శివుడు) దూరంగా ఉండడు; దాని ఫలాన్ని చెప్పడం సాధ్యం కాదు — నా వద్ద చెప్పడానికి మరేమీ లేదు."
+  },
+  {
+   "n": 84,
+   "text_deva": "अनायासतया चेद्वै कृतं व्रतमिदम्परम् | तस्य वै मुक्तिबीजं च जातं नात्र विचारणा",
+   "text_te": "అనాయాసతయా చేద్వై కృతం వ్రతమిదమ్పరమ్ | తస్య వై ముక్తిబీజం చ జాతం నాత్ర విచారణా",
+   "text_en": "anāyāsatayā cedvai kṛtaṁ vratamidamparam | tasya vai muktibījaṁ ca jātaṁ nātra vicāraṇā",
+   "mean_en": "If this supreme vrata is performed effortlessly (without strain), the seed of liberation (mukti-bīja) is born in that person — of this there is no doubt.",
+   "mean_te": "ఈ శ్రేష్ఠ వ్రతం కష్టం లేకుండా ఆచరించబడితే, ఆ వ్యక్తికి ముక్తి బీజం పుడుతుంది — దీనిలో ఎటువంటి సందేహం లేదు."
+  },
+  {
+   "n": 85,
+   "text_deva": "प्रतिमासं व्रतं चैव कर्तव्यं भक्तितो नरैः | उद्यापनविधिं पश्चात्कृत्वा सांगफलं लभेत्",
+   "text_te": "ప్రతిమాసం వ్రతం చైవ కర్తవ్యం భక్తితో నరైః | ఉద్యాపనవిధిం పశ్చాత్కృత్వా సాంగఫలం లభేత్",
+   "text_en": "pratimāsaṁ vrataṁ caiva kartavyaṁ bhaktito naraiḥ | udyāpanavidhiṁ paścātkṛtvā sāṁgaphalaṁ labhet",
+   "mean_en": "Every month this vrata should be performed by people with devotion; afterwards, performing the concluding rite (udyāpana), one obtains the complete fruit with all its limbs.",
+   "mean_te": "ప్రతి నెలా మనుషులు భక్తితో ఈ వ్రతం ఆచరించాలి; తర్వాత ఉద్యాపన (ముగింపు) విధానాన్ని ఆచరించి సంపూర్ణ ఫలాన్ని పొందుతారు."
+  },
+  {
+   "n": 86,
+   "text_deva": "व्रतस्य करणान्नूनं शिवोऽहं सर्वदुःखहा | दद्मि भुक्तिं च मुक्तिं च सर्वं वै वाञ्छितं फलम्",
+   "text_te": "వ్రతస్య కరణాన్నూనం శివోఽహం సర్వదుఃఖహా | దద్మి భుక్తిం చ ముక్తిం చ సర్వం వై వాఞ్ఛితం ఫలమ్",
+   "text_en": "vratasya karaṇānnūnaṁ śivo'haṁ sarvaduḥkhahā | dadmi bhuktiṁ ca muktiṁ ca sarvaṁ vai vāñchitaṁ phalam",
+   "mean_en": "For the performance of this vow, I am Śiva, the remover of all sorrows; I grant enjoyment (bhukti) and liberation (mukti), and every fruit that is desired.",
+   "mean_te": "ఈ వ్రతాన్ని ఆచరించడానికి నేను సర్వదుఃఖాలను హరించే శివుడను; భుక్తిని, ముక్తిని, కోరిన ఫలాలన్నిటినీ ఇస్తాను."
+  },
+  {
+   "n": 87,
+   "text_deva": "इति शिववचनं निशम्य विष्णुर्हिततरमद्भुतमाजगाम धाम | तदनु व्रतमुत्तमं जनेषु समचरदात्महितेषु चैतदेव",
+   "text_te": "ఇతి శివవచనం నిశమ్య విష్ణుర్హితతరమద్భుతమాజగామ ధామ | తదను వ్రతముత్తమం జనేషు సమచరదాత్మహితేషు చైతదేవ",
+   "text_en": "iti śivavacanaṁ niśamya viṣṇurhitataramadbhutamājagāma dhāma | tadanu vratamuttamaṁ janeṣu samacaradātmahiteṣu caitadeva",
+   "mean_en": "Hearing Śiva's words, Viṣṇu, for greater benefit, proceeded to that most wonderful abode; thereafter he performed that supreme vow among the people for their own welfare.",
+   "mean_te": "శివుని మాటలు విన్న విష్ణువు ఆ అద్భుతమైన ధామానికి వెళ్ళాడు; తరువాత ఆ ఉత్తమ వ్రతాన్ని జనుల హితానికై ఆచరించాడు."
+  },
+  {
+   "n": 88,
+   "text_deva": "कदाचिन्नारदायाथ शिवरात्रिव्रतन्त्विदम् | भुक्तिमुक्तिप्रदं दिव्यं कथयामास केशवः",
+   "text_te": "కదాచిన్నారదాయాథ శివరాత్రివ్రతన్త్విదమ్ | భుక్తిముక్తిప్రదం దివ్యం కథయామాస కేశవః",
+   "text_en": "kadācinnāradāyātha śivarātrivratantvidam | bhuktimuktipradaṁ divyaṁ kathayāmāsa keśavaḥ",
+   "mean_en": "Then at some time Keśava (Viṣṇu) narrated to Nārada this divine Śivarātri vow, which bestows enjoyment and liberation.",
+   "mean_te": "ఒకసారి కేశవుడు (విష్ణువు) నారదునికి భుక్తి-ముక్తులు ప్రసాదించే దివ్యమైన ఈ శివరాత్రి వ్రతాన్ని చెప్పాడు."
+  },
+  {
+   "n": 89,
+   "text_deva": "इति श्रीशिवमहापुराणे चतुर्थ्यां कोटिरुद्रसंहितायां व्याधेश्वरमाहात्म्ये शिवरात्रिव्रतमहिमनिरूपणंनामाष्टत्रिंशोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే చతుర్థ్యాం కోటిరుద్రసంహితాయాం వ్యాధేశ్వరమాహాత్మ్యే శివరాత్రివ్రతమహిమనిరూపణంనామాష్టత్రింశోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe caturthyāṁ koṭirudrasaṁhitāyāṁ vyādheśvaramāhātmye śivarātrivratamahimanirūpaṇaṁnāmāṣṭatriṁśo'dhyāyaḥ",
+   "mean_en": "Thus ends the thirty-eighth chapter, called 'Exposition of the Greatness of the Śivarātri Vow', in the Vyādheśvara Māhātmya of the Koṭirudra Saṁhitā in the Śrī Śiva Mahāpurāṇa.",
+   "mean_te": "శ్రీ శివ మహాపురాణంలో చతుర్థ కోటిరుద్ర సంహితలో వ్యాధేశ్వర మాహాత్మ్యంలో \"శివరాత్రి వ్రత మహిమ నిరూపణ\" అనే అష్టాత్రింశ (38వ) అధ్యాయం సంపూర్ణమైంది."
+  }
+ ]
+}

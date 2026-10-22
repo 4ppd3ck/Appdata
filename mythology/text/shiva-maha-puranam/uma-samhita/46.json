@@ -1,0 +1,521 @@
+{
+ "kanda": "uma-samhita",
+ "n": 46,
+ "title_deva": "महालक्ष्म्यवतारवर्णनम्",
+ "title_te": "మహాలక్ష్మ్యవతారవర్ణనమ్",
+ "title_iast": "mahālakṣmyavatāravarṇanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ऋषिरुवाच आसीद्रंभासुरो नाम दैत्यवंशशिरोमणिः | तस्माज्जातो महातेजा महिषो नाम दानवः",
+   "text_te": "ఋషిరువాచ ఆసీద్రంభాసురో నామ దైత్యవంశశిరోమణిః | తస్మాజ్జాతో మహాతేజా మహిషో నామ దానవః",
+   "text_en": "ṛṣiruvāca āsīdraṁbhāsuro nāma daityavaṁśaśiromaṇiḥ | tasmājjāto mahātejā mahiṣo nāma dānavaḥ",
+   "mean_en": "The sage said: There was once a demon named Rambha, the crown jewel of the demon lineage. From him was born the greatly radiant demon named Mahisha.",
+   "mean_te": "ఋషి అన్నాడు: రంభాసురుడు అనే రాక్షసవంశ శిరోమణి ఒకడుండెను. అతని నుండి మహాతేజస్వి అయిన మహిషుడు అనే దానవుడు జన్మించాడు."
+  },
+  {
+   "n": 2,
+   "text_deva": "स संग्रामे सुरान्सर्वान्निर्जित्य दनुजाधिपः | चकार राज्यं स्वर्लोके महेन्द्रासनसंस्थितः",
+   "text_te": "స సంగ్రామే సురాన్సర్వాన్నిర్జిత్య దనుజాధిపః | చకార రాజ్యం స్వర్లోకే మహేన్ద్రాసనసంస్థితః",
+   "text_en": "sa saṁgrāme surānsarvānnirjitya danujādhipaḥ | cakāra rājyaṁ svarloke mahendrāsanasaṁsthitaḥ",
+   "mean_en": "That lord of the demons, having defeated all the gods in battle, ruled over heaven, seated on the great throne of Indra.",
+   "mean_te": "ఆ దానవాధిపుడు యుద్ధంలో దేవతలందరినీ జయించి, ఇంద్రుని మహా సింహాసనంపై ఆసీనుడై స్వర్గలోకంలో రాజ్యం చేశాడు."
+  },
+  {
+   "n": 3,
+   "text_deva": "पराजितास्ततो देवा ब्रह्माणं शरणं ययुः | ब्रह्मापि तान्समादाय ययौ यत्र वृषाकपी",
+   "text_te": "పరాజితాస్తతో దేవా బ్రహ్మాణం శరణం యయుః | బ్రహ్మాపి తాన్సమాదాయ యయౌ యత్ర వృషాకపీ",
+   "text_en": "parājitāstato devā brahmāṇaṁ śaraṇaṁ yayuḥ | brahmāpi tānsamādāya yayau yatra vṛṣākapī",
+   "mean_en": "Defeated, the gods then went to Brahma for refuge. Brahma, taking them along, went to the presence of the bull-bannered lord Shiva.",
+   "mean_te": "పరాజితులైన దేవతలు అప్పుడు బ్రహ్మ దగ్గర శరణు వేడుకున్నారు. బ్రహ్మ వారందరినీ తీసుకొని వృషభధ్వజుడైన శివుని సన్నిధికి వెళ్లాడు."
+  },
+  {
+   "n": 4,
+   "text_deva": "तत्र गत्वा सुरास्सर्वे नत्वा शंकरकेशवौ | स्ववृत्तं कथायामासुर्यथावदनुपूर्वशः",
+   "text_te": "తత్ర గత్వా సురాస్సర్వే నత్వా శంకరకేశవౌ | స్వవృత్తం కథాయామాసుర్యథావదనుపూర్వశః",
+   "text_en": "tatra gatvā surāssarve natvā śaṁkarakeśavau | svavṛttaṁ kathāyāmāsuryathāvadanupūrvaśaḥ",
+   "mean_en": "Arriving there, all the gods bowed to Shankara (Shiva) and Keshava (Vishnu), and narrated everything that had happened to them, in due order.",
+   "mean_te": "అక్కడికి చేరిన దేవతలందరూ శంకరుని, కేశవుని నమస్కరించి, తమకు జరిగిన వృత్తాంతమంతా వరుసగా చెప్పారు."
+  },
+  {
+   "n": 5,
+   "text_deva": "भगवन्तौ वयं सर्वे महिषेण दुरात्मना | उज्जासिताश्च स्वर्लोकान्निर्जित्य समरांगणे",
+   "text_te": "భగవన్తౌ వయం సర్వే మహిషేణ దురాత్మనా | ఉజ్జాసితాశ్చ స్వర్లోకాన్నిర్జిత్య సమరాంగణే",
+   "text_en": "bhagavantau vayaṁ sarve mahiṣeṇa durātmanā | ujjāsitāśca svarlokānnirjitya samarāṁgaṇe",
+   "mean_en": "O Lords, all of us have been driven out of heaven by the wicked Mahisha after he defeated us on the battlefield.",
+   "mean_te": "భగవంతులారా! దురాత్ముడైన మహిషుడు సమరరంగంలో మనల్ని జయించి, మనందరినీ స్వర్గలోకం నుండి వెలివేశాడు."
+  },
+  {
+   "n": 6,
+   "text_deva": "भ्रमामो मर्त्यलोकेऽस्मिन्न लभेमहि शं क्वचित् | कां कां न दुर्दशां नीता देवा इन्द्रपुरोगमाः",
+   "text_te": "భ్రమామో మర్త్యలోకేఽస్మిన్న లభేమహి శం క్వచిత్ | కాం కాం న దుర్దశాం నీతా దేవా ఇన్ద్రపురోగమాః",
+   "text_en": "bhramāmo martyaloke'sminna labhemahi śaṁ kvacit | kāṁ kāṁ na durdaśāṁ nītā devā indrapurogamāḥ",
+   "mean_en": "We wander in this mortal world and find no happiness anywhere. What misfortune has not befallen us gods, with Indra at our head?",
+   "mean_te": "ఈ మర్త్యలోకంలో మేము తిరుగుతున్నాం; ఎక్కడా మేలు లభించడం లేదు. ఇంద్రుడు ముందుండగా దేవతలు ఎటువంటి దుర్దశనైనా పడలేదా?"
+  },
+  {
+   "n": 7,
+   "text_deva": "सूर्याचन्द्रमसौ पाशी कुबेरो यम एव च | इन्द्राग्निवातगन्धर्वा विद्याधरसुचारणाः",
+   "text_te": "సూర్యాచన్ద్రమసౌ పాశీ కుబేరో యమ ఏవ చ | ఇన్ద్రాగ్నివాతగన్ధర్వా విద్యాధరసుచారణాః",
+   "text_en": "sūryācandramasau pāśī kubero yama eva ca | indrāgnivātagandharvā vidyādharasucāraṇāḥ",
+   "mean_en": "The Sun and the Moon have become his captives, as have Kubera and Yama; Indra, Agni, Vayu, the Gandharvas, Vidyadharas and Charanas are all under his control.",
+   "mean_te": "సూర్యుడు, చంద్రుడు అతని బంధీలయ్యారు; కుబేరుడు, యముడు కూడా అంతే; ఇంద్రుడు, అగ్ని, వాయువు, గంధర్వులు, విద్యాధరులు, చారణులు అందరూ అతని అధీనంలో ఉన్నారు."
+  },
+  {
+   "n": 8,
+   "text_deva": "एतेषामपरेषां च विधेयं कर्म सोसुरः | स्वयं करोति पापात्मा दैत्यपक्ष भयंकर",
+   "text_te": "ఏతేషామపరేషాం చ విధేయం కర్మ సోసురః | స్వయం కరోతి పాపాత్మా దైత్యపక్ష భయంకర",
+   "text_en": "eteṣāmapareṣāṁ ca vidheyaṁ karma sosuraḥ | svayaṁ karoti pāpātmā daityapakṣa bhayaṁkara",
+   "mean_en": "That sinful demon himself performs the duties of all these and the others as well — O terror of the demon host.",
+   "mean_te": "ఈ దేవతలకు, ఇతరులకు చెందిన కర్తవ్యాలన్నీ ఆ పాపాత్ముడైన రాక్షసుడు తానే చేస్తున్నాడు; దైత్యులకు భయంకరులైన మీరు మమ్మల్ని రక్షించండి."
+  },
+  {
+   "n": 9,
+   "text_deva": "तस्माच्छरणमापन्नान्देवान्नस्त्रातुमर्हथः | वधोपायं च तस्याशु चिन्तयेथां युवां प्रभू",
+   "text_te": "తస్మాచ్ఛరణమాపన్నాన్దేవాన్నస్త్రాతుమర్హథః | వధోపాయం చ తస్యాశు చిన్తయేథాం యువాం ప్రభూ",
+   "text_en": "tasmāccharaṇamāpannāndevānnastrātumarhathaḥ | vadhopāyaṁ ca tasyāśu cintayethāṁ yuvāṁ prabhū",
+   "mean_en": "Therefore, you two Lords ought to protect us gods who have taken refuge in you; you two should quickly think of a means to slay him.",
+   "mean_te": "కాబట్టి, శరణు వేడిన మమ్మల్ని రక్షించాల్సింది మీరే; అతన్ని వధించడానికి ఉపాయాన్ని మీరిద్దరూ వెంటనే ఆలోచించండి."
+  },
+  {
+   "n": 10,
+   "text_deva": "इति देववचः श्रुत्वा दामोदरसतीश्वरौ | चक्रतुः परमं कोपं रोषाघूर्णितलोचनौ",
+   "text_te": "ఇతి దేవవచః శ్రుత్వా దామోదరసతీశ్వరౌ | చక్రతుః పరమం కోపం రోషాఘూర్ణితలోచనౌ",
+   "text_en": "iti devavacaḥ śrutvā dāmodarasatīśvarau | cakratuḥ paramaṁ kopaṁ roṣāghūrṇitalocanau",
+   "mean_en": "Hearing the words of the gods, Damodara (Vishnu) and the Lord of Sati (Shiva) became supremely wrathful, their eyes rolling with anger.",
+   "mean_te": "దేవతల ఈ మాటలు విన్న దామోదరుడు (విష్ణువు), సతీనాథుడు (శివుడు) అత్యంత కోపులతో రెచ్చిపోయారు; కోపంతో వారి కళ్లు ఘూర్ణించాయి."
+  },
+  {
+   "n": 11,
+   "text_deva": "ततोतिकोपपूर्णस्य विष्णोश्शंभोश्च वक्त्रतः | तथान्येषां च देवानां शरीरान्निर्गतं महः",
+   "text_te": "తతోతికోపపూర్ణస్య విష్ణోశ్శంభోశ్చ వక్త్రతః | తథాన్యేషాం చ దేవానాం శరీరాన్నిర్గతం మహః",
+   "text_en": "tatotikopapūrṇasya viṣṇośśaṁbhośca vaktrataḥ | tathānyeṣāṁ ca devānāṁ śarīrānnirgataṁ mahaḥ",
+   "mean_en": "Then, from the faces of Vishnu and Shambhu (Shiva), filled with intense rage, and from the bodies of the other gods too, a great radiance issued forth.",
+   "mean_te": "అప్పుడు మహా కోపంతో నిండిన విష్ణువు, శంభువు (శివుడు) ముఖాల నుండి, అలాగే ఇతర దేవతల శరీరాల నుండి కూడా మహాతేజస్సు వెలువడింది."
+  },
+  {
+   "n": 12,
+   "text_deva": "अतीव महसः पुंजं ज्वलन्तं दशदिक्षु च | अपश्यंस्त्रिदशास्सर्वे दुर्गा ध्यानपरायणाः",
+   "text_te": "అతీవ మహసః పుంజం జ్వలన్తం దశదిక్షు చ | అపశ్యంస్త్రిదశాస్సర్వే దుర్గా ధ్యానపరాయణాః",
+   "text_en": "atīva mahasaḥ puṁjaṁ jvalantaṁ daśadikṣu ca | apaśyaṁstridaśāssarve durgā dhyānaparāyaṇāḥ",
+   "mean_en": "All the gods beheld that blazing mass of supreme splendor filling the ten directions — impenetrable and motionless, as if absorbed in meditation.",
+   "mean_te": "ఆ మహాతేజస్సు పుంజం అత్యంత విశాలంగా పదులు దిక్కుల్లో జ్వలిస్తూ, చొచ్చుకుపోలేనంత గట్టిగా, ధ్యాననిరతమైనట్లు స్థిరంగా ఉందని దేవతలందరూ చూశారు."
+  },
+  {
+   "n": 13,
+   "text_deva": "सर्वदेवशरीरोत्थं तेजस्तदतिभीषणम् | संघीभूयाभवन्नारी साक्षान्महिषमर्दिनी",
+   "text_te": "సర్వదేవశరీరోత్థం తేజస్తదతిభీషణమ్ | సంఘీభూయాభవన్నారీ సాక్షాన్మహిషమర్దినీ",
+   "text_en": "sarvadevaśarīrotthaṁ tejastadatibhīṣaṇam | saṁghībhūyābhavannārī sākṣānmahiṣamardinī",
+   "mean_en": "That supremely terrible splendor, born from the bodies of all the gods, united together and became a woman — the very one who would slay Mahisha.",
+   "mean_te": "అన్ని దేవతల శరీరాల నుండి పుట్టిన ఆ అత్యంత భీకరమైన తేజస్సు ఏకమై ఒక స్త్రీగా అవతరించింది — ఆమె మహిషాసురుని సంహరించేందుకు వచ్చిన దుర్గాదేవి స్వరూపం."
+  },
+  {
+   "n": 14,
+   "text_deva": "शंभुतेजस उत्पन्नं मुखमस्याः सुभास्वरम् | याम्येन बाला अभवन्वैष्णवेन च बाहवः",
+   "text_te": "శంభుతేజస ఉత్పన్నం ముఖమస్యాః సుభాస్వరమ్ | యామ్యేన బాలా అభవన్వైష్ణవేన చ బాహవః",
+   "text_en": "śaṁbhutejasa utpannaṁ mukhamasyāḥ subhāsvaram | yāmyena bālā abhavanvaiṣṇavena ca bāhavaḥ",
+   "mean_en": "Her face, of great loveliness, was born from Shambhu's splendor; her tresses from Yama's splendor, and her arms from Vishnu's.",
+   "mean_te": "ఆ స్త్రీ ముఖం శంభువు (శివుని) తేజస్సుతో అత్యంత కాంతిమంతంగా పుట్టింది; యముని తేజస్సుతో జుట్టు, విష్ణువు తేజస్సుతో చేతులు ఏర్పడ్డాయి."
+  },
+  {
+   "n": 15,
+   "text_deva": "चन्द्रमस्तेजसा तस्याः स्तनयुग्मं व्यजायत | मध्यमे न्द्रेण जंघोरू वारुणेन बभूवतुः",
+   "text_te": "చన్ద్రమస్తేజసా తస్యాః స్తనయుగ్మం వ్యజాయత | మధ్యమే న్ద్రేణ జంఘోరూ వారుణేన బభూవతుః",
+   "text_en": "candramastejasā tasyāḥ stanayugmaṁ vyajāyata | madhyame ndreṇa jaṁghorū vāruṇena babhūvatuḥ",
+   "mean_en": "From the moon's splendor her pair of breasts was born; her waist from Indra's splendor, and her thighs and shanks from Varuna's.",
+   "mean_te": "చంద్రుని తేజస్సుతో ఆమె రొమ్ముల జంట పుట్టింది; ఇంద్రుని తేజస్సుతో నడుము, వరుణుని తేజస్సుతో తొడలు, పిక్కలు ఏర్పడ్డాయి."
+  },
+  {
+   "n": 16,
+   "text_deva": "भूतेजसा नितंबोभूद्ब्राह्मेण चरणद्वयम् | आर्केण चरणांगुल्यः करांगुल्यश्च वासवात्",
+   "text_te": "భూతేజసా నితంబోభూద్బ్రాహ్మేణ చరణద్వయమ్ | ఆర్కేణ చరణాంగుల్యః కరాంగుల్యశ్చ వాసవాత్",
+   "text_en": "bhūtejasā nitaṁbobhūdbrāhmeṇa caraṇadvayam | ārkeṇa caraṇāṁgulyaḥ karāṁgulyaśca vāsavāt",
+   "mean_en": "From the Earth's splendor her hips were formed, and her two feet from Brahma's splendor; her toes from the Sun's splendor, and the fingers of her hands from Vasava (Indra).",
+   "mean_te": "భూదేవి తేజస్సుతో ఆమె పృష్టభాగం, బ్రహ్మ తేజస్సుతో రెండు పాదాలు ఏర్పడ్డాయి; సూర్యుని తేజస్సుతో కాళ్ల వేళ్లు, ఇంద్రుని (వాసవుని) తేజస్సుతో చేతి వేళ్లు పుట్టాయి."
+  },
+  {
+   "n": 17,
+   "text_deva": "कुबेरतेजसा नासा रदनाश्च प्रजापतेः | पावकीयेन नयनत्रयं सान्ध्येन भ्रूद्वयम्",
+   "text_te": "కుబేరతేజసా నాసా రదనాశ్చ ప్రజాపతేః | పావకీయేన నయనత్రయం సాన్ధ్యేన భ్రూద్వయమ్",
+   "text_en": "kuberatejasā nāsā radanāśca prajāpateḥ | pāvakīyena nayanatrayaṁ sāndhyena bhrūdvayam",
+   "mean_en": "Her nose was born from Kubera's splendor and her teeth from Prajapati's; her eyes from Agni's fiery splendor, and her two eyebrows from Sandhya.",
+   "mean_te": "కుబేరుని తేజస్సుతో ఆమె ముక్కు, ప్రజాపతి తేజస్సుతో దంతాలు పుట్టాయి; అగ్ని తేజస్సుతో కళ్లు, సంధ్యాదేవి తేజస్సుతో రెండు కనుబొమ్మలు ఏర్పడ్డాయి."
+  },
+  {
+   "n": 18,
+   "text_deva": "आनिलेन श्रवोद्वन्द्वं तथान्येषां स्वरोकसाम् | तेजसां संभवः पद्मालया सा परमेश्वरी",
+   "text_te": "ఆనిలేన శ్రవోద్వన్ద్వం తథాన్యేషాం స్వరోకసామ్ | తేజసాం సంభవః పద్మాలయా సా పరమేశ్వరీ",
+   "text_en": "ānilena śravodvandvaṁ tathānyeṣāṁ svarokasām | tejasāṁ saṁbhavaḥ padmālayā sā parameśvarī",
+   "mean_en": "Her pair of ears was formed from the Wind-god (Vayu), and the rest of her form from the radiance of the other gods dwelling in heaven. Thus she who was born of the gods combined radiance is the supreme Goddess Parameshvari, the lotus-dwelling one.",
+   "mean_te": "పవనుని (వాయువు) నుండి ఆమె చెవుల జంట ఏర్పడింది; స్వర్గంలో నివసించే ఇతర దేవతల తేజస్సు నుండి ఆమె శరీరంలోని మిగతా భాగాలు ఏర్పడ్డాయి. దేవతల సమష్టి తేజస్సుతో జన్మించిన ఆమె పద్మాలయయైన పరమేశ్వరి."
+  },
+  {
+   "n": 19,
+   "text_deva": "ततो निखिलदेवानां तेजोराशिसमुद्भवाम् | तामालोक्य सुरास्सर्वे परं हर्षं प्रपेदिरे",
+   "text_te": "తతో నిఖిలదేవానాం తేజోరాశిసముద్భవామ్ | తామాలోక్య సురాస్సర్వే పరం హర్షం ప్రపేదిరే",
+   "text_en": "tato nikhiladevānāṁ tejorāśisamudbhavām | tāmālokya surāssarve paraṁ harṣaṁ prapedire",
+   "mean_en": "Then, seeing her who was born from the mass of the radiance of all the gods, all the gods were filled with great joy.",
+   "mean_te": "అప్పుడు అందరు దేవతల తేజరాశి నుండి జన్మించిన ఆమెను చూసి, అందరు దేవతలూ అత్యంత సంతోషానికి గురయ్యారు."
+  },
+  {
+   "n": 20,
+   "text_deva": "निरायुधां च तां दृष्ट्वा ब्रह्माद्यास्त्रिदिवेश्वराः | सायुधान्तां शिवां कर्तुं मनः सन्दधिरे सुराः",
+   "text_te": "నిరాయుధాం చ తాం దృష్ట్వా బ్రహ్మాద్యాస్త్రిదివేశ్వరాః | సాయుధాన్తాం శివాం కర్తుం మనః సన్దధిరే సురాః",
+   "text_en": "nirāyudhāṁ ca tāṁ dṛṣṭvā brahmādyāstridiveśvarāḥ | sāyudhāntāṁ śivāṁ kartuṁ manaḥ sandadhire surāḥ",
+   "mean_en": "Seeing her without weapons, Brahma and the other gods, the lords of the three worlds, resolved in their minds to make her fully armed and auspicious.",
+   "mean_te": "ఆయుధాలు లేకుండా ఉన్న ఆమెను చూసి, బ్రహ్మ మొదలైన మూడు లోకాల ప్రభువులైన దేవతలు, ఆమెకు ఆయుధాలు సమకూర్చి శుభమయమైన రూపంలో ఉంచాలని మనస్సులో నిశ్చయించుకున్నారు."
+  },
+  {
+   "n": 21,
+   "text_deva": "ततः शूलं महेशानो महेशान्यै समर्पयत | चक्रं च कृष्णो भगवाञ्च्छंखं पाशं च पाशभृत",
+   "text_te": "తతః శూలం మహేశానో మహేశాన్యై సమర్పయత | చక్రం చ కృష్ణో భగవాఞ్చ్ఛంఖం పాశం చ పాశభృత",
+   "text_en": "tataḥ śūlaṁ maheśāno maheśānyai samarpayata | cakraṁ ca kṛṣṇo bhagavāñcchaṁkhaṁ pāśaṁ ca pāśabhṛta",
+   "mean_en": "Thereupon Maheshana (Shiva) presented his trident (shula) to the great Goddess; Lord Krishna (Vishnu) gave his discus (chakra), and Varuna, the bearer of the noose, gave the conch and the noose.",
+   "mean_te": "దాంతో మహేశానుడు (శివుడు) తన శూలాన్ని మహేశ్వరికి అందజేశాడు; భగవాన్ శ్రీకృష్ణుడు (విష్ణువు) చక్రాన్ని ఇచ్చాడు; పాశభృత్తైన వరుణుడు శంఖాన్ని, పాశాన్ని ఇచ్చాడు."
+  },
+  {
+   "n": 22,
+   "text_deva": "शक्तिं हुताशनोऽयच्छन्मारुतश्चापमेव च | बाणपूर्णेषुधी चैव वज्रघण्टे शचीपतिः",
+   "text_te": "శక్తిం హుతాశనోఽయచ్ఛన్మారుతశ్చాపమేవ చ | బాణపూర్ణేషుధీ చైవ వజ్రఘణ్టే శచీపతిః",
+   "text_en": "śaktiṁ hutāśano'yacchanmārutaścāpameva ca | bāṇapūrṇeṣudhī caiva vajraghaṇṭe śacīpatiḥ",
+   "mean_en": "Fire-god Agni (Hutashana) gave the spear (shakti), the Wind-god gave the bow and a quiver full of arrows, and Indra, lord of Shachi, gave the thunderbolt (vajra) and the bell.",
+   "mean_te": "హుతాశనుడు (అగ్నిదేవుడు) శక్తి ఆయుధాన్ని ఇచ్చాడు; మారుతుడు (వాయువు) ధనుస్సును, బాణాలతో నిండిన తూణీరాన్ని ఇచ్చాడు; శచీపతియైన ఇంద్రుడు వజ్రాన్ని, ఘంటను ఇచ్చాడు."
+  },
+  {
+   "n": 23,
+   "text_deva": "यमो ददौ कालदण्डमक्षमालां प्रजापतिः | ब्रह्मा कमण्डलुं प्रादाद्रोमरश्मीन्दिवाकरः",
+   "text_te": "యమో దదౌ కాలదణ్డమక్షమాలాం ప్రజాపతిః | బ్రహ్మా కమణ్డలుం ప్రాదాద్రోమరశ్మీన్దివాకరః",
+   "text_en": "yamo dadau kāladaṇḍamakṣamālāṁ prajāpatiḥ | brahmā kamaṇḍaluṁ prādādromaraśmīndivākaraḥ",
+   "mean_en": "Yama gave the staff of death (kaladanda); Prajapati gave the rosary (akshamala); Brahma gave the water-vessel (kamandalu); and the Sun gave his resplendent hair-rays.",
+   "mean_te": "యముడు కాలదండాన్ని ఇచ్చాడు; ప్రజాపతి అక్షమాలను (మాలను) ఇచ్చాడు; బ్రహ్మ కమండలాన్ని ఇచ్చాడు; దివాకరుడు (సూర్యుడు) తేజస్సుతో కూడిన తన రోమరశ్ములను ఇచ్చాడు."
+  },
+  {
+   "n": 24,
+   "text_deva": "कालः खड्गन्ददौ तस्यै फलकं च समुज्वलम् | क्षीराब्धी रुचिरं हारमजरे च तथाम्बरे",
+   "text_te": "కాలః ఖడ్గన్దదౌ తస్యై ఫలకం చ సముజ్వలమ్ | క్షీరాబ్ధీ రుచిరం హారమజరే చ తథామ్బరే",
+   "text_en": "kālaḥ khaḍgandadau tasyai phalakaṁ ca samujvalam | kṣīrābdhī ruciraṁ hāramajare ca tathāmbare",
+   "mean_en": "Time (Kala) gave her a sword and a blazing shield; the Ocean of Milk gave a beautiful necklace and an imperishable garment.",
+   "mean_te": "కాలుడు ఖడ్గాన్ని, ఎంతో మెరుస్తున్న ఫలకాన్ని (కవచాన్ని) ఇచ్చాడు; క్షీరాబ్ధి (పాలసముద్రుడు) రమణీయమైన హారాన్ని, జీర్ణించని వస్త్రాన్ని ఇచ్చాడు."
+  },
+  {
+   "n": 25,
+   "text_deva": "चूडामणिं कुण्डले च कटकानि तथैव च | अर्द्धचन्द्रं च केयूरान्नूपुरौ च मनोहरो",
+   "text_te": "చూడామణిం కుణ్డలే చ కటకాని తథైవ చ | అర్ద్ధచన్ద్రం చ కేయూరాన్నూపురౌ చ మనోహరో",
+   "text_en": "cūḍāmaṇiṁ kuṇḍale ca kaṭakāni tathaiva ca | arddhacandraṁ ca keyūrānnūpurau ca manoharo",
+   "mean_en": "She was also given the crest-jewel (chudamani), a pair of earrings, bangles, the crescent ornament, armlets (keyuras), and lovely anklets.",
+   "mean_te": "ఆమెకు చూడామణి, కుండలాల జంట, కంకణాలు, అర్ధచంద్రాన్ని, కేయూరాలను, మనోహరమైన గజ్జెలను (నూపురాలను) అందజేశారు."
+  },
+  {
+   "n": 26,
+   "text_deva": "ग्रैवेयकमंगुलीषु समस्तास्वंगुलीयकम् | विश्वकर्मा च परशुं ददौ तस्यै मनोहरम्",
+   "text_te": "గ్రైవేయకమంగులీషు సమస్తాస్వంగులీయకమ్ | విశ్వకర్మా చ పరశుం దదౌ తస్యై మనోహరమ్",
+   "text_en": "graiveyakamaṁgulīṣu samastāsvaṁgulīyakam | viśvakarmā ca paraśuṁ dadau tasyai manoharam",
+   "mean_en": "A neck-ornament (graiveyaka) and finger-rings for all her fingers were given; and Vishvakarma gave her the charming axe (parashu).",
+   "mean_te": "గ్రైవేయకమనే కంఠాభరణం, అన్ని వేళ్లకూ ఆంగులీయకాలు (ఉంగరాలు) ఇవ్వబడ్డాయి; విశ్వకర్మ మనోహరమైన పరశువును (గొడ్డలిని) ఆమెకు ఇచ్చాడు."
+  },
+  {
+   "n": 27,
+   "text_deva": "अस्त्राण्यनेकानि तथाभेद्यं चैव तनुच्छदम् | सुरम्यसरसां मालां पङ्कजं चाम्बुधिर्ददौ",
+   "text_te": "అస్త్రాణ్యనేకాని తథాభేద్యం చైవ తనుచ్ఛదమ్ | సురమ్యసరసాం మాలాం పఙ్కజం చామ్బుధిర్దదౌ",
+   "text_en": "astrāṇyanekāni tathābhedyaṁ caiva tanucchadam | suramyasarasāṁ mālāṁ paṅkajaṁ cāmbudhirdadau",
+   "mean_en": "The Ocean gave her many weapons, an impenetrable coat of armour, a garland of lovely lake-lotuses, and a lotus.",
+   "mean_te": "అంబుధి (సముద్రుడు) అనేక ఆయుధాలను, భేదించలేని కవచాన్ని, సరసుల అందమైన తామరపుష్పాల మాలను, పద్మాన్ని ఇచ్చాడు."
+  },
+  {
+   "n": 28,
+   "text_deva": "ददौ सिंहं च हिमवान्रत्नानि विविधानि च | सुरया पूरितं पात्रं कुबेरोऽस्यै समर्पयत्",
+   "text_te": "దదౌ సింహం చ హిమవాన్రత్నాని వివిధాని చ | సురయా పూరితం పాత్రం కుబేరోఽస్యై సమర్పయత్",
+   "text_en": "dadau siṁhaṁ ca himavānratnāni vividhāni ca | surayā pūritaṁ pātraṁ kubero'syai samarpayat",
+   "mean_en": "The Himalaya (Himavan) gave her the lion as her mount and various gems; Kubera presented her a vessel filled with wine (sura).",
+   "mean_te": "హిమవాన్ (హిమాలయుడు) వాహనమైన సింహాన్ని, వివిధమైన రత్నాలను ఇచ్చాడు; కుబేరుడు సురతో (మద్యంతో) నిండిన పాత్రను ఆమెకు అందజేశాడు."
+  },
+  {
+   "n": 29,
+   "text_deva": "शेषश्च भोगिनां नेता विचित्रर चनाञ्चितम् | ददौ तस्यै नागहारं नानास्त्रमणिगुंफितम्",
+   "text_te": "శేషశ్చ భోగినాం నేతా విచిత్రర చనాఞ్చితమ్ | దదౌ తస్యై నాగహారం నానాస్త్రమణిగుంఫితమ్",
+   "text_en": "śeṣaśca bhogināṁ netā vicitrara canāñcitam | dadau tasyai nāgahāraṁ nānāstramaṇiguṁphitam",
+   "mean_en": "Shesha, the leader of the serpents, gave her a snake-garland (nagahara) of wonderful workmanship, studded with various choice gems.",
+   "mean_te": "సర్పాలకు నాయకుడైన శేషుడు, విచిత్రమైన కట్టడితో కూడిన, నానావిధ రత్నాలతో అలరారిన నాగహారాన్ని (పాముల హారాన్ని) ఆమెకు ఇచ్చాడు."
+  },
+  {
+   "n": 30,
+   "text_deva": "एतैश्चान्यैस्सुरैर्देवी भूषणैरायुधैस्तथा | सत्कृतोच्चैर्ननादासौ साट्टहासं पुनःपुनः",
+   "text_te": "ఏతైశ్చాన్యైస్సురైర్దేవీ భూషణైరాయుధైస్తథా | సత్కృతోచ్చైర్ననాదాసౌ సాట్టహాసం పునఃపునః",
+   "text_en": "etaiścānyaissurairdevī bhūṣaṇairāyudhaistathā | satkṛtoccairnanādāsau sāṭṭahāsaṁ punaḥpunaḥ",
+   "mean_en": "Honored by these and the other gods with ornaments and weapons, she again and again let out loud peals of laughter (attahasa).",
+   "mean_te": "ఈ విధంగా ఇతర దేవతల చేత ఆభరణాలతోను, ఆయుధాలతోను ఘనంగా సత్కరించబడిన ఆమె, పలుమార్లు ఉట్టహసించి నినదించింది."
+  },
+  {
+   "n": 31,
+   "text_deva": "तस्या भीषणनादेन पूरिता च नभःस्थली | प्रतिशब्दो महानासीच्चुक्षुभे भुवनत्रयम्",
+   "text_te": "తస్యా భీషణనాదేన పూరితా చ నభఃస్థలీ | ప్రతిశబ్దో మహానాసీచ్చుక్షుభే భువనత్రయమ్",
+   "text_en": "tasyā bhīṣaṇanādena pūritā ca nabhaḥsthalī | pratiśabdo mahānāsīccukṣubhe bhuvanatrayam",
+   "mean_en": "Her terrifying roar filled the sky; a mighty echo arose, and the three worlds trembled.",
+   "mean_te": "ఆమె భయంకరమైన నినాదంతో ఆకాశమంతా నిండిపోయింది; గొప్ప ప్రతిధ్వని వెలువడగా, మూడు లోకాలూ కంపించిపోయాయి."
+  },
+  {
+   "n": 32,
+   "text_deva": "चेलुः समुद्राश्चत्वारो वसुधा च चचाल ह | जयशब्दस्ततो देवैरकारि महिषार्दितैः",
+   "text_te": "చేలుః సముద్రాశ్చత్వారో వసుధా చ చచాల హ | జయశబ్దస్తతో దేవైరకారి మహిషార్దితైః",
+   "text_en": "celuḥ samudrāścatvāro vasudhā ca cacāla ha | jayaśabdastato devairakāri mahiṣārditaiḥ",
+   "mean_en": "The four oceans churned and the earth shook; then the gods tormented by Mahisha raised shouts of victory.",
+   "mean_te": "నాలుగు సముద్రాలూ ఎగసిపడ్డాయి, భూమి కదలింది; దాంతో మహిషాసురుని చేత వేధింపులు పడుతున్న దేవతలు జయనాదాలు చేశారు."
+  },
+  {
+   "n": 33,
+   "text_deva": "ततोऽम्बिकां परां शक्तिं महालक्ष्मीस्वरूपिणीम् | तुष्टुवुस्ते सुरास्सर्वे भक्तिगद्गदया गिरा",
+   "text_te": "తతోఽమ్బికాం పరాం శక్తిం మహాలక్ష్మీస్వరూపిణీమ్ | తుష్టువుస్తే సురాస్సర్వే భక్తిగద్గదయా గిరా",
+   "text_en": "tato'mbikāṁ parāṁ śaktiṁ mahālakṣmīsvarūpiṇīm | tuṣṭuvuste surāssarve bhaktigadgadayā girā",
+   "mean_en": "Then all the gods praised Ambika, the supreme Shakti who embodies Mahalakshmi, with voices choked with devotion.",
+   "mean_te": "అప్పుడు అందరు దేవతలూ, మహాలక్ష్మీస్వరూపిణియైన పరాశక్తి అంబికను, భక్తితో గద్గదించే వాణితో స్తుతించారు."
+  },
+  {
+   "n": 34,
+   "text_deva": "लोकं संक्षुब्धमालोक्य देवतापरिपन्थिनः | सन्नद्धसैनिकास्ते च समुत्तस्थुरुदायुधाः",
+   "text_te": "లోకం సంక్షుబ్ధమాలోక్య దేవతాపరిపన్థినః | సన్నద్ధసైనికాస్తే చ సముత్తస్థురుదాయుధాః",
+   "text_en": "lokaṁ saṁkṣubdhamālokya devatāparipanthinaḥ | sannaddhasainikāste ca samuttasthurudāyudhāḥ",
+   "mean_en": "Seeing the worlds thrown into turmoil, the demons, who were the tormentors of the gods, rose up with their armies fully armed and weapons lifted.",
+   "mean_te": "లోకమంతా కల్లోలపడినది చూసి, దేవతలకు ఆటంకంగా ఉన్న రాక్షసులు, తమ సైనికులతో సమసిద్ధులై, ఆయుధాలు ఎత్తుకొని లేచారు."
+  },
+  {
+   "n": 35,
+   "text_deva": "महिषोऽपि च तं शब्दमभ्यधावद्रुषान्वितः | स ददर्श ततो देवीं व्याप्तलोकत्रयां रुचा",
+   "text_te": "మహిషోఽపి చ తం శబ్దమభ్యధావద్రుషాన్వితః | స దదర్శ తతో దేవీం వ్యాప్తలోకత్రయాం రుచా",
+   "text_en": "mahiṣo'pi ca taṁ śabdamabhyadhāvadruṣānvitaḥ | sa dadarśa tato devīṁ vyāptalokatrayāṁ rucā",
+   "mean_en": "The buffalo demon Mahishasura, filled with rage, rushed toward that sound and then beheld the Goddess whose radiance filled the three worlds.",
+   "mean_te": "మహిషాసురుడు కోపంతో ఆ శబ్దం వైపు దూసుకుపోయి, ముల్లోకాలను తన తేజస్సుతో నింపే పార్వతీదేవిని చూశాడు."
+  },
+  {
+   "n": 36,
+   "text_deva": "एतस्मिन्नन्तरे तत्र महिषासुरपालिताः | समाजग्मुर्महावीराः कोटिशो धृतहेतयः",
+   "text_te": "ఏతస్మిన్నన్తరే తత్ర మహిషాసురపాలితాః | సమాజగ్ముర్మహావీరాః కోటిశో ధృతహేతయః",
+   "text_en": "etasminnantare tatra mahiṣāsurapālitāḥ | samājagmurmahāvīrāḥ koṭiśo dhṛtahetayaḥ",
+   "mean_en": "At that moment, the mighty warriors sustained by Mahishasura arrived there in crores, bearing weapons.",
+   "mean_te": "ఆ సమయంలో మహిషాసురునికి సంబంధించిన మహావీరులు, ఆయుధాలు ధరించి, కోట్ల సంఖ్యలో అక్కడికి చేరుకున్నారు."
+  },
+  {
+   "n": 37,
+   "text_deva": "चिक्षुरश्चामरोदग्रौ करालोद्धतबाष्कलाः | ताम्रोग्रास्योग्रवीर्याश्च बिडालोऽन्धक एव च",
+   "text_te": "చిక్షురశ్చామరోదగ్రౌ కరాలోద్ధతబాష్కలాః | తామ్రోగ్రాస్యోగ్రవీర్యాశ్చ బిడాలోఽన్ధక ఏవ చ",
+   "text_en": "cikṣuraścāmarodagrau karāloddhatabāṣkalāḥ | tāmrogrāsyogravīryāśca biḍālo'ndhaka eva ca",
+   "mean_en": "Chikshura and Chamara with their lofty hoods, Karala brandishing his fierce Bashkala, Tamra with terrible face and dreadful valor, Bidala and Andhaka as well.",
+   "mean_te": "చిక్షురుడు, ఎత్తైన తలలతో చామరుడు, భీకరమైన బాష్కలుడు, ఘోరమైన ముఖం మరియు భయంకరమైన వీర్యం కలిగిన తామ్రుడు, బిడాలుడు, అంధకుడు కూడా."
+  },
+  {
+   "n": 38,
+   "text_deva": "दुर्धरो दुर्मुखश्चैव त्रिनेत्रश्च महाहनुः | एते चान्ये च बहवः शूरा युद्धविशा रदाः",
+   "text_te": "దుర్ధరో దుర్ముఖశ్చైవ త్రినేత్రశ్చ మహాహనుః | ఏతే చాన్యే చ బహవః శూరా యుద్ధవిశా రదాః",
+   "text_en": "durdharo durmukhaścaiva trinetraśca mahāhanuḥ | ete cānye ca bahavaḥ śūrā yuddhaviśā radāḥ",
+   "mean_en": "Durdhara, Durmukha, Trinetra and Mahahanu, and many other heroes skilled in warfare, with vast armies.",
+   "mean_te": "దుర్ధరుడు, దుర్ముఖుడు, త్రినేత్రుడు, మహాహనువు మరియు యుద్ధంలో నైపుణ్యం కలిగిన మరెన్నో వీరులు, విశాలమైన సైన్యాలతో ఉన్నారు."
+  },
+  {
+   "n": 39,
+   "text_deva": "युयुधुः समरे देव्या सह शस्त्रास्त्रपारगाः | इत्थं कालो व्यतीयाय युध्यतोर्भीषणस्तयोः",
+   "text_te": "యుయుధుః సమరే దేవ్యా సహ శస్త్రాస్త్రపారగాః | ఇత్థం కాలో వ్యతీయాయ యుధ్యతోర్భీషణస్తయోః",
+   "text_en": "yuyudhuḥ samare devyā saha śastrāstrapāragāḥ | itthaṁ kālo vyatīyāya yudhyatorbhīṣaṇastayoḥ",
+   "mean_en": "Those masters of weapons and missiles fought together with the Goddess. Thus, as those two fought fearsomely, time passed by.",
+   "mean_te": "ఆయుధ అస్త్ర నిపుణులు పార్వతీదేవితో కలిసి యుద్ధం చేశారు. ఆ ఇద్దరు భీకరంగా యుద్ధం చేస్తుండగా, కాలం గడిచిపోయింది."
+  },
+  {
+   "n": 40,
+   "text_deva": "अरिवर्गकरक्षिप्ता नानाशस्त्रास्त्रराशयः | महामायाप्रभावेण विफला अभवन् क्षणात्",
+   "text_te": "అరివర్గకరక్షిప్తా నానాశస్త్రాస్త్రరాశయః | మహామాయాప్రభావేణ విఫలా అభవన్ క్షణాత్",
+   "text_en": "arivargakarakṣiptā nānāśastrāstrarāśayaḥ | mahāmāyāprabhāveṇa viphalā abhavan kṣaṇāt",
+   "mean_en": "The various weapons and missiles hurled by the host of enemies became futile in a moment by the power of Mahamaya.",
+   "mean_te": "శత్రువులు విసిరిన అనేక ఆయుధాలు మరియు అస్త్రాలు, మహామాయ శక్తి వల్ల క్షణాల్లోనే ఫలించకుండా పోయాయి."
+  },
+  {
+   "n": 41,
+   "text_deva": "ततो जघान सा देवी चिक्षुरप्रमुखानरीन् | सगणान्गदया बाणैः शूलशक्तिपरश्वधैः",
+   "text_te": "తతో జఘాన సా దేవీ చిక్షురప్రముఖానరీన్ | సగణాన్గదయా బాణైః శూలశక్తిపరశ్వధైః",
+   "text_en": "tato jaghāna sā devī cikṣurapramukhānarīn | sagaṇāngadayā bāṇaiḥ śūlaśaktiparaśvadhaiḥ",
+   "mean_en": "Then the Goddess slew Chikshura and other heroes with arrows, mace, trident, spear and axe, along with her own armies (ganas).",
+   "mean_te": "అప్పుడు పార్వతీదేవి తన గణాలతో కలిసి, బాణాలు, గద, త్రిశూలం, శూలం, శక్తి, పరశువులతో చిక్షురుడు మొదలైన వీరులను చంపింది."
+  },
+  {
+   "n": 42,
+   "text_deva": "एवं स्वीयेषु सैन्येषु हतेषु महिषासुरः | देवीनिःश्वाससंभूतान्भावयामास तान्गणान्",
+   "text_te": "ఏవం స్వీయేషు సైన్యేషు హతేషు మహిషాసురః | దేవీనిఃశ్వాససంభూతాన్భావయామాస తాన్గణాన్",
+   "text_en": "evaṁ svīyeṣu sainyeṣu hateṣu mahiṣāsuraḥ | devīniḥśvāsasaṁbhūtānbhāvayāmāsa tāngaṇān",
+   "mean_en": "When his own armies were thus slain, Mahishasura, in his fury, assailed the hosts born of the Goddess's breath (the Devi's ganas).",
+   "mean_te": "తన సైన్యం ఇలా చంపబడటంతో, మహిషాసురుడు కోపంతో పార్వతీదేవి ఉచ్ఛ్వాసలతో పుట్టిన గణాలను దాడి చేశాడు."
+  },
+  {
+   "n": 43,
+   "text_deva": "अताडयत्सरैः काश्चित्काश्चिच्छृङ्गद्वयेन च | लांगूलेन च तुण्डेन भिनत्ति स्म मुहुर्मुहुः",
+   "text_te": "అతాడయత్సరైః కాశ్చిత్కాశ్చిచ్ఛృఙ్గద్వయేన చ | లాంగూలేన చ తుణ్డేన భినత్తి స్మ ముహుర్ముహుః",
+   "text_en": "atāḍayatsaraiḥ kāścitkāścicchṛṅgadvayena ca | lāṁgūlena ca tuṇḍena bhinatti sma muhurmuhuḥ",
+   "mean_en": "Some he struck down with arrows, others with his two horns; again and again he pierced them with his tail and muzzle (snout).",
+   "mean_te": "కొందరిని బాణాలతోనూ, మరి కొందరిని తన రెండు పొడవాటి కొమ్ములతోనూ కొట్టాడు. తోక మరియు నోటితో వారిని బారిన పడేలా చేస్తూనే ఉన్నాడు."
+  },
+  {
+   "n": 44,
+   "text_deva": "इत्थं देवीगणा न्हत्वाभ्यधावत्सोऽसुराधिपः | सिंहं मारयितुन्देव्यास्ततोऽसौ कुपिताऽभवत्",
+   "text_te": "ఇత్థం దేవీగణా న్హత్వాభ్యధావత్సోఽసురాధిపః | సింహం మారయితున్దేవ్యాస్తతోఽసౌ కుపితాఽభవత్",
+   "text_en": "itthaṁ devīgaṇā nhatvābhyadhāvatso'surādhipaḥ | siṁhaṁ mārayitundevyāstato'sau kupitā'bhavat",
+   "mean_en": "Thus the leader of the Asuras, after slaying the Devi's host, attacked; the Devi's lion was killed by him, and thereupon she (or her agent) grew furious.",
+   "mean_te": "ఈ విధంగా దేవి సైన్యాన్ని చంపి, ఆ అసుర నాయకుడు దండెత్తి వచ్చి, పార్వతీదేవి సింహాన్ని చంపేశాడు. దాంతో దేవి మహా కోపోద్రిక్తురాలైంది."
+  },
+  {
+   "n": 45,
+   "text_deva": "कोपात्सोपि महावीर्यः खुरकुट्टितभूतलः | शृङ्गाभ्यां शैलमुत्पाट्य चिक्षेप प्रणनाद च",
+   "text_te": "కోపాత్సోపి మహావీర్యః ఖురకుట్టితభూతలః | శృఙ్గాభ్యాం శైలముత్పాట్య చిక్షేప ప్రణనాద చ",
+   "text_en": "kopātsopi mahāvīryaḥ khurakuṭṭitabhūtalaḥ | śṛṅgābhyāṁ śailamutpāṭya cikṣepa praṇanāda ca",
+   "mean_en": "Enraged, that greatly valorous one (Mahishasura) pounded the earth with his hooves, tore up a mountain with his horns and hurled it, roaring loudly.",
+   "mean_te": "కోపంతో ఆ మహావీరుడు (మహిషాసురుడు) గుర్రపు గిట్టలతో భూమిని తోసి, కొమ్ములతో ఒక పర్వతాన్ని పెకలించి విసిరి, ఘోరంగా గర్జించాడు."
+  },
+  {
+   "n": 46,
+   "text_deva": "वेगेन विष्वग् भ्रमता प्रक्षिप्ता गुरवोऽद्रयः | आकाशतो महीमध्ये निपेतुर्नृपसत्तम",
+   "text_te": "వేగేన విష్వగ్ భ్రమతా ప్రక్షిప్తా గురవోఽద్రయః | ఆకాశతో మహీమధ్యే నిపేతుర్నృపసత్తమ",
+   "text_en": "vegena viṣvag bhramatā prakṣiptā guravo'drayaḥ | ākāśato mahīmadhye nipeturnṛpasattama",
+   "mean_en": "The massive mountains hurled with great speed, whirling everywhere, fell from the sky onto the middle of the earth, O best of kings.",
+   "mean_te": "అతి వేగంగా విసిరిన ఆ భారీ పర్వతాలు, నలుదిక్కూ తిరుగుతూ, ఆకాశం నుండి భూమి మధ్యలో పడిపోయాయి, ఓ రాజా! రాజులలో శ్రేష్ఠుడు!"
+  },
+  {
+   "n": 47,
+   "text_deva": "शृंगभिन्नाः पयोवाहाः खण्डं खण्डमयासिषुः | लांगूलेनाहतश्चाब्धिर्विष्वगुद्वेलमस्पदत्",
+   "text_te": "శృంగభిన్నాః పయోవాహాః ఖణ్డం ఖణ్డమయాసిషుః | లాంగూలేనాహతశ్చాబ్ధిర్విష్వగుద్వేలమస్పదత్",
+   "text_en": "śṛṁgabhinnāḥ payovāhāḥ khaṇḍaṁ khaṇḍamayāsiṣuḥ | lāṁgūlenāhataścābdhirviṣvagudvelamaspadat",
+   "mean_en": "Streams of water (clouds/rivers) were split into pieces by the horns' blows; the ocean, struck by his tail, heaved everywhere with swelling waves.",
+   "mean_te": "కొమ్ముల దెబ్బలతో నీటి ప్రవాహాలు ముక్కలుముక్కలైయ్యాయి; తోకతో కొట్టబడిన సముద్రుడు, పెరిగిన అలలతో నలుదిక్కూ ఎగసిపడుతున్నాడు."
+  },
+  {
+   "n": 48,
+   "text_deva": "एवं क्रुद्धं समालोक्य महिषासुरमम्बिका | विदधे तद्वधोपायं देवानामभयंकरी",
+   "text_te": "ఏవం క్రుద్ధం సమాలోక్య మహిషాసురమమ్బికా | విదధే తద్వధోపాయం దేవానామభయంకరీ",
+   "text_en": "evaṁ kruddhaṁ samālokya mahiṣāsuramambikā | vidadhe tadvadhopāyaṁ devānāmabhayaṁkarī",
+   "mean_en": "Seeing him thus enraged, Ambika (Parvati) devised a countermeasure, the bestower of fearlessness upon the gods.",
+   "mean_te": "ఇలా కోపోద్రిక్తుడిని చూసి, అంబిక (పార్వతీదేవి) దేవతలకు అభయం కలిగించే ప్రతివాదాన్ని ఆలోచించింది."
+  },
+  {
+   "n": 49,
+   "text_deva": "ततः पाशं समुत्थाय क्षिप्त्वा तस्योपरी श्वरी | बबन्ध महिषं सोऽपि रूपन्तत्याज माहिषम्",
+   "text_te": "తతః పాశం సముత్థాయ క్షిప్త్వా తస్యోపరీ శ్వరీ | బబన్ధ మహిషం సోఽపి రూపన్తత్యాజ మాహిషమ్",
+   "text_en": "tataḥ pāśaṁ samutthāya kṣiptvā tasyoparī śvarī | babandha mahiṣaṁ so'pi rūpantatyāja māhiṣam",
+   "mean_en": "Then taking up her noose, the Goddess (Ishvari) cast it over him and bound Mahishasura; he then abandoned his buffalo form, casting it off.",
+   "mean_te": "అప్పుడు పాశం (పావుడు) తీసుకున్న పార్వతీదేవి, అతనిపై విసిరి, మహిషాసురుడిని బంధించింది. అతడు వెంటనే మహిష రూపాన్ని విడనాడి, వేరొక రూపాన్ని ధరించాడు."
+  },
+  {
+   "n": 50,
+   "text_deva": "ततः सिंहो बभूवाशु मायावी तच्छिरोम्बिका | यावद्भिनत्ति तावत्स खङ्गपाणिर्बभूव ह",
+   "text_te": "తతః సింహో బభూవాశు మాయావీ తచ్ఛిరోమ్బికా | యావద్భినత్తి తావత్స ఖఙ్గపాణిర్బభూవ హ",
+   "text_en": "tataḥ siṁho babhūvāśu māyāvī tacchirombikā | yāvadbhinatti tāvatsa khaṅgapāṇirbabhūva ha",
+   "mean_en": "Thereupon he swiftly became a lion; that illusionist, when she split (or severed) it, instantly became a man with sword in hand.",
+   "mean_te": "వెంటనే అతడు సింహమయ్యాడు; ఆ మాయావి ఆ సింహాన్ని దేవి ఖండించగానే, ఖడ్గం చేతబూనిన మనిషిగా మారాడు."
+  },
+  {
+   "n": 51,
+   "text_deva": "सचर्म्मासिकरं तं च देवी बाणैरताडयत् | ततो गजवपुर्भूत्वा सिंहं चिच्छेद शुण्डया",
+   "text_te": "సచర్మ్మాసికరం తం చ దేవీ బాణైరతాడయత్ | తతో గజవపుర్భూత్వా సింహం చిచ్ఛేద శుణ్డయా",
+   "text_en": "sacarmmāsikaraṁ taṁ ca devī bāṇairatāḍayat | tato gajavapurbhūtvā siṁhaṁ ciccheda śuṇḍayā",
+   "mean_en": "The Goddess struck that one bearing sword and shield with her arrows; then becoming an elephant, he cut down the lion with his trunk.",
+   "mean_te": "ఖడ్గం మరియు కవచం ధరించిన ఆ మనిషిని పార్వతీదేవి బాణాలతో కొట్టింది. వెంటనే ఏనుగు రూపం ధరించిన అతడు, తన తొండంతో సింహాన్ని చించేశాడు."
+  },
+  {
+   "n": 52,
+   "text_deva": "ततोऽस्य च करं देवी चकर्त स्वमहासिना | अधारि च पुना रूपं स्वकीयं तेन रक्षसा",
+   "text_te": "తతోఽస్య చ కరం దేవీ చకర్త స్వమహాసినా | అధారి చ పునా రూపం స్వకీయం తేన రక్షసా",
+   "text_en": "tato'sya ca karaṁ devī cakarta svamahāsinā | adhāri ca punā rūpaṁ svakīyaṁ tena rakṣasā",
+   "mean_en": "The Goddess then cut off Mahishasura's hand with her great sword, and with it the demon restored his own natural form. He immediately threw the three worlds, with all moving and unmoving beings, into commotion.",
+   "mean_te": "అప్పుడు దేవీ పార్వతీదేవి తన మహా ఖడ్గంతో మహిషాసురుని చేతులు కోసింది; అది చూసి రాక్షసుడు తన అసలు రూపాన్ని తిరిగి ధరించాడు. వెంటనే అతడు చరాచరమైన మున్నీడ మూడు లోకాలను కదిలించి కుదిపేసాడు."
+  },
+  {
+   "n": 53,
+   "text_deva": "तदैव क्षोभयामास त्रैलोक्यं सचराचरम् | ततः क्रुद्धा महामाया चण्डिका मानविक्रमा",
+   "text_te": "తదైవ క్షోభయామాస త్రైలోక్యం సచరాచరమ్ | తతః క్రుద్ధా మహామాయా చణ్డికా మానవిక్రమా",
+   "text_en": "tadaiva kṣobhayāmāsa trailokyaṁ sacarācaram | tataḥ kruddhā mahāmāyā caṇḍikā mānavikramā",
+   "mean_en": "Thereupon the wrathful Mahamaya Chandika, who humbles the pride of men, drank the wine again and again, her eyes agitated and smiling, while the asura too, puffed up with pride of strength and valour, roared.",
+   "mean_te": "అప్పుడు మహిషాసుర మదమణిచే మహామాయ చండికాదేవి కోపంతో మళ్ళీ మళ్ళీ మద్యం పానం చేసింది; ఆమె కళ్ళు ఉత్కంఠతో నవ్వుతూ ఉండగా, బలపరాక్రమ గర్వంతో ఉక్కిరిబిక్కిరి పడిన ఆ రాక్షసుడు కూడా గర్జించాడు."
+  },
+  {
+   "n": 54,
+   "text_deva": "पपौ पुनःपुनः पानं जहासोद्भ्रान्तलोचना | जगर्ज चासुरः सोऽपि बलवीर्यमदो द्धतः",
+   "text_te": "పపౌ పునఃపునః పానం జహాసోద్భ్రాన్తలోచనా | జగర్జ చాసురః సోఽపి బలవీర్యమదో ద్ధతః",
+   "text_en": "papau punaḥpunaḥ pānaṁ jahāsodbhrāntalocanā | jagarja cāsuraḥ so'pi balavīryamado ddhataḥ",
+   "mean_en": "The enraged asura tore up a mountain peak and hurled it upon the Goddess. She swiftly pulverised it with a shower of her arrows.",
+   "mean_te": "కోపోద్దీప్తుడైన ఆ రాక్షసుడు ఒక పర్వత శిఖరాన్ని పెకలించి దేవిపై కూడుకున్నాడు. ఆమె తక్షణమే తన బాణాల వర్షంతో దాన్ని పొడిచేసింది."
+  },
+  {
+   "n": 55,
+   "text_deva": "तस्या उपरि चिक्षेप शैलानुत्पाट्य सोऽसुरः | सा च बाणावलीघातैश्चूर्णयामास सत्वरम्",
+   "text_te": "తస్యా ఉపరి చిక్షేప శైలానుత్పాట్య సోఽసురః | సా చ బాణావలీఘాతైశ్చూర్ణయామాస సత్వరమ్",
+   "text_en": "tasyā upari cikṣepa śailānutpāṭya so'suraḥ | sā ca bāṇāvalīghātaiścūrṇayāmāsa satvaram",
+   "mean_en": "Intoxicated with wine, his face flushed and senses bewildered, Mahishasura spoke to the supreme Goddess in a voice deep as thunder.",
+   "mean_te": "మద్యం మత్తుతో ముఖం ఎరుపెక్కి ఇంద్రియాలు కలవరించిన మహిషాసురుడు మేఘనాదం వంటి గంభీరమైన స్వరంతో పరమేశ్వరి అయిన ఆ దేవితో మాట్లాడాడు."
+  },
+  {
+   "n": 56,
+   "text_deva": "वारुणीमद्रसं जातमुखरागाऽऽकुलेन्द्रिया | प्रोवाच परमेशानी मेघगंभीरया गिरा",
+   "text_te": "వారుణీమద్రసం జాతముఖరాగాఽఽకులేన్ద్రియా | ప్రోవాచ పరమేశానీ మేఘగంభీరయా గిరా",
+   "text_en": "vāruṇīmadrasaṁ jātamukharāgā''kulendriyā | provāca parameśānī meghagaṁbhīrayā girā",
+   "mean_en": "The Goddess replied: \"O deluded fool, O senseless wretch, why do you strive in vain? No asuras have ever endured before my pride in this world of three worlds.\"",
+   "mean_te": "దేవి సమాధానమిచ్చింది: \"ఓ మూర్ఖుడా, ఓ బుద్ధిహీనుడా, వ్యర్థంగా ఎందుకు అలా హఠం చేస్తున్నావు? ఈ మూడు లోకాలలో నా మదం ఎదుట ఎటువంటి రాక్షసులూ నిలవలేదు.\""
+  },
+  {
+   "n": 57,
+   "text_deva": "देव्युवाच रे मूढ रे हतप्रज्ञ व्यर्थ किं कुरुषे हठम् | न मदग्रेऽसुराः केपि स्थास्नवो जगतीत्रये",
+   "text_te": "దేవ్యువాచ రే మూఢ రే హతప్రజ్ఞ వ్యర్థ కిం కురుషే హఠమ్ | న మదగ్రేఽసురాః కేపి స్థాస్నవో జగతీత్రయే",
+   "text_en": "devyuvāca re mūḍha re hataprajña vyartha kiṁ kuruṣe haṭham | na madagre'surāḥ kepi sthāsnavo jagatītraye",
+   "mean_en": "Speaking thus, the Goddess who consists of all the arts (kalas) fought the rishi-demon; stepping on the asura and seizing him by the neck with her fierce trident, she pierced him.",
+   "mean_te": "అలా అని పలికిన ఆ సర్వకళామయి అయిన దేవి ఆ అసురునితో యుద్ధం చేసింది; అతనిపై పాదం వేసి, కంఠాన్ని అందుకొని తన ఘోరమైన శూలంతో కుట్టి బాధించింది."
+  },
+  {
+   "n": 58,
+   "text_deva": "ऋषि रुवाच एकमाभाष्य कूर्दित्वा देवी सर्वकलामयी | पदाक्रम्यासुरं कण्ठे शूलेनोग्रेण साऽभिनत्",
+   "text_te": "ఋషి రువాచ ఏకమాభాష్య కూర్దిత్వా దేవీ సర్వకలామయీ | పదాక్రమ్యాసురం కణ్ఠే శూలేనోగ్రేణ సాఽభినత్",
+   "text_en": "ṛṣi ruvāca ekamābhāṣya kūrditvā devī sarvakalāmayī | padākramyāsuraṁ kaṇṭhe śūlenogreṇa sā'bhinat",
+   "mean_en": "With the trident planted in his neck, the demon, half-emerging from his own mouth, was enveloped by the Goddess's power. Half-emerged, the mighty demon continued fighting.",
+   "mean_te": "శూలం కంఠంలో నాటుకొనిన ఆ రాక్షసుడు తన నోటి నుండి సగం బయటకు వస్తూ దేవి శక్తిచే ఆవరించబడ్డాడు. సగం బయటకు వచ్చిన ఆ మహాబలుడు యుద్ధాన్ని కొనసాగించాడు."
+  },
+  {
+   "n": 59,
+   "text_deva": "ततस्तच्चरणाक्रान्तस्स स्वकीयमुखात्ततः | अर्द्धनिष्क्रान्त एवासीद्देव्या वीर्येण संवृतः",
+   "text_te": "తతస్తచ్చరణాక్రాన్తస్స స్వకీయముఖాత్తతః | అర్ద్ధనిష్క్రాన్త ఏవాసీద్దేవ్యా వీర్యేణ సంవృతః",
+   "text_en": "tatastaccaraṇākrāntassa svakīyamukhāttataḥ | arddhaniṣkrānta evāsīddevyā vīryeṇa saṁvṛtaḥ",
+   "mean_en": "Then with her great sword the Goddess split his head, and he fell upon the surface of the earth.",
+   "mean_te": "అప్పుడు దేవి తన మహా ఖడ్గంతో ఆ రాక్షసుని శిరస్సు చీల్చింది; అతడు భూమి మీద పడిపోయాడు."
+  },
+  {
+   "n": 60,
+   "text_deva": "अर्द्धनिष्क्रान्त एवासौ युध्यमानो महाधमः | महासिना शिरो भित्त्वा न्यपाति धरणीतले",
+   "text_te": "అర్ద్ధనిష్క్రాన్త ఏవాసౌ యుధ్యమానో మహాధమః | మహాసినా శిరో భిత్త్వా న్యపాతి ధరణీతలే",
+   "text_en": "arddhaniṣkrānta evāsau yudhyamāno mahādhamaḥ | mahāsinā śiro bhittvā nyapāti dharaṇītale",
+   "mean_en": "Then, crying \"Save us! Save us!\", his terrified demon followers turned away from the battlefield and fled, crying \"Alas, alas!\".",
+   "mean_te": "అప్పుడు \"రక్షించు, రక్షించు\" అని అరుస్తూ, \"అయ్యో, అయ్యో\" అనుకుంటూ ఆ రాక్షసుని భయభ్రాంత అనుచరులు యుద్ధభూమి నుండి పారిపోయారు."
+  },
+  {
+   "n": 61,
+   "text_deva": "हाहाशब्दं समुच्चार्य्यावाङ्मुखास्तद्गणास्ततः | पलायन्त रणाद्भीतास्त्राहित्राहीति वादिनः",
+   "text_te": "హాహాశబ్దం సముచ్చార్య్యావాఙ్ముఖాస్తద్గణాస్తతః | పలాయన్త రణాద్భీతాస్త్రాహిత్రాహీతి వాదినః",
+   "text_en": "hāhāśabdaṁ samuccāryyāvāṅmukhāstadgaṇāstataḥ | palāyanta raṇādbhītāstrāhitrāhīti vādinaḥ",
+   "mean_en": "Thereupon all the gods, with Indra at their head, praised the Goddess. The Gandharvas sang aloud, and the people skilled in dancing danced.",
+   "mean_te": "అప్పుడు ఇంద్రుడు మొదలైన సకల దేవతలు ఆ దేవిని స్తుతించారు. గంధర్వులు పాటలు పాడారు, నృత్యం తెలిసినవారు నాట్యం చేశారు."
+  },
+  {
+   "n": 62,
+   "text_deva": "तुष्टुवुश्च तदा देवीमिन्द्राद्याः सकलाः सुराः | गन्धर्वा गीतमुच्चेरुर्ननृतुर्नर्तकीजनाः",
+   "text_te": "తుష్టువుశ్చ తదా దేవీమిన్ద్రాద్యాః సకలాః సురాః | గన్ధర్వా గీతముచ్చేరుర్ననృతుర్నర్తకీజనాః",
+   "text_en": "tuṣṭuvuśca tadā devīmindrādyāḥ sakalāḥ surāḥ | gandharvā gītamuccerurnanṛturnartakījanāḥ",
+   "mean_en": "Thus, O King, the birth of Mahalakshmi has been told to you. Now hear, with a composed mind, the origin of Saraswati.",
+   "mean_te": "ఓ రాజా, ఇలా మహాలక్ష్మి అవతారం నీకు చెప్పబడింది. ఇప్పుడు స్థిర చిత్తుడివై సరస్వతీదేవి ఉద్భవాన్ని విను."
+  },
+  {
+   "n": 63,
+   "text_deva": "एवन्ते कथितो राजन्महालक्ष्म्याः समुद्भवः | सरस्वत्यास्तथोत्पत्तिं शृणु सुस्थेन चेतसा",
+   "text_te": "ఏవన్తే కథితో రాజన్మహాలక్ష్మ్యాః సముద్భవః | సరస్వత్యాస్తథోత్పత్తిం శృణు సుస్థేన చేతసా",
+   "text_en": "evante kathito rājanmahālakṣmyāḥ samudbhavaḥ | sarasvatyāstathotpattiṁ śṛṇu susthena cetasā",
+   "mean_en": "Thus, O King, the birth of Mahalakshmi has been told to you. Now hear, with a composed mind, the origin of Saraswati.",
+   "mean_te": "ఓ రాజా, ఇలా మహాలక్ష్మి ఉద్భవం నీకు వర్ణించబడింది. ఇప్పుడు ప్రశాంత మనసుతో సరస్వతీదేవి జన్మ వృత్తాంతాన్ని విను."
+  },
+  {
+   "n": 64,
+   "text_deva": "इति श्रीशिवमहापुराणे पञ्चम्यामुमासंहितायां महिषासुरवधोपाख्याने महालक्ष्म्यवतारवर्णनं नाम षट्चत्वारिंशोऽध्यायः",
+   "text_te": "ఇతి శ్రీశివమహాపురాణే పఞ్చమ్యాముమాసంహితాయాం మహిషాసురవధోపాఖ్యానే మహాలక్ష్మ్యవతారవర్ణనం నామ షట్చత్వారింశోఽధ్యాయః",
+   "text_en": "iti śrīśivamahāpurāṇe pañcamyāmumāsaṁhitāyāṁ mahiṣāsuravadhopākhyāne mahālakṣmyavatāravarṇanaṁ nāma ṣaṭcatvāriṁśo'dhyāyaḥ",
+   "mean_en": "Thus ends the forty-sixth chapter, named 'the description of the Mahalakshmi avatara', within the episode of the slaying of Mahishasura, in the fifth Uma Samhita of the glorious Shiva Mahapurana.",
+   "mean_te": "శ్రీ శివ మహాపురాణంలో ఐదవ ఉమాసంహితలో మహిషాసుర వధోపాఖ్యానంలో 'మహాలక్ష్మీవతార వర్ణనం' అనే యాభై ఆరవ (46వ) అధ్యాయం సమాప్తమైంది."
+  }
+ ]
+}

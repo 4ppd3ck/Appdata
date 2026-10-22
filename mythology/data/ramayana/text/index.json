@@ -1,0 +1,54 @@
+{
+ "base": "https://raw.githubusercontent.com/4ppd3ck/Appdata/main/mythology/text",
+ "sections": {
+  "aranya-kanda": {
+   "archive": "ramayana-aranya-kanda.zip",
+   "bytes": 705287,
+   "sha256": "8bbc13ebfed5df07250271aaf7c40f6b028e3c54d74829481a043ae6380f9a7f",
+   "version": "20261022",
+   "sargas": 75
+  },
+  "ayodhya-kanda": {
+   "archive": "ramayana-ayodhya-kanda.zip",
+   "bytes": 1209781,
+   "sha256": "a87342a22bcd20e20ead4c883ee6ec4b2b3f4d0f155fe2a03543ae3bbfdee3db",
+   "version": "20261022",
+   "sargas": 119
+  },
+  "bala-kanda": {
+   "archive": "ramayana-bala-kanda.zip",
+   "bytes": 617010,
+   "sha256": "7811c4ce9f5f6e04184cbc387a58fbe0e1366da28bcf2702b677ac2b1969e2f0",
+   "version": "20261022",
+   "sargas": 77
+  },
+  "kishkindha-kanda": {
+   "archive": "ramayana-kishkindha-kanda.zip",
+   "bytes": 701712,
+   "sha256": "f16eccacb4347a3e57a122bcdee656d6331e4a2dfe940ae91ce83ba730e1fcfa",
+   "version": "20261022",
+   "sargas": 67
+  },
+  "sundara-kanda": {
+   "archive": "ramayana-sundara-kanda.zip",
+   "bytes": 767493,
+   "sha256": "064b24df30ff8c64800c3aa01bd0f0b4aee38ce27d17fbff29e1209966369319",
+   "version": "20261022",
+   "sargas": 68
+  },
+  "uttara-kanda": {
+   "archive": "ramayana-uttara-kanda.zip",
+   "bytes": 30954,
+   "sha256": "b3af5d3ff3c3f9edf6f5d538d27a68ce97c09bcb35057ba499d8ff1466ddfa95",
+   "version": "20261022",
+   "sargas": 18
+  },
+  "yuddha-kanda": {
+   "archive": "ramayana-yuddha-kanda.zip",
+   "bytes": 1563095,
+   "sha256": "bcafb95ece3b8cc21a61ec0a02798f8bc50cc2b327efbd809064b8f1ac1efda7",
+   "version": "20261022",
+   "sargas": 131
+  }
+ }
+}

@@ -1,6 +1,6 @@
 // genmanifest — catalogs an app's dataset folder in the Appdata repo.
 //
-// Walks <root>/<appid>/ (skipping audio/, index.json and dot-files), records
+// Walks <root>/<appid>/ (skipping audio/, text/, index.json and dot-files), records
 // each file's size and sha256 into index.json, and optionally packs the same
 // files into data.zip for one-shot first-start bootstrap:
 //
@@ -91,8 +91,9 @@ func main() {
 		name := filepath.ToSlash(rel)
 		if d.IsDir() {
 			// audio/ holds the per-catalog audio archives (their own
-			// index.json + .partN system) — never part of the data manifest.
-			if strings.EqualFold(name, "audio") || strings.HasPrefix(name, ".") {
+			// index.json + .partN system) and text/ the per-section text
+			// packs — hosting trees, never part of the data manifest.
+			if strings.EqualFold(name, "audio") || strings.EqualFold(name, "text") || strings.HasPrefix(name, ".") {
 				return filepath.SkipDir
 			}
 			return nil
