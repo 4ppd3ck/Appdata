@@ -10,6 +10,9 @@ mythology/    data.zip + index.json verse JSON (Itihasas) — bootstrapped on fi
 vedic/        data.zip + index.json stotra/tarot JSON + audio catalogs — bootstrapped
               audio/*.zip           recited-audio archives (on-demand download)
 devops-dojo/  vendor/**             offline pyodide + js-yaml runtime libraries
+investment/   countries/*.js        per-country reference DBs (InvestmentExplorer's
+                                     window.COUNTRY_DB layer; fetch+eval from the
+                                     app's Country-DB source switch — no bootstrap)
 ```
 
 `tools/genmanifest` regenerates each `index.json` (and with `-zip`, the
