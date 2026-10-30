@@ -1,0 +1,250 @@
+{
+ "epics": {
+  "devi-bhagavatam": {
+   "id": "devi-bhagavatam",
+   "name": {
+    "en": "Devi Bhagavata Mahapurana",
+    "te": "దేవీ భాగవత మహాపురాణం"
+   },
+   "author": {
+    "en": "Veda Vyasa",
+    "te": "వేద వ్యాసుడు"
+   },
+   "unitLabel": {
+    "en": "Skandha",
+    "te": "స్కందం"
+   },
+   "labels": {
+    "sargaWord": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "sargaLabel": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "allSargas": {
+     "en": "All chapters",
+     "te": "అన్ని అధ్యాయాలు"
+    },
+    "browseSargas": {
+     "en": "Read by chapter",
+     "te": "అధ్యాయాలు చదవండి"
+    },
+    "sargasAvailable": {
+     "en": "chapters · read the whole khanda",
+     "te": "అధ్యాయాలు · పూర్తి ఖండాన్ని చదవండి"
+    },
+    "talePick": {
+     "en": "Open a chapter to read its tale as a flowing story.",
+     "te": "ఒక అధ్యాయాన్ని తెరిచి దాని కథను చదవండి."
+    },
+    "prevSarga": {
+     "en": "← Prev chapter",
+     "te": "← మునుపటి అధ్యాయం"
+    },
+    "nextSarga": {
+     "en": "Next chapter →",
+     "te": "తరువాతి అధ్యాయం →"
+    }
+   },
+   "sections": [
+    {
+     "id": "mahatmya",
+     "n": 1,
+     "name": {
+      "en": "Mahatmya",
+      "te": "మాహాత్మ్యం"
+     },
+     "title": {
+      "en": "The glories of Devi",
+      "te": "దేవీ మహిమ"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-01",
+     "n": 2,
+     "name": {
+      "en": "Prathama Skandha",
+      "te": "ప్రథమ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 1 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 1వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-02",
+     "n": 3,
+     "name": {
+      "en": "Dvitiya Skandha",
+      "te": "ద్వితీయ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 2 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 2వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-03",
+     "n": 4,
+     "name": {
+      "en": "Tritiya Skandha",
+      "te": "తృతీయ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 3 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 3వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-04",
+     "n": 5,
+     "name": {
+      "en": "Chaturtha Skandha",
+      "te": "చతుర్థ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 4 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 4వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-05",
+     "n": 6,
+     "name": {
+      "en": "Panchama Skandha",
+      "te": "పంచమ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 5 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 5వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-06",
+     "n": 7,
+     "name": {
+      "en": "Shashtha Skandha",
+      "te": "షష్ఠ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 6 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 6వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-07",
+     "n": 8,
+     "name": {
+      "en": "Saptama Skandha",
+      "te": "సప్తమ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 7 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 7వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-08",
+     "n": 9,
+     "name": {
+      "en": "Ashtama Skandha",
+      "te": "అష్టమ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 8 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 8వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-09",
+     "n": 10,
+     "name": {
+      "en": "Navama Skandha",
+      "te": "నవమ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 9 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 9వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-10",
+     "n": 11,
+     "name": {
+      "en": "Dasama Skandha",
+      "te": "దశమ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 10 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 10వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-11",
+     "n": 12,
+     "name": {
+      "en": "Ekadasa Skandha",
+      "te": "ఏకాదశ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 11 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 11వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "skandha-12",
+     "n": 13,
+     "name": {
+      "en": "Dvadasa Skandha",
+      "te": "ద్వాదశ స్కందం"
+     },
+     "title": {
+      "en": "Skandha 12 of the Devi Bhagavata",
+      "te": "దేవీ భాగవత 12వ స్కందం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,289 @@
+{
+ "kanda": "gita",
+ "n": 13,
+ "title_deva": "त्रयोदशोऽध्यायः – क्षेत्रक्षेत्रज्ञविभागयोगः",
+ "title_te": "త్రయోదశోఽధ్యాయః – క్షేత్రక్షేత్రజ్ఞవిభాగయోగః",
+ "title_iast": "trayōdaśō:’dhyāyaḥ – kṣētrakṣētrajñavibhāgayōgaḥ",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "अर्जुन उवाच | प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च | एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव",
+   "text_te": "అర్జున ఉవాచ | ప్రకృతిం పురుషం చైవ క్షేత్రం క్షేత్రజ్ఞమేవ చ | ఏతద్వేదితుమిచ్ఛామి జ్ఞానం జ్ఞేయం చ కేశవ",
+   "text_en": "arjuna uvāca | prakr̥tiṁ puruṣaṁ caiva kṣētraṁ kṣētrajñamēva ca | ētadvēditumicchāmi jñānaṁ jñēyaṁ ca kēśava",
+   "mean_en": "Arjuna says: \"I desire to know, O Arisudana, what nature and what the Purusha are, what the field and the knower of the field are, and what knowledge and its object are.\"",
+   "mean_te": "అర్జునుడు ఇలా అడిగాడు: కేశవా! ప్రకృతి, పురుషుడు, క్షేత్రము, క్షేత్రజ్ఞుడు, జ్ఞానము మరియు జ్ఞేయము (తెలుసుకోదగినది)… వీటి గురించి నేను వివరంగా తెలుసుకోవాలని కోరుకుంటున్నాను."
+  },
+  {
+   "n": 2,
+   "text_deva": "श्रीभगवानुवाच | इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते | एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः",
+   "text_te": "శ్రీభగవానువాచ | ఇదం శరీరం కౌంతేయ క్షేత్రమిత్యభిధీయతే | ఏతద్యో వేత్తి తం ప్రాహుః క్షేత్రజ్ఞ ఇతి తద్విదః",
+   "text_en": "śrībhagavānuvāca | idaṁ śarīraṁ kauntēya kṣētramityabhidhīyatē | ētadyō vētti taṁ prāhuḥ kṣētrajña iti tadvidaḥ",
+   "mean_en": "Krishna says: \"This body, O son of Kunti, is called the field; him who knows it the wise call the knower of the field.",
+   "mean_te": "శ్రీ భగవానుడు పలికెను: ఓ కౌంతేయా! ఈ శరీరమే ‘క్షేత్రము’ (పొలము) అని పిలవబడుతుంది. ఈ శరీరాన్ని ఎవరైతే తెలుసుకుంటారో (నేను దీనికంటే భిన్నమైన వాడిని అని గ్రహిస్తారో), వారిని జ్ఞానులు ‘క్షేత్రజ్ఞుడు’ అని పిలుస్తారు."
+  },
+  {
+   "n": 3,
+   "text_deva": "क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत | क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत् तज्ज्ञानं मतं मम",
+   "text_te": "క్షేత్రజ్ఞం చాపి మాం విద్ధి సర్వక్షేత్రేషు భారత | క్షేత్రక్షేత్రజ్ఞయోర్జ్ఞానం యత్ తజ్జ్ఞానం మతం మమ",
+   "text_en": "kṣētrajñaṁ cāpi māṁ viddhi sarvakṣētrēṣu bhārata | kṣētrakṣētrajñayōrjñānaṁ yat tajjñānaṁ mataṁ mama",
+   "mean_en": "\"And know Me as the knower of the field in every field, O Bharata. The knowledge of field and knower of the field — that I hold to be true knowledge.",
+   "mean_te": "ఓ భారతా! సమస్త శరీరాలలో (క్షేత్రములలో) ఉన్న క్షేత్రజ్ఞుడిని నేనే అని తెలుసుకో. క్షేత్రము మరియు క్షేత్రజ్ఞుడికి మధ్య ఉన్న తేడాను తెలుసుకోవడమే నిజమైన ‘జ్ఞానము’ అని నా అభిప్రాయం."
+  },
+  {
+   "n": 4,
+   "text_deva": "तत् क्षेत्रं यच्च यादृक् च यद्विकारि यतश्च यत् | स च यो यत् प्रभावश्च तत् समासेन मे शृणु",
+   "text_te": "తత్ క్షేత్రం యచ్చ యాదృక్ చ యద్వికారి యతశ్చ యత్ | స చ యో యత్ ప్రభావశ్చ తత్ సమాసేన మే శృణు",
+   "text_en": "tat kṣētraṁ yacca yādr̥k ca yadvikāri yataśca yat | sa ca yō yat prabhāvaśca tat samāsēna mē śr̥ṇu",
+   "mean_en": "\"What that field is, what its nature, what its modifications, and from what and of what it is; and who He is and what His powers — hear it briefly from Me in summary.",
+   "mean_te": "ఆ క్షేత్రము అంటే ఏమిటి? దాని స్వభావం ఎలాంటిది? అందులో కలిగే మార్పులేమిటి? అది దేని నుండి పుట్టింది? అలాగే ఆ క్షేత్రజ్ఞుడు ఎవరు? ఆయన ప్రభావం ఏమిటి? వీటన్నింటినీ సంక్షిప్తంగా నా ద్వారా విను."
+  },
+  {
+   "n": 5,
+   "text_deva": "ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् | ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः",
+   "text_te": "ఋషిభిర్బహుధా గీతం ఛందోభిర్వివిధైః పృథక్ | బ్రహ్మసూత్రపదైశ్చైవ హేతుమద్భిర్వినిశ్చితైః",
+   "text_en": "r̥ṣibhirbahudhā gītaṁ chandōbhirvividhaiḥ pr̥thak | brahmasūtrapadaiścaiva hētumadbhirviniścitaiḥ",
+   "mean_en": "\"It has been sung by sages in many ways, in distinct verses of many kinds, with reasoned arguments of the Brahmasutras.",
+   "mean_te": "ఈ విషయాలను ఎందరో ఋషులు పలు విధాలుగా గానం చేశారు. వివిధ వేద మంత్రాలలో, అలాగే హేతుబద్ధమైన బ్రహ్మసూత్ర పదాలలో కూడా ఇవి నిరూపించబడ్డాయి."
+  },
+  {
+   "n": 6,
+   "text_deva": "महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च | इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः",
+   "text_te": "మహాభూతాన్యహంకారో బుద్ధిరవ్యక్తమేవ చ | ఇంద్రియాణి దశైకం చ పంచ చేంద్రియగోచరాః",
+   "text_en": "mahābhūtānyahaṅkārō buddhiravyaktamēva ca | indriyāṇi daśaikaṁ ca pañca cēndriyagōcarāḥ",
+   "mean_en": "\"The great elements, self-sense, intellect and the unmanifest; the ten senses and the one (mind), and the five objects of the senses,",
+   "mean_te": "మహాపంచభూతాలు (పృథివి, ఆపః, తేజస్సు, వాయువు, ఆకాశం), అహంకారము, బుద్ధి, అవ్యక్తము (మాయ), పది ఇంద్రియాలు, మనస్సు, ఐదు ఇంద్రియ విషయాలు (శబ్ద, స్పర్శ, రూప, రస, గంధాలు)…"
+  },
+  {
+   "n": 7,
+   "text_deva": "इच्छा द्वेषः सुखं दुःखं सङ्घातश्चेतना धृतिः | एतत्‍ क्षेत्रं समासेन सविकारमुदाहृतम्",
+   "text_te": "ఇచ్ఛా ద్వేషః సుఖం దుఃఖం సంఘాతశ్చేతనా ధృతిః | ఏతత్‍ క్షేత్రం సమాసేన సవికారముదాహృతమ్",
+   "text_en": "icchā dvēṣaḥ sukhaṁ duḥkhaṁ saṅghātaścētanā dhr̥tiḥ | ētat- kṣētraṁ samāsēna savikāramudāhr̥tam",
+   "mean_en": "\"desire, aversion, pleasure, pain, the aggregate (the body), sentience and fortitude — this, in brief, is the field with its modifications.",
+   "mean_te": "… మరియు ఇచ్ఛ, ద్వేషము, సుఖము, దుఃఖము, ఈ శరీర సంఘాతము (దేహం), చేతన, ధృతి (ధైర్యం) – వీటన్నింటి కలయికనే వికారాలతో కూడిన ‘క్షేత్రము’ అంటారు."
+  },
+  {
+   "n": 8,
+   "text_deva": "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् | आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः",
+   "text_te": "అమానిత్వమదంభిత్వమహింసా క్షాంతిరార్జవమ్ | ఆచార్యోపాసనం శౌచం స్థైర్యమాత్మవినిగ్రహః",
+   "text_en": "amānitvamadambhitvamahiṁsā kṣāntirārjavam | ācāryōpāsanaṁ śaucaṁ sthairyamātmavinigrahaḥ",
+   "mean_en": "\"Humility, unpretentiousness, non-violence, forgiveness, uprightness, service of the teacher, purity, steadfastness, self-restraint,",
+   "mean_te": "గర్వం లేకపోవటం (అమానిత్వము), డాంబికం లేకపోవటం, అహింస, ఓర్పు, నిష్కపటమైన ప్రవర్తన (ఆర్జవము), గురువును సేవించటం, బాహ్య అంతరంగ శుద్ధి, స్థిరత్వం, మనోనిగ్రహం…"
+  },
+  {
+   "n": 9,
+   "text_deva": "इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च | जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्",
+   "text_te": "ఇంద్రియార్థేషు వైరాగ్యమనహంకార ఏవ చ | జన్మమృత్యుజరావ్యాధిదుఃఖదోషానుదర్శనమ్",
+   "text_en": "indriyārthēṣu vairāgyamanahaṅkāra ēva ca | janmamr̥tyujarāvyādhiduḥkhadōṣānudarśanam",
+   "mean_en": "\"dispassion toward sense-objects, absence of self-sense, seeing the evil of birth, death, old age, disease and sorrow,",
+   "mean_te": "… ఇంద్రియ విషయాల పట్ల వైరాగ్యం, అహంకారం లేకపోవటం, జన్మ-మృత్యు-జర-వ్యాధి-దుఃఖములలోని దోషాలను గుర్తించటం…"
+  },
+  {
+   "n": 10,
+   "text_deva": "असक्तिरनभिष्वङ्गः पुत्रदारगृहादिषु | नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु",
+   "text_te": "అసక్తిరనభిష్వంగః పుత్రదారగృహాదిషు | నిత్యం చ సమచిత్తత్వమిష్టానిష్టోపపత్తిషు",
+   "text_en": "asaktiranabhiṣvaṅgaḥ putradāragr̥hādiṣu | nityaṁ ca samacittatvamiṣṭāniṣṭōpapattiṣu",
+   "mean_en": "\"non-attachment, no clinging to son, wife, home and the rest, and constant evenness of mind amid desired and undesired events,",
+   "mean_te": "… పుత్రులు, భార్య, ఇల్లు మొదలైన వాటిపై అతిగా ఆసక్తి లేకపోవటం, అనుకూల పరిస్థితులు వచ్చినా ప్రతికూల పరిస్థితులు ఎదురైనా ఎప్పుడూ సమచిత్తంతో ఉండటం – ఇవే జ్ఞానానికి లక్షణాలు."
+  },
+  {
+   "n": 11,
+   "text_deva": "मयि चानन्ययोगेन भक्तिरव्यभिचारिणी | विविक्तदेशसेवित्वमरतिर्जनसंसदि",
+   "text_te": "మయి చానన్యయోగేన భక్తిరవ్యభిచారిణీ | వివిక్తదేశసేవిత్వమరతిర్జనసంసది",
+   "text_en": "mayi cānanyayōgēna bhaktiravyabhicāriṇī | viviktadēśasēvitvamaratirjanasaṁsadi",
+   "mean_en": "\"undiverted devotion to Me in the yoga of single-mindedness, dwelling in secluded places, distaste for the crowd of men,",
+   "mean_te": "నా యందు అనన్యమైన, ఏకాగ్రతతో కూడిన భక్తిని కలిగి ఉండటం; ఏకాంత ప్రదేశాలలో నివసించడానికి ఇష్టపడటం; ప్రాపంచిక విషయాల గురించి చర్చించే జనసమూహాల పట్ల ఆసక్తి లేకపోవటం…"
+  },
+  {
+   "n": 12,
+   "text_deva": "अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् | एतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोऽन्यथा",
+   "text_te": "అధ్యాత్మజ్ఞాననిత్యత్వం తత్త్వజ్ఞానార్థదర్శనమ్ | ఏతజ్జ్ఞానమితి ప్రోక్తమజ్ఞానం యదతోఽన్యథా",
+   "text_en": "adhyātmajñānanityatvaṁ tattvajñānārthadarśanam | ētajjñānamiti prōktamajñānaṁ yadatō:’nyathā",
+   "mean_en": "\"constancy in the knowledge of the Self, seeing the truth of the knowable — this is called knowledge; what is against it is ignorance.",
+   "mean_te": "… నిరంతరం ఆత్మజ్ఞానం పట్ల ఆసక్తిని కలిగి ఉండటం, పరమార్థ తత్త్వాన్ని తెలుసుకోవడం లక్ష్యంగా పెట్టుకోవడం – వీటన్నింటిని కలిపి ‘జ్ఞానము’ అంటారు. దీనికి భిన్నమైనదంతా ‘అజ్ఞానము’."
+  },
+  {
+   "n": 13,
+   "text_deva": "ज्ञेयं यत् तत् प्रवक्ष्यामि यज्ज्ञात्वामृतमश्नुते | अनादिमत् परं ब्रह्म न सत् तन्नासदुच्यते",
+   "text_te": "జ్ఞేయం యత్ తత్ ప్రవక్ష్యామి యజ్జ్ఞాత్వామృతమశ్నుతే | అనాదిమత్ పరం బ్రహ్మ న సత్ తన్నాసదుచ్యతే",
+   "text_en": "jñēyaṁ yat tat pravakṣyāmi yajjñātvāmr̥tamaśnutē | anādimat paraṁ brahma na sat tannāsaducyatē",
+   "mean_en": "\"I shall declare that which is to be known, knowing which one attains immortality: the beginningless supreme Brahman — neither being called existent nor non-existent.",
+   "mean_te": "దేనిని తెలుసుకుంటే మనిషి మోక్షాన్ని (అమృతత్వాన్ని) పొందుతాడో, ఆ ‘జ్ఞేయము’ గురించి చెబుతాను విను. అది ఆది లేనిది, శ్రేష్ఠమైనది అయిన పరబ్రహ్మము. అది భౌతికమైన ‘సత్తు’ కాదు, అలాగని శూన్యమైన ‘అసత్తు’ కూడా కాదు (అది రెండింటికీ అతీతమైనది)."
+  },
+  {
+   "n": 14,
+   "text_deva": "सर्वतः पाणिपादं तत् सर्वतोऽक्षिशिरोमुखम् | सर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति",
+   "text_te": "సర్వతః పాణిపాదం తత్ సర్వతోఽక్షిశిరోముఖమ్ | సర్వతః శ్రుతిమల్లోకే సర్వమావృత్య తిష్ఠతి",
+   "text_en": "sarvataḥ pāṇipādaṁ tat sarvatō:’kṣiśirōmukham | sarvataḥ śrutimallōkē sarvamāvr̥tya tiṣṭhati",
+   "mean_en": "\"With hands and feet everywhere, with eyes, heads and faces everywhere, with hearing everywhere in the world — That stands pervading all.",
+   "mean_te": "ఆ పరమాత్మకు అన్ని వైపులా చేతులు, కాళ్లు ఉన్నాయి. అన్ని వైపులా కళ్లు, తలలు, ముఖాలు ఉన్నాయి. ఆ తత్త్వము లోకమంతా చెవులు కలిగి ఉంది. అది అంతటా వ్యాపించి నిలిచి ఉంది."
+  },
+  {
+   "n": 15,
+   "text_deva": "सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् | असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च",
+   "text_te": "సర్వేంద్రియగుణాభాసం సర్వేంద్రియవివర్జితమ్ | అసక్తం సర్వభృచ్చైవ నిర్గుణం గుణభోక్తృ చ",
+   "text_en": "sarvēndriyaguṇābhāsaṁ sarvēndriyavivarjitam | asaktaṁ sarvabhr̥ccaiva nirguṇaṁ guṇabhōktr̥ ca",
+   "mean_en": "\"Shining with the functions of all the senses, yet free from all senses; unattached, upholding all; without gunas, yet experiencing the gunas.",
+   "mean_te": "ఆ పరమాత్మ సమస్త ఇంద్రియాల గుణాలను ప్రకాశింపజేస్తాడు (ఇంద్రియాలు ఆయన వల్లే పనిచేస్తాయి), కానీ ఆయనకు ఇంద్రియాలు లేవు. ఆయన దేనికీ అంటుకోడు (అసక్తుడు), కానీ సమస్తాన్ని భరిస్తాడు. ఆయన నిర్గుణుడు (గుణాలు లేనివాడు), కానీ ప్రకృతి గుణాలను అనుభవించేవాడు (భోక్త)."
+  },
+  {
+   "n": 16,
+   "text_deva": "बहिरन्तश्च भूतानामचरं चरमेव च | सूक्ष्मत्वात् तदविज्ञेयं दूरस्थं चान्तिके च तत्",
+   "text_te": "బహిరంతశ్చ భూతానామచరం చరమేవ చ | సూక్ష్మత్వాత్ తదవిజ్ఞేయం దూరస్థం చాంతికే చ తత్",
+   "text_en": "bahirantaśca bhūtānāmacaraṁ caramēva ca | sūkṣmatvāt tadavijñēyaṁ dūrasthaṁ cāntikē ca tat",
+   "mean_en": "\"Outside and within all beings, unmoving and yet moving; too subtle to be known — far away and yet near.",
+   "mean_te": "ఆయన సమస్త భూతాలకు (ప్రాణులకు) బయటా ఉన్నాడు, లోపలా ఉన్నాడు. కదిలే ప్రాణులలోనూ, కదలని చరాచర జగత్తులోనూ ఆయనే ఉన్నాడు. అత్యంత సూక్ష్మమైనది కావటం వల్ల ఆయన సామాన్యులకు తెలియడు. ఆయన ఎక్కడో దూరంగా ఉన్నట్లు అనిపిస్తాడు, కానీ వాస్తవానికి మనకు అత్యంత దగ్గరలో ఉన్నాడు."
+  },
+  {
+   "n": 17,
+   "text_deva": "अविभक्तं च भूतेषु विभक्तमिव च स्थितम् | भूतभर्तृ च तत्ज्ञेयं ग्रसिष्णु प्रभविष्णु च",
+   "text_te": "అవిభక్తం చ భూతేషు విభక్తమివ చ స్థితమ్ | భూతభర్తృ చ తత్జ్ఞేయం గ్రసిష్ణు ప్రభవిష్ణు చ",
+   "text_en": "avibhaktaṁ ca bhūtēṣu vibhaktamiva ca sthitam | bhūtabhartr̥ ca tatjñēyaṁ grasiṣṇu prabhaviṣṇu ca",
+   "mean_en": "\"Undivided, yet standing as if divided in beings; to be known as the upholder of beings, the devourer and the producer.",
+   "mean_te": "ఆ పరమాత్మ విడిపోకుండా అంతటా ఉన్నా, ప్రాణులలో విడివిడిగా ఉన్నట్లు కనిపిస్తాడు. ఆ తెలుసుకోదగిన తత్త్వమే ప్రాణులను పోషించేది (భర్తృ), ప్రళయకాలంలో మింగివేసేది (గ్రసిష్ణు), సృష్టికాలంలో మళ్లీ పుట్టించేది (ప్రభవిష్ణు)."
+  },
+  {
+   "n": 18,
+   "text_deva": "ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते | ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम्",
+   "text_te": "జ్యోతిషామపి తజ్జ్యోతిస్తమసః పరముచ్యతే | జ్ఞానం జ్ఞేయం జ్ఞానగమ్యం హృది సర్వస్య విష్ఠితమ్",
+   "text_en": "jyōtiṣāmapi tajjyōtistamasaḥ paramucyatē | jñānaṁ jñēyaṁ jñānagamyaṁ hr̥di sarvasya viṣṭhitam",
+   "mean_en": "\"That is the light even of lights, said to be beyond darkness; knowledge, the knowable, reached by knowledge, seated in the heart of all.",
+   "mean_te": "ఆయన వెలుగునిచ్చే సూర్యచంద్రాదులకు కూడా వెలుగునిచ్చే పరమ జ్యోతి. చీకటి (అజ్ఞానం) కంటే అతీతమైనవాడు. ఆయనే జ్ఞానము, ఆయనే జ్ఞానము ద్వారా తెలుసుకోదగినవాడు (జ్ఞేయం), ఆయనే జ్ఞానము ద్వారా పొందదగినవాడు. ఆయన అందరి హృదయాలలో అంతర్యామిగా నివసించి ఉన్నాడు."
+  },
+  {
+   "n": 19,
+   "text_deva": "इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः | मद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते",
+   "text_te": "ఇతి క్షేత్రం తథా జ్ఞానం జ్ఞేయం చోక్తం సమాసతః | మద్భక్త ఏతద్విజ్ఞాయ మద్భావాయోపపద్యతే",
+   "text_en": "iti kṣētraṁ tathā jñānaṁ jñēyaṁ cōktaṁ samāsataḥ | madbhakta ētadvijñāya madbhāvāyōpapadyatē",
+   "mean_en": "\"Thus I have declared in brief the field, knowledge and the knowable. Knowing this, My devotee becomes fit for My state of being.",
+   "mean_te": "ఈ విధంగా క్షేత్రము, జ్ఞానము మరియు జ్ఞేయము గురించి సంక్షిప్తంగా వివరించాను. నా భక్తుడు దీనిని గ్రహించి, నా స్వరూపాన్ని (మద్భావాయ) పొందడానికి అర్హుడవుతాడు."
+  },
+  {
+   "n": 20,
+   "text_deva": "प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि | विकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान्",
+   "text_te": "ప్రకృతిం పురుషం చైవ విద్ధ్యనాదీ ఉభావపి | వికారాంశ్చ గుణాంశ్చైవ విద్ధి ప్రకృతిసంభవాన్",
+   "text_en": "prakr̥tiṁ puruṣaṁ caiva viddhyanādī ubhāvapi | vikārāṁśca guṇāṁścaiva viddhi prakr̥tisambhavān",
+   "mean_en": "\"Know that nature and the Purusha are both beginningless; and know that modifications and the gunas arise from nature.",
+   "mean_te": "ప్రకృతిని, పురుషుడిని (జీవుడిని) కూడా ఆది లేని వారిగా (అనాది) తెలుసుకో. శరీరంలోని వికారాలు (మార్పులు), త్రిగుణాలు (సత్వ, రజ, తమో గుణాలు) అన్నీ ప్రకృతి నుండి పుట్టినవని గ్రహించు."
+  },
+  {
+   "n": 21,
+   "text_deva": "कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते | पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते",
+   "text_te": "కార్యకారణకర్తృత్వే హేతుః ప్రకృతిరుచ్యతే | పురుషః సుఖదుఃఖానాం భోక్తృత్వే హేతురుచ్యతే",
+   "text_en": "kāryakāraṇakartr̥tvē hētuḥ prakr̥tirucyatē | puruṣaḥ sukhaduḥkhānāṁ bhōktr̥tvē hēturucyatē",
+   "mean_en": "\"Nature is said to be the cause of body, instruments and doership; the Purusha is said to be the cause of the experiencing of pleasure and pain.",
+   "mean_te": "శరీరం మరియు ఇంద్రియాల ద్వారా పనులు జరగడానికి (కార్యకారణకర్తృత్వే) ‘ప్రకృతి’ కారణమని చెప్పబడుతుంది. కానీ ఆ పనుల వల్ల కలిగే సుఖదుఃఖాలను అనుభవించడంలో (భోక్తృత్వే) ‘పురుషుడు’ (జీవుడు) కారణమని చెప్పబడుతుంది."
+  },
+  {
+   "n": 22,
+   "text_deva": "पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान् गुणान् | कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु",
+   "text_te": "పురుషః ప్రకృతిస్థో హి భుంక్తే ప్రకృతిజాన్ గుణాన్ | కారణం గుణసంగోఽస్య సదసద్యోనిజన్మసు",
+   "text_en": "puruṣaḥ prakr̥tisthō hi bhuṅktē prakr̥tijān guṇān | kāraṇaṁ guṇasaṅgō:’sya sadasadyōnijanmasu",
+   "mean_en": "\"For the Purusha standing in nature experiences the gunas born of nature; attachment to the gunas is the cause of his birth in wombs good and evil.",
+   "mean_te": "ప్రకృతిలో ఉన్న పురుషుడు (జీవాత్మ), ప్రకృతి నుండి పుట్టిన త్రిగుణాలను (సత్వ, రజ, తమో గుణాలు) అనుభవిస్తాడు. ఈ గుణాలతో పెట్టుకునే సంబంధమే (సంగమే) ఈ జీవుడు మంచి, చెడు యోనులలో (జన్మలలో) పుట్టడానికి ప్రధాన కారణం."
+  },
+  {
+   "n": 23,
+   "text_deva": "उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः | परमात्मेति चाप्युक्तो देहेऽस्मिन् पुरुषः परः",
+   "text_te": "ఉపద్రష్టానుమంతా చ భర్తా భోక్తా మహేశ్వరః | పరమాత్మేతి చాప్యుక్తో దేహేఽస్మిన్ పురుషః పరః",
+   "text_en": "upadraṣṭānumantā ca bhartā bhōktā mahēśvaraḥ | paramātmēti cāpyuktō dēhē:’smin puruṣaḥ paraḥ",
+   "mean_en": "\"The supreme Purusha in this body is called the witness, the permitter, the supporter, the experiencer, the great Lord, and the supreme Self.",
+   "mean_te": "ఈ దేహంలో ఉన్నప్పటికీ పరమాత్మ విలక్షణమైనవాడు. ఆయన సాక్షిగా చూసేవాడు (ఉపద్రష్ట), పనులకు సమ్మతించేవాడు (అనుమంతా), సర్వానికి ఆధారం (భర్తా), అనుభవించేవాడు (భోక్తా), మహేశ్వరుడు. ఆయనే ఈ దేహంలో ఉన్న ‘పరమ పురుషుడు’ లేదా ‘పరమాత్మ’."
+  },
+  {
+   "n": 24,
+   "text_deva": "य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह | सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते",
+   "text_te": "య ఏవం వేత్తి పురుషం ప్రకృతిం చ గుణైః సహ | సర్వథా వర్తమానోఽపి న స భూయోఽభిజాయతే",
+   "text_en": "ya ēvaṁ vētti puruṣaṁ prakr̥tiṁ ca guṇaiḥ saha | sarvathā vartamānō:’pi na sa bhūyō:’bhijāyatē",
+   "mean_en": "\"He who thus knows the Purusha and nature together with the gunas — however he lives, he is not born again.",
+   "mean_te": "ఎవరైతే ఈ విధంగా పురుషుడిని, గుణాలతో కూడిన ప్రకృతిని సరిగ్గా తెలుసుకుంటారో… వారు ప్రస్తుతానికి ఏ స్థితిలో ఉన్నప్పటికీ (కర్మలు చేస్తున్నప్పటికీ), మళ్ళీ పునర్జన్మను పొందరు (మోక్షాన్ని పొందుతారు)."
+  },
+  {
+   "n": 25,
+   "text_deva": "ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना | अन्ये साङ्ख्येन योगेन कर्मयोगेन चापरे",
+   "text_te": "ధ్యానేనాత్మని పశ్యంతి కేచిదాత్మానమాత్మనా | అన్యే సాంఖ్యేన యోగేన కర్మయోగేన చాపరే",
+   "text_en": "dhyānēnātmani paśyanti kēcidātmānamātmanā | anyē sāṅkhyēna yōgēna karmayōgēna cāparē",
+   "mean_en": "\"Some see the Self in the self by meditation in the self; others by the Sankhya yoga, and others by the yoga of action.",
+   "mean_te": "కొందరు ధ్యానం ద్వారా తమలో తాము ఆత్మను దర్శిస్తారు. మరికొందరు సాంఖ్య యోగం (జ్ఞాన మార్గం) ద్వారా, ఇంకొందరు నిష్కామ కర్మ యోగం ద్వారా ఆత్మను తెలుసుకుంటారు."
+  },
+  {
+   "n": 26,
+   "text_deva": "अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते | तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः",
+   "text_te": "అన్యే త్వేవమజానంతః శ్రుత్వాన్యేభ్య ఉపాసతే | తేఽపి చాతితరంత్యేవ మృత్యుం శ్రుతిపరాయణాః",
+   "text_en": "anyē tvēvamajānantaḥ śrutvānyēbhya upāsatē | tē:’pi cātitarantyēva mr̥tyuṁ śrutiparāyaṇāḥ",
+   "mean_en": "\"And others, not knowing thus, worship, having heard it from others; they too, devoted to hearing, cross beyond death.",
+   "mean_te": "ఇవేవీ తెలియని మరికొందరు, జ్ఞానుల ద్వారా విని (శ్రవణం) ఆరాధిస్తారు. కేవలం ఇతరుల ద్వారా విన్నదానిపై నమ్మకం ఉంచి ఉపాసించే వారు కూడా మృత్యురూప సంసారాన్ని తప్పక దాటుతారు."
+  },
+  {
+   "n": 27,
+   "text_deva": "यावत् सञ्जायते किञ्चित् सत्त्वं स्थावरजङ्गमम् | क्षेत्रक्षेत्रज्ञसम्योगात् तद्विद्धि भरतर्षभ",
+   "text_te": "యావత్ సంజాయతే కించిత్ సత్త్వం స్థావరజంగమమ్ | క్షేత్రక్షేత్రజ్ఞసంయోగాత్ తద్విద్ధి భరతర్షభ",
+   "text_en": "yāvat sañjāyatē kiñcit sattvaṁ sthāvarajaṅgamam | kṣētrakṣētrajñasamyōgāt tadviddhi bharatarṣabha",
+   "mean_en": "\"Whatever being is born, moving or unmoving, know it as arising from the union of the field and the knower of the field, O best of Bharatas.",
+   "mean_te": "ఓ భరతశ్రేష్ఠా! ఈ లోకంలో పుట్టే కదిలేవి (జంగమ), కదలనివి (స్థావర) ఏ ప్రాణులైనా సరే… అవి క్షేత్రము (జడ ప్రకృతి) మరియు క్షేత్రజ్ఞుడు (చైతన్యం) కలవడం వల్లే పుడుతున్నాయని తెలుసుకో"
+  },
+  {
+   "n": 28,
+   "text_deva": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् | विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति",
+   "text_te": "సమం సర్వేషు భూతేషు తిష్ఠంతం పరమేశ్వరమ్ | వినశ్యత్స్వవినశ్యంతం యః పశ్యతి స పశ్యతి",
+   "text_en": "samaṁ sarvēṣu bhūtēṣu tiṣṭhantaṁ paramēśvaram | vinaśyatsvavinaśyantaṁ yaḥ paśyati sa paśyati",
+   "mean_en": "\"He who sees the supreme Lord standing alike in all beings, imperishable amid the perishing — he sees truly.",
+   "mean_te": "నశించే సమస్త ప్రాణులలో నశించకుండా ఉన్న పరమేశ్వరుడిని ఎవరైతే చూడగలుగుతారో (సమంగా చూడటం), వారే నిజంగా సత్యాన్ని చూస్తున్నట్లు లెక్క."
+  },
+  {
+   "n": 29,
+   "text_deva": "समं पश्यन् हि सर्वत्र समवस्थितमीश्वरम् | न हिनस्त्यात्मनाऽऽत्मानं ततो याति परां गतिम्",
+   "text_te": "సమం పశ్యన్ హి సర్వత్ర సమవస్థితమీశ్వరమ్ | న హినస్త్యాత్మనాఽఽత్మానం తతో యాతి పరాం గతిమ్",
+   "text_en": "samaṁ paśyan hi sarvatra samavasthitamīśvaram | na hinastyātmanā:’:’tmānaṁ tatō yāti parāṁ gatim",
+   "mean_en": "\"Seeing the Lord as standing alike everywhere, he does not destroy the Self by the Self; therefore he goes to the highest goal.",
+   "mean_te": "అంతటా సమానంగా ఉన్న పరమేశ్వరుడిని దర్శించేవాడు, తన మనస్సుతో తన ఆత్మను అధోగతి పాలు చేసుకోడు (హింసించుకోడు). అటువంటి సమదృష్టి కలవాడు పరమ గతిని (మోక్షాన్ని) పొందుతాడు."
+  },
+  {
+   "n": 30,
+   "text_deva": "प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः | यः पश्यति तथाऽऽत्मानमकर्तारं स पश्यति",
+   "text_te": "ప్రకృత్యైవ చ కర్మాణి క్రియమాణాని సర్వశః | యః పశ్యతి తథాఽఽత్మానమకర్తారం స పశ్యతి",
+   "text_en": "prakr̥tyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ | yaḥ paśyati tathā:’:’tmānamakartāraṁ sa paśyati",
+   "mean_en": "\"He who sees that all actions are performed wholly by nature, and the Self as the non-doer — he sees truly.",
+   "mean_te": "సమస్త కర్మలు కేవలం ప్రకృతి చేతనే చేయబడుతున్నాయని, ఆత్మ ఏ పనీ చేయని ‘అకర్త’ అని ఎవరైతే గ్రహిస్తారో… వారే యథార్థాన్ని చూస్తున్న జ్ఞానులు."
+  },
+  {
+   "n": 31,
+   "text_deva": "यदा भूतपृथग्भावमेकस्थमनुपश्यति | तत एव च विस्तारं ब्रह्म सम्पद्यते तदा",
+   "text_te": "యదా భూతపృథగ్భావమేకస్థమనుపశ్యతి | తత ఏవ చ విస్తారం బ్రహ్మ సంపద్యతే తదా",
+   "text_en": "yadā bhūtapr̥thagbhāvamēkasthamanupaśyati | tata ēva ca vistāraṁ brahma sampadyatē tadā",
+   "mean_en": "\"When a man sees the many beings as resting in the One, and their unfolding from That alone — then he reaches Brahman.",
+   "mean_te": "ప్రాణులన్నీ వేర్వేరుగా కనిపిస్తున్నప్పటికీ, అవన్నీ ఒకే పరమాత్మ యందు ఉన్నాయని (ఏకస్థం), ఆ పరమాత్మ నుండే ఇవన్నీ విస్తరించాయని ఎప్పుడైతే మనిషి గుర్తిస్తాడో… అప్పుడే అతడు బ్రహ్మత్వాన్ని పొందుతాడు."
+  },
+  {
+   "n": 32,
+   "text_deva": "अनादित्वान्निर्गुणत्वात् परमात्मायमव्ययः | शरीरस्थोऽपि कौन्तेय न करोति न लिप्यते",
+   "text_te": "అనాదిత్వాన్నిర్గుణత్వాత్ పరమాత్మాయమవ్యయః | శరీరస్థోఽపి కౌంతేయ న కరోతి న లిప్యతే",
+   "text_en": "anāditvānnirguṇatvāt paramātmāyamavyayaḥ | śarīrasthō:’pi kauntēya na karōti na lipyatē",
+   "mean_en": "\"Being beginningless and without gunas, this supreme Self, though lodged in the body, O son of Kunti, neither acts nor is stained.",
+   "mean_te": "ఓ కౌంతేయా! ఈ పరమాత్మ (ఆత్మ) ఆది లేనివాడు (అనాది), ప్రకృతి గుణాలు లేనివాడు (నిర్గుణుడు) మరియు నాశనం లేనివాడు (అవ్యయః). అందుకే ఈ ఆత్మ శరీరంలో ఉన్నప్పటికీ, ఏ పనీ చేయదు (అకర్త) మరియు ఆ కర్మ ఫలితాలకు అంటుకోదు (న లిప్యతే)."
+  },
+  {
+   "n": 33,
+   "text_deva": "यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते | सर्वत्रावस्थितो देहे तथाऽऽत्मा नोपलिप्यते",
+   "text_te": "యథా సర్వగతం సౌక్ష్మ్యాదాకాశం నోపలిప్యతే | సర్వత్రావస్థితో దేహే తథాఽఽత్మా నోపలిప్యతే",
+   "text_en": "yathā sarvagataṁ saukṣmyādākāśaṁ nōpalipyatē | sarvatrāvasthitō dēhē tathā:’:’tmā nōpalipyatē",
+   "mean_en": "\"As the all-pervading akasha, by its subtlety, is never stained, so the Self, standing everywhere in the body, is never stained.",
+   "mean_te": "ఆకాశం అంతటా వ్యాపించి ఉన్నప్పటికీ, అది అత్యంత సూక్ష్మమైనది కావటం వల్ల దేనితోనూ కలవదు (మలినపడదు). అలాగే, ఆత్మ శరీరమంతటా ఉన్నప్పటికీ, అది దేహ గుణాలకు లేదా వికారాలకు అంటుకోదు."
+  },
+  {
+   "n": 34,
+   "text_deva": "यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः | क्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत",
+   "text_te": "యథా ప్రకాశయత్యేకః కృత్స్నం లోకమిమం రవిః | క్షేత్రం క్షేత్రీ తథా కృత్స్నం ప్రకాశయతి భారత",
+   "text_en": "yathā prakāśayatyēkaḥ kr̥tsnaṁ lōkamimaṁ raviḥ | kṣētraṁ kṣētrī tathā kr̥tsnaṁ prakāśayati bhārata",
+   "mean_en": "\"As the one sun illuminates this whole world, so the lord of the field illumines the whole field, O Bharata.",
+   "mean_te": "ఓ భారతా! ఒక్కడే అయిన సూర్యుడు ఈ లోకాన్నంతటినీ ఎలాగైతే ప్రకాశింపజేస్తాడో… అలాగే క్షేత్రీ (ఆత్మ) ఒక్కడే అయి ఉండి, ఈ మొత్తం క్షేత్రాన్ని (శరీరాన్ని) తన చైతన్యంతో ప్రకాశింపజేస్తున్నాడు."
+  },
+  {
+   "n": 35,
+   "text_deva": "क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा | भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम्",
+   "text_te": "క్షేత్రక్షేత్రజ్ఞయోరేవమంతరం జ్ఞానచక్షుషా | భూతప్రకృతిమోక్షం చ యే విదుర్యాంతి తే పరమ్",
+   "text_en": "kṣētrakṣētrajñayōrēvamantaraṁ jñānacakṣuṣā | bhūtaprakr̥timōkṣaṁ ca yē viduryānti tē param",
+   "mean_en": "\"They who thus see with the eye of knowledge the distinction between the field and the knower of the field, and the liberation of beings from nature — they reach the Supreme.\"",
+   "mean_te": "ఈ విధంగా క్షేత్రము (శరీరం) మరియు క్షేత్రజ్ఞుడు (ఆత్మ) మధ్య గల తేడాను ఎవరైతే ‘జ్ఞాన నేత్రం’తో చూస్తారో… అలాగే ప్రాణులు ప్రకృతి బంధం నుండి ఎలా విముక్తి పొందాలో తెలుసుకుంటారో… వారు పరమ గతిని (మోక్షాన్ని) పొందుతారు."
+  }
+ ]
+}

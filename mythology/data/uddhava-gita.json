@@ -1,0 +1,49 @@
+{
+ "epics": {
+  "uddhava-gita": {
+   "id": "uddhava-gita",
+   "name": {
+    "en": "Uddhava Gita",
+    "te": "ఉద్ధవగీత"
+   },
+   "author": {
+    "en": "Veda Vyasa",
+    "te": "వేద వ్యాసుడు"
+   },
+   "unitLabel": {
+    "en": "Part",
+    "te": "భాగం"
+   },
+   "labels": {
+    "sargaWord": { "en": "Chapter", "te": "అధ్యాయం" },
+    "sargaLabel": { "en": "Chapter", "te": "అధ్యాయం" },
+    "allSargas": { "en": "All chapters", "te": "అన్ని అధ్యాయాలు" },
+    "browseSargas": { "en": "Read by chapter", "te": "అధ్యాయాలు చదవండి" },
+    "sargasAvailable": { "en": "chapters · read the whole song", "te": "అధ్యాయాలు · పూర్తి గీతను చదవండి" },
+    "talePick": { "en": "Open a chapter to read its shlokas.", "te": "ఒక అధ్యాయాన్ని తెరిచి శ్లోకాలను చదవండి." },
+    "prevSarga": { "en": "← Prev chapter", "te": "← మునుపటి అధ్యాయం" },
+    "nextSarga": { "en": "Next chapter →", "te": "తరువాతి అధ్యాయం →" }
+   },
+   "sections": [
+    {
+     "id": "uddhava-gita",
+     "n": 1,
+     "name": {
+      "en": "Uddhava Gita",
+      "te": "ఉద్ధవగీత"
+     },
+     "title": {
+      "en": "Krishna's last teaching — Bhagavatam, Skandha 11, chapters 6–29",
+      "te": "శ్రీకృష్ణుని అంతిమ ఉపదేశము — భాగవతం ఏకాదశ స్కందం, అధ్యాయాలు 6–29"
+     },
+     "summary": {
+      "en": "Knowing the Yadava race must end and his own departure is near, Krishna gives Uddhava his final teaching — the Uddhava Gita, the 'swan song' of the Bhagavatam. From Bhagavata Skandha 11, chapters 6 to 29: the nature of the Self, the bondage and release of the gunas, bhakti beyond ritual, avadhuta's twenty-four gurus, and the way of the free.",
+      "te": "యాదవకులం అంతమవుతుందని, తన పాదభంగము సమీపించిందని తెలుసుకొని, శ్రీకృష్ణుడు ఉద్ధవునికి అంతిమ ఉపదేశము చేస్తాడు — భాగవత సారస్వతమైన ఉద్ధవగీత. భాగవతం ఏకాదశ స్కందం, అధ్యాయాలు 6 నుండి 29 వరకు: ఆత్మ స్వరూపము, గుణముల బంధము-మోక్షము, విధి భక్తిని మించిన భక్తి, అవధూతుని ఇరవై నాలుగు గురువులు, ముక్తుని మార్గము."
+     },
+     "comingSoon": false,
+     "note": "అధ్యాయం 1 = భాగవతం 11.6, ఒక్కొక్కటి వరుసగా (అధ్యాయం 24 = 11.29). మూలము — bhagavata.org (IAST); దేవనాగరి, తెలుగు అదే మూలంనుండి. అర్థాలు క్రమంగా చేర్చబడుచున్నవి."
+    }
+   ]
+  }
+ }
+}

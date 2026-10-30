@@ -1,0 +1,2719 @@
+{
+ "kanda": "avanti-khanda",
+ "en": "Avanti Khanda",
+ "te": "అవంతి ఖండం",
+ "total_adhyayas": 387,
+ "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST (vaidhikadharma.org నుండి); అర్థాలు క్రమంగా చేర్చబడుచున్నవి (మొత్తం 387 అధ్యాయాలు).",
+ "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally (387 adhyayas).",
+ "sargas": [
+  {
+   "n": 1,
+   "title": "మహాకాలవనప్రశంసావర్ణనమ్",
+   "title_iast": "mahākālavanapraśaṁsāvarṇanam",
+   "title_deva": "महाकालवनप्रशंसावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-1/"
+  },
+  {
+   "n": 2,
+   "title": "పురా త్వేకార్ణవే ప్రాప్తే నష్టే స్థావరజంగమే",
+   "title_iast": "purā tvekārṇave prāpte naṣṭe sthāvarajaṁgame",
+   "title_deva": "पुरा त्वेकार्णवे प्राप्ते नष्टे स्थावरजंगमे",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-2/"
+  },
+  {
+   "n": 3,
+   "title": "ప్రాయశ్చిత్తవర్ణనమ్",
+   "title_iast": "prāyaścittavarṇanam",
+   "title_deva": "प्रायश्चित्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-3/"
+  },
+  {
+   "n": 4,
+   "title": "వైశ్వానరోత్పత్తివర్ణనమ్",
+   "title_iast": "vaiśvānarotpattivarṇanam",
+   "title_deva": "वैश्वानरोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-4/"
+  },
+  {
+   "n": 5,
+   "title": "దేవాగమనవర్ణనమ్",
+   "title_iast": "devāgamanavarṇanam",
+   "title_deva": "देवागमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-5/"
+  },
+  {
+   "n": 6,
+   "title": "కపాలమోక్షణవర్ణనమ్",
+   "title_iast": "kapālamokṣaṇavarṇanam",
+   "title_deva": "कपालमोक्षणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-6/"
+  },
+  {
+   "n": 7,
+   "title": "మహాకాలవనవాసవిధివర్ణనమ్",
+   "title_iast": "mahākālavanavāsavidhivarṇanam",
+   "title_deva": "महाकालवनवासविधिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-7/"
+  },
+  {
+   "n": 8,
+   "title": "ఆచారః పరమో ధర్మః సర్వధర్మపరాయణః",
+   "title_iast": "ācāraḥ paramo dharmaḥ sarvadharmaparāyaṇaḥ",
+   "title_deva": "आचारः परमो धर्मः सर्वधर्मपरायणः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-8/"
+  },
+  {
+   "n": 9,
+   "title": "మహిషకుణ్డరుద్రసరోమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahiṣakuṇḍarudrasaromāhātmyavarṇanam",
+   "title_deva": "महिषकुण्डरुद्रसरोमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-9/"
+  },
+  {
+   "n": 10,
+   "title": "కుటుమ్బికేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuṭumbikeśvaramāhātmyavarṇanam",
+   "title_deva": "कुटुम्बिकेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-10/"
+  },
+  {
+   "n": 11,
+   "title": "అథాతః సంప్రవక్ష్యామి తీర్థం విద్యాధరస్య తు",
+   "title_iast": "athātaḥ saṁpravakṣyāmi tīrthaṁ vidyādharasya tu",
+   "title_deva": "अथातः संप्रवक्ष्यामि तीर्थं विद्याधरस्य तु",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-11/"
+  },
+  {
+   "n": 12,
+   "title": "మాహాత్మ్యవర్ణనమ్",
+   "title_iast": "māhātmyavarṇanam",
+   "title_deva": "माहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-12/"
+  },
+  {
+   "n": 13,
+   "title": "స్వర్గద్వారే నరః స్నాత్వా దృష్ట్వా దేవం చ భైరవమ్",
+   "title_iast": "svargadvāre naraḥ snātvā dṛṣṭvā devaṁ ca bhairavam",
+   "title_deva": "स्वर्गद्वारे नरः स्नात्वा दृष्ट्वा देवं च भैरवम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-13/"
+  },
+  {
+   "n": 14,
+   "title": "చతుఃసముద్రమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "catuḥsamudramāhātmyavarṇanam",
+   "title_deva": "चतुःसमुद्रमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-14/"
+  },
+  {
+   "n": 15,
+   "title": "శంకరాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śaṁkarādityamāhātmyavarṇanam",
+   "title_deva": "शंकरादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-15/"
+  },
+  {
+   "n": 16,
+   "title": "నీలగన్ధవతీప్రభావవర్ణనమ్",
+   "title_iast": "nīlagandhavatīprabhāvavarṇanam",
+   "title_deva": "नीलगन्धवतीप्रभाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-16/"
+  },
+  {
+   "n": 17,
+   "title": "దశాశ్వమేధమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "daśāśvamedhamāhātmyavarṇanam",
+   "title_deva": "दशाश्वमेधमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-17/"
+  },
+  {
+   "n": 18,
+   "title": "ఏకానంశాం నమస్కృత్య దేవీం త్రైలోక్యవిశ్రుతామ్",
+   "title_iast": "ekānaṁśāṁ namaskṛtya devīṁ trailokyaviśrutām",
+   "title_deva": "एकानंशां नमस्कृत्य देवीं त्रैलोक्यविश्रुताम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-18/"
+  },
+  {
+   "n": 19,
+   "title": "అథాతః సంప్రవక్ష్యామి హరసిద్ధిం సుసిద్ధిదామ్",
+   "title_iast": "athātaḥ saṁpravakṣyāmi harasiddhiṁ susiddhidām",
+   "title_deva": "अथातः संप्रवक्ष्यामि हरसिद्धिं सुसिद्धिदाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-19/"
+  },
+  {
+   "n": 20,
+   "title": "మాసమేకం నరో భక్త్యా పశ్యేద్వా వటయక్షిణీమ్",
+   "title_iast": "māsamekaṁ naro bhaktyā paśyedvā vaṭayakṣiṇīm",
+   "title_deva": "मासमेकं नरो भक्त्या पश्येद्वा वटयक्षिणीम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-20/"
+  },
+  {
+   "n": 21,
+   "title": "అథాన్యత్సంప్రవక్ష్యామి దేవం త్రిదశపూజితమ్",
+   "title_iast": "athānyatsaṁpravakṣyāmi devaṁ tridaśapūjitam",
+   "title_deva": "अथान्यत्संप्रवक्ष्यामि देवं त्रिदशपूजितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-21/"
+  },
+  {
+   "n": 22,
+   "title": "రుద్రసరోమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rudrasaromāhātmyavarṇanam",
+   "title_deva": "रुद्रसरोमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-22/"
+  },
+  {
+   "n": 23,
+   "title": "మహాకాలేశ్వరయాత్రామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahākāleśvarayātrāmāhātmyavarṇanam",
+   "title_deva": "महाकालेश्वरयात्रामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-23/"
+  },
+  {
+   "n": 24,
+   "title": "వాల్మీకేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vālmīkeśvaramāhātmyavarṇanam",
+   "title_deva": "वाल्मीकेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-24/"
+  },
+  {
+   "n": 25,
+   "title": "చణ్డీశ్వరాదితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caṇḍīśvarāditīrthamāhātmyavarṇanam",
+   "title_deva": "चण्डीश्वरादितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-25/"
+  },
+  {
+   "n": 26,
+   "title": "మందాకినీక్షేత్రమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "maṁdākinīkṣetramāhātmyavarṇanam",
+   "title_deva": "मंदाकिनीक्षेत्रमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-26/"
+  },
+  {
+   "n": 27,
+   "title": "ఆవంత్సయఖణ్డేఽవంతీక్షేత్రమాహాత్మ్యేంఽకపాదమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "āvaṁtsayakhaṇḍe'vaṁtīkṣetramāhātmyeṁ'kapādamāhātmyavarṇanam",
+   "title_deva": "आवंत्सयखण्डेऽवंतीक्षेत्रमाहात्म्येंऽकपादमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-27/"
+  },
+  {
+   "n": 28,
+   "title": "అథాన్యం సంప్రవక్ష్యామి దేవం త్రైలోక్యవిశ్రుతమ్",
+   "title_iast": "athānyaṁ saṁpravakṣyāmi devaṁ trailokyaviśrutam",
+   "title_deva": "अथान्यं संप्रवक्ष्यामि देवं त्रैलोक्यविश्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-28/"
+  },
+  {
+   "n": 29,
+   "title": "తీర్థస్యాఽనరకస్యాస్య మాహాత్మ్యం శృణు సాంప్రతమ్",
+   "title_iast": "tīrthasyā'narakasyāsya māhātmyaṁ śṛṇu sāṁpratam",
+   "title_deva": "तीर्थस्याऽनरकस्यास्य माहात्म्यं शृणु सांप्रतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-29/"
+  },
+  {
+   "n": 30,
+   "title": "ఆవంత్యఖణ్డేఽవన్తీక్షేత్రమాహాత్మ్యేఽనరకేశ్వరదీపదానమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "āvaṁtyakhaṇḍe'vantīkṣetramāhātmye'narakeśvaradīpadānamāhātmyavarṇanam",
+   "title_deva": "आवंत्यखण्डेऽवन्तीक्षेत्रमाहात्म्येऽनरकेश्वरदीपदानमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-30/"
+  },
+  {
+   "n": 31,
+   "title": "అథాన్యత్సంప్రవక్ష్యామి కేదారేశ్వరముత్తమమ్",
+   "title_iast": "athānyatsaṁpravakṣyāmi kedāreśvaramuttamam",
+   "title_deva": "अथान्यत्संप्रवक्ष्यामि केदारेश्वरमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-31/"
+  },
+  {
+   "n": 32,
+   "title": "నరాదిత్యమాహాత్మ్యేఽర్జునస్తుతివర్ణనమ్",
+   "title_iast": "narādityamāhātmye'rjunastutivarṇanam",
+   "title_deva": "नरादित्यमाहात्म्येऽर्जुनस्तुतिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-32/"
+  },
+  {
+   "n": 33,
+   "title": "కేశవాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "keśavādityamāhātmyavarṇanam",
+   "title_deva": "केशवादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-33/"
+  },
+  {
+   "n": 34,
+   "title": "శక్తిభేదతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śaktibhedatīrthamāhātmyavarṇanam",
+   "title_deva": "शक्तिभेदतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-34/"
+  },
+  {
+   "n": 35,
+   "title": "ఖణ్డేఽవన్తీక్షేత్రమాహాత్మ్యేఽగస్త్యేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "khaṇḍe'vantīkṣetramāhātmye'gastyeśvaramāhātmyavarṇanam",
+   "title_deva": "खण्डेऽवन्तीक्षेत्रमाहात्म्येऽगस्त्येश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-35/"
+  },
+  {
+   "n": 36,
+   "title": "నరదీపమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "naradīpamāhātmyavarṇanam",
+   "title_deva": "नरदीपमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-36/"
+  },
+  {
+   "n": 37,
+   "title": "వ్రతమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vratamāhātmyavarṇanam",
+   "title_deva": "व्रतमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-37/"
+  },
+  {
+   "n": 38,
+   "title": "నాస్తి శేషం యదా రక్తం పీయమానం చ రక్షసః",
+   "title_iast": "nāsti śeṣaṁ yadā raktaṁ pīyamānaṁ ca rakṣasaḥ",
+   "title_deva": "नास्ति शेषं यदा रक्तं पीयमानं च रक्षसः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-38/"
+  },
+  {
+   "n": 39,
+   "title": "భగవన్క్షేత్రమాహాత్మ్యం కథితం చ యథాతథమ్",
+   "title_iast": "bhagavankṣetramāhātmyaṁ kathitaṁ ca yathātatham",
+   "title_deva": "भगवन्क्षेत्रमाहात्म्यं कथितं च यथातथम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-39/"
+  },
+  {
+   "n": 40,
+   "title": "కనకశృఙ్గాభిధానవృత్తాంతవర్ణనమ్",
+   "title_iast": "kanakaśṛṅgābhidhānavṛttāṁtavarṇanam",
+   "title_deva": "कनकशृङ्गाभिधानवृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-40/"
+  },
+  {
+   "n": 41,
+   "title": "శృణు వ్యాస యథేయం తు ప్రోచ్యతే హి కుశస్థలీ",
+   "title_iast": "śṛṇu vyāsa yatheyaṁ tu procyate hi kuśasthalī",
+   "title_deva": "शृणु व्यास यथेयं तु प्रोच्यते हि कुशस्थली",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-41/"
+  },
+  {
+   "n": 42,
+   "title": "ఆవంత్యఖణ్డేఽవన్తీక్షేత్రమాహాత్మ్యేఽవంత్యభిధానకథావర్ణనమ్",
+   "title_iast": "āvaṁtyakhaṇḍe'vantīkṣetramāhātmye'vaṁtyabhidhānakathāvarṇanam",
+   "title_deva": "आवंत्यखण्डेऽवन्तीक्षेत्रमाहात्म्येऽवंत्यभिधानकथावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-42/"
+  },
+  {
+   "n": 43,
+   "title": "ఉజ్జయిన్యభిధానకథనమ్",
+   "title_iast": "ujjayinyabhidhānakathanam",
+   "title_deva": "उज्जयिन्यभिधानकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-43/"
+  },
+  {
+   "n": 44,
+   "title": "పద్మావతీనామకథావర్ణనమ్",
+   "title_iast": "padmāvatīnāmakathāvarṇanam",
+   "title_deva": "पद्मावतीनामकथावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-44/"
+  },
+  {
+   "n": 45,
+   "title": "కుముద్వతీప్రభావకథనమ్",
+   "title_iast": "kumudvatīprabhāvakathanam",
+   "title_deva": "कुमुद्वतीप्रभावकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-45/"
+  },
+  {
+   "n": 46,
+   "title": "ఆవంత్యఖణ్డేఽవన్తీక్షేత్రమాహాత్మ్యేఽమరావతీనామకథనమ్",
+   "title_iast": "āvaṁtyakhaṇḍe'vantīkṣetramāhātmye'marāvatīnāmakathanam",
+   "title_deva": "आवंत्यखण्डेऽवन्तीक्षेत्रमाहात्म्येऽमरावतीनामकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-46/"
+  },
+  {
+   "n": 47,
+   "title": "విశాలాభిధానకథనమ్",
+   "title_iast": "viśālābhidhānakathanam",
+   "title_deva": "विशालाभिधानकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-47/"
+  },
+  {
+   "n": 48,
+   "title": "శృణుష్వావహితో వ్యాస స్థితిమేకాగ్రమానసః",
+   "title_iast": "śṛṇuṣvāvahito vyāsa sthitimekāgramānasaḥ",
+   "title_deva": "शृणुष्वावहितो व्यास स्थितिमेकाग्रमानसः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-48/"
+  },
+  {
+   "n": 49,
+   "title": "ఏవం వ్యాస పురీ రమ్యా నామభూతా సనాతనీ",
+   "title_iast": "evaṁ vyāsa purī ramyā nāmabhūtā sanātanī",
+   "title_deva": "एवं व्यास पुरी रम्या नामभूता सनातनी",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-49/"
+  },
+  {
+   "n": 50,
+   "title": "పాపనాశినీ విఖ్యాతా యథా శిప్రా పయస్వినీ",
+   "title_iast": "pāpanāśinī vikhyātā yathā śiprā payasvinī",
+   "title_deva": "पापनाशिनी विख्याता यथा शिप्रा पयस्विनी",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-50/"
+  },
+  {
+   "n": 51,
+   "title": "శృణు వ్యాస మహాబుద్ధే శిప్రామాహాత్మ్యముత్తమమ్",
+   "title_iast": "śṛṇu vyāsa mahābuddhe śiprāmāhātmyamuttamam",
+   "title_deva": "शृणु व्यास महाबुद्धे शिप्रामाहात्म्यमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-51/"
+  },
+  {
+   "n": 52,
+   "title": "శిప్రామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śiprāmāhātmyavarṇanam",
+   "title_deva": "शिप्रामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-52/"
+  },
+  {
+   "n": 53,
+   "title": "సున్దరకుండపిశాచమోచనతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sundarakuṁḍapiśācamocanatīrthamāhātmyavarṇanam",
+   "title_deva": "सुन्दरकुंडपिशाचमोचनतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-53/"
+  },
+  {
+   "n": 54,
+   "title": "నీలగంగామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nīlagaṁgāmāhātmyavarṇanam",
+   "title_deva": "नीलगंगामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-54/"
+  },
+  {
+   "n": 55,
+   "title": "విమలోదతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vimalodatīrthamāhātmyavarṇanam",
+   "title_deva": "विमलोदतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-55/"
+  },
+  {
+   "n": 56,
+   "title": "క్షాతాసంగమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kṣātāsaṁgamamāhātmyavarṇanam",
+   "title_deva": "क्षातासंगममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-56/"
+  },
+  {
+   "n": 57,
+   "title": "గయాతీర్థప్రశంసావర్ణనమ్",
+   "title_iast": "gayātīrthapraśaṁsāvarṇanam",
+   "title_deva": "गयातीर्थप्रशंसावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-57/"
+  },
+  {
+   "n": 58,
+   "title": "విచిత్రమిదమాఖ్యాతం గయామాహాత్మ్యముత్తమమ్",
+   "title_iast": "vicitramidamākhyātaṁ gayāmāhātmyamuttamam",
+   "title_deva": "विचित्रमिदमाख्यातं गयामाहात्म्यमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-58/"
+  },
+  {
+   "n": 59,
+   "title": "తతః సురగణాః సర్వే ధూతపాపా సమాహితాః",
+   "title_iast": "tataḥ suragaṇāḥ sarve dhūtapāpā samāhitāḥ",
+   "title_deva": "ततः सुरगणाः सर्वे धूतपापा समाहिताः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-59/"
+  },
+  {
+   "n": 60,
+   "title": "దానాదిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dānādimāhātmyavarṇanam",
+   "title_deva": "दानादिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-60/"
+  },
+  {
+   "n": 61,
+   "title": "అధిమాసం సమాసాద్య యోఽన్యత్ర స్థితిమాత్మనః",
+   "title_iast": "adhimāsaṁ samāsādya yo'nyatra sthitimātmanaḥ",
+   "title_deva": "अधिमासं समासाद्य योऽन्यत्र स्थितिमात्मनः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-61/"
+  },
+  {
+   "n": 62,
+   "title": "గోమతీతీర్థకుణ్డమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gomatītīrthakuṇḍamāhātmyavarṇanam",
+   "title_deva": "गोमतीतीर्थकुण्डमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-62/"
+  },
+  {
+   "n": 63,
+   "title": "వామనకుణ్డమహిమవిష్ణుసహస్రనామకథనమ్",
+   "title_iast": "vāmanakuṇḍamahimaviṣṇusahasranāmakathanam",
+   "title_deva": "वामनकुण्डमहिमविष्णुसहस्रनामकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-63/"
+  },
+  {
+   "n": 64,
+   "title": "కాలభైరవతీర్థయాత్రావర్ణనమ్",
+   "title_iast": "kālabhairavatīrthayātrāvarṇanam",
+   "title_deva": "कालभैरवतीर्थयात्रावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-64/"
+  },
+  {
+   "n": 65,
+   "title": "నాగతీర్థమహిమవర్ణనమ్",
+   "title_iast": "nāgatīrthamahimavarṇanam",
+   "title_deva": "नागतीर्थमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-65/"
+  },
+  {
+   "n": 66,
+   "title": "నృసింహతీర్థమహిమవర్ణనమ్",
+   "title_iast": "nṛsiṁhatīrthamahimavarṇanam",
+   "title_deva": "नृसिंहतीर्थमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-66/"
+  },
+  {
+   "n": 67,
+   "title": "కుటుంబేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuṭuṁbeśvaramāhātmyavarṇanam",
+   "title_deva": "कुटुंबेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-67/"
+  },
+  {
+   "n": 68,
+   "title": "శృణు వ్యాస మహాపుణ్యం తీర్థం పరమశోభనమ్",
+   "title_iast": "śṛṇu vyāsa mahāpuṇyaṁ tīrthaṁ paramaśobhanam",
+   "title_deva": "शृणु व्यास महापुण्यं तीर्थं परमशोभनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-68/"
+  },
+  {
+   "n": 69,
+   "title": "భూయః శృణు పరం తీర్థం సర్వతీర్థఫలప్రదమ్",
+   "title_iast": "bhūyaḥ śṛṇu paraṁ tīrthaṁ sarvatīrthaphalapradam",
+   "title_deva": "भूयः शृणु परं तीर्थं सर्वतीर्थफलप्रदम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-69/"
+  },
+  {
+   "n": 70,
+   "title": "దేవయాత్రాంఽతర్గృహీసర్వతీర్థయాత్రాఽనుక్రమణికాదికథనమ్",
+   "title_iast": "devayātrāṁ'targṛhīsarvatīrthayātrā'nukramaṇikādikathanam",
+   "title_deva": "देवयात्रांऽतर्गृहीसर्वतीर्थयात्राऽनुक्रमणिकादिकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-70/"
+  },
+  {
+   "n": 71,
+   "title": "భగవ న్భవతా సర్వం కథితం దేవమూర్తినా",
+   "title_iast": "bhagava nbhavatā sarvaṁ kathitaṁ devamūrtinā",
+   "title_deva": "भगव न्भवता सर्वं कथितं देवमूर्तिना",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/avantikshetra/adhyaya-71/"
+  },
+  {
+   "n": 72,
+   "title": "చతురశీతిలింగమాహాత్మ్యేఽగస్త్యేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caturaśītiliṁgamāhātmye'gastyeśvaramāhātmyavarṇanam",
+   "title_deva": "चतुरशीतिलिंगमाहात्म्येऽगस्त्येश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-1/"
+  },
+  {
+   "n": 73,
+   "title": "గుహేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "guheśvaramāhātmyavarṇanam",
+   "title_deva": "गुहेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-2/"
+  },
+  {
+   "n": 74,
+   "title": "ఢుంఢేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ḍhuṁḍheśvaramāhātmyavarṇanam",
+   "title_deva": "ढुंढेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-3/"
+  },
+  {
+   "n": 75,
+   "title": "ఖ్యాతోఽవంత్యాం చతుర్థోఽసౌ దేవో డమరుకేశ్వరః",
+   "title_iast": "khyāto'vaṁtyāṁ caturtho'sau devo ḍamarukeśvaraḥ",
+   "title_deva": "ख्यातोऽवंत्यां चतुर्थोऽसौ देवो डमरुकेश्वरः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-4/"
+  },
+  {
+   "n": 76,
+   "title": "చతురశీతిలింగమాహాత్మ్యేఽనాదికల్పేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caturaśītiliṁgamāhātmye'nādikalpeśvaramāhātmyavarṇanam",
+   "title_deva": "चतुरशीतिलिंगमाहात्म्येऽनादिकल्पेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-5/"
+  },
+  {
+   "n": 77,
+   "title": "స్వర్ణజ్వాలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "svarṇajvāleśvaramāhātmyavarṇanam",
+   "title_deva": "स्वर्णज्वालेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-6/"
+  },
+  {
+   "n": 78,
+   "title": "త్రివిష్టపేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "triviṣṭapeśvaramāhātmyavarṇanam",
+   "title_deva": "त्रिविष्टपेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-7/"
+  },
+  {
+   "n": 79,
+   "title": "కపాలేశ్వరసంజ్ఞం చ హ్యష్టమం విద్ధి పార్వతి",
+   "title_iast": "kapāleśvarasaṁjñaṁ ca hyaṣṭamaṁ viddhi pārvati",
+   "title_deva": "कपालेश्वरसंज्ञं च ह्यष्टमं विद्धि पार्वति",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-8/"
+  },
+  {
+   "n": 80,
+   "title": "స్వర్గద్వారేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "svargadvāreśvaramāhātmyavarṇanam",
+   "title_deva": "स्वर्गद्वारेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-9/"
+  },
+  {
+   "n": 81,
+   "title": "కర్కోటేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karkoṭeśvaramāhātmyavarṇanam",
+   "title_deva": "कर्कोटेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-10/"
+  },
+  {
+   "n": 82,
+   "title": "లింగమేకాదశం విద్ధి దేవి సిద్ధేశ్వరం శుభమ్",
+   "title_iast": "liṁgamekādaśaṁ viddhi devi siddheśvaraṁ śubham",
+   "title_deva": "लिंगमेकादशं विद्धि देवि सिद्धेश्वरं शुभम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-11/"
+  },
+  {
+   "n": 83,
+   "title": "లోకపాలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "lokapāleśvaramāhātmyavarṇanam",
+   "title_deva": "लोकपालेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-12/"
+  },
+  {
+   "n": 84,
+   "title": "కామేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kāmeśvaramāhātmyavarṇanam",
+   "title_deva": "कामेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-13/"
+  },
+  {
+   "n": 85,
+   "title": "కుటుంబేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuṭuṁbeśvaramāhātmyavarṇanam",
+   "title_deva": "कुटुंबेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-14/"
+  },
+  {
+   "n": 86,
+   "title": "ఇన్ద్రద్యుమ్నేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "indradyumneśvaramāhātmyavarṇanam",
+   "title_deva": "इन्द्रद्युम्नेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-15/"
+  },
+  {
+   "n": 87,
+   "title": "ఈశానేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "īśāneśvaramāhātmyavarṇanam",
+   "title_deva": "ईशानेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-16/"
+  },
+  {
+   "n": 88,
+   "title": "చతురశీతిలిఙ్గమాహాత్మ్యేఽప్సరేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caturaśītiliṅgamāhātmye'psareśvaramāhātmyavarṇanam",
+   "title_deva": "चतुरशीतिलिङ्गमाहात्म्येऽप्सरेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-17/"
+  },
+  {
+   "n": 89,
+   "title": "దేవమష్టాదశం విద్ధి ఖ్యాతం కలకలేశ్వరమ్",
+   "title_iast": "devamaṣṭādaśaṁ viddhi khyātaṁ kalakaleśvaram",
+   "title_deva": "देवमष्टादशं विद्धि ख्यातं कलकलेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-18/"
+  },
+  {
+   "n": 90,
+   "title": "ఏకోనవింశతితమం నాగచండేశ్వరం ప్రియే",
+   "title_iast": "ekonaviṁśatitamaṁ nāgacaṁḍeśvaraṁ priye",
+   "title_deva": "एकोनविंशतितमं नागचंडेश्वरं प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-19/"
+  },
+  {
+   "n": 91,
+   "title": "ప్రతీహారేశ్వరం దేవి విద్ధి వింశతిమం ప్రియే",
+   "title_iast": "pratīhāreśvaraṁ devi viddhi viṁśatimaṁ priye",
+   "title_deva": "प्रतीहारेश्वरं देवि विद्धि विंशतिमं प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-20/"
+  },
+  {
+   "n": 92,
+   "title": "ఏకవింశతికం విద్ధి కుక్కుటేశ్వరసంజ్ఞకమ్",
+   "title_iast": "ekaviṁśatikaṁ viddhi kukkuṭeśvarasaṁjñakam",
+   "title_deva": "एकविंशतिकं विद्धि कुक्कुटेश्वरसंज्ञकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-21/"
+  },
+  {
+   "n": 93,
+   "title": "కర్కటేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karkaṭeśvaramāhātmyavarṇanam",
+   "title_deva": "कर्कटेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-22/"
+  },
+  {
+   "n": 94,
+   "title": "మేఘనాదేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "meghanādeśvaramāhātmyavarṇanam",
+   "title_deva": "मेघनादेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-23/"
+  },
+  {
+   "n": 95,
+   "title": "మహాలయేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahālayeśvaramāhātmyavarṇanam",
+   "title_deva": "महालयेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-24/"
+  },
+  {
+   "n": 96,
+   "title": "ముక్తీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "muktīśvaramāhātmyavarṇanam",
+   "title_deva": "मुक्तीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-25/"
+  },
+  {
+   "n": 97,
+   "title": "సోమేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "someśvaramāhātmyavarṇanam",
+   "title_deva": "सोमेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-26/"
+  },
+  {
+   "n": 98,
+   "title": "చతురశీతిలింగమాహాత్మ్యేఽనరకేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caturaśītiliṁgamāhātmye'narakeśvaramāhātmyavarṇanam",
+   "title_deva": "चतुरशीतिलिंगमाहात्म्येऽनरकेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-27/"
+  },
+  {
+   "n": 99,
+   "title": "అష్టావింశతికం విద్ధి విఖ్యాతం చ జటేశ్వరమ్",
+   "title_iast": "aṣṭāviṁśatikaṁ viddhi vikhyātaṁ ca jaṭeśvaram",
+   "title_deva": "अष्टाविंशतिकं विद्धि विख्यातं च जटेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-28/"
+  },
+  {
+   "n": 100,
+   "title": "ఏకోనత్రింశతం విద్ధి దేవం రామేశ్వరం ప్రియే",
+   "title_iast": "ekonatriṁśataṁ viddhi devaṁ rāmeśvaraṁ priye",
+   "title_deva": "एकोनत्रिंशतं विद्धि देवं रामेश्वरं प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-29/"
+  },
+  {
+   "n": 101,
+   "title": "చ్యవనేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "cyavaneśvaramāhātmyavarṇanam",
+   "title_deva": "च्यवनेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-30/"
+  },
+  {
+   "n": 102,
+   "title": "ఏకత్రింశత్తమం విద్ధి దేవం ఖండేశ్వరం ప్రియే",
+   "title_iast": "ekatriṁśattamaṁ viddhi devaṁ khaṁḍeśvaraṁ priye",
+   "title_deva": "एकत्रिंशत्तमं विद्धि देवं खंडेश्वरं प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-31/"
+  },
+  {
+   "n": 103,
+   "title": "త్రిషు లోకేషు విఖ్యాతం ద్వాత్రింశత్తమముత్తమమ్",
+   "title_iast": "triṣu lokeṣu vikhyātaṁ dvātriṁśattamamuttamam",
+   "title_deva": "त्रिषु लोकेषु विख्यातं द्वात्रिंशत्तममुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-32/"
+  },
+  {
+   "n": 104,
+   "title": "ఆనందేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ānaṁdeśvaramāhātmyavarṇanam",
+   "title_deva": "आनंदेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-33/"
+  },
+  {
+   "n": 105,
+   "title": "కంథడేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kaṁthaḍeśvaramāhātmyavarṇanam",
+   "title_deva": "कंथडेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-34/"
+  },
+  {
+   "n": 106,
+   "title": "ఇన్ద్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "indreśvaramāhātmyavarṇanam",
+   "title_deva": "इन्द्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-35/"
+  },
+  {
+   "n": 107,
+   "title": "మార్కండేయేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mārkaṁḍeyeśvaramāhātmyavarṇanam",
+   "title_deva": "मार्कंडेयेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-36/"
+  },
+  {
+   "n": 108,
+   "title": "శివేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śiveśvaramāhātmyavarṇanam",
+   "title_deva": "शिवेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-37/"
+  },
+  {
+   "n": 109,
+   "title": "అష్టాత్రింశత్తమం విద్ధి కుసుమేశ్వరసంజ్ఞకమ్",
+   "title_iast": "aṣṭātriṁśattamaṁ viddhi kusumeśvarasaṁjñakam",
+   "title_deva": "अष्टात्रिंशत्तमं विद्धि कुसुमेश्वरसंज्ञकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-38/"
+  },
+  {
+   "n": 110,
+   "title": "అక్రూరేశ్వరమేకోనచత్వారింశత్తమం శృణు",
+   "title_iast": "akrūreśvaramekonacatvāriṁśattamaṁ śṛṇu",
+   "title_deva": "अक्रूरेश्वरमेकोनचत्वारिंशत्तमं शृणु",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-39/"
+  },
+  {
+   "n": 111,
+   "title": "కుండేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuṁḍeśvaramāhātmyavarṇanam",
+   "title_deva": "कुंडेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-40/"
+  },
+  {
+   "n": 112,
+   "title": "చత్వారింశత్తమం సైకమీశ్వరం విద్ధి పార్వతి",
+   "title_iast": "catvāriṁśattamaṁ saikamīśvaraṁ viddhi pārvati",
+   "title_deva": "चत्वारिंशत्तमं सैकमीश्वरं विद्धि पार्वति",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-41/"
+  },
+  {
+   "n": 113,
+   "title": "ద్వాచత్వారింశతం దేవం గంగేశ్వరమథో శృణు",
+   "title_iast": "dvācatvāriṁśataṁ devaṁ gaṁgeśvaramatho śṛṇu",
+   "title_deva": "द्वाचत्वारिंशतं देवं गंगेश्वरमथो शृणु",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-42/"
+  },
+  {
+   "n": 114,
+   "title": "చతురశీతిలిఙ్గమాహాత్మ్యేంఽగారకేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caturaśītiliṅgamāhātmyeṁ'gārakeśvaramāhātmyavarṇanam",
+   "title_deva": "चतुरशीतिलिङ्गमाहात्म्येंऽगारकेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-43/"
+  },
+  {
+   "n": 115,
+   "title": "ఉత్తరేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "uttareśvaramāhātmyavarṇanam",
+   "title_deva": "उत्तरेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-44/"
+  },
+  {
+   "n": 116,
+   "title": "త్రిలోచనమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "trilocanamāhātmyavarṇanam",
+   "title_deva": "त्रिलोचनमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-45/"
+  },
+  {
+   "n": 117,
+   "title": "వీరేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vīreśvaramāhātmyavarṇanam",
+   "title_deva": "वीरेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-46/"
+  },
+  {
+   "n": 118,
+   "title": "నూపురేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nūpureśvaramāhātmyavarṇanam",
+   "title_deva": "नूपुरेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-47/"
+  },
+  {
+   "n": 119,
+   "title": "అష్టాధికం విజానీహి చత్వారింశత్తమం ప్రియే",
+   "title_iast": "aṣṭādhikaṁ vijānīhi catvāriṁśattamaṁ priye",
+   "title_deva": "अष्टाधिकं विजानीहि चत्वारिंशत्तमं प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-48/"
+  },
+  {
+   "n": 120,
+   "title": "శృణు పంచాశదేకోనం దేవేశం పృథుకేశ్వరమ్",
+   "title_iast": "śṛṇu paṁcāśadekonaṁ deveśaṁ pṛthukeśvaram",
+   "title_deva": "शृणु पंचाशदेकोनं देवेशं पृथुकेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-49/"
+  },
+  {
+   "n": 121,
+   "title": "స్థావరేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sthāvareśvaramāhātmyavarṇanam",
+   "title_deva": "स्थावरेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-50/"
+  },
+  {
+   "n": 122,
+   "title": "ఏకాధికం విజానీహి పంచాశత్తమమీశ్వరమ్",
+   "title_iast": "ekādhikaṁ vijānīhi paṁcāśattamamīśvaram",
+   "title_deva": "एकाधिकं विजानीहि पंचाशत्तममीश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-51/"
+  },
+  {
+   "n": 123,
+   "title": "ॐకారేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ॐkāreśvaramāhātmyavarṇanam",
+   "title_deva": "ॐकारेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-52/"
+  },
+  {
+   "n": 124,
+   "title": "విశ్వేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "viśveśvaramāhātmyavarṇanam",
+   "title_deva": "विश्वेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-53/"
+  },
+  {
+   "n": 125,
+   "title": "కంటేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kaṁṭeśvaramāhātmyavarṇanam",
+   "title_deva": "कंटेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-54/"
+  },
+  {
+   "n": 126,
+   "title": "సింహేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "siṁheśvaramāhātmyavarṇanam",
+   "title_deva": "सिंहेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-55/"
+  },
+  {
+   "n": 127,
+   "title": "షట్పంచాశత్తమం విద్ధి రేవంతేశ్వరసంజ్ఞకమ్",
+   "title_iast": "ṣaṭpaṁcāśattamaṁ viddhi revaṁteśvarasaṁjñakam",
+   "title_deva": "षट्पंचाशत्तमं विद्धि रेवंतेश्वरसंज्ञकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-56/"
+  },
+  {
+   "n": 128,
+   "title": "సప్తపంచాశతం విద్ధి ఘంటేశ్వరమథో శృణు",
+   "title_iast": "saptapaṁcāśataṁ viddhi ghaṁṭeśvaramatho śṛṇu",
+   "title_deva": "सप्तपंचाशतं विद्धि घंटेश्वरमथो शृणु",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-57/"
+  },
+  {
+   "n": 129,
+   "title": "ప్రయాగేశ్వరసంజ్ఞం తు సర్వకామకరం పరమ్",
+   "title_iast": "prayāgeśvarasaṁjñaṁ tu sarvakāmakaraṁ param",
+   "title_deva": "प्रयागेश्वरसंज्ञं तु सर्वकामकरं परम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-58/"
+  },
+  {
+   "n": 130,
+   "title": "ఏకోనషష్టికం విద్ధి దేవం సిద్ధేశ్వరం ప్రియే",
+   "title_iast": "ekonaṣaṣṭikaṁ viddhi devaṁ siddheśvaraṁ priye",
+   "title_deva": "एकोनषष्टिकं विद्धि देवं सिद्धेश्वरं प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-59/"
+  },
+  {
+   "n": 131,
+   "title": "మతంగేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mataṁgeśvaramāhātmyavarṇanam",
+   "title_deva": "मतंगेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-60/"
+  },
+  {
+   "n": 132,
+   "title": "ఏకషష్టితమం విద్ధి సౌభాగ్యేశ్వరమీశ్వరమ్",
+   "title_iast": "ekaṣaṣṭitamaṁ viddhi saubhāgyeśvaramīśvaram",
+   "title_deva": "एकषष्टितमं विद्धि सौभाग्येश्वरमीश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-61/"
+  },
+  {
+   "n": 133,
+   "title": "రూపేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rūpeśvaramāhātmyavarṇanam",
+   "title_deva": "रूपेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-62/"
+  },
+  {
+   "n": 134,
+   "title": "ధనుఃసాహస్రమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dhanuḥsāhasramāhātmyavarṇanam",
+   "title_deva": "धनुःसाहस्रमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-63/"
+  },
+  {
+   "n": 135,
+   "title": "శ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śvaramāhātmyavarṇanam",
+   "title_deva": "श्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-64/"
+  },
+  {
+   "n": 136,
+   "title": "బ్రహ్మేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "brahmeśvaramāhātmyavarṇanam",
+   "title_deva": "ब्रह्मेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-65/"
+  },
+  {
+   "n": 137,
+   "title": "జల్పేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "jalpeśvaramāhātmyavarṇanam",
+   "title_deva": "जल्पेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-66/"
+  },
+  {
+   "n": 138,
+   "title": "కేదారేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kedāreśvaramāhātmyavarṇanam",
+   "title_deva": "केदारेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-67/"
+  },
+  {
+   "n": 139,
+   "title": "అష్టషష్టికసంఖ్యాకం పిశాచాఖ్యమథేశ్వరమ్",
+   "title_iast": "aṣṭaṣaṣṭikasaṁkhyākaṁ piśācākhyamatheśvaram",
+   "title_deva": "अष्टषष्टिकसंख्याकं पिशाचाख्यमथेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-68/"
+  },
+  {
+   "n": 140,
+   "title": "ఏకోనసప్తతిం దేవి శృణు పార్వతి యత్నతః",
+   "title_iast": "ekonasaptatiṁ devi śṛṇu pārvati yatnataḥ",
+   "title_deva": "एकोनसप्ततिं देवि शृणु पार्वति यत्नतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-69/"
+  },
+  {
+   "n": 141,
+   "title": "దుర్ద్ధర్షేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "durddharṣeśvaramāhātmyavarṇanam",
+   "title_deva": "दुर्द्धर्षेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-70/"
+  },
+  {
+   "n": 142,
+   "title": "ఏకసప్తతికం విద్ధి ప్రయాగేశ్వరసంజ్ఞకమ్",
+   "title_iast": "ekasaptatikaṁ viddhi prayāgeśvarasaṁjñakam",
+   "title_deva": "एकसप्ततिकं विद्धि प्रयागेश्वरसंज्ञकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-71/"
+  },
+  {
+   "n": 143,
+   "title": "చద్రాదిత్యేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "cadrādityeśvaramāhātmyavarṇanam",
+   "title_deva": "चद्रादित्येश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-72/"
+  },
+  {
+   "n": 144,
+   "title": "కరభేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karabheśvaramāhātmyavarṇanam",
+   "title_deva": "करभेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-73/"
+  },
+  {
+   "n": 145,
+   "title": "రాజస్థలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rājasthaleśvaramāhātmyavarṇanam",
+   "title_deva": "राजस्थलेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-74/"
+  },
+  {
+   "n": 146,
+   "title": "వడలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vaḍaleśvaramāhātmyavarṇanam",
+   "title_deva": "वडलेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-75/"
+  },
+  {
+   "n": 147,
+   "title": "చతురశీతిలిఙ్గమాహాత్మ్యేఽరుణేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caturaśītiliṅgamāhātmye'ruṇeśvaramāhātmyavarṇanam",
+   "title_deva": "चतुरशीतिलिङ्गमाहात्म्येऽरुणेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-76/"
+  },
+  {
+   "n": 148,
+   "title": "పుష్పదన్తేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "puṣpadanteśvaramāhātmyavarṇanam",
+   "title_deva": "पुष्पदन्तेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-77/"
+  },
+  {
+   "n": 149,
+   "title": "అష్టసప్తతికం విద్ధి అవిముక్తేశ్వరం ప్రియే",
+   "title_iast": "aṣṭasaptatikaṁ viddhi avimukteśvaraṁ priye",
+   "title_deva": "अष्टसप्ततिकं विद्धि अविमुक्तेश्वरं प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-78/"
+  },
+  {
+   "n": 150,
+   "title": "ఏకోనాశీతికం విద్ధి హనుమత్కేశ్వరం ప్రియే",
+   "title_iast": "ekonāśītikaṁ viddhi hanumatkeśvaraṁ priye",
+   "title_deva": "एकोनाशीतिकं विद्धि हनुमत्केश्वरं प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-79/"
+  },
+  {
+   "n": 151,
+   "title": "ఆశీతికం విజానీహి దేవం స్వప్నేశ్వరం ప్రియే",
+   "title_iast": "āśītikaṁ vijānīhi devaṁ svapneśvaraṁ priye",
+   "title_deva": "आशीतिकं विजानीहि देवं स्वप्नेश्वरं प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-80/"
+  },
+  {
+   "n": 152,
+   "title": "చతుర్ద్వారస్థితం దేవి శృణు లింగచతుష్టయమ్",
+   "title_iast": "caturdvārasthitaṁ devi śṛṇu liṁgacatuṣṭayam",
+   "title_deva": "चतुर्द्वारस्थितं देवि शृणु लिंगचतुष्टयम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-81/"
+  },
+  {
+   "n": 153,
+   "title": "కాయావరోహణేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kāyāvarohaṇeśvaramāhātmyavarṇanam",
+   "title_deva": "कायावरोहणेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-82/"
+  },
+  {
+   "n": 154,
+   "title": "బిల్వేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bilveśvaramāhātmyavarṇanam",
+   "title_deva": "बिल्वेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-83/"
+  },
+  {
+   "n": 155,
+   "title": "ఉత్తరేశ్వరమాహాత్మ్యమశేషపాపనాశనమ్",
+   "title_iast": "uttareśvaramāhātmyamaśeṣapāpanāśanam",
+   "title_deva": "उत्तरेश्वरमाहात्म्यमशेषपापनाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/chaturashiti-linga/adhyaya-84/"
+  },
+  {
+   "n": 156,
+   "title": "ఓం నమో హరిహరహిరణ్యగర్భేభ్యో నమో వ్యాసవాల్మీకిశుకపరాశరేభ్యో నమో గ…",
+   "title_iast": "oṁ namo hariharahiraṇyagarbhebhyo namo vyāsavālmīkiśukaparāśarebhyo namo ga…",
+   "title_deva": "ओं नमो हरिहरहिरण्यगर्भेभ्यो नमो व्यासवाल्मीकिशुकपराशरेभ्यो नमो ग…",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-1/"
+  },
+  {
+   "n": 157,
+   "title": "రేవామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "revāmāhātmyavarṇanam",
+   "title_deva": "रेवामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-2/"
+  },
+  {
+   "n": 158,
+   "title": "మార్కణ్డేయకృతపోతార్ధారోహణవృత్తాన్తవర్ణనమ్",
+   "title_iast": "mārkaṇḍeyakṛtapotārdhārohaṇavṛttāntavarṇanam",
+   "title_deva": "मार्कण्डेयकृतपोतार्धारोहणवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-3/"
+  },
+  {
+   "n": 159,
+   "title": "నర్మదాపఞ్చదశనామవర్ణనమ్",
+   "title_iast": "narmadāpañcadaśanāmavarṇanam",
+   "title_deva": "नर्मदापञ्चदशनामवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-4/"
+  },
+  {
+   "n": 160,
+   "title": "విస్మయం పరమాపన్నా ఋషిసంఘా మయా సహ",
+   "title_iast": "vismayaṁ paramāpannā ṛṣisaṁghā mayā saha",
+   "title_deva": "विस्मयं परमापन्ना ऋषिसंघा मया सह",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-5/"
+  },
+  {
+   "n": 161,
+   "title": "మయూరకల్పసముద్భవః",
+   "title_iast": "mayūrakalpasamudbhavaḥ",
+   "title_deva": "मयूरकल्पसमुद्भवः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-6/"
+  },
+  {
+   "n": 162,
+   "title": "కూర్మకల్పసముద్భవః",
+   "title_iast": "kūrmakalpasamudbhavaḥ",
+   "title_deva": "कूर्मकल्पसमुद्भवः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-7/"
+  },
+  {
+   "n": 163,
+   "title": "మహార్ణవస్య మధ్యస్థో బాహుభ్యామతరం జలమ్",
+   "title_iast": "mahārṇavasya madhyastho bāhubhyāmataraṁ jalam",
+   "title_deva": "महार्णवस्य मध्यस्थो बाहुभ्यामतरं जलम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-8/"
+  },
+  {
+   "n": 164,
+   "title": "నర్మదోత్పత్తితత్స్నానఫలాదికథనమ్",
+   "title_iast": "narmadotpattitatsnānaphalādikathanam",
+   "title_deva": "नर्मदोत्पत्तितत्स्नानफलादिकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-9/"
+  },
+  {
+   "n": 165,
+   "title": "నర్మదాస్నానఫలశ్రుతికథనమ్",
+   "title_iast": "narmadāsnānaphalaśrutikathanam",
+   "title_deva": "नर्मदास्नानफलश्रुतिकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-10/"
+  },
+  {
+   "n": 166,
+   "title": "శ్రీనర్మదామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrīnarmadāmāhātmyavarṇanam",
+   "title_deva": "श्रीनर्मदामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-11/"
+  },
+  {
+   "n": 167,
+   "title": "నర్మదాస్తోత్రకథనమ్",
+   "title_iast": "narmadāstotrakathanam",
+   "title_deva": "नर्मदास्तोत्रकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-12/"
+  },
+  {
+   "n": 168,
+   "title": "ఏకవింశతికల్పకథానకవర్ణనమ్",
+   "title_iast": "ekaviṁśatikalpakathānakavarṇanam",
+   "title_deva": "एकविंशतिकल्पकथानकवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-13/"
+  },
+  {
+   "n": 169,
+   "title": "కాలరాత్రికృతజగత్సంహరణవర్ణనమ్",
+   "title_iast": "kālarātrikṛtajagatsaṁharaṇavarṇanam",
+   "title_deva": "कालरात्रिकृतजगत्संहरणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-14/"
+  },
+  {
+   "n": 170,
+   "title": "సృష్టిసంహరణసంరమ్భవర్ణనమ్",
+   "title_iast": "sṛṣṭisaṁharaṇasaṁrambhavarṇanam",
+   "title_deva": "सृष्टिसंहरणसंरम्भवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-15/"
+  },
+  {
+   "n": 171,
+   "title": "బ్రహ్మకృతశివస్తుతివర్ణనమ్",
+   "title_iast": "brahmakṛtaśivastutivarṇanam",
+   "title_deva": "ब्रह्मकृतशिवस्तुतिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-16/"
+  },
+  {
+   "n": 172,
+   "title": "జగత్సంహరణవర్ణనమ్",
+   "title_iast": "jagatsaṁharaṇavarṇanam",
+   "title_deva": "जगत्संहरणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-17/"
+  },
+  {
+   "n": 173,
+   "title": "సప్తభిశ్చార్ణవైః శుష్కైర్ద్వీపైః సప్తభిరేవ చ",
+   "title_iast": "saptabhiścārṇavaiḥ śuṣkairdvīpaiḥ saptabhireva ca",
+   "title_deva": "सप्तभिश्चार्णवैः शुष्कैर्द्वीपैः सप्तभिरेव च",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-18/"
+  },
+  {
+   "n": 174,
+   "title": "కాకూచ్ఛ్వాసస్తరంస్తోయం బాహుభ్యాం నృపసత్తమ",
+   "title_iast": "kākūcchvāsastaraṁstoyaṁ bāhubhyāṁ nṛpasattama",
+   "title_deva": "काकूच्छ्वासस्तरंस्तोयं बाहुभ्यां नृपसत्तम",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-19/"
+  },
+  {
+   "n": 175,
+   "title": "వారాహకల్పవృత్తాన్తవర్ణనమ్",
+   "title_iast": "vārāhakalpavṛttāntavarṇanam",
+   "title_deva": "वाराहकल्पवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-20/"
+  },
+  {
+   "n": 176,
+   "title": "భూయశ్చ శ్రోతుమిచ్ఛామి తన్మే కథయ సువ్రత",
+   "title_iast": "bhūyaśca śrotumicchāmi tanme kathaya suvrata",
+   "title_deva": "भूयश्च श्रोतुमिच्छामि तन्मे कथय सुव्रत",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-21/"
+  },
+  {
+   "n": 177,
+   "title": "విశల్యాసమ్భవః",
+   "title_iast": "viśalyāsambhavaḥ",
+   "title_deva": "विशल्यासम्भवः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-22/"
+  },
+  {
+   "n": 178,
+   "title": "విశల్యాసఙ్గమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "viśalyāsaṅgamamāhātmyavarṇanam",
+   "title_deva": "विशल्यासङ्गममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-23/"
+  },
+  {
+   "n": 179,
+   "title": "కరనర్మదాసఙ్గమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karanarmadāsaṅgamamāhātmyavarṇanam",
+   "title_deva": "करनर्मदासङ्गममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-24/"
+  },
+  {
+   "n": 180,
+   "title": "సఙ్గమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "saṅgamamāhātmyavarṇanam",
+   "title_deva": "सङ्गममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-25/"
+  },
+  {
+   "n": 181,
+   "title": "మధూకతృతీయావ్రతవిధానమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "madhūkatṛtīyāvratavidhānamāhātmyavarṇanam",
+   "title_deva": "मधूकतृतीयाव्रतविधानमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-26/"
+  },
+  {
+   "n": 182,
+   "title": "త్రిపురక్షోభణవర్ణనమ్",
+   "title_iast": "tripurakṣobhaṇavarṇanam",
+   "title_deva": "त्रिपुरक्षोभणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-27/"
+  },
+  {
+   "n": 183,
+   "title": "మార్కణ్డేయ ఉవాచ - ఏతస్మిన్నన్తరే రుద్రో నర్మదాతటమాస్థితః",
+   "title_iast": "mārkaṇḍeya uvāca - etasminnantare rudro narmadātaṭamāsthitaḥ",
+   "title_deva": "मार्कण्डेय उवाच - एतस्मिन्नन्तरे रुद्रो नर्मदातटमास्थितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-28/"
+  },
+  {
+   "n": 184,
+   "title": "మాహాత్మ్యం శ్రోతుమిచ్ఛామి తస్యా మార్కణ్డ తత్త్వతః",
+   "title_iast": "māhātmyaṁ śrotumicchāmi tasyā mārkaṇḍa tattvataḥ",
+   "title_deva": "माहात्म्यं श्रोतुमिच्छामि तस्या मार्कण्ड तत्त्वतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-29/"
+  },
+  {
+   "n": 185,
+   "title": "దారుతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dārutīrthamāhātmyavarṇanam",
+   "title_deva": "दारुतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-30/"
+  },
+  {
+   "n": 186,
+   "title": "బ్రహ్మావర్తమితి ఖ్యాతం సర్వపాపప్రణాశనమ్",
+   "title_iast": "brahmāvartamiti khyātaṁ sarvapāpapraṇāśanam",
+   "title_deva": "ब्रह्मावर्तमिति ख्यातं सर्वपापप्रणाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-31/"
+  },
+  {
+   "n": 187,
+   "title": "పత్రేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "patreśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "पत्रेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-32/"
+  },
+  {
+   "n": 188,
+   "title": "రేవాఖణ్డేఽగ్నితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "revākhaṇḍe'gnitīrthamāhātmyavarṇanam",
+   "title_deva": "रेवाखण्डेऽग्नितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-33/"
+  },
+  {
+   "n": 189,
+   "title": "రవితీర్థవర్ణనమ్",
+   "title_iast": "ravitīrthavarṇanam",
+   "title_deva": "रवितीर्थवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-34/"
+  },
+  {
+   "n": 190,
+   "title": "మేఘనాదతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "meghanādatīrthamāhātmyavarṇanam",
+   "title_deva": "मेघनादतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-35/"
+  },
+  {
+   "n": 191,
+   "title": "దారుకతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dārukatīrthamāhātmyavarṇanam",
+   "title_deva": "दारुकतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-36/"
+  },
+  {
+   "n": 192,
+   "title": "దేవతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "devatīrthamāhātmyavarṇanam",
+   "title_deva": "देवतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-37/"
+  },
+  {
+   "n": 193,
+   "title": "యత్ర సిద్ధో మహాదేవో గుహావాసీ సమార్బుదమ్",
+   "title_iast": "yatra siddho mahādevo guhāvāsī samārbudam",
+   "title_deva": "यत्र सिद्धो महादेवो गुहावासी समार्बुदम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-38/"
+  },
+  {
+   "n": 194,
+   "title": "స్నానమాత్రాన్నరో భక్త్యా ముచ్యతే సర్వకిల్బిషైః",
+   "title_iast": "snānamātrānnaro bhaktyā mucyate sarvakilbiṣaiḥ",
+   "title_deva": "स्नानमात्रान्नरो भक्त्या मुच्यते सर्वकिल्बिषैः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-39/"
+  },
+  {
+   "n": 195,
+   "title": "కరఞ్జేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karañjeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "करञ्जेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-40/"
+  },
+  {
+   "n": 196,
+   "title": "యత్ర సిద్ధో మహాయక్షః కుణ్డధారో నృపోత్తమ",
+   "title_iast": "yatra siddho mahāyakṣaḥ kuṇḍadhāro nṛpottama",
+   "title_deva": "यत्र सिद्धो महायक्षः कुण्डधारो नृपोत्तम",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-41/"
+  },
+  {
+   "n": 197,
+   "title": "పిప్పలాదతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pippalādatīrthamāhātmyavarṇanam",
+   "title_deva": "पिप्पलादतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-42/"
+  },
+  {
+   "n": 198,
+   "title": "విమలేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vimaleśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "विमलेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-43/"
+  },
+  {
+   "n": 199,
+   "title": "శూలభేదప్రశంసావర్ణనమ్",
+   "title_iast": "śūlabhedapraśaṁsāvarṇanam",
+   "title_deva": "शूलभेदप्रशंसावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-44/"
+  },
+  {
+   "n": 200,
+   "title": "అన్ధకవరప్రదానవర్ణనమ్",
+   "title_iast": "andhakavarapradānavarṇanam",
+   "title_deva": "अन्धकवरप्रदानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-45/"
+  },
+  {
+   "n": 201,
+   "title": "శచీహరణవర్ణనమ్",
+   "title_iast": "śacīharaṇavarṇanam",
+   "title_deva": "शचीहरणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-46/"
+  },
+  {
+   "n": 202,
+   "title": "గీర్వాణస్వర్గమనవర్ణనమ్",
+   "title_iast": "gīrvāṇasvargamanavarṇanam",
+   "title_deva": "गीर्वाणस्वर्गमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-47/"
+  },
+  {
+   "n": 203,
+   "title": "సర్వాన్దేవాంశ్చ నిర్జిత్య కస్మిన్స్థానే సమాస్థితః",
+   "title_iast": "sarvāndevāṁśca nirjitya kasminsthāne samāsthitaḥ",
+   "title_deva": "सर्वान्देवांश्च निर्जित्य कस्मिन्स्थाने समास्थितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-48/"
+  },
+  {
+   "n": 204,
+   "title": "ఉమయా సహితో రుద్రః కైలాసమగమన్నగమ్",
+   "title_iast": "umayā sahito rudraḥ kailāsamagamannagam",
+   "title_deva": "उमया सहितो रुद्रः कैलासमगमन्नगम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-49/"
+  },
+  {
+   "n": 205,
+   "title": "పాత్రాపాత్రపరీక్షాదానాదినియమవర్ణనమ్",
+   "title_iast": "pātrāpātraparīkṣādānādiniyamavarṇanam",
+   "title_deva": "पात्रापात्रपरीक्षादानादिनियमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-50/"
+  },
+  {
+   "n": 206,
+   "title": "యాత్రా తత్ర ప్రకర్తవ్యా తిథౌ యస్యాం వదాశు తత్",
+   "title_iast": "yātrā tatra prakartavyā tithau yasyāṁ vadāśu tat",
+   "title_deva": "यात्रा तत्र प्रकर्तव्या तिथौ यस्यां वदाशु तत्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-51/"
+  },
+  {
+   "n": 207,
+   "title": "దీర్ఘతపోమున్యాఖ్యానవర్ణనమ్",
+   "title_iast": "dīrghatapomunyākhyānavarṇanam",
+   "title_deva": "दीर्घतपोमुन्याख्यानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-52/"
+  },
+  {
+   "n": 208,
+   "title": "ఋక్షశృఙ్గస్వర్గగమనవర్ణనమ్",
+   "title_iast": "ṛkṣaśṛṅgasvargagamanavarṇanam",
+   "title_deva": "ऋक्षशृङ्गस्वर्गगमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-53/"
+  },
+  {
+   "n": 209,
+   "title": "స్వర్గారోహణవర్ణనమ్",
+   "title_iast": "svargārohaṇavarṇanam",
+   "title_deva": "स्वर्गारोहणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-54/"
+  },
+  {
+   "n": 210,
+   "title": "కాశీరాజమోక్షగమనమ్",
+   "title_iast": "kāśīrājamokṣagamanam",
+   "title_deva": "काशीराजमोक्षगमनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-55/"
+  },
+  {
+   "n": 211,
+   "title": "వ్యాధవాక్యోపదేశకథనపూర్వకదానాదిఫలవర్ణనమ్",
+   "title_iast": "vyādhavākyopadeśakathanapūrvakadānādiphalavarṇanam",
+   "title_deva": "व्याधवाक्योपदेशकथनपूर्वकदानादिफलवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-56/"
+  },
+  {
+   "n": 212,
+   "title": "వ్యాధస్వర్గగమనవర్ణనమ్",
+   "title_iast": "vyādhasvargagamanavarṇanam",
+   "title_deva": "व्याधस्वर्गगमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-57/"
+  },
+  {
+   "n": 213,
+   "title": "ఏష మే సంశయో దేవ కథయస్వ ప్రసాదతః",
+   "title_iast": "eṣa me saṁśayo deva kathayasva prasādataḥ",
+   "title_deva": "एष मे संशयो देव कथयस्व प्रसादतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-58/"
+  },
+  {
+   "n": 214,
+   "title": "శ్రుతే యస్యాః ప్రభావే తు సర్వపాపైః ప్రముచ్యతే",
+   "title_iast": "śrute yasyāḥ prabhāve tu sarvapāpaiḥ pramucyate",
+   "title_deva": "श्रुते यस्याः प्रभावे तु सर्वपापैः प्रमुच्यते",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-59/"
+  },
+  {
+   "n": 215,
+   "title": "ఆదిత్యేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ādityeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "आदित्येश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-60/"
+  },
+  {
+   "n": 216,
+   "title": "శక్రతీర్థం సువిఖ్యాతమశేషాఘవినాశనమ్",
+   "title_iast": "śakratīrthaṁ suvikhyātamaśeṣāghavināśanam",
+   "title_deva": "शक्रतीर्थं सुविख्यातमशेषाघविनाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-61/"
+  },
+  {
+   "n": 217,
+   "title": "కరోడీశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karoḍīśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "करोडीश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-62/"
+  },
+  {
+   "n": 218,
+   "title": "కుమారేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kumāreśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "कुमारेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-63/"
+  },
+  {
+   "n": 219,
+   "title": "అగస్త్యేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "agastyeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "अगस्त्येश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-64/"
+  },
+  {
+   "n": 220,
+   "title": "ఆనన్దేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ānandeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "आनन्देश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-65/"
+  },
+  {
+   "n": 221,
+   "title": "మాతృతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mātṛtīrthamāhātmyavarṇanam",
+   "title_deva": "मातृतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-66/"
+  },
+  {
+   "n": 222,
+   "title": "లుఙ్కేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "luṅkeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "लुङ्केश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-67/"
+  },
+  {
+   "n": 223,
+   "title": "నర్మదాదక్షిణే కూలే సర్వపాపక్షయంకరమ్",
+   "title_iast": "narmadādakṣiṇe kūle sarvapāpakṣayaṁkaram",
+   "title_deva": "नर्मदादक्षिणे कूले सर्वपापक्षयंकरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-68/"
+  },
+  {
+   "n": 224,
+   "title": "స్థాపితం భూమిపుత్రేణ లోకానాం హితకామ్యయా",
+   "title_iast": "sthāpitaṁ bhūmiputreṇa lokānāṁ hitakāmyayā",
+   "title_deva": "स्थापितं भूमिपुत्रेण लोकानां हितकाम्यया",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-69/"
+  },
+  {
+   "n": 225,
+   "title": "రవితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ravitīrthamāhātmyavarṇanam",
+   "title_deva": "रवितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-70/"
+  },
+  {
+   "n": 226,
+   "title": "సిద్ధో యత్ర గణాధ్యక్షో గౌరీపుత్రో మహాబలః",
+   "title_iast": "siddho yatra gaṇādhyakṣo gaurīputro mahābalaḥ",
+   "title_deva": "सिद्धो यत्र गणाध्यक्षो गौरीपुत्रो महाबलः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-71/"
+  },
+  {
+   "n": 227,
+   "title": "మణినాగేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "maṇināgeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "मणिनागेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-72/"
+  },
+  {
+   "n": 228,
+   "title": "గోప్రేక్షేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "goprekṣeśvaramāhātmyavarṇanam",
+   "title_deva": "गोप्रेक्षेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-73/"
+  },
+  {
+   "n": 229,
+   "title": "గౌతమేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gautameśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "गौतमेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-74/"
+  },
+  {
+   "n": 230,
+   "title": "శఙ్ఖచూడతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śaṅkhacūḍatīrthamāhātmyavarṇanam",
+   "title_deva": "शङ्खचूडतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-75/"
+  },
+  {
+   "n": 231,
+   "title": "పారేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pāreśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "पारेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-76/"
+  },
+  {
+   "n": 232,
+   "title": "భీమేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhīmeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "भीमेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-77/"
+  },
+  {
+   "n": 233,
+   "title": "తీర్థానాం పరమం తీర్థం నిర్మితం నారదేన తు",
+   "title_iast": "tīrthānāṁ paramaṁ tīrthaṁ nirmitaṁ nāradena tu",
+   "title_deva": "तीर्थानां परमं तीर्थं निर्मितं नारदेन तु",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-78/"
+  },
+  {
+   "n": 234,
+   "title": "శ్రీమార్కణ్డేయ ఉవాచ - తతో గచ్ఛేత్తు రాజేన్ద్ర తీర్థద్వయమనుత్తమమ్",
+   "title_iast": "śrīmārkaṇḍeya uvāca - tato gacchettu rājendra tīrthadvayamanuttamam",
+   "title_deva": "श्रीमार्कण्डेय उवाच - ततो गच्छेत्तु राजेन्द्र तीर्थद्वयमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-79/"
+  },
+  {
+   "n": 235,
+   "title": "యత్ర సిద్ధో మహానన్దీ తత్తే సర్వం వదామ్యహమ్",
+   "title_iast": "yatra siddho mahānandī tatte sarvaṁ vadāmyaham",
+   "title_deva": "यत्र सिद्धो महानन्दी तत्ते सर्वं वदाम्यहम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-80/"
+  },
+  {
+   "n": 236,
+   "title": "యత్ర సిద్ధో మహాదేవో వరుణో నృపసత్తమ",
+   "title_iast": "yatra siddho mahādevo varuṇo nṛpasattama",
+   "title_deva": "यत्र सिद्धो महादेवो वरुणो नृपसत्तम",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-81/"
+  },
+  {
+   "n": 237,
+   "title": "దధిస్కన్దాదిపఞ్చతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dadhiskandādipañcatīrthamāhātmyavarṇanam",
+   "title_deva": "दधिस्कन्दादिपञ्चतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-82/"
+  },
+  {
+   "n": 238,
+   "title": "హనూమన్తేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "hanūmanteśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "हनूमन्तेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-83/"
+  },
+  {
+   "n": 239,
+   "title": "కపితీర్థరామేశ్వరలక్ష్మణేశ్వరకుమ్భేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kapitīrtharāmeśvaralakṣmaṇeśvarakumbheśvaramāhātmyavarṇanam",
+   "title_deva": "कपितीर्थरामेश्वरलक्ष्मणेश्वरकुम्भेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-84/"
+  },
+  {
+   "n": 240,
+   "title": "సోమనాథతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "somanāthatīrthamāhātmyavarṇanam",
+   "title_deva": "सोमनाथतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-85/"
+  },
+  {
+   "n": 241,
+   "title": "పిఙ్గలేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "piṅgaleśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "पिङ्गलेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-86/"
+  },
+  {
+   "n": 242,
+   "title": "ఋణత్రయమోచనతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ṛṇatrayamocanatīrthamāhātmyavarṇanam",
+   "title_deva": "ऋणत्रयमोचनतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-87/"
+  },
+  {
+   "n": 243,
+   "title": "స్థాపితం కపిలేనైవ సర్వపాతకనాశనమ్",
+   "title_iast": "sthāpitaṁ kapilenaiva sarvapātakanāśanam",
+   "title_deva": "स्थापितं कपिलेनैव सर्वपातकनाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-88/"
+  },
+  {
+   "n": 244,
+   "title": "నర్మదాదక్షిణే కూలే సర్వపాపక్షయంకరమ్",
+   "title_iast": "narmadādakṣiṇe kūle sarvapāpakṣayaṁkaram",
+   "title_deva": "नर्मदादक्षिणे कूले सर्वपापक्षयंकरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-89/"
+  },
+  {
+   "n": 245,
+   "title": "జలశాయితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "jalaśāyitīrthamāhātmyavarṇanam",
+   "title_deva": "जलशायितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-90/"
+  },
+  {
+   "n": 246,
+   "title": "చణ్డాదిత్యం నృపశ్రేష్ఠ స్థాపితం చణ్డముణ్డయోః",
+   "title_iast": "caṇḍādityaṁ nṛpaśreṣṭha sthāpitaṁ caṇḍamuṇḍayoḥ",
+   "title_deva": "चण्डादित्यं नृपश्रेष्ठ स्थापितं चण्डमुण्डयोः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-91/"
+  },
+  {
+   "n": 247,
+   "title": "యమహాస్యతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "yamahāsyatīrthamāhātmyavarṇanam",
+   "title_deva": "यमहास्यतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-92/"
+  },
+  {
+   "n": 248,
+   "title": "కల్హోడీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kalhoḍītīrthamāhātmyavarṇanam",
+   "title_deva": "कल्होडीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-93/"
+  },
+  {
+   "n": 249,
+   "title": "నన్దికేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nandikeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "नन्दिकेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-94/"
+  },
+  {
+   "n": 250,
+   "title": "నారాయణీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nārāyaṇītīrthamāhātmyavarṇanam",
+   "title_deva": "नारायणीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-95/"
+  },
+  {
+   "n": 251,
+   "title": "కోటీశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "koṭīśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "कोटीश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-96/"
+  },
+  {
+   "n": 252,
+   "title": "వ్యాసతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vyāsatīrthamāhātmyavarṇanam",
+   "title_deva": "व्यासतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-97/"
+  },
+  {
+   "n": 253,
+   "title": "శ్రీమార్కణ్డేయ ఉవాచ - తతో గచ్ఛేత్తు రాజేన్ద్ర ప్రభాసేశ్వరముత్తమమ…",
+   "title_iast": "śrīmārkaṇḍeya uvāca - tato gacchettu rājendra prabhāseśvaramuttamama…",
+   "title_deva": "श्रीमार्कण्डेय उवाच - ततो गच्छेत्तु राजेन्द्र प्रभासेश्वरमुत्तमम…",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-98/"
+  },
+  {
+   "n": 254,
+   "title": "స్థాపితం వాసుకీశం తు సమస్తాఘౌఘనాశనమ్",
+   "title_iast": "sthāpitaṁ vāsukīśaṁ tu samastāghaughanāśanam",
+   "title_deva": "स्थापितं वासुकीशं तु समस्ताघौघनाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-99/"
+  },
+  {
+   "n": 255,
+   "title": "మార్కణ్డేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mārkaṇḍeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "मार्कण्डेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-100/"
+  },
+  {
+   "n": 256,
+   "title": "ఉత్తరే నర్మదాకూలే యజ్ఞవాటస్య మధ్యతః",
+   "title_iast": "uttare narmadākūle yajñavāṭasya madhyataḥ",
+   "title_deva": "उत्तरे नर्मदाकूले यज्ञवाटस्य मध्यतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-101/"
+  },
+  {
+   "n": 257,
+   "title": "మన్మథేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "manmatheśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "मन्मथेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-102/"
+  },
+  {
+   "n": 258,
+   "title": "ఏరణ్డీసఙ్గమతీర్థఫలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "eraṇḍīsaṅgamatīrthaphalamāhātmyavarṇanam",
+   "title_deva": "एरण्डीसङ्गमतीर्थफलमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-103/"
+  },
+  {
+   "n": 259,
+   "title": "సువర్ణశిలాతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "suvarṇaśilātīrthamāhātmyavarṇanam",
+   "title_deva": "सुवर्णशिलातीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-104/"
+  },
+  {
+   "n": 260,
+   "title": "కరఞ్జతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karañjatīrthamāhātmyavarṇanam",
+   "title_deva": "करञ्जतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-105/"
+  },
+  {
+   "n": 261,
+   "title": "కామదతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kāmadatīrthamāhātmyavarṇanam",
+   "title_deva": "कामदतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-106/"
+  },
+  {
+   "n": 262,
+   "title": "భణ్డారీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhaṇḍārītīrthamāhātmyavarṇanam",
+   "title_deva": "भण्डारीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-107/"
+  },
+  {
+   "n": 263,
+   "title": "విఖ్యాతం త్రిషు లోకేషు సర్వపాపహరం పరమ్",
+   "title_iast": "vikhyātaṁ triṣu lokeṣu sarvapāpaharaṁ param",
+   "title_deva": "विख्यातं त्रिषु लोकेषु सर्वपापहरं परम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-108/"
+  },
+  {
+   "n": 264,
+   "title": "చక్రతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "cakratīrthamāhātmyavarṇanam",
+   "title_deva": "चक्रतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-109/"
+  },
+  {
+   "n": 265,
+   "title": "ధౌతపాపతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dhautapāpatīrthamāhātmyavarṇanam",
+   "title_deva": "धौतपापतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-110/"
+  },
+  {
+   "n": 266,
+   "title": "స్కన్దేన నిర్మితం పూర్వం తపః కృత్వా సుదారుణమ్",
+   "title_iast": "skandena nirmitaṁ pūrvaṁ tapaḥ kṛtvā sudāruṇam",
+   "title_deva": "स्कन्देन निर्मितं पूर्वं तपः कृत्वा सुदारुणम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-111/"
+  },
+  {
+   "n": 267,
+   "title": "రేవాఖణ్డేఽగ్నిరసతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "revākhaṇḍe'gnirasatīrthamāhātmyavarṇanam",
+   "title_deva": "रेवाखण्डेऽग्निरसतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-112/"
+  },
+  {
+   "n": 268,
+   "title": "కోటితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "koṭitīrthamāhātmyavarṇanam",
+   "title_deva": "कोटितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-113/"
+  },
+  {
+   "n": 269,
+   "title": "అయోనిసమ్భవతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ayonisambhavatīrthamāhātmyavarṇanam",
+   "title_deva": "अयोनिसम्भवतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-114/"
+  },
+  {
+   "n": 270,
+   "title": "అఙ్గారకతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "aṅgārakatīrthamāhātmyavarṇanam",
+   "title_deva": "अङ्गारकतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-115/"
+  },
+  {
+   "n": 271,
+   "title": "పాణ్డుతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pāṇḍutīrthamāhātmyavarṇanam",
+   "title_deva": "पाण्डुतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-116/"
+  },
+  {
+   "n": 272,
+   "title": "త్రిలోచనతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "trilocanatīrthamāhātmyavarṇanam",
+   "title_deva": "त्रिलोचनतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-117/"
+  },
+  {
+   "n": 273,
+   "title": "శ్రీమార్కణ్డేయ ఉవాచ - తతో గచ్ఛేత్తు రాజేన్ద్ర తీర్థం పరమశోభనమ్",
+   "title_iast": "śrīmārkaṇḍeya uvāca - tato gacchettu rājendra tīrthaṁ paramaśobhanam",
+   "title_deva": "श्रीमार्कण्डेय उवाच - ततो गच्छेत्तु राजेन्द्र तीर्थं परमशोभनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-118/"
+  },
+  {
+   "n": 274,
+   "title": "రేవాయాశ్చోత్తరే కూలే సర్వపాపవినాశనమ్",
+   "title_iast": "revāyāścottare kūle sarvapāpavināśanam",
+   "title_deva": "रेवायाश्चोत्तरे कूले सर्वपापविनाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-119/"
+  },
+  {
+   "n": 275,
+   "title": "కమ్బుకేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kambukeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "कम्बुकेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-120/"
+  },
+  {
+   "n": 276,
+   "title": "యత్ర సిద్ధిం పరాం ప్రాప్తః సోమరాజః సురోత్తమః",
+   "title_iast": "yatra siddhiṁ parāṁ prāptaḥ somarājaḥ surottamaḥ",
+   "title_deva": "यत्र सिद्धिं परां प्राप्तः सोमराजः सुरोत्तमः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-121/"
+  },
+  {
+   "n": 277,
+   "title": "కోహనతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kohanatīrthamāhātmyavarṇanam",
+   "title_deva": "कोहनतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-122/"
+  },
+  {
+   "n": 278,
+   "title": "కర్మదేశ్వరతీర్థమాహత్మ్యవర్ణనమ్",
+   "title_iast": "karmadeśvaratīrthamāhatmyavarṇanam",
+   "title_deva": "कर्मदेश्वरतीर्थमाहत्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-123/"
+  },
+  {
+   "n": 279,
+   "title": "నర్మదేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "narmadeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "नर्मदेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-124/"
+  },
+  {
+   "n": 280,
+   "title": "రవితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ravitīrthamāhātmyavarṇanam",
+   "title_deva": "रवितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-125/"
+  },
+  {
+   "n": 281,
+   "title": "అయోనిప్రభవతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ayoniprabhavatīrthamāhātmyavarṇanam",
+   "title_deva": "अयोनिप्रभवतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-126/"
+  },
+  {
+   "n": 282,
+   "title": "అగ్నితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "agnitīrthamāhātmyavarṇanam",
+   "title_deva": "अग्नितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-127/"
+  },
+  {
+   "n": 283,
+   "title": "యత్ర సిద్ధో మహాభాగో భృగుః పరమకోపనః",
+   "title_iast": "yatra siddho mahābhāgo bhṛguḥ paramakopanaḥ",
+   "title_deva": "यत्र सिद्धो महाभागो भृगुः परमकोपनः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-128/"
+  },
+  {
+   "n": 284,
+   "title": "అన్యేషాం చైవ తీర్థానాం పరాత్పరతరం మహత్",
+   "title_iast": "anyeṣāṁ caiva tīrthānāṁ parātparataraṁ mahat",
+   "title_deva": "अन्येषां चैव तीर्थानां परात्परतरं महत्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-129/"
+  },
+  {
+   "n": 285,
+   "title": "దేవతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "devatīrthamāhātmyavarṇanam",
+   "title_deva": "देवतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-130/"
+  },
+  {
+   "n": 286,
+   "title": "యత్ర సిద్ధా మహానాగా భయే జాతే తతో నృప",
+   "title_iast": "yatra siddhā mahānāgā bhaye jāte tato nṛpa",
+   "title_deva": "यत्र सिद्धा महानागा भये जाते ततो नृप",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-131/"
+  },
+  {
+   "n": 287,
+   "title": "ఆదివారాహతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ādivārāhatīrthamāhātmyavarṇanam",
+   "title_deva": "आदिवाराहतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-132/"
+  },
+  {
+   "n": 288,
+   "title": "కుబేరాదితీర్థచతుష్టయమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuberāditīrthacatuṣṭayamāhātmyavarṇanam",
+   "title_deva": "कुबेरादितीर्थचतुष्टयमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-133/"
+  },
+  {
+   "n": 289,
+   "title": "రామేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rāmeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "रामेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-134/"
+  },
+  {
+   "n": 290,
+   "title": "సిద్ధేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "siddheśvaramāhātmyavarṇanam",
+   "title_deva": "सिद्धेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-135/"
+  },
+  {
+   "n": 291,
+   "title": "అహల్యాతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ahalyātīrthamāhātmyavarṇanam",
+   "title_deva": "अहल्यातीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-136/"
+  },
+  {
+   "n": 292,
+   "title": "కర్కటేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karkaṭeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "कर्कटेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-137/"
+  },
+  {
+   "n": 293,
+   "title": "యత్ర సిద్ధో మహాభాగో దేవరాజః శతక్రతుః",
+   "title_iast": "yatra siddho mahābhāgo devarājaḥ śatakratuḥ",
+   "title_deva": "यत्र सिद्धो महाभागो देवराजः शतक्रतुः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-138/"
+  },
+  {
+   "n": 294,
+   "title": "యత్ర సోమస్తపస్తప్త్వా నక్షత్రపథమాస్థితః",
+   "title_iast": "yatra somastapastaptvā nakṣatrapathamāsthitaḥ",
+   "title_deva": "यत्र सोमस्तपस्तप्त्वा नक्षत्रपथमास्थितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-139/"
+  },
+  {
+   "n": 295,
+   "title": "నన్దాహ్రదతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nandāhradatīrthamāhātmyavarṇanam",
+   "title_deva": "नन्दाह्रदतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-140/"
+  },
+  {
+   "n": 296,
+   "title": "యత్ర సా హరిణీ సిద్ధా వ్యాధభీతా నరేశ్వర",
+   "title_iast": "yatra sā hariṇī siddhā vyādhabhītā nareśvara",
+   "title_deva": "यत्र सा हरिणी सिद्धा व्याधभीता नरेश्वर",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-141/"
+  },
+  {
+   "n": 297,
+   "title": "రుక్మిణీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rukmiṇītīrthamāhātmyavarṇanam",
+   "title_deva": "रुक्मिणीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-142/"
+  },
+  {
+   "n": 298,
+   "title": "యోజనేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "yojaneśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "योजनेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-143/"
+  },
+  {
+   "n": 299,
+   "title": "ద్వాదశీతీర్థమహాత్మ్యవర్ణనమ్",
+   "title_iast": "dvādaśītīrthamahātmyavarṇanam",
+   "title_deva": "द्वादशीतीर्थमहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-144/"
+  },
+  {
+   "n": 300,
+   "title": "శివతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śivatīrthamāhātmyavarṇanam",
+   "title_deva": "शिवतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-145/"
+  },
+  {
+   "n": 301,
+   "title": "అస్మాహకతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "asmāhakatīrthamāhātmyavarṇanam",
+   "title_deva": "अस्माहकतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-146/"
+  },
+  {
+   "n": 302,
+   "title": "నర్మదాదక్షిణే కూలే తీర్థం పరమశోభనమ్",
+   "title_iast": "narmadādakṣiṇe kūle tīrthaṁ paramaśobhanam",
+   "title_deva": "नर्मदादक्षिणे कूले तीर्थं परमशोभनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-147/"
+  },
+  {
+   "n": 303,
+   "title": "ఉత్తరే నర్మదాకూలే సర్వపాపక్షయంకరమ్",
+   "title_iast": "uttare narmadākūle sarvapāpakṣayaṁkaram",
+   "title_deva": "उत्तरे नर्मदाकूले सर्वपापक्षयंकरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-148/"
+  },
+  {
+   "n": 304,
+   "title": "దర్శనాద్దేవదేవస్య యత్ర పాపం ప్రణశ్యతి",
+   "title_iast": "darśanāddevadevasya yatra pāpaṁ praṇaśyati",
+   "title_deva": "दर्शनाद्देवदेवस्य यत्र पापं प्रणश्यति",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-149/"
+  },
+  {
+   "n": 305,
+   "title": "కుసుమేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kusumeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "कुसुमेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-150/"
+  },
+  {
+   "n": 306,
+   "title": "శ్రీమార్కణ్డేయ ఉవాచ - ఉత్తరే నర్మదాకూలే తీర్థం పరమశోభనమ్",
+   "title_iast": "śrīmārkaṇḍeya uvāca - uttare narmadākūle tīrthaṁ paramaśobhanam",
+   "title_deva": "श्रीमार्कण्डेय उवाच - उत्तरे नर्मदाकूले तीर्थं परमशोभनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-151/"
+  },
+  {
+   "n": 307,
+   "title": "భార్గలేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhārgaleśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "भार्गलेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-152/"
+  },
+  {
+   "n": 308,
+   "title": "ఆదిత్యేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ādityeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "आदित्येश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-153/"
+  },
+  {
+   "n": 309,
+   "title": "కలకలేశ్వరతీర్థఫలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kalakaleśvaratīrthaphalamāhātmyavarṇanam",
+   "title_deva": "कलकलेश्वरतीर्थफलमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-154/"
+  },
+  {
+   "n": 310,
+   "title": "చాణక్యసిద్ధిప్రాప్తివర్ణనమ్",
+   "title_iast": "cāṇakyasiddhiprāptivarṇanam",
+   "title_deva": "चाणक्यसिद्धिप्राप्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-155/"
+  },
+  {
+   "n": 311,
+   "title": "శుక్లతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śuklatīrthamāhātmyavarṇanam",
+   "title_deva": "शुक्लतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-156/"
+  },
+  {
+   "n": 312,
+   "title": "హుఙ్కారస్వామితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "huṅkārasvāmitīrthamāhātmyavarṇanam",
+   "title_deva": "हुङ्कारस्वामितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-157/"
+  },
+  {
+   "n": 313,
+   "title": "నర్మదాదక్షిణే కూలే సర్వపాపభయాపహమ్",
+   "title_iast": "narmadādakṣiṇe kūle sarvapāpabhayāpaham",
+   "title_deva": "नर्मदादक्षिणे कूले सर्वपापभयापहम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-158/"
+  },
+  {
+   "n": 314,
+   "title": "నర్మదాయాం సుదుష్ప్రాపం సిద్ధం హ్యనరకేశ్వరమ్",
+   "title_iast": "narmadāyāṁ suduṣprāpaṁ siddhaṁ hyanarakeśvaram",
+   "title_deva": "नर्मदायां सुदुष्प्रापं सिद्धं ह्यनरकेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-159/"
+  },
+  {
+   "n": 315,
+   "title": "మోక్షతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mokṣatīrthamāhātmyavarṇanam",
+   "title_deva": "मोक्षतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-160/"
+  },
+  {
+   "n": 316,
+   "title": "యత్ర సిద్ధా మహాసర్పాస్తపస్తప్త్వా యుధిష్ఠిర",
+   "title_iast": "yatra siddhā mahāsarpāstapastaptvā yudhiṣṭhira",
+   "title_deva": "यत्र सिद्धा महासर्पास्तपस्तप्त्वा युधिष्ठिर",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-161/"
+  },
+  {
+   "n": 317,
+   "title": "గోపేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gopeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "गोपेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-162/"
+  },
+  {
+   "n": 318,
+   "title": "నాగతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nāgatīrthamāhātmyavarṇanam",
+   "title_deva": "नागतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-163/"
+  },
+  {
+   "n": 319,
+   "title": "సాంవౌరేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sāṁvaureśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "सांवौरेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-164/"
+  },
+  {
+   "n": 320,
+   "title": "తీర్థం పరం మహారాజ సిద్ధైః కృతమితి ప్రభో",
+   "title_iast": "tīrthaṁ paraṁ mahārāja siddhaiḥ kṛtamiti prabho",
+   "title_deva": "तीर्थं परं महाराज सिद्धैः कृतमिति प्रभो",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-165/"
+  },
+  {
+   "n": 321,
+   "title": "ఆనన్దం పరమం ప్రాప్తా దృష్ట్వా స్థానం సుశోభనమ్",
+   "title_iast": "ānandaṁ paramaṁ prāptā dṛṣṭvā sthānaṁ suśobhanam",
+   "title_deva": "आनन्दं परमं प्राप्ता दृष्ट्वा स्थानं सुशोभनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-166/"
+  },
+  {
+   "n": 322,
+   "title": "మార్కణ్డేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mārkaṇḍeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "मार्कण्डेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-167/"
+  },
+  {
+   "n": 323,
+   "title": "తీర్థం సర్వగుణోపేతం త్రిషు లోకేషు విశ్రుతమ్",
+   "title_iast": "tīrthaṁ sarvaguṇopetaṁ triṣu lokeṣu viśrutam",
+   "title_deva": "तीर्थं सर्वगुणोपेतं त्रिषु लोकेषु विश्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-168/"
+  },
+  {
+   "n": 324,
+   "title": "మాణ్డవ్యో యత్ర సంసిద్ధ ఋషిర్నారాయణస్తథా",
+   "title_iast": "māṇḍavyo yatra saṁsiddha ṛṣirnārāyaṇastathā",
+   "title_deva": "माण्डव्यो यत्र संसिद्ध ऋषिर्नारायणस्तथा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-169/"
+  },
+  {
+   "n": 325,
+   "title": "మాణ్డవ్యశూలారోపణవర్ణనమ్",
+   "title_iast": "māṇḍavyaśūlāropaṇavarṇanam",
+   "title_deva": "माण्डव्यशूलारोपणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-170/"
+  },
+  {
+   "n": 326,
+   "title": "నారాయణసమీపే తు గతాః సర్వే మహర్షయః",
+   "title_iast": "nārāyaṇasamīpe tu gatāḥ sarve maharṣayaḥ",
+   "title_deva": "नारायणसमीपे तु गताः सर्वे महर्षयः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-171/"
+  },
+  {
+   "n": 327,
+   "title": "మాణ్డవ్యతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "māṇḍavyatīrthamāhātmyavarṇanam",
+   "title_deva": "माण्डव्यतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-172/"
+  },
+  {
+   "n": 328,
+   "title": "శుద్ధేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śuddheśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "शुद्धेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-173/"
+  },
+  {
+   "n": 329,
+   "title": "గోపేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gopeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "गोपेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-174/"
+  },
+  {
+   "n": 330,
+   "title": "కపిలేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kapileśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "कपिलेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-175/"
+  },
+  {
+   "n": 331,
+   "title": "పిఙ్గలేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "piṅgaleśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "पिङ्गलेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-176/"
+  },
+  {
+   "n": 332,
+   "title": "భూతీశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhūtīśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "भूतीश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-177/"
+  },
+  {
+   "n": 333,
+   "title": "శ్రీమార్కణ్డేయ ఉవాచ - తతో గచ్ఛేత్తు రాజేన్ద్ర గఙ్గావాహకముత్తమమ్",
+   "title_iast": "śrīmārkaṇḍeya uvāca - tato gacchettu rājendra gaṅgāvāhakamuttamam",
+   "title_deva": "श्रीमार्कण्डेय उवाच - ततो गच्छेत्तु राजेन्द्र गङ्गावाहकमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-178/"
+  },
+  {
+   "n": 334,
+   "title": "గౌతమేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gautameśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "गौतमेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-179/"
+  },
+  {
+   "n": 335,
+   "title": "తీర్థం సర్వగుణోపేతం మహాపాతకనాశనమ్",
+   "title_iast": "tīrthaṁ sarvaguṇopetaṁ mahāpātakanāśanam",
+   "title_deva": "तीर्थं सर्वगुणोपेतं महापातकनाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-180/"
+  },
+  {
+   "n": 336,
+   "title": "శ్రీమార్కణ్డేయ ఉవాచ - అతః పరం ప్రవక్ష్యామి భృగుతీర్థస్య విస్తరమ్",
+   "title_iast": "śrīmārkaṇḍeya uvāca - ataḥ paraṁ pravakṣyāmi bhṛgutīrthasya vistaram",
+   "title_deva": "श्रीमार्कण्डेय उवाच - अतः परं प्रवक्ष्यामि भृगुतीर्थस्य विस्तरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-181/"
+  },
+  {
+   "n": 337,
+   "title": "భృగుకచ్ఛతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhṛgukacchatīrthamāhātmyavarṇanam",
+   "title_deva": "भृगुकच्छतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-182/"
+  },
+  {
+   "n": 338,
+   "title": "కేదారేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kedāreśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "केदारेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-183/"
+  },
+  {
+   "n": 339,
+   "title": "ధౌతపాపతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dhautapāpatīrthamāhātmyavarṇanam",
+   "title_deva": "धौतपापतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-184/"
+  },
+  {
+   "n": 340,
+   "title": "ఏరణ్డీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "eraṇḍītīrthamāhātmyavarṇanam",
+   "title_deva": "एरण्डीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-185/"
+  },
+  {
+   "n": 341,
+   "title": "కనఖలేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kanakhaleśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "कनखलेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-186/"
+  },
+  {
+   "n": 342,
+   "title": "కాలాగ్నిరుద్రతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kālāgnirudratīrthamāhātmyavarṇanam",
+   "title_deva": "कालाग्निरुद्रतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-187/"
+  },
+  {
+   "n": 343,
+   "title": "శాలగ్రామం తతో గచ్ఛేత్సర్వదైవతపూజితమ్",
+   "title_iast": "śālagrāmaṁ tato gacchetsarvadaivatapūjitam",
+   "title_deva": "शालग्रामं ततो गच्छेत्सर्वदैवतपूजितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-188/"
+  },
+  {
+   "n": 344,
+   "title": "ఉదీర్ణో యత్ర వారాహో హ్యభవద్ధరణీధరః",
+   "title_iast": "udīrṇo yatra vārāho hyabhavaddharaṇīdharaḥ",
+   "title_deva": "उदीर्णो यत्र वाराहो ह्यभवद्धरणीधरः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-189/"
+  },
+  {
+   "n": 345,
+   "title": "చన్ద్రహాస్యతీర్థమహాత్మ్యవర్ణనమ్",
+   "title_iast": "candrahāsyatīrthamahātmyavarṇanam",
+   "title_deva": "चन्द्रहास्यतीर्थमहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-190/"
+  },
+  {
+   "n": 346,
+   "title": "అమృతస్రావి తల్లిఙ్గమాద్యం స్వాయమ్భువం తథా",
+   "title_iast": "amṛtasrāvi talliṅgamādyaṁ svāyambhuvaṁ tathā",
+   "title_deva": "अमृतस्रावि तल्लिङ्गमाद्यं स्वायम्भुवं तथा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-191/"
+  },
+  {
+   "n": 347,
+   "title": "శ్రీపత్యుత్పత్తివర్ణనమ్",
+   "title_iast": "śrīpatyutpattivarṇanam",
+   "title_deva": "श्रीपत्युत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-192/"
+  },
+  {
+   "n": 348,
+   "title": "శ్రీపతిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrīpatimāhātmyavarṇanam",
+   "title_deva": "श्रीपतिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-193/"
+  },
+  {
+   "n": 349,
+   "title": "శ్రీపతివివాహవర్ణనమ్",
+   "title_iast": "śrīpativivāhavarṇanam",
+   "title_deva": "श्रीपतिविवाहवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-194/"
+  },
+  {
+   "n": 350,
+   "title": "శ్రీపతిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrīpatimāhātmyavarṇanam",
+   "title_deva": "श्रीपतिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-195/"
+  },
+  {
+   "n": 351,
+   "title": "హంసతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "haṁsatīrthamāhātmyavarṇanam",
+   "title_deva": "हंसतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-196/"
+  },
+  {
+   "n": 352,
+   "title": "మూలస్థానతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mūlasthānatīrthamāhātmyavarṇanam",
+   "title_deva": "मूलस्थानतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-197/"
+  },
+  {
+   "n": 353,
+   "title": "శూలతీర్థమితి ఖ్యాతం స్వయం దేవేన నిర్మితమ్",
+   "title_iast": "śūlatīrthamiti khyātaṁ svayaṁ devena nirmitam",
+   "title_deva": "शूलतीर्थमिति ख्यातं स्वयं देवेन निर्मितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-198/"
+  },
+  {
+   "n": 354,
+   "title": "కామికం సర్వతీర్థానాం ప్రాణినాం సిద్ధిదాయకమ్",
+   "title_iast": "kāmikaṁ sarvatīrthānāṁ prāṇināṁ siddhidāyakam",
+   "title_deva": "कामिकं सर्वतीर्थानां प्राणिनां सिद्धिदायकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-199/"
+  },
+  {
+   "n": 355,
+   "title": "సావిత్రీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sāvitrītīrthamāhātmyavarṇanam",
+   "title_deva": "सावित्रीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-200/"
+  },
+  {
+   "n": 356,
+   "title": "యత్ర సిద్ధా మహాభాగా దేవాః సేన్ద్రా యుధిష్ఠిర",
+   "title_iast": "yatra siddhā mahābhāgā devāḥ sendrā yudhiṣṭhira",
+   "title_deva": "यत्र सिद्धा महाभागा देवाः सेन्द्रा युधिष्ठिर",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-201/"
+  },
+  {
+   "n": 357,
+   "title": "శిఖితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śikhitīrthamāhātmyavarṇanam",
+   "title_deva": "शिखितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-202/"
+  },
+  {
+   "n": 358,
+   "title": "కోటితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "koṭitīrthamāhātmyavarṇanam",
+   "title_deva": "कोटितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-203/"
+  },
+  {
+   "n": 359,
+   "title": "పైతామహతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "paitāmahatīrthamāhātmyavarṇanam",
+   "title_deva": "पैतामहतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-204/"
+  },
+  {
+   "n": 360,
+   "title": "కుర్కురీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kurkurītīrthamāhātmyavarṇanam",
+   "title_deva": "कुर्कुरीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-205/"
+  },
+  {
+   "n": 361,
+   "title": "దశకన్యాతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "daśakanyātīrthamāhātmyavarṇanam",
+   "title_deva": "दशकन्यातीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-206/"
+  },
+  {
+   "n": 362,
+   "title": "సువర్ణబిన్దుతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "suvarṇabindutīrthamāhātmyavarṇanam",
+   "title_deva": "सुवर्णबिन्दुतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-207/"
+  },
+  {
+   "n": 363,
+   "title": "విఖ్యాతం త్రిషు లోకేషు పిత్ఃణామృణమోచనమ్",
+   "title_iast": "vikhyātaṁ triṣu lokeṣu pitḥṇāmṛṇamocanam",
+   "title_deva": "विख्यातं त्रिषु लोकेषु पित्ःणामृणमोचनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-208/"
+  },
+  {
+   "n": 364,
+   "title": "భారభూతితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhārabhūtitīrthamāhātmyavarṇanam",
+   "title_deva": "भारभूतितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-209/"
+  },
+  {
+   "n": 365,
+   "title": "పుఙ్ఖిలతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "puṅkhilatīrthamāhātmyavarṇanam",
+   "title_deva": "पुङ्खिलतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-210/"
+  },
+  {
+   "n": 366,
+   "title": "తత్తే సర్వం ప్రవక్ష్యామి నర్మదాతటవాసినామ్",
+   "title_iast": "tatte sarvaṁ pravakṣyāmi narmadātaṭavāsinām",
+   "title_deva": "तत्ते सर्वं प्रवक्ष्यामि नर्मदातटवासिनाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-211/"
+  },
+  {
+   "n": 367,
+   "title": "ఏకశాలడిణ్డిమేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ekaśālaḍiṇḍimeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "एकशालडिण्डिमेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-212/"
+  },
+  {
+   "n": 368,
+   "title": "ఆమలేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "āmaleśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "आमलेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-213/"
+  },
+  {
+   "n": 369,
+   "title": "శ్రీకపాలతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrīkapālatīrthamāhātmyavarṇanam",
+   "title_deva": "श्रीकपालतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-214/"
+  },
+  {
+   "n": 370,
+   "title": "శృఙ్గితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śṛṅgitīrthamāhātmyavarṇanam",
+   "title_deva": "शृङ्गितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-215/"
+  },
+  {
+   "n": 371,
+   "title": "అషాఢీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "aṣāḍhītīrthamāhātmyavarṇanam",
+   "title_deva": "अषाढीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-216/"
+  },
+  {
+   "n": 372,
+   "title": "ఏరణ్డీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "eraṇḍītīrthamāhātmyavarṇanam",
+   "title_deva": "एरण्डीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-217/"
+  },
+  {
+   "n": 373,
+   "title": "శ్రీమార్కణ్డేయ ఉవాచ - తతో గచ్ఛేద్ధరాధీశ తీర్థం పరమశోభనమ్",
+   "title_iast": "śrīmārkaṇḍeya uvāca - tato gaccheddharādhīśa tīrthaṁ paramaśobhanam",
+   "title_deva": "श्रीमार्कण्डेय उवाच - ततो गच्छेद्धराधीश तीर्थं परमशोभनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-218/"
+  },
+  {
+   "n": 374,
+   "title": "శ్రీమార్కణ్డేయ ఉవాచ - నర్మదాదక్షిణే కూలే తీర్థం కోటీశ్వరం పరమ్",
+   "title_iast": "śrīmārkaṇḍeya uvāca - narmadādakṣiṇe kūle tīrthaṁ koṭīśvaraṁ param",
+   "title_deva": "श्रीमार्कण्डेय उवाच - नर्मदादक्षिणे कूले तीर्थं कोटीश्वरं परम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-219/"
+  },
+  {
+   "n": 375,
+   "title": "లోటణేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "loṭaṇeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "लोटणेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-220/"
+  },
+  {
+   "n": 376,
+   "title": "శ్రీమార్కణ్డేయ ఉవాచ - తతో గచ్ఛేత్తు రాజేన్ద్ర రేవాయా దక్షిణే తటే",
+   "title_iast": "śrīmārkaṇḍeya uvāca - tato gacchettu rājendra revāyā dakṣiṇe taṭe",
+   "title_deva": "श्रीमार्कण्डेय उवाच - ततो गच्छेत्तु राजेन्द्र रेवाया दक्षिणे तटे",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-221/"
+  },
+  {
+   "n": 377,
+   "title": "తిలాదేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tilādeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "तिलादेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-222/"
+  },
+  {
+   "n": 378,
+   "title": "వాసవేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vāsaveśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "वासवेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-223/"
+  },
+  {
+   "n": 379,
+   "title": "కోటీశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "koṭīśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "कोटीश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-224/"
+  },
+  {
+   "n": 380,
+   "title": "రేవాసాగరసఙ్గమేఽలికేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "revāsāgarasaṅgame'likeśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "रेवासागरसङ्गमेऽलिकेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-225/"
+  },
+  {
+   "n": 381,
+   "title": "విమలేశ్వరతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vimaleśvaratīrthamāhātmyavarṇanam",
+   "title_deva": "विमलेश्वरतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-226/"
+  },
+  {
+   "n": 382,
+   "title": "తీర్థయాత్రాదివిధానవిశేషకథనమ్",
+   "title_iast": "tīrthayātrādividhānaviśeṣakathanam",
+   "title_deva": "तीर्थयात्रादिविधानविशेषकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-227/"
+  },
+  {
+   "n": 383,
+   "title": "యుధిష్ఠిర ఉవాచ - పరార్థం తీర్థయాత్రాయాం గచ్ఛతః కస్య కిం ఫలమ్",
+   "title_iast": "yudhiṣṭhira uvāca - parārthaṁ tīrthayātrāyāṁ gacchataḥ kasya kiṁ phalam",
+   "title_deva": "युधिष्ठिर उवाच - परार्थं तीर्थयात्रायां गच्छतः कस्य किं फलम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-228/"
+  },
+  {
+   "n": 384,
+   "title": "శ్లోకమ్ అనుగచ్ఛ",
+   "title_iast": "ślokam anugaccha",
+   "title_deva": "श्लोकम् अनुगच्छ",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-229/"
+  },
+  {
+   "n": 385,
+   "title": "సూత ఉవాచ - ఇత్యుక్త్వోపరరామథ పాణ్డోః పుత్రాయ వై మునిః",
+   "title_iast": "sūta uvāca - ityuktvopararāmatha pāṇḍoḥ putrāya vai muniḥ",
+   "title_deva": "सूत उवाच - इत्युक्त्वोपररामथ पाण्डोः पुत्राय वै मुनिः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-230/"
+  },
+  {
+   "n": 386,
+   "title": "యైస్తు తీర్థావలీగుమ్ఫః పూర్వోక్తైరేకతః కృతః",
+   "title_iast": "yaistu tīrthāvalīgumphaḥ pūrvoktairekataḥ kṛtaḥ",
+   "title_deva": "यैस्तु तीर्थावलीगुम्फः पूर्वोक्तैरेकतः कृतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-231/"
+  },
+  {
+   "n": 387,
+   "title": "రేవాఖణ్డసమాప్తిరేవాఖణ్డపుస్తకదానాదిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "revākhaṇḍasamāptirevākhaṇḍapustakadānādimāhātmyavarṇanam",
+   "title_deva": "रेवाखण्डसमाप्तिरेवाखण्डपुस्तकदानादिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/avanti/reva/adhyaya-232/"
+  }
+ ]
+}

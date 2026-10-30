@@ -1,0 +1,713 @@
+{
+ "kanda": "mahatmya",
+ "n": 4,
+ "title_deva": "शुश्रूषुः पुनराहेदं विशाखं विनयान्वितः",
+ "title_te": "శుశ్రూషుః పునరాహేదం విశాఖం వినయాన్వితః",
+ "title_iast": "śuśrūṣuḥ punarāhedaṁ viśākhaṁ vinayānvitaḥ",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "इति श्रुत्वा कथां दिव्यां विचित्रां कुंभसंभवः",
+   "text_te": "ఇతి శ్రుత్వా కథాం దివ్యాం విచిత్రాం కుంభసంభవః",
+   "text_en": "iti śrutvā kathāṁ divyāṁ vicitrāṁ kuṁbhasaṁbhavaḥ",
+   "mean_en": "Having heard this divine and wondrous story, the jar-born one (Agastya)",
+   "mean_te": "ఈ దివ్యమైన, విచిత్రమైన కథను విన్న కుంభసంభవుడు (అగస్త్యుడు)"
+  },
+  {
+   "n": 2,
+   "text_deva": "देवसेनापते . देव विचित्रेयं श्रुता कथा | पुनरन्यच्च माहात्म्यं वद भागवतस्य मे",
+   "text_te": "దేవసేనాపతే . దేవ విచిత్రేయం శ్రుతా కథా | పునరన్యచ్చ మాహాత్మ్యం వద భాగవతస్య మే",
+   "text_en": "devasenāpate . deva vicitreyaṁ śrutā kathā | punaranyacca māhātmyaṁ vada bhāgavatasya me",
+   "mean_en": "said to the lord of the gods' armies (Skanda): \"O god, this story I have heard is wondrous; tell me another greatness of the Bhagavata.\"",
+   "mean_te": "దేవసేనాపతి అయిన కుమార స్వామితో అన్నాడు — \"దేవా! ఈ కథ అద్భుతంగా విన్నాను; భాగవత మహత్తులో మరొకటి చెప్పు.\""
+  },
+  {
+   "n": 3,
+   "text_deva": "मित्रावरुणसंभूत मुने शृणु कथामिमाम् | यत्रैकदेश महिमा प्रोक्ता भागवतस्य तु",
+   "text_te": "మిత్రావరుణసంభూత మునే శృణు కథామిమామ్ | యత్రైకదేశ మహిమా ప్రోక్తా భాగవతస్య తు",
+   "text_en": "mitrāvaruṇasaṁbhūta mune śṛṇu kathāmimām | yatraikadeśa mahimā proktā bhāgavatasya tu",
+   "mean_en": "Skanda said: \"O sage born of Mitra and Varuna (Agastya), hear this story in which a portion of the Bhagavata's greatness is told.\"",
+   "mean_te": "స్కందుడు అన్నాడు — \"మిత్రావరుణ సంభవుడా, మునీ! ఈ కథను విను; అందు భాగవత మహత్తులో ఒక భాగం చెప్పబడును.\""
+  },
+  {
+   "n": 4,
+   "text_deva": "वर्ण्यते धर्मविस्तारो गायत्रीमधिकृत्य च | गायत्र्या महिमा यत्र तद्भागवतमिष्यते",
+   "text_te": "వర్ణ్యతే ధర్మవిస్తారో గాయత్రీమధికృత్య చ | గాయత్ర్యా మహిమా యత్ర తద్భాగవతమిష్యతే",
+   "text_en": "varṇyate dharmavistāro gāyatrīmadhikṛtya ca | gāyatryā mahimā yatra tadbhāgavatamiṣyate",
+   "mean_en": "\"There the expanse of dharma is described, with the Gayatri as its theme; where the Gayatri's greatness is told, that is held to be the Bhagavata.\"",
+   "mean_te": "\"అందు గాయత్రిని ఆశ్రయించి ధర్మ విస్తారం వర్ణింపబడును; గాయత్రి మహత్తు చెప్పబడు చోటు అది భాగవతంగా పరిగణింపబడును.\""
+  },
+  {
+   "n": 5,
+   "text_deva": "भगवत्या इदं यस्मात्तस्माद्भागवतं विदुः | ब्रह्मविष्णुशिवाराध्या परा भगवती हि सा",
+   "text_te": "భగవత్యా ఇదం యస్మాత్తస్మాద్భాగవతం విదుః | బ్రహ్మవిష్ణుశివారాధ్యా పరా భగవతీ హి సా",
+   "text_en": "bhagavatyā idaṁ yasmāttasmādbhāgavataṁ viduḥ | brahmaviṣṇuśivārādhyā parā bhagavatī hi sā",
+   "mean_en": "\"Because this belongs to the Bhagavati herself, it is known as the Bhagavata; she is the supreme Goddess worshipped by Brahma, Vishnu and Shiva.\"",
+   "mean_te": "\"ఇది భగవతి కథకావడంచేతనే ఇది భాగవతమని తెలియుదు; బ్రహ్మ విష్ణు శివులచే ఆరాధింపబడు పర భగవతి ఆమె.\""
+  },
+  {
+   "n": 6,
+   "text_deva": "ऋतवागिति विख्यातो मुनिरासीन्महामतिः | तस्य पुत्रोऽभवत्काले गण्डान्ते पौष्णभान्तिमे",
+   "text_te": "ఋతవాగితి విఖ్యాతో మునిరాసీన్మహామతిః | తస్య పుత్రోఽభవత్కాలే గణ్డాన్తే పౌష్ణభాన్తిమే",
+   "text_en": "ṛtavāgiti vikhyāto munirāsīnmahāmatiḥ | tasya putro'bhavatkāle gaṇḍānte pauṣṇabhāntime",
+   "mean_en": "\"There was a sage famed as Rtavak, of great mind; in due time a son was born to him at the Gandanta, in the Pausna star.\"",
+   "mean_te": "\"ఋతవాక్కుడు అను మహామతి ముని ప్రసిద్ధుడై యుండెను; కాలక్రమంలో గాండాంతంలో, పౌష్ణ నక్షత్రంలో అతనికి కుమారుడు జన్మించెను.\""
+  },
+  {
+   "n": 7,
+   "text_deva": "स तस्य जातकर्मादि क्रियाश्चक्रे यथाविधि | चूडोपनयनादींश्च संस्कारानपि सोऽकरोत्",
+   "text_te": "స తస్య జాతకర్మాది క్రియాశ్చక్రే యథావిధి | చూడోపనయనాదీంశ్చ సంస్కారానపి సోఽకరోత్",
+   "text_en": "sa tasya jātakarmādi kriyāścakre yathāvidhi | cūḍopanayanādīṁśca saṁskārānapi so'karot",
+   "mean_en": "\"He performed for him the jatakarma and other rites as prescribed, and the chudakarma, upanayana and other samskaras too.\"",
+   "mean_te": "\"అతడు ఆ పుత్రునికి జాతకర్మాదులు విధివత్తుగా చేయించెను; చూడాకర్మ, ఉపనయనాది సంస్కారాలను కూడా చేయించెను.\""
+  },
+  {
+   "n": 8,
+   "text_deva": "यत आरभ्य जातोऽसौ पुत्रस्तस्य महात्मनः | तत एवाथ स मुनिः शोकरोगाकुलोऽभवत्",
+   "text_te": "యత ఆరభ్య జాతోఽసౌ పుత్రస్తస్య మహాత్మనః | తత ఏవాథ స మునిః శోకరోగాకులోఽభవత్",
+   "text_en": "yata ārabhya jāto'sau putrastasya mahātmanaḥ | tata evātha sa muniḥ śokarogākulo'bhavat",
+   "mean_en": "\"Yet from the very birth of that son of the great sage, the muni was seized by grief and sickness of heart.\"",
+   "mean_te": "\"అయినను ఆ మహాత్ముని కుమారుడు జన్మించినప్పటినుండి ఆ ముని శోకరోగాలతో కుంగిపోయెను.\""
+  },
+  {
+   "n": 9,
+   "text_deva": "रोषलोभपरीतात्मा तथा मातापि तस्य च | बहुरागार्दिता नित्यं शुचा दुःखीकृता भृशम्",
+   "text_te": "రోషలోభపరీతాత్మా తథా మాతాపి తస్య చ | బహురాగార్దితా నిత్యం శుచా దుఃఖీకృతా భృశమ్",
+   "text_en": "roṣalobhaparītātmā tathā mātāpi tasya ca | bahurāgārditā nityaṁ śucā duḥkhīkṛtā bhṛśam",
+   "mean_en": "\"Filled with rage and greed, and the mother too — sorely afflicted and aggrieved day and night by the son's misdeeds.\"",
+   "mean_te": "\"క్రోధ లోభాలతో నిండినవాడు ఆ కుమారుడు; అతని తల్లి కూడా అతని అకృత్యాలతో నిత్యం శోకంతో అతిగా బాధపడుచుండెను.\""
+  },
+  {
+   "n": 10,
+   "text_deva": "ऋतवाक्स मुनिश्चिन्तामवाप भृशदुःखितः | किमेततत्कारणं जातं पुत्रो मेऽत्यंतदुर्मतिः",
+   "text_te": "ఋతవాక్స మునిశ్చిన్తామవాప భృశదుఃఖితః | కిమేతతత్కారణం జాతం పుత్రో మేఽత్యంతదుర్మతిః",
+   "text_en": "ṛtavāksa muniścintāmavāpa bhṛśaduḥkhitaḥ | kimetatatkāraṇaṁ jātaṁ putro me'tyaṁtadurmatiḥ",
+   "mean_en": "\"The sage Rtavak, greatly grieved, fell into thought: 'What is this, that a son of such crooked mind has been born to me?'\"",
+   "mean_te": "\"ఋతవాక్కుడైన ముని అత్యంత దుఃఖంతో చింతాక్రాంతుడైనాడు — 'నాకు జన్మించిన పుత్రుడికి ఇంత దుర్మతికి కారణం ఏమిటి?'\""
+  },
+  {
+   "n": 11,
+   "text_deva": "कस्यचिन्मुनिपुत्रस्य बलात्पत्नीं जहार च | मेने शिक्षां पितुर्नासौ न च मातुर्विमूढधीः",
+   "text_te": "కస్యచిన్మునిపుత్రస్య బలాత్పత్నీం జహార చ | మేనే శిక్షాం పితుర్నాసౌ న చ మాతుర్విమూఢధీః",
+   "text_en": "kasyacinmuniputrasya balātpatnīṁ jahāra ca | mene śikṣāṁ piturnāsau na ca māturvimūḍhadhīḥ",
+   "mean_en": "\"That son, by force, took away the wife of another sage's son; he heeded neither his father's teaching nor his mother, being of deluded mind.\"",
+   "mean_te": "\"ఆ కుమారుడు బలంతో మరొక మునిపుత్రుడి భార్యను అపహరించెను; తండ్రి ఉపదేశాన్నిగాని, తల్లి మాటనిగాని లక్షించలేదు; మూఢమతి అతడు.\""
+  },
+  {
+   "n": 12,
+   "text_deva": "ततो विषण्णचित्तस्तु ऋतवागब्रवीदिदम् | अपुत्रता वरं नॄणां न कदाचित्कुपुत्रता",
+   "text_te": "తతో విషణ్ణచిత్తస్తు ఋతవాగబ్రవీదిదమ్ | అపుత్రతా వరం నౄణాం న కదాచిత్కుపుత్రతా",
+   "text_en": "tato viṣaṇṇacittastu ṛtavāgabravīdidam | aputratā varaṁ nṝṇāṁ na kadācitkuputratā",
+   "mean_en": "Then, despondent at heart, Rtavak said: \"Childlessness is better for men than ever having a wicked son.\"",
+   "mean_te": "అప్పుడు మనస్సు విరగడిన ఋతవాక్కుడు అన్నాడు — \"కుపుత్రుడు కలిగి ఉండటంకంటే మనుషులకు అపుత్రత్వమే మేలు.\""
+  },
+  {
+   "n": 13,
+   "text_deva": "पितॄन्कुपुत्रः स्वर्यातान्निरये पातयत्यपि | यावज्जीवेत्सदा पित्रोः केवलं दुःखदायकः",
+   "text_te": "పితౄన్కుపుత్రః స్వర్యాతాన్నిరయే పాతయత్యపి | యావజ్జీవేత్సదా పిత్రోః కేవలం దుఃఖదాయకః",
+   "text_en": "pitṝnkuputraḥ svaryātānniraye pātayatyapi | yāvajjīvetsadā pitroḥ kevalaṁ duḥkhadāyakaḥ",
+   "mean_en": "\"A wicked son, even if he carries his father to heaven, casts him into hell while he lives — as long as he lives he gives only sorrow to his parents.\"",
+   "mean_te": "\"కుపుత్రుడు తండ్రిని స్వర్గానికి చేర్చినను, బ్రతికుండా నరకంలో పడవేస్తాడు; బ్రతికినంత కాలం తల్లిదండ్రులకు కేవలం దుఃఖకారుడే.\""
+  },
+  {
+   "n": 14,
+   "text_deva": "पित्रोर्दुःखाय धिग्जन्म कुपुत्रस्य च पापिनः | सुहृदां नोपकाराय नापकाराय वैरिणाम्",
+   "text_te": "పిత్రోర్దుఃఖాయ ధిగ్జన్మ కుపుత్రస్య చ పాపినః | సుహృదాం నోపకారాయ నాపకారాయ వైరిణామ్",
+   "text_en": "pitrorduḥkhāya dhigjanma kuputrasya ca pāpinaḥ | suhṛdāṁ nopakārāya nāpakārāya vairiṇām",
+   "mean_en": "\"A curse on the birth of the wicked son who gives sorrow to his parents — who is of no help to friends and is hostile even to those who never harmed him.\"",
+   "mean_te": "\"తల్లిదండ్రులకు శోకమిచ్చు, స్నేహితులకు ఉపకారం చేయని, అపకారం చేయని శత్రువులకు కూడా అపకారం చేసే కుపుత్రుని జన్మ ధిక్కారు.\""
+  },
+  {
+   "n": 15,
+   "text_deva": "धन्यास्ते मानवा लोके सुपुत्रो यद्गृहे स्थितः | परोपकारशीलश्च पितुर्मातुः सुखावहः",
+   "text_te": "ధన్యాస్తే మానవా లోకే సుపుత్రో యద్గృహే స్థితః | పరోపకారశీలశ్చ పితుర్మాతుః సుఖావహః",
+   "text_en": "dhanyāste mānavā loke suputro yadgṛhe sthitaḥ | paropakāraśīlaśca piturmātuḥ sukhāvahaḥ",
+   "mean_en": "\"Blessed are those men of this world in whose house dwells a good son, of a nature that helps others, bringing joy to father and mother.\"",
+   "mean_te": "\"సుపుత్రుడు గృహంలో ఉండు ధన్యులు ఆ మనుషులు; పరోపకార శీలి, తల్లితండ్రులకు సుఖం కలిగించువాడు అతడు.\""
+  },
+  {
+   "n": 16,
+   "text_deva": "कुपुत्रेण कुलं नष्टं कुपुत्रेण हतं यशः | कुपुत्रेणेह चामुत्र दुःखं निरययातनाः",
+   "text_te": "కుపుత్రేణ కులం నష్టం కుపుత్రేణ హతం యశః | కుపుత్రేణేహ చాముత్ర దుఃఖం నిరయయాతనాః",
+   "text_en": "kuputreṇa kulaṁ naṣṭaṁ kuputreṇa hataṁ yaśaḥ | kuputreṇeha cāmutra duḥkhaṁ nirayayātanāḥ",
+   "mean_en": "\"By a wicked son the family is destroyed, by a wicked son fame is slain; through a wicked son one suffers here and hereafter the torments of hell.\"",
+   "mean_te": "\"కుపుత్రునిచేత కులం నశించును; కుపుత్రునిచేత యశస్సు నశించును; కుపుత్రునిచేతనే ఇహలోకంలోను, పరలోకంలోను నరకయాతనలు కలుగును.\""
+  },
+  {
+   "n": 17,
+   "text_deva": "कुपुत्रेणान्वयो नष्टो जन्म नष्टं कुभार्यया | कुभोजनेन दिवसः कुमित्रेण सुखं कुतः",
+   "text_te": "కుపుత్రేణాన్వయో నష్టో జన్మ నష్టం కుభార్యయా | కుభోజనేన దివసః కుమిత్రేణ సుఖం కుతః",
+   "text_en": "kuputreṇānvayo naṣṭo janma naṣṭaṁ kubhāryayā | kubhojanena divasaḥ kumitreṇa sukhaṁ kutaḥ",
+   "mean_en": "\"By a wicked son the lineage is lost, by a bad wife birth itself is wasted; by a bad meal the day is ruined — where then is joy with a bad friend?\"",
+   "mean_te": "\"కుపుత్రునివల్ల వంశం నశించును, కుభార్య వల్ల జన్మ నశించును, కుభోజనంతో దినమంతా నష్టం — కుమిత్రుడితో సుఖం ఎక్కడ?\""
+  },
+  {
+   "n": 18,
+   "text_deva": "एवं दुष्टस्य पुत्रस्य दुष्टैराचरणैर्मुनिः | तप्यमानोऽनिशं काले गत्वा गर्गमपृच्छत",
+   "text_te": "ఏవం దుష్టస్య పుత్రస్య దుష్టైరాచరణైర్మునిః | తప్యమానోఽనిశం కాలే గత్వా గర్గమపృచ్ఛత",
+   "text_en": "evaṁ duṣṭasya putrasya duṣṭairācaraṇairmuniḥ | tapyamāno'niśaṁ kāle gatvā gargamapṛcchata",
+   "mean_en": "Thus tormented day and night by his wicked son's wicked conduct, the muni went in time and questioned Garga.",
+   "mean_te": "ఈ విధంగా దుష్టపుత్రుని దుష్టాచారాలతో నిశిని తప్పక బాధపడుచూ, ఆ ముని కాలంలో గర్గుని దగ్గరకు వెళ్ళి అడిగెను."
+  },
+  {
+   "n": 19,
+   "text_deva": "ऋतवागुवाच भगवंस्त्वामहं प्रष्टुमिच्छामि वद तत्प्रभो | ज्योतिःज्ञास्त्रस्य चाचार्य पुत्रदौःशील्यकारणम्",
+   "text_te": "ఋతవాగువాచ భగవంస్త్వామహం ప్రష్టుమిచ్ఛామి వద తత్ప్రభో | జ్యోతిఃజ్ఞాస్త్రస్య చాచార్య పుత్రదౌఃశీల్యకారణమ్",
+   "text_en": "ṛtavāguvāca bhagavaṁstvāmahaṁ praṣṭumicchāmi vada tatprabho | jyotiḥjñāstrasya cācārya putradauḥśīlyakāraṇam",
+   "mean_en": "Rtavak said: \"O lord, I wish to ask you; tell me, O master — you are the teacher of the science of the luminaries: what is the cause of this son's wickedness?\"",
+   "mean_te": "ఋతవాక్కుడు అన్నాడు — \"భగవాన్! నిన్ను అడగాలని అండిస్తిని; జ్యోతిఃశాస్త్ర ఆచార్యుడవైన నీవు చెప్పు, ప్రభూ — నా పుత్రుని దౌర్శీల్యానికి కారణం ఏమి?\""
+  },
+  {
+   "n": 20,
+   "text_deva": "गुरुशुश्रूषया वेदा अधीता विधिवन्मया | ब्रह्मचारिव्रतं तीर्त्वा विवाहो विधिवत्कृतः",
+   "text_te": "గురుశుశ్రూషయా వేదా అధీతా విధివన్మయా | బ్రహ్మచారివ్రతం తీర్త్వా వివాహో విధివత్కృతః",
+   "text_en": "guruśuśrūṣayā vedā adhītā vidhivanmayā | brahmacārivrataṁ tīrtvā vivāho vidhivatkṛtaḥ",
+   "mean_en": "\"Through service of my guru I have read the Vedas duly; having completed the vow of brahmacharya, my marriage was performed per the shastra.\"",
+   "mean_te": "\"గురుసేవతో వేదాలను విధిపూర్వకంగా అధ్యయనం చేసితిని; బ్రహ్మచర్య వ్రతాన్ని ఆచరించి, వివాహం విధివత్తుగా చేసుకొంటిని.\""
+  },
+  {
+   "n": 21,
+   "text_deva": "भार्यया सह गार्हस्थ्यधर्मश्चानुष्ठितोऽनिशम् | पंचयज्ञविधानं च मयाऽकारि यथाविधि",
+   "text_te": "భార్యయా సహ గార్హస్థ్యధర్మశ్చానుష్ఠితోఽనిశమ్ | పంచయజ్ఞవిధానం చ మయాఽకారి యథావిధి",
+   "text_en": "bhāryayā saha gārhasthyadharmaścānuṣṭhito'niśam | paṁcayajñavidhānaṁ ca mayā'kāri yathāvidhi",
+   "mean_en": "\"With my wife I have ever performed the dharma of the householder; the five sacrifices too have I done as prescribed.\"",
+   "mean_te": "\"భార్యతో సహా గార్హస్థ్య ధర్మాన్ని నిరంతరం ఆచరించితిని; పంచయజ్ఞ విధానాన్ని కూడా విధివత్తుగా ఆచరించితిని.\""
+  },
+  {
+   "n": 22,
+   "text_deva": "नरकाद्बिभ्यता विप्र न तु कामसुखेच्छया | गर्भाधानं च विधिवत्पुत्रप्राप्त्यै मया कृतम्",
+   "text_te": "నరకాద్బిభ్యతా విప్ర న తు కామసుఖేచ్ఛయా | గర్భాధానం చ విధివత్పుత్రప్రాప్త్యై మయా కృతమ్",
+   "text_en": "narakādbibhyatā vipra na tu kāmasukhecchayā | garbhādhānaṁ ca vidhivatputraprāptyai mayā kṛtam",
+   "mean_en": "\"Fearing hell, O brahmin — not from desire for sensual pleasure — I performed garbhadhana duly for the sake of a son.\"",
+   "mean_te": "\"నరకభయంతో గర్భాధానాన్ని విధివత్తుగా చేసితిని, విప్రా! కామసుఖాన్వేషణతో గాదు — పుత్రప్రాప్తికోసం.\""
+  },
+  {
+   "n": 23,
+   "text_deva": "पुत्रोऽयं मम दोषेण मातुर्दोषेण वा मुने | जातो दुःखावहः पित्रोर्दुःशीलो बंधुशोकदः",
+   "text_te": "పుత్రోఽయం మమ దోషేణ మాతుర్దోషేణ వా మునే | జాతో దుఃఖావహః పిత్రోర్దుఃశీలో బంధుశోకదః",
+   "text_en": "putro'yaṁ mama doṣeṇa māturdoṣeṇa vā mune | jāto duḥkhāvahaḥ pitrorduḥśīlo baṁdhuśokadaḥ",
+   "mean_en": "\"Then this son — through my fault or my mother's fault, O sage — is born a bringer of sorrow, ill-conducted, a giver of grief to kinsmen.\"",
+   "mean_te": "\"అలాంటిది ఈ పుత్రుడు నా దోషంచేనా, తల్లి దోషంచేనా జన్మించాడో మునీ! దుఃఖప్రదుడు, దుర్శీలుడు, బంధుజనులకు శోకదాత.\""
+  },
+  {
+   "n": 24,
+   "text_deva": "एतन्निशम्य वचनं गर्गाचार्यो मुनेस्तदा | विचार्य सर्वं तद्धेतुं ज्योतिर्विद्वाचमब्रवीत्",
+   "text_te": "ఏతన్నిశమ్య వచనం గర్గాచార్యో మునేస్తదా | విచార్య సర్వం తద్ధేతుం జ్యోతిర్విద్వాచమబ్రవీత్",
+   "text_en": "etanniśamya vacanaṁ gargācāryo munestadā | vicārya sarvaṁ taddhetuṁ jyotirvidvācamabravīt",
+   "mean_en": "Hearing these words, Garga the teacher of the muni then reflected on its whole cause, and as a knower of the stars spoke:",
+   "mean_te": "ఈ మాటలు విన్న గర్గాచార్యుడు ఆ ముని ప్రశ్నకు కారణాన్ని మొత్తం ఆలోచించి, జ్యోతిర్విదుడై అన్నాడు:"
+  },
+  {
+   "n": 25,
+   "text_deva": "मुने नैवापराधस्ते न मातुर्न कुलस्य च | रेवत्यंतं तु गण्डान्तं पुत्रदौःशील्यकारणम्",
+   "text_te": "మునే నైవాపరాధస్తే న మాతుర్న కులస్య చ | రేవత్యంతం తు గణ్డాన్తం పుత్రదౌఃశీల్యకారణమ్",
+   "text_en": "mune naivāparādhaste na māturna kulasya ca | revatyaṁtaṁ tu gaṇḍāntaṁ putradauḥśīlyakāraṇam",
+   "mean_en": "\"O sage, there is no offence of yours, nor your mother's, nor of the family — the end of the Revati star, the Gandanta, is the cause of the son's wickedness.\"",
+   "mean_te": "\"మునీ! నీ అపరాధం కాదు, తల్లిది కాదు, కులంది కాదు — రేవతీ అంతంలోని గాండాంతమే పుత్ర దౌర్శీల్యానికి కారణం.\""
+  },
+  {
+   "n": 26,
+   "text_deva": "दुष्टे काले यतो जन्म पुत्रस्य तव भो मुने | तेनैव तव दुःखाय नान्यो हेतुर्मनागपि",
+   "text_te": "దుష్టే కాలే యతో జన్మ పుత్రస్య తవ భో మునే | తేనైవ తవ దుఃఖాయ నాన్యో హేతుర్మనాగపి",
+   "text_en": "duṣṭe kāle yato janma putrasya tava bho mune | tenaiva tava duḥkhāya nānyo heturmanāgapi",
+   "mean_en": "\"Because of the evil time at which your son was born, that itself is the cause of your sorrow — there is no other cause at all.\"",
+   "mean_te": "\"నీ పుత్రుడు పుట్టిన దుష్ట కాలమే నీ దుఃఖానికి కారణం; ఇందుకు ఇంకో హేతువు లేదు.\""
+  },
+  {
+   "n": 27,
+   "text_deva": "तद्दुःखशांतये ब्रह्मञ्जगतां मातरं शिवाम् | समाराधय यत्नेन दुर्गां दुर्गतिनाशिनीम्",
+   "text_te": "తద్దుఃఖశాంతయే బ్రహ్మఞ్జగతాం మాతరం శివామ్ | సమారాధయ యత్నేన దుర్గాం దుర్గతినాశినీమ్",
+   "text_en": "tadduḥkhaśāṁtaye brahmañjagatāṁ mātaraṁ śivām | samārādhaya yatnena durgāṁ durgatināśinīm",
+   "mean_en": "\"For the quelling of that sorrow, O brahmin, diligently worship the auspicious Mother of the worlds, Durga, the destroyer of misfortune.\"",
+   "mean_te": "\"ఆ దుఃఖ శమనం కోసం బ్రహ్మణోత్తమా! జగదంబ అయిన శివానుభవ దుర్గను, దురితనాశినిని యత్నపూర్వకంగా ఆరాధించు.\""
+  },
+  {
+   "n": 28,
+   "text_deva": "गर्गस्य वचनं श्रुत्वा ऋतवाक् क्रोधमूर्च्छितः | रेवतीं तु शशापासौ व्योम्नः पततु रेवती",
+   "text_te": "గర్గస్య వచనం శ్రుత్వా ఋతవాక్ క్రోధమూర్చ్ఛితః | రేవతీం తు శశాపాసౌ వ్యోమ్నః పతతు రేవతీ",
+   "text_en": "gargasya vacanaṁ śrutvā ṛtavāk krodhamūrcchitaḥ | revatīṁ tu śaśāpāsau vyomnaḥ patatu revatī",
+   "mean_en": "Hearing Garga's words, Rtavak fainted with rage and cursed Revati: \"O Revati, fall from the sky!\"",
+   "mean_te": "గర్గుని మాటలు విన్న ఋతవాక్కుడు కోపంతో మూర్ఛిల్లి, రేవతి నక్షత్రాన్ని శపించెను — \"రేవతీ! ఆకాశం నుండి పడిపో!\""
+  },
+  {
+   "n": 29,
+   "text_deva": "दत्ते शापे तु तेनाथ पूष्णो भं च पपात खात् | कुमुदाद्रौ भासमानं सर्वलोकस्य पश्यतः",
+   "text_te": "దత్తే శాపే తు తేనాథ పూష్ణో భం చ పపాత ఖాత్ | కుముదాద్రౌ భాసమానం సర్వలోకస్య పశ్యతః",
+   "text_en": "datte śāpe tu tenātha pūṣṇo bhaṁ ca papāta khāt | kumudādrau bhāsamānaṁ sarvalokasya paśyataḥ",
+   "mean_en": "As he pronounced the curse, a portion of Pusha fell into a pit; it shone on the Kumuda mountain, seen by all the worlds.",
+   "mean_te": "ఆ శాపం దాల్చగానే పూషాంశువు ఒక గుండంలో పడిపోయెను; సకల లోకాలు చూస్తుండగా అది కుముదాద్రిపై ప్రకాశించెను."
+  },
+  {
+   "n": 30,
+   "text_deva": "ख्यातो रैवतकश्चाभूत्तत्पातात्कुमुदाचल: | अतीव रमणीयश्च ततः प्रभृति सोऽप्यभूत्",
+   "text_te": "ఖ్యాతో రైవతకశ్చాభూత్తత్పాతాత్కుముదాచల: | అతీవ రమణీయశ్చ తతః ప్రభృతి సోఽప్యభూత్",
+   "text_en": "khyāto raivatakaścābhūttatpātātkumudācala: | atīva ramaṇīyaśca tataḥ prabhṛti so'pyabhūt",
+   "mean_en": "From that fall the famed Raivataka came to be on the Kumuda mountain; from then on it became exceedingly lovely.",
+   "mean_te": "ఆ పతనంతో కుముదాద్రిపై ప్రసిద్ధిగాంచిన రైవతకం ఏర్పడెను; అప్పటినుండి అది అత్యంత రమణీయంగా వెలుగొందెను."
+  },
+  {
+   "n": 31,
+   "text_deva": "दत्त्वा शापं च रेवत्यै गर्गोक्तविधिना मुनिः | समाराध्यांबिकां देवीं सुखसौभाग्यभागभूत्",
+   "text_te": "దత్త్వా శాపం చ రేవత్యై గర్గోక్తవిధినా మునిః | సమారాధ్యాంబికాం దేవీం సుఖసౌభాగ్యభాగభూత్",
+   "text_en": "dattvā śāpaṁ ca revatyai gargoktavidhinā muniḥ | samārādhyāṁbikāṁ devīṁ sukhasaubhāgyabhāgabhūt",
+   "mean_en": "Having pronounced the curse on Revati in the manner Garga had prescribed, the sage worshipped the Goddess Ambika and became a partaker of joy and good fortune.",
+   "mean_te": "రేవతికి గర్గుడు చెప్పిన విధిప్రకారం శాపం ఇచ్చిన తరువాత ఆ ముని అంబికా దేవిని ఆరాధించి, సుఖ సౌభాగ్యాలకు పాత్రుడయ్యెను."
+  },
+  {
+   "n": 32,
+   "text_deva": "रेवत्यृक्षस्य यत्तेजस्तस्माज्जाता तु कन्यका | रूपेणाप्रतिमा लोके द्वितीया श्रीरिवाभवत्",
+   "text_te": "రేవత్యృక్షస్య యత్తేజస్తస్మాజ్జాతా తు కన్యకా | రూపేణాప్రతిమా లోకే ద్వితీయా శ్రీరివాభవత్",
+   "text_en": "revatyṛkṣasya yattejastasmājjātā tu kanyakā | rūpeṇāpratimā loke dvitīyā śrīrivābhavat",
+   "mean_en": "\"From the radiance of that portion of the riksha (star) Revati, the girl was born; unmatched in beauty in the world, she was a second Shri herself.\"",
+   "mean_te": "\"ఆ ఋక్ష (నక్షత్ర) తేజస్సునుండి ఆ కన్య జన్మించింది; లోకంలో రూపంలో అప్రతిహతమైనది, శ్రీదేవి పునరవతారంలా ఉంది.\""
+  },
+  {
+   "n": 33,
+   "text_deva": "अथ तां प्रमुचः कन्यां रेवतीकांतिसंभवाम् | दृष्ट्वा नाम चकारास्या रेवतीति मुदा मुनिः",
+   "text_te": "అథ తాం ప్రముచః కన్యాం రేవతీకాంతిసంభవామ్ | దృష్ట్వా నామ చకారాస్యా రేవతీతి ముదా మునిః",
+   "text_en": "atha tāṁ pramucaḥ kanyāṁ revatīkāṁtisaṁbhavām | dṛṣṭvā nāma cakārāsyā revatīti mudā muniḥ",
+   "mean_en": "Then the sage Pramucha, seeing that daughter born of the beloved of Revati (the star), gladly named her Revati.",
+   "mean_te": "అప్పుడు రేవతీకాంత సంభవురాలైన ఆ కన్యను చూచి, ప్రముచుడు అను ముని సంతోషంతో ఆమెకు రేవతి అని పేరు పెట్టెను."
+  },
+  {
+   "n": 34,
+   "text_deva": "निन्येऽथ स्वाश्रमे चैनां पोषयामास धर्मतः | ब्रह्मर्षिः प्रमुचो नाम कुमुदाद्रौ सुतामिव",
+   "text_te": "నిన్యేఽథ స్వాశ్రమే చైనాం పోషయామాస ధర్మతః | బ్రహ్మర్షిః ప్రముచో నామ కుముదాద్రౌ సుతామివ",
+   "text_en": "ninye'tha svāśrame caināṁ poṣayāmāsa dharmataḥ | brahmarṣiḥ pramuco nāma kumudādrau sutāmiva",
+   "mean_en": "That brahmarshi Pramucha took her to his own ashram and raised her righteously, as if she were the daughter of the Kumuda mountain.",
+   "mean_te": "ఆ బ్రహ్మర్షి ప్రముచుడు ఆమెను తన ఆశ్రమానికి తీసుకొని, కుముదాద్రి కుమార్తెలాగుగా ధర్మమార్గంగా పోషించెను."
+  },
+  {
+   "n": 35,
+   "text_deva": "अथ कालेन च प्रौढां दृष्ट्वा तां रूपशालिनीम् | स मुनिश्चिन्तयामास कोऽस्या योग्यो वरो भवेत्",
+   "text_te": "అథ కాలేన చ ప్రౌఢాం దృష్ట్వా తాం రూపశాలినీమ్ | స మునిశ్చిన్తయామాస కోఽస్యా యోగ్యో వరో భవేత్",
+   "text_en": "atha kālena ca prauḍhāṁ dṛṣṭvā tāṁ rūpaśālinīm | sa muniścintayāmāsa ko'syā yogyo varo bhavet",
+   "mean_en": "In time, seeing her grown and full of beauty, the muni thought: what fitting groom would there be for her?",
+   "mean_te": "కాలక్రమంలో ఆమె ప్రౌఢిమ పొంది, రూపశాలిని అయినది చూచి ఆ ముని ఆలోచించెను — ఆమెకు యోగ్యుడైన వరుడు ఎవరు?"
+  },
+  {
+   "n": 36,
+   "text_deva": "बहुधाऽन्वेषयंस्तस्या नाससादोचितं पतिम् | ततोग्निशालां संविश्य मुनिस्तुष्टाव पावकम्",
+   "text_te": "బహుధాఽన్వేషయంస్తస్యా నాససాదోచితం పతిమ్ | తతోగ్నిశాలాం సంవిశ్య మునిస్తుష్టావ పావకమ్",
+   "text_en": "bahudhā'nveṣayaṁstasyā nāsasādocitaṁ patim | tatogniśālāṁ saṁviśya munistuṣṭāva pāvakam",
+   "mean_en": "Seeking a husband for her again and again and finding none fitting, the muni entered the fire-hall and praised the sacred fire.",
+   "mean_te": "ఆమెకు వరుడిని పలుమార్లు వెదకినా తగినవాడు దొరకక, ఆ ముని అగ్నిశాలలో ప్రవేశించి పావకుని స్తుతించెను."
+  },
+  {
+   "n": 37,
+   "text_deva": "कन्यावरं तदाशंसत्प्रीतस्तमपि हव्यवाट् | धर्मिष्ठो बलवान्वीरः प्रियवागपराजितः",
+   "text_te": "కన్యావరం తదాశంసత్ప్రీతస్తమపి హవ్యవాట్ | ధర్మిష్ఠో బలవాన్వీరః ప్రియవాగపరాజితః",
+   "text_en": "kanyāvaraṁ tadāśaṁsatprītastamapi havyavāṭ | dharmiṣṭho balavānvīraḥ priyavāgaparājitaḥ",
+   "mean_en": "The Havyavahana (fire), pleased, expecting the girl's choice of groom, said: \"Her husband will be a righteous, strong hero, ever-victorious in speech.\"",
+   "mean_te": "హవ్యవాహనుడైన అగ్నిదేవుడు సంతోషించి, కన్యావరాన్ని ఆశిస్తూ అన్నాడు — \"ధర్మిష్ఠుడు, బలవంతుడు, వీరుడు, ప్రియవాక్కులో అజేయుడైనవాడు భర్తగును.\""
+  },
+  {
+   "n": 38,
+   "text_deva": "दुर्दमो भविता भर्ता मुनेऽस्याः पृथिवीपतिः | इति श्रुत्वा वचो वह्नेः प्रसन्नोभून्मुनिस्तदा",
+   "text_te": "దుర్దమో భవితా భర్తా మునేఽస్యాః పృథివీపతిః | ఇతి శ్రుత్వా వచో వహ్నేః ప్రసన్నోభూన్మునిస్తదా",
+   "text_en": "durdamo bhavitā bhartā mune'syāḥ pṛthivīpatiḥ | iti śrutvā vaco vahneḥ prasannobhūnmunistadā",
+   "mean_en": "\"A lord of the earth named Durdama will be her husband, O sage.\" Hearing the fire's word, the muni was pleased.",
+   "mean_te": "\"దుర్దముడు అను భూపాలుడు ఆమె భర్తగును, మునీ!\" — అగ్నివాక్కు విన్న ముని సంతోషించెను."
+  },
+  {
+   "n": 39,
+   "text_deva": "दैवादाखेटकव्याजात्तत्क्षणादागतो नृपः | दुर्दमो नाम मेधावी तस्याश्रमपदं मुनेः",
+   "text_te": "దైవాదాఖేటకవ్యాజాత్తత్క్షణాదాగతో నృపః | దుర్దమో నామ మేధావీ తస్యాశ్రమపదం మునేః",
+   "text_en": "daivādākheṭakavyājāttatkṣaṇādāgato nṛpaḥ | durdamo nāma medhāvī tasyāśramapadaṁ muneḥ",
+   "mean_en": "By destiny, under the pretext of a hunt, there came at that moment to the muni's ashram the king named Durdama, a man of intellect.",
+   "mean_te": "దైవానుగ్రహంతో వేట కార్యంతో క్షణమందే ఆ ముని ఆశ్రమానికి దుర్దముడు అను మేధావి అయిన రాజు వచ్చెను."
+  },
+  {
+   "n": 40,
+   "text_deva": "पुत्रो विक्रमशीलस्य बलवान् वीर्यवत्तरः | कालिन्दीजठरे जातः प्रियव्रतकुलोद्भवः",
+   "text_te": "పుత్రో విక్రమశీలస్య బలవాన్ వీర్యవత్తరః | కాలిన్దీజఠరే జాతః ప్రియవ్రతకులోద్భవః",
+   "text_en": "putro vikramaśīlasya balavān vīryavattaraḥ | kālindījaṭhare jātaḥ priyavratakulodbhavaḥ",
+   "mean_en": "\"A son of Vikramashila, mightier in strength and valour, born in the womb of the Yamuna's bank, sprung of the line of Priyavrata.\"",
+   "mean_te": "\"అతడు విక్రమశీలుని పుత్రుడు; బలానికి, పరాక్రమానికి అతీతుడు; కాలిందీ తీరంలో జన్మించిన ప్రియవ్రత వంశజుడు.\""
+  },
+  {
+   "n": 41,
+   "text_deva": "मुनेराश्रममाविश्य तमदृष्वातक महामुनिम् | आमंत्र्य तां प्रिये चेति रेवतीं पृष्टवान्नृपः",
+   "text_te": "మునేరాశ్రమమావిశ్య తమదృష్వాతక మహామునిమ్ | ఆమంత్ర్య తాం ప్రియే చేతి రేవతీం పృష్టవాన్నృపః",
+   "text_en": "munerāśramamāviśya tamadṛṣvātaka mahāmunim | āmaṁtrya tāṁ priye ceti revatīṁ pṛṣṭavānnṛpaḥ",
+   "mean_en": "Entering the muni's ashram and not seeing the great muni there, the king asked her, thinking her (his) dear one: \"Dear one, where...\"",
+   "mean_te": "ముని ఆశ్రమంలోనికి వెళ్ళి, ఆ మహాముని అక్కడ లేడని తెలిసి, ఆమెను చూచి — \"ప్రియమైనదాన్ని!\" అని అనుమానించి రాజు అడిగెను."
+  },
+  {
+   "n": 42,
+   "text_deva": "राजोवाच महर्षिर्भगवानस्मादाश्रमात्व्त गतः प्रिये | तत्पादौ द्रष्टुमिच्छामि वद कल्याणि तत्त्वतः",
+   "text_te": "రాజోవాచ మహర్షిర్భగవానస్మాదాశ్రమాత్వ్త గతః ప్రియే | తత్పాదౌ ద్రష్టుమిచ్ఛామి వద కల్యాణి తత్త్వతః",
+   "text_en": "rājovāca maharṣirbhagavānasmādāśramātvta gataḥ priye | tatpādau draṣṭumicchāmi vada kalyāṇi tattvataḥ",
+   "mean_en": "The king said: \"O fair one, the great sage, the blessed one, has gone from this ashram; I wish to see his feet — tell me truly.\"",
+   "mean_te": "రాజు అన్నాడు — \"కళ్యాణి! మహర్షి భగవానుడు ఈ ఆశ్రమం నుండి వెళ్ళిపోయెను; అతని పాదాలను చూడాలని కోరుకొంటిని; నిజంగా చెప్పు.\""
+  },
+  {
+   "n": 43,
+   "text_deva": "कन्योवाच अग्निशालामुपगतो महाराज महामुनिः | निश्चक्रामाश्रमात्तूर्णं राजाप्याकर्ण्य तद्वचः",
+   "text_te": "కన్యోవాచ అగ్నిశాలాముపగతో మహారాజ మహామునిః | నిశ్చక్రామాశ్రమాత్తూర్ణం రాజాప్యాకర్ణ్య తద్వచః",
+   "text_en": "kanyovāca agniśālāmupagato mahārāja mahāmuniḥ | niścakrāmāśramāttūrṇaṁ rājāpyākarṇya tadvacaḥ",
+   "mean_en": "The maiden said: \"O great king, the great muni has gone to the fire-hall; on hearing his words the king too quickly left the ashram.\"",
+   "mean_te": "కన్య అన్నది — \"మహారాజా! మహాముని అగ్నిశాలకు వెళ్ళెను; అతని మాట విన్న రాజు కూడా ఆశ్రమం వదిలి వేగంగా వెళ్ళెను.\""
+  },
+  {
+   "n": 44,
+   "text_deva": "तथाऽग्निशालाद्वारस्थं राजानं दुर्दमं मुनिः | राजलक्षणसंयुक्तमपश्यत्प्रश्रयानतम्",
+   "text_te": "తథాఽగ్నిశాలాద్వారస్థం రాజానం దుర్దమం మునిః | రాజలక్షణసంయుక్తమపశ్యత్ప్రశ్రయానతమ్",
+   "text_en": "tathā'gniśālādvārasthaṁ rājānaṁ durdamaṁ muniḥ | rājalakṣaṇasaṁyuktamapaśyatpraśrayānatam",
+   "mean_en": "There at the fire-hall's door the muni saw the king Durdama, of royal marks and full of humility.",
+   "mean_te": "అప్పుడు అగ్నిశాల వాకిలి వద్ద ముని, రాజలక్షణాలతో, వినయంతో నిలిచిన దుర్దమ రాజును చూచెను."
+  },
+  {
+   "n": 45,
+   "text_deva": "प्रणनाम च तं राजा मुनिः शिष्यमुवाच ह | गौतमानीयतामर्घ्यमर्घ्ययोग्योऽस्ति भूपतिः",
+   "text_te": "ప్రణనామ చ తం రాజా మునిః శిష్యమువాచ హ | గౌతమానీయతామర్ఘ్యమర్ఘ్యయోగ్యోఽస్తి భూపతిః",
+   "text_en": "praṇanāma ca taṁ rājā muniḥ śiṣyamuvāca ha | gautamānīyatāmarghyamarghyayogyo'sti bhūpatiḥ",
+   "mean_en": "The king bowed to the muni; the muni said to his disciple: \"O Gautama, bring arghya; the king is worthy of worship.\"",
+   "mean_te": "రాజు ఆ మునికి నమస్కరించెను; ముని శిష్యునితో అన్నాడు — \"గౌతమా! అర్ఘ్యం తీసుకొని రా; ఈ భూపాలుడు పూజనీయుడు.\""
+  },
+  {
+   "n": 46,
+   "text_deva": "आगतश्चिरकालेन जामातेति विशेषतः | इत्युक्त्वार्घ्यं ददौ तस्मै सोपि जग्राह चिन्तयन्",
+   "text_te": "ఆగతశ్చిరకాలేన జామాతేతి విశేషతః | ఇత్యుక్త్వార్ఘ్యం దదౌ తస్మై సోపి జగ్రాహ చిన్తయన్",
+   "text_en": "āgataścirakālena jāmāteti viśeṣataḥ | ityuktvārghyaṁ dadau tasmai sopi jagrāha cintayan",
+   "mean_en": "\"He has come, especially, after a long time, as a son-in-law.\" Saying so he offered the arghya; the king took it, musing.",
+   "mean_te": "\"అతిథిగాను, విశేషంగా అల్లుడిగాను, ఎన్నో రోజుల తరువాత వచ్చాడు.\" అని అర్ఘ్యం ఇచ్చెను; రాజు ఆలోచిస్తూ దాన్ని స్వీకరించెను."
+  },
+  {
+   "n": 47,
+   "text_deva": "मुनिरासनमासीनं गृहीतार्घ्यं च भूपतिम् | आशीर्भिरभिनंद्याथ कुशलं चाप्यपृच्छत",
+   "text_te": "మునిరాసనమాసీనం గృహీతార్ఘ్యం చ భూపతిమ్ | ఆశీర్భిరభినంద్యాథ కుశలం చాప్యపృచ్ఛత",
+   "text_en": "munirāsanamāsīnaṁ gṛhītārghyaṁ ca bhūpatim | āśīrbhirabhinaṁdyātha kuśalaṁ cāpyapṛcchata",
+   "mean_en": "The muni seated the king on a seat; having taken the arghya, he blessed him and asked after his welfare.",
+   "mean_te": "ముని రాజును ఆసనంపై ఆసీనుడుగా చేసి, అర్ఘ్యం తీసుకొని, ఆశీర్వదించి, క్షేమసమాచారాలు అడిగెను."
+  },
+  {
+   "n": 48,
+   "text_deva": "अपि तेऽनामयं राजन्बले कोशे सुहृत्सु च | भृत्येऽमात्ये पुरे देशे तथात्मनि जनाधिप",
+   "text_te": "అపి తేఽనామయం రాజన్బలే కోశే సుహృత్సు చ | భృత్యేఽమాత్యే పురే దేశే తథాత్మని జనాధిప",
+   "text_en": "api te'nāmayaṁ rājanbale kośe suhṛtsu ca | bhṛtye'mātye pure deśe tathātmani janādhipa",
+   "mean_en": "\"Is all well with you, O king — in strength, in treasury, among friends, in servants and ministers, in city and country, and in yourself?\"",
+   "mean_te": "\"రాజా! బలంలోను, కోశంలోను, మిత్రులలోను, దాస దాసీలలోను, అమాత్యులలోను, పురదేశాలలోను, స్వయంగా నీకు క్షేమమేనా?\""
+  },
+  {
+   "n": 49,
+   "text_deva": "भार्याऽस्ति ते कुशलिनी यतः सात्रैव तिष्ठति | अतो न पृच्छाम्यस्यास्ते चान्यासां कुशलं वद | राजोवाच | भगवंस्त्वत्प्रसादेन सर्वत्रानामयं मम | एतत्कुतूहलं ब्रह्मन्मद्भार्या काsत्र विद्यते",
+   "text_te": "భార్యాఽస్తి తే కుశలినీ యతః సాత్రైవ తిష్ఠతి | అతో న పృచ్ఛామ్యస్యాస్తే చాన్యాసాం కుశలం వద | రాజోవాచ | భగవంస్త్వత్ప్రసాదేన సర్వత్రానామయం మమ | ఏతత్కుతూహలం బ్రహ్మన్మద్భార్యా కాస్త్ర విద్యతే",
+   "text_en": "bhāryā'sti te kuśalinī yataḥ sātraiva tiṣṭhati | ato na pṛcchāmyasyāste cānyāsāṁ kuśalaṁ vada | rājovāca | bhagavaṁstvatprasādena sarvatrānāmayaṁ mama | etatkutūhalaṁ brahmanmadbhāryā kāstra vidyate",
+   "mean_en": "\"Is your wife well, since she stays here? So I ask nothing of her; tell me the welfare of the others.\" The king said: \"By your grace all is well with me everywhere, O lord. This is my curiosity, O brahmin — where is my wife?\"",
+   "mean_te": "\"నీ భార్య క్షేమం ఎల్లావుందో? ఆమె ఇక్కడే ఉన్నది కాబట్టి అడగలేదు; మిగిలినవారి క్షేమం చెప్పు.\" రాజు అన్నాడు — \"భగవాన్! నీ అనుగ్రహంతో నాకు ఎక్కడా అనారోగ్యం లేదు; కాని నా భార్య ఎక్కడ ఉందో తెలియాలని ఆత్రుతగా ఉంది, బ్రహ్మణా!\""
+  },
+  {
+   "n": 50,
+   "text_deva": "ऋषिरुवाच रेवती नाम ते भार्या रूपेणाप्रतिमा भुवि | विद्यतेsत्र कथं पत्नी तां न वेत्सि महीपते",
+   "text_te": "ఋషిరువాచ రేవతీ నామ తే భార్యా రూపేణాప్రతిమా భువి | విద్యతేస్త్ర కథం పత్నీ తాం న వేత్సి మహీపతే",
+   "text_en": "ṛṣiruvāca revatī nāma te bhāryā rūpeṇāpratimā bhuvi | vidyatestra kathaṁ patnī tāṁ na vetsi mahīpate",
+   "mean_en": "The rishi said: \"Your wife Revati, unmatched in beauty on earth, is here — how is she not your wife, O king?\"",
+   "mean_te": "ఋషి అన్నాడు — \"భువిపై రూపంలో అప్రతిహతమైన రేవతి అను నీ భార్య ఇక్కడే ఉన్నది; ఆమె నీ పత్ని కాదని నీకు ఎలా తోచుచున్నది, మహీపాలా!\""
+  },
+  {
+   "n": 51,
+   "text_deva": "राजोवाच सुभद्राद्यास्तु या भार्या मम सन्ति गृहे विभो | जानामि तास्तु भगवन्न वै जानामि रेवतीम्",
+   "text_te": "రాజోవాచ సుభద్రాద్యాస్తు యా భార్యా మమ సన్తి గృహే విభో | జానామి తాస్తు భగవన్న వై జానామి రేవతీమ్",
+   "text_en": "rājovāca subhadrādyāstu yā bhāryā mama santi gṛhe vibho | jānāmi tāstu bhagavanna vai jānāmi revatīm",
+   "mean_en": "The king said: \"My wives are Subhadra and the others at home, O lord; them I know, O blessed one — but Revati I do not know at all.\"",
+   "mean_te": "రాజు అన్నాడు — \"సుభద్రాదులు గృహంలో నా భార్యలు; వారిని తెలుసుకొంటిని, భగవాన్! రేవతిని మాత్రం తెలియదు.\""
+  },
+  {
+   "n": 52,
+   "text_deva": "ऋषिरुवाच प्रियेति सांप्रतं राजंस्त्वयोक्ता या महामते | सा विस्मृता क्षणादेव या ते श्लाघ्यतमा प्रिया | राजोवाच | त्वयोक्तं यन्मृषा तन्नो तथैवामन्त्रिता मया | मुने दुष्टो न मे भावः कोपं मा कर्तुमर्हसि",
+   "text_te": "ఋషిరువాచ ప్రియేతి సాంప్రతం రాజంస్త్వయోక్తా యా మహామతే | సా విస్మృతా క్షణాదేవ యా తే శ్లాఘ్యతమా ప్రియా | రాజోవాచ | త్వయోక్తం యన్మృషా తన్నో తథైవామన్త్రితా మయా | మునే దుష్టో న మే భావః కోపం మా కర్తుమర్హసి",
+   "text_en": "ṛṣiruvāca priyeti sāṁprataṁ rājaṁstvayoktā yā mahāmate | sā vismṛtā kṣaṇādeva yā te ślāghyatamā priyā | rājovāca | tvayoktaṁ yanmṛṣā tanno tathaivāmantritā mayā | mune duṣṭo na me bhāvaḥ kopaṁ mā kartumarhasi",
+   "mean_en": "The rishi said: \"The one you spoke of just now as 'dear', O great-minded king — she is forgotten by you in an instant, she who is your most-praised beloved!\" The king said: \"What you say is false; that is why I addressed her so. O sage, my intent is not wicked — do not be angry with me.\"",
+   "mean_te": "ఋషి అన్నాడు — \"మహామతి రాజా! క్షణం క్రితం నీవు 'ప్రియమైనదాన్ని' అని పిలిచినది ఆమెయే; నీకు అత్యంత ప్రియమైనది ఆమెయే — కాని నీకు క్షణమందే మరువబడింది!\" రాజు అన్నాడు — \"నువ్వు చెప్పింది అసత్యం; అందుకే నేను అలా సంబోధించాను. మునీ! నా భావం దుర్మార్గం కాదు; కోపించకు.\""
+  },
+  {
+   "n": 53,
+   "text_deva": "ऋषिरुवाच राजन्नुक्तं त्वया सत्यं न भावो दूषितस्तव | वह्निना प्रेरितेनेत्थं भवता &#39;व्याहृतं वचः",
+   "text_te": "ఋషిరువాచ రాజన్నుక్తం త్వయా సత్యం న భావో దూషితస్తవ | వహ్నినా ప్రేరితేనేత్థం భవతా &#39;వ్యాహృతం వచః",
+   "text_en": "ṛṣiruvāca rājannuktaṁ tvayā satyaṁ na bhāvo dūṣitastava | vahninā preritenetthaṁ bhavatā &#39;vyāhṛtaṁ vacaḥ",
+   "mean_en": "The rishi said: \"O king, what you said is true; your nature is not corrupted. Prompted by the fire, these words were uttered by you unawares.\"",
+   "mean_te": "ఋషి అన్నాడు — \"రాజా! నువ్వు చెప్పింది సత్యమే; నీ భావం దూషితం కాదు. అగ్నిదేవుడు ప్రేరేపించగా నీ నోటి నుండి ఈ మాట తేలింది.\""
+  },
+  {
+   "n": 54,
+   "text_deva": "अद्य पृष्टो मया वह्निः कोऽस्या भर्त्ता भविष्यति | तेनोक्तं दुर्दमो राजा भविताऽस्याः पतिर्ध्रुवम्",
+   "text_te": "అద్య పృష్టో మయా వహ్నిః కోఽస్యా భర్త్తా భవిష్యతి | తేనోక్తం దుర్దమో రాజా భవితాఽస్యాః పతిర్ధ్రువమ్",
+   "text_en": "adya pṛṣṭo mayā vahniḥ ko'syā bharttā bhaviṣyati | tenoktaṁ durdamo rājā bhavitā'syāḥ patirdhruvam",
+   "mean_en": "\"Today I asked the fire who her husband would be; it said the king Durdama would surely be her husband.\"",
+   "mean_te": "\"ఈ రోజు నేను అగ్నిని అడిగితిని — ఈమె భర్త ఎవరని; అతడు 'దుర్దముడు అను రాజు తప్పక భర్తగును' అని పలికెను.\""
+  },
+  {
+   "n": 55,
+   "text_deva": "तदादत्स्व मया दत्तामिमां कन्यां महीपते | प्रियेत्यामंत्रिता पूर्वं मा विचारं कुरुष्व भोः",
+   "text_te": "తదాదత్స్వ మయా దత్తామిమాం కన్యాం మహీపతే | ప్రియేత్యామంత్రితా పూర్వం మా విచారం కురుష్వ భోః",
+   "text_en": "tadādatsva mayā dattāmimāṁ kanyāṁ mahīpate | priyetyāmaṁtritā pūrvaṁ mā vicāraṁ kuruṣva bhoḥ",
+   "mean_en": "\"So accept this girl given by me, O lord of the earth; she was addressed (by you) as 'dear' before — do not deliberate further.\"",
+   "mean_te": "\"కావున నాచే ఇవ్వబడిన ఈ కన్యను అంగీకరించు, మహీపాలా! పూర్వం నువ్వు 'ప్రియమైనదాన్ని' అని సంబోధించావు; ఇక ఆలోచించకు.\""
+  },
+  {
+   "n": 56,
+   "text_deva": "श्रुत्वैतत्सोऽभवत्तूष्णीं चिंतयन्मुनिभाषितम् | वैवाहिकं विधिं तस्य मुनिः कर्तुं समुद्यतः",
+   "text_te": "శ్రుత్వైతత్సోఽభవత్తూష్ణీం చింతయన్మునిభాషితమ్ | వైవాహికం విధిం తస్య మునిః కర్తుం సముద్యతః",
+   "text_en": "śrutvaitatso'bhavattūṣṇīṁ ciṁtayanmunibhāṣitam | vaivāhikaṁ vidhiṁ tasya muniḥ kartuṁ samudyataḥ",
+   "mean_en": "Hearing this he fell silent, pondering the sage's words; the muni set about performing the marriage rites.",
+   "mean_te": "ఈ మాటలు విన్న రాజు మౌనంగా ఉండిపోయెను, మునివాక్కను ఆలోచిస్తూ; ముని వివాహ విధానానికి సిద్ధపడెను."
+  },
+  {
+   "n": 57,
+   "text_deva": "अथोद्यतं विवाहाय दृष्ट्वा कन्याऽब्रवीन्मुनिम् | रेवत्यृक्षे विवाहो मे तात कर्तुं त्वमर्हसि",
+   "text_te": "అథోద్యతం వివాహాయ దృష్ట్వా కన్యాఽబ్రవీన్మునిమ్ | రేవత్యృక్షే వివాహో మే తాత కర్తుం త్వమర్హసి",
+   "text_en": "athodyataṁ vivāhāya dṛṣṭvā kanyā'bravīnmunim | revatyṛkṣe vivāho me tāta kartuṁ tvamarhasi",
+   "mean_en": "Then, seeing the marriage begun, the maiden said to the muni: \"O father, you must perform my marriage in the Revati star.\"",
+   "mean_te": "అప్పుడు వివాహం మొదలవుతుండగా కన్య మునితో అన్నది — \"తండ్రీ! నా వివాహం రేవతి నక్షత్రంలో చేయవలెను.\""
+  },
+  {
+   "n": 58,
+   "text_deva": "ऋषिरुवाच वत्से विवाहयोग्यानि सत्यन्यर्क्षाणि भूरिशः | रेवत्यां कथमुद्वाहः पौष्णभं न दिवि स्थितम्",
+   "text_te": "ఋషిరువాచ వత్సే వివాహయోగ్యాని సత్యన్యర్క్షాణి భూరిశః | రేవత్యాం కథముద్వాహః పౌష్ణభం న దివి స్థితమ్",
+   "text_en": "ṛṣiruvāca vatse vivāhayogyāni satyanyarkṣāṇi bhūriśaḥ | revatyāṁ kathamudvāhaḥ pauṣṇabhaṁ na divi sthitam",
+   "mean_en": "The rishi said: \"Child, many stars are fit for marriage; how can the marriage be in Revati, when Pausna is not in the sky?\"",
+   "mean_te": "ఋషి అన్నాడు — \"వత్సా! వివాహానికి యోగ్యమైన నక్షత్రాలు అనేకం; పౌష్ణం ఆకాశంలో లేనప్పుడు రేవతిలో వివాహం ఎలా జరుగును?\""
+  },
+  {
+   "n": 59,
+   "text_deva": "कन्योवाच रेवत्यृक्षं विना कालो ममोद्वाहोचितो न हि | अतः संप्रार्थयाम्येतद्विवाहं पौष्णभे कुरु",
+   "text_te": "కన్యోవాచ రేవత్యృక్షం వినా కాలో మమోద్వాహోచితో న హి | అతః సంప్రార్థయామ్యేతద్వివాహం పౌష్ణభే కురు",
+   "text_en": "kanyovāca revatyṛkṣaṁ vinā kālo mamodvāhocito na hi | ataḥ saṁprārthayāmyetadvivāhaṁ pauṣṇabhe kuru",
+   "mean_en": "The maiden said: \"Without the Revati star the time is not right for my marriage; therefore I pray — perform this marriage in Pausna.\"",
+   "mean_te": "కన్య అన్నది — \"రేవతి నక్షత్రం లేకుండా నా వివాహానికి కాలం సరిపోదు; కావున ఈ వివాహాన్ని పౌష్ణంలో చేయమని ప్రార్థిస్తాను.\""
+  },
+  {
+   "n": 60,
+   "text_deva": "ऋषिरुवाच ऋतवाङ्मुनिना पूर्वं रेवतीभं निपातितम् | भान्तरे चेन्न ते प्रीतिर्विवाहः स्यात्कथं तव",
+   "text_te": "ఋషిరువాచ ఋతవాఙ్మునినా పూర్వం రేవతీభం నిపాతితమ్ | భాన్తరే చేన్న తే ప్రీతిర్వివాహః స్యాత్కథం తవ",
+   "text_en": "ṛṣiruvāca ṛtavāṅmuninā pūrvaṁ revatībhaṁ nipātitam | bhāntare cenna te prītirvivāhaḥ syātkathaṁ tava",
+   "mean_en": "The rishi said: \"It was by the muni Rtavak that the Revati star was felled before; if in another birth you do not love (that sage's line), how would the marriage please you?\"",
+   "mean_te": "ఋషి అన్నాడు — \"పూర్వం ఋతవాఙ్మునిచేతనే రేవతి నక్షత్రం కూల్చబడింది; అతని కులంలో పుట్టిన వాడిని నువ్వు ప్రేమించకపోతే వివాహం ఎలా జరుగును?\""
+  },
+  {
+   "n": 61,
+   "text_deva": "कन्योवाच तपः किं तप्तवानेक ऋतवागेव केवलम् | भवता किं तपो नेदृक्तप्तं वाक्कायमानसः",
+   "text_te": "కన్యోవాచ తపః కిం తప్తవానేక ఋతవాగేవ కేవలమ్ | భవతా కిం తపో నేదృక్తప్తం వాక్కాయమానసః",
+   "text_en": "kanyovāca tapaḥ kiṁ taptavāneka ṛtavāgeva kevalam | bhavatā kiṁ tapo nedṛktaptaṁ vākkāyamānasaḥ",
+   "mean_en": "The maiden said: \"Has tapas been performed by many, only by Rtavak? What tapas have you not done — with speech, body and mind?\"",
+   "mean_te": "కన్య అన్నది — \"తపస్సు ఋతవాక్కుడొక్కడే చేశాడా? వాక్కాయమనస్సులతో నీవు చేయని తపస్సు ఉందా?\""
+  },
+  {
+   "n": 62,
+   "text_deva": "जगत्स्रष्टुं समर्थस्त्वं वेद्म्यहं ते तपोबलम् | रेवत्यृक्षं दिवि स्थाप्य ममोद्वाहं पितः कुरु",
+   "text_te": "జగత్స్రష్టుం సమర్థస్త్వం వేద్మ్యహం తే తపోబలమ్ | రేవత్యృక్షం దివి స్థాప్య మమోద్వాహం పితః కురు",
+   "text_en": "jagatsraṣṭuṁ samarthastvaṁ vedmyahaṁ te tapobalam | revatyṛkṣaṁ divi sthāpya mamodvāhaṁ pitaḥ kuru",
+   "mean_en": "\"You are capable of creating the world — I know the strength of your tapas. Place the Revati star in the sky and perform my marriage, father.\"",
+   "mean_te": "\"జగత్తును సృష్టించుటకు నీవు సమర్థుడవు; నీ తపోబలం నాకు తెలుసు. రేవతి నక్షత్రాన్ని ఆకాశంలో నిలిపి నా వివాహం చేయి, తండ్రీ!\""
+  },
+  {
+   "n": 63,
+   "text_deva": "ऋषिरुवाच एवं भवतु भद्रं ते यथैव त्वं ब्रवीषि माम् | त्वत्कृते सोममार्गेऽहं स्थापयाम्यद्य पौष्णभम् ६५ | | एवमुक्त्वा मुनिस्तूर्णं पौष्णभं स्वतपोबलात् | यथापूर्वं तथा चक्रे सोममार्गे घटोद्भव",
+   "text_te": "ఋషిరువాచ ఏవం భవతు భద్రం తే యథైవ త్వం బ్రవీషి మామ్ | త్వత్కృతే సోమమార్గేఽహం స్థాపయామ్యద్య పౌష్ణభమ్ ६५ | | ఏవముక్త్వా మునిస్తూర్ణం పౌష్ణభం స్వతపోబలాత్ | యథాపూర్వం తథా చక్రే సోమమార్గే ఘటోద్భవ",
+   "text_en": "ṛṣiruvāca evaṁ bhavatu bhadraṁ te yathaiva tvaṁ bravīṣi mām | tvatkṛte somamārge'haṁ sthāpayāmyadya pauṣṇabham ६५ | | evamuktvā munistūrṇaṁ pauṣṇabhaṁ svatapobalāt | yathāpūrvaṁ tathā cakre somamārge ghaṭodbhava",
+   "mean_en": "The rishi said: \"So be it, may good befall you as you say; for your sake I will today place Pausna on the moon's path.\" Saying this, the sage, by the strength of his tapas, quickly did as before — set Pausna on the moon's path.",
+   "mean_te": "ఋషి అన్నాడు — \"అలాగే జరుగును; నువ్వు చెప్పినట్లే కల్యాణం కలుగుగాక. నీ కోసం ఈ రోజు పౌష్ణాన్ని సోమ మార్గంలో నిలిపెదను.\" అని ఆ ముని తపోబలంతో వేగంగా పూర్వం వలె పౌష్ణాన్ని చంద్రమార్గంలో స్థాపించెను."
+  },
+  {
+   "n": 64,
+   "text_deva": "रेवतीनाम्नि नक्षत्रे विवाहविधिना मुनिः | रेवतीं प्रददौ राज्ञे दुर्द्दमाय महात्मने",
+   "text_te": "రేవతీనామ్ని నక్షత్రే వివాహవిధినా మునిః | రేవతీం ప్రదదౌ రాజ్ఞే దుర్ద్దమాయ మహాత్మనే",
+   "text_en": "revatīnāmni nakṣatre vivāhavidhinā muniḥ | revatīṁ pradadau rājñe durddamāya mahātmane",
+   "mean_en": "In the nakshatra named Revati, according to the marriage rite, the muni gave Revati to the king, to the high-souled Durdama.",
+   "mean_te": "రేవతి నామ నక్షత్రంలో వివాహ విధిప్రకారంగా ముని రేవతిని మహాత్ముడైన దుర్దమ రాజుకు ఇచ్చెను."
+  },
+  {
+   "n": 65,
+   "text_deva": "कृत्वा विवाहं कन्याया मुनी राजानमब्रवीत् | किं तेऽभिलषितं वीर वद तत्पूरयाम्यहम्",
+   "text_te": "కృత్వా వివాహం కన్యాయా మునీ రాజానమబ్రవీత్ | కిం తేఽభిలషితం వీర వద తత్పూరయామ్యహమ్",
+   "text_en": "kṛtvā vivāhaṁ kanyāyā munī rājānamabravīt | kiṁ te'bhilaṣitaṁ vīra vada tatpūrayāmyaham",
+   "mean_en": "Having performed the maiden's marriage, the muni said to the king: \"What is your desire, O hero? Tell me; I shall fulfil it.\"",
+   "mean_te": "కన్యావివాహం చేసి, ఆ ముని రాజుతో అన్నాడు — \"వీరా! నీ కోరిక ఏమిటి? చెప్పు; నేను నెరవేర్చెదను.\""
+  },
+  {
+   "n": 66,
+   "text_deva": "राजोवाच मनोः स्वायंभुवस्याहं वंशे जातोऽस्मि हे मुने | मन्वन्तराधिपं पुत्रं त्वत्प्रसादाच्च कामये",
+   "text_te": "రాజోవాచ మనోః స్వాయంభువస్యాహం వంశే జాతోఽస్మి హే మునే | మన్వన్తరాధిపం పుత్రం త్వత్ప్రసాదాచ్చ కామయే",
+   "text_en": "rājovāca manoḥ svāyaṁbhuvasyāhaṁ vaṁśe jāto'smi he mune | manvantarādhipaṁ putraṁ tvatprasādācca kāmaye",
+   "mean_en": "The king said: \"I am born in the very line of Manu, the self-born's, O sage; by your grace I desire a son who will be a lord of a manvantara.\"",
+   "mean_te": "రాజు అన్నాడు — \"మునీ! నేను స్వాయంభువ మనువు వంశంలో జన్మించితిని; నీ అనుగ్రహంతో మన్వంతరాధిపతిగా విలువైన పుత్రుడిని కోరుతున్నాను.\""
+  },
+  {
+   "n": 67,
+   "text_deva": "मुनिरुवाच यद्येषा कामना तेऽस्ति देव्या आराधनं कुरु | भविष्यत्येव ते पुत्रो मनुर्मन्वंतराधिपः",
+   "text_te": "మునిరువాచ యద్యేషా కామనా తేఽస్తి దేవ్యా ఆరాధనం కురు | భవిష్యత్యేవ తే పుత్రో మనుర్మన్వంతరాధిపః",
+   "text_en": "muniruvāca yadyeṣā kāmanā te'sti devyā ārādhanaṁ kuru | bhaviṣyatyeva te putro manurmanvaṁtarādhipaḥ",
+   "mean_en": "The muni said: \"If that is your desire, worship the Goddess; your son will indeed become a Manu, lord of a manvantara.\"",
+   "mean_te": "ముని అన్నాడు — \"అలాంటి కామన నీకున్నట్లైతే దేవిని ఆరాధించు; నీ పుత్రుడు మన్వంతరాధిపతిగా మనువు అగునే.\""
+  },
+  {
+   "n": 68,
+   "text_deva": "देवीभागवतं नाम पुराणं यत्तु पंचमम् | पंचकृत्वस्तु तच्छ्रुत्वा लप्स्यसे ऽभिमतं सुतम्",
+   "text_te": "దేవీభాగవతం నామ పురాణం యత్తు పంచమమ్ | పంచకృత్వస్తు తచ్ఛ్రుత్వా లప్స్యసే ఽభిమతం సుతమ్",
+   "text_en": "devībhāgavataṁ nāma purāṇaṁ yattu paṁcamam | paṁcakṛtvastu tacchrutvā lapsyase 'bhimataṁ sutam",
+   "mean_en": "\"That Purana named Devi Bhagavata — hear it five times; hearing it five times, you will gain the son you desire.\"",
+   "mean_te": "\"దేవీ భాగవతమను పురాణాన్ని ఐదుసార్లు శ్రవణం చెయ్యి; ఐదుసార్లు శ్రవణం చేయుటచే నీకు అభీష్ట పుత్రుడు లభించును.\""
+  },
+  {
+   "n": 69,
+   "text_deva": "रेवत्या रैवतो नाम पंचमो भविता मनुः | वेदविच्छास्त्रतत्त्वज्ञो धर्मवानपराजितः",
+   "text_te": "రేవత్యా రైవతో నామ పంచమో భవితా మనుః | వేదవిచ్ఛాస్త్రతత్త్వజ్ఞో ధర్మవానపరాజితః",
+   "text_en": "revatyā raivato nāma paṁcamo bhavitā manuḥ | vedavicchāstratattvajño dharmavānaparājitaḥ",
+   "mean_en": "\"By Revati, Raivata shall be the fifth Manu — a knower of Veda and shastra-tattva, ever-victorious in dharma.\"",
+   "mean_te": "\"రేవతివల్ల రైవతుడు అను పంచమ మనువు అగును; వేద విచ్చాస్త్ర తత్త్వజ్ఞుడు, ధర్మవాన్, అజేయుడు అతడు.\""
+  },
+  {
+   "n": 70,
+   "text_deva": "इत्युक्तो मुनिना राजा प्रणम्य मुदितो मुनिम् | भार्यया सह मेधावी जगाम नगरं निजम्",
+   "text_te": "ఇత్యుక్తో మునినా రాజా ప్రణమ్య ముదితో మునిమ్ | భార్యయా సహ మేధావీ జగామ నగరం నిజమ్",
+   "text_en": "ityukto muninā rājā praṇamya mudito munim | bhāryayā saha medhāvī jagāma nagaraṁ nijam",
+   "mean_en": "Thus addressed by the muni, the king, delighted, bowed to the sage and went with his wife, the intelligent one, to his own city.",
+   "mean_te": "ముని మాటలు విన్న రాజు సంతోషంతో మునికి నమస్కరించి, భార్యతో సహా తన నగరానికి వెళ్ళెను."
+  },
+  {
+   "n": 71,
+   "text_deva": "पितृपैतामहं राज्यं चकार स महामतिः | पालयामास धर्मात्मा प्रजाः पुत्रानिवौरसान्",
+   "text_te": "పితృపైతామహం రాజ్యం చకార స మహామతిః | పాలయామాస ధర్మాత్మా ప్రజాః పుత్రానివౌరసాన్",
+   "text_en": "pitṛpaitāmahaṁ rājyaṁ cakāra sa mahāmatiḥ | pālayāmāsa dharmātmā prajāḥ putrānivaurasān",
+   "mean_en": "That great-minded one ruled the kingdom inherited from father and grandfather; the righteous king guarded his subjects like his own children.",
+   "mean_te": "పితృపైతామహకమైన రాజ్యాన్ని ఆ మహామతి వాడు పాలించెను; ధర్మాత్ముడై ప్రజలను తన పుత్రుల్లా కాపాడెను."
+  },
+  {
+   "n": 72,
+   "text_deva": "एकदा लोमशो नाम महात्मा मुनिरागतः | प्रणिपत्य तमभ्यर्च्य प्रांजलिश्चाब्रवीन्नृपः",
+   "text_te": "ఏకదా లోమశో నామ మహాత్మా మునిరాగతః | ప్రణిపత్య తమభ్యర్చ్య ప్రాంజలిశ్చాబ్రవీన్నృపః",
+   "text_en": "ekadā lomaśo nāma mahātmā munirāgataḥ | praṇipatya tamabhyarcya prāṁjaliścābravīnnṛpaḥ",
+   "mean_en": "One day there came the great sage Lomasha; bowing to him and honouring him, the king spoke with joined palms:",
+   "mean_te": "ఒకనాడు లోమశుడు అను మహాత్మ ముని వచ్చెను; రాజు అతనికి నమస్కరించి పూజించి, చేజోడ్డి అన్నాడు:"
+  },
+  {
+   "n": 73,
+   "text_deva": "राजोवाच भगवंस्त्वत्प्रसादेन श्रोतुमिच्छामि भो मुने | देवी भागवतं नाम पुराणं पुत्रलिप्सया",
+   "text_te": "రాజోవాచ భగవంస్త్వత్ప్రసాదేన శ్రోతుమిచ్ఛామి భో మునే | దేవీ భాగవతం నామ పురాణం పుత్రలిప్సయా",
+   "text_en": "rājovāca bhagavaṁstvatprasādena śrotumicchāmi bho mune | devī bhāgavataṁ nāma purāṇaṁ putralipsayā",
+   "mean_en": "The king said: \"By your grace, O lord, I wish to hear, O sage, the Purana named Devi Bhagavata, for the sake of a son.\"",
+   "mean_te": "రాజు అన్నాడు — \"భగవాన్! నీ అనుగ్రహంతో దేవీ భాగవత పురాణాన్ని పుత్రకాముడినై వినాలని కోరుతున్నాను, మునీ!\""
+  },
+  {
+   "n": 74,
+   "text_deva": "श्रुत्वा वाचं प्रजाभर्तुः प्रीतः प्रोवाच लोमशः | धन्योऽसि राजंस्ते भक्तिर्जाता त्रैलोक्यमातरि ७७ | सुरासुरनराराध्या या परा जगदम्बिका | तस्यां चेद्भक्तिरुत्पन्ना कार्यसिद्धिर्भविष्यति",
+   "text_te": "శ్రుత్వా వాచం ప్రజాభర్తుః ప్రీతః ప్రోవాచ లోమశః | ధన్యోఽసి రాజంస్తే భక్తిర్జాతా త్రైలోక్యమాతరి ७७ | సురాసురనరారాధ్యా యా పరా జగదమ్బికా | తస్యాం చేద్భక్తిరుత్పన్నా కార్యసిద్ధిర్భవిష్యతి",
+   "text_en": "śrutvā vācaṁ prajābhartuḥ prītaḥ provāca lomaśaḥ | dhanyo'si rājaṁste bhaktirjātā trailokyamātari ७७ | surāsuranarārādhyā yā parā jagadambikā | tasyāṁ cedbhaktirutpannā kāryasiddhirbhaviṣyati",
+   "mean_en": "Hearing the lord of subjects' words, Lomasha, pleased, said: \"Blessed are you, O king; devotion to the Mother of the three worlds has been born in you. She — the supreme Mother of the world, worshipped by gods, asuras and men — if devotion to her is born, one's purpose succeeds.\"",
+   "mean_te": "ప్రజాపాలకుని మాటలు విన్న లోమశుడు సంతోషించి అన్నాడు — \"రాజా! నువ్వు ధన్యుడివి; త్రిలోక మాత అయిన ఆమెపై నీకు భక్తి పుట్టింది. సురాసుర నరాలచే పూజింపబడు పర జగదంబిక అయిన ఆమెపై భక్తి పుట్టినచో కార్యసిద్ధి కలుగును.\""
+  },
+  {
+   "n": 75,
+   "text_deva": "अतस्त्वां श्रावयिष्यामि श्रीमद्भागवतं नृप | यस्य श्रवणमात्रेण न किंचिदपि दुर्लभम्",
+   "text_te": "అతస్త్వాం శ్రావయిష్యామి శ్రీమద్భాగవతం నృప | యస్య శ్రవణమాత్రేణ న కించిదపి దుర్లభమ్",
+   "text_en": "atastvāṁ śrāvayiṣyāmi śrīmadbhāgavataṁ nṛpa | yasya śravaṇamātreṇa na kiṁcidapi durlabham",
+   "mean_en": "\"Therefore I shall make you hear the Sri Bhagavata, O king; by its mere hearing nothing at all is unattainable.\"",
+   "mean_te": "\"కావున శ్రీమద్భాగవతాన్ని నీకు శ్రవణం చేయిస్తాను, రాజా! దాని శ్రవణం మాత్రంచే అందనిది ఏదీ లేదు.\""
+  },
+  {
+   "n": 76,
+   "text_deva": "इत्युक्त्वा सुदिने ब्रह्मन्कथारंभमथाकरोत् | पंचकृत्वः स शुश्राव विधिवद्भार्यया सह",
+   "text_te": "ఇత్యుక్త్వా సుదినే బ్రహ్మన్కథారంభమథాకరోత్ | పంచకృత్వః స శుశ్రావ విధివద్భార్యయా సహ",
+   "text_en": "ityuktvā sudine brahmankathāraṁbhamathākarot | paṁcakṛtvaḥ sa śuśrāva vidhivadbhāryayā saha",
+   "mean_en": "Saying this, on a fine day the brahmana began the story; five times he heard it duly, with his wife.",
+   "mean_te": "అని శుభదినమున బ్రహ్మణుడు (లోమశుడు) కథారంభం చేసెను; అతడు భార్యతో సహా ఐదుసార్లు విధివత్తుగా శ్రవణం చేసెను."
+  },
+  {
+   "n": 77,
+   "text_deva": "समाप्तिदिवसे राजा पुराणं च मुनिं तथा | पूजयामास धर्मात्मा मुदा परमया युतः",
+   "text_te": "సమాప్తిదివసే రాజా పురాణం చ మునిం తథా | పూజయామాస ధర్మాత్మా ముదా పరమయా యుతః",
+   "text_en": "samāptidivase rājā purāṇaṁ ca muniṁ tathā | pūjayāmāsa dharmātmā mudā paramayā yutaḥ",
+   "mean_en": "On the day of completion, the righteous king worshipped the Purana and the muni too, with supreme joy.",
+   "mean_te": "సమాప్తి దినమున ధర్మాత్ముడైన రాజు పురాణాన్ని, మునిని కూడా పరమానందంతో పూజించెను."
+  },
+  {
+   "n": 78,
+   "text_deva": "हुत्वा नवार्णमंत्रेण भोजयित्वा कुमारिकाः | वाडवांश्च सपत्नीकान्दक्षिणाभिरतोषयत्",
+   "text_te": "హుత్వా నవార్ణమంత్రేణ భోజయిత్వా కుమారికాః | వాడవాంశ్చ సపత్నీకాన్దక్షిణాభిరతోషయత్",
+   "text_en": "hutvā navārṇamaṁtreṇa bhojayitvā kumārikāḥ | vāḍavāṁśca sapatnīkāndakṣiṇābhiratoṣayat",
+   "mean_en": "He offered oblations with the nine-syllable mantra, fed the maiden girls, and delighted the cows (vadavas) and their companions with dakshinas.",
+   "mean_te": "నవార్ణ మంత్రంతో హోమం చేసి, కుమారికలను భోజనాలకు పెట్టి, వాడవాది సువాసినులను దక్షిణలతో సంతోషపరచెను."
+  },
+  {
+   "n": 79,
+   "text_deva": "अथ कालेन कियता भगवत्याः प्रसादतः | गर्भं दधार सा राज्ञी लोककल्याणकारकम्",
+   "text_te": "అథ కాలేన కియతా భగవత్యాః ప్రసాదతః | గర్భం దధార సా రాజ్ఞీ లోకకల్యాణకారకమ్",
+   "text_en": "atha kālena kiyatā bhagavatyāḥ prasādataḥ | garbhaṁ dadhāra sā rājñī lokakalyāṇakārakam",
+   "mean_en": "After some time, by the grace of the Bhagavati, the queen conceived — a bringer of weal to the world.",
+   "mean_te": "కొంత కాలం తరువాత భగవతి అనుగ్రహంతో ఆ రాణి గర్భం ధరించెను — లోకకళ్యాణకారకంగా."
+  },
+  {
+   "n": 80,
+   "text_deva": "पुण्येऽथ समये प्राप्ते ग्रहैः सुस्थानसंगतैः | सर्वमंगलसंपन्ने रेवती सुषुवे सुतम्",
+   "text_te": "పుణ్యేఽథ సమయే ప్రాప్తే గ్రహైః సుస్థానసంగతైః | సర్వమంగలసంపన్నే రేవతీ సుషువే సుతమ్",
+   "text_en": "puṇye'tha samaye prāpte grahaiḥ susthānasaṁgataiḥ | sarvamaṁgalasaṁpanne revatī suṣuve sutam",
+   "mean_en": "When the auspicious time came, with the planets well-placed and all auspicious marks present, Revati bore a son.",
+   "mean_te": "పుణ్య సమయం రాగా, గ్రహాలు సుస్థానాలలో ఉండగా, సర్వమంగల సంపన్నంగా రేవతి కుమారుడికి జన్మనిచ్చెను."
+  },
+  {
+   "n": 81,
+   "text_deva": "श्रुत्वा पुत्रस्य जननं स्नात्वा राजा मुदान्वितः | स सुवर्णांभसा चक्रे जातकर्मादिकाः क्रियाः",
+   "text_te": "శ్రుత్వా పుత్రస్య జననం స్నాత్వా రాజా ముదాన్వితః | స సువర్ణాంభసా చక్రే జాతకర్మాదికాః క్రియాః",
+   "text_en": "śrutvā putrasya jananaṁ snātvā rājā mudānvitaḥ | sa suvarṇāṁbhasā cakre jātakarmādikāḥ kriyāḥ",
+   "mean_en": "Hearing of the son's birth, the king bathed, rejoicing, and performed the jatakarma and other rites with golden water.",
+   "mean_te": "పుత్రజన్మ విని రాజు స్నానం చేసి, సంతోషంతో సువర్ణజలంతో జాతకర్మాది క్రియలు చేసెను."
+  },
+  {
+   "n": 82,
+   "text_deva": "यथाविधि च दानानि दत्त्वा विप्रानतोषयत् | कृतोपनयनं राजा सांगान्वेदानपाठयत्",
+   "text_te": "యథావిధి చ దానాని దత్త్వా విప్రానతోషయత్ | కృతోపనయనం రాజా సాంగాన్వేదానపాఠయత్",
+   "text_en": "yathāvidhi ca dānāni dattvā viprānatoṣayat | kṛtopanayanaṁ rājā sāṁgānvedānapāṭhayat",
+   "mean_en": "He gave gifts as prescribed and delighted the brahmins; performing the son's upanayana, he had him read the Vedas with their angas.",
+   "mean_te": "విధివత్తుగా దానాలు ఇచ్చి బ్రాహ్మణులను సంతోషపరచెను; రాజు పుత్రునికి ఉపనయనం చేయించి, వేదాలను అంగాలతో సహా అధ్యయనం చేయించెను."
+  },
+  {
+   "n": 83,
+   "text_deva": "सर्वविद्यानिधिर्जातौ धर्मिष्ठोऽस्त्रविदां वरः | धर्मस्य वक्ता कर्त्ता च रैवतो नाम वीर्यवान्",
+   "text_te": "సర్వవిద్యానిధిర్జాతౌ ధర్మిష్ఠోఽస్త్రవిదాం వరః | ధర్మస్య వక్తా కర్త్తా చ రైవతో నామ వీర్యవాన్",
+   "text_en": "sarvavidyānidhirjātau dharmiṣṭho'stravidāṁ varaḥ | dharmasya vaktā karttā ca raivato nāma vīryavān",
+   "mean_en": "He became a treasury of all vidyas, righteous, best of the masters of weapons; mighty Raivata, a speaker and doer of dharma.",
+   "mean_te": "అతడు సర్వవిద్యల నిధియై, ధర్మిష్ఠుడై, అస్త్రవిద్యలలో శ్రేష్ఠుడై, ధర్మ వాగ్వాక్కుడైన పరాక్రమశాలి రైవతుడు అయ్యెను."
+  },
+  {
+   "n": 84,
+   "text_deva": "नियुक्तवानथ ब्रह्मा रैवतं मानवे पदे | मन्वन्तराधिपः श्रीमान्गां शशास स धर्मतः",
+   "text_te": "నియుక్తవానథ బ్రహ్మా రైవతం మానవే పదే | మన్వన్తరాధిపః శ్రీమాన్గాం శశాస స ధర్మతః",
+   "text_en": "niyuktavānatha brahmā raivataṁ mānave pade | manvantarādhipaḥ śrīmāngāṁ śaśāsa sa dharmataḥ",
+   "mean_en": "Then Brahma appointed Raivata to the seat of Manu; the illustrious one ruled the earth righteously.",
+   "mean_te": "అప్పుడు బ్రహ్మ రైవతునికి మన్వంతరాధిపత్య పదవిని అప్పగించెను; శ్రీమంతుడైన అతడు ధర్మంగా భూమిని పాలించెను."
+  },
+  {
+   "n": 85,
+   "text_deva": "इत्थं देव्याः प्रभावोऽयं संक्षेपेणोपवर्णितः | पुराणस्य च माहात्म्यं को वक्तुं विस्तरात्क्षमः",
+   "text_te": "ఇత్థం దేవ్యాః ప్రభావోఽయం సంక్షేపేణోపవర్ణితః | పురాణస్య చ మాహాత్మ్యం కో వక్తుం విస్తరాత్క్షమః",
+   "text_en": "itthaṁ devyāḥ prabhāvo'yaṁ saṁkṣepeṇopavarṇitaḥ | purāṇasya ca māhātmyaṁ ko vaktuṁ vistarātkṣamaḥ",
+   "mean_en": "Thus has the greatness of the Goddess been briefly told; and the greatness of the Purana — who is capable of telling it at length?",
+   "mean_te": "ఈ విధంగా దేవి ప్రభావం సంక్షిప్తంగా వర్ణింపబడింది; పురాణ మహత్తును విస్తరించి చెప్పుటకు ఎవరు సమర్థులు?"
+  },
+  {
+   "n": 86,
+   "text_deva": "कुंभयोनिस्तु माहात्म्यं विधिं भागवतस्य च | श्रुत्वा कुमारं चाभ्यर्च्य स्वाश्रमं पुनराययौ",
+   "text_te": "కుంభయోనిస్తు మాహాత్మ్యం విధిం భాగవతస్య చ | శ్రుత్వా కుమారం చాభ్యర్చ్య స్వాశ్రమం పునరాయయౌ",
+   "text_en": "kuṁbhayonistu māhātmyaṁ vidhiṁ bhāgavatasya ca | śrutvā kumāraṁ cābhyarcya svāśramaṁ punarāyayau",
+   "mean_en": "The jar-born one (Agastya), having heard the greatness and the procedure of the Bhagavata, worshipped Kumara and returned again to his ashram.",
+   "mean_te": "కుంభయోని అయిన అగస్త్యుడు భాగవత మహత్తును, విధానాన్ని విని, కుమార స్వామిని పూజించి, తిరిగి తన ఆశ్రమానికి వెళ్ళెను."
+  },
+  {
+   "n": 87,
+   "text_deva": "इदं मया भागवतस्य विप्रा माहात्म्यमुक्तं भवतां समक्षम् | शृणोति भक्त्या पठतीह भोगान्भुक्त्वाऽखिलान्मुक्तिमुपैति चांते",
+   "text_te": "ఇదం మయా భాగవతస్య విప్రా మాహాత్మ్యముక్తం భవతాం సమక్షమ్ | శృణోతి భక్త్యా పఠతీహ భోగాన్భుక్త్వాఽఖిలాన్ముక్తిముపైతి చాంతే",
+   "text_en": "idaṁ mayā bhāgavatasya viprā māhātmyamuktaṁ bhavatāṁ samakṣam | śṛṇoti bhaktyā paṭhatīha bhogānbhuktvā'khilānmuktimupaiti cāṁte",
+   "mean_en": "\"This greatness of the Bhagavata, O brahmins, I have told before you; whoever hears it with devotion or reads it here, enjoys all enjoyments and at the end attains liberation.\"",
+   "mean_te": "\"భాగవత మహత్తు ఇది; బ్రాహ్మణులారా! మీ సమక్షంలో చెప్పితిని. దీనిని భక్తితో శ్రవణం చేసేవారు, పఠించేవారు సకల భోగాలను అనుభవించి, అంతిమంగా ముక్తిని పొందుదురు.\""
+  },
+  {
+   "n": 88,
+   "text_deva": "इति श्रीस्कन्दपुराणे मानसखण्डे श्रीदेवीभागवतमाहात्म्ये चतुर्थोऽध्यायः",
+   "text_te": "ఇతి శ్రీస్కన్దపురాణే మానసఖణ్డే శ్రీదేవీభాగవతమాహాత్మ్యే చతుర్థోఽధ్యాయః",
+   "text_en": "iti śrīskandapurāṇe mānasakhaṇḍe śrīdevībhāgavatamāhātmye caturtho'dhyāyaḥ",
+   "mean_en": "Thus ends the fourth adhyaya of the Sri Devi Bhagavata Mahatmya in the Manasa Khanda of the Sri Skanda Purana.",
+   "mean_te": "ఇట్టల్వా శ్రీ స్కాంద పురాణమున మానస ఖండమున శ్రీ దేవీ భాగవత మాహాత్మ్యమున చతుర్థాధ్యాయము సమాప్తము."
+  }
+ ]
+}

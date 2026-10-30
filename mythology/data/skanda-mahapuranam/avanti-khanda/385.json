@@ -1,0 +1,913 @@
+{
+ "kanda": "avanti-khanda",
+ "n": 385,
+ "title_deva": "सूत उवाच - इत्युक्त्वोपररामथ पाण्डोः पुत्राय वै मुनिः",
+ "title_te": "సూత ఉవాచ - ఇత్యుక్త్వోపరరామథ పాణ్డోః పుత్రాయ వై మునిః",
+ "title_iast": "sūta uvāca - ityuktvopararāmatha pāṇḍoḥ putrāya vai muniḥ",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "इत्युक्त्वोपररामथ पाण्डोः पुत्राय वै मुनिः | मृकण्डतनयो धीमान्सप्तकल्पस्मरः पुरः",
+   "text_te": "ఇత్యుక్త్వోపరరామథ పాణ్డోః పుత్రాయ వై మునిః | మృకణ్డతనయో ధీమాన్సప్తకల్పస్మరః పురః",
+   "text_en": "ityuktvopararāmatha pāṇḍoḥ putrāya vai muniḥ | mṛkaṇḍatanayo dhīmānsaptakalpasmaraḥ puraḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 2,
+   "text_deva": "मार्कण्डमुनिना प्रोक्तं यथा पार्थाय सत्तमाः | तथा वः कथितं सर्वं रेवामाहात्म्यमुत्तमम्",
+   "text_te": "మార్కణ్డమునినా ప్రోక్తం యథా పార్థాయ సత్తమాః | తథా వః కథితం సర్వం రేవామాహాత్మ్యముత్తమమ్",
+   "text_en": "mārkaṇḍamuninā proktaṁ yathā pārthāya sattamāḥ | tathā vaḥ kathitaṁ sarvaṁ revāmāhātmyamuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 3,
+   "text_deva": "इयं पुण्या सरिच्छ्रेष्ठा रेवा विश्वैकपावनी | रुद्रदेहसमुद्भूता सर्वभूताभयप्रदा",
+   "text_te": "ఇయం పుణ్యా సరిచ్ఛ్రేష్ఠా రేవా విశ్వైకపావనీ | రుద్రదేహసముద్భూతా సర్వభూతాభయప్రదా",
+   "text_en": "iyaṁ puṇyā saricchreṣṭhā revā viśvaikapāvanī | rudradehasamudbhūtā sarvabhūtābhayapradā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 4,
+   "text_deva": "ओङ्कारजलधिं यावदुवाच भृगुनन्दनः | तीर्थसङ्गमभेदान्वै धर्मपुत्राय पृच्छते",
+   "text_te": "ఓఙ్కారజలధిం యావదువాచ భృగునన్దనః | తీర్థసఙ్గమభేదాన్వై ధర్మపుత్రాయ పృచ్ఛతే",
+   "text_en": "oṅkārajaladhiṁ yāvaduvāca bhṛgunandanaḥ | tīrthasaṅgamabhedānvai dharmaputrāya pṛcchate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 5,
+   "text_deva": "समासेनैव मुनयस्तथाहं कथयामि वः | सप्तषष्टिसहस्राणि षष्टिकोट्यस्तथैव च",
+   "text_te": "సమాసేనైవ మునయస్తథాహం కథయామి వః | సప్తషష్టిసహస్రాణి షష్టికోట్యస్తథైవ చ",
+   "text_en": "samāsenaiva munayastathāhaṁ kathayāmi vaḥ | saptaṣaṣṭisahasrāṇi ṣaṣṭikoṭyastathaiva ca",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 6,
+   "text_deva": "कथं केनात्र शक्यन्ते वक्तुं वर्षशतैरपि | तथाप्यत्र मुनिश्रेष्ठाः प्रोक्तं पार्थाय वै यथा",
+   "text_te": "కథం కేనాత్ర శక్యన్తే వక్తుం వర్షశతైరపి | తథాప్యత్ర మునిశ్రేష్ఠాః ప్రోక్తం పార్థాయ వై యథా",
+   "text_en": "kathaṁ kenātra śakyante vaktuṁ varṣaśatairapi | tathāpyatra muniśreṣṭhāḥ proktaṁ pārthāya vai yathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 7,
+   "text_deva": "तीर्थमोंकारमारभ्य वक्ष्ये तीर्थावलिं शुभाम् | प्रोच्यमानां समासेन तां शृणुध्वं महर्षयः",
+   "text_te": "తీర్థమోంకారమారభ్య వక్ష్యే తీర్థావలిం శుభామ్ | ప్రోచ్యమానాం సమాసేన తాం శృణుధ్వం మహర్షయః",
+   "text_en": "tīrthamoṁkāramārabhya vakṣye tīrthāvaliṁ śubhām | procyamānāṁ samāsena tāṁ śṛṇudhvaṁ maharṣayaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 8,
+   "text_deva": "नत्वा सोमं महेशानं नत्वा ब्रह्माच्युतावुभौ | सरस्वतीं गणेशानं देव्यासाङ्घ्रिपञ्कजम्",
+   "text_te": "నత్వా సోమం మహేశానం నత్వా బ్రహ్మాచ్యుతావుభౌ | సరస్వతీం గణేశానం దేవ్యాసాఙ్ఘ్రిపఞ్కజమ్",
+   "text_en": "natvā somaṁ maheśānaṁ natvā brahmācyutāvubhau | sarasvatīṁ gaṇeśānaṁ devyāsāṅghripañkajam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 9,
+   "text_deva": "पूर्वाचार्यांस्तथा सर्वान्दृष्ट्वादृष्टार्थवेदिनः | प्रणम्य नर्मदां देवीं वक्ष्ये तीर्थावलिं त्विमाम्",
+   "text_te": "పూర్వాచార్యాంస్తథా సర్వాన్దృష్ట్వాదృష్టార్థవేదినః | ప్రణమ్య నర్మదాం దేవీం వక్ష్యే తీర్థావలిం త్విమామ్",
+   "text_en": "pūrvācāryāṁstathā sarvāndṛṣṭvādṛṣṭārthavedinaḥ | praṇamya narmadāṁ devīṁ vakṣye tīrthāvaliṁ tvimām",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 10,
+   "text_deva": "ओं नमो विश्वरूपाय ओङ्कारायाखिलात्मने | यमारभ्ये प्रवक्ष्यामि रेवातीर्थावलिं द्विजाः",
+   "text_te": "ఓం నమో విశ్వరూపాయ ఓఙ్కారాయాఖిలాత్మనే | యమారభ్యే ప్రవక్ష్యామి రేవాతీర్థావలిం ద్విజాః",
+   "text_en": "oṁ namo viśvarūpāya oṅkārāyākhilātmane | yamārabhye pravakṣyāmi revātīrthāvaliṁ dvijāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 11,
+   "text_deva": "अस्मिन्मार्कण्डगदिते रेवातीर्थक्रमे शुभे | पुराणसंहिताध्याया मार्कण्डाश्रमवर्णनम्",
+   "text_te": "అస్మిన్మార్కణ్డగదితే రేవాతీర్థక్రమే శుభే | పురాణసంహితాధ్యాయా మార్కణ్డాశ్రమవర్ణనమ్",
+   "text_en": "asminmārkaṇḍagadite revātīrthakrame śubhe | purāṇasaṁhitādhyāyā mārkaṇḍāśramavarṇanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 12,
+   "text_deva": "ततः प्रश्नाधिकारश्च प्रशंसा नर्मदोद्भवा | तथा पञ्चदशानां च प्रवाहानां प्रकीर्तनम्",
+   "text_te": "తతః ప్రశ్నాధికారశ్చ ప్రశంసా నర్మదోద్భవా | తథా పఞ్చదశానాం చ ప్రవాహానాం ప్రకీర్తనమ్",
+   "text_en": "tataḥ praśnādhikāraśca praśaṁsā narmadodbhavā | tathā pañcadaśānāṁ ca pravāhānāṁ prakīrtanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 13,
+   "text_deva": "नामनिर्वचनं तद्वत्तथा कल्पसमुद्भवाः | एकविंशतिकल्पानां तद्वन्नामानुकीर्तनम्",
+   "text_te": "నామనిర్వచనం తద్వత్తథా కల్పసముద్భవాః | ఏకవింశతికల్పానాం తద్వన్నామానుకీర్తనమ్",
+   "text_en": "nāmanirvacanaṁ tadvattathā kalpasamudbhavāḥ | ekaviṁśatikalpānāṁ tadvannāmānukīrtanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 14,
+   "text_deva": "मार्कण्डेयानुभूतानां सप्तानां लक्षणानि च | माहात्म्यं चैव रेवायाः शिवविष्ण्वोस्तथैव च",
+   "text_te": "మార్కణ్డేయానుభూతానాం సప్తానాం లక్షణాని చ | మాహాత్మ్యం చైవ రేవాయాః శివవిష్ణ్వోస్తథైవ చ",
+   "text_en": "mārkaṇḍeyānubhūtānāṁ saptānāṁ lakṣaṇāni ca | māhātmyaṁ caiva revāyāḥ śivaviṣṇvostathaiva ca",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 15,
+   "text_deva": "संहारलक्षणं तद्वदोङ्कारस्य च सम्भवः | तथैवौंकारमाहात्म्यममरकण्टकीर्तनम्",
+   "text_te": "సంహారలక్షణం తద్వదోఙ్కారస్య చ సమ్భవః | తథైవౌంకారమాహాత్మ్యమమరకణ్టకీర్తనమ్",
+   "text_en": "saṁhāralakṣaṇaṁ tadvadoṅkārasya ca sambhavaḥ | tathaivauṁkāramāhātmyamamarakaṇṭakīrtanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 16,
+   "text_deva": "अमरेश्वरतीर्थं च तथा दारुवनं महत् | दारुकेश्वरतीर्थं च तीर्थं वै चरुकेश्वरम्",
+   "text_te": "అమరేశ్వరతీర్థం చ తథా దారువనం మహత్ | దారుకేశ్వరతీర్థం చ తీర్థం వై చరుకేశ్వరమ్",
+   "text_en": "amareśvaratīrthaṁ ca tathā dāruvanaṁ mahat | dārukeśvaratīrthaṁ ca tīrthaṁ vai carukeśvaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 17,
+   "text_deva": "चरुकासङ्गमस्तद्व्यद्वतीपातेश्वरं तथा | पातालेश्वरतीर्थं च कोटियज्ञाह्वयं तथा",
+   "text_te": "చరుకాసఙ్గమస్తద్వ్యద్వతీపాతేశ్వరం తథా | పాతాలేశ్వరతీర్థం చ కోటియజ్ఞాహ్వయం తథా",
+   "text_en": "carukāsaṅgamastadvyadvatīpāteśvaraṁ tathā | pātāleśvaratīrthaṁ ca koṭiyajñāhvayaṁ tathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 18,
+   "text_deva": "वरुणेश्वरतीर्थं च लिङ्गान्यष्टोत्तरं शतम् | सिद्धेश्वरं यमेशं च ब्रह्मेश्वरमतः परम्",
+   "text_te": "వరుణేశ్వరతీర్థం చ లిఙ్గాన్యష్టోత్తరం శతమ్ | సిద్ధేశ్వరం యమేశం చ బ్రహ్మేశ్వరమతః పరమ్",
+   "text_en": "varuṇeśvaratīrthaṁ ca liṅgānyaṣṭottaraṁ śatam | siddheśvaraṁ yameśaṁ ca brahmeśvaramataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 19,
+   "text_deva": "सारस्वतं चाष्टरुद्रं सावित्रं सोमसंज्ञितम् | शिवखातं महातीर्थं रुद्रावर्तं द्विजोत्तमाः",
+   "text_te": "సారస్వతం చాష్టరుద్రం సావిత్రం సోమసంజ్ఞితమ్ | శివఖాతం మహాతీర్థం రుద్రావర్తం ద్విజోత్తమాః",
+   "text_en": "sārasvataṁ cāṣṭarudraṁ sāvitraṁ somasaṁjñitam | śivakhātaṁ mahātīrthaṁ rudrāvartaṁ dvijottamāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 20,
+   "text_deva": "ब्रह्मावर्तं परं तीर्थं सूर्यावर्तमतः परम् | पिप्पलावर्ततीर्थं च पिप्पल्याश्चैव सङ्गमः",
+   "text_te": "బ్రహ్మావర్తం పరం తీర్థం సూర్యావర్తమతః పరమ్ | పిప్పలావర్తతీర్థం చ పిప్పల్యాశ్చైవ సఙ్గమః",
+   "text_en": "brahmāvartaṁ paraṁ tīrthaṁ sūryāvartamataḥ param | pippalāvartatīrthaṁ ca pippalyāścaiva saṅgamaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 21,
+   "text_deva": "अमरकण्टमाहात्म्यं कपिलासङ्गमस्तथा | विशल्यासम्भवश्चापि भृगुतुङ्गाद्रिकीर्तनम्",
+   "text_te": "అమరకణ్టమాహాత్మ్యం కపిలాసఙ్గమస్తథా | విశల్యాసమ్భవశ్చాపి భృగుతుఙ్గాద్రికీర్తనమ్",
+   "text_en": "amarakaṇṭamāhātmyaṁ kapilāsaṅgamastathā | viśalyāsambhavaścāpi bhṛgutuṅgādrikīrtanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 22,
+   "text_deva": "विशल्यासङ्गमः पुण्यः करमर्दासमागमः | करमर्देश्वरं तीर्थं चक्रतीर्थमनुत्तमम्",
+   "text_te": "విశల్యాసఙ్గమః పుణ్యః కరమర్దాసమాగమః | కరమర్దేశ్వరం తీర్థం చక్రతీర్థమనుత్తమమ్",
+   "text_en": "viśalyāsaṅgamaḥ puṇyaḥ karamardāsamāgamaḥ | karamardeśvaraṁ tīrthaṁ cakratīrthamanuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 23,
+   "text_deva": "सङ्गमो नीलगङ्गायाः विध्वंसस्त्रिपुरस्य च | कीर्तनं तीर्थदानानां मधुकतृतीयाव्रतम्",
+   "text_te": "సఙ్గమో నీలగఙ్గాయాః విధ్వంసస్త్రిపురస్య చ | కీర్తనం తీర్థదానానాం మధుకతృతీయావ్రతమ్",
+   "text_en": "saṅgamo nīlagaṅgāyāḥ vidhvaṁsastripurasya ca | kīrtanaṁ tīrthadānānāṁ madhukatṛtīyāvratam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 24,
+   "text_deva": "अप्सरेश्वरतीर्थं च देहक्षेपे विधिस्ततः | तीर्थं ज्वालेश्वरं नाम ज्वालायाः सङ्गमस्तथा",
+   "text_te": "అప్సరేశ్వరతీర్థం చ దేహక్షేపే విధిస్తతః | తీర్థం జ్వాలేశ్వరం నామ జ్వాలాయాః సఙ్గమస్తథా",
+   "text_en": "apsareśvaratīrthaṁ ca dehakṣepe vidhistataḥ | tīrthaṁ jvāleśvaraṁ nāma jvālāyāḥ saṅgamastathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 25,
+   "text_deva": "शक्रतीर्थं कुशावर्तं हंसतीर्थं तथैव च | अम्बरीषस्य तीर्थं च महाकालेश्वरं तथा",
+   "text_te": "శక్రతీర్థం కుశావర్తం హంసతీర్థం తథైవ చ | అమ్బరీషస్య తీర్థం చ మహాకాలేశ్వరం తథా",
+   "text_en": "śakratīrthaṁ kuśāvartaṁ haṁsatīrthaṁ tathaiva ca | ambarīṣasya tīrthaṁ ca mahākāleśvaraṁ tathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 26,
+   "text_deva": "मातृकेश्वरतीर्थं च भृगुतुङ्गानुवर्णनम् | तत्र भैरवमाहात्म्यं चपलेश्वरकीर्तनम्",
+   "text_te": "మాతృకేశ్వరతీర్థం చ భృగుతుఙ్గానువర్ణనమ్ | తత్ర భైరవమాహాత్మ్యం చపలేశ్వరకీర్తనమ్",
+   "text_en": "mātṛkeśvaratīrthaṁ ca bhṛgutuṅgānuvarṇanam | tatra bhairavamāhātmyaṁ capaleśvarakīrtanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 27,
+   "text_deva": "चण्डपाणेश्च माहात्म्यं कावेरीसङ्गमस्तथा | कुबेरेश्वरतीर्थं च वाराहीसङ्गमस्तथा",
+   "text_te": "చణ్డపాణేశ్చ మాహాత్మ్యం కావేరీసఙ్గమస్తథా | కుబేరేశ్వరతీర్థం చ వారాహీసఙ్గమస్తథా",
+   "text_en": "caṇḍapāṇeśca māhātmyaṁ kāverīsaṅgamastathā | kubereśvaratīrthaṁ ca vārāhīsaṅgamastathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 28,
+   "text_deva": "सङ्गमश्चण्डवेगायास्तीर्थं चण्डेश्वरं तथा | एरण्डीसङ्गमः पुण्य एरण्डेश्वरमुत्तमम्",
+   "text_te": "సఙ్గమశ్చణ్డవేగాయాస్తీర్థం చణ్డేశ్వరం తథా | ఏరణ్డీసఙ్గమః పుణ్య ఏరణ్డేశ్వరముత్తమమ్",
+   "text_en": "saṅgamaścaṇḍavegāyāstīrthaṁ caṇḍeśvaraṁ tathā | eraṇḍīsaṅgamaḥ puṇya eraṇḍeśvaramuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 29,
+   "text_deva": "पितृतीर्थं च तत्रैव ओङ्कारस्य च सम्भवम् | माहात्म्यं पञ्चलिङ्गानामोङ्कारस्य मुनीश्वराः",
+   "text_te": "పితృతీర్థం చ తత్రైవ ఓఙ్కారస్య చ సమ్భవమ్ | మాహాత్మ్యం పఞ్చలిఙ్గానామోఙ్కారస్య మునీశ్వరాః",
+   "text_en": "pitṛtīrthaṁ ca tatraiva oṅkārasya ca sambhavam | māhātmyaṁ pañcaliṅgānāmoṅkārasya munīśvarāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 30,
+   "text_deva": "कोटितीर्थस्य माहात्म्यं तीर्थं काकह्रदं तथा | जम्बुकेश्वरतीर्थं च सारस्वतमतः परम्",
+   "text_te": "కోటితీర్థస్య మాహాత్మ్యం తీర్థం కాకహ్రదం తథా | జమ్బుకేశ్వరతీర్థం చ సారస్వతమతః పరమ్",
+   "text_en": "koṭitīrthasya māhātmyaṁ tīrthaṁ kākahradaṁ tathā | jambukeśvaratīrthaṁ ca sārasvatamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 31,
+   "text_deva": "कपिलासङ्गमस्तद्वत्तीर्थं च कपिलेश्वरम् | दैत्यसूदनतीर्थं च चक्रतीर्थं च वामनम्",
+   "text_te": "కపిలాసఙ్గమస్తద్వత్తీర్థం చ కపిలేశ్వరమ్ | దైత్యసూదనతీర్థం చ చక్రతీర్థం చ వామనమ్",
+   "text_en": "kapilāsaṅgamastadvattīrthaṁ ca kapileśvaram | daityasūdanatīrthaṁ ca cakratīrthaṁ ca vāmanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 32,
+   "text_deva": "तीर्थलक्षं विदुः पूर्वे कपिलायास्तु सङ्गमे | स्वर्गस्य नरकस्यापि लक्षणं मुनिभाषितम्",
+   "text_te": "తీర్థలక్షం విదుః పూర్వే కపిలాయాస్తు సఙ్గమే | స్వర్గస్య నరకస్యాపి లక్షణం మునిభాషితమ్",
+   "text_en": "tīrthalakṣaṁ viduḥ pūrve kapilāyāstu saṅgame | svargasya narakasyāpi lakṣaṇaṁ munibhāṣitam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 33,
+   "text_deva": "व्यवस्थानं शरीरस्य गोप्रदानानुवर्णनम् | अशोकवनिकातीर्थं मतङ्गाश्रमवर्णनम्",
+   "text_te": "వ్యవస్థానం శరీరస్య గోప్రదానానువర్ణనమ్ | అశోకవనికాతీర్థం మతఙ్గాశ్రమవర్ణనమ్",
+   "text_en": "vyavasthānaṁ śarīrasya gopradānānuvarṇanam | aśokavanikātīrthaṁ mataṅgāśramavarṇanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 34,
+   "text_deva": "अशोकेश्वरतीर्थं च मतङ्गेश्वरमुत्तमम् | तथा मृगवनं पुण्यं तत्र तीर्थं मनोरथम्",
+   "text_te": "అశోకేశ్వరతీర్థం చ మతఙ్గేశ్వరముత్తమమ్ | తథా మృగవనం పుణ్యం తత్ర తీర్థం మనోరథమ్",
+   "text_en": "aśokeśvaratīrthaṁ ca mataṅgeśvaramuttamam | tathā mṛgavanaṁ puṇyaṁ tatra tīrthaṁ manoratham",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 35,
+   "text_deva": "सङ्गमोऽङ्गारगर्ताया अङ्गारेश्वरमुत्तमम् | तथा मेघवनं तीर्थं देव्या नामानुकीर्तनम्",
+   "text_te": "సఙ్గమోఽఙ్గారగర్తాయా అఙ్గారేశ్వరముత్తమమ్ | తథా మేఘవనం తీర్థం దేవ్యా నామానుకీర్తనమ్",
+   "text_en": "saṅgamo'ṅgāragartāyā aṅgāreśvaramuttamam | tathā meghavanaṁ tīrthaṁ devyā nāmānukīrtanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 36,
+   "text_deva": "सङ्गमश्चापि कुब्जायास्तीर्थं कुब्जेश्वरं तथा | बिल्वाम्रकं तथा तीर्थं पूर्णद्वीपमतः परम्",
+   "text_te": "సఙ్గమశ్చాపి కుబ్జాయాస్తీర్థం కుబ్జేశ్వరం తథా | బిల్వామ్రకం తథా తీర్థం పూర్ణద్వీపమతః పరమ్",
+   "text_en": "saṅgamaścāpi kubjāyāstīrthaṁ kubjeśvaraṁ tathā | bilvāmrakaṁ tathā tīrthaṁ pūrṇadvīpamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 37,
+   "text_deva": "तथा हिरण्यगर्भायाः सङ्गमः पुण्यकीर्तनः | द्वीपेश्वरं नाम तीर्थं पुण्यं यज्ञेश्वरं तथा",
+   "text_te": "తథా హిరణ్యగర్భాయాః సఙ్గమః పుణ్యకీర్తనః | ద్వీపేశ్వరం నామ తీర్థం పుణ్యం యజ్ఞేశ్వరం తథా",
+   "text_en": "tathā hiraṇyagarbhāyāḥ saṅgamaḥ puṇyakīrtanaḥ | dvīpeśvaraṁ nāma tīrthaṁ puṇyaṁ yajñeśvaraṁ tathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 38,
+   "text_deva": "माण्डव्याश्रमतीर्थं च विशोकासङ्गमस्तथा | वागीश्वरं नाम तीर्थं पुण्यो वै वागुसङ्गमः",
+   "text_te": "మాణ్డవ్యాశ్రమతీర్థం చ విశోకాసఙ్గమస్తథా | వాగీశ్వరం నామ తీర్థం పుణ్యో వై వాగుసఙ్గమః",
+   "text_en": "māṇḍavyāśramatīrthaṁ ca viśokāsaṅgamastathā | vāgīśvaraṁ nāma tīrthaṁ puṇyo vai vāgusaṅgamaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 39,
+   "text_deva": "सहस्रावर्तकं तत्र तीर्थं सौगन्धिकं तथा | सङ्गमश्च सरस्वत्या ईशानं तीर्थमुत्तमम्",
+   "text_te": "సహస్రావర్తకం తత్ర తీర్థం సౌగన్ధికం తథా | సఙ్గమశ్చ సరస్వత్యా ఈశానం తీర్థముత్తమమ్",
+   "text_en": "sahasrāvartakaṁ tatra tīrthaṁ saugandhikaṁ tathā | saṅgamaśca sarasvatyā īśānaṁ tīrthamuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 40,
+   "text_deva": "देवतात्रयतीर्थं च शूलखातं ततः परम् | ब्रह्मोदं शाङ्करं सौम्यं सारस्वतमतः परम्",
+   "text_te": "దేవతాత్రయతీర్థం చ శూలఖాతం తతః పరమ్ | బ్రహ్మోదం శాఙ్కరం సౌమ్యం సారస్వతమతః పరమ్",
+   "text_en": "devatātrayatīrthaṁ ca śūlakhātaṁ tataḥ param | brahmodaṁ śāṅkaraṁ saumyaṁ sārasvatamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 41,
+   "text_deva": "सहस्रयज्ञतीर्थं च कपालमोचनं तथा | आग्नेयमदितीशं च वाराहं तीर्थमुत्तमम्",
+   "text_te": "సహస్రయజ్ఞతీర్థం చ కపాలమోచనం తథా | ఆగ్నేయమదితీశం చ వారాహం తీర్థముత్తమమ్",
+   "text_en": "sahasrayajñatīrthaṁ ca kapālamocanaṁ tathā | āgneyamaditīśaṁ ca vārāhaṁ tīrthamuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 42,
+   "text_deva": "तथा देवपथं तीर्थं तीर्थं यज्ञसहस्रकम् | शुक्लतीर्थं दीप्तिकेशं विष्णुतीर्थं च योधनम्",
+   "text_te": "తథా దేవపథం తీర్థం తీర్థం యజ్ఞసహస్రకమ్ | శుక్లతీర్థం దీప్తికేశం విష్ణుతీర్థం చ యోధనమ్",
+   "text_en": "tathā devapathaṁ tīrthaṁ tīrthaṁ yajñasahasrakam | śuklatīrthaṁ dīptikeśaṁ viṣṇutīrthaṁ ca yodhanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 43,
+   "text_deva": "नर्मदेश्वरतीर्थं च वरुणेशं च मारुतम् | योगेशं रोहिणीतीर्थं दारुतीर्थं च सत्तमाः",
+   "text_te": "నర్మదేశ్వరతీర్థం చ వరుణేశం చ మారుతమ్ | యోగేశం రోహిణీతీర్థం దారుతీర్థం చ సత్తమాః",
+   "text_en": "narmadeśvaratīrthaṁ ca varuṇeśaṁ ca mārutam | yogeśaṁ rohiṇītīrthaṁ dārutīrthaṁ ca sattamāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 44,
+   "text_deva": "ब्रह्मावर्तं च पत्त्रेशं वाह्नं सौरं च कीर्त्यते | मेघनादं दारुतीर्थं देवतीर्थं गुहाश्रयम्",
+   "text_te": "బ్రహ్మావర్తం చ పత్త్రేశం వాహ్నం సౌరం చ కీర్త్యతే | మేఘనాదం దారుతీర్థం దేవతీర్థం గుహాశ్రయమ్",
+   "text_en": "brahmāvartaṁ ca pattreśaṁ vāhnaṁ sauraṁ ca kīrtyate | meghanādaṁ dārutīrthaṁ devatīrthaṁ guhāśrayam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 45,
+   "text_deva": "नर्मदेश्वरसंज्ञं तत्कपिलातीर्थमुत्तमम् | करञ्जेशं कुण्डलेशं पिप्पलादमतः परम्",
+   "text_te": "నర్మదేశ్వరసంజ్ఞం తత్కపిలాతీర్థముత్తమమ్ | కరఞ్జేశం కుణ్డలేశం పిప్పలాదమతః పరమ్",
+   "text_en": "narmadeśvarasaṁjñaṁ tatkapilātīrthamuttamam | karañjeśaṁ kuṇḍaleśaṁ pippalādamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 46,
+   "text_deva": "विमलेश्वरतीर्थं च पुष्करिण्याश्च सङ्गमः | प्रशंसा शूलभेदस्य तत्रैवान्धकविक्रमः",
+   "text_te": "విమలేశ్వరతీర్థం చ పుష్కరిణ్యాశ్చ సఙ్గమః | ప్రశంసా శూలభేదస్య తత్రైవాన్ధకవిక్రమః",
+   "text_en": "vimaleśvaratīrthaṁ ca puṣkariṇyāśca saṅgamaḥ | praśaṁsā śūlabhedasya tatraivāndhakavikramaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 47,
+   "text_deva": "देवाश्वासनदानं च तथैवान्धकनिग्रहः | शूलभेदस्य चोत्पत्तिस्तथा पात्रपरीक्षणम्",
+   "text_te": "దేవాశ్వాసనదానం చ తథైవాన్ధకనిగ్రహః | శూలభేదస్య చోత్పత్తిస్తథా పాత్రపరీక్షణమ్",
+   "text_en": "devāśvāsanadānaṁ ca tathaivāndhakanigrahaḥ | śūlabhedasya cotpattistathā pātraparīkṣaṇam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 48,
+   "text_deva": "प्रशंसा दानधर्मस्य ऋषिशृङ्गानुभावनम् | स्वर्गतिं दीर्घतपसो भानुमत्यास्तथेङ्गितम्",
+   "text_te": "ప్రశంసా దానధర్మస్య ఋషిశృఙ్గానుభావనమ్ | స్వర్గతిం దీర్ఘతపసో భానుమత్యాస్తథేఙ్గితమ్",
+   "text_en": "praśaṁsā dānadharmasya ṛṣiśṛṅgānubhāvanam | svargatiṁ dīrghatapaso bhānumatyāstatheṅgitam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 49,
+   "text_deva": "शबरस्वर्गगमनं माहात्म्यं शूलभेदजम् | कपिलेश्वरतीर्थं च मोक्षतीर्थमतः परम्",
+   "text_te": "శబరస్వర్గగమనం మాహాత్మ్యం శూలభేదజమ్ | కపిలేశ్వరతీర్థం చ మోక్షతీర్థమతః పరమ్",
+   "text_en": "śabarasvargagamanaṁ māhātmyaṁ śūlabhedajam | kapileśvaratīrthaṁ ca mokṣatīrthamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 50,
+   "text_deva": "सङ्गमो मोक्षनद्याश्च तीर्थं च विमलेश्वरम् | तथैवोलूकतीर्थं च पुष्करिण्याश्च सङ्गमः",
+   "text_te": "సఙ్గమో మోక్షనద్యాశ్చ తీర్థం చ విమలేశ్వరమ్ | తథైవోలూకతీర్థం చ పుష్కరిణ్యాశ్చ సఙ్గమః",
+   "text_en": "saṅgamo mokṣanadyāśca tīrthaṁ ca vimaleśvaram | tathaivolūkatīrthaṁ ca puṣkariṇyāśca saṅgamaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 51,
+   "text_deva": "आदित्येश्वरतीर्थं च तीर्थं वै सङ्गमेश्वरम् | सङ्गमो भीमकुल्यायास्तीर्थं भीमेश्वरं शुभम्",
+   "text_te": "ఆదిత్యేశ్వరతీర్థం చ తీర్థం వై సఙ్గమేశ్వరమ్ | సఙ్గమో భీమకుల్యాయాస్తీర్థం భీమేశ్వరం శుభమ్",
+   "text_en": "ādityeśvaratīrthaṁ ca tīrthaṁ vai saṅgameśvaram | saṅgamo bhīmakulyāyāstīrthaṁ bhīmeśvaraṁ śubham",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 52,
+   "text_deva": "मार्कण्डेश्वरतीर्थं च तथा वै पिप्पलेश्वरम् | करोटीश्वरतीर्थं च तीर्थमिन्द्रेश्वरं शुभम्",
+   "text_te": "మార్కణ్డేశ్వరతీర్థం చ తథా వై పిప్పలేశ్వరమ్ | కరోటీశ్వరతీర్థం చ తీర్థమిన్ద్రేశ్వరం శుభమ్",
+   "text_en": "mārkaṇḍeśvaratīrthaṁ ca tathā vai pippaleśvaram | karoṭīśvaratīrthaṁ ca tīrthamindreśvaraṁ śubham",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 53,
+   "text_deva": "अगस्त्येशं कुमारेशं व्यासेश्वरमनुत्तमम् | वैद्यनाथं च केदारमानन्देश्वरसंज्ञितम्",
+   "text_te": "అగస్త్యేశం కుమారేశం వ్యాసేశ్వరమనుత్తమమ్ | వైద్యనాథం చ కేదారమానన్దేశ్వరసంజ్ఞితమ్",
+   "text_en": "agastyeśaṁ kumāreśaṁ vyāseśvaramanuttamam | vaidyanāthaṁ ca kedāramānandeśvarasaṁjñitam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 54,
+   "text_deva": "मातृतीर्थं च मुण्डेशं चौरं कामेश्वरं तथा | सङ्गमश्चानुदुह्या वै तीर्थे भीमार्जुनाह्वये | तीर्थं धर्मेश्वरं नाम लुङ्केश्वरमतः परम्",
+   "text_te": "మాతృతీర్థం చ ముణ్డేశం చౌరం కామేశ్వరం తథా | సఙ్గమశ్చానుదుహ్యా వై తీర్థే భీమార్జునాహ్వయే | తీర్థం ధర్మేశ్వరం నామ లుఙ్కేశ్వరమతః పరమ్",
+   "text_en": "mātṛtīrthaṁ ca muṇḍeśaṁ cauraṁ kāmeśvaraṁ tathā | saṅgamaścānuduhyā vai tīrthe bhīmārjunāhvaye | tīrthaṁ dharmeśvaraṁ nāma luṅkeśvaramataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 55,
+   "text_deva": "ततो धनदतीर्थं च जटेशं मङ्गलेश्वरम् | कपिलेश्वरतीर्थं च गोपारेश्वरमुत्तमम्",
+   "text_te": "తతో ధనదతీర్థం చ జటేశం మఙ్గలేశ్వరమ్ | కపిలేశ్వరతీర్థం చ గోపారేశ్వరముత్తమమ్",
+   "text_en": "tato dhanadatīrthaṁ ca jaṭeśaṁ maṅgaleśvaram | kapileśvaratīrthaṁ ca gopāreśvaramuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 56,
+   "text_deva": "मणिनागेश्वरं नाम मणिनद्याश्च सङ्गमः | तिलकेश्वरतीर्थं च गौतमेशमतः परम्",
+   "text_te": "మణినాగేశ్వరం నామ మణినద్యాశ్చ సఙ్గమః | తిలకేశ్వరతీర్థం చ గౌతమేశమతః పరమ్",
+   "text_en": "maṇināgeśvaraṁ nāma maṇinadyāśca saṅgamaḥ | tilakeśvaratīrthaṁ ca gautameśamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 57,
+   "text_deva": "तत्रैव मातृतीर्थं च मुनिनोक्तं मुनीश्वराः | शङ्खचूडं च केदारं पाराशरमतः परम्",
+   "text_te": "తత్రైవ మాతృతీర్థం చ మునినోక్తం మునీశ్వరాః | శఙ్ఖచూడం చ కేదారం పారాశరమతః పరమ్",
+   "text_en": "tatraiva mātṛtīrthaṁ ca muninoktaṁ munīśvarāḥ | śaṅkhacūḍaṁ ca kedāraṁ pārāśaramataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 58,
+   "text_deva": "भीमेश्वरं च चन्द्रेशमश्ववत्याश्च सङ्गमः | बह्वीश्वरं नारदेशं वैद्यनाथं कपीश्वरम्",
+   "text_te": "భీమేశ్వరం చ చన్ద్రేశమశ్వవత్యాశ్చ సఙ్గమః | బహ్వీశ్వరం నారదేశం వైద్యనాథం కపీశ్వరమ్",
+   "text_en": "bhīmeśvaraṁ ca candreśamaśvavatyāśca saṅgamaḥ | bahvīśvaraṁ nāradeśaṁ vaidyanāthaṁ kapīśvaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 59,
+   "text_deva": "कुम्भेश्वरं च मार्कण्डं रामेशं लक्ष्मणेश्वरम् | मेघेश्वरं मत्स्यकेशमप्सराह्रदसंज्ञकम्",
+   "text_te": "కుమ్భేశ్వరం చ మార్కణ్డం రామేశం లక్ష్మణేశ్వరమ్ | మేఘేశ్వరం మత్స్యకేశమప్సరాహ్రదసంజ్ఞకమ్",
+   "text_en": "kumbheśvaraṁ ca mārkaṇḍaṁ rāmeśaṁ lakṣmaṇeśvaram | megheśvaraṁ matsyakeśamapsarāhradasaṁjñakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 60,
+   "text_deva": "दधिस्कन्दं मधुस्कन्दं नन्दिकेशं च वारुणम् | पावकेश्वरतीर्थं च तथैव कपिलेश्वरम्",
+   "text_te": "దధిస్కన్దం మధుస్కన్దం నన్దికేశం చ వారుణమ్ | పావకేశ్వరతీర్థం చ తథైవ కపిలేశ్వరమ్",
+   "text_en": "dadhiskandaṁ madhuskandaṁ nandikeśaṁ ca vāruṇam | pāvakeśvaratīrthaṁ ca tathaiva kapileśvaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 61,
+   "text_deva": "नारायणाह्वयं तीर्थं चक्रतीर्थमनुत्तमम् | चण्डादित्यं परं तीर्थं चण्डिकातीर्थमुत्तमम्",
+   "text_te": "నారాయణాహ్వయం తీర్థం చక్రతీర్థమనుత్తమమ్ | చణ్డాదిత్యం పరం తీర్థం చణ్డికాతీర్థముత్తమమ్",
+   "text_en": "nārāyaṇāhvayaṁ tīrthaṁ cakratīrthamanuttamam | caṇḍādityaṁ paraṁ tīrthaṁ caṇḍikātīrthamuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 62,
+   "text_deva": "यमहासाह्वयं तीर्थं तथा गङ्गेश्वरं शुभम् | नन्दिकेश्वरसंज्ञं च नरनारायणाह्वयम्",
+   "text_te": "యమహాసాహ్వయం తీర్థం తథా గఙ్గేశ్వరం శుభమ్ | నన్దికేశ్వరసంజ్ఞం చ నరనారాయణాహ్వయమ్",
+   "text_en": "yamahāsāhvayaṁ tīrthaṁ tathā gaṅgeśvaraṁ śubham | nandikeśvarasaṁjñaṁ ca naranārāyaṇāhvayam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 63,
+   "text_deva": "नलेश्वरं च मार्कण्डं शुक्लतीर्थमतः परम् | व्यासेश्वरं परं तीर्थं तत्र सिद्धेश्वरं तथा",
+   "text_te": "నలేశ్వరం చ మార్కణ్డం శుక్లతీర్థమతః పరమ్ | వ్యాసేశ్వరం పరం తీర్థం తత్ర సిద్ధేశ్వరం తథా",
+   "text_en": "naleśvaraṁ ca mārkaṇḍaṁ śuklatīrthamataḥ param | vyāseśvaraṁ paraṁ tīrthaṁ tatra siddheśvaraṁ tathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 64,
+   "text_deva": "कोटितीर्थं प्रभातीर्थं वासुकीश्वरमुत्तमम् | सङ्गमश्च करञ्जाया मार्कण्डेश्वरमुत्तमम्",
+   "text_te": "కోటితీర్థం ప్రభాతీర్థం వాసుకీశ్వరముత్తమమ్ | సఙ్గమశ్చ కరఞ్జాయా మార్కణ్డేశ్వరముత్తమమ్",
+   "text_en": "koṭitīrthaṁ prabhātīrthaṁ vāsukīśvaramuttamam | saṅgamaśca karañjāyā mārkaṇḍeśvaramuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 65,
+   "text_deva": "तीर्थं कोटीश्वरं नाम तथा संकर्षणाह्वयम् | कनकेशं मन्मथेशं तीर्थं चैवानसूयकम्",
+   "text_te": "తీర్థం కోటీశ్వరం నామ తథా సంకర్షణాహ్వయమ్ | కనకేశం మన్మథేశం తీర్థం చైవానసూయకమ్",
+   "text_en": "tīrthaṁ koṭīśvaraṁ nāma tathā saṁkarṣaṇāhvayam | kanakeśaṁ manmatheśaṁ tīrthaṁ caivānasūyakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 66,
+   "text_deva": "एरण्डीसङ्गमः पुण्यो मातृतीर्थं च शोभनम् | तीर्थं स्वर्णशलाकाख्यं तथा चैवाम्बिकेश्वरम्",
+   "text_te": "ఏరణ్డీసఙ్గమః పుణ్యో మాతృతీర్థం చ శోభనమ్ | తీర్థం స్వర్ణశలాకాఖ్యం తథా చైవామ్బికేశ్వరమ్",
+   "text_en": "eraṇḍīsaṅgamaḥ puṇyo mātṛtīrthaṁ ca śobhanam | tīrthaṁ svarṇaśalākākhyaṁ tathā caivāmbikeśvaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 67,
+   "text_deva": "करञ्जेशं भारतेशं नागेशं मुकुटेश्वरम् | सौभाग्यसुन्दरी तीर्थं धनदेश्वरमुत्तमम्",
+   "text_te": "కరఞ్జేశం భారతేశం నాగేశం ముకుటేశ్వరమ్ | సౌభాగ్యసున్దరీ తీర్థం ధనదేశ్వరముత్తమమ్",
+   "text_en": "karañjeśaṁ bhārateśaṁ nāgeśaṁ mukuṭeśvaram | saubhāgyasundarī tīrthaṁ dhanadeśvaramuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 68,
+   "text_deva": "रोहिण्यं चक्रतीर्थं च उत्तरेश्वरसंज्ञितम् | भोगेश्वरं च केदारं निष्कलङ्कमतः परम्",
+   "text_te": "రోహిణ్యం చక్రతీర్థం చ ఉత్తరేశ్వరసంజ్ఞితమ్ | భోగేశ్వరం చ కేదారం నిష్కలఙ్కమతః పరమ్",
+   "text_en": "rohiṇyaṁ cakratīrthaṁ ca uttareśvarasaṁjñitam | bhogeśvaraṁ ca kedāraṁ niṣkalaṅkamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 69,
+   "text_deva": "मार्कण्डं धौतपापं च तीर्थमाङ्गिरसेश्वरम् | कोटवीसङ्गमः पुण्यं कोटितीर्थं च तत्र वै",
+   "text_te": "మార్కణ్డం ధౌతపాపం చ తీర్థమాఙ్గిరసేశ్వరమ్ | కోటవీసఙ్గమః పుణ్యం కోటితీర్థం చ తత్ర వై",
+   "text_en": "mārkaṇḍaṁ dhautapāpaṁ ca tīrthamāṅgiraseśvaram | koṭavīsaṅgamaḥ puṇyaṁ koṭitīrthaṁ ca tatra vai",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 70,
+   "text_deva": "अयोनिजं परं तीर्थमङ्गारेश्वरमुत्तमम् | स्कान्दं च नार्मदं ब्राह्मं वाल्मीकेश्वरसंज्ञितम्",
+   "text_te": "అయోనిజం పరం తీర్థమఙ్గారేశ్వరముత్తమమ్ | స్కాన్దం చ నార్మదం బ్రాహ్మం వాల్మీకేశ్వరసంజ్ఞితమ్",
+   "text_en": "ayonijaṁ paraṁ tīrthamaṅgāreśvaramuttamam | skāndaṁ ca nārmadaṁ brāhmaṁ vālmīkeśvarasaṁjñitam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 71,
+   "text_deva": "कोटितीर्थं कपालेशं पाण्डुतीर्थं त्रिलोचनम् | कपिलेशं कम्बुकेशं प्रभासं कोहनेश्वरम्",
+   "text_te": "కోటితీర్థం కపాలేశం పాణ్డుతీర్థం త్రిలోచనమ్ | కపిలేశం కమ్బుకేశం ప్రభాసం కోహనేశ్వరమ్",
+   "text_en": "koṭitīrthaṁ kapāleśaṁ pāṇḍutīrthaṁ trilocanam | kapileśaṁ kambukeśaṁ prabhāsaṁ kohaneśvaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 72,
+   "text_deva": "इन्द्रेशं वालुकेशं च देवेशं शक्रमेव च | नागेश्वरं गौतमेशमहल्यातीर्थमुत्तमम्",
+   "text_te": "ఇన్ద్రేశం వాలుకేశం చ దేవేశం శక్రమేవ చ | నాగేశ్వరం గౌతమేశమహల్యాతీర్థముత్తమమ్",
+   "text_en": "indreśaṁ vālukeśaṁ ca deveśaṁ śakrameva ca | nāgeśvaraṁ gautameśamahalyātīrthamuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 73,
+   "text_deva": "रामेश्वरं मोक्षतीर्थं तथा कुशलवेश्वरौ | नर्मदेशं कपर्दीशं सागरेशमतः परम्",
+   "text_te": "రామేశ్వరం మోక్షతీర్థం తథా కుశలవేశ్వరౌ | నర్మదేశం కపర్దీశం సాగరేశమతః పరమ్",
+   "text_en": "rāmeśvaraṁ mokṣatīrthaṁ tathā kuśalaveśvarau | narmadeśaṁ kapardīśaṁ sāgareśamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 74,
+   "text_deva": "धौरादित्यं परं तीर्थं तीर्थं चापरयोनिजम् | पिङ्गलेश्वरतीर्थ च भृग्वीश्वरमनुत्तमम्",
+   "text_te": "ధౌరాదిత్యం పరం తీర్థం తీర్థం చాపరయోనిజమ్ | పిఙ్గలేశ్వరతీర్థ చ భృగ్వీశ్వరమనుత్తమమ్",
+   "text_en": "dhaurādityaṁ paraṁ tīrthaṁ tīrthaṁ cāparayonijam | piṅgaleśvaratīrtha ca bhṛgvīśvaramanuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 75,
+   "text_deva": "दशाश्वमेधिकं तीर्थं कोटितीर्थं च सत्तमाः | मार्कण्डं ब्रह्मतीर्थं च आदिवाराहमुत्तमम्",
+   "text_te": "దశాశ్వమేధికం తీర్థం కోటితీర్థం చ సత్తమాః | మార్కణ్డం బ్రహ్మతీర్థం చ ఆదివారాహముత్తమమ్",
+   "text_en": "daśāśvamedhikaṁ tīrthaṁ koṭitīrthaṁ ca sattamāḥ | mārkaṇḍaṁ brahmatīrthaṁ ca ādivārāhamuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 76,
+   "text_deva": "आशापूराभिधं तीर्थं कौबेरं मारुतं तथा | वरुणेशं यमेशं च रामेशं कर्कटेश्वरम्",
+   "text_te": "ఆశాపూరాభిధం తీర్థం కౌబేరం మారుతం తథా | వరుణేశం యమేశం చ రామేశం కర్కటేశ్వరమ్",
+   "text_en": "āśāpūrābhidhaṁ tīrthaṁ kauberaṁ mārutaṁ tathā | varuṇeśaṁ yameśaṁ ca rāmeśaṁ karkaṭeśvaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 77,
+   "text_deva": "शक्रेशं सोमतीर्थं च नन्दाह्रदमनुत्तमम् | वैष्णवं चक्रतीर्थं च रामकेशवसंज्ञितम्",
+   "text_te": "శక్రేశం సోమతీర్థం చ నన్దాహ్రదమనుత్తమమ్ | వైష్ణవం చక్రతీర్థం చ రామకేశవసంజ్ఞితమ్",
+   "text_en": "śakreśaṁ somatīrthaṁ ca nandāhradamanuttamam | vaiṣṇavaṁ cakratīrthaṁ ca rāmakeśavasaṁjñitam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 78,
+   "text_deva": "तथैव रुक्मिणीतीर्थं शिवतीर्थमनुत्तमम् | जयवाराहर्तीर्थं च तीर्थमस्माहकाह्वयम्",
+   "text_te": "తథైవ రుక్మిణీతీర్థం శివతీర్థమనుత్తమమ్ | జయవారాహర్తీర్థం చ తీర్థమస్మాహకాహ్వయమ్",
+   "text_en": "tathaiva rukmiṇītīrthaṁ śivatīrthamanuttamam | jayavārāhartīrthaṁ ca tīrthamasmāhakāhvayam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 79,
+   "text_deva": "अङ्गारेशं च सिद्धेशं तपेश्वरमतः परम् | पुनः सिद्धेश्वरं नामतीर्थं च वरुणेश्वरम्",
+   "text_te": "అఙ్గారేశం చ సిద్ధేశం తపేశ్వరమతః పరమ్ | పునః సిద్ధేశ్వరం నామతీర్థం చ వరుణేశ్వరమ్",
+   "text_en": "aṅgāreśaṁ ca siddheśaṁ tapeśvaramataḥ param | punaḥ siddheśvaraṁ nāmatīrthaṁ ca varuṇeśvaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 80,
+   "text_deva": "पराशरेश्वरं पुण्यं कुसुमेशमनुत्तमम् | कुण्डलेश्वरतीर्थं च तथा कलकलेश्वरम्",
+   "text_te": "పరాశరేశ్వరం పుణ్యం కుసుమేశమనుత్తమమ్ | కుణ్డలేశ్వరతీర్థం చ తథా కలకలేశ్వరమ్",
+   "text_en": "parāśareśvaraṁ puṇyaṁ kusumeśamanuttamam | kuṇḍaleśvaratīrthaṁ ca tathā kalakaleśvaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 81,
+   "text_deva": "न्यङ्कुवाराहसंज्ञं च अङ्कोलं तीर्थमुत्तमम् | श्वेतवाराहतीर्थं च भार्गलं सौरमुत्तमम्",
+   "text_te": "న్యఙ్కువారాహసంజ్ఞం చ అఙ్కోలం తీర్థముత్తమమ్ | శ్వేతవారాహతీర్థం చ భార్గలం సౌరముత్తమమ్",
+   "text_en": "nyaṅkuvārāhasaṁjñaṁ ca aṅkolaṁ tīrthamuttamam | śvetavārāhatīrthaṁ ca bhārgalaṁ sauramuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 82,
+   "text_deva": "हुङ्कारस्वामितीर्थं च शुक्लतीर्थं च शोभनम् | सङ्गमो मधुमत्याश्च तीर्थं वै सङ्गमेश्वरम्",
+   "text_te": "హుఙ్కారస్వామితీర్థం చ శుక్లతీర్థం చ శోభనమ్ | సఙ్గమో మధుమత్యాశ్చ తీర్థం వై సఙ్గమేశ్వరమ్",
+   "text_en": "huṅkārasvāmitīrthaṁ ca śuklatīrthaṁ ca śobhanam | saṅgamo madhumatyāśca tīrthaṁ vai saṅgameśvaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 83,
+   "text_deva": "नर्मदेश्वरसंज्ञं च नदीत्रितयसङ्गमः | अनेकेश्वरतीर्थं च शर्भेशं मोक्षसंज्ञितम्",
+   "text_te": "నర్మదేశ్వరసంజ్ఞం చ నదీత్రితయసఙ్గమః | అనేకేశ్వరతీర్థం చ శర్భేశం మోక్షసంజ్ఞితమ్",
+   "text_en": "narmadeśvarasaṁjñaṁ ca nadītritayasaṅgamaḥ | anekeśvaratīrthaṁ ca śarbheśaṁ mokṣasaṁjñitam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 84,
+   "text_deva": "कावेरीसङ्गमः पुण्यस्तीर्थं गोपेश्वराह्वयम् | मार्कण्डेशं च नागेशमुदम्बर्याश्च सङ्गमः",
+   "text_te": "కావేరీసఙ్గమః పుణ్యస్తీర్థం గోపేశ్వరాహ్వయమ్ | మార్కణ్డేశం చ నాగేశముదమ్బర్యాశ్చ సఙ్గమః",
+   "text_en": "kāverīsaṅgamaḥ puṇyastīrthaṁ gopeśvarāhvayam | mārkaṇḍeśaṁ ca nāgeśamudambaryāśca saṅgamaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 85,
+   "text_deva": "साम्बादित्याह्वयं तीर्थमुदम्बर्याश्च सङ्गमः | सिद्धेश्वरं च मार्कण्डं तथा सिद्धेश्वरीकृतम्",
+   "text_te": "సామ్బాదిత్యాహ్వయం తీర్థముదమ్బర్యాశ్చ సఙ్గమః | సిద్ధేశ్వరం చ మార్కణ్డం తథా సిద్ధేశ్వరీకృతమ్",
+   "text_en": "sāmbādityāhvayaṁ tīrthamudambaryāśca saṅgamaḥ | siddheśvaraṁ ca mārkaṇḍaṁ tathā siddheśvarīkṛtam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 86,
+   "text_deva": "गोपेशं कपिलेशं च वैद्यनाथमनुत्तमम् | पिङ्गलेश्वरतीर्थं च सैन्धवायतनं महत्",
+   "text_te": "గోపేశం కపిలేశం చ వైద్యనాథమనుత్తమమ్ | పిఙ్గలేశ్వరతీర్థం చ సైన్ధవాయతనం మహత్",
+   "text_en": "gopeśaṁ kapileśaṁ ca vaidyanāthamanuttamam | piṅgaleśvaratīrthaṁ ca saindhavāyatanaṁ mahat",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 87,
+   "text_deva": "भूतीश्वराह्वयं तीर्थं गङ्गावाहमतः परम् | गौतमेश्वरतीर्थं च दशाश्वमेधिकं तथा",
+   "text_te": "భూతీశ్వరాహ్వయం తీర్థం గఙ్గావాహమతః పరమ్ | గౌతమేశ్వరతీర్థం చ దశాశ్వమేధికం తథా",
+   "text_en": "bhūtīśvarāhvayaṁ tīrthaṁ gaṅgāvāhamataḥ param | gautameśvaratīrthaṁ ca daśāśvamedhikaṁ tathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 88,
+   "text_deva": "भृगुतीर्थं तथा पुण्यं ख्याता सौभाग्यसुन्दरी | वृषखातं च तत्रैव केदारं धूतपातकम्",
+   "text_te": "భృగుతీర్థం తథా పుణ్యం ఖ్యాతా సౌభాగ్యసున్దరీ | వృషఖాతం చ తత్రైవ కేదారం ధూతపాతకమ్",
+   "text_en": "bhṛgutīrthaṁ tathā puṇyaṁ khyātā saubhāgyasundarī | vṛṣakhātaṁ ca tatraiva kedāraṁ dhūtapātakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 89,
+   "text_deva": "तीर्थं धूतेश्वरीसङ्गमेरण्डीसंज्ञकं तथा | तीर्थं च कनकेश्वर्या ज्वालेश्वरं ततः परम्",
+   "text_te": "తీర్థం ధూతేశ్వరీసఙ్గమేరణ్డీసంజ్ఞకం తథా | తీర్థం చ కనకేశ్వర్యా జ్వాలేశ్వరం తతః పరమ్",
+   "text_en": "tīrthaṁ dhūteśvarīsaṅgameraṇḍīsaṁjñakaṁ tathā | tīrthaṁ ca kanakeśvaryā jvāleśvaraṁ tataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 90,
+   "text_deva": "शालग्रामाह्वयं तीर्थं सोमनाथमनुत्तमम् | तथैवोदीर्णवाराहं तीर्थं चन्द्रप्रभासकम्",
+   "text_te": "శాలగ్రామాహ్వయం తీర్థం సోమనాథమనుత్తమమ్ | తథైవోదీర్ణవారాహం తీర్థం చన్ద్రప్రభాసకమ్",
+   "text_en": "śālagrāmāhvayaṁ tīrthaṁ somanāthamanuttamam | tathaivodīrṇavārāhaṁ tīrthaṁ candraprabhāsakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 91,
+   "text_deva": "द्वादशादित्यतीर्थं च तथा सिद्धेश्वराभिधम् | कपिलेश्वरतीर्थं च तथा त्रैविक्रमं शुभम्",
+   "text_te": "ద్వాదశాదిత్యతీర్థం చ తథా సిద్ధేశ్వరాభిధమ్ | కపిలేశ్వరతీర్థం చ తథా త్రైవిక్రమం శుభమ్",
+   "text_en": "dvādaśādityatīrthaṁ ca tathā siddheśvarābhidham | kapileśvaratīrthaṁ ca tathā traivikramaṁ śubham",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 92,
+   "text_deva": "विश्वरूपाह्वयं तीर्थं नारायणकृतं तथा | मूलश्रीपतितीर्थं च चौलश्रीपतिसंज्ञकम्",
+   "text_te": "విశ్వరూపాహ్వయం తీర్థం నారాయణకృతం తథా | మూలశ్రీపతితీర్థం చ చౌలశ్రీపతిసంజ్ఞకమ్",
+   "text_en": "viśvarūpāhvayaṁ tīrthaṁ nārāyaṇakṛtaṁ tathā | mūlaśrīpatitīrthaṁ ca caulaśrīpatisaṁjñakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 93,
+   "text_deva": "देवतीर्थं हंसतीर्थ प्रभासं तीर्थमुत्तमम् | मूलस्थानं च कण्ठेशमट्टहासमतः परम्",
+   "text_te": "దేవతీర్థం హంసతీర్థ ప్రభాసం తీర్థముత్తమమ్ | మూలస్థానం చ కణ్ఠేశమట్టహాసమతః పరమ్",
+   "text_en": "devatīrthaṁ haṁsatīrtha prabhāsaṁ tīrthamuttamam | mūlasthānaṁ ca kaṇṭheśamaṭṭahāsamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 94,
+   "text_deva": "भूर्भुवेश्वरतीर्थं च ख्याता शूलेश्वरी तथा | सारस्वतं दारुकेशमश्विनोस्तीर्थमुत्तमम्",
+   "text_te": "భూర్భువేశ్వరతీర్థం చ ఖ్యాతా శూలేశ్వరీ తథా | సారస్వతం దారుకేశమశ్వినోస్తీర్థముత్తమమ్",
+   "text_en": "bhūrbhuveśvaratīrthaṁ ca khyātā śūleśvarī tathā | sārasvataṁ dārukeśamaśvinostīrthamuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 95,
+   "text_deva": "सावित्रीतीर्थमतुलं वालखिल्येश्वरं तथा | नर्मदेशं मातृतीर्थं देवतीर्थमनुत्तमम्",
+   "text_te": "సావిత్రీతీర్థమతులం వాలఖిల్యేశ్వరం తథా | నర్మదేశం మాతృతీర్థం దేవతీర్థమనుత్తమమ్",
+   "text_en": "sāvitrītīrthamatulaṁ vālakhilyeśvaraṁ tathā | narmadeśaṁ mātṛtīrthaṁ devatīrthamanuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 96,
+   "text_deva": "मच्छकेश्वरतीर्थं च शिखितीर्थं च शोभनम् | कोटितीर्थं मुनिश्रेष्ठास्तत्र कोटीश्वरी मृडा",
+   "text_te": "మచ్ఛకేశ్వరతీర్థం చ శిఖితీర్థం చ శోభనమ్ | కోటితీర్థం మునిశ్రేష్ఠాస్తత్ర కోటీశ్వరీ మృడా",
+   "text_en": "macchakeśvaratīrthaṁ ca śikhitīrthaṁ ca śobhanam | koṭitīrthaṁ muniśreṣṭhāstatra koṭīśvarī mṛḍā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 97,
+   "text_deva": "तीर्थं पैतामहं नाम माण्डव्ये श्वरसंज्ञितम् | तत्र नारायणेशं च अक्रूरेशमतः परम्",
+   "text_te": "తీర్థం పైతామహం నామ మాణ్డవ్యే శ్వరసంజ్ఞితమ్ | తత్ర నారాయణేశం చ అక్రూరేశమతః పరమ్",
+   "text_en": "tīrthaṁ paitāmahaṁ nāma māṇḍavye śvarasaṁjñitam | tatra nārāyaṇeśaṁ ca akrūreśamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 98,
+   "text_deva": "देवखातं सिद्धरुद्रं वैद्यनाथमनुत्तमम् | तथैव मातृतीर्थं च उत्तरेशमतः परम्",
+   "text_te": "దేవఖాతం సిద్ధరుద్రం వైద్యనాథమనుత్తమమ్ | తథైవ మాతృతీర్థం చ ఉత్తరేశమతః పరమ్",
+   "text_en": "devakhātaṁ siddharudraṁ vaidyanāthamanuttamam | tathaiva mātṛtīrthaṁ ca uttareśamataḥ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 99,
+   "text_deva": "तथैव नर्मदेशां च मातृतीर्थं तथा पुनः | तथा च कुररीतीर्थं ढौण्ढेशं दशकन्यकम्",
+   "text_te": "తథైవ నర్మదేశాం చ మాతృతీర్థం తథా పునః | తథా చ కురరీతీర్థం ఢౌణ్ఢేశం దశకన్యకమ్",
+   "text_en": "tathaiva narmadeśāṁ ca mātṛtīrthaṁ tathā punaḥ | tathā ca kurarītīrthaṁ ḍhauṇḍheśaṁ daśakanyakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 100,
+   "text_deva": "सुवर्णबिन्दुतीर्थं च ऋणपापप्रमोचनम् | भारभूतेश्वरं तीर्थं तथा मुण्डीश्वरं विदुः",
+   "text_te": "సువర్ణబిన్దుతీర్థం చ ఋణపాపప్రమోచనమ్ | భారభూతేశ్వరం తీర్థం తథా ముణ్డీశ్వరం విదుః",
+   "text_en": "suvarṇabindutīrthaṁ ca ṛṇapāpapramocanam | bhārabhūteśvaraṁ tīrthaṁ tathā muṇḍīśvaraṁ viduḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 101,
+   "text_deva": "एकशालं डिण्डिपाणिं तीर्थं चाप्सरसं परम् | मुन्यालयं च मार्कण्डं गणितादेवताह्वयम्",
+   "text_te": "ఏకశాలం డిణ్డిపాణిం తీర్థం చాప్సరసం పరమ్ | మున్యాలయం చ మార్కణ్డం గణితాదేవతాహ్వయమ్",
+   "text_en": "ekaśālaṁ ḍiṇḍipāṇiṁ tīrthaṁ cāpsarasaṁ param | munyālayaṁ ca mārkaṇḍaṁ gaṇitādevatāhvayam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 102,
+   "text_deva": "आमलेश्वरतीर्थं च तीर्थं कन्थेश्वरं तथा | आषाढीतीर्थमित्याहुः शृङ्गीतीर्थं तथैव च",
+   "text_te": "ఆమలేశ్వరతీర్థం చ తీర్థం కన్థేశ్వరం తథా | ఆషాఢీతీర్థమిత్యాహుః శృఙ్గీతీర్థం తథైవ చ",
+   "text_en": "āmaleśvaratīrthaṁ ca tīrthaṁ kantheśvaraṁ tathā | āṣāḍhītīrthamityāhuḥ śṛṅgītīrthaṁ tathaiva ca",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 103,
+   "text_deva": "बकेश्वरतीर्थं च कपालेशं तथैव च | मार्कण्डं कपिलेशं च एरण्डीसङ्गमस्तथा",
+   "text_te": "బకేశ్వరతీర్థం చ కపాలేశం తథైవ చ | మార్కణ్డం కపిలేశం చ ఏరణ్డీసఙ్గమస్తథా",
+   "text_en": "bakeśvaratīrthaṁ ca kapāleśaṁ tathaiva ca | mārkaṇḍaṁ kapileśaṁ ca eraṇḍīsaṅgamastathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 104,
+   "text_deva": "एरण्डीदेवतातीर्थं रामतीर्थमतःपरम् | जमदग्नेः परं तीर्थं रेवासागरसङ्गमः",
+   "text_te": "ఏరణ్డీదేవతాతీర్థం రామతీర్థమతఃపరమ్ | జమదగ్నేః పరం తీర్థం రేవాసాగరసఙ్గమః",
+   "text_en": "eraṇḍīdevatātīrthaṁ rāmatīrthamataḥparam | jamadagneḥ paraṁ tīrthaṁ revāsāgarasaṅgamaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 105,
+   "text_deva": "लोटनेश्वरतीर्थ तल्लुङ्केशनामकं तथा | वृषरखातं तत्र कुण्डं तथैव ऋषिसत्तमाः",
+   "text_te": "లోటనేశ్వరతీర్థ తల్లుఙ్కేశనామకం తథా | వృషరఖాతం తత్ర కుణ్డం తథైవ ఋషిసత్తమాః",
+   "text_en": "loṭaneśvaratīrtha talluṅkeśanāmakaṁ tathā | vṛṣarakhātaṁ tatra kuṇḍaṁ tathaiva ṛṣisattamāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 106,
+   "text_deva": "तथा हंसेश्वरंनाम तिलादं वासवेश्वरम् | तथा कोटीश्वरं तीर्थमलिकातीर्थमुत्तमम् | विमलेश्वरतीर्थं च रेवासागरसङ्गमे",
+   "text_te": "తథా హంసేశ్వరంనామ తిలాదం వాసవేశ్వరమ్ | తథా కోటీశ్వరం తీర్థమలికాతీర్థముత్తమమ్ | విమలేశ్వరతీర్థం చ రేవాసాగరసఙ్గమే",
+   "text_en": "tathā haṁseśvaraṁnāma tilādaṁ vāsaveśvaram | tathā koṭīśvaraṁ tīrthamalikātīrthamuttamam | vimaleśvaratīrthaṁ ca revāsāgarasaṅgame",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 107,
+   "text_deva": "एवं तीर्थावलिः पुण्या मया प्रोक्ता महर्षयः | तीर्थसुक्तावलिः पुण्या ग्रथिता तटरज्जुना",
+   "text_te": "ఏవం తీర్థావలిః పుణ్యా మయా ప్రోక్తా మహర్షయః | తీర్థసుక్తావలిః పుణ్యా గ్రథితా తటరజ్జునా",
+   "text_en": "evaṁ tīrthāvaliḥ puṇyā mayā proktā maharṣayaḥ | tīrthasuktāvaliḥ puṇyā grathitā taṭarajjunā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 108,
+   "text_deva": "नर्मदानीरनिर्णिक्ता मार्कण्डेयविनिर्मिता | मण्डनायेह साधूनां सर्वलोकहिताय च",
+   "text_te": "నర్మదానీరనిర్ణిక్తా మార్కణ్డేయవినిర్మితా | మణ్డనాయేహ సాధూనాం సర్వలోకహితాయ చ",
+   "text_en": "narmadānīranirṇiktā mārkaṇḍeyavinirmitā | maṇḍanāyeha sādhūnāṁ sarvalokahitāya ca",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 109,
+   "text_deva": "दरितध्वान्तशमनीधार्या धर्मार्थिभिः सदा | अहोरात्रकृतं पापं सकृज्जप्त्वाशु नाशयेत्",
+   "text_te": "దరితధ్వాన్తశమనీధార్యా ధర్మార్థిభిః సదా | అహోరాత్రకృతం పాపం సకృజ్జప్త్వాశు నాశయేత్",
+   "text_en": "daritadhvāntaśamanīdhāryā dharmārthibhiḥ sadā | ahorātrakṛtaṁ pāpaṁ sakṛjjaptvāśu nāśayet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 110,
+   "text_deva": "त्रिकालं जप्त्वा मासोत्थं शिवाग्रे च त्रिमासिकम् | मासं जप्त्वाथ वर्षोत्थं वर्षं जप्त्वा शताब्दिकम्",
+   "text_te": "త్రికాలం జప్త్వా మాసోత్థం శివాగ్రే చ త్రిమాసికమ్ | మాసం జప్త్వాథ వర్షోత్థం వర్షం జప్త్వా శతాబ్దికమ్",
+   "text_en": "trikālaṁ japtvā māsotthaṁ śivāgre ca trimāsikam | māsaṁ japtvātha varṣotthaṁ varṣaṁ japtvā śatābdikam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 111,
+   "text_deva": "श्राद्धकाले च विप्राणां भुञ्जतां पुरतः स्थितः | पठंस्तीर्थावलिं पुण्यां गयाश्राद्धप्रदो भवेत्",
+   "text_te": "శ్రాద్ధకాలే చ విప్రాణాం భుఞ్జతాం పురతః స్థితః | పఠంస్తీర్థావలిం పుణ్యాం గయాశ్రాద్ధప్రదో భవేత్",
+   "text_en": "śrāddhakāle ca viprāṇāṁ bhuñjatāṁ purataḥ sthitaḥ | paṭhaṁstīrthāvaliṁ puṇyāṁ gayāśrāddhaprado bhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 112,
+   "text_deva": "पूजाकाले च देवानां श्रद्धया पुरतः पठन् | प्रीणयेत्सर्वदेवांश्च पुनाति सकलं कुलम्",
+   "text_te": "పూజాకాలే చ దేవానాం శ్రద్ధయా పురతః పఠన్ | ప్రీణయేత్సర్వదేవాంశ్చ పునాతి సకలం కులమ్",
+   "text_en": "pūjākāle ca devānāṁ śraddhayā purataḥ paṭhan | prīṇayetsarvadevāṁśca punāti sakalaṁ kulam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 113,
+   "text_deva": "एवं तीर्थावलिः पुण्या रेवातीरद्वयाश्रिता | मया प्रोक्ता मुनिश्रेष्ठास्तथैवशृणुतानघाः",
+   "text_te": "ఏవం తీర్థావలిః పుణ్యా రేవాతీరద్వయాశ్రితా | మయా ప్రోక్తా మునిశ్రేష్ఠాస్తథైవశృణుతానఘాః",
+   "text_en": "evaṁ tīrthāvaliḥ puṇyā revātīradvayāśritā | mayā proktā muniśreṣṭhāstathaivaśṛṇutānaghāḥ",
+   "mean_en": null,
+   "mean_te": null
+  }
+ ]
+}

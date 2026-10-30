@@ -1,0 +1,73 @@
+{
+ "epics": {
+  "bhagavad-gita": {
+   "id": "bhagavad-gita",
+   "name": {
+    "en": "Bhagavad Gita",
+    "te": "శ్రీమద్భగవద్గీత"
+   },
+   "author": {
+    "en": "Veda Vyasa",
+    "te": "వేద వ్యాసుడు"
+   },
+   "unitLabel": {
+    "en": "Part",
+    "te": "భాగం"
+   },
+   "labels": {
+    "sargaWord": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "sargaLabel": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "allSargas": {
+     "en": "All chapters",
+     "te": "అన్ని అధ్యాయాలు"
+    },
+    "browseSargas": {
+     "en": "Read by chapter",
+     "te": "అధ్యాయాలు చదవండి"
+    },
+    "sargasAvailable": {
+     "en": "chapters · read the whole song",
+     "te": "అధ్యాయాలు · పూర్తి గీతను చదవండి"
+    },
+    "talePick": {
+     "en": "Open a chapter to read its shlokas with meanings.",
+     "te": "ఒక అధ్యాయాన్ని తెరిచి శ్లోకాలను అర్థాలతో చదవండి."
+    },
+    "prevSarga": {
+     "en": "← Prev chapter",
+     "te": "← మునుపటి అధ్యాయం"
+    },
+    "nextSarga": {
+     "en": "Next chapter →",
+     "te": "తరువాతి అధ్యాయం →"
+    }
+   },
+   "sections": [
+    {
+     "id": "gita",
+     "n": 1,
+     "name": {
+      "en": "Bhagavad Gita",
+      "te": "శ్రీమద్భగవద్గీత"
+     },
+     "title": {
+      "en": "The Song of the Lord — 18 adhyayas, 701 shlokas",
+      "te": "భగవత్గీతము — 18 అధ్యాయాలు, 701 శ్లోకాలు"
+     },
+     "summary": {
+      "en": "On the field of Kurukshetra, Arjuna lays down his bow in grief — and Krishna, his charioteer, sings the teaching that has guided seekers for two thousand years. Karma yoga, bhakti, jnana, dharma and the deathless Self, in seven hundred verses spoken between two armies.",
+      "te": "కురుక్షేత్రంలో అర్జునుడు శోకంతో ధనుస్సు వదిలేస్తాడు — అతని సారథి శ్రీకృష్ణుడు రెండు సైన్యాల మధ్య సాధకులను ఎప్పటినుండో దారి చూపుతున్న ఉపదేశాన్ని పాడతాడు. కర్మయోగం, భక్తి, జ్ఞానం, ధర్మం, మరణం లేని ఆత్మ — అన్నీ ఏడు వందల శ్లోకాల్లో."
+     },
+     "comingSoon": false,
+     "note": "మూలము — stotranidhi.com (దేవనాగరి, తెలుగు, IAST); తెలుగు అర్థాలు సైటులోనివి. ఆంగ్ల అర్థాలు ప్రతి శ్లోకానికి చేర్చబడినవి."
+    }
+   ]
+  }
+ }
+}

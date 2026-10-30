@@ -1,0 +1,3447 @@
+{
+ "kanda": "prabhasa-khanda",
+ "en": "Prabhasa Khanda",
+ "te": "ప్రభాస ఖండం",
+ "total_adhyayas": 491,
+ "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST (vaidhikadharma.org నుండి); అర్థాలు క్రమంగా చేర్చబడుచున్నవి (మొత్తం 491 అధ్యాయాలు).",
+ "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally (491 adhyayas).",
+ "sargas": [
+  {
+   "n": 1,
+   "title": "వివరవృత్తాన్తోపక్రమవర్ణనమ్",
+   "title_iast": "vivaravṛttāntopakramavarṇanam",
+   "title_deva": "विवरवृत्तान्तोपक्रमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-1/"
+  },
+  {
+   "n": 2,
+   "title": "గౌతమశిష్యోత్తంకచరిత్రవర్ణనమ్",
+   "title_iast": "gautamaśiṣyottaṁkacaritravarṇanam",
+   "title_deva": "गौतमशिष्योत्तंकचरित्रवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-2/"
+  },
+  {
+   "n": 3,
+   "title": "వివరపూరణవర్ణనమ్",
+   "title_iast": "vivarapūraṇavarṇanam",
+   "title_deva": "विवरपूरणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-3/"
+  },
+  {
+   "n": 4,
+   "title": "తృతీయేఽర్బుదఖండేఽచలేశ్వరోత్పత్తివర్ణనమ్",
+   "title_iast": "tṛtīye'rbudakhaṁḍe'caleśvarotpattivarṇanam",
+   "title_deva": "तृतीयेऽर्बुदखंडेऽचलेश्वरोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-4/"
+  },
+  {
+   "n": 5,
+   "title": "నాగతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nāgatīrthamāhātmyavarṇanam",
+   "title_deva": "नागतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-5/"
+  },
+  {
+   "n": 6,
+   "title": "వసిష్ఠాశ్రమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vasiṣṭhāśramamāhātmyavarṇanam",
+   "title_deva": "वसिष्ठाश्रममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-6/"
+  },
+  {
+   "n": 7,
+   "title": "తృతీయేఽర్బుదఖండేఽచలేశ్వరప్రభావవర్ణనమ్",
+   "title_iast": "tṛtīye'rbudakhaṁḍe'caleśvaraprabhāvavarṇanam",
+   "title_deva": "तृतीयेऽर्बुदखंडेऽचलेश्वरप्रभाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-7/"
+  },
+  {
+   "n": 8,
+   "title": "తతో గచ్ఛేన్నృపశ్రేష్ఠ భద్రకర్ణం మహాహ్రదమ్",
+   "title_iast": "tato gacchennṛpaśreṣṭha bhadrakarṇaṁ mahāhradam",
+   "title_deva": "ततो गच्छेन्नृपश्रेष्ठ भद्रकर्णं महाह्रदम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-8/"
+  },
+  {
+   "n": 9,
+   "title": "కేదారమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kedāramāhātmyavarṇanam",
+   "title_deva": "केदारमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-9/"
+  },
+  {
+   "n": 10,
+   "title": "కలియుగపభావాత్సర్వతీర్థాగమనవర్ణనమ్",
+   "title_iast": "kaliyugapabhāvātsarvatīrthāgamanavarṇanam",
+   "title_deva": "कलियुगपभावात्सर्वतीर्थागमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-10/"
+  },
+  {
+   "n": 11,
+   "title": "తతో గచ్ఛేన్నృపశ్రేష్ఠ దేవం కోటీశ్వరం పరమ్",
+   "title_iast": "tato gacchennṛpaśreṣṭha devaṁ koṭīśvaraṁ param",
+   "title_deva": "ततो गच्छेन्नृपश्रेष्ठ देवं कोटीश्वरं परम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-11/"
+  },
+  {
+   "n": 12,
+   "title": "రూపతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rūpatīrthamāhātmyavarṇanam",
+   "title_deva": "रूपतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-12/"
+  },
+  {
+   "n": 13,
+   "title": "హృషీకేశమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "hṛṣīkeśamāhātmyavarṇanam",
+   "title_deva": "हृषीकेशमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-13/"
+  },
+  {
+   "n": 14,
+   "title": "సిద్ధేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "siddheśvaramāhātmyavarṇanam",
+   "title_deva": "सिद्धेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-14/"
+  },
+  {
+   "n": 15,
+   "title": "శుక్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śukreśvaramāhātmyavarṇanam",
+   "title_deva": "शुक्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-15/"
+  },
+  {
+   "n": 16,
+   "title": "మణికర్ణికేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "maṇikarṇikeśvaramāhātmyavarṇanam",
+   "title_deva": "मणिकर्णिकेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-16/"
+  },
+  {
+   "n": 17,
+   "title": "పంగుతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "paṁgutīrthamāhātmyavarṇanam",
+   "title_deva": "पंगुतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-17/"
+  },
+  {
+   "n": 18,
+   "title": "తతో గచ్ఛేన్నృపశ్రేష్ఠ యమతీర్థమనుత్తమమ్",
+   "title_iast": "tato gacchennṛpaśreṣṭha yamatīrthamanuttamam",
+   "title_deva": "ततो गच्छेन्नृपश्रेष्ठ यमतीर्थमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-18/"
+  },
+  {
+   "n": 19,
+   "title": "తతో గచ్ఛేన్నృపశ్రేష్ఠ తీర్థం పాపప్రణాశనమ్",
+   "title_iast": "tato gacchennṛpaśreṣṭha tīrthaṁ pāpapraṇāśanam",
+   "title_deva": "ततो गच्छेन्नृपश्रेष्ठ तीर्थं पापप्रणाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-19/"
+  },
+  {
+   "n": 20,
+   "title": "చంద్రప్రభాసతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caṁdraprabhāsatīrthamāhātmyavarṇanam",
+   "title_deva": "चंद्रप्रभासतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-20/"
+  },
+  {
+   "n": 21,
+   "title": "తతో గచ్ఛేన్నృపశ్రేష్ఠ పిణ్డోదకమనుత్తమమ్",
+   "title_iast": "tato gacchennṛpaśreṣṭha piṇḍodakamanuttamam",
+   "title_deva": "ततो गच्छेन्नृपश्रेष्ठ पिण्डोदकमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-21/"
+  },
+  {
+   "n": 22,
+   "title": "శ్రీమాతామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrīmātāmāhātmyavarṇanam",
+   "title_deva": "श्रीमातामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-22/"
+  },
+  {
+   "n": 23,
+   "title": "శుక్లతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śuklatīrthamāhātmyavarṇanam",
+   "title_deva": "शुक्लतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-23/"
+  },
+  {
+   "n": 24,
+   "title": "కాత్యాయనీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kātyāyanīmāhātmyavarṇanam",
+   "title_deva": "कात्यायनीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-24/"
+  },
+  {
+   "n": 25,
+   "title": "పిండారకతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "piṁḍārakatīrthamāhātmyavarṇanam",
+   "title_deva": "पिंडारकतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-25/"
+  },
+  {
+   "n": 26,
+   "title": "కనఖలతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kanakhalatīrthamāhātmyavarṇanam",
+   "title_deva": "कनखलतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-26/"
+  },
+  {
+   "n": 27,
+   "title": "చక్రతీర్థప్రభావవర్ణనమ్",
+   "title_iast": "cakratīrthaprabhāvavarṇanam",
+   "title_deva": "चक्रतीर्थप्रभाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-27/"
+  },
+  {
+   "n": 28,
+   "title": "తతో గచ్ఛేన్నృపశ్రేష్ఠ సుపుణ్యం మానుషం హ్రదమ్",
+   "title_iast": "tato gacchennṛpaśreṣṭha supuṇyaṁ mānuṣaṁ hradam",
+   "title_deva": "ततो गच्छेन्नृपश्रेष्ठ सुपुण्यं मानुषं ह्रदम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-28/"
+  },
+  {
+   "n": 29,
+   "title": "తతో గచ్ఛేన్నృపశ్రేష్ఠ కపిలాతీర్థముత్తమమ్",
+   "title_iast": "tato gacchennṛpaśreṣṭha kapilātīrthamuttamam",
+   "title_deva": "ततो गच्छेन्नृपश्रेष्ठ कपिलातीर्थमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-29/"
+  },
+  {
+   "n": 30,
+   "title": "తృతీయేఽర్బుదఖణ్డేఽగ్నితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tṛtīye'rbudakhaṇḍe'gnitīrthamāhātmyavarṇanam",
+   "title_deva": "तृतीयेऽर्बुदखण्डेऽग्नितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-30/"
+  },
+  {
+   "n": 31,
+   "title": "రక్తానుబన్ధం వై గచ్ఛేత్తీర్థం త్రైలోక్యవిశ్రుతమ్",
+   "title_iast": "raktānubandhaṁ vai gacchettīrthaṁ trailokyaviśrutam",
+   "title_deva": "रक्तानुबन्धं वै गच्छेत्तीर्थं त्रैलोक्यविश्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-31/"
+  },
+  {
+   "n": 32,
+   "title": "వినాయకమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vināyakamāhātmyavarṇanam",
+   "title_deva": "विनायकमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-32/"
+  },
+  {
+   "n": 33,
+   "title": "పార్థేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pārtheśvaramāhātmyavarṇanam",
+   "title_deva": "पार्थेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-33/"
+  },
+  {
+   "n": 34,
+   "title": "కృష్ణతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kṛṣṇatīrthamāhātmyavarṇanam",
+   "title_deva": "कृष्णतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-34/"
+  },
+  {
+   "n": 35,
+   "title": "మాముహ్రదోత్పత్తివర్ణనమ్",
+   "title_iast": "māmuhradotpattivarṇanam",
+   "title_deva": "मामुह्रदोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-35/"
+  },
+  {
+   "n": 36,
+   "title": "చండికాశ్రమోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caṁḍikāśramotpattimāhātmyavarṇanam",
+   "title_deva": "चंडिकाश्रमोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-36/"
+  },
+  {
+   "n": 37,
+   "title": "నాగోద్భవతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nāgodbhavatīrthamāhātmyavarṇanam",
+   "title_deva": "नागोद्भवतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-37/"
+  },
+  {
+   "n": 38,
+   "title": "కుండం తు శివలింగాఖ్యం తతో గచ్ఛేన్మహీపతే",
+   "title_iast": "kuṁḍaṁ tu śivaliṁgākhyaṁ tato gacchenmahīpate",
+   "title_deva": "कुंडं तु शिवलिंगाख्यं ततो गच्छेन्महीपते",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-38/"
+  },
+  {
+   "n": 39,
+   "title": "యత్త్వయా కీర్తితం బ్రహ్మన్పూర్వం దేవైః ప్రసాదితః",
+   "title_iast": "yattvayā kīrtitaṁ brahmanpūrvaṁ devaiḥ prasāditaḥ",
+   "title_deva": "यत्त्वया कीर्तितं ब्रह्मन्पूर्वं देवैः प्रसादितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-39/"
+  },
+  {
+   "n": 40,
+   "title": "కామేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kāmeśvaramāhātmyavarṇanam",
+   "title_deva": "कामेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-40/"
+  },
+  {
+   "n": 41,
+   "title": "తతో గచ్ఛేన్నృపశ్రేష్ఠ మార్కండేయస్య చాశ్రమమ్",
+   "title_iast": "tato gacchennṛpaśreṣṭha mārkaṁḍeyasya cāśramam",
+   "title_deva": "ततो गच्छेन्नृपश्रेष्ठ मार्कंडेयस्य चाश्रमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-41/"
+  },
+  {
+   "n": 42,
+   "title": "ఉద్దాలకేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "uddālakeśvaramāhātmyavarṇanam",
+   "title_deva": "उद्दालकेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-42/"
+  },
+  {
+   "n": 43,
+   "title": "సిద్ధేశ్వరమహిమవర్ణనమ్",
+   "title_iast": "siddheśvaramahimavarṇanam",
+   "title_deva": "सिद्धेश्वरमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-43/"
+  },
+  {
+   "n": 44,
+   "title": "గజతీర్థప్రభావవర్ణనమ్",
+   "title_iast": "gajatīrthaprabhāvavarṇanam",
+   "title_deva": "गजतीर्थप्रभाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-44/"
+  },
+  {
+   "n": 45,
+   "title": "శ్రీదేవఖాతోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrīdevakhātotpattimāhātmyavarṇanam",
+   "title_deva": "श्रीदेवखातोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-45/"
+  },
+  {
+   "n": 46,
+   "title": "వ్యాసతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vyāsatīrthamāhātmyavarṇanam",
+   "title_deva": "व्यासतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-46/"
+  },
+  {
+   "n": 47,
+   "title": "గౌతమాశ్రమతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gautamāśramatīrthamāhātmyavarṇanam",
+   "title_deva": "गौतमाश्रमतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-47/"
+  },
+  {
+   "n": 48,
+   "title": "కులసంతారణం గచ్ఛేత్తత్ర తీర్థమనుత్తమమ్",
+   "title_iast": "kulasaṁtāraṇaṁ gacchettatra tīrthamanuttamam",
+   "title_deva": "कुलसंतारणं गच्छेत्तत्र तीर्थमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-48/"
+  },
+  {
+   "n": 49,
+   "title": "రామతీర్థం తతో గచ్ఛేత్పుణ్యమృషినిషేవితమ్",
+   "title_iast": "rāmatīrthaṁ tato gacchetpuṇyamṛṣiniṣevitam",
+   "title_deva": "रामतीर्थं ततो गच्छेत्पुण्यमृषिनिषेवितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-49/"
+  },
+  {
+   "n": 50,
+   "title": "కోటితీర్థప్రభావవర్ణనమ్",
+   "title_iast": "koṭitīrthaprabhāvavarṇanam",
+   "title_deva": "कोटितीर्थप्रभाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-50/"
+  },
+  {
+   "n": 51,
+   "title": "తతో గచ్ఛేన్నృపశ్రేష్ఠ చంద్రోద్భేదమనుత్తమమ్",
+   "title_iast": "tato gacchennṛpaśreṣṭha caṁdrodbhedamanuttamam",
+   "title_deva": "ततो गच्छेन्नृपश्रेष्ठ चंद्रोद्भेदमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-51/"
+  },
+  {
+   "n": 52,
+   "title": "ఈశానీశిఖరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "īśānīśikharamāhātmyavarṇanam",
+   "title_deva": "ईशानीशिखरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-52/"
+  },
+  {
+   "n": 53,
+   "title": "బ్రహ్మపదోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "brahmapadotpattimāhātmyavarṇanam",
+   "title_deva": "ब्रह्मपदोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-53/"
+  },
+  {
+   "n": 54,
+   "title": "త్రిపుష్కరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tripuṣkaramāhātmyavarṇanam",
+   "title_deva": "त्रिपुष्करमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-54/"
+  },
+  {
+   "n": 55,
+   "title": "రుద్రహ్రదమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rudrahradamāhātmyavarṇanam",
+   "title_deva": "रुद्रह्रदमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-55/"
+  },
+  {
+   "n": 56,
+   "title": "గుహేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "guheśvaramāhātmyavarṇanam",
+   "title_deva": "गुहेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-56/"
+  },
+  {
+   "n": 57,
+   "title": "తృతీయేఽర్బుదఖణ్డేఽవియుక్తక్షేత్రమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tṛtīye'rbudakhaṇḍe'viyuktakṣetramāhātmyavarṇanam",
+   "title_deva": "तृतीयेऽर्बुदखण्डेऽवियुक्तक्षेत्रमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-57/"
+  },
+  {
+   "n": 58,
+   "title": "ఉమామాహేశ్వరం గచ్ఛేత్తతో రాజన్సుపుణ్యదమ్",
+   "title_iast": "umāmāheśvaraṁ gacchettato rājansupuṇyadam",
+   "title_deva": "उमामाहेश्वरं गच्छेत्ततो राजन्सुपुण्यदम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-58/"
+  },
+  {
+   "n": 59,
+   "title": "తతో మహౌజసం గచ్ఛేత్తీర్థం పాతకనాశనమ్",
+   "title_iast": "tato mahaujasaṁ gacchettīrthaṁ pātakanāśanam",
+   "title_deva": "ततो महौजसं गच्छेत्तीर्थं पातकनाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-59/"
+  },
+  {
+   "n": 60,
+   "title": "జంబూతీర్థప్రభావవర్ణనమ్",
+   "title_iast": "jaṁbūtīrthaprabhāvavarṇanam",
+   "title_deva": "जंबूतीर्थप्रभाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-60/"
+  },
+  {
+   "n": 61,
+   "title": "గంగాధరం తతో గచ్ఛేత్సుపుణ్యం విమలోదకమ్",
+   "title_iast": "gaṁgādharaṁ tato gacchetsupuṇyaṁ vimalodakam",
+   "title_deva": "गंगाधरं ततो गच्छेत्सुपुण्यं विमलोदकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-61/"
+  },
+  {
+   "n": 62,
+   "title": "కటేశ్వరగంగేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kaṭeśvaragaṁgeśvaramāhātmyavarṇanam",
+   "title_deva": "कटेश्वरगंगेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-62/"
+  },
+  {
+   "n": 63,
+   "title": "ఏతత్తే సర్వమాఖ్యాతం యన్మాం త్వం పరిపృచ్ఛసి",
+   "title_iast": "etatte sarvamākhyātaṁ yanmāṁ tvaṁ paripṛcchasi",
+   "title_deva": "एतत्ते सर्वमाख्यातं यन्मां त्वं परिपृच्छसि",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/arbuda/adhyaya-63/"
+  },
+  {
+   "n": 64,
+   "title": "ప్రశ్నకరణవర్ణనమ్",
+   "title_iast": "praśnakaraṇavarṇanam",
+   "title_deva": "प्रश्नकरणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-1/"
+  },
+  {
+   "n": 65,
+   "title": "రుక్మిణీశాపవృత్తాన్తవర్ణనమ్",
+   "title_iast": "rukmiṇīśāpavṛttāntavarṇanam",
+   "title_deva": "रुक्मिणीशापवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-2/"
+  },
+  {
+   "n": 66,
+   "title": "రుక్మిణీదుఃఖమోచనవర్ణనమ్",
+   "title_iast": "rukmiṇīduḥkhamocanavarṇanam",
+   "title_deva": "रुक्मिणीदुःखमोचनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-3/"
+  },
+  {
+   "n": 67,
+   "title": "ద్వారకాయాత్రావిధివర్ణనమ్",
+   "title_iast": "dvārakāyātrāvidhivarṇanam",
+   "title_deva": "द्वारकायात्राविधिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-4/"
+  },
+  {
+   "n": 68,
+   "title": "గోమత్యుత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gomatyutpattimāhātmyavarṇanam",
+   "title_deva": "गोमत्युत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-5/"
+  },
+  {
+   "n": 69,
+   "title": "స్నానదానాదిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "snānadānādimāhātmyavarṇanam",
+   "title_deva": "स्नानदानादिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-6/"
+  },
+  {
+   "n": 70,
+   "title": "గోమత్యుదధిసంగమతీరస్థచక్రతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gomatyudadhisaṁgamatīrasthacakratīrthamāhātmyavarṇanam",
+   "title_deva": "गोमत्युदधिसंगमतीरस्थचक्रतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-7/"
+  },
+  {
+   "n": 71,
+   "title": "మా గచ్ఛధ్వం సురనదీం కాలిందీం మా సరస్వతీమ్",
+   "title_iast": "mā gacchadhvaṁ suranadīṁ kāliṁdīṁ mā sarasvatīm",
+   "title_deva": "मा गच्छध्वं सुरनदीं कालिंदीं मा सरस्वतीम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-8/"
+  },
+  {
+   "n": 72,
+   "title": "రుక్మిణీహ్రదమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rukmiṇīhradamāhātmyavarṇanam",
+   "title_deva": "रुक्मिणीह्रदमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-9/"
+  },
+  {
+   "n": 73,
+   "title": "తీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tīrthamāhātmyavarṇanam",
+   "title_deva": "तीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-10/"
+  },
+  {
+   "n": 74,
+   "title": "తతో గచ్ఛేద్ద్విజశ్రేష్ఠాస్తీర్థం విష్ణుపదోద్భవమ్",
+   "title_iast": "tato gaccheddvijaśreṣṭhāstīrthaṁ viṣṇupadodbhavam",
+   "title_deva": "ततो गच्छेद्द्विजश्रेष्ठास्तीर्थं विष्णुपदोद्भवम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-11/"
+  },
+  {
+   "n": 75,
+   "title": "మయనిర్మితసరోమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mayanirmitasaromāhātmyavarṇanam",
+   "title_deva": "मयनिर्मितसरोमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-12/"
+  },
+  {
+   "n": 76,
+   "title": "గోపీసరస్తీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gopīsarastīrthamāhātmyavarṇanam",
+   "title_deva": "गोपीसरस्तीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-13/"
+  },
+  {
+   "n": 77,
+   "title": "పఞ్చనదతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pañcanadatīrthamāhātmyavarṇanam",
+   "title_deva": "पञ्चनदतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-14/"
+  },
+  {
+   "n": 78,
+   "title": "ఋషితీర్థసిద్ధేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ṛṣitīrthasiddheśvaramāhātmyavarṇanam",
+   "title_deva": "ऋषितीर्थसिद्धेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-15/"
+  },
+  {
+   "n": 79,
+   "title": "తీర్థవృన్దమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tīrthavṛndamāhātmyavarṇanam",
+   "title_deva": "तीर्थवृन्दमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-16/"
+  },
+  {
+   "n": 80,
+   "title": "భగవత్పరిచారకవర్గకథనపూర్వకరుక్మిగర్వపరిహారవృత్తాన్తవర్ణనమ్",
+   "title_iast": "bhagavatparicārakavargakathanapūrvakarukmigarvaparihāravṛttāntavarṇanam",
+   "title_deva": "भगवत्परिचारकवर्गकथनपूर्वकरुक्मिगर्वपरिहारवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-17/"
+  },
+  {
+   "n": 81,
+   "title": "పూజయేద్గణనాథం తం రుక్మిణం రుక్మభూషితమ్",
+   "title_iast": "pūjayedgaṇanāthaṁ taṁ rukmiṇaṁ rukmabhūṣitam",
+   "title_deva": "पूजयेद्गणनाथं तं रुक्मिणं रुक्मभूषितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-18/"
+  },
+  {
+   "n": 82,
+   "title": "తచ్ఛ్రుత్వా దేవదేవేశశ్చింతయిత్వా పునఃపునః",
+   "title_iast": "tacchrutvā devadeveśaściṁtayitvā punaḥpunaḥ",
+   "title_deva": "तच्छ्रुत्वा देवदेवेशश्चिंतयित्वा पुनःपुनः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-19/"
+  },
+  {
+   "n": 83,
+   "title": "శివలింగస్థాపనవర్ణనమ్",
+   "title_iast": "śivaliṁgasthāpanavarṇanam",
+   "title_deva": "शिवलिंगस्थापनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-20/"
+  },
+  {
+   "n": 84,
+   "title": "శివలిగమలంఘ్యం హి బుద్ధిపూర్వం హతో హ్యహమ్",
+   "title_iast": "śivaligamalaṁghyaṁ hi buddhipūrvaṁ hato hyaham",
+   "title_deva": "शिवलिगमलंघ्यं हि बुद्धिपूर्वं हतो ह्यहम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-21/"
+  },
+  {
+   "n": 85,
+   "title": "రుక్మిణీపూజనమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rukmiṇīpūjanamāhātmyavarṇanam",
+   "title_deva": "रुक्मिणीपूजनमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-22/"
+  },
+  {
+   "n": 86,
+   "title": "తులసీధారణమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tulasīdhāraṇamāhātmyavarṇanam",
+   "title_deva": "तुलसीधारणमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-23/"
+  },
+  {
+   "n": 87,
+   "title": "ద్వారకానగరీశ్రైష్ఠ్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dvārakānagarīśraiṣṭhyamāhātmyavarṇanam",
+   "title_deva": "द्वारकानगरीश्रैष्ठ्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-24/"
+  },
+  {
+   "n": 88,
+   "title": "గీతాగోపీచన్దనమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gītāgopīcandanamāhātmyavarṇanam",
+   "title_deva": "गीतागोपीचन्दनमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-25/"
+  },
+  {
+   "n": 89,
+   "title": "ద్వాదశీజాగరణమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dvādaśījāgaraṇamāhātmyavarṇanam",
+   "title_deva": "द्वादशीजागरणमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-26/"
+  },
+  {
+   "n": 90,
+   "title": "సర్వతోవరేణ్యత్వవర్ణనమ్",
+   "title_iast": "sarvatovareṇyatvavarṇanam",
+   "title_deva": "सर्वतोवरेण्यत्ववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-27/"
+  },
+  {
+   "n": 91,
+   "title": "కృత్వా జాగరణం విష్ణోర్యథాన్యాయం నరేశ్వర",
+   "title_iast": "kṛtvā jāgaraṇaṁ viṣṇoryathānyāyaṁ nareśvara",
+   "title_deva": "कृत्वा जागरणं विष्णोर्यथान्यायं नरेश्वर",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-28/"
+  },
+  {
+   "n": 92,
+   "title": "అథాన్యచ్చ ప్రవక్ష్యామి గుహ్యాద్గుహ్యతరం మహత్",
+   "title_iast": "athānyacca pravakṣyāmi guhyādguhyataraṁ mahat",
+   "title_deva": "अथान्यच्च प्रवक्ष्यामि गुह्याद्गुह्यतरं महत्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-29/"
+  },
+  {
+   "n": 93,
+   "title": "మహర్షిగమనోత్సవయాత్రావర్ణనమ్",
+   "title_iast": "maharṣigamanotsavayātrāvarṇanam",
+   "title_deva": "महर्षिगमनोत्सवयात्रावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-30/"
+  },
+  {
+   "n": 94,
+   "title": "దివ్యస్వప్రభయా ధ్వాంతం భూతానాం నాశయన్సదా",
+   "title_iast": "divyasvaprabhayā dhvāṁtaṁ bhūtānāṁ nāśayansadā",
+   "title_deva": "दिव्यस्वप्रभया ध्वांतं भूतानां नाशयन्सदा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-31/"
+  },
+  {
+   "n": 95,
+   "title": "విష్ణుపార్షదవర్ణితద్వారకామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "viṣṇupārṣadavarṇitadvārakāmāhātmyavarṇanam",
+   "title_deva": "विष्णुपार्षदवर्णितद्वारकामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-32/"
+  },
+  {
+   "n": 96,
+   "title": "సర్వతీర్థక్షేత్రాదికృతనివాసవర్ణనమ్",
+   "title_iast": "sarvatīrthakṣetrādikṛtanivāsavarṇanam",
+   "title_deva": "सर्वतीर्थक्षेत्रादिकृतनिवासवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-33/"
+  },
+  {
+   "n": 97,
+   "title": "దిలీపకృతద్వారకాయాత్రావర్ణనమ్",
+   "title_iast": "dilīpakṛtadvārakāyātrāvarṇanam",
+   "title_deva": "दिलीपकृतद्वारकायात्रावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-34/"
+  },
+  {
+   "n": 98,
+   "title": "ద్వారకానామమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dvārakānāmamāhātmyavarṇanam",
+   "title_deva": "द्वारकानाममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-35/"
+  },
+  {
+   "n": 99,
+   "title": "ద్వారకాదర్శనగోమతీసరిత్స్నానవిధిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dvārakādarśanagomatīsaritsnānavidhimāhātmyavarṇanam",
+   "title_deva": "द्वारकादर्शनगोमतीसरित्स्नानविधिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-36/"
+  },
+  {
+   "n": 100,
+   "title": "పాషాణమాహాత్మ్యవర్ణనపూర్వకతత్పూజనఫలాదికథనమ్",
+   "title_iast": "pāṣāṇamāhātmyavarṇanapūrvakatatpūjanaphalādikathanam",
+   "title_deva": "पाषाणमाहात्म्यवर्णनपूर्वकतत्पूजनफलादिकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-37/"
+  },
+  {
+   "n": 101,
+   "title": "ద్వారకాయాశ్చ మాహాత్మ్యం శృణు పౌత్ర మయోదితమ్",
+   "title_iast": "dvārakāyāśca māhātmyaṁ śṛṇu pautra mayoditam",
+   "title_deva": "द्वारकायाश्च माहात्म्यं शृणु पौत्र मयोदितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-38/"
+  },
+  {
+   "n": 102,
+   "title": "జయా చ విజయా చైవ జయంతీ పాపనాశినీ",
+   "title_iast": "jayā ca vijayā caiva jayaṁtī pāpanāśinī",
+   "title_deva": "जया च विजया चैव जयंती पापनाशिनी",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-39/"
+  },
+  {
+   "n": 103,
+   "title": "చక్రతీర్థస్నానదానశ్రాద్ధాదిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "cakratīrthasnānadānaśrāddhādimāhātmyavarṇanam",
+   "title_deva": "चक्रतीर्थस्नानदानश्राद्धादिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-40/"
+  },
+  {
+   "n": 104,
+   "title": "ధన్యాస్తు నరలోకాస్తే గోమత్యాం తు కృతోదకాః",
+   "title_iast": "dhanyāstu naralokāste gomatyāṁ tu kṛtodakāḥ",
+   "title_deva": "धन्यास्तु नरलोकास्ते गोमत्यां तु कृतोदकाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-41/"
+  },
+  {
+   "n": 105,
+   "title": "ద్వారకామాహాత్మ్యశ్రవణాదిఫలవర్ణనమ్",
+   "title_iast": "dvārakāmāhātmyaśravaṇādiphalavarṇanam",
+   "title_deva": "द्वारकामाहात्म्यश्रवणादिफलवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-42/"
+  },
+  {
+   "n": 106,
+   "title": "ద్విజకృతద్వారకాయాత్రావిధివర్ణనమ్",
+   "title_iast": "dvijakṛtadvārakāyātrāvidhivarṇanam",
+   "title_deva": "द्विजकृतद्वारकायात्राविधिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-43/"
+  },
+  {
+   "n": 107,
+   "title": "శ్లోకమ్ అనుగచ్ఛ",
+   "title_iast": "ślokam anugaccha",
+   "title_deva": "श्लोकम् अनुगच्छ",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/dvaraka/adhyaya-44/"
+  },
+  {
+   "n": 108,
+   "title": "ప్రశ్నాధ్యాయవర్ణనమ్",
+   "title_iast": "praśnādhyāyavarṇanam",
+   "title_deva": "प्रश्नाध्यायवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-1/"
+  },
+  {
+   "n": 109,
+   "title": "శ్లోకమ్ అనుగచ్ఛ",
+   "title_iast": "ślokam anugaccha",
+   "title_deva": "श्लोकम् अनुगच्छ",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-2/"
+  },
+  {
+   "n": 110,
+   "title": "దేవీప్రశ్నవర్ణనమ్",
+   "title_iast": "devīpraśnavarṇanam",
+   "title_deva": "देवीप्रश्नवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-3/"
+  },
+  {
+   "n": 111,
+   "title": "క్షేత్రప్రమాణవర్ణనమ్",
+   "title_iast": "kṣetrapramāṇavarṇanam",
+   "title_deva": "क्षेत्रप्रमाणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-4/"
+  },
+  {
+   "n": 112,
+   "title": "క్షేత్రస్థర్షిదేవగణవర్ణనమ్",
+   "title_iast": "kṣetrastharṣidevagaṇavarṇanam",
+   "title_deva": "क्षेत्रस्थर्षिदेवगणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-5/"
+  },
+  {
+   "n": 113,
+   "title": "శ్రీసోమేశ్వరమహిమవర్ణనమ్",
+   "title_iast": "śrīsomeśvaramahimavarṇanam",
+   "title_deva": "श्रीसोमेश्वरमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-6/"
+  },
+  {
+   "n": 114,
+   "title": "శ్రీసోమనాథప్రాదుర్భావవర్ణనమ్",
+   "title_iast": "śrīsomanāthaprādurbhāvavarṇanam",
+   "title_deva": "श्रीसोमनाथप्रादुर्भाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-7/"
+  },
+  {
+   "n": 115,
+   "title": "పునః కథయ దేవేశ మాహాత్మ్యం లోకశంకర",
+   "title_iast": "punaḥ kathaya deveśa māhātmyaṁ lokaśaṁkara",
+   "title_deva": "पुनः कथय देवेश माहात्म्यं लोकशंकर",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-8/"
+  },
+  {
+   "n": 116,
+   "title": "శ్రీహరిస్థితిప్రశ్నవర్ణనమ్",
+   "title_iast": "śrīharisthitipraśnavarṇanam",
+   "title_deva": "श्रीहरिस्थितिप्रश्नवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-9/"
+  },
+  {
+   "n": 117,
+   "title": "సర్వక్షేత్రోత్తమత్వవర్ణనమ్",
+   "title_iast": "sarvakṣetrottamatvavarṇanam",
+   "title_deva": "सर्वक्षेत्रोत्तमत्ववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-10/"
+  },
+  {
+   "n": 118,
+   "title": "రోమాంచకఞ్చుకా సుభ్రూః పునః పప్రచ్ఛ భూసురాః",
+   "title_iast": "romāṁcakañcukā subhrūḥ punaḥ papraccha bhūsurāḥ",
+   "title_deva": "रोमांचकञ्चुका सुभ्रूः पुनः पप्रच्छ भूसुराः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-11/"
+  },
+  {
+   "n": 119,
+   "title": "యమేశ్వరోత్పత్తివర్ణనమ్",
+   "title_iast": "yameśvarotpattivarṇanam",
+   "title_deva": "यमेश्वरोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-12/"
+  },
+  {
+   "n": 120,
+   "title": "ప్రభాసపవిత్రనామకరణార్కస్థలోత్పత్తివర్ణనమ్",
+   "title_iast": "prabhāsapavitranāmakaraṇārkasthalotpattivarṇanam",
+   "title_deva": "प्रभासपवित्रनामकरणार्कस्थलोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-13/"
+  },
+  {
+   "n": 121,
+   "title": "సిద్ధేశ్వరోత్పత్తివర్ణనమ్",
+   "title_iast": "siddheśvarotpattivarṇanam",
+   "title_deva": "सिद्धेश्वरोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-14/"
+  },
+  {
+   "n": 122,
+   "title": "పాపనాశనోత్పత్తివర్ణనమ్",
+   "title_iast": "pāpanāśanotpattivarṇanam",
+   "title_deva": "पापनाशनोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-15/"
+  },
+  {
+   "n": 123,
+   "title": "పాతాలవివరసునందాదిమాతృగణోత్పత్తివర్ణనమ్",
+   "title_iast": "pātālavivarasunaṁdādimātṛgaṇotpattivarṇanam",
+   "title_deva": "पातालविवरसुनंदादिमातृगणोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-16/"
+  },
+  {
+   "n": 124,
+   "title": "ప్రభాసక్షేత్రమాహాత్మ్యేఽర్క్కస్థలమాహాత్మ్యార్కస్థలపూజావిధానాదివర్ణనమ్",
+   "title_iast": "prabhāsakṣetramāhātmye'rkkasthalamāhātmyārkasthalapūjāvidhānādivarṇanam",
+   "title_deva": "प्रभासक्षेत्रमाहात्म्येऽर्क्कस्थलमाहात्म्यार्कस्थलपूजाविधानादिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-17/"
+  },
+  {
+   "n": 125,
+   "title": "పునః పప్రచ్ఛ విప్రేంద్రాః క్షేత్రమాహాత్మ్యవిస్తరమ్",
+   "title_iast": "punaḥ papraccha vipreṁdrāḥ kṣetramāhātmyavistaram",
+   "title_deva": "पुनः पप्रच्छ विप्रेंद्राः क्षेत्रमाहात्म्यविस्तरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-18/"
+  },
+  {
+   "n": 126,
+   "title": "యద్యేవం సకలశ్చంద్రః కథం న విధృతస్త్వయా",
+   "title_iast": "yadyevaṁ sakalaścaṁdraḥ kathaṁ na vidhṛtastvayā",
+   "title_deva": "यद्येवं सकलश्चंद्रः कथं न विधृतस्त्वया",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-19/"
+  },
+  {
+   "n": 127,
+   "title": "చన్ద్రోత్పత్తివర్ణనమ్",
+   "title_iast": "candrotpattivarṇanam",
+   "title_deva": "चन्द्रोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-20/"
+  },
+  {
+   "n": 128,
+   "title": "శ్రుతం సర్వమశేషేణ చన్ద్రస్యోత్పత్తి కారణమ్",
+   "title_iast": "śrutaṁ sarvamaśeṣeṇa candrasyotpatti kāraṇam",
+   "title_deva": "श्रुतं सर्वमशेषेण चन्द्रस्योत्पत्ति कारणम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-21/"
+  },
+  {
+   "n": 129,
+   "title": "సోమవరప్రదానవర్ణనమ్",
+   "title_iast": "somavarapradānavarṇanam",
+   "title_deva": "सोमवरप्रदानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-22/"
+  },
+  {
+   "n": 130,
+   "title": "సోమేశ్వరప్రతిష్ఠామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "someśvarapratiṣṭhāmāhātmyavarṇanam",
+   "title_deva": "सोमेश्वरप्रतिष्ठामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-23/"
+  },
+  {
+   "n": 131,
+   "title": "సోమవారవ్రతమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "somavāravratamāhātmyavarṇanam",
+   "title_deva": "सोमवारव्रतमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-24/"
+  },
+  {
+   "n": 132,
+   "title": "గన్ధర్వకన్యావృత్తాన్తవర్ణనమ్",
+   "title_iast": "gandharvakanyāvṛttāntavarṇanam",
+   "title_deva": "गन्धर्वकन्यावृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-25/"
+  },
+  {
+   "n": 133,
+   "title": "గన్ధర్వేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gandharveśvaramāhātmyavarṇanam",
+   "title_deva": "गन्धर्वेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-26/"
+  },
+  {
+   "n": 134,
+   "title": "గన్ధర్వసేనేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gandharvaseneśvaramāhātmyavarṇanam",
+   "title_deva": "गन्धर्वसेनेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-27/"
+  },
+  {
+   "n": 135,
+   "title": "ఇత్యాశ్చర్యమిదం దేవ త్వత్తః సర్వం మయా శ్రుతమ్",
+   "title_iast": "ityāścaryamidaṁ deva tvattaḥ sarvaṁ mayā śrutam",
+   "title_deva": "इत्याश्चर्यमिदं देव त्वत्तः सर्वं मया श्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-28/"
+  },
+  {
+   "n": 136,
+   "title": "అగ్నితీర్థం తతో గచ్ఛేత్సాగరస్య తటే శుభే",
+   "title_iast": "agnitīrthaṁ tato gacchetsāgarasya taṭe śubhe",
+   "title_deva": "अग्नितीर्थं ततो गच्छेत्सागरस्य तटे शुभे",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-29/"
+  },
+  {
+   "n": 137,
+   "title": "స్నాత్వా తత్రాగ్నితీర్థేషు కం దేవం పూర్వమర్చ్చయేత్",
+   "title_iast": "snātvā tatrāgnitīrtheṣu kaṁ devaṁ pūrvamarccayet",
+   "title_deva": "स्नात्वा तत्राग्नितीर्थेषु कं देवं पूर्वमर्च्चयेत्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-30/"
+  },
+  {
+   "n": 138,
+   "title": "సకారపంచకం ప్రోక్తం యత్త్వయా మమ శంకర",
+   "title_iast": "sakārapaṁcakaṁ proktaṁ yattvayā mama śaṁkara",
+   "title_deva": "सकारपंचकं प्रोक्तं यत्त्वया मम शंकर",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-31/"
+  },
+  {
+   "n": 139,
+   "title": "వడవానలవంచనవృత్తాన్తవర్ణనమ్",
+   "title_iast": "vaḍavānalavaṁcanavṛttāntavarṇanam",
+   "title_deva": "वडवानलवंचनवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-32/"
+  },
+  {
+   "n": 140,
+   "title": "స్వతీవృత్తాంతవడవానలవచనవర్ణనమ్",
+   "title_iast": "svatīvṛttāṁtavaḍavānalavacanavarṇanam",
+   "title_deva": "स्वतीवृत्तांतवडवानलवचनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-33/"
+  },
+  {
+   "n": 141,
+   "title": "సరస్వత్యవతారమహిమవర్ణనమ్",
+   "title_iast": "sarasvatyavatāramahimavarṇanam",
+   "title_deva": "सरस्वत्यवतारमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-34/"
+  },
+  {
+   "n": 142,
+   "title": "సరస్వత్యబ్ధిసమాగమాగ్నితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sarasvatyabdhisamāgamāgnitīrthamāhātmyavarṇanam",
+   "title_deva": "सरस्वत्यब्धिसमागमाग्नितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-35/"
+  },
+  {
+   "n": 143,
+   "title": "ప్రాచీసరస్వతీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prācīsarasvatīmāhātmyavarṇanam",
+   "title_deva": "प्राचीसरस्वतीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-36/"
+  },
+  {
+   "n": 144,
+   "title": "కంకణమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kaṁkaṇamāhātmyavarṇanam",
+   "title_deva": "कंकणमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-37/"
+  },
+  {
+   "n": 145,
+   "title": "యదేతద్భవతా ప్రోక్తం పశ్యేత్పూర్వం కపర్ద్దినమ్",
+   "title_iast": "yadetadbhavatā proktaṁ paśyetpūrvaṁ kaparddinam",
+   "title_deva": "यदेतद्भवता प्रोक्तं पश्येत्पूर्वं कपर्द्दिनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-38/"
+  },
+  {
+   "n": 146,
+   "title": "తతో గచ్ఛేన్మహాదేవి లిగం కేదారసంస్థితమ్",
+   "title_iast": "tato gacchenmahādevi ligaṁ kedārasaṁsthitam",
+   "title_deva": "ततो गच्छेन्महादेवि लिगं केदारसंस्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-39/"
+  },
+  {
+   "n": 147,
+   "title": "భీమేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhīmeśvaramāhātmyavarṇanam",
+   "title_deva": "भीमेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-40/"
+  },
+  {
+   "n": 148,
+   "title": "తస్యైవ పూర్వదిగ్భాగే సరస్వత్యా ప్రతిష్ఠితమ్",
+   "title_iast": "tasyaiva pūrvadigbhāge sarasvatyā pratiṣṭhitam",
+   "title_deva": "तस्यैव पूर्वदिग्भागे सरस्वत्या प्रतिष्ठितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-41/"
+  },
+  {
+   "n": 149,
+   "title": "తతో గచ్ఛేన్మహాదేవి చణ్డీశం దేవముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi caṇḍīśaṁ devamuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि चण्डीशं देवमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-42/"
+  },
+  {
+   "n": 150,
+   "title": "ఆదిత్యేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ādityeśvaramāhātmyavarṇanam",
+   "title_deva": "आदित्येश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-43/"
+  },
+  {
+   "n": 151,
+   "title": "సోమేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "someśvaramāhātmyavarṇanam",
+   "title_deva": "सोमेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-44/"
+  },
+  {
+   "n": 152,
+   "title": "తతో గచ్ఛేన్మహాదేవి అంగారేశ్వరముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi aṁgāreśvaramuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि अंगारेश्वरमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-45/"
+  },
+  {
+   "n": 153,
+   "title": "తతో గచ్ఛేన్మహాదేవి తస్యైవోత్తరతః స్థితమ్",
+   "title_iast": "tato gacchenmahādevi tasyaivottarataḥ sthitam",
+   "title_deva": "ततो गच्छेन्महादेवि तस्यैवोत्तरतः स्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-46/"
+  },
+  {
+   "n": 154,
+   "title": "వృహస్పతీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vṛhaspatīśvaramāhātmyavarṇanam",
+   "title_deva": "वृहस्पतीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-47/"
+  },
+  {
+   "n": 155,
+   "title": "తతో గచ్ఛేన్మహాదేవి లింగం శుక్రప్రతిష్ఠితమ్",
+   "title_iast": "tato gacchenmahādevi liṁgaṁ śukrapratiṣṭhitam",
+   "title_deva": "ततो गच्छेन्महादेवि लिंगं शुक्रप्रतिष्ठितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-48/"
+  },
+  {
+   "n": 156,
+   "title": "తస్మాచ్ఛుక్రేశ్వరాద్గచ్ఛేద్దేవి లింగం మహాప్రభమ్",
+   "title_iast": "tasmācchukreśvarādgaccheddevi liṁgaṁ mahāprabham",
+   "title_deva": "तस्माच्छुक्रेश्वराद्गच्छेद्देवि लिंगं महाप्रभम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-49/"
+  },
+  {
+   "n": 157,
+   "title": "రాహ్వీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rāhvīśvaramāhātmyavarṇanam",
+   "title_deva": "राह्वीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-50/"
+  },
+  {
+   "n": 158,
+   "title": "తతో గచ్ఛేన్మహాదేవి కేతులింగం మహాప్రభమ్",
+   "title_iast": "tato gacchenmahādevi ketuliṁgaṁ mahāprabham",
+   "title_deva": "ततो गच्छेन्महादेवि केतुलिंगं महाप्रभम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-51/"
+  },
+  {
+   "n": 159,
+   "title": "పంచాథ సిద్ధలింగాని కథయామి యశస్విని",
+   "title_iast": "paṁcātha siddhaliṁgāni kathayāmi yaśasvini",
+   "title_deva": "पंचाथ सिद्धलिंगानि कथयामि यशस्विनि",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-52/"
+  },
+  {
+   "n": 160,
+   "title": "కపిలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kapileśvaramāhātmyavarṇanam",
+   "title_deva": "कपिलेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-53/"
+  },
+  {
+   "n": 161,
+   "title": "గన్ధర్వేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gandharveśvaramāhātmyavarṇanam",
+   "title_deva": "गन्धर्वेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-54/"
+  },
+  {
+   "n": 162,
+   "title": "విమలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vimaleśvaramāhātmyavarṇanam",
+   "title_deva": "विमलेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-55/"
+  },
+  {
+   "n": 163,
+   "title": "ధనదేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dhanadeśvaramāhātmyavarṇanam",
+   "title_deva": "धनदेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-56/"
+  },
+  {
+   "n": 164,
+   "title": "వరారోహామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "varārohāmāhātmyavarṇanam",
+   "title_deva": "वरारोहामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-57/"
+  },
+  {
+   "n": 165,
+   "title": "ప్రభాసస్థాం మహాదేవీం దేవానాం ప్రీతిదాయినీమ్",
+   "title_iast": "prabhāsasthāṁ mahādevīṁ devānāṁ prītidāyinīm",
+   "title_deva": "प्रभासस्थां महादेवीं देवानां प्रीतिदायिनीम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-58/"
+  },
+  {
+   "n": 166,
+   "title": "ప్రభాసక్షేత్రమధ్యస్థాం దారిద్ర్యౌఘవినాశినీమ్",
+   "title_iast": "prabhāsakṣetramadhyasthāṁ dāridryaughavināśinīm",
+   "title_deva": "प्रभासक्षेत्रमध्यस्थां दारिद्र्यौघविनाशिनीम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-59/"
+  },
+  {
+   "n": 167,
+   "title": "మఙ్గలామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "maṅgalāmāhātmyavarṇanam",
+   "title_deva": "मङ्गलामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-60/"
+  },
+  {
+   "n": 168,
+   "title": "తతో గచ్ఛేన్మహాదేవీం క్షేత్రదూతీం తు వైష్ణవీమ్",
+   "title_iast": "tato gacchenmahādevīṁ kṣetradūtīṁ tu vaiṣṇavīm",
+   "title_deva": "ततो गच्छेन्महादेवीं क्षेत्रदूतीं तु वैष्णवीम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-61/"
+  },
+  {
+   "n": 169,
+   "title": "చత్వరాదేవీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "catvarādevīmāhātmyavarṇanam",
+   "title_deva": "चत्वरादेवीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-62/"
+  },
+  {
+   "n": 170,
+   "title": "భైరవేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhairaveśvaramāhātmyavarṇanam",
+   "title_deva": "भैरवेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-63/"
+  },
+  {
+   "n": 171,
+   "title": "లక్ష్మీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "lakṣmīśvaramāhātmyavarṇanam",
+   "title_deva": "लक्ष्मीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-64/"
+  },
+  {
+   "n": 172,
+   "title": "వాడవేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vāḍaveśvaramāhātmyavarṇanam",
+   "title_deva": "वाडवेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-65/"
+  },
+  {
+   "n": 173,
+   "title": "ప్రభాసక్షేత్రమాహాత్మ్యేఽర్ఘ్యేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prabhāsakṣetramāhātmye'rghyeśvaramāhātmyavarṇanam",
+   "title_deva": "प्रभासक्षेत्रमाहात्म्येऽर्घ्येश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-66/"
+  },
+  {
+   "n": 174,
+   "title": "కామేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kāmeśvaramāhātmyavarṇanam",
+   "title_deva": "कामेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-67/"
+  },
+  {
+   "n": 175,
+   "title": "స్థానం మహాప్రభావం హి సురసిద్ధనిషేవితమ్",
+   "title_iast": "sthānaṁ mahāprabhāvaṁ hi surasiddhaniṣevitam",
+   "title_deva": "स्थानं महाप्रभावं हि सुरसिद्धनिषेवितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-68/"
+  },
+  {
+   "n": 176,
+   "title": "గౌరీశ్వరేతి విఖ్యాతం యత్త్వయా లింగముత్తమమ్",
+   "title_iast": "gaurīśvareti vikhyātaṁ yattvayā liṁgamuttamam",
+   "title_deva": "गौरीश्वरेति विख्यातं यत्त्वया लिंगमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-69/"
+  },
+  {
+   "n": 177,
+   "title": "వరుణేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "varuṇeśvaramāhātmyavarṇanam",
+   "title_deva": "वरुणेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-70/"
+  },
+  {
+   "n": 178,
+   "title": "తతో గచ్ఛేన్మహాదేవి లింగం తత్రైవ సంస్థితమ్",
+   "title_iast": "tato gacchenmahādevi liṁgaṁ tatraiva saṁsthitam",
+   "title_deva": "ततो गच्छेन्महादेवि लिंगं तत्रैव संस्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-71/"
+  },
+  {
+   "n": 179,
+   "title": "జలవాసగణపతిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "jalavāsagaṇapatimāhātmyavarṇanam",
+   "title_deva": "जलवासगणपतिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-72/"
+  },
+  {
+   "n": 180,
+   "title": "కుమారేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kumāreśvaramāhātmyavarṇanam",
+   "title_deva": "कुमारेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-73/"
+  },
+  {
+   "n": 181,
+   "title": "శాకల్యేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śākalyeśvaramāhātmyavarṇanam",
+   "title_deva": "शाकल्येश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-74/"
+  },
+  {
+   "n": 182,
+   "title": "కలకలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kalakaleśvaramāhātmyavarṇanam",
+   "title_deva": "कलकलेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-75/"
+  },
+  {
+   "n": 183,
+   "title": "లకులీశలింగద్వయమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "lakulīśaliṁgadvayamāhātmyavarṇanam",
+   "title_deva": "लकुलीशलिंगद्वयमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-76/"
+  },
+  {
+   "n": 184,
+   "title": "ఉత్తంకేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "uttaṁkeśvaramāhātmyavarṇanam",
+   "title_deva": "उत्तंकेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-77/"
+  },
+  {
+   "n": 185,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవం వైశ్వానరేశ్వరమ్",
+   "title_iast": "tato gacchenmahādevi devaṁ vaiśvānareśvaram",
+   "title_deva": "ततो गच्छेन्महादेवि देवं वैश्वानरेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-78/"
+  },
+  {
+   "n": 186,
+   "title": "తతో గచ్ఛేన్మహాదేవి లకులీశం మహాప్రభమ్",
+   "title_iast": "tato gacchenmahādevi lakulīśaṁ mahāprabham",
+   "title_deva": "ततो गच्छेन्महादेवि लकुलीशं महाप्रभम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-79/"
+  },
+  {
+   "n": 187,
+   "title": "తస్యైవ పూర్వదిగ్భాగే లింగం పాతకనాశనమ్",
+   "title_iast": "tasyaiva pūrvadigbhāge liṁgaṁ pātakanāśanam",
+   "title_deva": "तस्यैव पूर्वदिग्भागे लिंगं पातकनाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-80/"
+  },
+  {
+   "n": 188,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవేశం దైత్యసూదనమ్",
+   "title_iast": "tato gacchenmahādevi deveśaṁ daityasūdanam",
+   "title_deva": "ततो गच्छेन्महादेवि देवेशं दैत्यसूदनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-81/"
+  },
+  {
+   "n": 189,
+   "title": "చక్రతీర్థోత్పత్తివృత్తాన్తమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "cakratīrthotpattivṛttāntamāhātmyavarṇanam",
+   "title_deva": "चक्रतीर्थोत्पत्तिवृत्तान्तमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-82/"
+  },
+  {
+   "n": 190,
+   "title": "యోగేశ్వరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "yogeśvarīmāhātmyavarṇanam",
+   "title_deva": "योगेश्वरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-83/"
+  },
+  {
+   "n": 191,
+   "title": "తతో గచ్ఛేన్మహాదేవి ఆదినారాయణం హరిమ్",
+   "title_iast": "tato gacchenmahādevi ādinārāyaṇaṁ harim",
+   "title_deva": "ततो गच्छेन्महादेवि आदिनारायणं हरिम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-84/"
+  },
+  {
+   "n": 192,
+   "title": "సంనిహిత్యామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "saṁnihityāmāhātmyavarṇanam",
+   "title_deva": "संनिहित्यामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-85/"
+  },
+  {
+   "n": 193,
+   "title": "పాండవేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pāṁḍaveśvaramāhātmyavarṇanam",
+   "title_deva": "पांडवेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-86/"
+  },
+  {
+   "n": 194,
+   "title": "భూతేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhūteśvaramāhātmyavarṇanam",
+   "title_deva": "भूतेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-87/"
+  },
+  {
+   "n": 195,
+   "title": "తతో గచ్ఛేన్మహాదేవి నీలరుద్రం ద్వితీయకమ్",
+   "title_iast": "tato gacchenmahādevi nīlarudraṁ dvitīyakam",
+   "title_deva": "ततो गच्छेन्महादेवि नीलरुद्रं द्वितीयकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-88/"
+  },
+  {
+   "n": 196,
+   "title": "తతో గచ్ఛేద్వరారోహే కపాలీశ్వరముత్తమమ్",
+   "title_iast": "tato gacchedvarārohe kapālīśvaramuttamam",
+   "title_deva": "ततो गच्छेद्वरारोहे कपालीश्वरमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-89/"
+  },
+  {
+   "n": 197,
+   "title": "వృషవాహనేశ్వరమాహామ్యవర్ణనమ్",
+   "title_iast": "vṛṣavāhaneśvaramāhāmyavarṇanam",
+   "title_deva": "वृषवाहनेश्वरमाहाम्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-90/"
+  },
+  {
+   "n": 198,
+   "title": "తతో గచ్ఛేన్మహాదేవి త్ర్యంబకేశ్వరమవ్యయమ్",
+   "title_iast": "tato gacchenmahādevi tryaṁbakeśvaramavyayam",
+   "title_deva": "ततो गच्छेन्महादेवि त्र्यंबकेश्वरमव्ययम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-91/"
+  },
+  {
+   "n": 199,
+   "title": "రుద్రమాహాత్మ్యేఽఘోరేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rudramāhātmye'ghoreśvaramāhātmyavarṇanam",
+   "title_deva": "रुद्रमाहात्म्येऽघोरेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-92/"
+  },
+  {
+   "n": 200,
+   "title": "మహాకాలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahākāleśvaramāhātmyavarṇanam",
+   "title_deva": "महाकालेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-93/"
+  },
+  {
+   "n": 201,
+   "title": "భైరవేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhairaveśvaramāhātmyavarṇanam",
+   "title_deva": "भैरवेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-94/"
+  },
+  {
+   "n": 202,
+   "title": "మృత్యుఞ్జయమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mṛtyuñjayamāhātmyavarṇanam",
+   "title_deva": "मृत्युञ्जयमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-95/"
+  },
+  {
+   "n": 203,
+   "title": "తతోగచ్ఛేన్మహాదేవి కామేశ్వరమితి స్మృతమ్",
+   "title_iast": "tatogacchenmahādevi kāmeśvaramiti smṛtam",
+   "title_deva": "ततोगच्छेन्महादेवि कामेश्वरमिति स्मृतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-96/"
+  },
+  {
+   "n": 204,
+   "title": "యోగేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "yogeśvaramāhātmyavarṇanam",
+   "title_deva": "योगेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-97/"
+  },
+  {
+   "n": 205,
+   "title": "తతో గచ్ఛేన్మహాదేవి చండేశ్వరమితి శ్రుతమ్",
+   "title_iast": "tato gacchenmahādevi caṁḍeśvaramiti śrutam",
+   "title_deva": "ततो गच्छेन्महादेवि चंडेश्वरमिति श्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-98/"
+  },
+  {
+   "n": 206,
+   "title": "తతో గచ్ఛేన్మహాదేవి యత్ర చక్రధరః స్థితః",
+   "title_iast": "tato gacchenmahādevi yatra cakradharaḥ sthitaḥ",
+   "title_deva": "ततो गच्छेन्महादेवि यत्र चक्रधरः स्थितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-99/"
+  },
+  {
+   "n": 207,
+   "title": "శాపప్రదానవర్ణనమ్",
+   "title_iast": "śāpapradānavarṇanam",
+   "title_deva": "शापप्रदानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-100/"
+  },
+  {
+   "n": 208,
+   "title": "ఏతస్మిన్నేవ కాలే తు నారదో భగవానృషిః",
+   "title_iast": "etasminneva kāle tu nārado bhagavānṛṣiḥ",
+   "title_deva": "एतस्मिन्नेव काले तु नारदो भगवानृषिः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-101/"
+  },
+  {
+   "n": 209,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవీం కంటకశోధినీమ్",
+   "title_iast": "tato gacchenmahādevi devīṁ kaṁṭakaśodhinīm",
+   "title_deva": "ततो गच्छेन्महादेवि देवीं कंटकशोधिनीम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-102/"
+  },
+  {
+   "n": 210,
+   "title": "కపాలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kapāleśvaramāhātmyavarṇanam",
+   "title_deva": "कपालेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-103/"
+  },
+  {
+   "n": 211,
+   "title": "కోటీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "koṭīśvaramāhātmyavarṇanam",
+   "title_deva": "कोटीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-104/"
+  },
+  {
+   "n": 212,
+   "title": "అథాన్యత్సంప్రవక్ష్యామి రహస్యం స్థానముత్తమమ్",
+   "title_iast": "athānyatsaṁpravakṣyāmi rahasyaṁ sthānamuttamam",
+   "title_deva": "अथान्यत्संप्रवक्ष्यामि रहस्यं स्थानमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-105/"
+  },
+  {
+   "n": 213,
+   "title": "బ్రాహ్మణప్రశంసావర్ణనమ్",
+   "title_iast": "brāhmaṇapraśaṁsāvarṇanam",
+   "title_deva": "ब्राह्मणप्रशंसावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-106/"
+  },
+  {
+   "n": 214,
+   "title": "భక్తిభేదాన్పృథక్తస్య బ్రహ్మణో బాలరూపిణః",
+   "title_iast": "bhaktibhedānpṛthaktasya brahmaṇo bālarūpiṇaḥ",
+   "title_deva": "भक्तिभेदान्पृथक्तस्य ब्रह्मणो बालरूपिणः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-107/"
+  },
+  {
+   "n": 215,
+   "title": "తతో గచ్ఛేన్మహాదేవి వసూనాం లింగముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi vasūnāṁ liṁgamuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि वसूनां लिंगमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-108/"
+  },
+  {
+   "n": 216,
+   "title": "ఽనిలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "'nileśvaramāhātmyavarṇanam",
+   "title_deva": "ऽनिलेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-109/"
+  },
+  {
+   "n": 217,
+   "title": "ప్రభాసేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prabhāseśvaramāhātmyavarṇanam",
+   "title_deva": "प्रभासेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-110/"
+  },
+  {
+   "n": 218,
+   "title": "తతో గచ్ఛేన్మహాదేవి పుష్కరారణ్యముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi puṣkarāraṇyamuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि पुष्करारण्यमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-111/"
+  },
+  {
+   "n": 219,
+   "title": "లక్ష్మణేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "lakṣmaṇeśvaramāhātmyavarṇanam",
+   "title_deva": "लक्ष्मणेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-112/"
+  },
+  {
+   "n": 220,
+   "title": "జానకీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "jānakīśvaramāhātmyavarṇanam",
+   "title_deva": "जानकीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-113/"
+  },
+  {
+   "n": 221,
+   "title": "వామనస్వామిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vāmanasvāmimāhātmyavarṇanam",
+   "title_deva": "वामनस्वामिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-114/"
+  },
+  {
+   "n": 222,
+   "title": "పుష్కరేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "puṣkareśvaramāhātmyavarṇanam",
+   "title_deva": "पुष्करेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-115/"
+  },
+  {
+   "n": 223,
+   "title": "శంఖోదకకుణ్డేశ్వరీగౌరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śaṁkhodakakuṇḍeśvarīgaurīmāhātmyavarṇanam",
+   "title_deva": "शंखोदककुण्डेश्वरीगौरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-116/"
+  },
+  {
+   "n": 224,
+   "title": "భూతనాథేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhūtanātheśvaramāhātmyavarṇanam",
+   "title_deva": "भूतनाथेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-117/"
+  },
+  {
+   "n": 225,
+   "title": "తతో గచ్ఛేన్మహాదేవి గోప్యాదిత్యమనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi gopyādityamanuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि गोप्यादित्यमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-118/"
+  },
+  {
+   "n": 226,
+   "title": "తతో గచ్ఛేన్మహాదేవి మహాదేవీం మహాప్రభామ్",
+   "title_iast": "tato gacchenmahādevi mahādevīṁ mahāprabhām",
+   "title_deva": "ततो गच्छेन्महादेवि महादेवीं महाप्रभाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-119/"
+  },
+  {
+   "n": 227,
+   "title": "తతో గచ్ఛేన్మహాదేవి గోపీశ్వరమనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi gopīśvaramanuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि गोपीश्वरमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-120/"
+  },
+  {
+   "n": 228,
+   "title": "తతో గచ్ఛేన్మహాదేవి రామేశ్వరమనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi rāmeśvaramanuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि रामेश्वरमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-121/"
+  },
+  {
+   "n": 229,
+   "title": "చిత్రాంగదేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "citrāṁgadeśvaramāhātmyavarṇanam",
+   "title_deva": "चित्रांगदेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-122/"
+  },
+  {
+   "n": 230,
+   "title": "రావణేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rāvaṇeśvaramāhātmyavarṇanam",
+   "title_deva": "रावणेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-123/"
+  },
+  {
+   "n": 231,
+   "title": "సౌభాగ్యేశ్వరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "saubhāgyeśvarīmāhātmyavarṇanam",
+   "title_deva": "सौभाग्येश्वरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-124/"
+  },
+  {
+   "n": 232,
+   "title": "పౌలోమోశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "paulomośvaramāhātmyavarṇanam",
+   "title_deva": "पौलोमोश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-125/"
+  },
+  {
+   "n": 233,
+   "title": "శాణ్డిల్యేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śāṇḍilyeśvaramāhātmyavarṇanam",
+   "title_deva": "शाण्डिल्येश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-126/"
+  },
+  {
+   "n": 234,
+   "title": "క్షేమంకరేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kṣemaṁkareśvaramāhātmyavarṇanam",
+   "title_deva": "क्षेमंकरेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-127/"
+  },
+  {
+   "n": 235,
+   "title": "తతో గచ్ఛేన్మహాదేవి సాగరాదిత్యముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi sāgarādityamuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि सागरादित्यमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-128/"
+  },
+  {
+   "n": 236,
+   "title": "తతో గచ్ఛేన్మహాదేవి అక్షమాలేశ్వరం పరమ్",
+   "title_iast": "tato gacchenmahādevi akṣamāleśvaraṁ param",
+   "title_deva": "ततो गच्छेन्महादेवि अक्षमालेश्वरं परम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-129/"
+  },
+  {
+   "n": 237,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవం పాశుపతేశ్వరమ్",
+   "title_iast": "tato gacchenmahādevi devaṁ pāśupateśvaram",
+   "title_deva": "ततो गच्छेन्महादेवि देवं पाशुपतेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-130/"
+  },
+  {
+   "n": 238,
+   "title": "యదేతద్భవతా ప్రోక్తం నాలేశ్వరమితి శ్రుతమ్",
+   "title_iast": "yadetadbhavatā proktaṁ nāleśvaramiti śrutam",
+   "title_deva": "यदेतद्भवता प्रोक्तं नालेश्वरमिति श्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-131/"
+  },
+  {
+   "n": 239,
+   "title": "సిద్ధలక్ష్మీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "siddhalakṣmīmāhātmyavarṇanam",
+   "title_deva": "सिद्धलक्ष्मीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-132/"
+  },
+  {
+   "n": 240,
+   "title": "మహాకాలీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahākālīmāhātmyavarṇanam",
+   "title_deva": "महाकालीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-133/"
+  },
+  {
+   "n": 241,
+   "title": "పుష్కరావర్తకానదీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "puṣkarāvartakānadīmāhātmyavarṇanam",
+   "title_deva": "पुष्करावर्तकानदीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-134/"
+  },
+  {
+   "n": 242,
+   "title": "దుఃఖాన్తకారిణీతిలాగౌరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "duḥkhāntakāriṇītilāgaurīmāhātmyavarṇanam",
+   "title_deva": "दुःखान्तकारिणीतिलागौरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-135/"
+  },
+  {
+   "n": 243,
+   "title": "లోమశేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "lomaśeśvaramāhātmyavarṇanam",
+   "title_deva": "लोमशेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-136/"
+  },
+  {
+   "n": 244,
+   "title": "కంకాలభైరవక్షేత్రపాలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kaṁkālabhairavakṣetrapālamāhātmyavarṇanam",
+   "title_deva": "कंकालभैरवक्षेत्रपालमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-137/"
+  },
+  {
+   "n": 245,
+   "title": "తస్యైవ పశ్చిమే భాగే ధనుపాం పఞ్చకే స్థితమ్",
+   "title_iast": "tasyaiva paścime bhāge dhanupāṁ pañcake sthitam",
+   "title_deva": "तस्यैव पश्चिमे भागे धनुपां पञ्चके स्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-138/"
+  },
+  {
+   "n": 246,
+   "title": "తతో గచ్ఛేన్మహాదేవి చిత్రాదిత్యమనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi citrādityamanuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि चित्रादित्यमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-139/"
+  },
+  {
+   "n": 247,
+   "title": "చిత్రపథానదీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "citrapathānadīmāhātmyavarṇanam",
+   "title_deva": "चित्रपथानदीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-140/"
+  },
+  {
+   "n": 248,
+   "title": "తతో గచ్ఛేన్మహాదేవి కపర్దీ యత్ర సంస్థితః",
+   "title_iast": "tato gacchenmahādevi kapardī yatra saṁsthitaḥ",
+   "title_deva": "ततो गच्छेन्महादेवि कपर्दी यत्र संस्थितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-141/"
+  },
+  {
+   "n": 249,
+   "title": "తతో గచ్ఛేన్మహాదేవి చిత్రేశ్వర మనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi citreśvara manuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि चित्रेश्वर मनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-142/"
+  },
+  {
+   "n": 250,
+   "title": "విచిత్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vicitreśvaramāhātmyavarṇanam",
+   "title_deva": "विचित्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-143/"
+  },
+  {
+   "n": 251,
+   "title": "పుష్కరకుణ్డమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "puṣkarakuṇḍamāhātmyavarṇanam",
+   "title_deva": "पुष्करकुण्डमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-144/"
+  },
+  {
+   "n": 252,
+   "title": "గజకుంభోదరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gajakuṁbhodaramāhātmyavarṇanam",
+   "title_deva": "गजकुंभोदरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-145/"
+  },
+  {
+   "n": 253,
+   "title": "యమేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "yameśvaramāhātmyavarṇanam",
+   "title_deva": "यमेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-146/"
+  },
+  {
+   "n": 254,
+   "title": "బ్రహ్మకుణ్డమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "brahmakuṇḍamāhātmyavarṇanam",
+   "title_deva": "ब्रह्मकुण्डमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-147/"
+  },
+  {
+   "n": 255,
+   "title": "తతో గచ్ఛేన్మహాదేవి కూపం కుండలసంభవమ్",
+   "title_iast": "tato gacchenmahādevi kūpaṁ kuṁḍalasaṁbhavam",
+   "title_deva": "ततो गच्छेन्महादेवि कूपं कुंडलसंभवम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-148/"
+  },
+  {
+   "n": 256,
+   "title": "తతో గచ్ఛేన్మహాదేవి భైరవేశ్వరముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi bhairaveśvaramuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि भैरवेश्वरमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-149/"
+  },
+  {
+   "n": 257,
+   "title": "బ్రహ్మేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "brahmeśvaramāhātmyavarṇanam",
+   "title_deva": "ब्रह्मेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-150/"
+  },
+  {
+   "n": 258,
+   "title": "తస్యైవ దక్షిణే భాగే తృతీయో భైరవః స్థిత",
+   "title_iast": "tasyaiva dakṣiṇe bhāge tṛtīyo bhairavaḥ sthita",
+   "title_deva": "तस्यैव दक्षिणे भागे तृतीयो भैरवः स्थित",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-151/"
+  },
+  {
+   "n": 259,
+   "title": "నారదేశ్వరభైరవమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nāradeśvarabhairavamāhātmyavarṇanam",
+   "title_deva": "नारदेश्वरभैरवमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-152/"
+  },
+  {
+   "n": 260,
+   "title": "హిరణ్యేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "hiraṇyeśvaramāhātmyavarṇanam",
+   "title_deva": "हिरण्येश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-153/"
+  },
+  {
+   "n": 261,
+   "title": "గాయత్రీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gāyatrīśvaramāhātmyavarṇanam",
+   "title_deva": "गायत्रीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-154/"
+  },
+  {
+   "n": 262,
+   "title": "రత్నేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ratneśvaramāhātmyavarṇanam",
+   "title_deva": "रत्नेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-155/"
+  },
+  {
+   "n": 263,
+   "title": "గరుడేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "garuḍeśvaramāhātmyavarṇanam",
+   "title_deva": "गरुडेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-156/"
+  },
+  {
+   "n": 264,
+   "title": "సత్యభామేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "satyabhāmeśvaramāhātmyavarṇanam",
+   "title_deva": "सत्यभामेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-157/"
+  },
+  {
+   "n": 265,
+   "title": "తతో గచ్ఛేన్మహాదేవి అనంగేశ్వరముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi anaṁgeśvaramuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि अनंगेश्वरमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-158/"
+  },
+  {
+   "n": 266,
+   "title": "తతో గచ్ఛేన్మహాదేవి రత్నకుణ్డమనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi ratnakuṇḍamanuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि रत्नकुण्डमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-159/"
+  },
+  {
+   "n": 267,
+   "title": "రైవంతకరాజభట్టారకమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "raivaṁtakarājabhaṭṭārakamāhātmyavarṇanam",
+   "title_deva": "रैवंतकराजभट्टारकमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-160/"
+  },
+  {
+   "n": 268,
+   "title": "తతో గచ్ఛేన్మహాదేవి తస్య దక్షిణతః స్థితమ్",
+   "title_iast": "tato gacchenmahādevi tasya dakṣiṇataḥ sthitam",
+   "title_deva": "ततो गच्छेन्महादेवि तस्य दक्षिणतः स्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-161/"
+  },
+  {
+   "n": 269,
+   "title": "ప్రభాసక్షేత్రమాహాత్మ్యేఽష్టకులేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prabhāsakṣetramāhātmye'ṣṭakuleśvaramāhātmyavarṇanam",
+   "title_deva": "प्रभासक्षेत्रमाहात्म्येऽष्टकुलेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-162/"
+  },
+  {
+   "n": 270,
+   "title": "నాసత్యేశ్వరాశ్వినేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nāsatyeśvarāśvineśvaramāhātmyavarṇanam",
+   "title_deva": "नासत्येश्वराश्विनेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-163/"
+  },
+  {
+   "n": 271,
+   "title": "ప్రభాసక్షేత్రమాహాత్మ్యేఽశ్వినేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prabhāsakṣetramāhātmye'śvineśvaramāhātmyavarṇanam",
+   "title_deva": "प्रभासक्षेत्रमाहात्म्येऽश्विनेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-164/"
+  },
+  {
+   "n": 272,
+   "title": "సావిత్రీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sāvitrīmāhātmyavarṇanam",
+   "title_deva": "सावित्रीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-165/"
+  },
+  {
+   "n": 273,
+   "title": "సావిత్రీవ్రతవిధిపూజనప్రకారోద్యాపనాదికథనమ్",
+   "title_iast": "sāvitrīvratavidhipūjanaprakārodyāpanādikathanam",
+   "title_deva": "सावित्रीव्रतविधिपूजनप्रकारोद्यापनादिकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-166/"
+  },
+  {
+   "n": 274,
+   "title": "మాతృకామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mātṛkāmāhātmyavarṇanam",
+   "title_deva": "मातृकामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-167/"
+  },
+  {
+   "n": 275,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవీం శాలకటంకటామ్",
+   "title_iast": "tato gacchenmahādevi devīṁ śālakaṭaṁkaṭām",
+   "title_deva": "ततो गच्छेन्महादेवि देवीं शालकटंकटाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-168/"
+  },
+  {
+   "n": 276,
+   "title": "తతో గచ్ఛేన్మహాదేవి లింగం వైవస్వతేశ్వరమ్",
+   "title_iast": "tato gacchenmahādevi liṁgaṁ vaivasvateśvaram",
+   "title_deva": "ततो गच्छेन्महादेवि लिंगं वैवस्वतेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-169/"
+  },
+  {
+   "n": 277,
+   "title": "తతో గచ్ఛేన్మహాదేవి తత్ర మాతృగణాన్సుధీః",
+   "title_iast": "tato gacchenmahādevi tatra mātṛgaṇānsudhīḥ",
+   "title_deva": "ततो गच्छेन्महादेवि तत्र मातृगणान्सुधीः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-170/"
+  },
+  {
+   "n": 278,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవీమేకల్లవీరికామ్",
+   "title_iast": "tato gacchenmahādevi devīmekallavīrikām",
+   "title_deva": "ततो गच्छेन्महादेवि देवीमेकल्लवीरिकाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-171/"
+  },
+  {
+   "n": 279,
+   "title": "భరతేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bharateśvaramāhātmyavarṇanam",
+   "title_deva": "भरतेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-172/"
+  },
+  {
+   "n": 280,
+   "title": "కుశకాదిలింగచతుష్టయమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuśakādiliṁgacatuṣṭayamāhātmyavarṇanam",
+   "title_deva": "कुशकादिलिंगचतुष्टयमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-173/"
+  },
+  {
+   "n": 281,
+   "title": "కున్తీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuntīśvaramāhātmyavarṇanam",
+   "title_deva": "कुन्तीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-174/"
+  },
+  {
+   "n": 282,
+   "title": "ప్రభాసక్షేత్రమాహాత్మ్యేఽర్కస్థలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prabhāsakṣetramāhātmye'rkasthalamāhātmyavarṇanam",
+   "title_deva": "प्रभासक्षेत्रमाहात्म्येऽर्कस्थलमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-175/"
+  },
+  {
+   "n": 283,
+   "title": "తతో గచ్ఛేన్మహాదేవి సిద్ధేశ్వరమితి స్మృతమ్",
+   "title_iast": "tato gacchenmahādevi siddheśvaramiti smṛtam",
+   "title_deva": "ततो गच्छेन्महादेवि सिद्धेश्वरमिति स्मृतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-176/"
+  },
+  {
+   "n": 284,
+   "title": "లకులీశమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "lakulīśamāhātmyavarṇanam",
+   "title_deva": "लकुलीशमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-177/"
+  },
+  {
+   "n": 285,
+   "title": "తతో గచ్ఛేన్మహాదేవి తస్మాద్దక్షిణతః స్థితమ్",
+   "title_iast": "tato gacchenmahādevi tasmāddakṣiṇataḥ sthitam",
+   "title_deva": "ततो गच्छेन्महादेवि तस्माद्दक्षिणतः स्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-178/"
+  },
+  {
+   "n": 286,
+   "title": "తతో గచ్ఛేన్మహాదేవి లింగం పాపప్రణాశనమ్",
+   "title_iast": "tato gacchenmahādevi liṁgaṁ pāpapraṇāśanam",
+   "title_deva": "ततो गच्छेन्महादेवि लिंगं पापप्रणाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-179/"
+  },
+  {
+   "n": 287,
+   "title": "తత్రైవ సంస్థితం పశ్యేత్పుష్పదన్తేశ్వరం శుభమ్",
+   "title_iast": "tatraiva saṁsthitaṁ paśyetpuṣpadanteśvaraṁ śubham",
+   "title_deva": "तत्रैव संस्थितं पश्येत्पुष्पदन्तेश्वरं शुभम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-180/"
+  },
+  {
+   "n": 288,
+   "title": "తతో గచ్ఛేన్మహాదేవి క్షేత్రపేశ్వరముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi kṣetrapeśvaramuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि क्षेत्रपेश्वरमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-181/"
+  },
+  {
+   "n": 289,
+   "title": "తతో మాతృగణాన్పశ్యేద్వసునన్దాదినామతః",
+   "title_iast": "tato mātṛgaṇānpaśyedvasunandādināmataḥ",
+   "title_deva": "ततो मातृगणान्पश्येद्वसुनन्दादिनामतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-182/"
+  },
+  {
+   "n": 290,
+   "title": "త్రిసంగమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "trisaṁgamamāhātmyavarṇanam",
+   "title_deva": "त्रिसंगममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-183/"
+  },
+  {
+   "n": 291,
+   "title": "మంకీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "maṁkīśvaramāhātmyavarṇanam",
+   "title_deva": "मंकीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-184/"
+  },
+  {
+   "n": 292,
+   "title": "దేవమాతృగౌరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "devamātṛgaurīmāhātmyavarṇanam",
+   "title_deva": "देवमातृगौरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-185/"
+  },
+  {
+   "n": 293,
+   "title": "స్థానమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sthānamāhātmyavarṇanam",
+   "title_deva": "स्थानमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-186/"
+  },
+  {
+   "n": 294,
+   "title": "ప్రభాసపఞ్చకమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prabhāsapañcakamāhātmyavarṇanam",
+   "title_deva": "प्रभासपञ्चकमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-187/"
+  },
+  {
+   "n": 295,
+   "title": "తతో గచ్ఛేన్మహాదేవి తత్ర స్థానే తు సంస్థితమ్",
+   "title_iast": "tato gacchenmahādevi tatra sthāne tu saṁsthitam",
+   "title_deva": "ततो गच्छेन्महादेवि तत्र स्थाने तु संस्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-188/"
+  },
+  {
+   "n": 296,
+   "title": "తస్యైవ పశ్చిమే భాగే నాతిదూరే వ్యవస్థితమ్",
+   "title_iast": "tasyaiva paścime bhāge nātidūre vyavasthitam",
+   "title_deva": "तस्यैव पश्चिमे भागे नातिदूरे व्यवस्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-189/"
+  },
+  {
+   "n": 297,
+   "title": "మోక్షస్వామిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mokṣasvāmimāhātmyavarṇanam",
+   "title_deva": "मोक्षस्वामिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-190/"
+  },
+  {
+   "n": 298,
+   "title": "తతో గచ్ఛేన్మహాదేవి అజీగర్తేశ్వరం హరమ్",
+   "title_iast": "tato gacchenmahādevi ajīgarteśvaraṁ haram",
+   "title_deva": "ततो गच्छेन्महादेवि अजीगर्तेश्वरं हरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-191/"
+  },
+  {
+   "n": 299,
+   "title": "విశ్వకర్మేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "viśvakarmeśvaramāhātmyavarṇanam",
+   "title_deva": "विश्वकर्मेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-192/"
+  },
+  {
+   "n": 300,
+   "title": "యమేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "yameśvaramāhātmyavarṇanam",
+   "title_deva": "यमेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-193/"
+  },
+  {
+   "n": 301,
+   "title": "ప్రభాసక్షేత్రమాహాత్మ్యేఽమరేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prabhāsakṣetramāhātmye'mareśvaramāhātmyavarṇanam",
+   "title_deva": "प्रभासक्षेत्रमाहात्म्येऽमरेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-194/"
+  },
+  {
+   "n": 302,
+   "title": "వృద్ధప్రభాసమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vṛddhaprabhāsamāhātmyavarṇanam",
+   "title_deva": "वृद्धप्रभासमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-195/"
+  },
+  {
+   "n": 303,
+   "title": "జలప్రభాసమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "jalaprabhāsamāhātmyavarṇanam",
+   "title_deva": "जलप्रभासमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-196/"
+  },
+  {
+   "n": 304,
+   "title": "జమదగ్నీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "jamadagnīśvaramāhātmyavarṇanam",
+   "title_deva": "जमदग्नीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-197/"
+  },
+  {
+   "n": 305,
+   "title": "తతో గచ్ఛేన్మహాదేవి మహాప్రభాసముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi mahāprabhāsamuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि महाप्रभासमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-198/"
+  },
+  {
+   "n": 306,
+   "title": "దక్షయజ్ఞవిధ్వంసనః",
+   "title_iast": "dakṣayajñavidhvaṁsanaḥ",
+   "title_deva": "दक्षयज्ञविध्वंसनः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-199/"
+  },
+  {
+   "n": 307,
+   "title": "కామకుణ్డమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kāmakuṇḍamāhātmyavarṇanam",
+   "title_deva": "कामकुण्डमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-200/"
+  },
+  {
+   "n": 308,
+   "title": "తస్మిన్స్థానే మహాదేవి స్మశానం కాలభైరవమ్",
+   "title_iast": "tasminsthāne mahādevi smaśānaṁ kālabhairavam",
+   "title_deva": "तस्मिन्स्थाने महादेवि स्मशानं कालभैरवम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-201/"
+  },
+  {
+   "n": 309,
+   "title": "రామేశ్వరక్షేత్రమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rāmeśvarakṣetramāhātmyavarṇanam",
+   "title_deva": "रामेश्वरक्षेत्रमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-202/"
+  },
+  {
+   "n": 310,
+   "title": "మంకీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "maṁkīśvaramāhātmyavarṇanam",
+   "title_deva": "मंकीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-203/"
+  },
+  {
+   "n": 311,
+   "title": "సరస్వతీసంగమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sarasvatīsaṁgamamāhātmyavarṇanam",
+   "title_deva": "सरस्वतीसंगममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-204/"
+  },
+  {
+   "n": 312,
+   "title": "శ్రాద్ధానర్హబ్రాహ్మణపరీక్షణకథనమ్",
+   "title_iast": "śrāddhānarhabrāhmaṇaparīkṣaṇakathanam",
+   "title_deva": "श्राद्धानर्हब्राह्मणपरीक्षणकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-205/"
+  },
+  {
+   "n": 313,
+   "title": "శ్రాద్ధవిధివర్ణనమ్",
+   "title_iast": "śrāddhavidhivarṇanam",
+   "title_deva": "श्राद्धविधिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-206/"
+  },
+  {
+   "n": 314,
+   "title": "పాత్రాపాత్రవిచారవర్ణనమ్",
+   "title_iast": "pātrāpātravicāravarṇanam",
+   "title_deva": "पात्रापात्रविचारवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-207/"
+  },
+  {
+   "n": 315,
+   "title": "ఇదం దేయమిదం దేయమితి ప్రోక్తం తు యచ్ఛ్రుతౌ",
+   "title_iast": "idaṁ deyamidaṁ deyamiti proktaṁ tu yacchrutau",
+   "title_deva": "इदं देयमिदं देयमिति प्रोक्तं तु यच्छ्रुतौ",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-208/"
+  },
+  {
+   "n": 316,
+   "title": "మార్కణ్డేయేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mārkaṇḍeyeśvaramāhātmyavarṇanam",
+   "title_deva": "मार्कण्डेयेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-209/"
+  },
+  {
+   "n": 317,
+   "title": "పులస్త్యేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pulastyeśvaramāhātmyavarṇanam",
+   "title_deva": "पुलस्त्येश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-210/"
+  },
+  {
+   "n": 318,
+   "title": "పులస్త్యేశ్వరాత్తతో దేవి నైరృతే ధనుషాష్టకే",
+   "title_iast": "pulastyeśvarāttato devi nairṛte dhanuṣāṣṭake",
+   "title_deva": "पुलस्त्येश्वरात्ततो देवि नैर्ऋते धनुषाष्टके",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-211/"
+  },
+  {
+   "n": 319,
+   "title": "క్రత్వీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kratvīśvaramāhātmyavarṇanam",
+   "title_deva": "क्रत्वीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-212/"
+  },
+  {
+   "n": 320,
+   "title": "కశ్యపేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kaśyapeśvaramāhātmyavarṇanam",
+   "title_deva": "कश्यपेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-213/"
+  },
+  {
+   "n": 321,
+   "title": "ధనుషామష్టభిస్తస్మాదీశానే కశ్యపేశ్వరాత్",
+   "title_iast": "dhanuṣāmaṣṭabhistasmādīśāne kaśyapeśvarāt",
+   "title_deva": "धनुषामष्टभिस्तस्मादीशाने कश्यपेश्वरात्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-214/"
+  },
+  {
+   "n": 322,
+   "title": "కుమారేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kumāreśvaramāhātmyavarṇanam",
+   "title_deva": "कुमारेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-215/"
+  },
+  {
+   "n": 323,
+   "title": "గౌతమేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gautameśvaramāhātmyavarṇanam",
+   "title_deva": "गौतमेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-216/"
+  },
+  {
+   "n": 324,
+   "title": "దేవరాజేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "devarājeśvaramāhātmyavarṇanam",
+   "title_deva": "देवराजेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-217/"
+  },
+  {
+   "n": 325,
+   "title": "తత్రైవ మానవం లింగం మనునా సంప్రతిష్ఠితమ్",
+   "title_iast": "tatraiva mānavaṁ liṁgaṁ manunā saṁpratiṣṭhitam",
+   "title_deva": "तत्रैव मानवं लिंगं मनुना संप्रतिष्ठितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-218/"
+  },
+  {
+   "n": 326,
+   "title": "తస్మాదాగ్నేయకోణే తు మార్కండేయసమీపగమ్",
+   "title_iast": "tasmādāgneyakoṇe tu mārkaṁḍeyasamīpagam",
+   "title_deva": "तस्मादाग्नेयकोणे तु मार्कंडेयसमीपगम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-219/"
+  },
+  {
+   "n": 327,
+   "title": "వృషభధ్వజేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vṛṣabhadhvajeśvaramāhātmyavarṇanam",
+   "title_deva": "वृषभध्वजेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-220/"
+  },
+  {
+   "n": 328,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవం చ ఋణమోచనమ్",
+   "title_iast": "tato gacchenmahādevi devaṁ ca ṛṇamocanam",
+   "title_deva": "ततो गच्छेन्महादेवि देवं च ऋणमोचनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-221/"
+  },
+  {
+   "n": 329,
+   "title": "రుక్మవతీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rukmavatīśvaramāhātmyavarṇanam",
+   "title_deva": "रुक्मवतीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-222/"
+  },
+  {
+   "n": 330,
+   "title": "పురుషోత్తమతీర్థప్రేతతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "puruṣottamatīrthapretatīrthamāhātmyavarṇanam",
+   "title_deva": "पुरुषोत्तमतीर्थप्रेततीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-223/"
+  },
+  {
+   "n": 331,
+   "title": "ఇన్ద్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "indreśvaramāhātmyavarṇanam",
+   "title_deva": "इन्द्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-224/"
+  },
+  {
+   "n": 332,
+   "title": "ఽనరకేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "'narakeśvaramāhātmyavarṇanam",
+   "title_deva": "ऽनरकेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-225/"
+  },
+  {
+   "n": 333,
+   "title": "మేఘేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "megheśvaramāhātmyavarṇanam",
+   "title_deva": "मेघेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-226/"
+  },
+  {
+   "n": 334,
+   "title": "బలభద్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "balabhadreśvaramāhātmyavarṇanam",
+   "title_deva": "बलभद्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-227/"
+  },
+  {
+   "n": 335,
+   "title": "తతో గచ్ఛేన్మహాదేవి మాతృస్థానమనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi mātṛsthānamanuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि मातृस्थानमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-228/"
+  },
+  {
+   "n": 336,
+   "title": "తతో గచ్ఛేన్మహాదేవి గంగాం త్రిపథగామినీమ్",
+   "title_iast": "tato gacchenmahādevi gaṁgāṁ tripathagāminīm",
+   "title_deva": "ततो गच्छेन्महादेवि गंगां त्रिपथगामिनीम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-229/"
+  },
+  {
+   "n": 337,
+   "title": "గణపతిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṇapatimāhātmyavarṇanam",
+   "title_deva": "गणपतिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-230/"
+  },
+  {
+   "n": 338,
+   "title": "తతో గచ్ఛేన్మహాదేవి యత్ర జాంబవతీ నదీ",
+   "title_iast": "tato gacchenmahādevi yatra jāṁbavatī nadī",
+   "title_deva": "ततो गच्छेन्महादेवि यत्र जांबवती नदी",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-231/"
+  },
+  {
+   "n": 339,
+   "title": "పాండవకూపమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pāṁḍavakūpamāhātmyavarṇanam",
+   "title_deva": "पांडवकूपमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-232/"
+  },
+  {
+   "n": 340,
+   "title": "పాండవేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pāṁḍaveśvaramāhātmyavarṇanam",
+   "title_deva": "पांडवेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-233/"
+  },
+  {
+   "n": 341,
+   "title": "దశాశ్వమేధమాహత్మ్యవర్ణనమ్",
+   "title_iast": "daśāśvamedhamāhatmyavarṇanam",
+   "title_deva": "दशाश्वमेधमाहत्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-234/"
+  },
+  {
+   "n": 342,
+   "title": "లింగత్రయమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "liṁgatrayamāhātmyavarṇanam",
+   "title_deva": "लिंगत्रयमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-235/"
+  },
+  {
+   "n": 343,
+   "title": "దుర్వాసాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "durvāsādityamāhātmyavarṇanam",
+   "title_deva": "दुर्वासादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-236/"
+  },
+  {
+   "n": 344,
+   "title": "వజ్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vajreśvaramāhātmyavarṇanam",
+   "title_deva": "वज्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-237/"
+  },
+  {
+   "n": 345,
+   "title": "తతో గచ్ఛేన్మహాదేవి హిరణ్యాం పాపనాశినీమ్",
+   "title_iast": "tato gacchenmahādevi hiraṇyāṁ pāpanāśinīm",
+   "title_deva": "ततो गच्छेन्महादेवि हिरण्यां पापनाशिनीम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-238/"
+  },
+  {
+   "n": 346,
+   "title": "తతో గచ్ఛేన్మహాదేవి హిరణ్యాపార్శ్వతః స్థితమ్",
+   "title_iast": "tato gacchenmahādevi hiraṇyāpārśvataḥ sthitam",
+   "title_deva": "ततो गच्छेन्महादेवि हिरण्यापार्श्वतः स्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-239/"
+  },
+  {
+   "n": 347,
+   "title": "తతో గచ్ఛేన్మహాదేవి బలభద్రం సురేశ్వరమ్",
+   "title_iast": "tato gacchenmahādevi balabhadraṁ sureśvaram",
+   "title_deva": "ततो गच्छेन्महादेवि बलभद्रं सुरेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-240/"
+  },
+  {
+   "n": 348,
+   "title": "తత్రైవ సంస్థితం పశ్యేద్బలభద్రకలేవరమ్",
+   "title_iast": "tatraiva saṁsthitaṁ paśyedbalabhadrakalevaram",
+   "title_deva": "तत्रैव संस्थितं पश्येद्बलभद्रकलेवरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-241/"
+  },
+  {
+   "n": 349,
+   "title": "కుమారీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kumārīmāhātmyavarṇanam",
+   "title_deva": "कुमारीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-242/"
+  },
+  {
+   "n": 350,
+   "title": "మంత్రావలిక్షేత్రపాలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "maṁtrāvalikṣetrapālamāhātmyavarṇanam",
+   "title_deva": "मंत्रावलिक्षेत्रपालमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-243/"
+  },
+  {
+   "n": 351,
+   "title": "విచిత్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vicitreśvaramāhātmyavarṇanam",
+   "title_deva": "विचित्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-244/"
+  },
+  {
+   "n": 352,
+   "title": "బ్రహ్మేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "brahmeśvaramāhātmyavarṇanam",
+   "title_deva": "ब्रह्मेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-245/"
+  },
+  {
+   "n": 353,
+   "title": "నదీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nadīmāhātmyavarṇanam",
+   "title_deva": "नदीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-246/"
+  },
+  {
+   "n": 354,
+   "title": "పింగలాదిత్యపింగాదేవీశుక్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "piṁgalādityapiṁgādevīśukreśvaramāhātmyavarṇanam",
+   "title_deva": "पिंगलादित्यपिंगादेवीशुक्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-247/"
+  },
+  {
+   "n": 355,
+   "title": "తతో గచ్ఛేన్మహాదేవి పూర్వోక్తం బ్రహ్మపూజితమ్",
+   "title_iast": "tato gacchenmahādevi pūrvoktaṁ brahmapūjitam",
+   "title_deva": "ततो गच्छेन्महादेवि पूर्वोक्तं ब्रह्मपूजितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-248/"
+  },
+  {
+   "n": 356,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవం వై సంగమేశ్వరమ్",
+   "title_iast": "tato gacchenmahādevi devaṁ vai saṁgameśvaram",
+   "title_deva": "ततो गच्छेन्महादेवि देवं वै संगमेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-249/"
+  },
+  {
+   "n": 357,
+   "title": "గంగేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṁgeśvaramāhātmyavarṇanam",
+   "title_deva": "गंगेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-250/"
+  },
+  {
+   "n": 358,
+   "title": "తతో గచ్ఛేన్మహాదేవి శంకరాదిత్యముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi śaṁkarādityamuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि शंकरादित्यमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-251/"
+  },
+  {
+   "n": 359,
+   "title": "శఙ్కరనాథమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śaṅkaranāthamāhātmyavarṇanam",
+   "title_deva": "शङ्करनाथमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-252/"
+  },
+  {
+   "n": 360,
+   "title": "గుఫేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gupheśvaramāhātmyavarṇanam",
+   "title_deva": "गुफेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-253/"
+  },
+  {
+   "n": 361,
+   "title": "ఘంటేశ్వరమాహారత్మ్యవర్ణనమ్",
+   "title_iast": "ghaṁṭeśvaramāhāratmyavarṇanam",
+   "title_deva": "घंटेश्वरमाहारत्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-254/"
+  },
+  {
+   "n": 362,
+   "title": "ఋషితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ṛṣitīrthamāhātmyavarṇanam",
+   "title_deva": "ऋषितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-255/"
+  },
+  {
+   "n": 363,
+   "title": "నన్దాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nandādityamāhātmyavarṇanam",
+   "title_deva": "नन्दादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-256/"
+  },
+  {
+   "n": 364,
+   "title": "త్రితకూపమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tritakūpamāhātmyavarṇanam",
+   "title_deva": "त्रितकूपमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-257/"
+  },
+  {
+   "n": 365,
+   "title": "తతో గచ్ఛేన్మహాదేవి శశాపానమితి స్మృతమ్",
+   "title_iast": "tato gacchenmahādevi śaśāpānamiti smṛtam",
+   "title_deva": "ततो गच्छेन्महादेवि शशापानमिति स्मृतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-258/"
+  },
+  {
+   "n": 366,
+   "title": "తతో గచ్ఛేన్మహాదేవి పర్ణాదిత్యం సురేశ్వరమ్",
+   "title_iast": "tato gacchenmahādevi parṇādityaṁ sureśvaram",
+   "title_deva": "ततो गच्छेन्महादेवि पर्णादित्यं सुरेश्वरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-259/"
+  },
+  {
+   "n": 367,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవం సిద్ధేశ్వరం పరమ్",
+   "title_iast": "tato gacchenmahādevi devaṁ siddheśvaraṁ param",
+   "title_deva": "ततो गच्छेन्महादेवि देवं सिद्धेश्वरं परम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-260/"
+  },
+  {
+   "n": 368,
+   "title": "తతో గచ్ఛేన్మహాదేవి యత్ర న్యంకుమతీ నదీ",
+   "title_iast": "tato gacchenmahādevi yatra nyaṁkumatī nadī",
+   "title_deva": "ततो गच्छेन्महादेवि यत्र न्यंकुमती नदी",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-261/"
+  },
+  {
+   "n": 369,
+   "title": "వరాహస్వామిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "varāhasvāmimāhātmyavarṇanam",
+   "title_deva": "वराहस्वामिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-262/"
+  },
+  {
+   "n": 370,
+   "title": "తతో గచ్ఛేన్మహాదేవి చ్ఛాయాలింగమితి స్మృతమ్",
+   "title_iast": "tato gacchenmahādevi cchāyāliṁgamiti smṛtam",
+   "title_deva": "ततो गच्छेन्महादेवि च्छायालिंगमिति स्मृतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-263/"
+  },
+  {
+   "n": 371,
+   "title": "నందినీగుఫామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "naṁdinīguphāmāhātmyavarṇanam",
+   "title_deva": "नंदिनीगुफामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-264/"
+  },
+  {
+   "n": 372,
+   "title": "కనకనందామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kanakanaṁdāmāhātmyavarṇanam",
+   "title_deva": "कनकनंदामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-265/"
+  },
+  {
+   "n": 373,
+   "title": "కుంభీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuṁbhīśvaramāhātmyavarṇanam",
+   "title_deva": "कुंभीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-266/"
+  },
+  {
+   "n": 374,
+   "title": "గఙ్గాపథగంగేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṅgāpathagaṁgeśvaramāhātmyavarṇanam",
+   "title_deva": "गङ्गापथगंगेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-267/"
+  },
+  {
+   "n": 375,
+   "title": "తతో గచ్ఛేన్మహాదేవి చమసోద్భేదముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi camasodbhedamuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि चमसोद्भेदमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-268/"
+  },
+  {
+   "n": 376,
+   "title": "తతో గచ్ఛేన్మహాదేవి విదురస్యాశ్రమం మహత్",
+   "title_iast": "tato gacchenmahādevi vidurasyāśramaṁ mahat",
+   "title_deva": "ततो गच्छेन्महादेवि विदुरस्याश्रमं महत्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-269/"
+  },
+  {
+   "n": 377,
+   "title": "ప్రాచీసరస్వతీమంకీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prācīsarasvatīmaṁkīśvaramāhātmyavarṇanam",
+   "title_deva": "प्राचीसरस्वतीमंकीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-270/"
+  },
+  {
+   "n": 378,
+   "title": "తస్యైవ సంనికృష్టే తు లింగం జ్వాలేశ్వరం స్మృతమ్",
+   "title_iast": "tasyaiva saṁnikṛṣṭe tu liṁgaṁ jvāleśvaraṁ smṛtam",
+   "title_deva": "तस्यैव संनिकृष्टे तु लिंगं ज्वालेश्वरं स्मृतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-271/"
+  },
+  {
+   "n": 379,
+   "title": "త్రిపురలింగత్రయమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tripuraliṁgatrayamāhātmyavarṇanam",
+   "title_deva": "त्रिपुरलिंगत्रयमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-272/"
+  },
+  {
+   "n": 380,
+   "title": "శండతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śaṁḍatīrthamāhātmyavarṇanam",
+   "title_deva": "शंडतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-273/"
+  },
+  {
+   "n": 381,
+   "title": "సూర్యప్రాచీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sūryaprācīmāhātmyavarṇanam",
+   "title_deva": "सूर्यप्राचीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-274/"
+  },
+  {
+   "n": 382,
+   "title": "త్రినేత్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "trinetreśvaramāhātmyavarṇanam",
+   "title_deva": "त्रिनेत्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-275/"
+  },
+  {
+   "n": 383,
+   "title": "దేవికాయాముమాపతిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "devikāyāmumāpatimāhātmyavarṇanam",
+   "title_deva": "देविकायामुमापतिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-276/"
+  },
+  {
+   "n": 384,
+   "title": "భూధరయజ్ఞవరాహమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhūdharayajñavarāhamāhātmyavarṇanam",
+   "title_deva": "भूधरयज्ञवराहमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-277/"
+  },
+  {
+   "n": 385,
+   "title": "తతో గచ్ఛేన్మహాదేవి శూలస్థానమితి శ్రుతమ్",
+   "title_iast": "tato gacchenmahādevi śūlasthānamiti śrutam",
+   "title_deva": "ततो गच्छेन्महादेवि शूलस्थानमिति श्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-278/"
+  },
+  {
+   "n": 386,
+   "title": "చ్యవనాదిత్యమాహాత్మ్యసూర్యాష్టోత్తరశతమ్",
+   "title_iast": "cyavanādityamāhātmyasūryāṣṭottaraśatam",
+   "title_deva": "च्यवनादित्यमाहात्म्यसूर्याष्टोत्तरशतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-279/"
+  },
+  {
+   "n": 387,
+   "title": "తతో గచ్ఛేన్మహాదేవి చ్యవనేశ్వరముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi cyavaneśvaramuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि च्यवनेश्वरमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-280/"
+  },
+  {
+   "n": 388,
+   "title": "కస్యచిత్త్వథ కాలస్య త్రిదశావశ్వినౌ ప్రియే",
+   "title_iast": "kasyacittvatha kālasya tridaśāvaśvinau priye",
+   "title_deva": "कस्यचित्त्वथ कालस्य त्रिदशावश्विनौ प्रिये",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-281/"
+  },
+  {
+   "n": 389,
+   "title": "కృత్యోద్భవమదనామకమహాఽసురోత్పాదనవృత్తాన్తవర్ణనమ్",
+   "title_iast": "kṛtyodbhavamadanāmakamahā'surotpādanavṛttāntavarṇanam",
+   "title_deva": "कृत्योद्भवमदनामकमहाऽसुरोत्पादनवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-282/"
+  },
+  {
+   "n": 390,
+   "title": "చ్యవనేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "cyavaneśvaramāhātmyavarṇanam",
+   "title_deva": "च्यवनेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-283/"
+  },
+  {
+   "n": 391,
+   "title": "సుకన్యాసరోమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sukanyāsaromāhātmyavarṇanam",
+   "title_deva": "सुकन्यासरोमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-284/"
+  },
+  {
+   "n": 392,
+   "title": "న్యంకుమతీమాహాత్మ్యేఽగస్త్యాశ్రమగంగేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nyaṁkumatīmāhātmye'gastyāśramagaṁgeśvaramāhātmyavarṇanam",
+   "title_deva": "न्यंकुमतीमाहात्म्येऽगस्त्याश्रमगंगेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-285/"
+  },
+  {
+   "n": 393,
+   "title": "బాలార్కమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bālārkamāhātmyavarṇanam",
+   "title_deva": "बालार्कमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-286/"
+  },
+  {
+   "n": 394,
+   "title": "ప్రభాసక్షేత్రమాహాత్మ్యేఽజాపాలేశ్వరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prabhāsakṣetramāhātmye'jāpāleśvarīmāhātmyavarṇanam",
+   "title_deva": "प्रभासक्षेत्रमाहात्म्येऽजापालेश्वरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-287/"
+  },
+  {
+   "n": 395,
+   "title": "తతో గచ్ఛేన్మహాదేవి బాలాదిత్యమితి శ్రుతమ్",
+   "title_iast": "tato gacchenmahādevi bālādityamiti śrutam",
+   "title_deva": "ततो गच्छेन्महादेवि बालादित्यमिति श्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-288/"
+  },
+  {
+   "n": 396,
+   "title": "తస్యైవ దక్షిణే దేవి తస్మాద్గవ్యూతిమాత్రతః",
+   "title_iast": "tasyaiva dakṣiṇe devi tasmādgavyūtimātrataḥ",
+   "title_deva": "तस्यैव दक्षिणे देवि तस्माद्गव्यूतिमात्रतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-289/"
+  },
+  {
+   "n": 397,
+   "title": "కుబేరనగరోత్పత్తికుబేరస్థాపితసోమనాథమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuberanagarotpattikuberasthāpitasomanāthamāhātmyavarṇanam",
+   "title_deva": "कुबेरनगरोत्पत्तिकुबेरस्थापितसोमनाथमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-290/"
+  },
+  {
+   "n": 398,
+   "title": "తస్మాదుత్తరభాగే తు స్థానాత్కౌబేరసంజ్ఞకాత్",
+   "title_iast": "tasmāduttarabhāge tu sthānātkauberasaṁjñakāt",
+   "title_deva": "तस्मादुत्तरभागे तु स्थानात्कौबेरसंज्ञकात्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-291/"
+  },
+  {
+   "n": 399,
+   "title": "భద్రకాలీబాలార్కమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhadrakālībālārkamāhātmyavarṇanam",
+   "title_deva": "भद्रकालीबालार्कमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-292/"
+  },
+  {
+   "n": 400,
+   "title": "కుబేరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kuberamāhātmyavarṇanam",
+   "title_deva": "कुबेरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-293/"
+  },
+  {
+   "n": 401,
+   "title": "మాహాత్మ్యేఽజోగన్ధేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "māhātmye'jogandheśvaramāhātmyavarṇanam",
+   "title_deva": "माहात्म्येऽजोगन्धेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-294/"
+  },
+  {
+   "n": 402,
+   "title": "ఇన్ద్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "indreśvaramāhātmyavarṇanam",
+   "title_deva": "इन्द्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-295/"
+  },
+  {
+   "n": 403,
+   "title": "ఋషితోయానదీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ṛṣitoyānadīmāhātmyavarṇanam",
+   "title_deva": "ऋषितोयानदीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-296/"
+  },
+  {
+   "n": 404,
+   "title": "ఋషితోయామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ṛṣitoyāmāhātmyavarṇanam",
+   "title_deva": "ऋषितोयामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-297/"
+  },
+  {
+   "n": 405,
+   "title": "ఋషితోయాపశ్చిమే తు తత్ర గవ్యూతిమాత్రతః",
+   "title_iast": "ṛṣitoyāpaścime tu tatra gavyūtimātrataḥ",
+   "title_deva": "ऋषितोयापश्चिमे तु तत्र गव्यूतिमात्रतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-298/"
+  },
+  {
+   "n": 406,
+   "title": "మాధవమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mādhavamāhātmyavarṇanam",
+   "title_deva": "माधवमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-299/"
+  },
+  {
+   "n": 407,
+   "title": "సంగాలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "saṁgāleśvaramāhātmyavarṇanam",
+   "title_deva": "संगालेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-300/"
+  },
+  {
+   "n": 408,
+   "title": "తతో గచ్ఛేన్మహాదేవి సిద్ధేశ్వరమనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi siddheśvaramanuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि सिद्धेश्वरमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-301/"
+  },
+  {
+   "n": 409,
+   "title": "గంధర్వేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṁdharveśvaramāhātmyavarṇanam",
+   "title_deva": "गंधर्वेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-302/"
+  },
+  {
+   "n": 410,
+   "title": "ఉత్తరేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "uttareśvaramāhātmyavarṇanam",
+   "title_deva": "उत्तरेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-303/"
+  },
+  {
+   "n": 411,
+   "title": "గంగామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṁgāmāhātmyavarṇanam",
+   "title_deva": "गंगामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-304/"
+  },
+  {
+   "n": 412,
+   "title": "నారదాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nāradādityamāhātmyavarṇanam",
+   "title_deva": "नारदादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-305/"
+  },
+  {
+   "n": 413,
+   "title": "తతో గచ్ఛేన్మహాదేవి సాంబాదిత్యమనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi sāṁbādityamanuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि सांबादित्यमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-306/"
+  },
+  {
+   "n": 414,
+   "title": "ప్రభాసక్షేత్రమాహాత్స్యేఽపరనారాయణమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "prabhāsakṣetramāhātsye'paranārāyaṇamāhātmyavarṇanam",
+   "title_deva": "प्रभासक्षेत्रमाहात्स्येऽपरनारायणमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-307/"
+  },
+  {
+   "n": 415,
+   "title": "తస్మాన్నారాయణాత్పూర్వే కించిదీశానసంస్థితమ్",
+   "title_iast": "tasmānnārāyaṇātpūrve kiṁcidīśānasaṁsthitam",
+   "title_deva": "तस्मान्नारायणात्पूर्वे किंचिदीशानसंस्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-308/"
+  },
+  {
+   "n": 416,
+   "title": "తతో గచ్ఛేన్మహాదేవి వినాయకమనుత్తమమ్",
+   "title_iast": "tato gacchenmahādevi vināyakamanuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि विनायकमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-309/"
+  },
+  {
+   "n": 417,
+   "title": "కలంబేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kalaṁbeśvaramāhātmyavarṇanam",
+   "title_deva": "कलंबेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-310/"
+  },
+  {
+   "n": 418,
+   "title": "తతో గచ్ఛేన్మహాదేవి గోపాలస్వామినం హరిమ్",
+   "title_iast": "tato gacchenmahādevi gopālasvāminaṁ harim",
+   "title_deva": "ततो गच्छेन्महादेवि गोपालस्वामिनं हरिम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-311/"
+  },
+  {
+   "n": 419,
+   "title": "బకులస్వామిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bakulasvāmimāhātmyavarṇanam",
+   "title_deva": "बकुलस्वामिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-312/"
+  },
+  {
+   "n": 420,
+   "title": "ఉత్తరార్కమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "uttarārkamāhātmyavarṇanam",
+   "title_deva": "उत्तरार्कमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-313/"
+  },
+  {
+   "n": 421,
+   "title": "ఋషితీర్థసంగమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ṛṣitīrthasaṁgamamāhātmyavarṇanam",
+   "title_deva": "ऋषितीर्थसंगममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-314/"
+  },
+  {
+   "n": 422,
+   "title": "మరుదార్యాదేవీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "marudāryādevīmāhātmyavarṇanam",
+   "title_deva": "मरुदार्यादेवीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-315/"
+  },
+  {
+   "n": 423,
+   "title": "క్షేమాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kṣemādityamāhātmyavarṇanam",
+   "title_deva": "क्षेमादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-316/"
+  },
+  {
+   "n": 424,
+   "title": "కంటకశోషణీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kaṁṭakaśoṣaṇīmāhātmyavarṇanam",
+   "title_deva": "कंटकशोषणीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-317/"
+  },
+  {
+   "n": 425,
+   "title": "తస్యాశ్చ పూర్వదిగ్భాగే నాతిదూరే వ్యవస్థితమ్",
+   "title_iast": "tasyāśca pūrvadigbhāge nātidūre vyavasthitam",
+   "title_deva": "तस्याश्च पूर्वदिग्भागे नातिदूरे व्यवस्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-318/"
+  },
+  {
+   "n": 426,
+   "title": "తతో గచ్ఛేన్మహాదేవి హ్యున్నతస్థానముత్తమమ్",
+   "title_iast": "tato gacchenmahādevi hyunnatasthānamuttamam",
+   "title_deva": "ततो गच्छेन्महादेवि ह्युन्नतस्थानमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-319/"
+  },
+  {
+   "n": 427,
+   "title": "లింగద్వయమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "liṁgadvayamāhātmyavarṇanam",
+   "title_deva": "लिंगद्वयमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-320/"
+  },
+  {
+   "n": 428,
+   "title": "సర్వపాపహరం నౄణామున్నతస్థానవాసినామ్",
+   "title_iast": "sarvapāpaharaṁ nṝṇāmunnatasthānavāsinām",
+   "title_deva": "सर्वपापहरं नॄणामुन्नतस्थानवासिनाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-321/"
+  },
+  {
+   "n": 429,
+   "title": "దుర్గాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "durgādityamāhātmyavarṇanam",
+   "title_deva": "दुर्गादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-322/"
+  },
+  {
+   "n": 430,
+   "title": "క్షేమేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kṣemeśvaramāhātmyavarṇanam",
+   "title_deva": "क्षेमेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-323/"
+  },
+  {
+   "n": 431,
+   "title": "గణనాథమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṇanāthamāhātmyavarṇanam",
+   "title_deva": "गणनाथमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-324/"
+  },
+  {
+   "n": 432,
+   "title": "ఉన్నతస్వామిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "unnatasvāmimāhātmyavarṇanam",
+   "title_deva": "उन्नतस्वामिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-325/"
+  },
+  {
+   "n": 433,
+   "title": "మహాకాలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahākālamāhātmyavarṇanam",
+   "title_deva": "महाकालमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-326/"
+  },
+  {
+   "n": 434,
+   "title": "మహోదయమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahodayamāhātmyavarṇanam",
+   "title_deva": "महोदयमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-327/"
+  },
+  {
+   "n": 435,
+   "title": "తస్మాద్వాయవ్యదిగ్భాగే స్థితం పాపప్రణాశనమ్",
+   "title_iast": "tasmādvāyavyadigbhāge sthitaṁ pāpapraṇāśanam",
+   "title_deva": "तस्माद्वायव्यदिग्भागे स्थितं पापप्रणाशनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-328/"
+  },
+  {
+   "n": 436,
+   "title": "అథోత్తరే దేవకులాత్తత్ర గవ్యూతిమాత్రతః",
+   "title_iast": "athottare devakulāttatra gavyūtimātrataḥ",
+   "title_deva": "अथोत्तरे देवकुलात्तत्र गव्यूतिमात्रतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-329/"
+  },
+  {
+   "n": 437,
+   "title": "తలస్వామిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "talasvāmimāhātmyavarṇanam",
+   "title_deva": "तलस्वामिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-330/"
+  },
+  {
+   "n": 438,
+   "title": "తతో గచ్ఛేన్మహాదేవి కాలమేఘేతి విశ్రుతమ్",
+   "title_iast": "tato gacchenmahādevi kālamegheti viśrutam",
+   "title_deva": "ततो गच्छेन्महादेवि कालमेघेति विश्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-331/"
+  },
+  {
+   "n": 439,
+   "title": "రుక్మిణీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rukmiṇīmāhātmyavarṇanam",
+   "title_deva": "रुक्मिणीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-332/"
+  },
+  {
+   "n": 440,
+   "title": "పింగేశ్వరభద్రామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "piṁgeśvarabhadrāmāhātmyavarṇanam",
+   "title_deva": "पिंगेश्वरभद्रामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-333/"
+  },
+  {
+   "n": 441,
+   "title": "తలస్వామిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "talasvāmimāhātmyavarṇanam",
+   "title_deva": "तलस्वामिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-334/"
+  },
+  {
+   "n": 442,
+   "title": "శంఖావర్త్తతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śaṁkhāvarttatīrthamāhātmyavarṇanam",
+   "title_deva": "शंखावर्त्ततीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-335/"
+  },
+  {
+   "n": 443,
+   "title": "గోష్పదతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "goṣpadatīrthamāhātmyavarṇanam",
+   "title_deva": "गोष्पदतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-336/"
+  },
+  {
+   "n": 444,
+   "title": "నారాయణగృహమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nārāyaṇagṛhamāhātmyavarṇanam",
+   "title_deva": "नारायणगृहमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-337/"
+  },
+  {
+   "n": 445,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవికాతటసంస్థితమ్",
+   "title_iast": "tato gacchenmahādevi devikātaṭasaṁsthitam",
+   "title_deva": "ततो गच्छेन्महादेवि देविकातटसंस्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-338/"
+  },
+  {
+   "n": 446,
+   "title": "తతో గచ్ఛేన్మహాదేవి కూపం త్రైలోక్యవిశ్రుతమ్",
+   "title_iast": "tato gacchenmahādevi kūpaṁ trailokyaviśrutam",
+   "title_deva": "ततो गच्छेन्महादेवि कूपं त्रैलोक्यविश्रुतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-339/"
+  },
+  {
+   "n": 447,
+   "title": "చణ్డీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caṇḍīśvaramāhātmyavarṇanam",
+   "title_deva": "चण्डीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-340/"
+  },
+  {
+   "n": 448,
+   "title": "ఆశాపూరం తతో గచ్ఛేద్విఘ్నరాజమకల్మషమ్",
+   "title_iast": "āśāpūraṁ tato gacchedvighnarājamakalmaṣam",
+   "title_deva": "आशापूरं ततो गच्छेद्विघ्नराजमकल्मषम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-341/"
+  },
+  {
+   "n": 449,
+   "title": "చంద్రేశ్వరకలాకుణ్డతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "caṁdreśvarakalākuṇḍatīrthamāhātmyavarṇanam",
+   "title_deva": "चंद्रेश्वरकलाकुण्डतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-342/"
+  },
+  {
+   "n": 450,
+   "title": "కపిలాషష్ఠీవ్రతవిధానమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kapilāṣaṣṭhīvratavidhānamāhātmyavarṇanam",
+   "title_deva": "कपिलाषष्ठीव्रतविधानमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-343/"
+  },
+  {
+   "n": 451,
+   "title": "జరద్గవేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "jaradgaveśvaramāhātmyavarṇanam",
+   "title_deva": "जरद्गवेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-344/"
+  },
+  {
+   "n": 452,
+   "title": "నలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "naleśvaramāhātmyavarṇanam",
+   "title_deva": "नलेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-345/"
+  },
+  {
+   "n": 453,
+   "title": "కర్కోటకార్కమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karkoṭakārkamāhātmyavarṇanam",
+   "title_deva": "कर्कोटकार्कमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-346/"
+  },
+  {
+   "n": 454,
+   "title": "నారదేశ్వరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nāradeśvarīmāhātmyavarṇanam",
+   "title_deva": "नारदेश्वरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-347/"
+  },
+  {
+   "n": 455,
+   "title": "తతో గచ్ఛేన్మహాదేవి దేవీం మంత్రవిభూషణామ్",
+   "title_iast": "tato gacchenmahādevi devīṁ maṁtravibhūṣaṇām",
+   "title_deva": "ततो गच्छेन्महादेवि देवीं मंत्रविभूषणाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-348/"
+  },
+  {
+   "n": 456,
+   "title": "తతో గచ్ఛేన్మహాదేవి విశ్వేశం దుర్గకూటకమ్",
+   "title_iast": "tato gacchenmahādevi viśveśaṁ durgakūṭakam",
+   "title_deva": "ततो गच्छेन्महादेवि विश्वेशं दुर्गकूटकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-349/"
+  },
+  {
+   "n": 457,
+   "title": "కౌరవేశ్వరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kauraveśvarīmāhātmyavarṇanam",
+   "title_deva": "कौरवेश्वरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-350/"
+  },
+  {
+   "n": 458,
+   "title": "తతో గచ్ఛేన్మహాదేవి సుపర్ణేలాం చ భైరవీమ్",
+   "title_iast": "tato gacchenmahādevi suparṇelāṁ ca bhairavīm",
+   "title_deva": "ततो गच्छेन्महादेवि सुपर्णेलां च भैरवीम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-351/"
+  },
+  {
+   "n": 459,
+   "title": "భల్లతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhallatīrthamāhātmyavarṇanam",
+   "title_deva": "भल्लतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-352/"
+  },
+  {
+   "n": 460,
+   "title": "కర్ద్దమాలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karddamālamāhātmyavarṇanam",
+   "title_deva": "कर्द्दमालमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-353/"
+  },
+  {
+   "n": 461,
+   "title": "గుప్తేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gupteśvaramāhātmyavarṇanam",
+   "title_deva": "गुप्तेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-354/"
+  },
+  {
+   "n": 462,
+   "title": "బహుసువర్ణేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bahusuvarṇeśvaramāhātmyavarṇanam",
+   "title_deva": "बहुसुवर्णेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-355/"
+  },
+  {
+   "n": 463,
+   "title": "శృంగేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śṛṁgeśvaramāhātmyavarṇanam",
+   "title_deva": "शृंगेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-356/"
+  },
+  {
+   "n": 464,
+   "title": "కోటీశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "koṭīśvaramāhātmyavarṇanam",
+   "title_deva": "कोटीश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-357/"
+  },
+  {
+   "n": 465,
+   "title": "తతో గచ్ఛేన్మహాదేవి తీర్థం నారాయణాభిధమ్",
+   "title_iast": "tato gacchenmahādevi tīrthaṁ nārāyaṇābhidham",
+   "title_deva": "ततो गच्छेन्महादेवि तीर्थं नारायणाभिधम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-358/"
+  },
+  {
+   "n": 466,
+   "title": "తతో గచ్ఛేన్మహాదేవి స్థానం శృంగసరోఽభిధమ్",
+   "title_iast": "tato gacchenmahādevi sthānaṁ śṛṁgasaro'bhidham",
+   "title_deva": "ततो गच्छेन्महादेवि स्थानं शृंगसरोऽभिधम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-359/"
+  },
+  {
+   "n": 467,
+   "title": "మార్కండేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mārkaṁḍeśvaramāhātmyavarṇanam",
+   "title_deva": "मार्कंडेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-360/"
+  },
+  {
+   "n": 468,
+   "title": "తతో గచ్ఛేన్మహాదేవి మణ్డూకేశ్వరమిత్యపి",
+   "title_iast": "tato gacchenmahādevi maṇḍūkeśvaramityapi",
+   "title_deva": "ततो गच्छेन्महादेवि मण्डूकेश्वरमित्यपि",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-361/"
+  },
+  {
+   "n": 469,
+   "title": "ఏకాదశరుద్రలింగమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ekādaśarudraliṁgamāhātmyavarṇanam",
+   "title_deva": "एकादशरुद्रलिंगमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-362/"
+  },
+  {
+   "n": 470,
+   "title": "తతో గచ్ఛేన్మహాదేవి హిరణ్యాతటసంస్థితమ్",
+   "title_iast": "tato gacchenmahādevi hiraṇyātaṭasaṁsthitam",
+   "title_deva": "ततो गच्छेन्महादेवि हिरण्यातटसंस्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-363/"
+  },
+  {
+   "n": 471,
+   "title": "సంవర్తేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "saṁvarteśvaramāhātmyavarṇanam",
+   "title_deva": "संवर्तेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-364/"
+  },
+  {
+   "n": 472,
+   "title": "తతో గచ్ఛేన్మహాదేవి హిరణ్యాయాశ్చ ఉత్తరే",
+   "title_iast": "tato gacchenmahādevi hiraṇyāyāśca uttare",
+   "title_deva": "ततो गच्छेन्महादेवि हिरण्यायाश्च उत्तरे",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/prabhasakshetra/adhyaya-365/"
+  },
+  {
+   "n": 473,
+   "title": "దామోదరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dāmodaramāhātmyavarṇanam",
+   "title_deva": "दामोदरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-1/"
+  },
+  {
+   "n": 474,
+   "title": "వస్త్రాపథక్షేత్రభవమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vastrāpathakṣetrabhavamāhātmyavarṇanam",
+   "title_deva": "वस्त्रापथक्षेत्रभवमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-2/"
+  },
+  {
+   "n": 475,
+   "title": "ప్రవరతీర్థానుకీర్తనమ్",
+   "title_iast": "pravaratīrthānukīrtanam",
+   "title_deva": "प्रवरतीर्थानुकीर्तनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-3/"
+  },
+  {
+   "n": 476,
+   "title": "దున్నావిల్లహృద్గిరిస్థానమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dunnāvillahṛdgiristhānamāhātmyavarṇanam",
+   "title_deva": "दुन्नाविल्लहृद्गिरिस्थानमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-4/"
+  },
+  {
+   "n": 477,
+   "title": "గంగేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṁgeśvaramāhātmyavarṇanam",
+   "title_deva": "गंगेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-5/"
+  },
+  {
+   "n": 478,
+   "title": "మృగాననాకథితోభయప్రాక్సప్తజన్మవృత్తాన్తవర్ణనమ్",
+   "title_iast": "mṛgānanākathitobhayaprāksaptajanmavṛttāntavarṇanam",
+   "title_deva": "मृगाननाकथितोभयप्राक्सप्तजन्मवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-6/"
+  },
+  {
+   "n": 479,
+   "title": "స్వర్ణరేఖామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "svarṇarekhāmāhātmyavarṇanam",
+   "title_deva": "स्वर्णरेखामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-7/"
+  },
+  {
+   "n": 480,
+   "title": "ప్రభో సారస్వత మయా శ్రుతం మాహాత్మ్యముత్తమమ్",
+   "title_iast": "prabho sārasvata mayā śrutaṁ māhātmyamuttamam",
+   "title_deva": "प्रभो सारस्वत मया श्रुतं माहात्म्यमुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-8/"
+  },
+  {
+   "n": 481,
+   "title": "భవోత్పత్తివృత్తాంతవర్ణనమ్",
+   "title_iast": "bhavotpattivṛttāṁtavarṇanam",
+   "title_deva": "भवोत्पत्तिवृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-9/"
+  },
+  {
+   "n": 482,
+   "title": "సారస్వతమునికృతోపదేశవర్ణనమ్",
+   "title_iast": "sārasvatamunikṛtopadeśavarṇanam",
+   "title_deva": "सारस्वतमुनिकृतोपदेशवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-10/"
+  },
+  {
+   "n": 483,
+   "title": "సారస్వతస్య విప్రస్య శ్రుత్వా భోజనృపో వచః",
+   "title_iast": "sārasvatasya viprasya śrutvā bhojanṛpo vacaḥ",
+   "title_deva": "सारस्वतस्य विप्रस्य श्रुत्वा भोजनृपो वचः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-11/"
+  },
+  {
+   "n": 484,
+   "title": "విధివర్ణనమ్",
+   "title_iast": "vidhivarṇanam",
+   "title_deva": "विधिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-12/"
+  },
+  {
+   "n": 485,
+   "title": "శ్రాద్ధదానాదిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrāddhadānādimāhātmyavarṇanam",
+   "title_deva": "श्राद्धदानादिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-13/"
+  },
+  {
+   "n": 486,
+   "title": "సోమేశ్వరోత్పత్తివర్ణనమ్",
+   "title_iast": "someśvarotpattivarṇanam",
+   "title_deva": "सोमेश्वरोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-14/"
+  },
+  {
+   "n": 487,
+   "title": "శ్రీదామోదరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrīdāmodaramāhātmyavarṇanam",
+   "title_deva": "श्रीदामोदरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-15/"
+  },
+  {
+   "n": 488,
+   "title": "శివరాత్రిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śivarātrimāhātmyavarṇanam",
+   "title_deva": "शिवरात्रिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-16/"
+  },
+  {
+   "n": 489,
+   "title": "బలియజ్ఞప్రభావవర్ణనమ్",
+   "title_iast": "baliyajñaprabhāvavarṇanam",
+   "title_deva": "बलियज्ञप्रभाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-17/"
+  },
+  {
+   "n": 490,
+   "title": "వస్త్రాపథే మహాక్షేత్రే సమ్ప్రాప్తో వామనో యదా",
+   "title_iast": "vastrāpathe mahākṣetre samprāpto vāmano yadā",
+   "title_deva": "वस्त्रापथे महाक्षेत्रे सम्प्राप्तो वामनो यदा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-18/"
+  },
+  {
+   "n": 491,
+   "title": "గృహీత్వా దక్షిణాం దైత్యాన్మహావిష్ణుర్జనార్దనః",
+   "title_iast": "gṛhītvā dakṣiṇāṁ daityānmahāviṣṇurjanārdanaḥ",
+   "title_deva": "गृहीत्वा दक्षिणां दैत्यान्महाविष्णुर्जनार्दनः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/prabhasa/vastrapatha/adhyaya-19/"
+  }
+ ]
+}

@@ -1,0 +1,976 @@
+{
+ "kanda": "maheshvara-khanda",
+ "en": "Maheshvara Khanda",
+ "te": "మాహేశ్వర ఖండం",
+ "total_adhyayas": 138,
+ "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST (vaidhikadharma.org నుండి); అర్థాలు క్రమంగా చేర్చబడుచున్నవి (మొత్తం 138 అధ్యాయాలు).",
+ "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally (138 adhyayas).",
+ "sargas": [
+  {
+   "n": 1,
+   "title": "లింగప్రాదుర్భావవర్ణనమ్",
+   "title_iast": "liṁgaprādurbhāvavarṇanam",
+   "title_deva": "लिंगप्रादुर्भाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-1/"
+  },
+  {
+   "n": 2,
+   "title": "స్థావరలింగమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sthāvaraliṁgamāhātmyavarṇanam",
+   "title_deva": "स्थावरलिंगमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-2/"
+  },
+  {
+   "n": 3,
+   "title": "తపశ్చర్యార్థమాగమనమ్",
+   "title_iast": "tapaścaryārthamāgamanam",
+   "title_deva": "तपश्चर्यार्थमागमनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-3/"
+  },
+  {
+   "n": 4,
+   "title": "గౌతమాశ్రమాగమనమ్",
+   "title_iast": "gautamāśramāgamanam",
+   "title_deva": "गौतमाश्रमागमनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-4/"
+  },
+  {
+   "n": 5,
+   "title": "బ్రహ్మపుష్కరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "brahmapuṣkaramāhātmyavarṇanam",
+   "title_deva": "ब्रह्मपुष्करमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-5/"
+  },
+  {
+   "n": 6,
+   "title": "పూర్వార్ధేఽరుణాచలస్థవివిధతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pūrvārdhe'ruṇācalasthavividhatīrthamāhātmyavarṇanam",
+   "title_deva": "पूर्वार्धेऽरुणाचलस्थविविधतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-6/"
+  },
+  {
+   "n": 7,
+   "title": "పూర్వార్ధేఽరుణాచలస్థవివిధతీర్థవర్ణనమ్",
+   "title_iast": "pūrvārdhe'ruṇācalasthavividhatīrthavarṇanam",
+   "title_deva": "पूर्वार्धेऽरुणाचलस्थविविधतीर्थवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-7/"
+  },
+  {
+   "n": 8,
+   "title": "శృణు దేవి పురావృత్తం కైలాసే మేరుధన్వినా",
+   "title_iast": "śṛṇu devi purāvṛttaṁ kailāse merudhanvinā",
+   "title_deva": "शृणु देवि पुरावृत्तं कैलासे मेरुधन्विना",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-8/"
+  },
+  {
+   "n": 9,
+   "title": "పూర్వార్ధేఽరుణేశ్వరప్రదక్షిణామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "pūrvārdhe'ruṇeśvarapradakṣiṇāmāhātmyavarṇanam",
+   "title_deva": "पूर्वार्धेऽरुणेश्वरप्रदक्षिणामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-9/"
+  },
+  {
+   "n": 10,
+   "title": "యుద్ధవర్ణనమ్",
+   "title_iast": "yuddhavarṇanam",
+   "title_deva": "युद्धवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-10/"
+  },
+  {
+   "n": 11,
+   "title": "స తు సింహస్థితాం గౌరీం జ్వలంతీ వివిధాయుధామ్",
+   "title_iast": "sa tu siṁhasthitāṁ gaurīṁ jvalaṁtī vividhāyudhām",
+   "title_deva": "स तु सिंहस्थितां गौरीं ज्वलंती विविधायुधाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-11/"
+  },
+  {
+   "n": 12,
+   "title": "శివసమాగమవర్ణనమ్",
+   "title_iast": "śivasamāgamavarṇanam",
+   "title_deva": "शिवसमागमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-12/"
+  },
+  {
+   "n": 13,
+   "title": "సర్వశ్రైష్ఠ్యవరప్రదానవర్ణనమ్",
+   "title_iast": "sarvaśraiṣṭhyavarapradānavarṇanam",
+   "title_deva": "सर्वश्रैष्ठ्यवरप्रदानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-purva/adhyaya-13/"
+  },
+  {
+   "n": 14,
+   "title": "స్థానమాహాత్మ్యప్రస్తావవర్ణనమ్",
+   "title_iast": "sthānamāhātmyaprastāvavarṇanam",
+   "title_deva": "स्थानमाहात्म्यप्रस्ताववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-1/"
+  },
+  {
+   "n": 15,
+   "title": "మహీమణ్డలస్థవివిధశివక్షేత్రవర్ణనమ్",
+   "title_iast": "mahīmaṇḍalasthavividhaśivakṣetravarṇanam",
+   "title_deva": "महीमण्डलस्थविविधशिवक्षेत्रवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-2/"
+  },
+  {
+   "n": 16,
+   "title": "ఉత్తరార్ధేఽరుణాచలాఖ్యరహస్యస్థానప్రశ్నవర్ణనమ్",
+   "title_iast": "uttarārdhe'ruṇācalākhyarahasyasthānapraśnavarṇanam",
+   "title_deva": "उत्तरार्धेऽरुणाचलाख्यरहस्यस्थानप्रश्नवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-3/"
+  },
+  {
+   "n": 17,
+   "title": "ఉతరార్ధేఽరుణాచలస్థానమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "utarārdhe'ruṇācalasthānamāhātmyavarṇanam",
+   "title_deva": "उतरार्धेऽरुणाचलस्थानमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-4/"
+  },
+  {
+   "n": 18,
+   "title": "శుద్ధసత్త్వగుణోపేతో లోకేఽస్మిన్దుర్లభః పుమాన్",
+   "title_iast": "śuddhasattvaguṇopeto loke'smindurlabhaḥ pumān",
+   "title_deva": "शुद्धसत्त्वगुणोपेतो लोकेऽस्मिन्दुर्लभः पुमान्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-5/"
+  },
+  {
+   "n": 19,
+   "title": "పాపాపనోదకప్రాయశ్చిత్తవర్ణనమ్",
+   "title_iast": "pāpāpanodakaprāyaścittavarṇanam",
+   "title_deva": "पापापनोदकप्रायश्चित्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-6/"
+  },
+  {
+   "n": 20,
+   "title": "కామ్యకర్మవర్ణనమ్",
+   "title_iast": "kāmyakarmavarṇanam",
+   "title_deva": "काम्यकर्मवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-7/"
+  },
+  {
+   "n": 21,
+   "title": "అరుణాచలమాహాత్మ్యం విస్తరాత్పరిపృచ్ఛతా",
+   "title_iast": "aruṇācalamāhātmyaṁ vistarātparipṛcchatā",
+   "title_deva": "अरुणाचलमाहात्म्यं विस्तरात्परिपृच्छता",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-8/"
+  },
+  {
+   "n": 22,
+   "title": "శివవిష్ణువివాదవర్ణనమ్",
+   "title_iast": "śivaviṣṇuvivādavarṇanam",
+   "title_deva": "शिवविष्णुविवादवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-9/"
+  },
+  {
+   "n": 23,
+   "title": "తేజోమయలింగప్రాదుర్భావవర్ణనమ్",
+   "title_iast": "tejomayaliṁgaprādurbhāvavarṇanam",
+   "title_deva": "तेजोमयलिंगप्रादुर्भाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-10/"
+  },
+  {
+   "n": 24,
+   "title": "భేజే విరంచిస్తస్యాగ్రం ద్రక్ష్యామీతి కృతోద్యమః",
+   "title_iast": "bheje viraṁcistasyāgraṁ drakṣyāmīti kṛtodyamaḥ",
+   "title_deva": "भेजे विरंचिस्तस्याग्रं द्रक्ष्यामीति कृतोद्यमः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-11/"
+  },
+  {
+   "n": 25,
+   "title": "లింగోపరిభాగశోధనవర్ణనమ్",
+   "title_iast": "liṁgoparibhāgaśodhanavarṇanam",
+   "title_deva": "लिंगोपरिभागशोधनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-12/"
+  },
+  {
+   "n": 26,
+   "title": "కేతకచ్ఛదప్రాథనావర్ణనమ్",
+   "title_iast": "ketakacchadaprāthanāvarṇanam",
+   "title_deva": "केतकच्छदप्राथनावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-13/"
+  },
+  {
+   "n": 27,
+   "title": "శంకరప్రాదుర్భావవర్ణనమ్",
+   "title_iast": "śaṁkaraprādurbhāvavarṇanam",
+   "title_deva": "शंकरप्रादुर्भाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-14/"
+  },
+  {
+   "n": 28,
+   "title": "బ్రహ్మకృతశివస్తుత్యుద్యమవర్ణనమ్",
+   "title_iast": "brahmakṛtaśivastutyudyamavarṇanam",
+   "title_deva": "ब्रह्मकृतशिवस्तुत्युद्यमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-15/"
+  },
+  {
+   "n": 29,
+   "title": "మందిరవర్ణనమ్",
+   "title_iast": "maṁdiravarṇanam",
+   "title_deva": "मंदिरवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-16/"
+  },
+  {
+   "n": 30,
+   "title": "శివపార్వతీవిహారవర్ణనమ్",
+   "title_iast": "śivapārvatīvihāravarṇanam",
+   "title_deva": "शिवपार्वतीविहारवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-17/"
+  },
+  {
+   "n": 31,
+   "title": "గార్హస్థ్యం బిభ్రతీ భర్తురేకామ్రతలవాసినః",
+   "title_iast": "gārhasthyaṁ bibhratī bharturekāmratalavāsinaḥ",
+   "title_deva": "गार्हस्थ्यं बिभ्रती भर्तुरेकाम्रतलवासिनः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-18/"
+  },
+  {
+   "n": 32,
+   "title": "తావత్కుతశ్చిదాకర్ణ్య తత్రస్థాం మహిషాసురః",
+   "title_iast": "tāvatkutaścidākarṇya tatrasthāṁ mahiṣāsuraḥ",
+   "title_deva": "तावत्कुतश्चिदाकर्ण्य तत्रस्थां महिषासुरः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-19/"
+  },
+  {
+   "n": 33,
+   "title": "పార్వతీకృతారుణాచలేశ్వరస్తుతివర్ణనమ్",
+   "title_iast": "pārvatīkṛtāruṇācaleśvarastutivarṇanam",
+   "title_deva": "पार्वतीकृतारुणाचलेश्वरस्तुतिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-20/"
+  },
+  {
+   "n": 34,
+   "title": "తదా బ్రహ్మా సరస్వత్యా మహావిష్ణుశ్చ పద్మయా",
+   "title_iast": "tadā brahmā sarasvatyā mahāviṣṇuśca padmayā",
+   "title_deva": "तदा ब्रह्मा सरस्वत्या महाविष्णुश्च पद्मया",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-21/"
+  },
+  {
+   "n": 35,
+   "title": "వృత్తాంతవర్ణనమ్",
+   "title_iast": "vṛttāṁtavarṇanam",
+   "title_deva": "वृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-22/"
+  },
+  {
+   "n": 36,
+   "title": "కలాధరకాంతిశాలివృత్తాంతవర్ణనమ్",
+   "title_iast": "kalādharakāṁtiśālivṛttāṁtavarṇanam",
+   "title_deva": "कलाधरकांतिशालिवृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-23/"
+  },
+  {
+   "n": 37,
+   "title": "వజ్రాంగదసద్గతివర్ణనమ్",
+   "title_iast": "vajrāṁgadasadgativarṇanam",
+   "title_deva": "वज्रांगदसद्गतिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/arunachala-uttara/adhyaya-24/"
+  },
+  {
+   "n": 38,
+   "title": "సముద్ధరణమ్",
+   "title_iast": "samuddharaṇam",
+   "title_deva": "समुद्धरणम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-1/"
+  },
+  {
+   "n": 39,
+   "title": "దానప్రశంసావర్ణనమ్",
+   "title_iast": "dānapraśaṁsāvarṇanam",
+   "title_deva": "दानप्रशंसावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-2/"
+  },
+  {
+   "n": 40,
+   "title": "ఏవం స్థానాని పుణ్యాని యానియానీహ వై భువి",
+   "title_iast": "evaṁ sthānāni puṇyāni yāniyānīha vai bhuvi",
+   "title_deva": "एवं स्थानानि पुण्यानि यानियानीह वै भुवि",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-3/"
+  },
+  {
+   "n": 41,
+   "title": "దానభేదప్రశంసావర్ణనమ్",
+   "title_iast": "dānabhedapraśaṁsāvarṇanam",
+   "title_deva": "दानभेदप्रशंसावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-4/"
+  },
+  {
+   "n": 42,
+   "title": "నారదప్రశ్నోత్తరకథనమ్",
+   "title_iast": "nāradapraśnottarakathanam",
+   "title_deva": "नारदप्रश्नोत्तरकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-5/"
+  },
+  {
+   "n": 43,
+   "title": "నారీయస్థానప్రతిష్ఠావర్ణనమ్",
+   "title_iast": "nārīyasthānapratiṣṭhāvarṇanam",
+   "title_deva": "नारीयस्थानप्रतिष्ठावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-6/"
+  },
+  {
+   "n": 44,
+   "title": "మహీసాగరమాహాత్మ్యమద్భుతం కీర్తితం త్వయా",
+   "title_iast": "mahīsāgaramāhātmyamadbhutaṁ kīrtitaṁ tvayā",
+   "title_deva": "महीसागरमाहात्म्यमद्भुतं कीर्तितं त्वया",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-7/"
+  },
+  {
+   "n": 45,
+   "title": "నాడీజంఘబకేనోక్తాం వాచమాకర్ణ్యభూపతిః",
+   "title_iast": "nāḍījaṁghabakenoktāṁ vācamākarṇyabhūpatiḥ",
+   "title_deva": "नाडीजंघबकेनोक्तां वाचमाकर्ण्यभूपतिः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-8/"
+  },
+  {
+   "n": 46,
+   "title": "దమనకమాహాత్మ్యమ్",
+   "title_iast": "damanakamāhātmyam",
+   "title_deva": "दमनकमाहात्म्यम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-9/"
+  },
+  {
+   "n": 47,
+   "title": "గృధ్రస్యైతద్వచః శ్రుత్వా దుఃఖవిస్మయసంయుతః",
+   "title_iast": "gṛdhrasyaitadvacaḥ śrutvā duḥkhavismayasaṁyutaḥ",
+   "title_deva": "गृध्रस्यैतद्वचः श्रुत्वा दुःखविस्मयसंयुतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-10/"
+  },
+  {
+   "n": 48,
+   "title": "శాండిల్య ఇతి విఖ్యాతః పురాహమభవం ద్విజః",
+   "title_iast": "śāṁḍilya iti vikhyātaḥ purāhamabhavaṁ dvijaḥ",
+   "title_deva": "शांडिल्य इति विख्यातः पुराहमभवं द्विजः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-11/"
+  },
+  {
+   "n": 49,
+   "title": "శివపూజనమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śivapūjanamāhātmyavarṇanam",
+   "title_deva": "शिवपूजनमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-12/"
+  },
+  {
+   "n": 50,
+   "title": "మహీసాగరసంగమమాహాత్మ్యశతరుద్రియలింగమాహాత్మ్యేన్ద్రద్యుమ్నేశ్వరలింగమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahīsāgarasaṁgamamāhātmyaśatarudriyaliṁgamāhātmyendradyumneśvaraliṁgamāhātmyavarṇanam",
+   "title_deva": "महीसागरसंगममाहात्म्यशतरुद्रियलिंगमाहात्म्येन्द्रद्युम्नेश्वरलिंगमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-13/"
+  },
+  {
+   "n": 51,
+   "title": "వజ్రాంగేతిహాసవర్ణనమ్",
+   "title_iast": "vajrāṁgetihāsavarṇanam",
+   "title_deva": "वज्रांगेतिहासवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-14/"
+  },
+  {
+   "n": 52,
+   "title": "తారకాసురోత్పత్తివర్ణనమ్",
+   "title_iast": "tārakāsurotpattivarṇanam",
+   "title_deva": "तारकासुरोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-15/"
+  },
+  {
+   "n": 53,
+   "title": "తారకాసురదేవేన్ద్రయుద్ధోపక్రమవర్ణనమ్",
+   "title_iast": "tārakāsuradevendrayuddhopakramavarṇanam",
+   "title_deva": "तारकासुरदेवेन्द्रयुद्धोपक्रमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-16/"
+  },
+  {
+   "n": 54,
+   "title": "యమగ్రసనయోర్యుద్ధవర్ణనమ్",
+   "title_iast": "yamagrasanayoryuddhavarṇanam",
+   "title_deva": "यमग्रसनयोर्युद्धवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-17/"
+  },
+  {
+   "n": 55,
+   "title": "ధనాధిపస్య జంభేన సాయకైర్మర్మభేదిభిః",
+   "title_iast": "dhanādhipasya jaṁbhena sāyakairmarmabhedibhiḥ",
+   "title_deva": "धनाधिपस्य जंभेन सायकैर्मर्मभेदिभिः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-18/"
+  },
+  {
+   "n": 56,
+   "title": "కాలనేమీ రుషావిష్టస్తేషాం రూపం న బుద్ధవాన్",
+   "title_iast": "kālanemī ruṣāviṣṭasteṣāṁ rūpaṁ na buddhavān",
+   "title_deva": "कालनेमी रुषाविष्टस्तेषां रूपं न बुद्धवान्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-19/"
+  },
+  {
+   "n": 57,
+   "title": "విష్ణోర్యుద్ధవర్ణనమ్",
+   "title_iast": "viṣṇoryuddhavarṇanam",
+   "title_deva": "विष्णोर्युद्धवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-20/"
+  },
+  {
+   "n": 58,
+   "title": "తమాలోక్య పలాయంతం విధ్వస్తధ్వజకార్ముకమ్",
+   "title_iast": "tamālokya palāyaṁtaṁ vidhvastadhvajakārmukam",
+   "title_deva": "तमालोक्य पलायंतं विध्वस्तध्वजकार्मुकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-21/"
+  },
+  {
+   "n": 59,
+   "title": "పార్వతీజన్మవర్ణనమ్",
+   "title_iast": "pārvatījanmavarṇanam",
+   "title_deva": "पार्वतीजन्मवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-22/"
+  },
+  {
+   "n": 60,
+   "title": "హిమవదాశ్వాసనమ్",
+   "title_iast": "himavadāśvāsanam",
+   "title_deva": "हिमवदाश्वासनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-23/"
+  },
+  {
+   "n": 61,
+   "title": "కామదహనః",
+   "title_iast": "kāmadahanaḥ",
+   "title_deva": "कामदहनः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-24/"
+  },
+  {
+   "n": 62,
+   "title": "శ్రీమహాదేవవైవాహికోత్సావర్ణనమ్",
+   "title_iast": "śrīmahādevavaivāhikotsāvarṇanam",
+   "title_deva": "श्रीमहादेववैवाहिकोत्सावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-25/"
+  },
+  {
+   "n": 63,
+   "title": "హరగౌరీవివాహవర్ణనమ్",
+   "title_iast": "haragaurīvivāhavarṇanam",
+   "title_deva": "हरगौरीविवाहवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-26/"
+  },
+  {
+   "n": 64,
+   "title": "పార్వతీప్రకోపవర్ణనమ్",
+   "title_iast": "pārvatīprakopavarṇanam",
+   "title_deva": "पार्वतीप्रकोपवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-27/"
+  },
+  {
+   "n": 65,
+   "title": "వ్రజంతీ గిరిజాఽపశ్యత్సఖీం మాతుర్మహాప్రభామ్",
+   "title_iast": "vrajaṁtī girijā'paśyatsakhīṁ māturmahāprabhām",
+   "title_deva": "व्रजंती गिरिजाऽपश्यत्सखीं मातुर्महाप्रभाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-28/"
+  },
+  {
+   "n": 66,
+   "title": "వ్రజంతీ గిరిజాఽపశ్యత్సఖీం మాతుర్మహాప్రభామ్",
+   "title_iast": "vrajaṁtī girijā'paśyatsakhīṁ māturmahāprabhām",
+   "title_deva": "व्रजंती गिरिजाऽपश्यत्सखीं मातुर्महाप्रभाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-29/"
+  },
+  {
+   "n": 67,
+   "title": "సేనానీత్వేఽభిషేకవర్ణనమ్",
+   "title_iast": "senānītve'bhiṣekavarṇanam",
+   "title_deva": "सेनानीत्वेऽभिषेकवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-30/"
+  },
+  {
+   "n": 68,
+   "title": "తే చైనం యోజ్య చాశీర్భిరయాచంత వరం గుహమ్",
+   "title_iast": "te cainaṁ yojya cāśīrbhirayācaṁta varaṁ guham",
+   "title_deva": "ते चैनं योज्य चाशीर्भिरयाचंत वरं गुहम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-31/"
+  },
+  {
+   "n": 69,
+   "title": "కుమారకృతతారకవధవర్ణనమ్",
+   "title_iast": "kumārakṛtatārakavadhavarṇanam",
+   "title_deva": "कुमारकृततारकवधवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-32/"
+  },
+  {
+   "n": 70,
+   "title": "తతస్తం గిరివర్ష్మాణం పతితం వసుధోపరి",
+   "title_iast": "tatastaṁ girivarṣmāṇaṁ patitaṁ vasudhopari",
+   "title_deva": "ततस्तं गिरिवर्ष्माणं पतितं वसुधोपरि",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-33/"
+  },
+  {
+   "n": 71,
+   "title": "కుమారేశస్థాపనపూర్వకమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kumāreśasthāpanapūrvakamāhātmyavarṇanam",
+   "title_deva": "कुमारेशस्थापनपूर्वकमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-34/"
+  },
+  {
+   "n": 72,
+   "title": "కుమారేణ స్థాపితోఽత్ర కుమారేశస్తతః సురాః",
+   "title_iast": "kumāreṇa sthāpito'tra kumāreśastataḥ surāḥ",
+   "title_deva": "कुमारेण स्थापितोऽत्र कुमारेशस्ततः सुराः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-35/"
+  },
+  {
+   "n": 73,
+   "title": "పంచలింగోపాఖ్యానసమాప్తివర్ణనమ్",
+   "title_iast": "paṁcaliṁgopākhyānasamāptivarṇanam",
+   "title_deva": "पंचलिंगोपाख्यानसमाप्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-36/"
+  },
+  {
+   "n": 74,
+   "title": "భూసంస్థితివర్ణనమ్",
+   "title_iast": "bhūsaṁsthitivarṇanam",
+   "title_deva": "भूसंस्थितिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-37/"
+  },
+  {
+   "n": 75,
+   "title": "భూమేర్యోజనలక్షే చ కౌరవ్య రవిమండలమ్",
+   "title_iast": "bhūmeryojanalakṣe ca kauravya ravimaṁḍalam",
+   "title_deva": "भूमेर्योजनलक्षे च कौरव्य रविमंडलम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-38/"
+  },
+  {
+   "n": 76,
+   "title": "సహస్రసప్తత్యుచ్ఛ్రాయే పాతాలాని పరస్పరమ్",
+   "title_iast": "sahasrasaptatyucchrāye pātālāni parasparam",
+   "title_deva": "सहस्रसप्तत्युच्छ्राये पातालानि परस्परम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-39/"
+  },
+  {
+   "n": 77,
+   "title": "చతుర్యుగవ్యవస్థావర్ణనమ్",
+   "title_iast": "caturyugavyavasthāvarṇanam",
+   "title_deva": "चतुर्युगव्यवस्थावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-40/"
+  },
+  {
+   "n": 78,
+   "title": "కేచిచ్ఛివం సమాశ్రిత్య విష్ణుమాశ్రిత్య వేధసమ్",
+   "title_iast": "kecicchivaṁ samāśritya viṣṇumāśritya vedhasam",
+   "title_deva": "केचिच्छिवं समाश्रित्य विष्णुमाश्रित्य वेधसम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-41/"
+  },
+  {
+   "n": 79,
+   "title": "ఐతరేయబ్రాహ్మణచరిత్రవర్ణనమ్",
+   "title_iast": "aitareyabrāhmaṇacaritravarṇanam",
+   "title_deva": "ऐतरेयब्राह्मणचरित्रवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-42/"
+  },
+  {
+   "n": 80,
+   "title": "భట్టాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhaṭṭādityamāhātmyavarṇanam",
+   "title_deva": "भट्टादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-43/"
+  },
+  {
+   "n": 81,
+   "title": "దివ్యవర్ణనమ్",
+   "title_iast": "divyavarṇanam",
+   "title_deva": "दिव्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-44/"
+  },
+  {
+   "n": 82,
+   "title": "నందభద్రవణిగ్వృత్తాన్తవర్ణనమ్",
+   "title_iast": "naṁdabhadravaṇigvṛttāntavarṇanam",
+   "title_deva": "नंदभद्रवणिग्वृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-45/"
+  },
+  {
+   "n": 83,
+   "title": "బాలాదిత్యవృత్తాన్తవర్ణనమ్",
+   "title_iast": "bālādityavṛttāntavarṇanam",
+   "title_deva": "बालादित्यवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-46/"
+  },
+  {
+   "n": 84,
+   "title": "శ్రీదేవ్యాఖ్యానవర్ణనమ్",
+   "title_iast": "śrīdevyākhyānavarṇanam",
+   "title_deva": "श्रीदेव्याख्यानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-47/"
+  },
+  {
+   "n": 85,
+   "title": "అథాతః సంప్రవక్ష్యామి సోమనాథమహిం స్ఫుటమ్",
+   "title_iast": "athātaḥ saṁpravakṣyāmi somanāthamahiṁ sphuṭam",
+   "title_deva": "अथातः संप्रवक्ष्यामि सोमनाथमहिं स्फुटम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-48/"
+  },
+  {
+   "n": 86,
+   "title": "అత్యద్భుతాని తీర్థాని లింగాని చ మహామునే",
+   "title_iast": "atyadbhutāni tīrthāni liṁgāni ca mahāmune",
+   "title_deva": "अत्यद्भुतानि तीर्थानि लिंगानि च महामुने",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-49/"
+  },
+  {
+   "n": 87,
+   "title": "పారలౌకికగత్యాదివర్ణనమ్",
+   "title_iast": "pāralaukikagatyādivarṇanam",
+   "title_deva": "पारलौकिकगत्यादिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-50/"
+  },
+  {
+   "n": 88,
+   "title": "యదేతత్పరలోకస్య స్వరూపం వ్యాహృతం త్వయా",
+   "title_iast": "yadetatparalokasya svarūpaṁ vyāhṛtaṁ tvayā",
+   "title_deva": "यदेतत्परलोकस्य स्वरूपं व्याहृतं त्वया",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-51/"
+  },
+  {
+   "n": 89,
+   "title": "కోటితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "koṭitīrthamāhātmyavarṇanam",
+   "title_deva": "कोटितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-52/"
+  },
+  {
+   "n": 90,
+   "title": "కోటితీర్థాదిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "koṭitīrthādimāhātmyavarṇanam",
+   "title_deva": "कोटितीर्थादिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-53/"
+  },
+  {
+   "n": 91,
+   "title": "నారదమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nāradamāhātmyavarṇanam",
+   "title_deva": "नारदमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-54/"
+  },
+  {
+   "n": 92,
+   "title": "గౌతమేశ్వరమాహాత్మ్యసవిస్తరయోగలక్షణవర్ణనమ్",
+   "title_iast": "gautameśvaramāhātmyasavistarayogalakṣaṇavarṇanam",
+   "title_deva": "गौतमेश्वरमाहात्म्यसविस्तरयोगलक्षणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-55/"
+  },
+  {
+   "n": 93,
+   "title": "గర్భశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "garbhaśvaramāhātmyavarṇanam",
+   "title_deva": "गर्भश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-56/"
+  },
+  {
+   "n": 94,
+   "title": "నీలకంఠమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nīlakaṁṭhamāhātmyavarṇanam",
+   "title_deva": "नीलकंठमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-57/"
+  },
+  {
+   "n": 95,
+   "title": "గుప్తక్షేత్రమిదం కస్మాత్కస్మాద్గుప్తం చ నారద",
+   "title_iast": "guptakṣetramidaṁ kasmātkasmādguptaṁ ca nārada",
+   "title_deva": "गुप्तक्षेत्रमिदं कस्मात्कस्माद्गुप्तं च नारद",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-58/"
+  },
+  {
+   "n": 96,
+   "title": "అత్యద్భుతమిదం సూత గుప్తక్షేత్రస్య పావనమ్",
+   "title_iast": "atyadbhutamidaṁ sūta guptakṣetrasya pāvanam",
+   "title_deva": "अत्यद्भुतमिदं सूत गुप्तक्षेत्रस्य पावनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-59/"
+  },
+  {
+   "n": 97,
+   "title": "బర్బరీకోత్పత్తివర్ణనమ్",
+   "title_iast": "barbarīkotpattivarṇanam",
+   "title_deva": "बर्बरीकोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-60/"
+  },
+  {
+   "n": 98,
+   "title": "తతో ఘటోత్కచో ముక్త్వా తత్ర కామకటంకటామ్",
+   "title_iast": "tato ghaṭotkaco muktvā tatra kāmakaṭaṁkaṭām",
+   "title_deva": "ततो घटोत्कचो मुक्त्वा तत्र कामकटंकटाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-61/"
+  },
+  {
+   "n": 99,
+   "title": "సాధనవర్ణనమ్",
+   "title_iast": "sādhanavarṇanam",
+   "title_deva": "साधनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-62/"
+  },
+  {
+   "n": 100,
+   "title": "కార్యసిద్ధివర్ణనమ్",
+   "title_iast": "kāryasiddhivarṇanam",
+   "title_deva": "कार्यसिद्धिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-63/"
+  },
+  {
+   "n": 101,
+   "title": "భీమేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhīmeśvaramāhātmyavarṇanam",
+   "title_deva": "भीमेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-64/"
+  },
+  {
+   "n": 102,
+   "title": "వత్సేశ్వరీదుర్గాదేవీగయత్రాడామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vatseśvarīdurgādevīgayatrāḍāmāhātmyavarṇanam",
+   "title_deva": "वत्सेश्वरीदुर्गादेवीगयत्राडामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-65/"
+  },
+  {
+   "n": 103,
+   "title": "తతస్త్రయోదశే వర్షే వ్యతీతే సమయే తదా",
+   "title_iast": "tatastrayodaśe varṣe vyatīte samaye tadā",
+   "title_deva": "ततस्त्रयोदशे वर्षे व्यतीते समये तदा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kaumarika/adhyaya-66/"
+  },
+  {
+   "n": 104,
+   "title": "శ్లోకమ్ అనుగచ్ఛ",
+   "title_iast": "ślokam anugaccha",
+   "title_deva": "श्लोकम् अनुगच्छ",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-1/"
+  },
+  {
+   "n": 105,
+   "title": "సతీదేవ్యాగమనవర్ణనమ్",
+   "title_iast": "satīdevyāgamanavarṇanam",
+   "title_deva": "सतीदेव्यागमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-2/"
+  },
+  {
+   "n": 106,
+   "title": "వీరభద్రప్రాదుర్భావవర్ణనమ్",
+   "title_iast": "vīrabhadraprādurbhāvavarṇanam",
+   "title_deva": "वीरभद्रप्रादुर्भाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-3/"
+  },
+  {
+   "n": 107,
+   "title": "యుద్ధవర్ణనమ్",
+   "title_iast": "yuddhavarṇanam",
+   "title_deva": "युद्धवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-4/"
+  },
+  {
+   "n": 108,
+   "title": "శివభక్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śivabhaktimāhātmyavarṇanam",
+   "title_deva": "शिवभक्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-5/"
+  },
+  {
+   "n": 109,
+   "title": "బ్రహ్మాదిశాపవృత్తాన్తవర్ణనమ్",
+   "title_iast": "brahmādiśāpavṛttāntavarṇanam",
+   "title_deva": "ब्रह्मादिशापवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-6/"
+  },
+  {
+   "n": 110,
+   "title": "తదా చ తే సురాః సర్వ ఋషయోపి భయాన్వితాః",
+   "title_iast": "tadā ca te surāḥ sarva ṛṣayopi bhayānvitāḥ",
+   "title_deva": "तदा च ते सुराः सर्व ऋषयोपि भयान्विताः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-7/"
+  },
+  {
+   "n": 111,
+   "title": "తస్కరోఽపి పురా బ్రహ్మన్సర్వధర్మబాహిష్కృతః",
+   "title_iast": "taskaro'pi purā brahmansarvadharmabāhiṣkṛtaḥ",
+   "title_deva": "तस्करोऽपि पुरा ब्रह्मन्सर्वधर्मबाहिष्कृतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-8/"
+  },
+  {
+   "n": 112,
+   "title": "ఏకదా తు సభామధ్య ఆస్థితో దేవరాట్ స్వయమ్",
+   "title_iast": "ekadā tu sabhāmadhya āsthito devarāṭ svayam",
+   "title_deva": "एकदा तु सभामध्य आस्थितो देवराट् स्वयम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-9/"
+  },
+  {
+   "n": 113,
+   "title": "శివకృతవిషభక్షణవృత్తాన్తవర్ణనమ్",
+   "title_iast": "śivakṛtaviṣabhakṣaṇavṛttāntavarṇanam",
+   "title_deva": "शिवकृतविषभक्षणवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-10/"
+  },
+  {
+   "n": 114,
+   "title": "ప్రతిపక్షే చతుర్థ్యాం తు పూజనీయో గణాధిపః",
+   "title_iast": "pratipakṣe caturthyāṁ tu pūjanīyo gaṇādhipaḥ",
+   "title_deva": "प्रतिपक्षे चतुर्थ्यां तु पूजनीयो गणाधिपः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-11/"
+  },
+  {
+   "n": 115,
+   "title": "దేవానామమృతప్రాశనవర్ణనమ్",
+   "title_iast": "devānāmamṛtaprāśanavarṇanam",
+   "title_deva": "देवानाममृतप्राशनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-12/"
+  },
+  {
+   "n": 116,
+   "title": "దేవాసురసంగ్రామవర్ణనమ్",
+   "title_iast": "devāsurasaṁgrāmavarṇanam",
+   "title_deva": "देवासुरसंग्रामवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-13/"
+  },
+  {
+   "n": 117,
+   "title": "మృతదైత్యసంజీవనవర్ణనమ్",
+   "title_iast": "mṛtadaityasaṁjīvanavarṇanam",
+   "title_deva": "मृतदैत्यसंजीवनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-14/"
+  },
+  {
+   "n": 118,
+   "title": "నహుషశాపయయాతిభూషణ్యవృత్తాన్తవర్ణనమ్",
+   "title_iast": "nahuṣaśāpayayātibhūṣaṇyavṛttāntavarṇanam",
+   "title_deva": "नहुषशापययातिभूषण्यवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-15/"
+  },
+  {
+   "n": 119,
+   "title": "స్వదేహవిసర్జనమ్",
+   "title_iast": "svadehavisarjanam",
+   "title_deva": "स्वदेहविसर्जनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-16/"
+  },
+  {
+   "n": 120,
+   "title": "సంగ్రామోద్యోగవర్ణనమ్",
+   "title_iast": "saṁgrāmodyogavarṇanam",
+   "title_deva": "संग्रामोद्योगवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-17/"
+  },
+  {
+   "n": 121,
+   "title": "కర్మణా పరిభూతో హి మహేంద్రో గురుమబ్రవీత్",
+   "title_iast": "karmaṇā paribhūto hi maheṁdro gurumabravīt",
+   "title_deva": "कर्मणा परिभूतो हि महेंद्रो गुरुमब्रवीत्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-18/"
+  },
+  {
+   "n": 122,
+   "title": "ఏవం సంబోధితో దైత్యో గురుణా భార్గవేణ హి",
+   "title_iast": "evaṁ saṁbodhito daityo guruṇā bhārgaveṇa hi",
+   "title_deva": "एवं संबोधितो दैत्यो गुरुणा भार्गवेण हि",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-19/"
+  },
+  {
+   "n": 123,
+   "title": "శ్రీభవాన్యుత్పత్తివర్ణనమ్",
+   "title_iast": "śrībhavānyutpattivarṇanam",
+   "title_deva": "श्रीभवान्युत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-20/"
+  },
+  {
+   "n": 124,
+   "title": "వర్ద్ధమానా తదా సాధ్వీ రరాజ ప్రతివాసరమ్",
+   "title_iast": "varddhamānā tadā sādhvī rarāja prativāsaram",
+   "title_deva": "वर्द्धमाना तदा साध्वी रराज प्रतिवासरम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-21/"
+  },
+  {
+   "n": 125,
+   "title": "ఏవముక్తాస్తదా దేవా విష్ణునా పరమేష్ఠినా",
+   "title_iast": "evamuktāstadā devā viṣṇunā parameṣṭhinā",
+   "title_deva": "एवमुक्तास्तदा देवा विष्णुना परमेष्ठिना",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-22/"
+  },
+  {
+   "n": 126,
+   "title": "వివాహవర్ణనమ్",
+   "title_iast": "vivāhavarṇanam",
+   "title_deva": "विवाहवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-23/"
+  },
+  {
+   "n": 127,
+   "title": "నివాసస్థానకరణవర్ణనమ్",
+   "title_iast": "nivāsasthānakaraṇavarṇanam",
+   "title_deva": "निवासस्थानकरणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-24/"
+  },
+  {
+   "n": 128,
+   "title": "శివపార్వతీవివాహవర్ణనమ్",
+   "title_iast": "śivapārvatīvivāhavarṇanam",
+   "title_deva": "शिवपार्वतीविवाहवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-25/"
+  },
+  {
+   "n": 129,
+   "title": "శివపార్వతివివాహమంగలోత్సవవర్ణనమ్",
+   "title_iast": "śivapārvativivāhamaṁgalotsavavarṇanam",
+   "title_deva": "शिवपार्वतिविवाहमंगलोत्सववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-26/"
+  },
+  {
+   "n": 130,
+   "title": "కార్త్తికేయస్వామికుమారోత్పత్తివర్ణనమ్",
+   "title_iast": "kārttikeyasvāmikumārotpattivarṇanam",
+   "title_deva": "कार्त्तिकेयस्वामिकुमारोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-27/"
+  },
+  {
+   "n": 131,
+   "title": "కుమారం స్వాంకమారోప్య ఉవాచ జగదీశ్వరః",
+   "title_iast": "kumāraṁ svāṁkamāropya uvāca jagadīśvaraḥ",
+   "title_deva": "कुमारं स्वांकमारोप्य उवाच जगदीश्वरः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-28/"
+  },
+  {
+   "n": 132,
+   "title": "ఉభే సేనే తదా తేషాం సురాణాం చామరద్విషామ్",
+   "title_iast": "ubhe sene tadā teṣāṁ surāṇāṁ cāmaradviṣām",
+   "title_deva": "उभे सेने तदा तेषां सुराणां चामरद्विषाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-29/"
+  },
+  {
+   "n": 133,
+   "title": "స్వామికార్త్తికేయవిజయోత్సవవర్ణనమ్",
+   "title_iast": "svāmikārttikeyavijayotsavavarṇanam",
+   "title_deva": "स्वामिकार्त्तिकेयविजयोत्सववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-30/"
+  },
+  {
+   "n": 134,
+   "title": "హత్వా తం తారకం సంఖ్యే కుమారేణ మహాత్మనా",
+   "title_iast": "hatvā taṁ tārakaṁ saṁkhye kumāreṇa mahātmanā",
+   "title_deva": "हत्वा तं तारकं संख्ये कुमारेण महात्मना",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-31/"
+  },
+  {
+   "n": 135,
+   "title": "కాలదహనవృత్తాన్తవర్ణనమ్",
+   "title_iast": "kāladahanavṛttāntavarṇanam",
+   "title_deva": "कालदहनवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-32/"
+  },
+  {
+   "n": 136,
+   "title": "శివరాత్రివ్రతమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śivarātrivratamāhātmyavarṇanam",
+   "title_deva": "शिवरात्रिव्रतमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-33/"
+  },
+  {
+   "n": 137,
+   "title": "తపోవనగమనవర్ణనమ్",
+   "title_iast": "tapovanagamanavarṇanam",
+   "title_deva": "तपोवनगमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-34/"
+  },
+  {
+   "n": 138,
+   "title": "వనం గతే మహాదేవే గిరిజా విరహాతురా",
+   "title_iast": "vanaṁ gate mahādeve girijā virahāturā",
+   "title_deva": "वनं गते महादेवे गिरिजा विरहातुरा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/maheshvara/kedara/adhyaya-35/"
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "epics": {
+  "skanda-mahapuranam": {
+   "id": "skanda-mahapuranam",
+   "name": {
+    "en": "Skanda Mahapurana",
+    "te": "స్కంద మహా పురాణం"
+   },
+   "author": {
+    "en": "Veda Vyasa",
+    "te": "వేద వ్యాసుడు"
+   },
+   "unitLabel": {
+    "en": "Khanda",
+    "te": "ఖండం"
+   },
+   "labels": {
+    "sargaWord": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "sargaLabel": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "allSargas": {
+     "en": "All chapters",
+     "te": "అన్ని అధ్యాయాలు"
+    },
+    "browseSargas": {
+     "en": "Read by chapter",
+     "te": "అధ్యాయాలు చదవండి"
+    },
+    "sargasAvailable": {
+     "en": "chapters · read the whole khanda",
+     "te": "అధ్యాయాలు · పూర్తి ఖండాన్ని చదవండి"
+    },
+    "talePick": {
+     "en": "Open a chapter to read its tale as a flowing story.",
+     "te": "ఒక అధ్యాయాన్ని తెరిచి దాని కథను చదవండి."
+    },
+    "prevSarga": {
+     "en": "← Prev chapter",
+     "te": "← మునుపటి అధ్యాయం"
+    },
+    "nextSarga": {
+     "en": "Next chapter →",
+     "te": "తరువాతి అధ్యాయం →"
+    }
+   },
+   "sections": [
+    {
+     "id": "maheshvara-khanda",
+     "n": 1,
+     "name": {
+      "en": "Maheshvara Khanda",
+      "te": "మాహేశ్వర ఖండం"
+     },
+     "title": {
+      "en": "Shiva's greatness — Arunachala, Kedara and Kaumarika",
+      "te": "శివ మహిమ — అరుణాచలం, కేదారం, కౌమారిక"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "vaishnava-khanda",
+     "n": 2,
+     "name": {
+      "en": "Vaishnava Khanda",
+      "te": "వైష్ణవ ఖండం"
+     },
+     "title": {
+      "en": "Vishnu's pilgrimage places — Ayodhya to Venkatachala",
+      "te": "విష్ణు క్షేత్రాలు — అయోధ్య నుండి వేంకటాచలం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "brahma-khanda",
+     "n": 3,
+     "name": {
+      "en": "Brahma Khanda",
+      "te": "బ్రహ్మ ఖండం"
+     },
+     "title": {
+      "en": "Dharma-aranya, Setu and the Brahmottara tales",
+      "te": "ధర్మారణ్యం, సేతు, బ్రహ్మోత్తర కథలు"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "kashi-khanda",
+     "n": 4,
+     "name": {
+      "en": "Kashi Khanda",
+      "te": "కాశీ ఖండం"
+     },
+     "title": {
+      "en": "The glory of Kashi, city of Shiva",
+      "te": "శివ నగరి కాశీ మహిమ"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "avanti-khanda",
+     "n": 5,
+     "name": {
+      "en": "Avanti Khanda",
+      "te": "అవంతి ఖండం"
+     },
+     "title": {
+      "en": "Ujjain's Mahakala and the eighty-four lingas",
+      "te": "ఉజ్జయిని మహాకాలుడు, చతురశీతి లింగాలు"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "nagara-khanda",
+     "n": 6,
+     "name": {
+      "en": "Nagara Khanda",
+      "te": "నాగర ఖండం"
+     },
+     "title": {
+      "en": "The sacred city and its tirthas",
+      "te": "పుణ్య నగరం, తీర్థాలు"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "prabhasa-khanda",
+     "n": 7,
+     "name": {
+      "en": "Prabhasa Khanda",
+      "te": "ప్రభాస ఖండం"
+     },
+     "title": {
+      "en": "Prabhasa, Dvaraka, Arbuda and Vastrapatha",
+      "te": "ప్రభాస, ద్వారక, అర్బుద, వస్త్రాపథ క్షేత్రాలు"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "ambika-khanda",
+     "n": 8,
+     "name": {
+      "en": "Ambika Khanda",
+      "te": "అంబికా ఖండం"
+     },
+     "title": {
+      "en": "The Goddess's khanda",
+      "te": "అంబికా ఖండం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    }
+   ]
+  }
+ }
+}

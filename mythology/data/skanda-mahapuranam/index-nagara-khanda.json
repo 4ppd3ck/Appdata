@@ -1,0 +1,1963 @@
+{
+ "kanda": "nagara-khanda",
+ "en": "Nagara Khanda",
+ "te": "నాగర ఖండం",
+ "total_adhyayas": 279,
+ "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST (vaidhikadharma.org నుండి); అర్థాలు క్రమంగా చేర్చబడుచున్నవి (మొత్తం 279 అధ్యాయాలు).",
+ "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally (279 adhyayas).",
+ "sargas": [
+  {
+   "n": 1,
+   "title": "లింగోత్పత్తివర్ణనమ్",
+   "title_iast": "liṁgotpattivarṇanam",
+   "title_deva": "लिंगोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-1/"
+  },
+  {
+   "n": 2,
+   "title": "త్రిశంకువసిష్ఠసంవాదవర్ణనమ్",
+   "title_iast": "triśaṁkuvasiṣṭhasaṁvādavarṇanam",
+   "title_deva": "त्रिशंकुवसिष्ठसंवादवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-2/"
+  },
+  {
+   "n": 3,
+   "title": "హరిశ్చన్ద్రరాజ్యోపలంభః",
+   "title_iast": "hariścandrarājyopalaṁbhaḥ",
+   "title_deva": "हरिश्चन्द्रराज्योपलंभः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-3/"
+  },
+  {
+   "n": 4,
+   "title": "విశ్వామిత్రకృతత్రిశంకుయాజనోపక్రమవర్ణనమ్",
+   "title_iast": "viśvāmitrakṛtatriśaṁkuyājanopakramavarṇanam",
+   "title_deva": "विश्वामित्रकृतत्रिशंकुयाजनोपक्रमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-4/"
+  },
+  {
+   "n": 5,
+   "title": "ద్వాదశవార్షికయజ్ఞకరణమ్",
+   "title_iast": "dvādaśavārṣikayajñakaraṇam",
+   "title_deva": "द्वादशवार्षिकयज्ञकरणम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-5/"
+  },
+  {
+   "n": 6,
+   "title": "విశ్వామిత్రవరలబ్ధిర్",
+   "title_iast": "viśvāmitravaralabdhir",
+   "title_deva": "विश्वामित्रवरलब्धिर्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-6/"
+  },
+  {
+   "n": 7,
+   "title": "త్రిశంకుస్వర్గప్రాప్తివర్ణనమ్",
+   "title_iast": "triśaṁkusvargaprāptivarṇanam",
+   "title_deva": "त्रिशंकुस्वर्गप्राप्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-7/"
+  },
+  {
+   "n": 8,
+   "title": "ఏవం స్వర్గమనుప్రాప్తే త్రిశంకౌ నృపసత్తమే",
+   "title_iast": "evaṁ svargamanuprāpte triśaṁkau nṛpasattame",
+   "title_deva": "एवं स्वर्गमनुप्राप्ते त्रिशंकौ नृपसत्तमे",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-8/"
+  },
+  {
+   "n": 9,
+   "title": "నాగబిలపూర్తివర్ణనమ్",
+   "title_iast": "nāgabilapūrtivarṇanam",
+   "title_deva": "नागबिलपूर्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-9/"
+  },
+  {
+   "n": 10,
+   "title": "చమత్కారనృపతికుష్ఠనివృత్తివృత్తాన్తవర్ణనమ్",
+   "title_iast": "camatkāranṛpatikuṣṭhanivṛttivṛttāntavarṇanam",
+   "title_deva": "चमत्कारनृपतिकुष्ठनिवृत्तिवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-10/"
+  },
+  {
+   "n": 11,
+   "title": "చమత్కారః కథం రాజా ముక్తః కుష్ఠేన సూతజ",
+   "title_iast": "camatkāraḥ kathaṁ rājā muktaḥ kuṣṭhena sūtaja",
+   "title_deva": "चमत्कारः कथं राजा मुक्तः कुष्ठेन सूतज",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-11/"
+  },
+  {
+   "n": 12,
+   "title": "నిజపుత్రాదీనాముపదేశకరణవర్ణనమ్",
+   "title_iast": "nijaputrādīnāmupadeśakaraṇavarṇanam",
+   "title_deva": "निजपुत्रादीनामुपदेशकरणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-12/"
+  },
+  {
+   "n": 13,
+   "title": "ఏవం నివేద్య పుత్రాణాం స రాజ్యం పృథివీపతిః",
+   "title_iast": "evaṁ nivedya putrāṇāṁ sa rājyaṁ pṛthivīpatiḥ",
+   "title_deva": "एवं निवेद्य पुत्राणां स राज्यं पृथिवीपतिः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-13/"
+  },
+  {
+   "n": 14,
+   "title": "చమత్కారపురప్రదక్షిణామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "camatkārapurapradakṣiṇāmāhātmyavarṇanam",
+   "title_deva": "चमत्कारपुरप्रदक्षिणामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-14/"
+  },
+  {
+   "n": 15,
+   "title": "బ్రహ్మపదప్రాప్తిర్",
+   "title_iast": "brahmapadaprāptir",
+   "title_deva": "ब्रह्मपदप्राप्तिर्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-15/"
+  },
+  {
+   "n": 16,
+   "title": "తస్మాత్సర్వప్రయత్నేన త్యక్త్వాఽన్యా నిఖిలాః క్రియాః",
+   "title_iast": "tasmātsarvaprayatnena tyaktvā'nyā nikhilāḥ kriyāḥ",
+   "title_deva": "तस्मात्सर्वप्रयत्नेन त्यक्त्वाऽन्या निखिलाः क्रियाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-16/"
+  },
+  {
+   "n": 17,
+   "title": "విదూరథమృగయావర్ణనమ్",
+   "title_iast": "vidūrathamṛgayāvarṇanam",
+   "title_deva": "विदूरथमृगयावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-17/"
+  },
+  {
+   "n": 18,
+   "title": "తతః సోఽపి మహీపాలః క్షుత్పిపాసాసమాకులః",
+   "title_iast": "tataḥ so'pi mahīpālaḥ kṣutpipāsāsamākulaḥ",
+   "title_deva": "ततः सोऽपि महीपालः क्षुत्पिपासासमाकुलः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-18/"
+  },
+  {
+   "n": 19,
+   "title": "ఏతస్మిన్నంతరే ప్రాప్తాస్తస్య భూపస్య సేవకాః",
+   "title_iast": "etasminnaṁtare prāptāstasya bhūpasya sevakāḥ",
+   "title_deva": "एतस्मिन्नंतरे प्राप्तास्तस्य भूपस्य सेवकाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-19/"
+  },
+  {
+   "n": 20,
+   "title": "బాలమండనతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bālamaṁḍanatīrthamāhātmyavarṇanam",
+   "title_deva": "बालमंडनतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-20/"
+  },
+  {
+   "n": 21,
+   "title": "మార్కండేన కదా తత్ర స్థాపితః ప్రపితామహః",
+   "title_iast": "mārkaṁḍena kadā tatra sthāpitaḥ prapitāmahaḥ",
+   "title_deva": "मार्कंडेन कदा तत्र स्थापितः प्रपितामहः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-21/"
+  },
+  {
+   "n": 22,
+   "title": "బాలమణ్డనతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bālamaṇḍanatīrthamāhātmyavarṇanam",
+   "title_deva": "बालमण्डनतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-22/"
+  },
+  {
+   "n": 23,
+   "title": "తస్యైవ పశ్చిమే భాగే మృగతీర్థమనుత్తమమ్",
+   "title_iast": "tasyaiva paścime bhāge mṛgatīrthamanuttamam",
+   "title_deva": "तस्यैव पश्चिमे भागे मृगतीर्थमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-23/"
+  },
+  {
+   "n": 24,
+   "title": "విష్ణుపదీతీర్థోత్పత్తివర్ణనమ్",
+   "title_iast": "viṣṇupadītīrthotpattivarṇanam",
+   "title_deva": "विष्णुपदीतीर्थोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-24/"
+  },
+  {
+   "n": 25,
+   "title": "విష్ణుపదీగంగామాహామ్యవర్ణనమ్",
+   "title_iast": "viṣṇupadīgaṁgāmāhāmyavarṇanam",
+   "title_deva": "विष्णुपदीगंगामाहाम्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-25/"
+  },
+  {
+   "n": 26,
+   "title": "గోకర్ణతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gokarṇatīrthamāhātmyavarṇanam",
+   "title_deva": "गोकर्णतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-26/"
+  },
+  {
+   "n": 27,
+   "title": "చతుర్యుగస్వరూపవర్ణనమ్",
+   "title_iast": "caturyugasvarūpavarṇanam",
+   "title_deva": "चतुर्युगस्वरूपवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-27/"
+  },
+  {
+   "n": 28,
+   "title": "తస్యాం దేవసభాయాం చ సంస్థితా యే ద్విజోత్తమాః",
+   "title_iast": "tasyāṁ devasabhāyāṁ ca saṁsthitā ye dvijottamāḥ",
+   "title_deva": "तस्यां देवसभायां च संस्थिता ये द्विजोत्तमाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-28/"
+  },
+  {
+   "n": 29,
+   "title": "ఏవం సర్వేషు తీర్థేషు సంస్థితేషు ద్విజోత్తమాః",
+   "title_iast": "evaṁ sarveṣu tīrtheṣu saṁsthiteṣu dvijottamāḥ",
+   "title_deva": "एवं सर्वेषु तीर्थेषु संस्थितेषु द्विजोत्तमाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-29/"
+  },
+  {
+   "n": 30,
+   "title": "సిద్ధేశ్వరోత్పత్తివృత్తాన్తవర్ణనమ్",
+   "title_iast": "siddheśvarotpattivṛttāntavarṇanam",
+   "title_deva": "सिद्धेश्वरोत्पत्तिवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-30/"
+  },
+  {
+   "n": 31,
+   "title": "తథాన్యదపి తత్రాస్తి నాగతీర్థమనుత్తమమ్",
+   "title_iast": "tathānyadapi tatrāsti nāgatīrthamanuttamam",
+   "title_deva": "तथान्यदपि तत्रास्ति नागतीर्थमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-31/"
+  },
+  {
+   "n": 32,
+   "title": "సప్తర్ష్యాశ్రమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "saptarṣyāśramamāhātmyavarṇanam",
+   "title_deva": "सप्तर्ष्याश्रममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-32/"
+  },
+  {
+   "n": 33,
+   "title": "ఽగస్త్యాశ్రమమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "'gastyāśramamāhātmyavarṇanam",
+   "title_deva": "ऽगस्त्याश्रममाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-33/"
+  },
+  {
+   "n": 34,
+   "title": "దేవాసురసంగ్రామవర్ణనమ్",
+   "title_iast": "devāsurasaṁgrāmavarṇanam",
+   "title_deva": "देवासुरसंग्रामवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-34/"
+  },
+  {
+   "n": 35,
+   "title": "దేవైశ్చిత్రేశ్వరపీఠనామపూర్వకవరప్రదానవర్ణనమ్",
+   "title_iast": "devaiścitreśvarapīṭhanāmapūrvakavarapradānavarṇanam",
+   "title_deva": "देवैश्चित्रेश्वरपीठनामपूर्वकवरप्रदानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-35/"
+  },
+  {
+   "n": 36,
+   "title": "చిత్రేశ్వరీపీఠమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "citreśvarīpīṭhamāhātmyavarṇanam",
+   "title_deva": "चित्रेश्वरीपीठमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-36/"
+  },
+  {
+   "n": 37,
+   "title": "దుఃశీలాఖ్యప్రాసాదోత్పత్తివర్ణనమ్",
+   "title_iast": "duḥśīlākhyaprāsādotpattivarṇanam",
+   "title_deva": "दुःशीलाख्यप्रासादोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-37/"
+  },
+  {
+   "n": 38,
+   "title": "తత్రైవ స్థాపితం లింగం ధున్ధుమారేణ భూభుజా",
+   "title_iast": "tatraiva sthāpitaṁ liṁgaṁ dhundhumāreṇa bhūbhujā",
+   "title_deva": "तत्रैव स्थापितं लिंगं धुन्धुमारेण भूभुजा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-38/"
+  },
+  {
+   "n": 39,
+   "title": "తస్యైవోత్తరదిగ్భాగే ధున్ధుమారేశ్వరస్య చ",
+   "title_iast": "tasyaivottaradigbhāge dhundhumāreśvarasya ca",
+   "title_deva": "तस्यैवोत्तरदिग्भागे धुन्धुमारेश्वरस्य च",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-39/"
+  },
+  {
+   "n": 40,
+   "title": "చిత్రశిలామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "citraśilāmāhātmyavarṇanam",
+   "title_deva": "चित्रशिलामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-40/"
+  },
+  {
+   "n": 41,
+   "title": "తస్యైవోత్తరదిగ్భాగే దేవస్య జలశాయినః",
+   "title_iast": "tasyaivottaradigbhāge devasya jalaśāyinaḥ",
+   "title_deva": "तस्यैवोत्तरदिग्भागे देवस्य जलशायिनः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-41/"
+  },
+  {
+   "n": 42,
+   "title": "విశ్వామిత్రసముద్భూతం కుణ్డం తత్రాపరం శుభమ్",
+   "title_iast": "viśvāmitrasamudbhūtaṁ kuṇḍaṁ tatrāparaṁ śubham",
+   "title_deva": "विश्वामित्रसमुद्भूतं कुण्डं तत्रापरं शुभम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-42/"
+  },
+  {
+   "n": 43,
+   "title": "విశ్వామిత్రమేనకాసంవాదవర్ణనమ్",
+   "title_iast": "viśvāmitramenakāsaṁvādavarṇanam",
+   "title_deva": "विश्वामित्रमेनकासंवादवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-43/"
+  },
+  {
+   "n": 44,
+   "title": "విశ్వామిత్రేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "viśvāmitreśvaramāhātmyavarṇanam",
+   "title_deva": "विश्वामित्रेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-44/"
+  },
+  {
+   "n": 45,
+   "title": "త్రిపుష్కరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tripuṣkaramāhātmyavarṇanam",
+   "title_deva": "त्रिपुष्करमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-45/"
+  },
+  {
+   "n": 46,
+   "title": "తీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tīrthamāhātmyavarṇanam",
+   "title_deva": "तीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-46/"
+  },
+  {
+   "n": 47,
+   "title": "మహాకాలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahākāleśvaramāhātmyavarṇanam",
+   "title_deva": "महाकालेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-47/"
+  },
+  {
+   "n": 48,
+   "title": "తత్రైవాస్య సముద్దేశే హరిశ్చంద్రస్య భూపతేః",
+   "title_iast": "tatraivāsya samuddeśe hariścaṁdrasya bhūpateḥ",
+   "title_deva": "तत्रैवास्य समुद्देशे हरिश्चंद्रस्य भूपतेः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-48/"
+  },
+  {
+   "n": 49,
+   "title": "తత్రైవాస్తి మహాపుణ్యో హ్రదతీరే వ్యవస్థితః",
+   "title_iast": "tatraivāsti mahāpuṇyo hradatīre vyavasthitaḥ",
+   "title_deva": "तत्रैवास्ति महापुण्यो ह्रदतीरे व्यवस्थितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-49/"
+  },
+  {
+   "n": 50,
+   "title": "గోవ్యాఘ్రసంవాదవర్ణనమ్",
+   "title_iast": "govyāghrasaṁvādavarṇanam",
+   "title_deva": "गोव्याघ्रसंवादवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-50/"
+  },
+  {
+   "n": 51,
+   "title": "సత్యం మత్వా పునః ప్రాహ నన్దినీం పుత్రవత్సలామ్",
+   "title_iast": "satyaṁ matvā punaḥ prāha nandinīṁ putravatsalām",
+   "title_deva": "सत्यं मत्वा पुनः प्राह नन्दिनीं पुत्रवत्सलाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-51/"
+  },
+  {
+   "n": 52,
+   "title": "రుద్రకోటిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "rudrakoṭimāhātmyavarṇanam",
+   "title_deva": "रुद्रकोटिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-52/"
+  },
+  {
+   "n": 53,
+   "title": "భ్రూణగర్తామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhrūṇagartāmāhātmyavarṇanam",
+   "title_deva": "भ्रूणगर्तामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-53/"
+  },
+  {
+   "n": 54,
+   "title": "నలనిర్మితచర్మముణ్డామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nalanirmitacarmamuṇḍāmāhātmyavarṇanam",
+   "title_deva": "नलनिर्मितचर्ममुण्डामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-54/"
+  },
+  {
+   "n": 55,
+   "title": "నలేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "naleśvaramāhātmyavarṇanam",
+   "title_deva": "नलेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-55/"
+  },
+  {
+   "n": 56,
+   "title": "సాంబాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sāṁbādityamāhātmyavarṇanam",
+   "title_deva": "सांबादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-56/"
+  },
+  {
+   "n": 57,
+   "title": "గాంగేయయాత్రాఖ్యానమ్",
+   "title_iast": "gāṁgeyayātrākhyānam",
+   "title_deva": "गांगेययात्राख्यानम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-57/"
+  },
+  {
+   "n": 58,
+   "title": "శివగంగామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śivagaṁgāmāhātmyavarṇanam",
+   "title_deva": "शिवगंगामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-58/"
+  },
+  {
+   "n": 59,
+   "title": "తస్మిన్క్షేత్రే రవిః పూర్వం విదురేణ ప్రతిష్ఠితమ్",
+   "title_iast": "tasminkṣetre raviḥ pūrvaṁ vidureṇa pratiṣṭhitam",
+   "title_deva": "तस्मिन्क्षेत्रे रविः पूर्वं विदुरेण प्रतिष्ठितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-59/"
+  },
+  {
+   "n": 60,
+   "title": "నరాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "narādityamāhātmyavarṇanam",
+   "title_deva": "नरादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-60/"
+  },
+  {
+   "n": 61,
+   "title": "శర్మిష్ఠాతీర్థమిత్యుక్తం త్వయా యచ్చ మహామతే",
+   "title_iast": "śarmiṣṭhātīrthamityuktaṁ tvayā yacca mahāmate",
+   "title_deva": "शर्मिष्ठातीर्थमित्युक्तं त्वया यच्च महामते",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-61/"
+  },
+  {
+   "n": 62,
+   "title": "శర్మిష్ఠాతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śarmiṣṭhātīrthamāhātmyavarṇanam",
+   "title_deva": "शर्मिष्ठातीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-62/"
+  },
+  {
+   "n": 63,
+   "title": "సోమనాథోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "somanāthotpattimāhātmyavarṇanam",
+   "title_deva": "सोमनाथोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-63/"
+  },
+  {
+   "n": 64,
+   "title": "చమత్కారీదుర్గామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "camatkārīdurgāmāhātmyavarṇanam",
+   "title_deva": "चमत्कारीदुर्गामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-64/"
+  },
+  {
+   "n": 65,
+   "title": "ఆనర్తకేశ్వరశూద్రకేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ānartakeśvaraśūdrakeśvaramāhātmyavarṇanam",
+   "title_deva": "आनर्तकेश्वरशूद्रकेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-65/"
+  },
+  {
+   "n": 66,
+   "title": "జమదగ్నివధవర్ణనమ్",
+   "title_iast": "jamadagnivadhavarṇanam",
+   "title_deva": "जमदग्निवधवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-66/"
+  },
+  {
+   "n": 67,
+   "title": "ఏతస్మిన్నంతరే ప్రాప్తో రామో భ్రాతృభిరన్వితః",
+   "title_iast": "etasminnaṁtare prāpto rāmo bhrātṛbhiranvitaḥ",
+   "title_deva": "एतस्मिन्नंतरे प्राप्तो रामो भ्रातृभिरन्वितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-67/"
+  },
+  {
+   "n": 68,
+   "title": "తత్ర నిన్యుః స్థితా యత్ర గర్తా సా పితృసంభవా",
+   "title_iast": "tatra ninyuḥ sthitā yatra gartā sā pitṛsaṁbhavā",
+   "title_deva": "तत्र निन्युः स्थिता यत्र गर्ता सा पितृसंभवा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-68/"
+  },
+  {
+   "n": 69,
+   "title": "తతో నిఃక్షత్రియే లోకే క్షత్త్రిణ్యో వంశకారణాత్",
+   "title_iast": "tato niḥkṣatriye loke kṣattriṇyo vaṁśakāraṇāt",
+   "title_deva": "ततो निःक्षत्रिये लोके क्षत्त्रिण्यो वंशकारणात्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-69/"
+  },
+  {
+   "n": 70,
+   "title": "కార్తికేయోత్పత్తివృత్తాంతవర్ణనమ్",
+   "title_iast": "kārtikeyotpattivṛttāṁtavarṇanam",
+   "title_deva": "कार्तिकेयोत्पत्तिवृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-70/"
+  },
+  {
+   "n": 71,
+   "title": "తాస్తథేతి ప్రతిజ్ఞాయ చక్రుస్తచ్ఛక్రశాసనమ్",
+   "title_iast": "tāstatheti pratijñāya cakrustacchakraśāsanam",
+   "title_deva": "तास्तथेति प्रतिज्ञाय चक्रुस्तच्छक्रशासनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-71/"
+  },
+  {
+   "n": 72,
+   "title": "ధృతరాష్ట్రాదికృతహాటకేశ్వరక్షేత్రదర్శనవర్ణనమ్",
+   "title_iast": "dhṛtarāṣṭrādikṛtahāṭakeśvarakṣetradarśanavarṇanam",
+   "title_deva": "धृतराष्ट्रादिकृतहाटकेश्वरक्षेत्रदर्शनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-72/"
+  },
+  {
+   "n": 73,
+   "title": "ధృతరాష్ట్రాదికృతప్రాసాదస్థాపనోద్యమవర్ణనమ్",
+   "title_iast": "dhṛtarāṣṭrādikṛtaprāsādasthāpanodyamavarṇanam",
+   "title_deva": "धृतराष्ट्रादिकृतप्रासादस्थापनोद्यमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-73/"
+  },
+  {
+   "n": 74,
+   "title": "ప్రతిష్ఠావృత్తాంతవర్ణనమ్",
+   "title_iast": "pratiṣṭhāvṛttāṁtavarṇanam",
+   "title_deva": "प्रतिष्ठावृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-74/"
+  },
+  {
+   "n": 75,
+   "title": "భూమిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bhūmimāhātmyavarṇanam",
+   "title_deva": "भूमिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-75/"
+  },
+  {
+   "n": 76,
+   "title": "ముండీరకాలప్రియమూలస్థానప్రతిష్ఠావర్ణనమ్",
+   "title_iast": "muṁḍīrakālapriyamūlasthānapratiṣṭhāvarṇanam",
+   "title_deva": "मुंडीरकालप्रियमूलस्थानप्रतिष्ठावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-76/"
+  },
+  {
+   "n": 77,
+   "title": "హరాశ్రయవేదికామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "harāśrayavedikāmāhātmyavarṇanam",
+   "title_deva": "हराश्रयवेदिकामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-77/"
+  },
+  {
+   "n": 78,
+   "title": "బ్రహ్మణా కతమే స్థానే తత్ర సూత కృతం తపః",
+   "title_iast": "brahmaṇā katame sthāne tatra sūta kṛtaṁ tapaḥ",
+   "title_deva": "ब्रह्मणा कतमे स्थाने तत्र सूत कृतं तपः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-78/"
+  },
+  {
+   "n": 79,
+   "title": "తస్యైవ దక్షిణే భాగే వాలఖిల్యైః ప్రతిష్ఠితమ్",
+   "title_iast": "tasyaiva dakṣiṇe bhāge vālakhilyaiḥ pratiṣṭhitam",
+   "title_deva": "तस्यैव दक्षिणे भागे वालखिल्यैः प्रतिष्ठितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-79/"
+  },
+  {
+   "n": 80,
+   "title": "యదేతద్భవతా ప్రోక్తం తేజోవీర్యసమన్వితః",
+   "title_iast": "yadetadbhavatā proktaṁ tejovīryasamanvitaḥ",
+   "title_deva": "यदेतद्भवता प्रोक्तं तेजोवीर्यसमन्वितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-80/"
+  },
+  {
+   "n": 81,
+   "title": "మమాస్తి దయితం మిత్రం బ్రాహ్మణో భృగువంశజః",
+   "title_iast": "mamāsti dayitaṁ mitraṁ brāhmaṇo bhṛguvaṁśajaḥ",
+   "title_deva": "ममास्ति दयितं मित्रं ब्राह्मणो भृगुवंशजः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-81/"
+  },
+  {
+   "n": 82,
+   "title": "సుపర్ణేశ్వరాఖ్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "suparṇeśvarākhyamāhātmyavarṇanam",
+   "title_deva": "सुपर्णेश्वराख्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-82/"
+  },
+  {
+   "n": 83,
+   "title": "సుపర్ణాఖ్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "suparṇākhyamāhātmyavarṇanam",
+   "title_deva": "सुपर्णाख्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-83/"
+  },
+  {
+   "n": 84,
+   "title": "సుభద్రాత్వప్రాప్తివర్ణనమ్",
+   "title_iast": "subhadrātvaprāptivarṇanam",
+   "title_deva": "सुभद्रात्वप्राप्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-84/"
+  },
+  {
+   "n": 85,
+   "title": "మహాలక్ష్మీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "mahālakṣmīmāhātmyavarṇanam",
+   "title_deva": "महालक्ष्मीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-85/"
+  },
+  {
+   "n": 86,
+   "title": "సప్తవింశతికామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "saptaviṁśatikāmāhātmyavarṇanam",
+   "title_deva": "सप्तविंशतिकामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-86/"
+  },
+  {
+   "n": 87,
+   "title": "సోమప్రాసాదమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "somaprāsādamāhātmyavarṇanam",
+   "title_deva": "सोमप्रासादमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-87/"
+  },
+  {
+   "n": 88,
+   "title": "యాస్త్వయా దేవతాః ప్రోక్తాశ్చతస్రః సూతనందన",
+   "title_iast": "yāstvayā devatāḥ proktāścatasraḥ sūtanaṁdana",
+   "title_deva": "यास्त्वया देवताः प्रोक्ताश्चतस्रः सूतनंदन",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-88/"
+  },
+  {
+   "n": 89,
+   "title": "ఏవం తత్ర స్థితే నిత్యం తస్మిన్మాతృగణే ద్విజాః",
+   "title_iast": "evaṁ tatra sthite nityaṁ tasminmātṛgaṇe dvijāḥ",
+   "title_deva": "एवं तत्र स्थिते नित्यं तस्मिन्मातृगणे द्विजाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-89/"
+  },
+  {
+   "n": 90,
+   "title": "వసోర్ద్ధారామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vasorddhārāmāhātmyavarṇanam",
+   "title_deva": "वसोर्द्धारामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-90/"
+  },
+  {
+   "n": 91,
+   "title": "ఏవముక్త్వా స భగవాన్విరరామ పితామహః",
+   "title_iast": "evamuktvā sa bhagavānvirarāma pitāmahaḥ",
+   "title_deva": "एवमुक्त्वा स भगवान्विरराम पितामहः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-91/"
+  },
+  {
+   "n": 92,
+   "title": "అగ్నితీర్థస్య మాహాత్మ్యమేతద్వః పరికీర్తితమ్",
+   "title_iast": "agnitīrthasya māhātmyametadvaḥ parikīrtitam",
+   "title_deva": "अग्नितीर्थस्य माहात्म्यमेतद्वः परिकीर्तितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-92/"
+  },
+  {
+   "n": 93,
+   "title": "గోముఖతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gomukhatīrthamāhātmyavarṇanam",
+   "title_deva": "गोमुखतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-93/"
+  },
+  {
+   "n": 94,
+   "title": "లోహయష్టిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "lohayaṣṭimāhātmyavarṇanam",
+   "title_deva": "लोहयष्टिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-94/"
+  },
+  {
+   "n": 95,
+   "title": "శ్రీహాటకేశ్వరక్షేత్రమాహాత్మ్యేఽజాపాలేశ్వరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrīhāṭakeśvarakṣetramāhātmye'jāpāleśvarīmāhātmyavarṇanam",
+   "title_deva": "श्रीहाटकेश्वरक्षेत्रमाहात्म्येऽजापालेश्वरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-95/"
+  },
+  {
+   "n": 96,
+   "title": "దశరథశనైశ్చరసంవాదవర్ణనమ్",
+   "title_iast": "daśarathaśanaiścarasaṁvādavarṇanam",
+   "title_deva": "दशरथशनैश्चरसंवादवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-96/"
+  },
+  {
+   "n": 97,
+   "title": "దశరథకృతతపఃసముద్యోగవర్ణనమ్",
+   "title_iast": "daśarathakṛtatapaḥsamudyogavarṇanam",
+   "title_deva": "दशरथकृततपःसमुद्योगवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-97/"
+  },
+  {
+   "n": 98,
+   "title": "తతో దశరథో రాజా మంత్రిభిస్తైర్విసర్జితః",
+   "title_iast": "tato daśaratho rājā maṁtribhistairvisarjitaḥ",
+   "title_deva": "ततो दशरथो राजा मंत्रिभिस्तैर्विसर्जितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-98/"
+  },
+  {
+   "n": 99,
+   "title": "యదేతద్భవతా ప్రోక్తం తత్ర రామేణ నిర్మితః",
+   "title_iast": "yadetadbhavatā proktaṁ tatra rāmeṇa nirmitaḥ",
+   "title_deva": "यदेतद्भवता प्रोक्तं तत्र रामेण निर्मितः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-99/"
+  },
+  {
+   "n": 100,
+   "title": "గమనవర్ణనమ్",
+   "title_iast": "gamanavarṇanam",
+   "title_deva": "गमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-100/"
+  },
+  {
+   "n": 101,
+   "title": "ఏవం తాం రజనీం తత్ర స ఉషిత్వా రఘూత్తమః",
+   "title_iast": "evaṁ tāṁ rajanīṁ tatra sa uṣitvā raghūttamaḥ",
+   "title_deva": "एवं तां रजनीं तत्र स उषित्वा रघूत्तमः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-101/"
+  },
+  {
+   "n": 102,
+   "title": "లక్ష్మణాదిప్రాసాదపఞ్చకనిర్మాణప్రతిష్ఠాపనవర్ణనమ్",
+   "title_iast": "lakṣmaṇādiprāsādapañcakanirmāṇapratiṣṭhāpanavarṇanam",
+   "title_deva": "लक्ष्मणादिप्रासादपञ्चकनिर्माणप्रतिष्ठापनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-102/"
+  },
+  {
+   "n": 103,
+   "title": "ఆనర్తకతీర్థకూపికామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ānartakatīrthakūpikāmāhātmyavarṇanam",
+   "title_deva": "आनर्तकतीर्थकूपिकामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-103/"
+  },
+  {
+   "n": 104,
+   "title": "కుశేశ్వరలవేశ్వరప్రతిష్ఠావర్ణనమ్",
+   "title_iast": "kuśeśvaralaveśvarapratiṣṭhāvarṇanam",
+   "title_deva": "कुशेश्वरलवेश्वरप्रतिष्ठावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-104/"
+  },
+  {
+   "n": 105,
+   "title": "రాక్షసలింగచ్ఛేదనమ్",
+   "title_iast": "rākṣasaliṁgacchedanam",
+   "title_deva": "राक्षसलिंगच्छेदनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-105/"
+  },
+  {
+   "n": 106,
+   "title": "లుప్తతీర్థమాహాత్మ్యకథనమ్",
+   "title_iast": "luptatīrthamāhātmyakathanam",
+   "title_deva": "लुप्ततीर्थमाहात्म्यकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-106/"
+  },
+  {
+   "n": 107,
+   "title": "బ్రాహ్మణచిత్రశర్మలింగస్థాపనవృత్తాంతవర్ణనమ్",
+   "title_iast": "brāhmaṇacitraśarmaliṁgasthāpanavṛttāṁtavarṇanam",
+   "title_deva": "ब्राह्मणचित्रशर्मलिंगस्थापनवृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-107/"
+  },
+  {
+   "n": 108,
+   "title": "అష్టషష్టిప్రమాణాని యాని క్షేత్రాణి సూతజ",
+   "title_iast": "aṣṭaṣaṣṭipramāṇāni yāni kṣetrāṇi sūtaja",
+   "title_deva": "अष्टषष्टिप्रमाणानि यानि क्षेत्राणि सूतज",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-108/"
+  },
+  {
+   "n": 109,
+   "title": "ఏతత్తే సర్వమాఖ్యాతం యత్పృష్టోఽస్మి వరాననే",
+   "title_iast": "etatte sarvamākhyātaṁ yatpṛṣṭo'smi varānane",
+   "title_deva": "एतत्ते सर्वमाख्यातं यत्पृष्टोऽस्मि वरानने",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-109/"
+  },
+  {
+   "n": 110,
+   "title": "ఽష్టషష్టితీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "'ṣṭaṣaṣṭitīrthamāhātmyavarṇanam",
+   "title_deva": "ऽष्टषष्टितीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-110/"
+  },
+  {
+   "n": 111,
+   "title": "శివక్షేత్రాణి యైర్విప్రైః సమానీతాని తత్ర చ",
+   "title_iast": "śivakṣetrāṇi yairvipraiḥ samānītāni tatra ca",
+   "title_deva": "शिवक्षेत्राणि यैर्विप्रैः समानीतानि तत्र च",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-111/"
+  },
+  {
+   "n": 112,
+   "title": "ఊషరోత్పత్తిమాహాత్మ్యకథనమ్",
+   "title_iast": "ūṣarotpattimāhātmyakathanam",
+   "title_deva": "ऊषरोत्पत्तिमाहात्म्यकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-112/"
+  },
+  {
+   "n": 113,
+   "title": "త్రిజాతకవిశుద్ధయేఽగ్నికుండమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "trijātakaviśuddhaye'gnikuṁḍamāhātmyavarṇanam",
+   "title_deva": "त्रिजातकविशुद्धयेऽग्निकुंडमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-113/"
+  },
+  {
+   "n": 114,
+   "title": "నగరసంజ్ఞోత్పత్తివర్ణనమ్",
+   "title_iast": "nagarasaṁjñotpattivarṇanam",
+   "title_deva": "नगरसंज्ञोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-114/"
+  },
+  {
+   "n": 115,
+   "title": "భర్తృయజ్ఞకృతయజ్ఞవిధానమునిగోత్రవర్ణనమ్",
+   "title_iast": "bhartṛyajñakṛtayajñavidhānamunigotravarṇanam",
+   "title_deva": "भर्तृयज्ञकृतयज्ञविधानमुनिगोत्रवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-115/"
+  },
+  {
+   "n": 116,
+   "title": "హాటకేశ్వరక్షేత్రమాహాత్మ్యేంఽబారేవతీతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "hāṭakeśvarakṣetramāhātmyeṁ'bārevatītīrthamāhātmyavarṇanam",
+   "title_deva": "हाटकेश्वरक्षेत्रमाहात्म्येंऽबारेवतीतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-116/"
+  },
+  {
+   "n": 117,
+   "title": "భట్టికాతీర్థోత్పత్తిమాహాత్మ్యకథనమ్",
+   "title_iast": "bhaṭṭikātīrthotpattimāhātmyakathanam",
+   "title_deva": "भट्टिकातीर्थोत्पत्तिमाहात्म्यकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-117/"
+  },
+  {
+   "n": 118,
+   "title": "యత్త్వయా సూతజ ప్రోక్తం తక్షకః సంభవిష్యతి",
+   "title_iast": "yattvayā sūtaja proktaṁ takṣakaḥ saṁbhaviṣyati",
+   "title_deva": "यत्त्वया सूतज प्रोक्तं तक्षकः संभविष्यति",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-118/"
+  },
+  {
+   "n": 119,
+   "title": "యత్వయా సూతజ ప్రోక్తం దేవీ కాత్యాయనీ చ సా",
+   "title_iast": "yatvayā sūtaja proktaṁ devī kātyāyanī ca sā",
+   "title_deva": "यत्वया सूतज प्रोक्तं देवी कात्यायनी च सा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-119/"
+  },
+  {
+   "n": 120,
+   "title": "కాత్యాయన్యుత్పత్తివర్ణనమ్",
+   "title_iast": "kātyāyanyutpattivarṇanam",
+   "title_deva": "कात्यायन्युत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-120/"
+  },
+  {
+   "n": 121,
+   "title": "కాత్యాయనీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kātyāyanīmāhātmyavarṇanam",
+   "title_deva": "कात्यायनीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-121/"
+  },
+  {
+   "n": 122,
+   "title": "ఏతద్వః సర్వమాఖ్యాతం యత్పృష్టోస్మి ద్విజోత్తమాః",
+   "title_iast": "etadvaḥ sarvamākhyātaṁ yatpṛṣṭosmi dvijottamāḥ",
+   "title_deva": "एतद्वः सर्वमाख्यातं यत्पृष्टोस्मि द्विजोत्तमाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-122/"
+  },
+  {
+   "n": 123,
+   "title": "తథాన్యదపి తత్రాస్తి శుక్లతీర్థమనుత్తమమ్",
+   "title_iast": "tathānyadapi tatrāsti śuklatīrthamanuttamam",
+   "title_deva": "तथान्यदपि तत्रास्ति शुक्लतीर्थमनुत्तमम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-123/"
+  },
+  {
+   "n": 124,
+   "title": "ముఖారతీర్థోత్పత్తివర్ణనమ్",
+   "title_iast": "mukhāratīrthotpattivarṇanam",
+   "title_deva": "मुखारतीर्थोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-124/"
+  },
+  {
+   "n": 125,
+   "title": "సత్యసన్ధనృపతివృత్తాన్తవర్ణనమ్",
+   "title_iast": "satyasandhanṛpativṛttāntavarṇanam",
+   "title_deva": "सत्यसन्धनृपतिवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-125/"
+  },
+  {
+   "n": 126,
+   "title": "సత్యసంధేశ్వరమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "satyasaṁdheśvaramāhātmyavarṇanam",
+   "title_deva": "सत्यसंधेश्वरमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-126/"
+  },
+  {
+   "n": 127,
+   "title": "కర్ణోత్పలాతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "karṇotpalātīrthamāhātmyavarṇanam",
+   "title_deva": "कर्णोत्पलातीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-127/"
+  },
+  {
+   "n": 128,
+   "title": "సత్యసన్ధోపి హృష్టాత్మా సతాం దృష్ట్వా సుఖాన్వితామ్",
+   "title_iast": "satyasandhopi hṛṣṭātmā satāṁ dṛṣṭvā sukhānvitām",
+   "title_deva": "सत्यसन्धोपि हृष्टात्मा सतां दृष्ट्वा सुखान्विताम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-128/"
+  },
+  {
+   "n": 129,
+   "title": "తథాన్యోఽపి చ తత్రాస్తి యాజ్ఞవల్క్యసముద్రవః",
+   "title_iast": "tathānyo'pi ca tatrāsti yājñavalkyasamudravaḥ",
+   "title_deva": "तथान्योऽपि च तत्रास्ति याज्ञवल्क्यसमुद्रवः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-129/"
+  },
+  {
+   "n": 130,
+   "title": "పంచపిణ్డాగౌర్యుత్పత్తివర్ణనమ్",
+   "title_iast": "paṁcapiṇḍāgauryutpattivarṇanam",
+   "title_deva": "पंचपिण्डागौर्युत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-130/"
+  },
+  {
+   "n": 131,
+   "title": "ఏషా రాత్రిః సమాదిష్టా దానవానాం సురేశ్వరి",
+   "title_iast": "eṣā rātriḥ samādiṣṭā dānavānāṁ sureśvari",
+   "title_deva": "एषा रात्रिः समादिष्टा दानवानां सुरेश्वरि",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-131/"
+  },
+  {
+   "n": 132,
+   "title": "వాస్తుపదోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "vāstupadotpattimāhātmyavarṇanam",
+   "title_deva": "वास्तुपदोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-132/"
+  },
+  {
+   "n": 133,
+   "title": "హాటకేశ్వరక్షేత్రమాహాత్మ్యేఽజాగృహోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "hāṭakeśvarakṣetramāhātmye'jāgṛhotpattimāhātmyavarṇanam",
+   "title_deva": "हाटकेश्वरक्षेत्रमाहात्म्येऽजागृहोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-133/"
+  },
+  {
+   "n": 134,
+   "title": "యదా దక్షేణ క్రుద్ధేన పురా శప్తో హిమద్యుతిః",
+   "title_iast": "yadā dakṣeṇa kruddhena purā śapto himadyutiḥ",
+   "title_deva": "यदा दक्षेण क्रुद्धेन पुरा शप्तो हिमद्युतिः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-134/"
+  },
+  {
+   "n": 135,
+   "title": "పతివ్రతావరలాభః",
+   "title_iast": "pativratāvaralābhaḥ",
+   "title_deva": "पतिव्रतावरलाभः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-135/"
+  },
+  {
+   "n": 136,
+   "title": "దీర్ఘికోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dīrghikotpattimāhātmyavarṇanam",
+   "title_deva": "दीर्घिकोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-136/"
+  },
+  {
+   "n": 137,
+   "title": "కేనాసౌ మునిశార్దూలో మాండవ్యః సుమహాతపాః",
+   "title_iast": "kenāsau muniśārdūlo māṁḍavyaḥ sumahātapāḥ",
+   "title_deva": "केनासौ मुनिशार्दूलो मांडव्यः सुमहातपाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-137/"
+  },
+  {
+   "n": 138,
+   "title": "కిం కృతం ధర్మరాజేన తపోధ్యానాదికం చ యత్",
+   "title_iast": "kiṁ kṛtaṁ dharmarājena tapodhyānādikaṁ ca yat",
+   "title_deva": "किं कृतं धर्मराजेन तपोध्यानादिकं च यत्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-138/"
+  },
+  {
+   "n": 139,
+   "title": "ధర్మరాజేశ్వరోత్థం చ మాహాత్మ్యం ద్విజసత్తమాః",
+   "title_iast": "dharmarājeśvarotthaṁ ca māhātmyaṁ dvijasattamāḥ",
+   "title_deva": "धर्मराजेश्वरोत्थं च माहात्म्यं द्विजसत्तमाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-139/"
+  },
+  {
+   "n": 140,
+   "title": "ధర్మరాజపుత్రాఖ్యానవర్ణనమ్",
+   "title_iast": "dharmarājaputrākhyānavarṇanam",
+   "title_deva": "धर्मराजपुत्राख्यानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-140/"
+  },
+  {
+   "n": 141,
+   "title": "తథాన్యోఽపి హి తత్రాస్తి దేవో మిష్టాన్నదాయకః",
+   "title_iast": "tathānyo'pi hi tatrāsti devo miṣṭānnadāyakaḥ",
+   "title_deva": "तथान्योऽपि हि तत्रास्ति देवो मिष्टान्नदायकः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-141/"
+  },
+  {
+   "n": 142,
+   "title": "గణపతిత్రయమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṇapatitrayamāhātmyavarṇanam",
+   "title_deva": "गणपतित्रयमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-142/"
+  },
+  {
+   "n": 143,
+   "title": "జాబాలిక్షోభణః",
+   "title_iast": "jābālikṣobhaṇaḥ",
+   "title_deva": "जाबालिक्षोभणः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-143/"
+  },
+  {
+   "n": 144,
+   "title": "చిత్రాంగదేశ్వరఫలవతీజాబాల్యాఖ్యానవర్ణనమ్",
+   "title_iast": "citrāṁgadeśvaraphalavatījābālyākhyānavarṇanam",
+   "title_deva": "चित्रांगदेश्वरफलवतीजाबाल्याख्यानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-144/"
+  },
+  {
+   "n": 145,
+   "title": "హాటకేశ్వరక్షేత్రమాహాత్మ్యేఽమరకేశ్వరక్షేత్రమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "hāṭakeśvarakṣetramāhātmye'marakeśvarakṣetramāhātmyavarṇanam",
+   "title_deva": "हाटकेश्वरक्षेत्रमाहात्म्येऽमरकेश्वरक्षेत्रमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-145/"
+  },
+  {
+   "n": 146,
+   "title": "హాటకేశ్వరక్షేత్రమాహాత్మ్యేఽమరేశ్వరకుణ్డమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "hāṭakeśvarakṣetramāhātmye'mareśvarakuṇḍamāhātmyavarṇanam",
+   "title_deva": "हाटकेश्वरक्षेत्रमाहात्म्येऽमरेश्वरकुण्डमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-146/"
+  },
+  {
+   "n": 147,
+   "title": "తథాన్యోఽపి చ తత్రాస్తి దేవః పుత్రప్రదో నృణామ్",
+   "title_iast": "tathānyo'pi ca tatrāsti devaḥ putraprado nṛṇām",
+   "title_deva": "तथान्योऽपि च तत्रास्ति देवः पुत्रप्रदो नृणाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-147/"
+  },
+  {
+   "n": 148,
+   "title": "ఏవం తం నిఃస్పృహం జ్ఞాత్వా గృహం ప్రతి నిజాత్మజమ్",
+   "title_iast": "evaṁ taṁ niḥspṛhaṁ jñātvā gṛhaṁ prati nijātmajam",
+   "title_deva": "एवं तं निःस्पृहं ज्ञात्वा गृहं प्रति निजात्मजम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-148/"
+  },
+  {
+   "n": 149,
+   "title": "కేలీశ్వరీ చ యా దేవీ శ్రూయతే సూతనందన",
+   "title_iast": "kelīśvarī ca yā devī śrūyate sūtanaṁdana",
+   "title_deva": "केलीश्वरी च या देवी श्रूयते सूतनंदन",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-149/"
+  },
+  {
+   "n": 150,
+   "title": "కేలీశ్వరీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kelīśvarīmāhātmyavarṇanam",
+   "title_deva": "केलीश्वरीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-150/"
+  },
+  {
+   "n": 151,
+   "title": "అన్ధకోఽపి పరాం విద్యాం జ్ఞాత్వా శుక్రార్జితాం తదా",
+   "title_iast": "andhako'pi parāṁ vidyāṁ jñātvā śukrārjitāṁ tadā",
+   "title_deva": "अन्धकोऽपि परां विद्यां ज्ञात्वा शुक्रार्जितां तदा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-151/"
+  },
+  {
+   "n": 152,
+   "title": "చక్రపాణిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "cakrapāṇimāhātmyavarṇanam",
+   "title_deva": "चक्रपाणिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-152/"
+  },
+  {
+   "n": 153,
+   "title": "శ్రీహాటకేశ్వరక్షేత్రమాహాత్మ్యేఽప్సరఃకుణ్డోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śrīhāṭakeśvarakṣetramāhātmye'psaraḥkuṇḍotpattimāhātmyavarṇanam",
+   "title_deva": "श्रीहाटकेश्वरक्षेत्रमाहात्म्येऽप्सरःकुण्डोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-153/"
+  },
+  {
+   "n": 154,
+   "title": "చిత్రేశ్వరీపీఠక్షేత్రమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "citreśvarīpīṭhakṣetramāhātmyavarṇanam",
+   "title_deva": "चित्रेश्वरीपीठक्षेत्रमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-154/"
+  },
+  {
+   "n": 155,
+   "title": "క్షత్రియకృతనిజభార్యాసంబోధనవర్ణనమ్",
+   "title_iast": "kṣatriyakṛtanijabhāryāsaṁbodhanavarṇanam",
+   "title_deva": "क्षत्रियकृतनिजभार्यासंबोधनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-155/"
+  },
+  {
+   "n": 156,
+   "title": "మణిభద్రకృతపుష్పబ్రాహ్మణవిడంబనవర్ణనమ్",
+   "title_iast": "maṇibhadrakṛtapuṣpabrāhmaṇaviḍaṁbanavarṇanam",
+   "title_deva": "मणिभद्रकृतपुष्पब्राह्मणविडंबनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-156/"
+  },
+  {
+   "n": 157,
+   "title": "వరలబ్ధివర్ణనమ్",
+   "title_iast": "varalabdhivarṇanam",
+   "title_deva": "वरलब्धिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-157/"
+  },
+  {
+   "n": 158,
+   "title": "పుష్పోఽపి గుటికే లబ్ధ్వా భాస్కరాద్వారితస్కరాత్",
+   "title_iast": "puṣpo'pi guṭike labdhvā bhāskarādvāritaskarāt",
+   "title_deva": "पुष्पोऽपि गुटिके लब्ध्वा भास्कराद्वारितस्करात्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-158/"
+  },
+  {
+   "n": 159,
+   "title": "పుష్పోఽపి తాం సమాదాయ మాహికాఖ్యాం వరాంగనామ్",
+   "title_iast": "puṣpo'pi tāṁ samādāya māhikākhyāṁ varāṁganām",
+   "title_deva": "पुष्पोऽपि तां समादाय माहिकाख्यां वरांगनाम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-159/"
+  },
+  {
+   "n": 160,
+   "title": "హాటకేశ్వరక్షేత్రగమనపురశ్చరణార్థబ్రాహ్మణామన్త్రణవర్ణనమ్",
+   "title_iast": "hāṭakeśvarakṣetragamanapuraścaraṇārthabrāhmaṇāmantraṇavarṇanam",
+   "title_deva": "हाटकेश्वरक्षेत्रगमनपुरश्चरणार्थब्राह्मणामन्त्रणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-160/"
+  },
+  {
+   "n": 161,
+   "title": "చాతుశ్చరణసంజ్ఞాశ్చ తతస్తస్య నివేశితాః",
+   "title_iast": "cātuścaraṇasaṁjñāśca tatastasya niveśitāḥ",
+   "title_deva": "चातुश्चरणसंज्ञाश्च ततस्तस्य निवेशिताः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-161/"
+  },
+  {
+   "n": 162,
+   "title": "పురశ్చరణసప్తమీవ్రతవిధానవర్ణనమ్",
+   "title_iast": "puraścaraṇasaptamīvratavidhānavarṇanam",
+   "title_deva": "पुरश्चरणसप्तमीव्रतविधानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-162/"
+  },
+  {
+   "n": 163,
+   "title": "బ్రాహ్మనాగరోత్పత్తివృత్తాంతవర్ణనమ్",
+   "title_iast": "brāhmanāgarotpattivṛttāṁtavarṇanam",
+   "title_deva": "ब्राह्मनागरोत्पत्तिवृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-163/"
+  },
+  {
+   "n": 164,
+   "title": "ఏతస్మిన్నంతరే పుష్పః ప్రహృష్టేనాన్తరాత్మనా",
+   "title_iast": "etasminnaṁtare puṣpaḥ prahṛṣṭenāntarātmanā",
+   "title_deva": "एतस्मिन्नंतरे पुष्पः प्रहृष्टेनान्तरात्मना",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-164/"
+  },
+  {
+   "n": 165,
+   "title": "హాటకేశ్వరక్షేత్రమాహాత్మ్యేఽశ్వతీర్థోత్పత్తివర్ణనమ్",
+   "title_iast": "hāṭakeśvarakṣetramāhātmye'śvatīrthotpattivarṇanam",
+   "title_deva": "हाटकेश्वरक्षेत्रमाहात्म्येऽश्वतीर्थोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-165/"
+  },
+  {
+   "n": 166,
+   "title": "పరశురామోత్పత్తివర్ణనమ్",
+   "title_iast": "paraśurāmotpattivarṇanam",
+   "title_deva": "परशुरामोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-166/"
+  },
+  {
+   "n": 167,
+   "title": "విశ్వామిత్రరాజ్యపరిత్యాగవర్ణనమ్",
+   "title_iast": "viśvāmitrarājyaparityāgavarṇanam",
+   "title_deva": "विश्वामित्रराज्यपरित्यागवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-167/"
+  },
+  {
+   "n": 168,
+   "title": "ఏవం రాజ్యం పరిత్యజ్య విశ్వామిత్రో ద్విజోత్తమాః",
+   "title_iast": "evaṁ rājyaṁ parityajya viśvāmitro dvijottamāḥ",
+   "title_deva": "एवं राज्यं परित्यज्य विश्वामित्रो द्विजोत्तमाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-168/"
+  },
+  {
+   "n": 169,
+   "title": "కస్మాత్సా తుష్టిదా ప్రోక్తా నాగరాణాం విశేషతః",
+   "title_iast": "kasmātsā tuṣṭidā proktā nāgarāṇāṁ viśeṣataḥ",
+   "title_deva": "कस्मात्सा तुष्टिदा प्रोक्ता नागराणां विशेषतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-169/"
+  },
+  {
+   "n": 170,
+   "title": "ధారాతీర్థోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dhārātīrthotpattimāhātmyavarṇanam",
+   "title_deva": "धारातीर्थोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-170/"
+  },
+  {
+   "n": 171,
+   "title": "ఏతస్మిన్నేవ కాలే తు విశ్వామిత్రో మహామునిః",
+   "title_iast": "etasminneva kāle tu viśvāmitro mahāmuniḥ",
+   "title_deva": "एतस्मिन्नेव काले तु विश्वामित्रो महामुनिः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-171/"
+  },
+  {
+   "n": 172,
+   "title": "సరస్వతీశాపవృత్తాంతవర్ణనమ్",
+   "title_iast": "sarasvatīśāpavṛttāṁtavarṇanam",
+   "title_deva": "सरस्वतीशापवृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-172/"
+  },
+  {
+   "n": 173,
+   "title": "శాపమోచనసాభ్రమత్యుత్పత్తివృత్తాన్తవర్ణనమ్",
+   "title_iast": "śāpamocanasābhramatyutpattivṛttāntavarṇanam",
+   "title_deva": "शापमोचनसाभ्रमत्युत्पत्तिवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-173/"
+  },
+  {
+   "n": 174,
+   "title": "పిప్పలాదోత్పత్తివర్ణనమ్",
+   "title_iast": "pippalādotpattivarṇanam",
+   "title_deva": "पिप्पलादोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-174/"
+  },
+  {
+   "n": 175,
+   "title": "యాజ్ఞవల్క్యేశ్వరోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "yājñavalkyeśvarotpattimāhātmyavarṇanam",
+   "title_deva": "याज्ञवल्क्येश्वरोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-175/"
+  },
+  {
+   "n": 176,
+   "title": "కంసారేశ్వరోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kaṁsāreśvarotpattimāhātmyavarṇanam",
+   "title_deva": "कंसारेश्वरोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-176/"
+  },
+  {
+   "n": 177,
+   "title": "మాహాత్మ్యవర్ణనమ్",
+   "title_iast": "māhātmyavarṇanam",
+   "title_deva": "माहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-177/"
+  },
+  {
+   "n": 178,
+   "title": "ఏవం రాజ్యం మయా ప్రాప్తం గౌరీపూజా కృతే విభో",
+   "title_iast": "evaṁ rājyaṁ mayā prāptaṁ gaurīpūjā kṛte vibho",
+   "title_deva": "एवं राज्यं मया प्राप्तं गौरीपूजा कृते विभो",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-178/"
+  },
+  {
+   "n": 179,
+   "title": "తథాన్యదపి తత్రాస్తి పుష్కరత్రితయం శుభమ్",
+   "title_iast": "tathānyadapi tatrāsti puṣkaratritayaṁ śubham",
+   "title_deva": "तथान्यदपि तत्रास्ति पुष्करत्रितयं शुभम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-179/"
+  },
+  {
+   "n": 180,
+   "title": "అత్యద్భుతమిదం సూత యత్త్వయా సముదాహృతమ్",
+   "title_iast": "atyadbhutamidaṁ sūta yattvayā samudāhṛtam",
+   "title_deva": "अत्यद्भुतमिदं सूत यत्त्वया समुदाहृतम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-180/"
+  },
+  {
+   "n": 181,
+   "title": "ఏతస్మిన్నంతరే సర్వేర్నాగరైర్బ్రాహ్మణోత్తమైః",
+   "title_iast": "etasminnaṁtare sarvernāgarairbrāhmaṇottamaiḥ",
+   "title_deva": "एतस्मिन्नंतरे सर्वेर्नागरैर्ब्राह्मणोत्तमैः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-181/"
+  },
+  {
+   "n": 182,
+   "title": "రూపతీర్థోత్పత్తిపూర్వకప్రథమయజ్ఞదివసవృత్తాన్తవర్ణనమ్",
+   "title_iast": "rūpatīrthotpattipūrvakaprathamayajñadivasavṛttāntavarṇanam",
+   "title_deva": "रूपतीर्थोत्पत्तिपूर्वकप्रथमयज्ञदिवसवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-182/"
+  },
+  {
+   "n": 183,
+   "title": "నాగతీర్థోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "nāgatīrthotpattimāhātmyavarṇanam",
+   "title_deva": "नागतीर्थोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-183/"
+  },
+  {
+   "n": 184,
+   "title": "పింగలోపాఖ్యానవర్ణనమ్",
+   "title_iast": "piṁgalopākhyānavarṇanam",
+   "title_deva": "पिंगलोपाख्यानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-184/"
+  },
+  {
+   "n": 185,
+   "title": "ఏతద్వః సర్వమాఖ్యాతం యథా మే పింగలా గురుః",
+   "title_iast": "etadvaḥ sarvamākhyātaṁ yathā me piṁgalā guruḥ",
+   "title_deva": "एतद्वः सर्वमाख्यातं यथा मे पिंगला गुरुः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-185/"
+  },
+  {
+   "n": 186,
+   "title": "కేశ్వరక్షేత్రమాహాత్మ్యేఽతిథిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "keśvarakṣetramāhātmye'tithimāhātmyavarṇanam",
+   "title_deva": "केश्वरक्षेत्रमाहात्म्येऽतिथिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-186/"
+  },
+  {
+   "n": 187,
+   "title": "రాక్షసప్రాప్యశ్రాద్ధవర్ణనమ్",
+   "title_iast": "rākṣasaprāpyaśrāddhavarṇanam",
+   "title_deva": "राक्षसप्राप्यश्राद्धवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-187/"
+  },
+  {
+   "n": 188,
+   "title": "తతస్తు పంచమే చాహ్ని సంజాతే తే ద్విజోత్తమాః",
+   "title_iast": "tatastu paṁcame cāhni saṁjāte te dvijottamāḥ",
+   "title_deva": "ततस्तु पंचमे चाह्नि संजाते ते द्विजोत्तमाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-188/"
+  },
+  {
+   "n": 189,
+   "title": "సావిత్ర్యా తాస్తు గంధర్వ్యః ప్రాప్తాః సా యత్ర తిష్ఠతి",
+   "title_iast": "sāvitryā tāstu gaṁdharvyaḥ prāptāḥ sā yatra tiṣṭhati",
+   "title_deva": "सावित्र्या तास्तु गंधर्व्यः प्राप्ताः सा यत्र तिष्ठति",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-189/"
+  },
+  {
+   "n": 190,
+   "title": "తీర్థోత్పత్తిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tīrthotpattimāhātmyavarṇanam",
+   "title_deva": "तीर्थोत्पत्तिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-190/"
+  },
+  {
+   "n": 191,
+   "title": "సూతపుత్ర త్వయా ప్రోక్తం సావిత్రీ నాగతా చ యత్",
+   "title_iast": "sūtaputra tvayā proktaṁ sāvitrī nāgatā ca yat",
+   "title_deva": "सूतपुत्र त्वया प्रोक्तं सावित्री नागता च यत्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-191/"
+  },
+  {
+   "n": 192,
+   "title": "సావిత్రీమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "sāvitrīmāhātmyavarṇanam",
+   "title_deva": "सावित्रीमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-192/"
+  },
+  {
+   "n": 193,
+   "title": "గాయత్రీవరప్రదానః",
+   "title_iast": "gāyatrīvarapradānaḥ",
+   "title_deva": "गायत्रीवरप्रदानः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-193/"
+  },
+  {
+   "n": 194,
+   "title": "కుమారికాతీర్థద్వయగర్తక్షేత్రస్థపాదుకామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "kumārikātīrthadvayagartakṣetrasthapādukāmāhātmyavarṇanam",
+   "title_deva": "कुमारिकातीर्थद्वयगर्तक्षेत्रस्थपादुकामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-194/"
+  },
+  {
+   "n": 195,
+   "title": "ఛాన్దోగ్యబ్రాహ్మణకన్యావృత్తాన్తవర్ణనమ్",
+   "title_iast": "chāndogyabrāhmaṇakanyāvṛttāntavarṇanam",
+   "title_deva": "छान्दोग्यब्राह्मणकन्यावृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-195/"
+  },
+  {
+   "n": 196,
+   "title": "ప్రత్యాగమనవర్ణనమ్",
+   "title_iast": "pratyāgamanavarṇanam",
+   "title_deva": "प्रत्यागमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-196/"
+  },
+  {
+   "n": 197,
+   "title": "పరావసుప్రాయశ్చిత్తవిధానవృత్తాంతవర్ణనమ్",
+   "title_iast": "parāvasuprāyaścittavidhānavṛttāṁtavarṇanam",
+   "title_deva": "परावसुप्रायश्चित्तविधानवृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-197/"
+  },
+  {
+   "n": 198,
+   "title": "ఏతస్మిన్నేవ కాలే తు దశార్ణాధిపతిస్తదా",
+   "title_iast": "etasminneva kāle tu daśārṇādhipatistadā",
+   "title_deva": "एतस्मिन्नेव काले तु दशार्णाधिपतिस्तदा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-198/"
+  },
+  {
+   "n": 199,
+   "title": "తిస్రఃకోట్యోర్ధకోటీ చ తీర్థానామిహ భూతలే",
+   "title_iast": "tisraḥkoṭyordhakoṭī ca tīrthānāmiha bhūtale",
+   "title_deva": "तिस्रःकोट्योर्धकोटी च तीर्थानामिह भूतले",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-199/"
+  },
+  {
+   "n": 200,
+   "title": "భర్తృయజ్ఞకృతనాగరజ్ఞాతిమర్యాదావర్ణనమ్",
+   "title_iast": "bhartṛyajñakṛtanāgarajñātimaryādāvarṇanam",
+   "title_deva": "भर्तृयज्ञकृतनागरज्ञातिमर्यादावर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-200/"
+  },
+  {
+   "n": 201,
+   "title": "కృతాంజలిపుటా భూత్వా స్తుతిం కృత్వా వచోఽబ్రువన్",
+   "title_iast": "kṛtāṁjalipuṭā bhūtvā stutiṁ kṛtvā vaco'bruvan",
+   "title_deva": "कृतांजलिपुटा भूत्वा स्तुतिं कृत्वा वचोऽब्रुवन्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-201/"
+  },
+  {
+   "n": 202,
+   "title": "భర్తృయజ్ఞవాక్యనిర్ణయవర్ణనమ్",
+   "title_iast": "bhartṛyajñavākyanirṇayavarṇanam",
+   "title_deva": "भर्तृयज्ञवाक्यनिर्णयवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-202/"
+  },
+  {
+   "n": 203,
+   "title": "నాగరవిశుద్ధిప్రకారవర్ణనమ్",
+   "title_iast": "nāgaraviśuddhiprakāravarṇanam",
+   "title_deva": "नागरविशुद्धिप्रकारवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-203/"
+  },
+  {
+   "n": 204,
+   "title": "ప్రేతశ్రాద్ధకథనమ్",
+   "title_iast": "pretaśrāddhakathanam",
+   "title_deva": "प्रेतश्राद्धकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-204/"
+  },
+  {
+   "n": 205,
+   "title": "గయాశ్రాద్ధఫలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gayāśrāddhaphalamāhātmyavarṇanam",
+   "title_deva": "गयाश्राद्धफलमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-205/"
+  },
+  {
+   "n": 206,
+   "title": "బాలమణ్డనతీర్థమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "bālamaṇḍanatīrthamāhātmyavarṇanam",
+   "title_deva": "बालमण्डनतीर्थमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-206/"
+  },
+  {
+   "n": 207,
+   "title": "ఇన్ద్రమహోత్సవవర్ణనమ్",
+   "title_iast": "indramahotsavavarṇanam",
+   "title_deva": "इन्द्रमहोत्सववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-207/"
+  },
+  {
+   "n": 208,
+   "title": "ఏవం శక్రే దివం ప్రాప్తే దేవేషు సకలేషు చ",
+   "title_iast": "evaṁ śakre divaṁ prāpte deveṣu sakaleṣu ca",
+   "title_deva": "एवं शक्रे दिवं प्राप्ते देवेषु सकलेषु च",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-208/"
+  },
+  {
+   "n": 209,
+   "title": "శంఖాదిత్యశంఖతీర్థోత్పత్తివృత్తాంతవర్ణనమ్",
+   "title_iast": "śaṁkhādityaśaṁkhatīrthotpattivṛttāṁtavarṇanam",
+   "title_deva": "शंखादित्यशंखतीर्थोत्पत्तिवृत्तांतवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-209/"
+  },
+  {
+   "n": 210,
+   "title": "తాంబూలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tāṁbūlamāhātmyavarṇanam",
+   "title_deva": "तांबूलमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-210/"
+  },
+  {
+   "n": 211,
+   "title": "రాజ్ఞో దారిద్ర్యదోషస్య కుష్ఠవ్యాధేశ్చ కారణమ్",
+   "title_iast": "rājño dāridryadoṣasya kuṣṭhavyādheśca kāraṇam",
+   "title_deva": "राज्ञो दारिद्र्यदोषस्य कुष्ठव्याधेश्च कारणम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-211/"
+  },
+  {
+   "n": 212,
+   "title": "రత్నాదిత్యమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "ratnādityamāhātmyavarṇanam",
+   "title_deva": "रत्नादित्यमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-212/"
+  },
+  {
+   "n": 213,
+   "title": "కుహరవాసిసాంబాదిత్యప్రభావవర్ణనమ్",
+   "title_iast": "kuharavāsisāṁbādityaprabhāvavarṇanam",
+   "title_deva": "कुहरवासिसांबादित्यप्रभाववर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-213/"
+  },
+  {
+   "n": 214,
+   "title": "గణపతిపూజావిధిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṇapatipūjāvidhimāhātmyavarṇanam",
+   "title_deva": "गणपतिपूजाविधिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-214/"
+  },
+  {
+   "n": 215,
+   "title": "శ్రాద్ధావశ్యకతాకారణవర్ణనమ్",
+   "title_iast": "śrāddhāvaśyakatākāraṇavarṇanam",
+   "title_deva": "श्राद्धावश्यकताकारणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-215/"
+  },
+  {
+   "n": 216,
+   "title": "శ్రాద్ధోత్పత్తివర్ణనమ్",
+   "title_iast": "śrāddhotpattivarṇanam",
+   "title_deva": "श्राद्धोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-216/"
+  },
+  {
+   "n": 217,
+   "title": "శ్రాద్ధార్హపదార్థబ్రాహ్మణకాలనిర్ణయవర్ణనమ్",
+   "title_iast": "śrāddhārhapadārthabrāhmaṇakālanirṇayavarṇanam",
+   "title_deva": "श्राद्धार्हपदार्थब्राह्मणकालनिर्णयवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-217/"
+  },
+  {
+   "n": 218,
+   "title": "ఏతత్సామాన్యతః ప్రోక్తం మయా శ్రాద్ధం యథా నరైః",
+   "title_iast": "etatsāmānyataḥ proktaṁ mayā śrāddhaṁ yathā naraiḥ",
+   "title_deva": "एतत्सामान्यतः प्रोक्तं मया श्राद्धं यथा नरैः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-218/"
+  },
+  {
+   "n": 219,
+   "title": "కామ్యాని తేఽధునా వచ్మి శ్రాద్ధాని పృథివీపతే",
+   "title_iast": "kāmyāni te'dhunā vacmi śrāddhāni pṛthivīpate",
+   "title_deva": "काम्यानि तेऽधुना वच्मि श्राद्धानि पृथिवीपते",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-219/"
+  },
+  {
+   "n": 220,
+   "title": "గజచ్ఛాయామాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gajacchāyāmāhātmyavarṇanam",
+   "title_deva": "गजच्छायामाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-220/"
+  },
+  {
+   "n": 221,
+   "title": "ఏతస్మాత్కారణాత్కశ్చిత్తస్మిన్నహని పార్థివ",
+   "title_iast": "etasmātkāraṇātkaścittasminnahani pārthiva",
+   "title_deva": "एतस्मात्कारणात्कश्चित्तस्मिन्नहनि पार्थिव",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-221/"
+  },
+  {
+   "n": 222,
+   "title": "చతుర్దశీశస్త్రహతశ్రాద్ధనిర్ణయవర్ణనమ్",
+   "title_iast": "caturdaśīśastrahataśrāddhanirṇayavarṇanam",
+   "title_deva": "चतुर्दशीशस्त्रहतश्राद्धनिर्णयवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-222/"
+  },
+  {
+   "n": 223,
+   "title": "శ్రాద్ధార్హానర్హబ్రాహ్మణాదివర్ణనమ్",
+   "title_iast": "śrāddhārhānarhabrāhmaṇādivarṇanam",
+   "title_deva": "श्राद्धार्हानर्हब्राह्मणादिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-223/"
+  },
+  {
+   "n": 224,
+   "title": "శ్రాద్ధవిధివర్ణనమ్",
+   "title_iast": "śrāddhavidhivarṇanam",
+   "title_deva": "श्राद्धविधिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-224/"
+  },
+  {
+   "n": 225,
+   "title": "సపిండీకరణవిధివర్ణనమ్",
+   "title_iast": "sapiṁḍīkaraṇavidhivarṇanam",
+   "title_deva": "सपिंडीकरणविधिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-225/"
+  },
+  {
+   "n": 226,
+   "title": "తత్తద్దురితప్రాప్యైకవింశతినరకయాతనాతన్నివారణోపాయవర్ణనమ్",
+   "title_iast": "tattadduritaprāpyaikaviṁśatinarakayātanātannivāraṇopāyavarṇanam",
+   "title_deva": "तत्तद्दुरितप्राप्यैकविंशतिनरकयातनातन्निवारणोपायवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-226/"
+  },
+  {
+   "n": 227,
+   "title": "నరకయాతనానిరసనోపాయవర్ణనమ్",
+   "title_iast": "narakayātanānirasanopāyavarṇanam",
+   "title_deva": "नरकयातनानिरसनोपायवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-227/"
+  },
+  {
+   "n": 228,
+   "title": "తథాన్యచ్చ బిలద్వారి శయనార్థే వ్యవస్థితమ్",
+   "title_iast": "tathānyacca biladvāri śayanārthe vyavasthitam",
+   "title_deva": "तथान्यच्च बिलद्वारि शयनार्थे व्यवस्थितम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-228/"
+  },
+  {
+   "n": 229,
+   "title": "ఏతస్మిన్నంతరే శమ్భుర్గణైః సర్వైః సమావృతః",
+   "title_iast": "etasminnaṁtare śambhurgaṇaiḥ sarvaiḥ samāvṛtaḥ",
+   "title_deva": "एतस्मिन्नंतरे शम्भुर्गणैः सर्वैः समावृतः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-229/"
+  },
+  {
+   "n": 230,
+   "title": "వృకేన్ద్రరాజ్యలంభనవర్ణనమ్",
+   "title_iast": "vṛkendrarājyalaṁbhanavarṇanam",
+   "title_deva": "वृकेन्द्रराज्यलंभनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-230/"
+  },
+  {
+   "n": 231,
+   "title": "వృకోఽపి తత్సమాసాద్య రాజ్యం త్రైలోక్యసంభవమ్",
+   "title_iast": "vṛko'pi tatsamāsādya rājyaṁ trailokyasaṁbhavam",
+   "title_deva": "वृकोऽपि तत्समासाद्य राज्यं त्रैलोक्यसंभवम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-231/"
+  },
+  {
+   "n": 232,
+   "title": "చాతుర్మాస్యవ్రతనియమవర్ణనమ్",
+   "title_iast": "cāturmāsyavrataniyamavarṇanam",
+   "title_deva": "चातुर्मास्यव्रतनियमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-232/"
+  },
+  {
+   "n": 233,
+   "title": "గంగోదకస్నానఫలమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "gaṁgodakasnānaphalamāhātmyavarṇanam",
+   "title_deva": "गंगोदकस्नानफलमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-233/"
+  },
+  {
+   "n": 234,
+   "title": "చాతుర్మాస్యనియమవిధిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "cāturmāsyaniyamavidhimāhātmyavarṇanam",
+   "title_deva": "चातुर्मास्यनियमविधिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-234/"
+  },
+  {
+   "n": 235,
+   "title": "చాతుర్మాస్యదానమహిమవర్ణనమ్",
+   "title_iast": "cāturmāsyadānamahimavarṇanam",
+   "title_deva": "चातुर्मास्यदानमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-235/"
+  },
+  {
+   "n": 236,
+   "title": "ఇష్టవస్తుపరిత్యాగమహిమవర్ణనమ్",
+   "title_iast": "iṣṭavastuparityāgamahimavarṇanam",
+   "title_deva": "इष्टवस्तुपरित्यागमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-236/"
+  },
+  {
+   "n": 237,
+   "title": "వ్రతమహిమవర్ణనమ్",
+   "title_iast": "vratamahimavarṇanam",
+   "title_deva": "व्रतमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-237/"
+  },
+  {
+   "n": 238,
+   "title": "తపః శృణుష్వ విప్రేంద్ర విస్తరేణ మహామతే",
+   "title_iast": "tapaḥ śṛṇuṣva vipreṁdra vistareṇa mahāmate",
+   "title_deva": "तपः शृणुष्व विप्रेंद्र विस्तरेण महामते",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-238/"
+  },
+  {
+   "n": 239,
+   "title": "ఉపచారైః షోడశభిః పూజనం క్రియతే కథమ్",
+   "title_iast": "upacāraiḥ ṣoḍaśabhiḥ pūjanaṁ kriyate katham",
+   "title_deva": "उपचारैः षोडशभिः पूजनं क्रियते कथम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-239/"
+  },
+  {
+   "n": 240,
+   "title": "దీపదానాదిసాయుజ్యచిన్తనాన్తభక్తినిరూపణమ్",
+   "title_iast": "dīpadānādisāyujyacintanāntabhaktinirūpaṇam",
+   "title_deva": "दीपदानादिसायुज्यचिन्तनान्तभक्तिनिरूपणम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-240/"
+  },
+  {
+   "n": 241,
+   "title": "ఏతత్తే పూజనం విష్ణోః షోడశోపాయసంభవమ్",
+   "title_iast": "etatte pūjanaṁ viṣṇoḥ ṣoḍaśopāyasaṁbhavam",
+   "title_deva": "एतत्ते पूजनं विष्णोः षोडशोपायसंभवम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-241/"
+  },
+  {
+   "n": 242,
+   "title": "చాతుర్మాస్యమాహాత్మ్యేఽష్టాదశప్రకృతికథనమ్",
+   "title_iast": "cāturmāsyamāhātmye'ṣṭādaśaprakṛtikathanam",
+   "title_deva": "चातुर्मास्यमाहात्म्येऽष्टादशप्रकृतिकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-242/"
+  },
+  {
+   "n": 243,
+   "title": "శాలిగ్రామపూజనమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śāligrāmapūjanamāhātmyavarṇanam",
+   "title_deva": "शालिग्रामपूजनमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-243/"
+  },
+  {
+   "n": 244,
+   "title": "ఏతాన్భేదాన్మమ బ్రూహి విస్తరేణ తపోధన",
+   "title_iast": "etānbhedānmama brūhi vistareṇa tapodhana",
+   "title_deva": "एतान्भेदान्मम ब्रूहि विस्तरेण तपोधन",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-244/"
+  },
+  {
+   "n": 245,
+   "title": "మందరాచలంప్రతిగమనవర్ణనమ్",
+   "title_iast": "maṁdarācalaṁpratigamanavarṇanam",
+   "title_deva": "मंदराचलंप्रतिगमनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-245/"
+  },
+  {
+   "n": 246,
+   "title": "శాపప్రదానవృత్తాన్తవర్ణనమ్",
+   "title_iast": "śāpapradānavṛttāntavarṇanam",
+   "title_deva": "शापप्रदानवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-246/"
+  },
+  {
+   "n": 247,
+   "title": "అశ్వత్థమహిమవర్ణనమ్",
+   "title_iast": "aśvatthamahimavarṇanam",
+   "title_deva": "अश्वत्थमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-247/"
+  },
+  {
+   "n": 248,
+   "title": "పలాశో హరిరూపేణ సేవ్యతే హి పురావిదైః",
+   "title_iast": "palāśo harirūpeṇa sevyate hi purāvidaiḥ",
+   "title_deva": "पलाशो हरिरूपेण सेव्यते हि पुराविदैः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-248/"
+  },
+  {
+   "n": 249,
+   "title": "తులసీ రోపితా యేన గృహస్థేన మహాఫలా",
+   "title_iast": "tulasī ropitā yena gṛhasthena mahāphalā",
+   "title_deva": "तुलसी रोपिता येन गृहस्थेन महाफला",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-249/"
+  },
+  {
+   "n": 250,
+   "title": "బిల్వోత్పత్తివర్ణనమ్",
+   "title_iast": "bilvotpattivarṇanam",
+   "title_deva": "बिल्वोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-250/"
+  },
+  {
+   "n": 251,
+   "title": "ఇత్యుక్త్వాఽఽకాశజావాణీ విరరామ శుభప్రదా",
+   "title_iast": "ityuktvā''kāśajāvāṇī virarāma śubhapradā",
+   "title_deva": "इत्युक्त्वाऽऽकाशजावाणी विरराम शुभप्रदा",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-251/"
+  },
+  {
+   "n": 252,
+   "title": "వృక్షమాహాత్మ్యకథనమ్",
+   "title_iast": "vṛkṣamāhātmyakathanam",
+   "title_deva": "वृक्षमाहात्म्यकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-252/"
+  },
+  {
+   "n": 253,
+   "title": "శంకరకృతపార్వత్యనునయః",
+   "title_iast": "śaṁkarakṛtapārvatyanunayaḥ",
+   "title_deva": "शंकरकृतपार्वत्यनुनयः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-253/"
+  },
+  {
+   "n": 254,
+   "title": "హరతాండవనర్త్తనవర్ణనమ్",
+   "title_iast": "haratāṁḍavanarttanavarṇanam",
+   "title_deva": "हरतांडवनर्त्तनवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-254/"
+  },
+  {
+   "n": 255,
+   "title": "లక్ష్మీనారాయణమహిమవర్ణనమ్",
+   "title_iast": "lakṣmīnārāyaṇamahimavarṇanam",
+   "title_deva": "लक्ष्मीनारायणमहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-255/"
+  },
+  {
+   "n": 256,
+   "title": "రామనామమహిమవర్ణనమ్",
+   "title_iast": "rāmanāmamahimavarṇanam",
+   "title_deva": "रामनाममहिमवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-256/"
+  },
+  {
+   "n": 257,
+   "title": "ద్వాదశాక్షరనామమహిమపూర్వకపార్వతీతపోవర్ణనమ్",
+   "title_iast": "dvādaśākṣaranāmamahimapūrvakapārvatītapovarṇanam",
+   "title_deva": "द्वादशाक्षरनाममहिमपूर्वकपार्वतीतपोवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-257/"
+  },
+  {
+   "n": 258,
+   "title": "ప్రవృత్తాయాం శైలపుత్ర్యాం మహత్తపసి దారుణే",
+   "title_iast": "pravṛttāyāṁ śailaputryāṁ mahattapasi dāruṇe",
+   "title_deva": "प्रवृत्तायां शैलपुत्र्यां महत्तपसि दारुणे",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-258/"
+  },
+  {
+   "n": 259,
+   "title": "తస్మింస్తు పతితే లింగే యోజనాయామవిస్తృతే",
+   "title_iast": "tasmiṁstu patite liṁge yojanāyāmavistṛte",
+   "title_deva": "तस्मिंस्तु पतिते लिंगे योजनायामविस्तृते",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-259/"
+  },
+  {
+   "n": 260,
+   "title": "మహేశ్వరస్య చోత్పత్తిర్యథా లింగత్వమాప సః",
+   "title_iast": "maheśvarasya cotpattiryathā liṁgatvamāpa saḥ",
+   "title_deva": "महेश्वरस्य चोत्पत्तिर्यथा लिंगत्वमाप सः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-260/"
+  },
+  {
+   "n": 261,
+   "title": "కథం నిత్యా భగవతీ హరపత్నీ యశస్వినీ",
+   "title_iast": "kathaṁ nityā bhagavatī harapatnī yaśasvinī",
+   "title_deva": "कथं नित्या भगवती हरपत्नी यशस्विनी",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-261/"
+  },
+  {
+   "n": 262,
+   "title": "జ్ఞానయోగకథనమ్",
+   "title_iast": "jñānayogakathanam",
+   "title_deva": "ज्ञानयोगकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-262/"
+  },
+  {
+   "n": 263,
+   "title": "మత్స్యేన్ద్రనాథోత్పత్తికథనమ్",
+   "title_iast": "matsyendranāthotpattikathanam",
+   "title_deva": "मत्स्येन्द्रनाथोत्पत्तिकथनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-263/"
+  },
+  {
+   "n": 264,
+   "title": "తారకాసురవధః",
+   "title_iast": "tārakāsuravadhaḥ",
+   "title_deva": "तारकासुरवधः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-264/"
+  },
+  {
+   "n": 265,
+   "title": "అశూన్యశయనవ్రతమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "aśūnyaśayanavratamāhātmyavarṇanam",
+   "title_deva": "अशून्यशयनव्रतमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-265/"
+  },
+  {
+   "n": 266,
+   "title": "శివారాత్రిమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "śivārātrimāhātmyavarṇanam",
+   "title_deva": "शिवारात्रिमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-266/"
+  },
+  {
+   "n": 267,
+   "title": "తులాపురుషదానమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "tulāpuruṣadānamāhātmyavarṇanam",
+   "title_deva": "तुलापुरुषदानमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-267/"
+  },
+  {
+   "n": 268,
+   "title": "కర్మణా కేన మర్త్యే చ నరాణాం జాయతే వద",
+   "title_iast": "karmaṇā kena martye ca narāṇāṁ jāyate vada",
+   "title_deva": "कर्मणा केन मर्त्ये च नराणां जायते वद",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-268/"
+  },
+  {
+   "n": 269,
+   "title": "కపాలేశస్య మాహాత్మ్యం శ్రూయతామధునా ద్విజాః",
+   "title_iast": "kapāleśasya māhātmyaṁ śrūyatāmadhunā dvijāḥ",
+   "title_deva": "कपालेशस्य माहात्म्यं श्रूयतामधुना द्विजाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-269/"
+  },
+  {
+   "n": 270,
+   "title": "పాపపిండప్రదానవిధానవర్ణనమ్",
+   "title_iast": "pāpapiṁḍapradānavidhānavarṇanam",
+   "title_deva": "पापपिंडप्रदानविधानवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-270/"
+  },
+  {
+   "n": 271,
+   "title": "అథాన్యదపి తత్రాస్తి సుపుణ్యం లింగసప్తకమ్",
+   "title_iast": "athānyadapi tatrāsti supuṇyaṁ liṁgasaptakam",
+   "title_deva": "अथान्यदपि तत्रास्ति सुपुण्यं लिंगसप्तकम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-271/"
+  },
+  {
+   "n": 272,
+   "title": "యుగస్వరూపవర్ణనమ్",
+   "title_iast": "yugasvarūpavarṇanam",
+   "title_deva": "युगस्वरूपवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-272/"
+  },
+  {
+   "n": 273,
+   "title": "యుగప్రమాణవర్ణనమ్",
+   "title_iast": "yugapramāṇavarṇanam",
+   "title_deva": "युगप्रमाणवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-273/"
+  },
+  {
+   "n": 274,
+   "title": "దుఃశీలేశ్వరసంజ్ఞాప్రాప్తికారణవృత్తాన్తవర్ణనమ్",
+   "title_iast": "duḥśīleśvarasaṁjñāprāptikāraṇavṛttāntavarṇanam",
+   "title_deva": "दुःशीलेश्वरसंज्ञाप्राप्तिकारणवृत्तान्तवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-274/"
+  },
+  {
+   "n": 275,
+   "title": "దుఃశీలోఽపి చ తత్కృత్వా గురోర్నామ్నా శివాలయమ్",
+   "title_iast": "duḥśīlo'pi ca tatkṛtvā gurornāmnā śivālayam",
+   "title_deva": "दुःशीलोऽपि च तत्कृत्वा गुरोर्नाम्ना शिवालयम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-275/"
+  },
+  {
+   "n": 276,
+   "title": "ఏకాదశరుద్రోత్పత్తివర్ణనమ్",
+   "title_iast": "ekādaśarudrotpattivarṇanam",
+   "title_deva": "एकादशरुद्रोत्पत्तिवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-276/"
+  },
+  {
+   "n": 277,
+   "title": "దానమాహాత్మ్యవర్ణనమ్",
+   "title_iast": "dānamāhātmyavarṇanam",
+   "title_deva": "दानमाहात्म्यवर्णनम्",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-277/"
+  },
+  {
+   "n": 278,
+   "title": "యే చాన్యే భాస్కరా స్తత్ర సంతి బ్రాహ్మణసత్తమాః",
+   "title_iast": "ye cānye bhāskarā statra saṁti brāhmaṇasattamāḥ",
+   "title_deva": "ये चान्ये भास्करा स्तत्र संति ब्राह्मणसत्तमाः",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-278/"
+  },
+  {
+   "n": 279,
+   "title": "శ్లోకమ్ అనుగచ్ఛ",
+   "title_iast": "ślokam anugaccha",
+   "title_deva": "श्लोकम् अनुगच्छ",
+   "url": "https://vaidhikadharma.org/puranas/skanda/nagara/adhyaya-279/"
+  }
+ ]
+}

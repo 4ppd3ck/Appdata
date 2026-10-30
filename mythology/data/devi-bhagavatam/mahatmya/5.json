@@ -1,0 +1,737 @@
+{
+ "kanda": "mahatmya",
+ "n": 5,
+ "title_deva": "वणविधिवर्णनम्",
+ "title_te": "వణవిధివర్ణనమ్",
+ "title_iast": "vaṇavidhivarṇanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "ऋषय ऊचुः सूत सूत महाभाग श्रुतं माहात्म्यमुत्तमम् | अधुना श्रोतुमिच्छामः पुराणश्रवणे विधिम्",
+   "text_te": "ఋషయ ఊచుః సూత సూత మహాభాగ శ్రుతం మాహాత్మ్యముత్తమమ్ | అధునా శ్రోతుమిచ్ఛామః పురాణశ్రవణే విధిమ్",
+   "text_en": "ṛṣaya ūcuḥ sūta sūta mahābhāga śrutaṁ māhātmyamuttamam | adhunā śrotumicchāmaḥ purāṇaśravaṇe vidhim",
+   "mean_en": "The sages said: \"O Suta, Suta, greatly blessed one, we have heard the supreme greatness; now we wish to hear the procedure for Purana recitation.\"",
+   "mean_te": "మునులు అన్నారు — \"సూతా! సూతా! మహాభాగుడా! ఉత్తమమైన మాహాత్మ్యం విన్నాము; ఇప్పుడు పురాణ శ్రవణ విధానాన్ని వినాలని కోరుతున్నాము.\""
+  },
+  {
+   "n": 2,
+   "text_deva": "श्रूयतां मुनयः सर्वे पुराणश्रवणे विधिम् | नराणां शृण्वतां येन सिद्धिः स्यात्सार्वकामिकी",
+   "text_te": "శ్రూయతాం మునయః సర్వే పురాణశ్రవణే విధిమ్ | నరాణాం శృణ్వతాం యేన సిద్ధిః స్యాత్సార్వకామికీ",
+   "text_en": "śrūyatāṁ munayaḥ sarve purāṇaśravaṇe vidhim | narāṇāṁ śṛṇvatāṁ yena siddhiḥ syātsārvakāmikī",
+   "mean_en": "\"Let the procedure of Purana hearing be told, O sages all — by which men who hear attain fulfilment of every desire.\"",
+   "mean_te": "\"మునులారా! పురాణ శ్రవణ విధి చెప్పబడుగాక; దానిని శ్రవణం చేసే మనుషులకు సర్వ కామేచ్ఛల సిద్ధి కలుగును.\""
+  },
+  {
+   "n": 3,
+   "text_deva": "आदौ दैवज्ञमाहूय मुहूर्तं कल्पयेत्सुधीः | आरभ्य शुचिमासं तु मासषट्कं शुभावहम्",
+   "text_te": "ఆదౌ దైవజ్ఞమాహూయ ముహూర్తం కల్పయేత్సుధీః | ఆరభ్య శుచిమాసం తు మాసషట్కం శుభావహమ్",
+   "text_en": "ādau daivajñamāhūya muhūrtaṁ kalpayetsudhīḥ | ārabhya śucimāsaṁ tu māsaṣaṭkaṁ śubhāvaham",
+   "mean_en": "\"First one should call an astrologer and fix the muhurta; beginning with a pure month, the six-month period that brings auspiciousness.\"",
+   "mean_te": "\"ముందుగా దైవజ్ఞుడిని (జ్యోతిషిని) పిలిపించి, సుధీరుడు ముహూర్తాన్ని నిర్ణయించాలి; శుచియైన మాసంతో మొదలుపెట్టి, శుభప్రదమైన ఆరు మాసాల (మాసషట్క) కాలాన్ని.\""
+  },
+  {
+   "n": 4,
+   "text_deva": "हस्ताश्विमूलपुष्यर्क्षे ब्रह्ममैत्रेन्दुवैष्णवे | सत्तिथौ शुभवारे च पुराणश्रवणं शुभम्",
+   "text_te": "హస్తాశ్విమూలపుష్యర్క్షే బ్రహ్మమైత్రేన్దువైష్ణవే | సత్తిథౌ శుభవారే చ పురాణశ్రవణం శుభమ్",
+   "text_en": "hastāśvimūlapuṣyarkṣe brahmamaitrenduvaiṣṇave | sattithau śubhavāre ca purāṇaśravaṇaṁ śubham",
+   "mean_en": "\"On days under Hasta, Ashvini, Mula, Pushya; under Brahma, Maitra, Indu, Vaishnava; on the Shashthi tithi and a good weekday — the Purana hearing is auspicious.\"",
+   "mean_te": "\"హస్త, ఆశ్విని, మూల, పుష్య నక్షత్రాలలోను, బ్రహ్మ, మైత్ర, ఇందు, వైష్ణవ యోగాలలోను, షష్ఠీ తిథిలోను, శుభవారమున పురాణ శ్రవణం శుభప్రదం.\""
+  },
+  {
+   "n": 5,
+   "text_deva": "गुरुभाद्वेद४वेदा४ब्ज१शरां५गा६ब्धि४गुणैः४क्रमात् | धर्माप्तिरिन्दिराप्राप्तिः कथासिद्धिः परं सुखम्",
+   "text_te": "గురుభాద్వేద४వేదా४బ్జ१శరాం५గా६బ్ధి४గుణైః४క్రమాత్ | ధర్మాప్తిరిన్దిరాప్రాప్తిః కథాసిద్ధిః పరం సుఖమ్",
+   "text_en": "gurubhādveda४vedā४bja१śarāṁ५gā६bdhi४guṇaiḥ४kramāt | dharmāptirindirāprāptiḥ kathāsiddhiḥ paraṁ sukham",
+   "mean_en": "\"Counting with the gunas beginning from guru, bha, veda, veda, lotus, five, six, four, four — in order: attainment of dharma, winning Lakshmi, success of the story, supreme happiness.\"",
+   "mean_te": "\"గురు, భ, వేద, వేద, అబ్జ, పంచ, షట్, అబ్ధి, గుణ సంఖ్యలతో క్రమంగా — ధర్మప్రాప్తి, లక్ష్మీప్రాప్తి, కథాసిద్ధి, పరమ సుఖం కలుగును.\""
+  },
+  {
+   "n": 6,
+   "text_deva": "पीडाऽथ भूपतिभयं ज्ञानप्राप्तिः क्रमात्फलम् | पुराणश्रवणे चक्रं शोधयेच्छिवभाषितम्",
+   "text_te": "పీడాఽథ భూపతిభయం జ్ఞానప్రాప్తిః క్రమాత్ఫలమ్ | పురాణశ్రవణే చక్రం శోధయేచ్ఛివభాషితమ్",
+   "text_en": "pīḍā'tha bhūpatibhayaṁ jñānaprāptiḥ kramātphalam | purāṇaśravaṇe cakraṁ śodhayecchivabhāṣitam",
+   "mean_en": "\"Elsewise: pain, then fear of kings, then attainment of knowledge — such fruits in order; one should purify the cakra of Purana-recitation per Shiva's word.\"",
+   "mean_te": "\"లేదా: పీడ, రాజభయం, తరువాత జ్ఞానప్రాప్తి — క్రమఫలాలు; శివుని వాక్కుల పురాణ శ్రవణ చక్రాన్ని శోధించాలి.\""
+  },
+  {
+   "n": 7,
+   "text_deva": "अथवा प्रीतये देव्या नवरात्रचतुष्टये | शृणुयादन्यमासेऽपि तिथिवारर्क्षशोधिते",
+   "text_te": "అథవా ప్రీతయే దేవ్యా నవరాత్రచతుష్టయే | శృణుయాదన్యమాసేఽపి తిథివారర్క్షశోధితే",
+   "text_en": "athavā prītaye devyā navarātracatuṣṭaye | śṛṇuyādanyamāse'pi tithivārarkṣaśodhite",
+   "mean_en": "\"Or, for the pleasure of the Goddess, in the four Navaratras one may hear it in another month too, with tithi, day and star purified.\"",
+   "mean_te": "\"లేదా దేవి ప్రీతి కొరకు నాలుగు నవరాత్రులలో, తిథి వార నక్షత్రాలు శుద్ధి చేసికొని ఇతర మాసంలోను శ్రవణం చెయ్యవచ్చును.\""
+  },
+  {
+   "n": 8,
+   "text_deva": "संभारं तादृशं कार्यं विवाहादौ च यादृशम् | नवाह्यज्ञे चाप्यस्मिन्विधेयं यत्नतो बुधैः",
+   "text_te": "సంభారం తాదృశం కార్యం వివాహాదౌ చ యాదృశమ్ | నవాహ్యజ్ఞే చాప్యస్మిన్విధేయం యత్నతో బుధైః",
+   "text_en": "saṁbhāraṁ tādṛśaṁ kāryaṁ vivāhādau ca yādṛśam | navāhyajñe cāpyasminvidheyaṁ yatnato budhaiḥ",
+   "mean_en": "\"Arrangements of that kind — as for a marriage and the like — are to be made with care by the wise for this navaha-yajna too.\"",
+   "mean_te": "\"వివాహాదుల వలె అవసరమైన సంభారాలను ఈ నవాహ యజ్ఞంలో కూడా బుద్ధిమంతులు యత్నపూర్వకంగా చేయవలెను.\""
+  },
+  {
+   "n": 9,
+   "text_deva": "सहाया बहवः कार्या दम्भलोभविवर्जिताः | चतुराश्च वदान्याश्च देवीभक्तिपरा नराः",
+   "text_te": "సహాయా బహవః కార్యా దమ్భలోభవివర్జితాః | చతురాశ్చ వదాన్యాశ్చ దేవీభక్తిపరా నరాః",
+   "text_en": "sahāyā bahavaḥ kāryā dambhalobhavivarjitāḥ | caturāśca vadānyāśca devībhaktiparā narāḥ",
+   "mean_en": "\"Many helpers are needed — free of hypocrisy and greed, wise and generous, devoted to the Goddess.\"",
+   "mean_te": "\"అనేక సహాయకులు కావలెను — దంభ, లోభాలను వర్జించిన, చతురులు, దాతలు, దేవీభక్తిపరాయణులు.\""
+  },
+  {
+   "n": 10,
+   "text_deva": "प्रेष्या यत्नेन वार्तेयं देशे देशे जने जने | आगन्तव्यमिहावश्यं कथा देव्या भविष्यति",
+   "text_te": "ప్రేష్యా యత్నేన వార్తేయం దేశే దేశే జనే జనే | ఆగన్తవ్యమిహావశ్యం కథా దేవ్యా భవిష్యతి",
+   "text_en": "preṣyā yatnena vārteyaṁ deśe deśe jane jane | āgantavyamihāvaśyaṁ kathā devyā bhaviṣyati",
+   "mean_en": "\"Servants should earnestly spread the news from place to place, person to person: 'Here the Goddess's story will certainly take place.'\"",
+   "mean_te": "\"ప్రేష్యులు (పనివాళ్ళు) కృషితో దేశదేశాల్లో, మనిషిమనిషికి వార్త ప్రకటింపవలెను — 'ఇక్కడ ఖచ్చితంగా దేవి కథ జరుగును' అని.\""
+  },
+  {
+   "n": 11,
+   "text_deva": "सौराश्च गाणपत्याश्च शैवाः शाक्ताश्च वैष्णवाः | सर्वेषामपि सेव्येयं यतो देवाः सशक्तयः",
+   "text_te": "సౌరాశ్చ గాణపత్యాశ్చ శైవాః శాక్తాశ్చ వైష్ణవాః | సర్వేషామపి సేవ్యేయం యతో దేవాః సశక్తయః",
+   "text_en": "saurāśca gāṇapatyāśca śaivāḥ śāktāśca vaiṣṇavāḥ | sarveṣāmapi sevyeyaṁ yato devāḥ saśaktayaḥ",
+   "mean_en": "\"Sauras, Ganapatyas, Shaivas, Shaktas and Vaishnavas — all are to be served by this, for the gods, with their shaktis, are one.\"",
+   "mean_te": "\"సౌరులు, గాణపత్యులు, శైవులు, శాక్తేయులు, వైష్ణవులు — సర్వులకును ఇది సేవ్యం; దేవతలు శక్తులతో సహా అందరూ ఒక్కటే కావడంచేత.\""
+  },
+  {
+   "n": 12,
+   "text_deva": "श्रीमद्देवीभागवतपीयूषरसलोलुपैः | आगंतव्यं विशेषेण कथार्थं प्रेमतत्परैः",
+   "text_te": "శ్రీమద్దేవీభాగవతపీయూషరసలోలుపైః | ఆగంతవ్యం విశేషేణ కథార్థం ప్రేమతత్పరైః",
+   "text_en": "śrīmaddevībhāgavatapīyūṣarasalolupaiḥ | āgaṁtavyaṁ viśeṣeṇa kathārthaṁ prematatparaiḥ",
+   "mean_en": "\"Those eager for the nectar-rasa of the Sri Devi Bhagavata must come especially, keen with love for the story's meaning.\"",
+   "mean_te": "\"శ్రీమద్దేవీ భాగవతామృత రస లోలులైనవారు, కథార్థ ప్రేమతత్పరులు — విశేషంగా తప్పక తరలిరావలెను.\""
+  },
+  {
+   "n": 13,
+   "text_deva": "ब्राह्मणाद्याश्च ये वर्णाः स्त्रियश्चाश्रमिणस्तथा | सकामाश्चापि निष्कामाः पातव्यं तैः कथामृतम्",
+   "text_te": "బ్రాహ్మణాద్యాశ్చ యే వర్ణాః స్త్రియశ్చాశ్రమిణస్తథా | సకామాశ్చాపి నిష్కామాః పాతవ్యం తైః కథామృతమ్",
+   "text_en": "brāhmaṇādyāśca ye varṇāḥ striyaścāśramiṇastathā | sakāmāścāpi niṣkāmāḥ pātavyaṁ taiḥ kathāmṛtam",
+   "mean_en": "\"All varnas from brahmin onward, and women and ashramins too — with desires or without — are to partake of this story-nectar.\"",
+   "mean_te": "\"బ్రాహ్మణాది వర్ణాలవారు, స్త్రీలు, ఆశ్రమధరులు — సకాములైనను, నిష్కాములైనను — ఈ కథామృతాన్ని పానం చేయవలెను.\""
+  },
+  {
+   "n": 14,
+   "text_deva": "नावकाशः कदाचित्स्यान्नवाहश्रवणेऽपि तैः | आगंतव्यं यथाकालं यज्ञे पुण्या क्षणस्थितिः",
+   "text_te": "నావకాశః కదాచిత్స్యాన్నవాహశ్రవణేఽపి తైః | ఆగంతవ్యం యథాకాలం యజ్ఞే పుణ్యా క్షణస్థితిః",
+   "text_en": "nāvakāśaḥ kadācitsyānnavāhaśravaṇe'pi taiḥ | āgaṁtavyaṁ yathākālaṁ yajñe puṇyā kṣaṇasthitiḥ",
+   "mean_en": "\"There should never be any lack of welcome from them, even for those who merely listen for the nine days; they should come in time, like the auspicious moment of a yajna.\"",
+   "mean_te": "\"నవాహ శ్రవణంలో వారికి ఎప్పుడూ అవకాశం లోపించరాదు; యజ్ఞంలో పుణ్యక్షణంలా తగిన కాలంలో తప్పక తరలిరావలెను.\""
+  },
+  {
+   "n": 15,
+   "text_deva": "विनयेनैव कर्त्तव्यमेवमाकारणं नृणाम् | आगतानां च कर्त्तव्यं वासस्थानं यथोचितम् १५ | कथास्थानं प्रकर्त्तव्यं भूमौ मार्जनपूर्वकम् | लेपनं गोमयेनाथ विशालायां मनोरमम्",
+   "text_te": "వినయేనైవ కర్త్తవ్యమేవమాకారణం నృణామ్ | ఆగతానాం చ కర్త్తవ్యం వాసస్థానం యథోచితమ్ १५ | కథాస్థానం ప్రకర్త్తవ్యం భూమౌ మార్జనపూర్వకమ్ | లేపనం గోమయేనాథ విశాలాయాం మనోరమమ్",
+   "text_en": "vinayenaiva karttavyamevamākāraṇaṁ nṛṇām | āgatānāṁ ca karttavyaṁ vāsasthānaṁ yathocitam १५ | kathāsthānaṁ prakarttavyaṁ bhūmau mārjanapūrvakam | lepanaṁ gomayenātha viśālāyāṁ manoramam",
+   "mean_en": "\"All this should be done with humility, without asking reasons from men; and lodging befitting those who have come must be arranged.\" — The story-venue should be prepared on the ground, first swept,",
+   "mean_te": "\"ఇవన్నీ వినయంతోనే చేయవలెను; మనుషులనుండి కారణాలు అడుగుకోరాదు; తరలివచ్చిన వారికి తగినట్లు వసతి ఏర్పరచవలెను.\" — కథాస్థలాన్ని భూమిని మొదట ఆరాద్చి,"
+  },
+  {
+   "n": 16,
+   "text_deva": "कार्यस्तु मण्डपो रम्यो रंभास्तंभोपशोभितः | वितानमुपरिष्ठात्तु पताकाध्वज राजितः",
+   "text_te": "కార్యస్తు మణ్డపో రమ్యో రంభాస్తంభోపశోభితః | వితానముపరిష్ఠాత్తు పతాకాధ్వజ రాజితః",
+   "text_en": "kāryastu maṇḍapo ramyo raṁbhāstaṁbhopaśobhitaḥ | vitānamupariṣṭhāttu patākādhvaja rājitaḥ",
+   "mean_en": "smeared with cow-dung, spacious and lovely; and a charming pavilion adorned with pillars of plantain trees, a canopy above, decked with flags and banners.",
+   "mean_te": "గోమయంతో పొరడించి, విశాలంగా, మనోహరంగా సిద్ధం చేయాలి; రంభా స్తంభాలతో శోభిల్లు మందిరం, పైన వితానం, పతాకా ధ్వజాలతో రాజిల్లును."
+  },
+  {
+   "n": 17,
+   "text_deva": "वक्तुश्चैवासनं दिव्यं सुखास्तरणसंयुतम् | रचितव्यं प्रयत्नेन प्राङ्मुखं वाप्युदङ्मुखम्",
+   "text_te": "వక్తుశ్చైవాసనం దివ్యం సుఖాస్తరణసంయుతమ్ | రచితవ్యం ప్రయత్నేన ప్రాఙ్ముఖం వాప్యుదఙ్ముఖమ్",
+   "text_en": "vaktuścaivāsanaṁ divyaṁ sukhāstaraṇasaṁyutam | racitavyaṁ prayatnena prāṅmukhaṁ vāpyudaṅmukham",
+   "mean_en": "For the reciter a divine seat with soft coverings should be carefully set, facing east or north.",
+   "mean_te": "వాచకుడికి దివ్యమైన, సుఖాసనాలతో కూడిన ఆసనాన్ని యత్నపూర్వకంగా తూర్పునగాని ఉత్తరంవైపుగాని సిద్ధపరచాలి."
+  },
+  {
+   "n": 18,
+   "text_deva": "यथोचितानि कुर्वीत श्रोतॄणामासनानि च | नृणां चैवाथ नारीणां कथाश्रवणहेतवे",
+   "text_te": "యథోచితాని కుర్వీత శ్రోతౄణామాసనాని చ | నృణాం చైవాథ నారీణాం కథాశ్రవణహేతవే",
+   "text_en": "yathocitāni kurvīta śrotṝṇāmāsanāni ca | nṛṇāṁ caivātha nārīṇāṁ kathāśravaṇahetave",
+   "mean_en": "Suitable seats should be made for the listeners — for men and for women too — for the sake of hearing the story.",
+   "mean_te": "కథాశ్రవణం కొరకు శ్రోతలకు — పురుషులకు, స్త్రీలకు — యథోచితమైన ఆసనాలు ఏర్పరచాలి."
+  },
+  {
+   "n": 19,
+   "text_deva": "वाग्मी दांतश्च शास्त्रज्ञो देव्याराधनतत्परः | दयालुनिस्पृहो दक्षो धीरो वक्तोत्तमो मतः",
+   "text_te": "వాగ్మీ దాంతశ్చ శాస్త్రజ్ఞో దేవ్యారాధనతత్పరః | దయాలునిస్పృహో దక్షో ధీరో వక్తోత్తమో మతః",
+   "text_en": "vāgmī dāṁtaśca śāstrajño devyārādhanatatparaḥ | dayālunispṛho dakṣo dhīro vaktottamo mataḥ",
+   "mean_en": "The best speaker is held to be: eloquent and self-controlled, a knower of shastras, intent on worshipping the Goddess, compassionate, without craving, capable and steady of mind.",
+   "mean_te": "వాగ్మి, దాంతుడు, శాస్త్రజ్ఞుడు, దేవి ఆరాధనాతత్పరుడు, దయాళుడు, నిస్స్పృహుడు, దక్షుడు, ధీరుడు — అటువంటి వాచకుడే ఉత్తముడిగా పరిగణింపబడును."
+  },
+  {
+   "n": 20,
+   "text_deva": "ब्रह्मण्यो देवताभक्तः कथारसपरायणः | उदारोऽलोलुपो नम्रः श्रोता हिंसादिवर्जितः",
+   "text_te": "బ్రహ్మణ్యో దేవతాభక్తః కథారసపరాయణః | ఉదారోఽలోలుపో నమ్రః శ్రోతా హింసాదివర్జితః",
+   "text_en": "brahmaṇyo devatābhaktaḥ kathārasaparāyaṇaḥ | udāro'lolupo namraḥ śrotā hiṁsādivarjitaḥ",
+   "mean_en": "A worthy listener is: devoted to brahmin and gods, devoted to the story's rasa, noble, without craving, humble, free of violence and the rest.",
+   "mean_te": "బ్రహ్మణ్యుడు, దేవతాభక్తుడు, కథారస పరాయణుడు, ఉదారుడు, లోలుపత్వం లేనివాడు, నమ్రుడు, హింసాదులను వర్జించినవాడు — అటువంటి శ్రోత శ్రేష్ఠుడు."
+  },
+  {
+   "n": 21,
+   "text_deva": "पाखण्डनिरतो लुब्धः स्त्रैणो धर्मध्वजस्तथा | निष्ठुरः क्रोधनो वक्ता देवीयज्ञे न शस्यते",
+   "text_te": "పాఖణ్డనిరతో లుబ్ధః స్త్రైణో ధర్మధ్వజస్తథా | నిష్ఠురః క్రోధనో వక్తా దేవీయజ్ఞే న శస్యతే",
+   "text_en": "pākhaṇḍanirato lubdhaḥ straiṇo dharmadhvajastathā | niṣṭhuraḥ krodhano vaktā devīyajñe na śasyate",
+   "mean_en": "A speaker given to heresy, greedy, lustful, wearing dharma as a banner (hypocritical), harsh and wrathful — is not fit for the Goddess's yajna.",
+   "mean_te": "పాఖండాలలో రతుడు, లోభి, స్త్రీలోలుడు, ధర్మధ్వజం (కపటం) గలవాడు, నిష్ఠురుడు, క్రోధి — అటువంటి వాచకుడు దేవీయజ్ఞంలో శ్లాఘింపబడడు."
+  },
+  {
+   "n": 22,
+   "text_deva": "संशयच्छेदनायैक: पण्डितश्च तथागुणः | श्रोतृबोधकृदव्यग्रः कार्य्यो वक्तुः सहायकृत्",
+   "text_te": "సంశయచ్ఛేదనాయైక: పణ్డితశ్చ తథాగుణః | శ్రోతృబోధకృదవ్యగ్రః కార్య్యో వక్తుః సహాయకృత్",
+   "text_en": "saṁśayacchedanāyaika: paṇḍitaśca tathāguṇaḥ | śrotṛbodhakṛdavyagraḥ kāryyo vaktuḥ sahāyakṛt",
+   "mean_en": "The speaker should be learned, with those qualities, cutting doubts at once; helpers who awaken the listeners, without haste, are needed.",
+   "mean_te": "సందేహాలను క్షణమందే ఛేదించు పండితుడు అటువంటి గుణాలతో ఉండాలి; శ్రోతలకు బోధకులై, ఉత్సాహంతో కూడిన సహాయకులు కావలెను."
+  },
+  {
+   "n": 23,
+   "text_deva": "मुहूर्तं दिवसादर्वाग्वक्तृश्रोतादिभिर्जनैः | कर्त्तव्यं क्षौरकर्मादि ततो नियमकल्पनम्",
+   "text_te": "ముహూర్తం దివసాదర్వాగ్వక్తృశ్రోతాదిభిర్జనైః | కర్త్తవ్యం క్షౌరకర్మాది తతో నియమకల్పనమ్",
+   "text_en": "muhūrtaṁ divasādarvāgvaktṛśrotādibhirjanaiḥ | karttavyaṁ kṣaurakarmādi tato niyamakalpanam",
+   "mean_en": "For a muhurta in the morning the reciter, listeners and others should do hair-care and the like; then the rules are laid down.",
+   "mean_te": "దినారంభంలో ఒక ముహూర్తం వాచక, శ్రోతాదులు క్షౌరకర్మాదులు చేసుకొనవలెను; తరువాత నియమ నిర్ణయం జరుగును."
+  },
+  {
+   "n": 24,
+   "text_deva": "अरुणोदयवेलायां स्नायाच्छौचं विधाय च | संध्या तर्पणकार्यं च नित्यं संक्षेपतश्चरेत्",
+   "text_te": "అరుణోదయవేలాయాం స్నాయాచ్ఛౌచం విధాయ చ | సంధ్యా తర్పణకార్యం చ నిత్యం సంక్షేపతశ్చరేత్",
+   "text_en": "aruṇodayavelāyāṁ snāyācchaucaṁ vidhāya ca | saṁdhyā tarpaṇakāryaṁ ca nityaṁ saṁkṣepataścaret",
+   "mean_en": "At dawn one should bathe and observe purity; and daily, briefly, perform sandhya and tarpana.",
+   "mean_te": "అరుణోదయ సమయంలో స్నానం చేసి, శౌచం ఆచరించాలి; సంధ్యా తర్పణకార్యాలను నిత్యం సంక్షిప్తంగా ఆచరించాలి."
+  },
+  {
+   "n": 25,
+   "text_deva": "कथाश्रवणयोग्यत्वसिद्धये गाश्च दापयेत् | समस्तविघ्नहर्तारमादौ गणपतिं यजेत्",
+   "text_te": "కథాశ్రవణయోగ్యత్వసిద్ధయే గాశ్చ దాపయేత్ | సమస్తవిఘ్నహర్తారమాదౌ గణపతిం యజేత్",
+   "text_en": "kathāśravaṇayogyatvasiddhaye gāśca dāpayet | samastavighnahartāramādau gaṇapatiṁ yajet",
+   "mean_en": "For the success of fitness for hearing the story, cows should be fed; and first Ganapati, the remover of all obstacles, should be worshipped.",
+   "mean_te": "కథాశ్రవణ యోగ్యతాసిద్ధి కొరకు గోవులకు తృణం సమర్పించాలి; మొదట సర్వ విఘ్నహర్త అయిన గణపతిని పూజించాలి."
+  },
+  {
+   "n": 26,
+   "text_deva": "कलशांश्चापि संस्थाप्य पूजयेत्तत्र दिग्भवान् | वटुकं क्षेत्रपालं च योगिनीर्मातृकास्तथा",
+   "text_te": "కలశాంశ్చాపి సంస్థాప్య పూజయేత్తత్ర దిగ్భవాన్ | వటుకం క్షేత్రపాలం చ యోగినీర్మాతృకాస్తథా",
+   "text_en": "kalaśāṁścāpi saṁsthāpya pūjayettatra digbhavān | vaṭukaṁ kṣetrapālaṁ ca yoginīrmātṛkāstathā",
+   "mean_en": "Kalashas should be installed and the guardians of the directions worshipped there, and Vatuka, Kshetrapala, the Yoginis and Matrikas as well.",
+   "mean_te": "కలశాలను ప్రతిష్ఠించి, అక్కడ దిగ్భవానులను, వటుకును, క్షేత్రపాలుడిని, యోగినులను, మాతృకలను కూడా పూజించాలి."
+  },
+  {
+   "n": 27,
+   "text_deva": "तुलसीं चापि संपूज्य ग्रहान्विष्णुं च शंकरम् | नवाक्षरेण मनुना पूजयेज्जगदम्बिकाम्",
+   "text_te": "తులసీం చాపి సంపూజ్య గ్రహాన్విష్ణుం చ శంకరమ్ | నవాక్షరేణ మనునా పూజయేజ్జగదమ్బికామ్",
+   "text_en": "tulasīṁ cāpi saṁpūjya grahānviṣṇuṁ ca śaṁkaram | navākṣareṇa manunā pūjayejjagadambikām",
+   "mean_en": "Having worshipped Tulasi too, the grahas, Vishnu and Shankara, one should worship the Mother of the world with the nine-syllable mantra.",
+   "mean_te": "తులసిని, గ్రహాలను, విష్ణువును, శంకరుని పూజించి, నవాక్షర మంత్రంతో జగదంబికను పూజించాలి."
+  },
+  {
+   "n": 28,
+   "text_deva": "सर्वोपचारैः संपूज्य श्रीभागवतपुस्तकम् | श्रीदेव्या वाङ्मयीं मूर्तिं यथावच्छोभनाक्षरम् २९ | कथाविघ्नोपशांत्यर्थं वृणुयात्तं च वाडवान् | जाप्यो नवार्णमंत्रस्तैः पाठ्यः सप्तशतीस्तवः ३० | प्रदक्षिणनमस्कारान्कृत्वांते स्तुतिमाचरेत् | कात्यायनि महामाये भवानि भुवनेश्वरि",
+   "text_te": "సర్వోపచారైః సంపూజ్య శ్రీభాగవతపుస్తకమ్ | శ్రీదేవ్యా వాఙ్మయీం మూర్తిం యథావచ్ఛోభనాక్షరమ్ २९ | కథావిఘ్నోపశాంత్యర్థం వృణుయాత్తం చ వాడవాన్ | జాప్యో నవార్ణమంత్రస్తైః పాఠ్యః సప్తశతీస్తవః ३० | ప్రదక్షిణనమస్కారాన్కృత్వాంతే స్తుతిమాచరేత్ | కాత్యాయని మహామాయే భవాని భువనేశ్వరి",
+   "text_en": "sarvopacāraiḥ saṁpūjya śrībhāgavatapustakam | śrīdevyā vāṅmayīṁ mūrtiṁ yathāvacchobhanākṣaram २९ | kathāvighnopaśāṁtyarthaṁ vṛṇuyāttaṁ ca vāḍavān | jāpyo navārṇamaṁtrastaiḥ pāṭhyaḥ saptaśatīstavaḥ ३० | pradakṣiṇanamaskārānkṛtvāṁte stutimācaret | kātyāyani mahāmāye bhavāni bhuvaneśvari",
+   "mean_en": "Having worshipped the Sri Bhagavata book with all upacharas — it being the Devi's very speech-form, of beautiful letters — for the quelling of the story's obstacles one should choose the vadava (hymn), the navarna mantra is to be japa'd, and the Saptashati recited; with pradakshina and namaskaras one should then recite the stuti: \"O Katyayani, Mahamaye, Bhavani, Bhuvaneshvari...\"",
+   "mean_te": "సర్వోపచారాలతో శ్రీ భాగవత గ్రంథాన్ని — అది శ్రీదేవి వాఙ్మయీ మూర్తి, శోభనాక్షర మయం — పూజించాలి. కథావిఘ్న శాంతి కొరకు వాడవాన్ని ఎంచుకొని, నవార్ణ మంత్రాన్ని జపించాలి, సప్తశతిని పాఠం చేయాలి; ప్రదక్షిణ నమస్కారాలతో స్తుతిని ఆచరించాలి — \"కాత్యాయని మహామాయే భవానీ భువనేశ్వరి...\""
+  },
+  {
+   "n": 29,
+   "text_deva": "संसारसागरे मग्नं मामुद्धर कृपामये | ब्रह्मविष्णुशिवाराध्ये प्रसीद जगदंबिके",
+   "text_te": "సంసారసాగరే మగ్నం మాముద్ధర కృపామయే | బ్రహ్మవిష్ణుశివారాధ్యే ప్రసీద జగదంబికే",
+   "text_en": "saṁsārasāgare magnaṁ māmuddhara kṛpāmaye | brahmaviṣṇuśivārādhye prasīda jagadaṁbike",
+   "mean_en": "\"Immersed in the ocean of worldly existence, lift me up, O ocean of mercy; worshipped by Brahma, Vishnu and Shiva — be pleased, O Mother of the world.\"",
+   "mean_te": "\"సంసార సాగరంలో మునిగిన నన్ను కరుణామయీ! కాపాడు; బ్రహ్మ విష్ణు శివులచే ఆరాధ్యమైన జగదంబికా! ముద్దుపడు.\""
+  },
+  {
+   "n": 30,
+   "text_deva": "मनोभिलषितं देवि वरं देहि नमोऽस्तु ते | इति संप्रार्थ्य शृणुयात्कथां नियतमानसः",
+   "text_te": "మనోభిలషితం దేవి వరం దేహి నమోఽస్తు తే | ఇతి సంప్రార్థ్య శృణుయాత్కథాం నియతమానసః",
+   "text_en": "manobhilaṣitaṁ devi varaṁ dehi namo'stu te | iti saṁprārthya śṛṇuyātkathāṁ niyatamānasaḥ",
+   "mean_en": "\"O Goddess, give the boon my heart desires; salutations to you.\" Praying thus, one should hear the story with a mind of resolve.",
+   "mean_te": "\"దేవీ! మనోభీష్టమైన వరాన్ని దయచేయి; నీకు నమస్కారాలు\" అని ప్రార్థించి, నియత చిత్తుడై కథాశ్రవణం చెయ్యాలి."
+  },
+  {
+   "n": 31,
+   "text_deva": "वक्तारं चापि संपूज्य व्यासबुद्ध्या तदात्मवान् | माल्यालंकारवस्त्राद्यैः संभूष्य&#39; प्रार्थयेच्च तम्",
+   "text_te": "వక్తారం చాపి సంపూజ్య వ్యాసబుద్ధ్యా తదాత్మవాన్ | మాల్యాలంకారవస్త్రాద్యైః సంభూష్య&#39; ప్రార్థయేచ్చ తమ్",
+   "text_en": "vaktāraṁ cāpi saṁpūjya vyāsabuddhyā tadātmavān | mālyālaṁkāravastrādyaiḥ saṁbhūṣya&#39; prārthayecca tam",
+   "mean_en": "The reciter too should be worshipped; seeing him as Vyasa himself, one should adorn him with garlands, ornaments and garments and beseech him:",
+   "mean_te": "వాచకుడిని కూడా పూజించాలి; వ్యాస బుద్ధితో అతనిని మాల్యాలంకార వస్త్రాదులతో అలంకరించి, ప్రార్థించాలి:"
+  },
+  {
+   "n": 32,
+   "text_deva": "सर्वशास्त्रेतिहासज्ञ व्यासरूप नमोऽस्तु ते | कथाचंद्रोदयेनांतस्तमःस्तोमं निराकुरु | ३५ तदग्रे तु नवाहान्तं कर्त्तव्या नियमास्तदा | विप्रादीनुपवेश्यादौ संपूज्योपविशेत्स्वयम्",
+   "text_te": "సర్వశాస్త్రేతిహాసజ్ఞ వ్యాసరూప నమోఽస్తు తే | కథాచంద్రోదయేనాంతస్తమఃస్తోమం నిరాకురు | ३५ తదగ్రే తు నవాహాన్తం కర్త్తవ్యా నియమాస్తదా | విప్రాదీనుపవేశ్యాదౌ సంపూజ్యోపవిశేత్స్వయమ్",
+   "text_en": "sarvaśāstretihāsajña vyāsarūpa namo'stu te | kathācaṁdrodayenāṁtastamaḥstomaṁ nirākuru | ३५ tadagre tu navāhāntaṁ karttavyā niyamāstadā | viprādīnupaveśyādau saṁpūjyopaviśetsvayam",
+   "mean_en": "\"You who know all shastras and histories, who are Vyasa himself — salutations to you; with the moon-rise of your story, dispel the mass of inner darkness.\" Then at the start and at the end of the nine days the rules are to be observed; seating the brahmins and the rest first and worshipping them, one should sit oneself.",
+   "mean_te": "\"సర్వ శాస్త్ర ఇతిహాసజ్ఞుడవు, వ్యాసస్వరూపుడవు — నీకు నమస్కారం; నీ కథాచంద్రోదయంతో అంతఃతమస్సును పరిహరించు.\" అని. అప్పుడు నవాహాంతం వరకు నియమాలు పాటించాలి; విప్రాదులను ముందు ఆసీనులుగా చేసి పూజించి, స్వయంగా ఆసీనుడవాలి."
+  },
+  {
+   "n": 33,
+   "text_deva": "श्रोतव्यं सावधानेन चतुर्वर्गफलाप्तये | गृहपुत्रकलत्राप्तघनचिन्तामपास्य च",
+   "text_te": "శ్రోతవ్యం సావధానేన చతుర్వర్గఫలాప్తయే | గృహపుత్రకలత్రాప్తఘనచిన్తామపాస్య చ",
+   "text_en": "śrotavyaṁ sāvadhānena caturvargaphalāptaye | gṛhaputrakalatrāptaghanacintāmapāsya ca",
+   "mean_en": "It should be heard with attention, for the fruit of the four purusharthas — setting aside anxiety about house, sons and wife.",
+   "mean_te": "చతుర్వర్గ ఫలప్రాప్తి కొరకు ఏకాగ్రంగా శ్రవణం చేయాలి; గృహ, పుత్ర, కళత్ర సంపాదన చింతలను విస్మరించి."
+  },
+  {
+   "n": 34,
+   "text_deva": "सूर्योदयं समारभ्य किंचित्सूर्येऽवशेषिते | मुहूर्तमात्रं विश्रम्य मध्याह्ने वाचयेत्सुधीः",
+   "text_te": "సూర్యోదయం సమారభ్య కించిత్సూర్యేఽవశేషితే | ముహూర్తమాత్రం విశ్రమ్య మధ్యాహ్నే వాచయేత్సుధీః",
+   "text_en": "sūryodayaṁ samārabhya kiṁcitsūrye'vaśeṣite | muhūrtamātraṁ viśramya madhyāhne vācayetsudhīḥ",
+   "mean_en": "Beginning at sunrise, when some sun yet remains, resting but a muhurta, the wise one should have (the story) recited at midday.",
+   "mean_te": "సూర్యోదయం నుండి ఆరంభించి, సూర్యుడికి కొంత భాగం మిగిలినప్పుడు, ఒక ముహూర్తం విశ్రాంతి తీసుకొని, మధ్యాహ్నంలో పఠింపజేయాలి, సుధీరుడు."
+  },
+  {
+   "n": 35,
+   "text_deva": "मलमूत्रजयायैषां लघु भोजनमिष्यते | हविष्यान्नं वरं भोज्यं सकृदेव कथार्थिना",
+   "text_te": "మలమూత్రజయాయైషాం లఘు భోజనమిష్యతే | హవిష్యాన్నం వరం భోజ్యం సకృదేవ కథార్థినా",
+   "text_en": "malamūtrajayāyaiṣāṁ laghu bhojanamiṣyate | haviṣyānnaṁ varaṁ bhojyaṁ sakṛdeva kathārthinā",
+   "mean_en": "For them, to conquer impurities, a light meal is desired; better is havishyanna, eaten but once by the story-seeker.",
+   "mean_te": "మల మూత్ర జయార్థం వారికి లఘు భోజనం ఇష్టం; హవిష్యాన్నం వరం — కథార్థి ఒక్కసారే భుజింపవలెను."
+  },
+  {
+   "n": 36,
+   "text_deva": "अथवा स्यात्फलाहारी पयोभुग्वा घृताशनः | यथा स्यान्न कथाविघ्नस्तथा कार्यं विचक्षणैः ४० | कथाश्रवणनिष्ठानां वक्ष्यामि नियमं द्विजाः | ब्रह्मविष्णुमहेशानां मध्ये ये भेददर्शिनः",
+   "text_te": "అథవా స్యాత్ఫలాహారీ పయోభుగ్వా ఘృతాశనః | యథా స్యాన్న కథావిఘ్నస్తథా కార్యం విచక్షణైః ४० | కథాశ్రవణనిష్ఠానాం వక్ష్యామి నియమం ద్విజాః | బ్రహ్మవిష్ణుమహేశానాం మధ్యే యే భేదదర్శినః",
+   "text_en": "athavā syātphalāhārī payobhugvā ghṛtāśanaḥ | yathā syānna kathāvighnastathā kāryaṁ vicakṣaṇaiḥ ४० | kathāśravaṇaniṣṭhānāṁ vakṣyāmi niyamaṁ dvijāḥ | brahmaviṣṇumaheśānāṁ madhye ye bhedadarśinaḥ",
+   "mean_en": "Or one may live on fruits, drink milk or eat ghee-rice — as the wise arrange so that the story meets no obstacle. Now I shall tell the rules for those devoted to hearing the story, O dvijas: those who see difference among Brahma, Vishnu and Maheshvara,",
+   "mean_te": "లేదా ఫలాహారంతోను, పాలపుచ్చుకతోను, ఘృతాన్నంతోను ఉండవచ్చును — కథావిఘ్నం లేకుండా కుశలురు ఏర్పాటు చేసుకొనవలెను. కథాశ్రవణ నిష్ఠుల నియమం చెప్తాను, ద్విజాలారా! — బ్రహ్మ విష్ణు మహేశులలో భేదదృష్టి కలవారు,"
+  },
+  {
+   "n": 37,
+   "text_deva": "देवीभक्तिविहीना ये पाखण्डा हिंसकाः खलाः | विप्रद्रुहो नास्तिका ये न ते योग्याः कथाश्रवे",
+   "text_te": "దేవీభక్తివిహీనా యే పాఖణ్డా హింసకాః ఖలాః | విప్రద్రుహో నాస్తికా యే న తే యోగ్యాః కథాశ్రవే",
+   "text_en": "devībhaktivihīnā ye pākhaṇḍā hiṁsakāḥ khalāḥ | vipradruho nāstikā ye na te yogyāḥ kathāśrave",
+   "mean_en": "those devoid of devotion to the Goddess, heretics, the violent, the wicked, haters of brahmins, the unbelievers — such are not fit to hear the story.",
+   "mean_te": "దేవీభక్తి లేనివారు, పాఖండులు, హింసకులు, ఖలులు, విప్రద్రోహులు, నాస్తికులు — అటువంటివారికి కథాశ్రవణంలో అర్హత లేదు."
+  },
+  {
+   "n": 38,
+   "text_deva": "ब्रह्मस्वहरणे लुब्धाः परदारधनेषु च | देवस्वहरणे तेषां नाधिकारः कथाश्रवे",
+   "text_te": "బ్రహ్మస్వహరణే లుబ్ధాః పరదారధనేషు చ | దేవస్వహరణే తేషాం నాధికారః కథాశ్రవే",
+   "text_en": "brahmasvaharaṇe lubdhāḥ paradāradhaneṣu ca | devasvaharaṇe teṣāṁ nādhikāraḥ kathāśrave",
+   "mean_en": "Those greedy to steal brahmin's wealth and others' wives, those who rob the gods — such have no entitlement to the story's hearing.",
+   "mean_te": "బ్రహ్మస్వం అపహరించు లోభివారు, పరదార ధనాలలో రతులు, దేవస్వాన్ని అపహరించువారు — అటువంటివారికి కథాశ్రవణంలో అధికారం లేదు."
+  },
+  {
+   "n": 39,
+   "text_deva": "ब्रह्मचारी च भूशायी सत्यवक्ता जितेन्द्रियः | कथासमाप्तौ भुंजीत पत्रावल्यां यतात्मवान् ४४ | वृंतांकं च कलिन्दं च तैलं च द्विदलं मधु | दग्धमन्नं पर्युषितं भावदुष्टं त्यजेद्व्रती",
+   "text_te": "బ్రహ్మచారీ చ భూశాయీ సత్యవక్తా జితేన్ద్రియః | కథాసమాప్తౌ భుంజీత పత్రావల్యాం యతాత్మవాన్ ४४ | వృంతాంకం చ కలిన్దం చ తైలం చ ద్విదలం మధు | దగ్ధమన్నం పర్యుషితం భావదుష్టం త్యజేద్వ్రతీ",
+   "text_en": "brahmacārī ca bhūśāyī satyavaktā jitendriyaḥ | kathāsamāptau bhuṁjīta patrāvalyāṁ yatātmavān ४४ | vṛṁtāṁkaṁ ca kalindaṁ ca tailaṁ ca dvidalaṁ madhu | dagdhamannaṁ paryuṣitaṁ bhāvaduṣṭaṁ tyajedvratī",
+   "mean_en": "One should be a brahmachari in conduct, adorned with virtues, truthful, sense-controlled, restrained — and at the story's completion, eat from the leaf-plates, self-controlled. The vratin should renounce: the used leaf-plate, kalinda leaves, oil, double-dal, honey, burnt food, stale food, and food of corrupt feeling.",
+   "mean_te": "బ్రహ్మచారిగా, సద్గుణాలతో భూషితుడిగా, సత్యవాక్కుడిగా, జితేంద్రియుడిగా ఉండి, కథా సమాప్తిలో పత్రావళిలో యతాత్ముడై భుజింపాలి. వృంతాంకం (పరులు వాడిన పత్రం), కలిందం, తైలం, ద్విదళం, మధువు, దగ్ధాన్నం, పర్యుషితం, భావదూషితం — వీటిని కథావ్రతి వర్జించాలి."
+  },
+  {
+   "n": 40,
+   "text_deva": "आमिषं च मसूरान्नमुदक्या दृष्टमेव च | रसोनं मूलकं हिंगुं पलांडुं गृञ्जनं तथा",
+   "text_te": "ఆమిషం చ మసూరాన్నముదక్యా దృష్టమేవ చ | రసోనం మూలకం హింగుం పలాండుం గృఞ్జనం తథా",
+   "text_en": "āmiṣaṁ ca masūrānnamudakyā dṛṣṭameva ca | rasonaṁ mūlakaṁ hiṁguṁ palāṁḍuṁ gṛñjanaṁ tathā",
+   "mean_en": "Meat, masura dal, salt, asafetida, garlic, radish, hing, palandu (onion) and gringana too —",
+   "mean_te": "ఆమిషం (మాంసం), మసూరాన్నం, ఉదకం (ఉప్పు), రసోణం (వెల్లులి), మూలకం, హింగు, పలాండు (ఉల్లి), గ్రింజనం —"
+  },
+  {
+   "n": 41,
+   "text_deva": "कूष्मांडनलिकाशाकं न भुंजीत कथाव्रती | कामं क्रोधं मदं लोभं दंभं मानं च वर्जयेत्",
+   "text_te": "కూష్మాండనలికాశాకం న భుంజీత కథావ్రతీ | కామం క్రోధం మదం లోభం దంభం మానం చ వర్జయేత్",
+   "text_en": "kūṣmāṁḍanalikāśākaṁ na bhuṁjīta kathāvratī | kāmaṁ krodhaṁ madaṁ lobhaṁ daṁbhaṁ mānaṁ ca varjayet",
+   "mean_en": "and ash-gourd and anilika vegetables — the story-vratins should not eat. He should renounce desire, anger, intoxication, greed, hypocrisy and pride.",
+   "mean_te": "కూష్మాండ, అనలికాకాయ మొదలైన శాకాలను కథావ్రతి భుజింపరాదు. కామం, క్రోధం, మదం, లోభం, దంభం, మానం — వీటిని వర్జించాలి."
+  },
+  {
+   "n": 42,
+   "text_deva": "विप्रध्रुक्पतितव्रात्यश्वपाकयवनांत्यजैः | उदक्यया वेदबाह्यैर्न वदेद्यः कथाव्रती",
+   "text_te": "విప్రధ్రుక్పతితవ్రాత్యశ్వపాకయవనాంత్యజైః | ఉదక్యయా వేదబాహ్యైర్న వదేద్యః కథావ్రతీ",
+   "text_en": "vipradhrukpatitavrātyaśvapākayavanāṁtyajaiḥ | udakyayā vedabāhyairna vadedyaḥ kathāvratī",
+   "mean_en": "With haters of brahmins, the fallen, vratyas, chandalas, yavanas and other outcastes — one should not speak, nor with those beyond the Veda; such is the rule for the story-vratin.",
+   "mean_te": "విప్రద్రోహులు, పతితులు, వ్రాత్యులు, శ్వపాకులు, యవనాదులతోను, వేదబహిష్కృతులతోను — కథావ్రతి మాట్లాడకూడదు."
+  },
+  {
+   "n": 43,
+   "text_deva": "वेदगोगुरुविप्राणां स्त्रीराज्ञां महतां तथा | देवानां देवभक्तानां न निंदां शृणुयादपि",
+   "text_te": "వేదగోగురువిప్రాణాం స్త్రీరాజ్ఞాం మహతాం తథా | దేవానాం దేవభక్తానాం న నిందాం శృణుయాదపి",
+   "text_en": "vedagoguruviprāṇāṁ strīrājñāṁ mahatāṁ tathā | devānāṁ devabhaktānāṁ na niṁdāṁ śṛṇuyādapi",
+   "mean_en": "Of the Veda, the cow, the guru, brahmins, women, kings, the great, the gods and the god-devotees — one should not hear even a criticism of them.",
+   "mean_te": "వేద, గో, గురు, విప్రుల నిందను — స్త్రీల, రాజుల, మహనీయుల నిందను — దేవతల, దేవభక్తుల నిందను — వినకూడదు."
+  },
+  {
+   "n": 44,
+   "text_deva": "विनयं चार्जवं शौचं दयां च मितभाषणम् | उदारं मानसं चैव कुर्याद्यस्तु कथाव्रती",
+   "text_te": "వినయం చార్జవం శౌచం దయాం చ మితభాషణమ్ | ఉదారం మానసం చైవ కుర్యాద్యస్తు కథావ్రతీ",
+   "text_en": "vinayaṁ cārjavaṁ śaucaṁ dayāṁ ca mitabhāṣaṇam | udāraṁ mānasaṁ caiva kuryādyastu kathāvratī",
+   "mean_en": "Humility, honesty, purity, compassion and measured speech, and a noble mind — these the story-vratin should cultivate.",
+   "mean_te": "వినయం, నిజాయతీతనం, శౌచం, దయ, మితభాషణం, ఉదారమైన మనస్సు — వీటిని కథావ్రతి ఆచరించాలి."
+  },
+  {
+   "n": 45,
+   "text_deva": "वंध्या वा काकवंध्या वा दुर्भगा वा मृतार्भका | दरिद्रश्चानपत्यश्च भक्त्येमां शृणुयात्कथाम्",
+   "text_te": "వంధ్యా వా కాకవంధ్యా వా దుర్భగా వా మృతార్భకా | దరిద్రశ్చానపత్యశ్చ భక్త్యేమాం శృణుయాత్కథామ్",
+   "text_en": "vaṁdhyā vā kākavaṁdhyā vā durbhagā vā mṛtārbhakā | daridraścānapatyaśca bhaktyemāṁ śṛṇuyātkathām",
+   "mean_en": "A barren woman, a kakavandhya (one who loses children), one of ill fortune, one whose children have died, a poor man, and the childless — hearing this story with devotion,",
+   "mean_te": "వంధ్యయైనను, కాకవంధ్యయైనను, దుర్భగురాలైనను, మృతార్భకురాలైనను, దరిద్రుడైనను, అపుత్రుడైనను — భక్తితో ఈ కథను శ్రవణం చేస్తే,"
+  },
+  {
+   "n": 46,
+   "text_deva": "वंध्या वा काकवंध्या वा दुर्भगा वा मृतार्भका | पतद्गर्भांगना या च ताभिः श्राव्या तथा कथा ५२ | धर्मार्थकाममोक्षांश्च यो वांछति विना श्रमम् | भगवत्या भागवतं श्रोतव्यं तेन यत्नतः",
+   "text_te": "వంధ్యా వా కాకవంధ్యా వా దుర్భగా వా మృతార్భకా | పతద్గర్భాంగనా యా చ తాభిః శ్రావ్యా తథా కథా ५२ | ధర్మార్థకామమోక్షాంశ్చ యో వాంఛతి వినా శ్రమమ్ | భగవత్యా భాగవతం శ్రోతవ్యం తేన యత్నతః",
+   "text_en": "vaṁdhyā vā kākavaṁdhyā vā durbhagā vā mṛtārbhakā | patadgarbhāṁganā yā ca tābhiḥ śrāvyā tathā kathā ५२ | dharmārthakāmamokṣāṁśca yo vāṁchati vinā śramam | bhagavatyā bhāgavataṁ śrotavyaṁ tena yatnataḥ",
+   "mean_en": "a barren woman, a kakavandhya, one of ill fortune, one whose children die, and women whose wombs keep failing — to them this story should be recited.",
+   "mean_te": "వంధ్యయైనను, కాకవంధ్యయైనను, దుర్భగురాలైనను, మృతార్భకురాలైనను, గర్భం పడిపోయే స్త్రీలకు — ఈ కథను శ్రవణం చేయించాలి."
+  },
+  {
+   "n": 47,
+   "text_deva": "कथादिनानि चैतानि नययज्ञैः समानि हि | तेषु दत्तं हुतं जप्तमनन्तफलदं भवेत्",
+   "text_te": "కథాదినాని చైతాని నయయజ్ఞైః సమాని హి | తేషు దత్తం హుతం జప్తమనన్తఫలదం భవేత్",
+   "text_en": "kathādināni caitāni nayayajñaiḥ samāni hi | teṣu dattaṁ hutaṁ japtamanantaphaladaṁ bhavet",
+   "mean_en": "Whoever desires dharma, artha, kama and moksha without toil — let him strive to hear the Bhagavata of the Bhagavati.",
+   "mean_te": "శ్రమ లేకుండా ధర్మార్థకామమోక్షాలను కోరువాడు — భగవతి భాగవతాన్ని యత్నపూర్వకంగా శ్రవణం చెయ్యాలి."
+  },
+  {
+   "n": 48,
+   "text_deva": "एवं व्रतं नवाहं तु कृत्वोद्यापनमाचरेत् | महाष्टमीव्रतं यद्वत्तथा कार्यं फलेप्सुभिः",
+   "text_te": "ఏవం వ్రతం నవాహం తు కృత్వోద్యాపనమాచరేత్ | మహాష్టమీవ్రతం యద్వత్తథా కార్యం ఫలేప్సుభిః",
+   "text_en": "evaṁ vrataṁ navāhaṁ tu kṛtvodyāpanamācaret | mahāṣṭamīvrataṁ yadvattathā kāryaṁ phalepsubhiḥ",
+   "mean_en": "These days of the story are equal to nava-yajnas; what is given, offered in fire, and japa'd during them bears endless fruit.",
+   "mean_te": "ఈ కథాదినములు నవయజ్ఞాలతో సమానము; వాటిలో ఇవ్వబడిన దానం, హవిస్సు, జపం — అనంత ఫలప్రదం."
+  },
+  {
+   "n": 49,
+   "text_deva": "निष्कामाः श्रवणेनैव पूता मुक्तिं व्रजन्ति हि | भोगमोक्षप्रदा नॄणां यतो भगवती परा",
+   "text_te": "నిష్కామాః శ్రవణేనైవ పూతా ముక్తిం వ్రజన్తి హి | భోగమోక్షప్రదా నౄణాం యతో భగవతీ పరా",
+   "text_en": "niṣkāmāḥ śravaṇenaiva pūtā muktiṁ vrajanti hi | bhogamokṣapradā nṝṇāṁ yato bhagavatī parā",
+   "mean_en": "Thus having done the nine-day vow, one should conduct the conclusion (udyapana); as with the Mahashtami vow, so should it be done by those desiring fruit.",
+   "mean_te": "ఈ విధంగా నవాహ వ్రతం చేసి, ఉద్యాపన ఆచరించాలి; మహాష్టమి వ్రతం వలెనే ఫలకాంక్షులు చెయ్యాలి."
+  },
+  {
+   "n": 50,
+   "text_deva": "पुस्तकस्य च वक्तुश्च पूजा कार्या तु नित्यशः | वक्त्रा दत्तं प्रसादं तु गृह्णाद्भक्तिपूर्वकम्",
+   "text_te": "పుస్తకస్య చ వక్తుశ్చ పూజా కార్యా తు నిత్యశః | వక్త్రా దత్తం ప్రసాదం తు గృహ్ణాద్భక్తిపూర్వకమ్",
+   "text_en": "pustakasya ca vaktuśca pūjā kāryā tu nityaśaḥ | vaktrā dattaṁ prasādaṁ tu gṛhṇādbhaktipūrvakam",
+   "mean_en": "The desireless, purified by hearing alone, attain liberation — for the supreme Bhagavati grants enjoyment and liberation to men.",
+   "mean_te": "నిష్కాములు శ్రవణంచేతనే శుద్ధులై ముక్తిని పొందుదురు — భుక్తి ముక్తులను ప్రసాదించుది భగవతి పరదేవి కావడంచేత."
+  },
+  {
+   "n": 51,
+   "text_deva": "कुमारी: पूजयेन्नित्यं भोजयेत्प्रार्थयेच्च यः | सुवासिनीश्च विप्रांश्च तस्य सिद्धिर्न संशयः",
+   "text_te": "కుమారీ: పూజయేన్నిత్యం భోజయేత్ప్రార్థయేచ్చ యః | సువాసినీశ్చ విప్రాంశ్చ తస్య సిద్ధిర్న సంశయః",
+   "text_en": "kumārī: pūjayennityaṁ bhojayetprārthayecca yaḥ | suvāsinīśca viprāṁśca tasya siddhirna saṁśayaḥ",
+   "mean_en": "Worship of the book and of the reciter should be done daily; the prasada given by the reciter one should accept with devotion.",
+   "mean_te": "పుస్తకానికి, వాచకుడికి నిత్యం పూజ చేయాలి; వాచకుడు ఇచ్చు ప్రసాదాన్ని భక్తిపూర్వకంగా స్వీకరించాలి."
+  },
+  {
+   "n": 52,
+   "text_deva": "गायत्र्या नामसाहस्रं समाप्तावथ वा पठेत् | विष्णोर्नामसहस्रं च सर्वदोषोपशान्तये",
+   "text_te": "గాయత్ర్యా నామసాహస్రం సమాప్తావథ వా పఠేత్ | విష్ణోర్నామసహస్రం చ సర్వదోషోపశాన్తయే",
+   "text_en": "gāyatryā nāmasāhasraṁ samāptāvatha vā paṭhet | viṣṇornāmasahasraṁ ca sarvadoṣopaśāntaye",
+   "mean_en": "Whoever daily worships and feeds the maiden girls, and (honours) the suvasinis and the brahmins — his siddhi is without doubt.",
+   "mean_te": "కుమారికలను నిత్యం పూజించి, భోజనం పెట్టి, ప్రార్థించువాడు; సువాసినులను, విప్రులను సత్కరించువాడు — అతనికి సిద్ధి లేకపోవడం లేదు."
+  },
+  {
+   "n": 53,
+   "text_deva": "यस्य स्मृत्या च नामोक्त्या तपोयज्ञक्रियादिषु | न्यूनं संपूर्णतां याति तस्माद्विष्णुं च कीर्तयेत् ६० | देव्याः सप्तशतीमंत्रैः समाप्तौ होममाचरेत् | देवीमाहात्म्यमूलेन नवार्णमनुनाऽथवा",
+   "text_te": "యస్య స్మృత్యా చ నామోక్త్యా తపోయజ్ఞక్రియాదిషు | న్యూనం సంపూర్ణతాం యాతి తస్మాద్విష్ణుం చ కీర్తయేత్ ६० | దేవ్యాః సప్తశతీమంత్రైః సమాప్తౌ హోమమాచరేత్ | దేవీమాహాత్మ్యమూలేన నవార్ణమనునాఽథవా",
+   "text_en": "yasya smṛtyā ca nāmoktyā tapoyajñakriyādiṣu | nyūnaṁ saṁpūrṇatāṁ yāti tasmādviṣṇuṁ ca kīrtayet ६० | devyāḥ saptaśatīmaṁtraiḥ samāptau homamācaret | devīmāhātmyamūlena navārṇamanunā'thavā",
+   "mean_en": "At the end one should recite the namasahasra of the Gayatri (Devi), or the Vishnu sahasranama too, for the quelling of all faults — by whose remembrance and name-utterance the deficiency in tapas, yajna and other rites is made complete; therefore one should also hymn Vishnu.",
+   "mean_te": "సమాప్తిలో గాయత్రి (దేవి) నామ సహస్రాన్నిగాని, విష్ణు సహస్రనామాన్నిగాని పఠించాలి — సర్వదోష శాంతికై; ఏ నామ స్మరణంచేతనో తపోయజ్ఞాదులలోని న్యూనత సంపూర్ణతను పొందును — కావున విష్ణువును కూడా కీర్తించాలి."
+  },
+  {
+   "n": 54,
+   "text_deva": "गायत्र्या त्वथवा होमः पायसेन ससर्पिषा | यतो भागवतं त्वेतद्गायत्रीमयमीरितम्",
+   "text_te": "గాయత్ర్యా త్వథవా హోమః పాయసేన ససర్పిషా | యతో భాగవతం త్వేతద్గాయత్రీమయమీరితమ్",
+   "text_en": "gāyatryā tvathavā homaḥ pāyasena sasarpiṣā | yato bhāgavataṁ tvetadgāyatrīmayamīritam",
+   "mean_en": "At the end of the Devi's Saptashati mantras, a homa should be performed; with the Devi Mahatmya as basis, or with the navarna mantra,",
+   "mean_te": "దేవీ సప్తశతీ మంత్రాలతో సమాప్తిలో హోమం చెయ్యాలి; దేవీ మాహాత్మ్య మూలంతోగాని, నవార్ణ మంత్రంతోగాని,"
+  },
+  {
+   "n": 55,
+   "text_deva": "वाचकं तोषयेत्सम्यग्वस्त्रभूषाधनादिभिः | प्रसन्ने वाचके सर्वाः प्रसन्ना तस्य देवताः",
+   "text_te": "వాచకం తోషయేత్సమ్యగ్వస్త్రభూషాధనాదిభిః | ప్రసన్నే వాచకే సర్వాః ప్రసన్నా తస్య దేవతాః",
+   "text_en": "vācakaṁ toṣayetsamyagvastrabhūṣādhanādibhiḥ | prasanne vācake sarvāḥ prasannā tasya devatāḥ",
+   "mean_en": "or a homa with the Gayatri, with milk-rice and ghee — since this Bhagavata is declared to be of the nature of the Gayatri.",
+   "mean_te": "గాయత్రితోగాని హోమం పాయసంతో, సర్పిస్సుతో చెయ్యాలి — ఈ భాగవతం గాయత్రీమయమని చెప్పబడింది కావడంచేత."
+  },
+  {
+   "n": 56,
+   "text_deva": "ब्राह्मणान्भोजयेद्भक्त्या दक्षिणाभिश्च तोषयेत् ! पृथिव्यां देवरूपास्ते तुष्टेष्वेष्वीप्सितं फलम्",
+   "text_te": "బ్రాహ్మణాన్భోజయేద్భక్త్యా దక్షిణాభిశ్చ తోషయేత్ ! పృథివ్యాం దేవరూపాస్తే తుష్టేష్వేష్వీప్సితం ఫలమ్",
+   "text_en": "brāhmaṇānbhojayedbhaktyā dakṣiṇābhiśca toṣayet ! pṛthivyāṁ devarūpāste tuṣṭeṣveṣvīpsitaṁ phalam",
+   "mean_en": "The reciter should be well pleased with garments, ornaments and the rest; when the reciter is pleased, all his deities are pleased.",
+   "mean_te": "వాచకుడిని వస్త్ర, భూషణ, ధనాదులతో సమ్యక్కాగా సంతోషపరచాలి; వాచకుడు సంతుష్టుడైనచో ఆతని సర్వ దేవతలు సంతుష్టులగుదురు."
+  },
+  {
+   "n": 57,
+   "text_deva": "सुवासिनी: कुमारीश्च देवीभक्तया च भोजयेत् | ताभ्योऽपि दक्षिणां दत्त्वा प्रार्थयेत्सिद्धिमात्मनः",
+   "text_te": "సువాసినీ: కుమారీశ్చ దేవీభక్తయా చ భోజయేత్ | తాభ్యోఽపి దక్షిణాం దత్త్వా ప్రార్థయేత్సిద్ధిమాత్మనః",
+   "text_en": "suvāsinī: kumārīśca devībhaktayā ca bhojayet | tābhyo'pi dakṣiṇāṁ dattvā prārthayetsiddhimātmanaḥ",
+   "mean_en": "One should feed the brahmins with devotion and please them with dakshinas; when they are pleased, the desired fruit in this world follows — for they are of the form of gods.",
+   "mean_te": "బ్రాహ్మణులను భక్తితో భోజనాలకు పెట్టి, దక్షిణలతో సంతోషపరచాలి; వారు సంతుష్టులైనచో పృథివిపై ఇష్టఫలం లభించును — వారు దేవరూపులు కావడంచేత."
+  },
+  {
+   "n": 58,
+   "text_deva": "दद्याद्दानानि चान्यानि सुवर्णं गाः पयस्विनीः | हयानिभान्मेदिनीं च तस्य स्यादक्षयं फलम्",
+   "text_te": "దద్యాద్దానాని చాన్యాని సువర్ణం గాః పయస్వినీః | హయానిభాన్మేదినీం చ తస్య స్యాదక్షయం ఫలమ్",
+   "text_en": "dadyāddānāni cānyāni suvarṇaṁ gāḥ payasvinīḥ | hayānibhānmedinīṁ ca tasya syādakṣayaṁ phalam",
+   "mean_en": "The suvasinis and maiden girls should be fed with devotion to the Goddess; having given them dakshinas too, one should pray for one's own siddhi.",
+   "mean_te": "సువాసినులను, కుమారికలను దేవీభక్తితో భోజనం పెట్టాలి; వారికి కూడా దక్షిణలు ఇచ్చి, తన సిద్ధి కొరకు ప్రార్థించాలి."
+  },
+  {
+   "n": 59,
+   "text_deva": "देवीभागवतं चैतल्लिखितं शोभनाक्षरम् | हेमसिंहासने स्थाप्यं पट्टवस्त्रेण वेष्टितम्",
+   "text_te": "దేవీభాగవతం చైతల్లిఖితం శోభనాక్షరమ్ | హేమసింహాసనే స్థాప్యం పట్టవస్త్రేణ వేష్టితమ్",
+   "text_en": "devībhāgavataṁ caitallikhitaṁ śobhanākṣaram | hemasiṁhāsane sthāpyaṁ paṭṭavastreṇa veṣṭitam",
+   "mean_en": "One should give other gifts too — gold, cows, lands watered by rivers, horses, elephants, land — to such a one the fruit is undecaying.",
+   "mean_te": "సువర్ణం, గోవులు, పాయస్వినీలు (నీళ్ళ భూములు), గుర్రాలు, ఏనుగులు, భూమి — అనేక దానాలు ఇవ్వాలి; అట్టివారికి అక్షయ ఫలం కలుగును."
+  },
+  {
+   "n": 60,
+   "text_deva": "अष्टम्यां वा नवम्यां च वाचकायार्चिताय च | दद्यात्स भोगान्भुक्त्वेह दुर्लभं मोक्षमाप्नुयात् ६८ | दरिद्रो दुर्बलो बालस्तरुणो जरठोऽपि वा | पुराणवेत्ता वैद्यः स्यात्पूज्यो मान्यश्च सर्वदा",
+   "text_te": "అష్టమ్యాం వా నవమ్యాం చ వాచకాయార్చితాయ చ | దద్యాత్స భోగాన్భుక్త్వేహ దుర్లభం మోక్షమాప్నుయాత్ ६८ | దరిద్రో దుర్బలో బాలస్తరుణో జరఠోఽపి వా | పురాణవేత్తా వైద్యః స్యాత్పూజ్యో మాన్యశ్చ సర్వదా",
+   "text_en": "aṣṭamyāṁ vā navamyāṁ ca vācakāyārcitāya ca | dadyātsa bhogānbhuktveha durlabhaṁ mokṣamāpnuyāt ६८ | daridro durbalo bālastaruṇo jaraṭho'pi vā | purāṇavettā vaidyaḥ syātpūjyo mānyaśca sarvadā",
+   "mean_en": "This Devi Bhagavata, written in beautiful letters, is to be placed on a golden lion-seat wrapped in silk cloth.",
+   "mean_te": "ఈ దేవీ భాగవతాన్ని శోభనాక్షరాలతో వ్రాయించి, పట్టువస్త్రంతో చుట్టి, బంగారు సింహాసనంపై స్థాపించాలి."
+  },
+  {
+   "n": 61,
+   "text_deva": "सन्ति लोकस्य बहवो गुरवो गुणजन्मतः | सर्वेषामपि तेषां च पुराणज्ञः परो गुरुः",
+   "text_te": "సన్తి లోకస్య బహవో గురవో గుణజన్మతః | సర్వేషామపి తేషాం చ పురాణజ్ఞః పరో గురుః",
+   "text_en": "santi lokasya bahavo guravo guṇajanmataḥ | sarveṣāmapi teṣāṁ ca purāṇajñaḥ paro guruḥ",
+   "mean_en": "On the ashtami or navami, worshipping the reciter and the book, having enjoyed the pleasures here, one attains the liberation hard to get.",
+   "mean_te": "అష్టమి లోనుగాని, నవమిలోనుగాని, వాచకుడిని, గ్రంథాన్ని పూజించి, ఇహలో భోగాలను అనుభవించి, అరుదైన మోక్షాన్ని పొందును."
+  },
+  {
+   "n": 62,
+   "text_deva": "पौराणिको ब्राह्मणस्तु व्यासासनसमाश्रितः | असमाप्ते प्रसंगे तु नमस्कुर्यान्न कस्यचित्",
+   "text_te": "పౌరాణికో బ్రాహ్మణస్తు వ్యాసాసనసమాశ్రితః | అసమాప్తే ప్రసంగే తు నమస్కుర్యాన్న కస్యచిత్",
+   "text_en": "paurāṇiko brāhmaṇastu vyāsāsanasamāśritaḥ | asamāpte prasaṁge tu namaskuryānna kasyacit",
+   "mean_en": "Poor, weak, a child, a youth, or even an old man — a knower of the Purana is (like) a physician, always worshipped and honoured.",
+   "mean_te": "దరిద్రుడైనను, దుర్బలుడైనను, బాలుడైనను, యువకుడైనను, వృద్ధుడైనను — పురాణవేత్త వైద్యునివలె ఎల్లప్పుడూ పూజ్యుడు, మాన్యుడు."
+  },
+  {
+   "n": 63,
+   "text_deva": "पौराणिकीं कथां दिव्यां येऽपि शृण्वंत्यभक्तितः | तेषां पुण्यफलं नास्ति दुःखदारिद्र्यभागिनाम्",
+   "text_te": "పౌరాణికీం కథాం దివ్యాం యేఽపి శృణ్వంత్యభక్తితః | తేషాం పుణ్యఫలం నాస్తి దుఃఖదారిద్ర్యభాగినామ్",
+   "text_en": "paurāṇikīṁ kathāṁ divyāṁ ye'pi śṛṇvaṁtyabhaktitaḥ | teṣāṁ puṇyaphalaṁ nāsti duḥkhadāridryabhāginām",
+   "mean_en": "The world has many teachers by birth of qualities; among them all, the knower of the Purana is the supreme guru.",
+   "mean_te": "లోకంలో గుణప్రభవంగా అనేక గురువులున్నారు; వారిల్లోని అందరికంటేను పురాణజ్ఞుడే పరమ గురువు."
+  },
+  {
+   "n": 64,
+   "text_deva": "असंपूज्य पुराणं तु ताम्बूलकुसुमादिभिः | ये शृण्वंति कथां देव्यास्ते दरिद्रा भवंति हि ७३ | कीर्त्यमानां कथां त्यक्त्वा ये व्रजंत्यन्यतो नराः | भोगान्तरे प्रणश्यंति तेषां दाराश्च सम्पदः",
+   "text_te": "అసంపూజ్య పురాణం తు తామ్బూలకుసుమాదిభిః | యే శృణ్వంతి కథాం దేవ్యాస్తే దరిద్రా భవంతి హి ७३ | కీర్త్యమానాం కథాం త్యక్త్వా యే వ్రజంత్యన్యతో నరాః | భోగాన్తరే ప్రణశ్యంతి తేషాం దారాశ్చ సమ్పదః",
+   "text_en": "asaṁpūjya purāṇaṁ tu tāmbūlakusumādibhiḥ | ye śṛṇvaṁti kathāṁ devyāste daridrā bhavaṁti hi ७३ | kīrtyamānāṁ kathāṁ tyaktvā ye vrajaṁtyanyato narāḥ | bhogāntare praṇaśyaṁti teṣāṁ dārāśca sampadaḥ",
+   "mean_en": "The puranika brahmin, seated on the seat of Vyasa, should not bow to anyone while the discourse is incomplete. Those who hear the divine Puranika story without devotion gain no fruit of merit — they come to sorrow and poverty. And those who leave the story being told and go elsewhere — their wives and wealth perish in the course of their enjoyments.",
+   "mean_te": "వ్యాసాసనంపై ఆసీనుడైన పౌరాణిక బ్రాహ్మణుడు, ప్రసంగం సమాప్తికాకముందు ఎవరికీ నమస్కరించరాదు. దేవీ కథను భక్తిలేకుండా వినేవారికి పుణ్యఫలం లేదు — వారు శోక దరిద్రాలకు గురియగుదురు. కీర్తింపబడుచున్న కథను వదిలి మఱిచోటికి పోవువారి భోగమధ్యంలోనే భార్యాసంపదలు నశించును."
+  },
+  {
+   "n": 65,
+   "text_deva": "ये च तुंगासनारूढाः कथां शृण्वंति दांभिकाः | ते वायसा भवंत्यत्र भुक्त्वा निरययातनाम्",
+   "text_te": "యే చ తుంగాసనారూఢాః కథాం శృణ్వంతి దాంభికాః | తే వాయసా భవంత్యత్ర భుక్త్వా నిరయయాతనామ్",
+   "text_en": "ye ca tuṁgāsanārūḍhāḥ kathāṁ śṛṇvaṁti dāṁbhikāḥ | te vāyasā bhavaṁtyatra bhuktvā nirayayātanām",
+   "mean_en": "Those who, with pomp, seated on high seats, hear the story out of show — they become crows here, having suffered the torments of hell.",
+   "mean_te": "వైభవంగా ఎత్తైన ఆసనాలపై కూర్చొని, ఆడంబరంతో కథను వినేవారు — నరకయాతనలను అనుభవించి, ఇక్కడ కాకులగుదురు."
+  },
+  {
+   "n": 66,
+   "text_deva": "` ये चाढ्यासनसंस्थाश्च ये वीरासनसंस्थिताः | शृण्वंति च कथां दिव्यां ते स्युरर्जुनशाखिनः ७६ | कथायां कीर्त्यमानायां ये वदंति दुरुत्तरम् | रासभास्ते भवंतीह कृकलासास्ततः परम्",
+   "text_te": "` యే చాఢ్యాసనసంస్థాశ్చ యే వీరాసనసంస్థితాః | శృణ్వంతి చ కథాం దివ్యాం తే స్యురర్జునశాఖినః ७६ | కథాయాం కీర్త్యమానాయాం యే వదంతి దురుత్తరమ్ | రాసభాస్తే భవంతీహ కృకలాసాస్తతః పరమ్",
+   "text_en": "` ye cāḍhyāsanasaṁsthāśca ye vīrāsanasaṁsthitāḥ | śṛṇvaṁti ca kathāṁ divyāṁ te syurarjunaśākhinaḥ ७६ | kathāyāṁ kīrtyamānāyāṁ ye vadaṁti duruttaram | rāsabhāste bhavaṁtīha kṛkalāsāstataḥ param",
+   "mean_en": "Those who sit on richly covered seats and on vira-asanas and hear the divine story — they become arjuna trees. Those who speak harsh words while the story is being told become asses here and then starving ghosts.",
+   "mean_te": "ఆడంబరమైన ఆసనాలపైను, వీరాసనాలపైను కూర్చొని దివ్యమైన కథను వినేవారు — అర్జున వృక్షాలగుదురు. కథా ప్రసంగంలో దుర్వచనాలు పలికేవారు — ఇక్కడ గాడిదలగుదురు, తరువాత క్షుధాతుర (పిశాచ) యుతులగుదురు."
+  },
+  {
+   "n": 67,
+   "text_deva": "निंदंति ये पुराणज्ञान्कथां वा पापहारिणीम् | ते तु जन्मशतं दुष्टाः शुनकाः स्युर्न संशयः",
+   "text_te": "నిందంతి యే పురాణజ్ఞాన్కథాం వా పాపహారిణీమ్ | తే తు జన్మశతం దుష్టాః శునకాః స్యుర్న సంశయః",
+   "text_en": "niṁdaṁti ye purāṇajñānkathāṁ vā pāpahāriṇīm | te tu janmaśataṁ duṣṭāḥ śunakāḥ syurna saṁśayaḥ",
+   "mean_en": "Those who abuse the knowers of the Purana, or the story that removes sin — such wicked ones become dogs for a hundred births, without doubt.",
+   "mean_te": "పురాణజ్ఞులను, పాపహారిణియైన కథను నిందించేవారు — అటువంటి దుష్టులు శతజన్మలు శ్వానులగుదురని సందేహం లేదు."
+  },
+  {
+   "n": 68,
+   "text_deva": "ये शृण्वंति कथां वक्तुः समानासनसंस्थिताः | गुरुतल्पसमं पापं लभंते नरकालयाः",
+   "text_te": "యే శృణ్వంతి కథాం వక్తుః సమానాసనసంస్థితాః | గురుతల్పసమం పాపం లభంతే నరకాలయాః",
+   "text_en": "ye śṛṇvaṁti kathāṁ vaktuḥ samānāsanasaṁsthitāḥ | gurutalpasamaṁ pāpaṁ labhaṁte narakālayāḥ",
+   "mean_en": "Those who hear the story of the speaker while seated on the same seat as him — they gain sin equal to lying with the guru's wife, and (finally) hell.",
+   "mean_te": "వాచకుడితో సమానాసనంపై కూర్చొని కథను వినేవారు — గురుతల్ప సదృశమైన పాపాన్ని పొంది, నరకాలయాలకు చేరుదురు."
+  },
+  {
+   "n": 69,
+   "text_deva": "ये चाप्रणम्य शृण्वंति ते भवन्ति विषद्रुमाः | शयाना येऽपि शृण्वंति भवंत्यजगराहयः",
+   "text_te": "యే చాప్రణమ్య శృణ్వంతి తే భవన్తి విషద్రుమాః | శయానా యేఽపి శృణ్వంతి భవంత్యజగరాహయః",
+   "text_en": "ye cāpraṇamya śṛṇvaṁti te bhavanti viṣadrumāḥ | śayānā ye'pi śṛṇvaṁti bhavaṁtyajagarāhayaḥ",
+   "mean_en": "Those who hear without bowing become poisonous trees; those who hear while lying down become pythons.",
+   "mean_te": "నమస్కరింపక కథను వినేవారు విషవృక్షాలగుదురు; పడుకొని వినేవారు అజగరాలు (పెద్ద పాములు) గుదురు."
+  },
+  {
+   "n": 70,
+   "text_deva": "ये कदाचन पौराणीं न शृण्वंति कथां नराः | ते घोरं नरकं भुक्त्वा भवन्ति ग्रामसूकराः",
+   "text_te": "యే కదాచన పౌరాణీం న శృణ్వంతి కథాం నరాః | తే ఘోరం నరకం భుక్త్వా భవన్తి గ్రామసూకరాః",
+   "text_en": "ye kadācana paurāṇīṁ na śṛṇvaṁti kathāṁ narāḥ | te ghoraṁ narakaṁ bhuktvā bhavanti grāmasūkarāḥ",
+   "mean_en": "Those men who never hear the Puranika story — having suffered terrible hell, they become village pigs.",
+   "mean_te": "ఏ కాలంలోను పౌరాణిక కథను వినని మనుషులు — ఘోరమైన నరకాన్ని అనుభవించి, గ్రామపందికొక్కలగుదురు."
+  },
+  {
+   "n": 71,
+   "text_deva": "ये कथां नानुमोदंते विघ्नं कुर्वन्ति ये शठाः | कोट्यब्दं निरयं भुक्त्वा भवंति ग्रामसूकराः ८२ | आसनं भाजनं द्रव्यं फलं वस्त्राणि कम्बलम् | पुराणज्ञाय यच्छन्ति ते व्रजन्ति हरेः पदम्",
+   "text_te": "యే కథాం నానుమోదంతే విఘ్నం కుర్వన్తి యే శఠాః | కోట్యబ్దం నిరయం భుక్త్వా భవంతి గ్రామసూకరాః ८२ | ఆసనం భాజనం ద్రవ్యం ఫలం వస్త్రాణి కమ్బలమ్ | పురాణజ్ఞాయ యచ్ఛన్తి తే వ్రజన్తి హరేః పదమ్",
+   "text_en": "ye kathāṁ nānumodaṁte vighnaṁ kurvanti ye śaṭhāḥ | koṭyabdaṁ nirayaṁ bhuktvā bhavaṁti grāmasūkarāḥ ८२ | āsanaṁ bhājanaṁ dravyaṁ phalaṁ vastrāṇi kambalam | purāṇajñāya yacchanti te vrajanti hareḥ padam",
+   "mean_en": "Those who do not approve of the story, and the wicked who create obstacles in it — having suffered hell for ten million years, they become village pigs. — Chairs, vessels, articles, fruits, garments and blankets given to a knower of the Purana — they go to the feet of Hari.",
+   "mean_te": "కథను అనుమోదించనివారు, కథలో విఘ్నం కలుగజేసే శఠులు — కోటి సంవత్సరాలు నరకాన్ని అనుభవించి, గ్రామపందికొక్కలగుదురు. పురాణజ్ఞుడికి ఇచ్చే ఆసనం, పాత్ర, ద్రవ్యం, ఫలం, వస్త్రాలు, కంబళం — అవి హరి పదాన్ని పొందుదురు (ఇచ్చేవారు హరిపదాన్ని పొందుదురు)."
+  },
+  {
+   "n": 72,
+   "text_deva": "पुराणपुस्तकस्यापि ये पट्टवसनं नवम् | प्रयच्छन्ति शुभं सूत्रं ते नराः सुखभागिनः",
+   "text_te": "పురాణపుస్తకస్యాపి యే పట్టవసనం నవమ్ | ప్రయచ్ఛన్తి శుభం సూత్రం తే నరాః సుఖభాగినః",
+   "text_en": "purāṇapustakasyāpi ye paṭṭavasanaṁ navam | prayacchanti śubhaṁ sūtraṁ te narāḥ sukhabhāginaḥ",
+   "mean_en": "Those who to the Purana book give a fine new silk seat and cloth — such men are partakers of happiness.",
+   "mean_te": "పురాణ పుస్తకానికి కొత్త పట్టువస్త్రం, శుభమైన ఆసనం ఇచ్చేవారు — సుఖభాజనులగుదురు."
+  },
+  {
+   "n": 73,
+   "text_deva": "पुराणानां तु सर्वेषां श्रवणाद्यत्फलं लभेत् | तस्माच्छतगुणं पुण्यं देवीभागवताल्लभेत्",
+   "text_te": "పురాణానాం తు సర్వేషాం శ్రవణాద్యత్ఫలం లభేత్ | తస్మాచ్ఛతగుణం పుణ్యం దేవీభాగవతాల్లభేత్",
+   "text_en": "purāṇānāṁ tu sarveṣāṁ śravaṇādyatphalaṁ labhet | tasmācchataguṇaṁ puṇyaṁ devībhāgavatāllabhet",
+   "mean_en": "One gains the fruit of hearing all the Puranas; therefore one gains merit a hundredfold from the Devi Bhagavata.",
+   "mean_te": "సర్వ పురాణాల శ్రవణ ఫలాన్ని పొందవచ్చును; కావున దేవీ భాగవతం వల్ల శతగుణిజమైన పుణ్యం లభించును."
+  },
+  {
+   "n": 74,
+   "text_deva": "यथा सरित्सु प्रवरा गंगा देवेषु शंकरः | काव्ये रामायणं यद्वज्ज्योतिष्मत्सु यथा रविः",
+   "text_te": "యథా సరిత్సు ప్రవరా గంగా దేవేషు శంకరః | కావ్యే రామాయణం యద్వజ్జ్యోతిష్మత్సు యథా రవిః",
+   "text_en": "yathā saritsu pravarā gaṁgā deveṣu śaṁkaraḥ | kāvye rāmāyaṇaṁ yadvajjyotiṣmatsu yathā raviḥ",
+   "mean_en": "As among rivers the best is Ganga, among gods Shankara, as among kavyas the Ramayana, as among luminous things the sun,",
+   "mean_te": "సరిత్సులలో శ్రేష్ఠమైన గంగవలె, దేవతలలో శంకరుడివలె, కావ్యాలలో రామాయణంవలె, జ్యోతిస్సులలో సూర్యుడివలె —"
+  },
+  {
+   "n": 75,
+   "text_deva": "आह्लादकानां चन्द्रश्च धनानां च यथा यशः | क्षमावतां यथा भूमिर्गाम्भीर्ये सागरो यथा",
+   "text_te": "ఆహ్లాదకానాం చన్ద్రశ్చ ధనానాం చ యథా యశః | క్షమావతాం యథా భూమిర్గామ్భీర్యే సాగరో యథా",
+   "text_en": "āhlādakānāṁ candraśca dhanānāṁ ca yathā yaśaḥ | kṣamāvatāṁ yathā bhūmirgāmbhīrye sāgaro yathā",
+   "mean_en": "as among gladdeners the moon, as among riches fame, as among the forgiving the earth, as in depth the ocean —",
+   "mean_te": "ఆహ్లాదకులలో చంద్రుడివలె, ధనాలలో యశస్సువలె, క్షమాశీలులలో భూమివలె, గాంభీర్యంలో సాగరంవలె —"
+  },
+  {
+   "n": 76,
+   "text_deva": "! मंत्राणां चैव सावित्री पापनाशे हरिस्मृतिः | अष्टादशपुराणानां देवीभागवतं तथा",
+   "text_te": "! మంత్రాణాం చైవ సావిత్రీ పాపనాశే హరిస్మృతిః | అష్టాదశపురాణానాం దేవీభాగవతం తథా",
+   "text_en": "! maṁtrāṇāṁ caiva sāvitrī pāpanāśe harismṛtiḥ | aṣṭādaśapurāṇānāṁ devībhāgavataṁ tathā",
+   "mean_en": "as among mantras the Savitri, as the remembrance of Hari in the destruction of sin — so among the eighteen Puranas is the Devi Bhagavata.",
+   "mean_te": "మంత్రాలలో సావిత్రివలె, పాపనాశనంలో హరిస్మృతివలె — అష్టాదశ పురాణాలలో దేవీ భాగవతం (శ్రేష్ఠం)."
+  },
+  {
+   "n": 77,
+   "text_deva": "येन केनाप्युपायेन नवकृत्वः शृणोति चेत् | न शक्यं तत्फलं वक्तुं जीवन्मुक्तः स एव ह",
+   "text_te": "యేన కేనాప్యుపాయేన నవకృత్వః శృణోతి చేత్ | న శక్యం తత్ఫలం వక్తుం జీవన్ముక్తః స ఏవ హ",
+   "text_en": "yena kenāpyupāyena navakṛtvaḥ śṛṇoti cet | na śakyaṁ tatphalaṁ vaktuṁ jīvanmuktaḥ sa eva ha",
+   "mean_en": "If by any means one hears it nine times, its fruit cannot be spoken — such a one is jivanmukta (liberated while living).",
+   "mean_te": "ఏ ఉపాయంతోనైనను తొమ్మిదిసార్లు శ్రవణం చేస్తే — ఆ ఫలాన్ని చెప్పటానికి వీలులేదు; అతడు జీవన్ముక్తుడే."
+  },
+  {
+   "n": 78,
+   "text_deva": "राजशत्रुभये प्राप्ते महामारीभये तथा | दुर्भिक्षे राष्ट्रभंगे च तच्छांत्यै शृणुयादिदम्",
+   "text_te": "రాజశత్రుభయే ప్రాప్తే మహామారీభయే తథా | దుర్భిక్షే రాష్ట్రభంగే చ తచ్ఛాంత్యై శృణుయాదిదమ్",
+   "text_en": "rājaśatrubhaye prāpte mahāmārībhaye tathā | durbhikṣe rāṣṭrabhaṁge ca tacchāṁtyai śṛṇuyādidam",
+   "mean_en": "When danger from enemy kings comes, or the fear of great pestilence, or famine, or the breaking of the realm — to quell it one should hear this (Bhagavata).",
+   "mean_te": "రాజశత్రువుల భయం కలిగినప్పుడు, మహామారి భయంలోను, కరువులోను, రాష్ట్ర భంగంలోను — వాటి శాంతికై ఈ (భాగవతాన్ని) శ్రవణం చెయ్యాలి."
+  },
+  {
+   "n": 79,
+   "text_deva": "भूतप्रेतविनाशाय राज्यलाभाय शत्रुतः | पुत्रलाभाय शृणुयाद्देवीभागवतं द्विजाः",
+   "text_te": "భూతప్రేతవినాశాయ రాజ్యలాభాయ శత్రుతః | పుత్రలాభాయ శృణుయాద్దేవీభాగవతం ద్విజాః",
+   "text_en": "bhūtapretavināśāya rājyalābhāya śatrutaḥ | putralābhāya śṛṇuyāddevībhāgavataṁ dvijāḥ",
+   "mean_en": "For the destruction of ghosts and spirits, for gaining a kingdom, for freedom from enemies, for gaining a son — one should hear the Devi Bhagavata, O dvijas.",
+   "mean_te": "భూత ప్రేత నాశనం కొరకు, రాజ్యలాభం కొరకు, శత్రు నివారణకు, పుత్రలాభం కొరకు — దేవీ భాగవతాన్ని శ్రవణం చెయ్యాలి, ద్విజాలారా!"
+  },
+  {
+   "n": 80,
+   "text_deva": "श्रीमद्भागवतं यस्तु पठेद्वा शृणुयादपि | श्लोकार्द्धं श्लोकपादं वा संयाति परमां गतिम्",
+   "text_te": "శ్రీమద్భాగవతం యస్తు పఠేద్వా శృణుయాదపి | శ్లోకార్ద్ధం శ్లోకపాదం వా సంయాతి పరమాం గతిమ్",
+   "text_en": "śrīmadbhāgavataṁ yastu paṭhedvā śṛṇuyādapi | ślokārddhaṁ ślokapādaṁ vā saṁyāti paramāṁ gatim",
+   "mean_en": "Whoever recites or hears even half a verse, or half of that, of the Sri Bhagavata — attains the supreme state.",
+   "mean_te": "శ్రీమద్భాగవతాన్ని అర్థశ్లోకాన్నిగాని, శ్లోకపాదాన్నిగాని పఠించువాడు, వినువాడు — పరమ గతిని పొందును."
+  },
+  {
+   "n": 81,
+   "text_deva": "भगवत्या स्वयं देव्या श्लोकार्द्धेन प्रकाशितम् | शिष्यप्रशिष्यद्वारेण तदेव विपुलीकृतम्",
+   "text_te": "భగవత్యా స్వయం దేవ్యా శ్లోకార్ద్ధేన ప్రకాశితమ్ | శిష్యప్రశిష్యద్వారేణ తదేవ విపులీకృతమ్",
+   "text_en": "bhagavatyā svayaṁ devyā ślokārddhena prakāśitam | śiṣyapraśiṣyadvāreṇa tadeva vipulīkṛtam",
+   "mean_en": "Half a verse was made manifest by the Goddess herself; through disciples and disciples' disciples it has been made vast.",
+   "mean_te": "అర్థశ్లోకం దేవి స్వయంగా ప్రకాశింపజేసినది; శిష్యప్రశిష్య పరంపరతో అది విపులీకృతమైంది."
+  },
+  {
+   "n": 82,
+   "text_deva": "न गायत्र्याः परो धर्मो न गायत्र्याः परं तपः | न गायत्र्याः समो देवो न गायत्र्याः परो मनुः",
+   "text_te": "న గాయత్ర్యాః పరో ధర్మో న గాయత్ర్యాః పరం తపః | న గాయత్ర్యాః సమో దేవో న గాయత్ర్యాః పరో మనుః",
+   "text_en": "na gāyatryāḥ paro dharmo na gāyatryāḥ paraṁ tapaḥ | na gāyatryāḥ samo devo na gāyatryāḥ paro manuḥ",
+   "mean_en": "There is no dharma higher than the Gayatri, no tapas higher than the Gayatri, no god equal to the Gayatri, no Manu higher than the Gayatri.",
+   "mean_te": "గాయత్రికంటే పరమైన ధర్మం లేదు; గాయత్రికంటే పరమైన తపస్సు లేదు; గాయత్రితో సమానమైన దేవుడు లేడు; గాయత్రికంటే పరమైన మనువు లేడు."
+  },
+  {
+   "n": 83,
+   "text_deva": "गातारं त्रायते यस्माद्गायत्री तेन सोच्यते | साऽत्र भागवते देवी सरहस्या प्रतिष्ठिता",
+   "text_te": "గాతారం త్రాయతే యస్మాద్గాయత్రీ తేన సోచ్యతే | సాఽత్ర భాగవతే దేవీ సరహస్యా ప్రతిష్ఠితా",
+   "text_en": "gātāraṁ trāyate yasmādgāyatrī tena socyate | sā'tra bhāgavate devī sarahasyā pratiṣṭhitā",
+   "mean_en": "Because she protects the singer (gayantaram trayate), she is called Gayatri; in this Bhagavata the Goddess stands with all her secrets.",
+   "mean_te": "గాయకుడిని రక్షించుటచేత గాయత్రి అని పేరు; ఈ భాగవతంలో దేవి సరసహస్యంగా ప్రతిష్ఠితమై ఉన్నది."
+  },
+  {
+   "n": 84,
+   "text_deva": "अतो भागवतस्यास्य देव्याः प्रीतिकरस्य च | महांत्यपि पुराणानि कलां नार्हंति षोडशीम्",
+   "text_te": "అతో భాగవతస్యాస్య దేవ్యాః ప్రీతికరస్య చ | మహాంత్యపి పురాణాని కలాం నార్హంతి షోడశీమ్",
+   "text_en": "ato bhāgavatasyāsya devyāḥ prītikarasya ca | mahāṁtyapi purāṇāni kalāṁ nārhaṁti ṣoḍaśīm",
+   "mean_en": "Therefore the other great Puranas, though dear to the Goddess and pleasing, do not deserve even a sixteenth part of this Bhagavata.",
+   "mean_te": "కావున ఈ భాగవతం, దేవిప్రీతికరం కావడంచేత — మహాపురాణాలు కూడా దీని షోడశ కలానికి (పదహారో వంతుకు) కూడా పాత్రులు కారు."
+  },
+  {
+   "n": 85,
+   "text_deva": "श्रीमद्भागवतं पुराणममलं यद्ब्राह्मणानां धनं धर्मो धर्मसुतेन यत्र गदितो नारायणेनामलः | गायत्र्याश्च रहस्यमत्र च मणिद्वीपश्च संवर्णितः श्रीदेव्या हिमभूभृते भगवती गीता च गीता स्वयम्",
+   "text_te": "శ్రీమద్భాగవతం పురాణమమలం యద్బ్రాహ్మణానాం ధనం ధర్మో ధర్మసుతేన యత్ర గదితో నారాయణేనామలః | గాయత్ర్యాశ్చ రహస్యమత్ర చ మణిద్వీపశ్చ సంవర్ణితః శ్రీదేవ్యా హిమభూభృతే భగవతీ గీతా చ గీతా స్వయమ్",
+   "text_en": "śrīmadbhāgavataṁ purāṇamamalaṁ yadbrāhmaṇānāṁ dhanaṁ dharmo dharmasutena yatra gadito nārāyaṇenāmalaḥ | gāyatryāśca rahasyamatra ca maṇidvīpaśca saṁvarṇitaḥ śrīdevyā himabhūbhṛte bhagavatī gītā ca gītā svayam",
+   "mean_en": "The Sri Bhagavata Purana is spotless — the wealth of brahmins, where dharma was expounded by the dharmasuta (Vyasa), stainless Narayana's word; where the secret of the Gayatri and the Manidvipa are declared, and where the Goddess — herself the Gita — is sung on the Himalaya.",
+   "mean_te": "శ్రీమద్భాగవత పురాణం నిర్మలం; బ్రాహ్మణుల ధనం; ధర్మసుతుడు వ్యాసుడు చెప్పిన నిర్మల నారాయణ వాక్కు; అందు గాయత్రి రహస్యం, మణిద్వీప వర్ణన ఉన్నాయి; శ్రీదేవే గీతయై హిమాలయంపై గీయబడింది."
+  },
+  {
+   "n": 86,
+   "text_deva": "तस्मान्नास्य पुराणस्य लोकेऽन्यत्सदृशं परम् | अतः सदैव संसेव्यं देवीभागवतं द्विजाः",
+   "text_te": "తస్మాన్నాస్య పురాణస్య లోకేఽన్యత్సదృశం పరమ్ | అతః సదైవ సంసేవ్యం దేవీభాగవతం ద్విజాః",
+   "text_en": "tasmānnāsya purāṇasya loke'nyatsadṛśaṁ param | ataḥ sadaiva saṁsevyaṁ devībhāgavataṁ dvijāḥ",
+   "mean_en": "Therefore in the world there is nothing else equal to this Purana, still less superior; hence the Devi Bhagavata is to be served always, O dvijas.",
+   "mean_te": "కావున ఈ పురాణానికి లోకంలో సదృశమైనది గాని, అంతకంటే పరమైనది గాని మఱొకటి లేదు; కావున దేవీ భాగవతాన్ని సదా సేవించవలెను, ద్విజాలారా!"
+  },
+  {
+   "n": 87,
+   "text_deva": "यस्याः प्रभावमखिलं न हि वेद धाता नो वा हरिर्न गिरिशो न हि चाप्यनन्तः | अंशांशका अपि च ते किमुतान्यदेवास्तस्यै नमोऽस्तु सततं जगदम्बिकायै",
+   "text_te": "యస్యాః ప్రభావమఖిలం న హి వేద ధాతా నో వా హరిర్న గిరిశో న హి చాప్యనన్తః | అంశాంశకా అపి చ తే కిముతాన్యదేవాస్తస్యై నమోఽస్తు సతతం జగదమ్బికాయై",
+   "text_en": "yasyāḥ prabhāvamakhilaṁ na hi veda dhātā no vā harirna giriśo na hi cāpyanantaḥ | aṁśāṁśakā api ca te kimutānyadevāstasyai namo'stu satataṁ jagadambikāyai",
+   "mean_en": "Its full glory neither Dhata knows, nor Hari, nor Girisha (Shiva), nor even Ananta; what then of other gods? To the Mother of the world be salutation always!",
+   "mean_te": "దీని అఖిల ప్రభావాన్ని ధాతగాని, హరిగాని, గిరిశుడుగాని, అనంతుడుగాని ఎఱుకవు; ఇతర దేవతలకు ఎట్లుంది? జగదంబికకు సదా నమస్కారాలు!"
+  },
+  {
+   "n": 88,
+   "text_deva": "यत्पादपंकजरजः समवाप्य विश्वं ब्रह्मा सृजत्यनुदिनं च बिभर्ति विष्णुः | रुद्रश्च संहरति नेतरथा समर्थास्तस्यै नमोऽस्तु सततं जगदम्बिकायै",
+   "text_te": "యత్పాదపంకజరజః సమవాప్య విశ్వం బ్రహ్మా సృజత్యనుదినం చ బిభర్తి విష్ణుః | రుద్రశ్చ సంహరతి నేతరథా సమర్థాస్తస్యై నమోఽస్తు సతతం జగదమ్బికాయై",
+   "text_en": "yatpādapaṁkajarajaḥ samavāpya viśvaṁ brahmā sṛjatyanudinaṁ ca bibharti viṣṇuḥ | rudraśca saṁharati netarathā samarthāstasyai namo'stu satataṁ jagadambikāyai",
+   "mean_en": "By reaching the dust of whose lotus feet Brahma creates the universe day after day, Vishnu bears it, and Rudra dissolves it — otherwise none is able; to the Mother of the world be salutation always!",
+   "mean_te": "దీని పాదపద్మ రజస్సును పొంది బ్రహ్మ ప్రతిదినం విశ్వాన్ని సృజిస్తాడు, విష్ణువు భరిస్తాడు, రుద్రుడు సంహరిస్తాడు — అలా కాకుండా వారికి సామర్థ్యం లేదు; జగదంబికకు సదా నమస్కారాలు!"
+  },
+  {
+   "n": 89,
+   "text_deva": "सुधाकूपारांतस्त्रिदशतरुवाटी विलसिते मणिद्वीपे चिन्तामणिमयगृहे चित्ररुचिरे | विराजन्तीमम्बां परशिवहृदि स्मेरवदनां नरो ध्यात्वा भोगं भजति खलु मोक्षं च लभते",
+   "text_te": "సుధాకూపారాంతస్త్రిదశతరువాటీ విలసితే మణిద్వీపే చిన్తామణిమయగృహే చిత్రరుచిరే | విరాజన్తీమమ్బాం పరశివహృది స్మేరవదనాం నరో ధ్యాత్వా భోగం భజతి ఖలు మోక్షం చ లభతే",
+   "text_en": "sudhākūpārāṁtastridaśataruvāṭī vilasite maṇidvīpe cintāmaṇimayagṛhe citrarucire | virājantīmambāṁ paraśivahṛdi smeravadanāṁ naro dhyātvā bhogaṁ bhajati khalu mokṣaṁ ca labhate",
+   "mean_en": "Worshipping the Mother who shines in the grove of wish-trees at the edge of the lake of nectar, in the Manidvipa, in the house of cintamani, of wondrous charm — smiling, dwelling in the heart of Parashiva — a man who meditates on her enjoys pleasure and indeed attains liberation.",
+   "mean_te": "సుధాకూపాంతస్థిత త్రిదశ తరువాటీలలో విలసిల్లు, మణిద్వీపంలో, చింతామణిమయ గృహంలో, చిత్ర రుచిరమైన చోట, పరశివ హృదయంలో స్మేరవదనంతో విరాజిల్లు అమ్మను ధ్యానించు మనుష్యుడు భోగాలను పొందుతాడు; మోక్షాన్ని కూడా పొందును."
+  },
+  {
+   "n": 90,
+   "text_deva": "ब्रह्मेशाच्युतशक्राद्यैर्महर्षिभिरुपासिता| जगतः श्रेयसे साऽस्तु मणिद्वीपाधिदेवता",
+   "text_te": "బ్రహ్మేశాచ్యుతశక్రాద్యైర్మహర్షిభిరుపాసితా| జగతః శ్రేయసే సాఽస్తు మణిద్వీపాధిదేవతా",
+   "text_en": "brahmeśācyutaśakrādyairmaharṣibhirupāsitā| jagataḥ śreyase sā'stu maṇidvīpādhidevatā",
+   "mean_en": "May she — worshipped by Brahma, Isha, Achyuta, Indra and the great sages — the presiding deity of Manidvipa — be for the welfare of the world.",
+   "mean_te": "బ్రహ్మ, ఈశ, అచ్యుత, ఇంద్రాదులచే, మహర్షులచే ఉపాసింపబడు — మణిద్వీపాధిదేవత ఆమె జగత్కళ్యాణం కొరకు ఉండుగాక!"
+  },
+  {
+   "n": 91,
+   "text_deva": "इति श्रीस्कन्दपुराणे मानसखण्डे देवीभागवतमाहात्म्ये वणविधिवर्णनं नाम पञ्चमोऽध्यायः",
+   "text_te": "ఇతి శ్రీస్కన్దపురాణే మానసఖణ్డే దేవీభాగవతమాహాత్మ్యే వణవిధివర్ణనం నామ పఞ్చమోఽధ్యాయః",
+   "text_en": "iti śrīskandapurāṇe mānasakhaṇḍe devībhāgavatamāhātmye vaṇavidhivarṇanaṁ nāma pañcamo'dhyāyaḥ",
+   "mean_en": "Thus ends, in the Sri Skanda Purana, Manasa Khanda, the fifth adhyaya named \"Description of the Vow\" in the Devi Bhagavata Mahatmya.",
+   "mean_te": "ఇట్టల్వా శ్రీ స్కాంద పురాణమున మానస ఖండమున దేవీ భాగవత మాహాత్మ్యమున వణవిధివర్ణనము అను పంచమాధ్యాయము సమాప్తము."
+  }
+ ]
+}

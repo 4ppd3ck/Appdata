@@ -1,0 +1,569 @@
+{
+ "kanda": "skandha-08",
+ "n": 24,
+ "title_deva": "देवीपूजनविधिनिरूपणम्",
+ "title_te": "దేవీపూజనవిధినిరూపణమ్",
+ "title_iast": "devīpūjanavidhinirūpaṇam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "धर्मश्च कीदृशस्तात देव्याराधनलक्षणः | कथमाराधिता देवी सा ददाति परं पदम्",
+   "text_te": "ధర్మశ్చ కీదృశస్తాత దేవ్యారాధనలక్షణః | కథమారాధితా దేవీ సా దదాతి పరం పదమ్",
+   "text_en": "dharmaśca kīdṛśastāta devyārādhanalakṣaṇaḥ | kathamārādhitā devī sā dadāti paraṁ padam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 2,
+   "text_deva": "आराधनविधिः को वा कथमाराधिता कदा | केन सा दुर्गनरकाद्दुर्गा त्राणप्रदा भवेत्",
+   "text_te": "ఆరాధనవిధిః కో వా కథమారాధితా కదా | కేన సా దుర్గనరకాద్దుర్గా త్రాణప్రదా భవేత్",
+   "text_en": "ārādhanavidhiḥ ko vā kathamārādhitā kadā | kena sā durganarakāddurgā trāṇapradā bhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 3,
+   "text_deva": "देवर्षे शृणु चित्तैकाग्र्येण मे विदुषां वर | यथा प्रसीदते देवी धर्माराधनतः स्वयम्",
+   "text_te": "దేవర్షే శృణు చిత్తైకాగ్ర్యేణ మే విదుషాం వర | యథా ప్రసీదతే దేవీ ధర్మారాధనతః స్వయమ్",
+   "text_en": "devarṣe śṛṇu cittaikāgryeṇa me viduṣāṁ vara | yathā prasīdate devī dharmārādhanataḥ svayam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 4,
+   "text_deva": "स्वधर्मो यादृशः प्रोक्तस्तं च मे शृणु नारद | अनादाविह संसारे देवी सशृजिता स्वयम्",
+   "text_te": "స్వధర్మో యాదృశః ప్రోక్తస్తం చ మే శృణు నారద | అనాదావిహ సంసారే దేవీ సశృజితా స్వయమ్",
+   "text_en": "svadharmo yādṛśaḥ proktastaṁ ca me śṛṇu nārada | anādāviha saṁsāre devī saśṛjitā svayam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 5,
+   "text_deva": "परिपालयते घोरसङ्कटादिषु सा मुने | सा देवी पूज्यते लोकैर्यथावत्तद्विधिं शृणु",
+   "text_te": "పరిపాలయతే ఘోరసఙ్కటాదిషు సా మునే | సా దేవీ పూజ్యతే లోకైర్యథావత్తద్విధిం శృణు",
+   "text_en": "paripālayate ghorasaṅkaṭādiṣu sā mune | sā devī pūjyate lokairyathāvattadvidhiṁ śṛṇu",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 6,
+   "text_deva": "प्रतिपत्तिथिमासाद्य देवीमाज्येन पूजयेत् | घृतं दद्याद् ब्राह्मणाय रोगहीनो भवेत्सदा",
+   "text_te": "ప్రతిపత్తిథిమాసాద్య దేవీమాజ్యేన పూజయేత్ | ఘృతం దద్యాద్ బ్రాహ్మణాయ రోగహీనో భవేత్సదా",
+   "text_en": "pratipattithimāsādya devīmājyena pūjayet | ghṛtaṁ dadyād brāhmaṇāya rogahīno bhavetsadā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 7,
+   "text_deva": "द्वितीयायां शर्करया पूजयेज्जगदम्बिकाम् | शर्करां प्रददेद्विप्रे दीर्घायुर्जायते नरः",
+   "text_te": "ద్వితీయాయాం శర్కరయా పూజయేజ్జగదమ్బికామ్ | శర్కరాం ప్రదదేద్విప్రే దీర్ఘాయుర్జాయతే నరః",
+   "text_en": "dvitīyāyāṁ śarkarayā pūjayejjagadambikām | śarkarāṁ pradadedvipre dīrghāyurjāyate naraḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 8,
+   "text_deva": "तृतीयादिवसे देव्यै दुग्धं पूजनकर्मणि | क्षीरं दत्त्वा द्विजाग्र्याय सर्वदुःखातिगो भवेत्",
+   "text_te": "తృతీయాదివసే దేవ్యై దుగ్ధం పూజనకర్మణి | క్షీరం దత్త్వా ద్విజాగ్ర్యాయ సర్వదుఃఖాతిగో భవేత్",
+   "text_en": "tṛtīyādivase devyai dugdhaṁ pūjanakarmaṇi | kṣīraṁ dattvā dvijāgryāya sarvaduḥkhātigo bhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 9,
+   "text_deva": "चतुर्थ्यां पूजनेऽपूपा देया देव्यै द्विजाय च | अपूपा एव दातव्या न विघ्नैरभिभूयते",
+   "text_te": "చతుర్థ్యాం పూజనేఽపూపా దేయా దేవ్యై ద్విజాయ చ | అపూపా ఏవ దాతవ్యా న విఘ్నైరభిభూయతే",
+   "text_en": "caturthyāṁ pūjane'pūpā deyā devyai dvijāya ca | apūpā eva dātavyā na vighnairabhibhūyate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 10,
+   "text_deva": "पञ्चम्यां कदलीजातं फलं देव्यै निवेदयेत् | तदेव ब्राह्मणे देयं मेधावान्पुरुषो भवेत्",
+   "text_te": "పఞ్చమ్యాం కదలీజాతం ఫలం దేవ్యై నివేదయేత్ | తదేవ బ్రాహ్మణే దేయం మేధావాన్పురుషో భవేత్",
+   "text_en": "pañcamyāṁ kadalījātaṁ phalaṁ devyai nivedayet | tadeva brāhmaṇe deyaṁ medhāvānpuruṣo bhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 11,
+   "text_deva": "षष्ठीतिथौ मधु प्रोक्तं देवीपूजनकर्मणि | ब्राह्मणाय च दातव्यं मधु कान्तिर्यतो भवेत्",
+   "text_te": "షష్ఠీతిథౌ మధు ప్రోక్తం దేవీపూజనకర్మణి | బ్రాహ్మణాయ చ దాతవ్యం మధు కాన్తిర్యతో భవేత్",
+   "text_en": "ṣaṣṭhītithau madhu proktaṁ devīpūjanakarmaṇi | brāhmaṇāya ca dātavyaṁ madhu kāntiryato bhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 12,
+   "text_deva": "सप्तम्यां गुडनैवेद्यं देव्यै दत्त्वा द्विजाय च | गुडं दत्त्वा शोकहीनो जायते द्विजसत्तम",
+   "text_te": "సప్తమ్యాం గుడనైవేద్యం దేవ్యై దత్త్వా ద్విజాయ చ | గుడం దత్త్వా శోకహీనో జాయతే ద్విజసత్తమ",
+   "text_en": "saptamyāṁ guḍanaivedyaṁ devyai dattvā dvijāya ca | guḍaṁ dattvā śokahīno jāyate dvijasattama",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 13,
+   "text_deva": "नारिकेलमथाष्टम्यां देव्यै नैवेद्यमर्पयेत् | ब्राह्मणाय प्रदातव्यं तापहीनो भवेन्नरः",
+   "text_te": "నారికేలమథాష్టమ్యాం దేవ్యై నైవేద్యమర్పయేత్ | బ్రాహ్మణాయ ప్రదాతవ్యం తాపహీనో భవేన్నరః",
+   "text_en": "nārikelamathāṣṭamyāṁ devyai naivedyamarpayet | brāhmaṇāya pradātavyaṁ tāpahīno bhavennaraḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 14,
+   "text_deva": "नवम्यां लाजमम्बायै चार्पयित्वा द्विजाय च | दत्त्वा सुखाधिको भूयादिह लोके परत्र च",
+   "text_te": "నవమ్యాం లాజమమ్బాయై చార్పయిత్వా ద్విజాయ చ | దత్త్వా సుఖాధికో భూయాదిహ లోకే పరత్ర చ",
+   "text_en": "navamyāṁ lājamambāyai cārpayitvā dvijāya ca | dattvā sukhādhiko bhūyādiha loke paratra ca",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 15,
+   "text_deva": "दशम्यामर्पयित्वा तु देव्यै कृष्णतिलान्मुने | ब्राह्मणाय प्रदत्त्वा तु यमलोकाद्भयं न हि",
+   "text_te": "దశమ్యామర్పయిత్వా తు దేవ్యై కృష్ణతిలాన్మునే | బ్రాహ్మణాయ ప్రదత్త్వా తు యమలోకాద్భయం న హి",
+   "text_en": "daśamyāmarpayitvā tu devyai kṛṣṇatilānmune | brāhmaṇāya pradattvā tu yamalokādbhayaṁ na hi",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 16,
+   "text_deva": "एकादश्यां दधि तथा देव्यै चार्पयते तु यः | ददाति ब्राह्मणायैतद्देवीप्रियतमो भवेत्",
+   "text_te": "ఏకాదశ్యాం దధి తథా దేవ్యై చార్పయతే తు యః | దదాతి బ్రాహ్మణాయైతద్దేవీప్రియతమో భవేత్",
+   "text_en": "ekādaśyāṁ dadhi tathā devyai cārpayate tu yaḥ | dadāti brāhmaṇāyaitaddevīpriyatamo bhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 17,
+   "text_deva": "द्वादश्यां पृथुकान्देव्यै दत्त्वाचार्याय यो ददेत् | तानेव च मुनिश्रेष्ठ स देवीप्रियतां व्रजेत्",
+   "text_te": "ద్వాదశ్యాం పృథుకాన్దేవ్యై దత్త్వాచార్యాయ యో దదేత్ | తానేవ చ మునిశ్రేష్ఠ స దేవీప్రియతాం వ్రజేత్",
+   "text_en": "dvādaśyāṁ pṛthukāndevyai dattvācāryāya yo dadet | tāneva ca muniśreṣṭha sa devīpriyatāṁ vrajet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 18,
+   "text_deva": "त्रयोदश्यां च दुर्गायै चणकान्प्रददाति च | तानेव दत्त्वा विप्राय प्रजासन्ततिमान्भवेत्",
+   "text_te": "త్రయోదశ్యాం చ దుర్గాయై చణకాన్ప్రదదాతి చ | తానేవ దత్త్వా విప్రాయ ప్రజాసన్తతిమాన్భవేత్",
+   "text_en": "trayodaśyāṁ ca durgāyai caṇakānpradadāti ca | tāneva dattvā viprāya prajāsantatimānbhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 19,
+   "text_deva": "चतुर्दश्यां च देवर्षे देव्यै सक्तून्प्रयच्छति | तानेव दद्याद्विप्राय शिवस्य दयितो भवेत्",
+   "text_te": "చతుర్దశ్యాం చ దేవర్షే దేవ్యై సక్తూన్ప్రయచ్ఛతి | తానేవ దద్యాద్విప్రాయ శివస్య దయితో భవేత్",
+   "text_en": "caturdaśyāṁ ca devarṣe devyai saktūnprayacchati | tāneva dadyādviprāya śivasya dayito bhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 20,
+   "text_deva": "पायसं पूर्णिमातिथ्यामपर्णायै प्रयच्छति | ददाति च द्विजाग्र्याय पितृनुद्धरतेऽखिलान्",
+   "text_te": "పాయసం పూర్ణిమాతిథ్యామపర్ణాయై ప్రయచ్ఛతి | దదాతి చ ద్విజాగ్ర్యాయ పితృనుద్ధరతేఽఖిలాన్",
+   "text_en": "pāyasaṁ pūrṇimātithyāmaparṇāyai prayacchati | dadāti ca dvijāgryāya pitṛnuddharate'khilān",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 21,
+   "text_deva": "तत्तिथौ हवनं प्रोक्तं देवीप्रीत्यै महामुने | तत्तत्तिथ्युक्तवस्तूनामशेषारिष्टनाशनम्",
+   "text_te": "తత్తిథౌ హవనం ప్రోక్తం దేవీప్రీత్యై మహామునే | తత్తత్తిథ్యుక్తవస్తూనామశేషారిష్టనాశనమ్",
+   "text_en": "tattithau havanaṁ proktaṁ devīprītyai mahāmune | tattattithyuktavastūnāmaśeṣāriṣṭanāśanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 22,
+   "text_deva": "रविवारे पायसं च नैवेद्यं परिकीर्तितम् | सोमवारे पयः प्रोक्तं भौमे च कदलीफलम्",
+   "text_te": "రవివారే పాయసం చ నైవేద్యం పరికీర్తితమ్ | సోమవారే పయః ప్రోక్తం భౌమే చ కదలీఫలమ్",
+   "text_en": "ravivāre pāyasaṁ ca naivedyaṁ parikīrtitam | somavāre payaḥ proktaṁ bhaume ca kadalīphalam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 23,
+   "text_deva": "बुधवारे च सम्प्रोक्तं नवनीतं नवं द्विज | गुरुवारे शर्करां च सितां भार्गववासरे",
+   "text_te": "బుధవారే చ సమ్ప్రోక్తం నవనీతం నవం ద్విజ | గురువారే శర్కరాం చ సితాం భార్గవవాసరే",
+   "text_en": "budhavāre ca samproktaṁ navanītaṁ navaṁ dvija | guruvāre śarkarāṁ ca sitāṁ bhārgavavāsare",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 24,
+   "text_deva": "शनिवारे घृतं गव्यं नैवेद्यं परिकीर्तितम् | सप्तविंशतिनक्षत्रनैवेद्यं श्रूयतां मुने",
+   "text_te": "శనివారే ఘృతం గవ్యం నైవేద్యం పరికీర్తితమ్ | సప్తవింశతినక్షత్రనైవేద్యం శ్రూయతాం మునే",
+   "text_en": "śanivāre ghṛtaṁ gavyaṁ naivedyaṁ parikīrtitam | saptaviṁśatinakṣatranaivedyaṁ śrūyatāṁ mune",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 25,
+   "text_deva": "घृतं तिलं शर्करां च दधि दुग्धं किलाटकम् | दथिकूर्ची मोदकं च फेणिकां घृतमण्डकम्",
+   "text_te": "ఘృతం తిలం శర్కరాం చ దధి దుగ్ధం కిలాటకమ్ | దథికూర్చీ మోదకం చ ఫేణికాం ఘృతమణ్డకమ్",
+   "text_en": "ghṛtaṁ tilaṁ śarkarāṁ ca dadhi dugdhaṁ kilāṭakam | dathikūrcī modakaṁ ca pheṇikāṁ ghṛtamaṇḍakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 26,
+   "text_deva": "कंसारं वटपत्रं च घृतपूरमतः परम् | वटकं कोकरसकं पूरणं मधु सूरणम्",
+   "text_te": "కంసారం వటపత్రం చ ఘృతపూరమతః పరమ్ | వటకం కోకరసకం పూరణం మధు సూరణమ్",
+   "text_en": "kaṁsāraṁ vaṭapatraṁ ca ghṛtapūramataḥ param | vaṭakaṁ kokarasakaṁ pūraṇaṁ madhu sūraṇam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 27,
+   "text_deva": "गुडं पृथुकद्राक्षे च खर्जूरं चैव चारकम् | अपूपं नवनीतं च मुद्गं मोदक एव च",
+   "text_te": "గుడం పృథుకద్రాక్షే చ ఖర్జూరం చైవ చారకమ్ | అపూపం నవనీతం చ ముద్గం మోదక ఏవ చ",
+   "text_en": "guḍaṁ pṛthukadrākṣe ca kharjūraṁ caiva cārakam | apūpaṁ navanītaṁ ca mudgaṁ modaka eva ca",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 28,
+   "text_deva": "मातुलिङ्गमिति प्रोक्तं भनैवेद्यं च नारद | विष्कम्भादिषु योगेषु प्रवक्ष्यामि निवेदनम्",
+   "text_te": "మాతులిఙ్గమితి ప్రోక్తం భనైవేద్యం చ నారద | విష్కమ్భాదిషు యోగేషు ప్రవక్ష్యామి నివేదనమ్",
+   "text_en": "mātuliṅgamiti proktaṁ bhanaivedyaṁ ca nārada | viṣkambhādiṣu yogeṣu pravakṣyāmi nivedanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 29,
+   "text_deva": "पदार्थानां कृतेष्वेषु प्रीणाति जगदम्बिका | गुडं मधु घृतं दुग्धं दधि तक्रं त्वपूपकम्",
+   "text_te": "పదార్థానాం కృతేష్వేషు ప్రీణాతి జగదమ్బికా | గుడం మధు ఘృతం దుగ్ధం దధి తక్రం త్వపూపకమ్",
+   "text_en": "padārthānāṁ kṛteṣveṣu prīṇāti jagadambikā | guḍaṁ madhu ghṛtaṁ dugdhaṁ dadhi takraṁ tvapūpakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 30,
+   "text_deva": "नवनीतं कर्कटीं च कूष्माण्डं चापि मोदकम् | पनसं कदलं जम्बुफलमाम्रफलं तिलम्",
+   "text_te": "నవనీతం కర్కటీం చ కూష్మాణ్డం చాపి మోదకమ్ | పనసం కదలం జమ్బుఫలమామ్రఫలం తిలమ్",
+   "text_en": "navanītaṁ karkaṭīṁ ca kūṣmāṇḍaṁ cāpi modakam | panasaṁ kadalaṁ jambuphalamāmraphalaṁ tilam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 31,
+   "text_deva": "नारङ्गं दाडिमं चैव बदरीफलमेव च | धात्रीफलं पायसञ्च पृथुकं चणकं तथा",
+   "text_te": "నారఙ్గం దాడిమం చైవ బదరీఫలమేవ చ | ధాత్రీఫలం పాయసఞ్చ పృథుకం చణకం తథా",
+   "text_en": "nāraṅgaṁ dāḍimaṁ caiva badarīphalameva ca | dhātrīphalaṁ pāyasañca pṛthukaṁ caṇakaṁ tathā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 32,
+   "text_deva": "नारिकेलं जम्भफलं कसेरुं सूरणं तथा | एतानि क्रमशो विप्र नैवेद्यानि शुभानि च",
+   "text_te": "నారికేలం జమ్భఫలం కసేరుం సూరణం తథా | ఏతాని క్రమశో విప్ర నైవేద్యాని శుభాని చ",
+   "text_en": "nārikelaṁ jambhaphalaṁ kaseruṁ sūraṇaṁ tathā | etāni kramaśo vipra naivedyāni śubhāni ca",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 33,
+   "text_deva": "विष्कम्भादिषु योगेषु निर्णीतानि मनीषिभिः | अथ नैवेद्यमाख्यास्ये करणानां पृथङ्मुने",
+   "text_te": "విష్కమ్భాదిషు యోగేషు నిర్ణీతాని మనీషిభిః | అథ నైవేద్యమాఖ్యాస్యే కరణానాం పృథఙ్మునే",
+   "text_en": "viṣkambhādiṣu yogeṣu nirṇītāni manīṣibhiḥ | atha naivedyamākhyāsye karaṇānāṁ pṛthaṅmune",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 34,
+   "text_deva": "कंसारं मण्डकं फेणी मोदकं वटपत्रकम् | लड्डुकं घृतपूरं च तिलं दधि घृतं मधु",
+   "text_te": "కంసారం మణ్డకం ఫేణీ మోదకం వటపత్రకమ్ | లడ్డుకం ఘృతపూరం చ తిలం దధి ఘృతం మధు",
+   "text_en": "kaṁsāraṁ maṇḍakaṁ pheṇī modakaṁ vaṭapatrakam | laḍḍukaṁ ghṛtapūraṁ ca tilaṁ dadhi ghṛtaṁ madhu",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 35,
+   "text_deva": "करणानामिदं प्रोक्तं देवीनैवेद्यमादरात् | अथान्यत्सम्प्रवक्ष्यामि देवीप्रीतिकरं परम्",
+   "text_te": "కరణానామిదం ప్రోక్తం దేవీనైవేద్యమాదరాత్ | అథాన్యత్సమ్ప్రవక్ష్యామి దేవీప్రీతికరం పరమ్",
+   "text_en": "karaṇānāmidaṁ proktaṁ devīnaivedyamādarāt | athānyatsampravakṣyāmi devīprītikaraṁ param",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 36,
+   "text_deva": "विधानं नारदमुने शृणु तत्सर्वमादृतः | चैत्रशुद्धतृतीयायां नरो मधुकवृक्षकम्",
+   "text_te": "విధానం నారదమునే శృణు తత్సర్వమాదృతః | చైత్రశుద్ధతృతీయాయాం నరో మధుకవృక్షకమ్",
+   "text_en": "vidhānaṁ nāradamune śṛṇu tatsarvamādṛtaḥ | caitraśuddhatṛtīyāyāṁ naro madhukavṛkṣakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 37,
+   "text_deva": "पूजयेत्पञ्च खाद्यं च नैवेद्यमुपकल्पयेत् | एवं द्वादशमासेषु तृतीयातिथिषु क्रमात्",
+   "text_te": "పూజయేత్పఞ్చ ఖాద్యం చ నైవేద్యముపకల్పయేత్ | ఏవం ద్వాదశమాసేషు తృతీయాతిథిషు క్రమాత్",
+   "text_en": "pūjayetpañca khādyaṁ ca naivedyamupakalpayet | evaṁ dvādaśamāseṣu tṛtīyātithiṣu kramāt",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 38,
+   "text_deva": "शुक्लपक्षे विधानेन नैवेद्यमभिदध्महे | वैशाखमासे नैवेद्यं गुडयुक्तं च नारद",
+   "text_te": "శుక్లపక్షే విధానేన నైవేద్యమభిదధ్మహే | వైశాఖమాసే నైవేద్యం గుడయుక్తం చ నారద",
+   "text_en": "śuklapakṣe vidhānena naivedyamabhidadhmahe | vaiśākhamāse naivedyaṁ guḍayuktaṁ ca nārada",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 39,
+   "text_deva": "ज्येष्ठमासे मधु प्रोक्तं देवीप्रीत्यर्थमेव तु | आषाढे नवनीतं च मधुकस्य निवेदनम्",
+   "text_te": "జ్యేష్ఠమాసే మధు ప్రోక్తం దేవీప్రీత్యర్థమేవ తు | ఆషాఢే నవనీతం చ మధుకస్య నివేదనమ్",
+   "text_en": "jyeṣṭhamāse madhu proktaṁ devīprītyarthameva tu | āṣāḍhe navanītaṁ ca madhukasya nivedanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 40,
+   "text_deva": "श्रावणे दधि नैवेद्यं भाद्रमासे च शर्करा | आश्विने पायसं प्रोक्तं कार्तिके पय उत्तमम्",
+   "text_te": "శ్రావణే దధి నైవేద్యం భాద్రమాసే చ శర్కరా | ఆశ్వినే పాయసం ప్రోక్తం కార్తికే పయ ఉత్తమమ్",
+   "text_en": "śrāvaṇe dadhi naivedyaṁ bhādramāse ca śarkarā | āśvine pāyasaṁ proktaṁ kārtike paya uttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 41,
+   "text_deva": "मार्गे फेण्युत्तमा प्रोक्ता पौषे च दधिकूर्चिका | माघे मासि च नैवेद्यं मृतं गव्यं समाहरेत्",
+   "text_te": "మార్గే ఫేణ్యుత్తమా ప్రోక్తా పౌషే చ దధికూర్చికా | మాఘే మాసి చ నైవేద్యం మృతం గవ్యం సమాహరేత్",
+   "text_en": "mārge pheṇyuttamā proktā pauṣe ca dadhikūrcikā | māghe māsi ca naivedyaṁ mṛtaṁ gavyaṁ samāharet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 42,
+   "text_deva": "नारिकेलं च नैवेद्यं फाल्गुने परिकीर्तितम् | एवं द्वादशनैवेद्यैर्मासे च क्रमतोऽर्चयेत्",
+   "text_te": "నారికేలం చ నైవేద్యం ఫాల్గునే పరికీర్తితమ్ | ఏవం ద్వాదశనైవేద్యైర్మాసే చ క్రమతోఽర్చయేత్",
+   "text_en": "nārikelaṁ ca naivedyaṁ phālgune parikīrtitam | evaṁ dvādaśanaivedyairmāse ca kramato'rcayet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 43,
+   "text_deva": "मङ्गला वैष्णवी माया कालरात्रिर्दुरत्यया | महामाया मतङ्गी च काली कमलवासिनी",
+   "text_te": "మఙ్గలా వైష్ణవీ మాయా కాలరాత్రిర్దురత్యయా | మహామాయా మతఙ్గీ చ కాలీ కమలవాసినీ",
+   "text_en": "maṅgalā vaiṣṇavī māyā kālarātrirduratyayā | mahāmāyā mataṅgī ca kālī kamalavāsinī",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 44,
+   "text_deva": "शिवा सहस्रचरणा सर्वमङ्गलरूपिणी | एभिर्नामपदैर्देवीं मधूके परिपूजयेत्",
+   "text_te": "శివా సహస్రచరణా సర్వమఙ్గలరూపిణీ | ఏభిర్నామపదైర్దేవీం మధూకే పరిపూజయేత్",
+   "text_en": "śivā sahasracaraṇā sarvamaṅgalarūpiṇī | ebhirnāmapadairdevīṁ madhūke paripūjayet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 45,
+   "text_deva": "ततः स्तुवीत देवेशीं मधूकस्थां महेश्वरीम् | सर्वकामसमृद्ध्यर्थं व्रतपूर्णत्वसिद्धये",
+   "text_te": "తతః స్తువీత దేవేశీం మధూకస్థాం మహేశ్వరీమ్ | సర్వకామసమృద్ధ్యర్థం వ్రతపూర్ణత్వసిద్ధయే",
+   "text_en": "tataḥ stuvīta deveśīṁ madhūkasthāṁ maheśvarīm | sarvakāmasamṛddhyarthaṁ vratapūrṇatvasiddhaye",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 46,
+   "text_deva": "नमः पुष्करनेत्रायै जगद्धात्र्यै नमोऽस्तु ते | माहेश्वर्यं महादेव्यै महामङ्गलमूर्तये",
+   "text_te": "నమః పుష్కరనేత్రాయై జగద్ధాత్ర్యై నమోఽస్తు తే | మాహేశ్వర్యం మహాదేవ్యై మహామఙ్గలమూర్తయే",
+   "text_en": "namaḥ puṣkaranetrāyai jagaddhātryai namo'stu te | māheśvaryaṁ mahādevyai mahāmaṅgalamūrtaye",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 47,
+   "text_deva": "परमा पापहन्त्री च परमार्गप्रदायिनी | परमेश्वरी प्रजोत्पत्तिः परब्रह्मस्वरूपिणी",
+   "text_te": "పరమా పాపహన్త్రీ చ పరమార్గప్రదాయినీ | పరమేశ్వరీ ప్రజోత్పత్తిః పరబ్రహ్మస్వరూపిణీ",
+   "text_en": "paramā pāpahantrī ca paramārgapradāyinī | parameśvarī prajotpattiḥ parabrahmasvarūpiṇī",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 48,
+   "text_deva": "मददात्री मदोन्मत्ता मानगम्या महोन्नता | मनस्विनी मुनिध्येया मार्तण्डसहचारिणी",
+   "text_te": "మదదాత్రీ మదోన్మత్తా మానగమ్యా మహోన్నతా | మనస్వినీ మునిధ్యేయా మార్తణ్డసహచారిణీ",
+   "text_en": "madadātrī madonmattā mānagamyā mahonnatā | manasvinī munidhyeyā mārtaṇḍasahacāriṇī",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 49,
+   "text_deva": "जय लोकेश्वरि प्राज्ञे प्रलयाम्बुदसन्निभे | महामोहविनाशार्थं पूजितासि सुरासुरैः",
+   "text_te": "జయ లోకేశ్వరి ప్రాజ్ఞే ప్రలయామ్బుదసన్నిభే | మహామోహవినాశార్థం పూజితాసి సురాసురైః",
+   "text_en": "jaya lokeśvari prājñe pralayāmbudasannibhe | mahāmohavināśārthaṁ pūjitāsi surāsuraiḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 50,
+   "text_deva": "यमलोकाभावकर्त्री यमपूज्या यमाग्रजा | यमनिग्रहरूपा च यजनीये नमो नमः",
+   "text_te": "యమలోకాభావకర్త్రీ యమపూజ్యా యమాగ్రజా | యమనిగ్రహరూపా చ యజనీయే నమో నమః",
+   "text_en": "yamalokābhāvakartrī yamapūjyā yamāgrajā | yamanigraharūpā ca yajanīye namo namaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 51,
+   "text_deva": "समस्वभावा सर्वेशी सर्वसङ्गविवर्जिता | सङ्गनाशकरी काम्यरूपा कारुण्यविग्रहा",
+   "text_te": "సమస్వభావా సర్వేశీ సర్వసఙ్గవివర్జితా | సఙ్గనాశకరీ కామ్యరూపా కారుణ్యవిగ్రహా",
+   "text_en": "samasvabhāvā sarveśī sarvasaṅgavivarjitā | saṅganāśakarī kāmyarūpā kāruṇyavigrahā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 52,
+   "text_deva": "कङ्कालक्रूरा कामाक्षी मीनाक्षी मर्मभेदिनी | माधुर्यरूपशीला च मधुरस्वरपूजिता",
+   "text_te": "కఙ్కాలక్రూరా కామాక్షీ మీనాక్షీ మర్మభేదినీ | మాధుర్యరూపశీలా చ మధురస్వరపూజితా",
+   "text_en": "kaṅkālakrūrā kāmākṣī mīnākṣī marmabhedinī | mādhuryarūpaśīlā ca madhurasvarapūjitā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 53,
+   "text_deva": "महामन्त्रवती मन्त्रगम्या मन्त्रप्रियङ्करी | मनुष्यमानसगमा मन्मथारिप्रियङ्करी",
+   "text_te": "మహామన్త్రవతీ మన్త్రగమ్యా మన్త్రప్రియఙ్కరీ | మనుష్యమానసగమా మన్మథారిప్రియఙ్కరీ",
+   "text_en": "mahāmantravatī mantragamyā mantrapriyaṅkarī | manuṣyamānasagamā manmathāripriyaṅkarī",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 54,
+   "text_deva": "अश्वत्थवटनिम्बाम्रकपित्थबदरीगते | पनसार्ककरीरादिक्षीरवृक्षस्वरूपिणी",
+   "text_te": "అశ్వత్థవటనిమ్బామ్రకపిత్థబదరీగతే | పనసార్కకరీరాదిక్షీరవృక్షస్వరూపిణీ",
+   "text_en": "aśvatthavaṭanimbāmrakapitthabadarīgate | panasārkakarīrādikṣīravṛkṣasvarūpiṇī",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 55,
+   "text_deva": "दुग्धवल्लीनिवासार्हे दयनीये दयाधिके | दाक्षिण्यकरुणारूपे जय सर्वज्ञवल्लभे",
+   "text_te": "దుగ్ధవల్లీనివాసార్హే దయనీయే దయాధికే | దాక్షిణ్యకరుణారూపే జయ సర్వజ్ఞవల్లభే",
+   "text_en": "dugdhavallīnivāsārhe dayanīye dayādhike | dākṣiṇyakaruṇārūpe jaya sarvajñavallabhe",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 56,
+   "text_deva": "एवं स्तवेन देवेशीं पूजनान्ते स्तुवीत ताम् | व्रतस्य सकलं पुण्यं लभते सर्वदा नरः",
+   "text_te": "ఏవం స్తవేన దేవేశీం పూజనాన్తే స్తువీత తామ్ | వ్రతస్య సకలం పుణ్యం లభతే సర్వదా నరః",
+   "text_en": "evaṁ stavena deveśīṁ pūjanānte stuvīta tām | vratasya sakalaṁ puṇyaṁ labhate sarvadā naraḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 57,
+   "text_deva": "नित्यं यः पठते स्तोत्रं देवीप्रीतिकरं नरः | आधिव्याधिभयं नास्ति रिपुभीतिर्न तस्य हि",
+   "text_te": "నిత్యం యః పఠతే స్తోత్రం దేవీప్రీతికరం నరః | ఆధివ్యాధిభయం నాస్తి రిపుభీతిర్న తస్య హి",
+   "text_en": "nityaṁ yaḥ paṭhate stotraṁ devīprītikaraṁ naraḥ | ādhivyādhibhayaṁ nāsti ripubhītirna tasya hi",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 58,
+   "text_deva": "अर्थार्थी चार्थमाप्नोति धर्मार्थी धर्ममाप्नुयात् | कामानवाप्नुयात्कामी मोक्षार्थी मोक्षमाजप्नुयात्",
+   "text_te": "అర్థార్థీ చార్థమాప్నోతి ధర్మార్థీ ధర్మమాప్నుయాత్ | కామానవాప్నుయాత్కామీ మోక్షార్థీ మోక్షమాజప్నుయాత్",
+   "text_en": "arthārthī cārthamāpnoti dharmārthī dharmamāpnuyāt | kāmānavāpnuyātkāmī mokṣārthī mokṣamājapnuyāt",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 59,
+   "text_deva": "ब्राह्मणो वेदसम्पनो विजयी क्षत्रियो भवेत् | वैश्यश्च धनधान्याढ्यो भवेच्छूद्रः सुखाधिकः",
+   "text_te": "బ్రాహ్మణో వేదసమ్పనో విజయీ క్షత్రియో భవేత్ | వైశ్యశ్చ ధనధాన్యాఢ్యో భవేచ్ఛూద్రః సుఖాధికః",
+   "text_en": "brāhmaṇo vedasampano vijayī kṣatriyo bhavet | vaiśyaśca dhanadhānyāḍhyo bhavecchūdraḥ sukhādhikaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 60,
+   "text_deva": "स्तोत्रमेतच्छ्राद्धकाले यः पठेत्प्रयतो नरः | पितॄणामक्षया तृप्तिर्जायते कल्पवर्तिनी",
+   "text_te": "స్తోత్రమేతచ్ఛ్రాద్ధకాలే యః పఠేత్ప్రయతో నరః | పితౄణామక్షయా తృప్తిర్జాయతే కల్పవర్తినీ",
+   "text_en": "stotrametacchrāddhakāle yaḥ paṭhetprayato naraḥ | pitṝṇāmakṣayā tṛptirjāyate kalpavartinī",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 61,
+   "text_deva": "एवमाराधनं देव्याः समुक्तं सुरपूजितम् | यः करोति नरो भक्त्या स देवीलोकभाग्भवेत्",
+   "text_te": "ఏవమారాధనం దేవ్యాః సముక్తం సురపూజితమ్ | యః కరోతి నరో భక్త్యా స దేవీలోకభాగ్భవేత్",
+   "text_en": "evamārādhanaṁ devyāḥ samuktaṁ surapūjitam | yaḥ karoti naro bhaktyā sa devīlokabhāgbhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 62,
+   "text_deva": "देवीपूजनतो विप्र सर्वे कामा भवन्ति हि | सर्वपापहतिः शुद्धा मतिरन्ते प्रजायते",
+   "text_te": "దేవీపూజనతో విప్ర సర్వే కామా భవన్తి హి | సర్వపాపహతిః శుద్ధా మతిరన్తే ప్రజాయతే",
+   "text_en": "devīpūjanato vipra sarve kāmā bhavanti hi | sarvapāpahatiḥ śuddhā matirante prajāyate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 63,
+   "text_deva": "यत्र तत्र भवेत्पूज्यो मान्यो मानधनेषु च | जायते जगदम्बायाः प्रसादेन विरञ्चिज",
+   "text_te": "యత్ర తత్ర భవేత్పూజ్యో మాన్యో మానధనేషు చ | జాయతే జగదమ్బాయాః ప్రసాదేన విరఞ్చిజ",
+   "text_en": "yatra tatra bhavetpūjyo mānyo mānadhaneṣu ca | jāyate jagadambāyāḥ prasādena virañcija",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 64,
+   "text_deva": "नरकाणां न तस्यास्ति भयं स्वप्नेऽपि कुत्रचित् | महामायाप्रसादेन पुत्रपौत्रादिवर्धनः",
+   "text_te": "నరకాణాం న తస్యాస్తి భయం స్వప్నేఽపి కుత్రచిత్ | మహామాయాప్రసాదేన పుత్రపౌత్రాదివర్ధనః",
+   "text_en": "narakāṇāṁ na tasyāsti bhayaṁ svapne'pi kutracit | mahāmāyāprasādena putrapautrādivardhanaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 65,
+   "text_deva": "देवीभक्तो भवत्येव नात्र कार्या विचारणा | इत्येवं ते समाख्यातं नरकोद्धारलक्षणम्",
+   "text_te": "దేవీభక్తో భవత్యేవ నాత్ర కార్యా విచారణా | ఇత్యేవం తే సమాఖ్యాతం నరకోద్ధారలక్షణమ్",
+   "text_en": "devībhakto bhavatyeva nātra kāryā vicāraṇā | ityevaṁ te samākhyātaṁ narakoddhāralakṣaṇam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 66,
+   "text_deva": "पूजनं हि महादेव्याः सर्वमङ्गलकारकम् | मधूकपूजनं तद्वन्मासानां क्रमतो मुने",
+   "text_te": "పూజనం హి మహాదేవ్యాః సర్వమఙ్గలకారకమ్ | మధూకపూజనం తద్వన్మాసానాం క్రమతో మునే",
+   "text_en": "pūjanaṁ hi mahādevyāḥ sarvamaṅgalakārakam | madhūkapūjanaṁ tadvanmāsānāṁ kramato mune",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 67,
+   "text_deva": "सर्वं समाचरेद्यस्तु पूजनं मधुकाह्वयम् | न तस्य रोगबाधादिभयमुद्भवतेऽनघ",
+   "text_te": "సర్వం సమాచరేద్యస్తు పూజనం మధుకాహ్వయమ్ | న తస్య రోగబాధాదిభయముద్భవతేఽనఘ",
+   "text_en": "sarvaṁ samācaredyastu pūjanaṁ madhukāhvayam | na tasya rogabādhādibhayamudbhavate'nagha",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 68,
+   "text_deva": "अथान्यदपि वक्ष्यामि प्रकृतेः पञ्चकं परम् | नाम्ना रूपेण चोत्पत्त्या जगदानन्ददायकम्",
+   "text_te": "అథాన్యదపి వక్ష్యామి ప్రకృతేః పఞ్చకం పరమ్ | నామ్నా రూపేణ చోత్పత్త్యా జగదానన్దదాయకమ్",
+   "text_en": "athānyadapi vakṣyāmi prakṛteḥ pañcakaṁ param | nāmnā rūpeṇa cotpattyā jagadānandadāyakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 69,
+   "text_deva": "साख्यानं च समाहात्म्यं प्रकृतेः पञ्चकं मुने | कुतूहलकर चैव शृणु मुक्तिविधायकम्",
+   "text_te": "సాఖ్యానం చ సమాహాత్మ్యం ప్రకృతేః పఞ్చకం మునే | కుతూహలకర చైవ శృణు ముక్తివిధాయకమ్",
+   "text_en": "sākhyānaṁ ca samāhātmyaṁ prakṛteḥ pañcakaṁ mune | kutūhalakara caiva śṛṇu muktividhāyakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 70,
+   "text_deva": "इति श्रीमद्देवीभागवते महापुराणेऽष्टादशसाहस्र्यां संहितायामष्टमस्कन्धे देवीपूजनविधिनिरूपणं नाम चतुर्विंशोऽध्यायः",
+   "text_te": "ఇతి శ్రీమద్దేవీభాగవతే మహాపురాణేఽష్టాదశసాహస్ర్యాం సంహితాయామష్టమస్కన్ధే దేవీపూజనవిధినిరూపణం నామ చతుర్వింశోఽధ్యాయః",
+   "text_en": "iti śrīmaddevībhāgavate mahāpurāṇe'ṣṭādaśasāhasryāṁ saṁhitāyāmaṣṭamaskandhe devīpūjanavidhinirūpaṇaṁ nāma caturviṁśo'dhyāyaḥ",
+   "mean_en": null,
+   "mean_te": null
+  }
+ ]
+}

@@ -1,0 +1,249 @@
+{
+ "epics": {
+  "mahabhagavatam": {
+   "id": "mahabhagavatam",
+   "name": {
+    "en": "Srimad Bhagavatam",
+    "te": "శ్రీమహా భాగవతం"
+   },
+   "author": {
+    "en": "Veda Vyasa",
+    "te": "వేద వ్యాసుడు"
+   },
+   "unitLabel": {
+    "en": "Skandha",
+    "te": "స్కందం"
+   },
+   "labels": {
+    "sargaWord": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "sargaLabel": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "allSargas": {
+     "en": "All chapters",
+     "te": "అన్ని అధ్యాయాలు"
+    },
+    "browseSargas": {
+     "en": "Read by chapter",
+     "te": "అధ్యాయాలు చదవండి"
+    },
+    "sargasAvailable": {
+     "en": "chapters · read the whole skandha",
+     "te": "అధ్యాయాలు · పూర్తి స్కందాన్ని చదవండి"
+    },
+    "talePick": {
+     "en": "Open a chapter to read its tale as a flowing story.",
+     "te": "ఒక అధ్యాయాన్ని తెరిచి దాని కథను చదవండి."
+    },
+    "prevSarga": {
+     "en": "← Prev chapter",
+     "te": "← మునుపటి అధ్యాయం"
+    },
+    "nextSarga": {
+     "en": "Next chapter →",
+     "te": "తరువాతి అధ్యాయం →"
+    }
+   },
+   "planned": [
+    {
+     "en": "All twelve skandhas — 335 adhyayas, shlokas in Devanagari, Telugu and IAST",
+     "te": "పన్నెండు స్కందాలు — 335 అధ్యాయాలు, శ్లోకాలు దేవనాగరి, తెలుగు, IAST లలో"
+    },
+    {
+     "en": "Authored meanings, skandha by skandha — beginning with Skandha 1 and the Dasama Skandha",
+     "te": "అర్థాలు స్కందం స్కందంగా — మొదట ప్రథమ స్కందం, దశమ స్కందం"
+    },
+    {
+     "en": "…the reading experience arrives skandha by skandha, like the other works on this shelf",
+     "te": "…చదివే అనుభవం స్కందం స్కందంగా వస్తుంది — ఈ అరలోని ఇతర గ్రంథాల మాదిరిగానే"
+    }
+   ],
+   "sections": [
+    {
+     "id": "skandha-01",
+     "n": 1,
+     "name": {
+      "en": "Prathama Skandha",
+      "te": "ప్రథమ స్కందం"
+     },
+     "title": {
+      "en": "The sages' assembly, Krishna's departure and King Parikshit",
+      "te": "మునుల సభ, కృష్ణుని దివ్యగమనం, పరీక్షిన్మహారాజు"
+     },
+     "comingSoon": true,
+     "note": "19 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "19 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-02",
+     "n": 2,
+     "name": {
+      "en": "Dvitiya Skandha",
+      "te": "ద్వితీయ స్కందం"
+     },
+     "title": {
+      "en": "The cosmic form and the Lord's emanations",
+      "te": "విశ్వరూపం, భగవంతుని విభూతులు"
+     },
+     "comingSoon": true,
+     "note": "10 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "10 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-03",
+     "n": 3,
+     "name": {
+      "en": "Tritiya Skandha",
+      "te": "తృతీయ స్కందం"
+     },
+     "title": {
+      "en": "Vidura's pilgrimage and Kapila's Sankhya",
+      "te": "విదురుని తీర్థయాత్ర, కపిల సాంఖ్యం"
+     },
+     "comingSoon": true,
+     "note": "33 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "33 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-04",
+     "n": 4,
+     "name": {
+      "en": "Chaturtha Skandha",
+      "te": "చతుర్థ స్కందం"
+     },
+     "title": {
+      "en": "Daksha's sacrifice, Dhruva and Prithu",
+      "te": "దక్ష యజ్ఞం, ధ్రువుడు, పృథువు"
+     },
+     "comingSoon": true,
+     "note": "31 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "31 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-05",
+     "n": 5,
+     "name": {
+      "en": "Panchama Skandha",
+      "te": "పంచమ స్కందం"
+     },
+     "title": {
+      "en": "Manu's line, the sage Bharata and the cosmos",
+      "te": "మనువు వంశం, భరత మహర్షి, బ్రహ్మాండం"
+     },
+     "comingSoon": true,
+     "note": "26 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "26 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-06",
+     "n": 6,
+     "name": {
+      "en": "Shashtha Skandha",
+      "te": "షష్ఠ స్కందం"
+     },
+     "title": {
+      "en": "Ajamila's redemption and Vritra's devotion",
+      "te": "అజామిలుని ఉద్ధరణ, వృత్రాసుని భక్తి"
+     },
+     "comingSoon": true,
+     "note": "19 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "19 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-07",
+     "n": 7,
+     "name": {
+      "en": "Saptama Skandha",
+      "te": "సప్తమ స్కందం"
+     },
+     "title": {
+      "en": "Prahlada and the Lord's man-lion form",
+      "te": "ప్రహ్లాదుడు, నరసింహావతారం"
+     },
+     "comingSoon": true,
+     "note": "15 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "15 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-08",
+     "n": 8,
+     "name": {
+      "en": "Ashtama Skandha",
+      "te": "అష్టమ స్కందం"
+     },
+     "title": {
+      "en": "Gajendra, the ocean churning and Vamana",
+      "te": "గజేంద్రుడు, క్షీరసాగర మథనం, వామనుడు"
+     },
+     "comingSoon": true,
+     "note": "24 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "24 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-09",
+     "n": 9,
+     "name": {
+      "en": "Navama Skandha",
+      "te": "నవమ స్కందం"
+     },
+     "title": {
+      "en": "The royal dynasties and Rama's story",
+      "te": "రాజ వంశాలు, శ్రీరాముని కథ"
+     },
+     "comingSoon": true,
+     "note": "24 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "24 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-10",
+     "n": 10,
+     "name": {
+      "en": "Dasama Skandha",
+      "te": "దశమ స్కందం"
+     },
+     "title": {
+      "en": "Krishna's birth and divine play",
+      "te": "కృష్ణ జన్మ, లీలలు"
+     },
+     "comingSoon": true,
+     "note": "90 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "90 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-11",
+     "n": 11,
+     "name": {
+      "en": "Ekadasa Skandha",
+      "te": "ఏకాదశ స్కందం"
+     },
+     "title": {
+      "en": "The Uddhava Gita and the turn of the age",
+      "te": "ఉద్ధవ గీత, కలియుగారంభం"
+     },
+     "comingSoon": true,
+     "note": "31 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "31 adhyayas — text pack in preparation."
+    },
+    {
+     "id": "skandha-12",
+     "n": 12,
+     "name": {
+      "en": "Dvadasa Skandha",
+      "te": "ద్వాదశ స్కందం"
+     },
+     "title": {
+      "en": "The age of Kali and the glory of the Bhagavatam",
+      "te": "కలియుగ లక్షణాలు, భాగవత మహత్యం"
+     },
+     "comingSoon": true,
+     "note": "13 అధ్యాయాలు — శ్లోక పఠనం త్వరలో.",
+     "note_en": "13 adhyayas — text pack in preparation."
+    }
+   ]
+  }
+ }
+}

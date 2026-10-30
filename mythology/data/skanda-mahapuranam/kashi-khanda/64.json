@@ -1,0 +1,985 @@
+{
+ "kanda": "kashi-khanda",
+ "n": 64,
+ "title_deva": "क्षेत्ररहस्यकथनम्",
+ "title_te": "క్షేత్రరహస్యకథనమ్",
+ "title_iast": "kṣetrarahasyakathanam",
+ "shlokas": [
+  {
+   "n": 1,
+   "text_deva": "दृष्ट्वा भूदेवताः शंभुं किमाचख्युः षडानन ॥ कानिकानि च लिंगानि तत्र तान्यपिचक्ष्व मे",
+   "text_te": "దృష్ట్వా భూదేవతాః శంభుం కిమాచఖ్యుః షడానన ॥ కానికాని చ లింగాని తత్ర తాన్యపిచక్ష్వ మే",
+   "text_en": "dṛṣṭvā bhūdevatāḥ śaṁbhuṁ kimācakhyuḥ ṣaḍānana ॥ kānikāni ca liṁgāni tatra tānyapicakṣva me",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 2,
+   "text_deva": "ज्येष्ठस्थाने महापुण्ये देवदेवस्य वल्लभे ॥ आश्चर्यं किमभूत्तत्र तदाचक्ष्व षडानन",
+   "text_te": "జ్యేష్ఠస్థానే మహాపుణ్యే దేవదేవస్య వల్లభే ॥ ఆశ్చర్యం కిమభూత్తత్ర తదాచక్ష్వ షడానన",
+   "text_en": "jyeṣṭhasthāne mahāpuṇye devadevasya vallabhe ॥ āścaryaṁ kimabhūttatra tadācakṣva ṣaḍānana",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 3,
+   "text_deva": "शृण्वगस्त्य यथा पृच्छि भवता तद्ब्रवीम्यहम् ॥ मंदराद्रिं यदा देवो गतवान्ब्रह्मगौरवात्",
+   "text_te": "శృణ్వగస్త్య యథా పృచ్ఛి భవతా తద్బ్రవీమ్యహమ్ ॥ మందరాద్రిం యదా దేవో గతవాన్బ్రహ్మగౌరవాత్",
+   "text_en": "śṛṇvagastya yathā pṛcchi bhavatā tadbravīmyaham ॥ maṁdarādriṁ yadā devo gatavānbrahmagauravāt",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 4,
+   "text_deva": "तदा निराश्रया विप्राः क्षेत्रसंन्यासिनोनघाः ॥ उपाकृताश्चाविरतं महाक्षेत्रप्रतिग्रहात्",
+   "text_te": "తదా నిరాశ్రయా విప్రాః క్షేత్రసంన్యాసినోనఘాః ॥ ఉపాకృతాశ్చావిరతం మహాక్షేత్రప్రతిగ్రహాత్",
+   "text_en": "tadā nirāśrayā viprāḥ kṣetrasaṁnyāsinonaghāḥ ॥ upākṛtāścāvirataṁ mahākṣetrapratigrahāt",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 5,
+   "text_deva": "खातंखातं च दंडाग्रैर्भूमिं कंदादिवृत्तयः ॥ चक्रुः पुष्करिणीं रम्यां दंडखाताभिधां मुने",
+   "text_te": "ఖాతంఖాతం చ దండాగ్రైర్భూమిం కందాదివృత్తయః ॥ చక్రుః పుష్కరిణీం రమ్యాం దండఖాతాభిధాం మునే",
+   "text_en": "khātaṁkhātaṁ ca daṁḍāgrairbhūmiṁ kaṁdādivṛttayaḥ ॥ cakruḥ puṣkariṇīṁ ramyāṁ daṁḍakhātābhidhāṁ mune",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 6,
+   "text_deva": "तत्तीर्थं परितः स्थाप्य महालिंगान्यनेकशः ॥ महेशाराधनपरास्तपश्चक्रुः प्रयत्नतः",
+   "text_te": "తత్తీర్థం పరితః స్థాప్య మహాలింగాన్యనేకశః ॥ మహేశారాధనపరాస్తపశ్చక్రుః ప్రయత్నతః",
+   "text_en": "tattīrthaṁ paritaḥ sthāpya mahāliṁgānyanekaśaḥ ॥ maheśārādhanaparāstapaścakruḥ prayatnataḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 7,
+   "text_deva": "विभूतिधारिणो नित्यं नित्यरुद्राक्षधारिणः ॥ लिंगपूजारता नित्यं शतरुद्रियजापिनः",
+   "text_te": "విభూతిధారిణో నిత్యం నిత్యరుద్రాక్షధారిణః ॥ లింగపూజారతా నిత్యం శతరుద్రియజాపినః",
+   "text_en": "vibhūtidhāriṇo nityaṁ nityarudrākṣadhāriṇaḥ ॥ liṁgapūjāratā nityaṁ śatarudriyajāpinaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 8,
+   "text_deva": "ते श्रुत्वा देवदेवस्य पुनरागमनं मुने ॥ तपःकृशा अतितरामासुरानंद मेदुराः",
+   "text_te": "తే శ్రుత్వా దేవదేవస్య పునరాగమనం మునే ॥ తపఃకృశా అతితరామాసురానంద మేదురాః",
+   "text_en": "te śrutvā devadevasya punarāgamanaṁ mune ॥ tapaḥkṛśā atitarāmāsurānaṁda medurāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 9,
+   "text_deva": "द्विजाः पंचसहस्राणि चरतो विपुलं तपः ॥ दंडखातान्महातीर्थादाजग्मुर्देवदर्शने",
+   "text_te": "ద్విజాః పంచసహస్రాణి చరతో విపులం తపః ॥ దండఖాతాన్మహాతీర్థాదాజగ్ముర్దేవదర్శనే",
+   "text_en": "dvijāḥ paṁcasahasrāṇi carato vipulaṁ tapaḥ ॥ daṁḍakhātānmahātīrthādājagmurdevadarśane",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 10,
+   "text_deva": "तीर्थान्मंदाकिनी नाम्नो द्विजाः पाशुपतव्रताः ॥ शिवैकाराधनपराः समेता अयुतोन्मिताः",
+   "text_te": "తీర్థాన్మందాకినీ నామ్నో ద్విజాః పాశుపతవ్రతాః ॥ శివైకారాధనపరాః సమేతా అయుతోన్మితాః",
+   "text_en": "tīrthānmaṁdākinī nāmno dvijāḥ pāśupatavratāḥ ॥ śivaikārādhanaparāḥ sametā ayutonmitāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 11,
+   "text_deva": "हंसतीर्थात्परिप्राप्ता अयुतं त्रिशतोत्तरम् ॥ शतदुर्वाससस्तीर्थादेकादश शताधिकम्",
+   "text_te": "హంసతీర్థాత్పరిప్రాప్తా అయుతం త్రిశతోత్తరమ్ ॥ శతదుర్వాససస్తీర్థాదేకాదశ శతాధికమ్",
+   "text_en": "haṁsatīrthātpariprāptā ayutaṁ triśatottaram ॥ śatadurvāsasastīrthādekādaśa śatādhikam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 12,
+   "text_deva": "मत्स्योदर्याः परापेतुः सहस्राणि षडेव हि ॥ कपालमोचनात्सप्त शतान्यभ्यागता द्विजाः",
+   "text_te": "మత్స్యోదర్యాః పరాపేతుః సహస్రాణి షడేవ హి ॥ కపాలమోచనాత్సప్త శతాన్యభ్యాగతా ద్విజాః",
+   "text_en": "matsyodaryāḥ parāpetuḥ sahasrāṇi ṣaḍeva hi ॥ kapālamocanātsapta śatānyabhyāgatā dvijāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 13,
+   "text_deva": "ऋणमोचनतस्तीर्थात्सहस्रं द्विशताधिकम् ॥ वैतरण्या अपि मुने द्विजानामयुतार्धकम्",
+   "text_te": "ఋణమోచనతస్తీర్థాత్సహస్రం ద్విశతాధికమ్ ॥ వైతరణ్యా అపి మునే ద్విజానామయుతార్ధకమ్",
+   "text_en": "ṛṇamocanatastīrthātsahasraṁ dviśatādhikam ॥ vaitaraṇyā api mune dvijānāmayutārdhakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 14,
+   "text_deva": "ततः पृथूदकात्कुंडात्पृथुना परिखानितात् ॥ अयासिषुर्द्विजानां च शतान्येव त्रयोदश",
+   "text_te": "తతః పృథూదకాత్కుండాత్పృథునా పరిఖానితాత్ ॥ అయాసిషుర్ద్విజానాం చ శతాన్యేవ త్రయోదశ",
+   "text_en": "tataḥ pṛthūdakātkuṁḍātpṛthunā parikhānitāt ॥ ayāsiṣurdvijānāṁ ca śatānyeva trayodaśa",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 15,
+   "text_deva": "तथैवाप्सरसः कुंडान्मेनकाख्याच्छतद्वयम् ॥ उर्वशीकुंडतः प्राप्ताः सहस्रं द्विशताधिकम्",
+   "text_te": "తథైవాప్సరసః కుండాన్మేనకాఖ్యాచ్ఛతద్వయమ్ ॥ ఉర్వశీకుండతః ప్రాప్తాః సహస్రం ద్విశతాధికమ్",
+   "text_en": "tathaivāpsarasaḥ kuṁḍānmenakākhyācchatadvayam ॥ urvaśīkuṁḍataḥ prāptāḥ sahasraṁ dviśatādhikam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 16,
+   "text_deva": "तथैरावतकुंडाच्च ब्राह्मणास्त्रिशतानि च ॥ गंधर्वाप्सरसः सप्त शतानि द्विशतानि च",
+   "text_te": "తథైరావతకుండాచ్చ బ్రాహ్మణాస్త్రిశతాని చ ॥ గంధర్వాప్సరసః సప్త శతాని ద్విశతాని చ",
+   "text_en": "tathairāvatakuṁḍācca brāhmaṇāstriśatāni ca ॥ gaṁdharvāpsarasaḥ sapta śatāni dviśatāni ca",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 17,
+   "text_deva": "वृषेशतीर्थादाजग्मुर्नवतिः सशतत्रया ॥ यक्षिणीकुंडतः प्राप्ताः सहस्रं त्रिशतोत्तरम्",
+   "text_te": "వృషేశతీర్థాదాజగ్ముర్నవతిః సశతత్రయా ॥ యక్షిణీకుండతః ప్రాప్తాః సహస్రం త్రిశతోత్తరమ్",
+   "text_en": "vṛṣeśatīrthādājagmurnavatiḥ saśatatrayā ॥ yakṣiṇīkuṁḍataḥ prāptāḥ sahasraṁ triśatottaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 18,
+   "text_deva": "लक्ष्मीतीर्थात्परं जग्मुः षोडशैव शतानि च ॥ पिशाचमोचनात्सप्त सहस्राणि द्विजोत्तमाः",
+   "text_te": "లక్ష్మీతీర్థాత్పరం జగ్ముః షోడశైవ శతాని చ ॥ పిశాచమోచనాత్సప్త సహస్రాణి ద్విజోత్తమాః",
+   "text_en": "lakṣmītīrthātparaṁ jagmuḥ ṣoḍaśaiva śatāni ca ॥ piśācamocanātsapta sahasrāṇi dvijottamāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 19,
+   "text_deva": "पितृकुंडाच्छतंसाग्रं ध्रुवतीर्थाच्छतानि षट् ॥ मानसाख्याच्च सरसो द्विशती सशतत्रया",
+   "text_te": "పితృకుండాచ్ఛతంసాగ్రం ధ్రువతీర్థాచ్ఛతాని షట్ ॥ మానసాఖ్యాచ్చ సరసో ద్విశతీ సశతత్రయా",
+   "text_en": "pitṛkuṁḍācchataṁsāgraṁ dhruvatīrthācchatāni ṣaṭ ॥ mānasākhyācca saraso dviśatī saśatatrayā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 20,
+   "text_deva": "ब्राह्मणा वासुकिहृदात्सहस्राणि दशैव तु ॥ तथैवाष्टशतं द्रष्टुं जानकीकुंडतो द्विजाः",
+   "text_te": "బ్రాహ్మణా వాసుకిహృదాత్సహస్రాణి దశైవ తు ॥ తథైవాష్టశతం ద్రష్టుం జానకీకుండతో ద్విజాః",
+   "text_en": "brāhmaṇā vāsukihṛdātsahasrāṇi daśaiva tu ॥ tathaivāṣṭaśataṁ draṣṭuṁ jānakīkuṁḍato dvijāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 21,
+   "text_deva": "काशीनाथमनुप्राप्ताः परमानंददायिनम् ॥ तथा गौतमकुंडाच्च शतानिनव चागताः",
+   "text_te": "కాశీనాథమనుప్రాప్తాః పరమానందదాయినమ్ ॥ తథా గౌతమకుండాచ్చ శతానినవ చాగతాః",
+   "text_en": "kāśīnāthamanuprāptāḥ paramānaṁdadāyinam ॥ tathā gautamakuṁḍācca śatāninava cāgatāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 22,
+   "text_deva": "तीर्थाद्दुर्गतिसंहर्तुर्बाह्मणाः प्रतिपेदिरे ॥ एकादशशतान्येव द्रष्टुं देवमुमापतिम्",
+   "text_te": "తీర్థాద్దుర్గతిసంహర్తుర్బాహ్మణాః ప్రతిపేదిరే ॥ ఏకాదశశతాన్యేవ ద్రష్టుం దేవముమాపతిమ్",
+   "text_en": "tīrthāddurgatisaṁharturbāhmaṇāḥ pratipedire ॥ ekādaśaśatānyeva draṣṭuṁ devamumāpatim",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 23,
+   "text_deva": "असीसंभेदमारभ्य गंगातीरस्थिता द्विजाः ॥ आसंगमेश्वरात्तत्र परिप्राप्ता घटोद्भव",
+   "text_te": "అసీసంభేదమారభ్య గంగాతీరస్థితా ద్విజాః ॥ ఆసంగమేశ్వరాత్తత్ర పరిప్రాప్తా ఘటోద్భవ",
+   "text_en": "asīsaṁbhedamārabhya gaṁgātīrasthitā dvijāḥ ॥ āsaṁgameśvarāttatra pariprāptā ghaṭodbhava",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 24,
+   "text_deva": "अष्टादशसहस्राणि तथा पंचशतान्यपि ॥ ब्राह्मणाः पंचपंचाशद्गंगातीरात्समागताः",
+   "text_te": "అష్టాదశసహస్రాణి తథా పంచశతాన్యపి ॥ బ్రాహ్మణాః పంచపంచాశద్గంగాతీరాత్సమాగతాః",
+   "text_en": "aṣṭādaśasahasrāṇi tathā paṁcaśatānyapi ॥ brāhmaṇāḥ paṁcapaṁcāśadgaṁgātīrātsamāgatāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 25,
+   "text_deva": "सार्द्रदूर्वाक्षतकरैः सपुष्पफलपाणिभिः ॥ सुगंधमाल्यहस्तैश्च ब्राह्मणैर्जयवादिभिः",
+   "text_te": "సార్ద్రదూర్వాక్షతకరైః సపుష్పఫలపాణిభిః ॥ సుగంధమాల్యహస్తైశ్చ బ్రాహ్మణైర్జయవాదిభిః",
+   "text_en": "sārdradūrvākṣatakaraiḥ sapuṣpaphalapāṇibhiḥ ॥ sugaṁdhamālyahastaiśca brāhmaṇairjayavādibhiḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 26,
+   "text_deva": "स्तुतो मंगलसूक्तैश्च प्रणतश्च पुनःपुनः ॥ तेभ्यो दत्ताभयः शंभुः पप्रच्छ कुशलं मुदा",
+   "text_te": "స్తుతో మంగలసూక్తైశ్చ ప్రణతశ్చ పునఃపునః ॥ తేభ్యో దత్తాభయః శంభుః పప్రచ్ఛ కుశలం ముదా",
+   "text_en": "stuto maṁgalasūktaiśca praṇataśca punaḥpunaḥ ॥ tebhyo dattābhayaḥ śaṁbhuḥ papraccha kuśalaṁ mudā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 27,
+   "text_deva": "ततस्ते ब्राह्मणाः प्रोचुः प्रबद्धकरसंपुटाः ॥ क्षेत्रे निवसतां नाथ सदानः कुशलोदयः",
+   "text_te": "తతస్తే బ్రాహ్మణాః ప్రోచుః ప్రబద్ధకరసంపుటాః ॥ క్షేత్రే నివసతాం నాథ సదానః కుశలోదయః",
+   "text_en": "tataste brāhmaṇāḥ procuḥ prabaddhakarasaṁpuṭāḥ ॥ kṣetre nivasatāṁ nātha sadānaḥ kuśalodayaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 28,
+   "text_deva": "विशेषतः कृतोऽस्माभिः साक्षान्नयनगोचरः ॥ त्वं यत्स्वरूपं श्रुतयो न विदुः परमार्थतः",
+   "text_te": "విశేషతః కృతోఽస్మాభిః సాక్షాన్నయనగోచరః ॥ త్వం యత్స్వరూపం శ్రుతయో న విదుః పరమార్థతః",
+   "text_en": "viśeṣataḥ kṛto'smābhiḥ sākṣānnayanagocaraḥ ॥ tvaṁ yatsvarūpaṁ śrutayo na viduḥ paramārthataḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 29,
+   "text_deva": "सदैवाकुशलं तेषां ये त्वत्क्षेत्रपराङ्मुखाः ॥ चतुर्दशापि वै लोकास्तेषां नित्यं पराङ्मुखाः",
+   "text_te": "సదైవాకుశలం తేషాం యే త్వత్క్షేత్రపరాఙ్ముఖాః ॥ చతుర్దశాపి వై లోకాస్తేషాం నిత్యం పరాఙ్ముఖాః",
+   "text_en": "sadaivākuśalaṁ teṣāṁ ye tvatkṣetraparāṅmukhāḥ ॥ caturdaśāpi vai lokāsteṣāṁ nityaṁ parāṅmukhāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 30,
+   "text_deva": "येषां हृदि सदैवास्ते काशीत्वाशीविषां गद ॥ संसाराशीविषविषं न तेषां प्रभवेत्क्वचित्",
+   "text_te": "యేషాం హృది సదైవాస్తే కాశీత్వాశీవిషాం గద ॥ సంసారాశీవిషవిషం న తేషాం ప్రభవేత్క్వచిత్",
+   "text_en": "yeṣāṁ hṛdi sadaivāste kāśītvāśīviṣāṁ gada ॥ saṁsārāśīviṣaviṣaṁ na teṣāṁ prabhavetkvacit",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 31,
+   "text_deva": "गर्भरक्षामणिर्मंत्रः काशीवर्णद्वयात्मकः ॥ यस्य कंठे सदा तिष्ठेत्तस्याकुशलता कुतः",
+   "text_te": "గర్భరక్షామణిర్మంత్రః కాశీవర్ణద్వయాత్మకః ॥ యస్య కంఠే సదా తిష్ఠేత్తస్యాకుశలతా కుతః",
+   "text_en": "garbharakṣāmaṇirmaṁtraḥ kāśīvarṇadvayātmakaḥ ॥ yasya kaṁṭhe sadā tiṣṭhettasyākuśalatā kutaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 32,
+   "text_deva": "सुधां पिबति यो नित्यं काशीवर्णद्वयात्मिकाम् ॥ स नैर्जरीं दशां हित्वा सुधैव परिजायते",
+   "text_te": "సుధాం పిబతి యో నిత్యం కాశీవర్ణద్వయాత్మికామ్ ॥ స నైర్జరీం దశాం హిత్వా సుధైవ పరిజాయతే",
+   "text_en": "sudhāṁ pibati yo nityaṁ kāśīvarṇadvayātmikām ॥ sa nairjarīṁ daśāṁ hitvā sudhaiva parijāyate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 33,
+   "text_deva": "श्रुतं कर्णामृतं येन काशीत्यक्षरयुग्मकम् ॥ न समाकणर्यत्येव स पुनर्गर्भजां कथाम्",
+   "text_te": "శ్రుతం కర్ణామృతం యేన కాశీత్యక్షరయుగ్మకమ్ ॥ న సమాకణర్యత్యేవ స పునర్గర్భజాం కథామ్",
+   "text_en": "śrutaṁ karṇāmṛtaṁ yena kāśītyakṣarayugmakam ॥ na samākaṇaryatyeva sa punargarbhajāṁ kathām",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 34,
+   "text_deva": "काशी रजोपि यन्मूर्ध्नि पतेदप्यनिलाहतम् ॥ चंद्रशेखरतन्मूर्धा भवेच्चंद्रकलांकितः",
+   "text_te": "కాశీ రజోపి యన్మూర్ధ్ని పతేదప్యనిలాహతమ్ ॥ చంద్రశేఖరతన్మూర్ధా భవేచ్చంద్రకలాంకితః",
+   "text_en": "kāśī rajopi yanmūrdhni patedapyanilāhatam ॥ caṁdraśekharatanmūrdhā bhaveccaṁdrakalāṁkitaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 35,
+   "text_deva": "प्रसंगतोपि यन्नेत्रपथमानंदकाननम् ॥ यातं तेत्र न जायंते नेक्षेरन्पितृकान(व?)नम्",
+   "text_te": "ప్రసంగతోపి యన్నేత్రపథమానందకాననమ్ ॥ యాతం తేత్ర న జాయంతే నేక్షేరన్పితృకాన(వ?)నమ్",
+   "text_en": "prasaṁgatopi yannetrapathamānaṁdakānanam ॥ yātaṁ tetra na jāyaṁte nekṣeranpitṛkāna(va?)nam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 36,
+   "text_deva": "गच्छता तिष्ठता वापि स्वपता जाग्रताथवा ॥ काशीत्येष महामंत्रो येन जप्तः सनिर्भयः",
+   "text_te": "గచ్ఛతా తిష్ఠతా వాపి స్వపతా జాగ్రతాథవా ॥ కాశీత్యేష మహామంత్రో యేన జప్తః సనిర్భయః",
+   "text_en": "gacchatā tiṣṭhatā vāpi svapatā jāgratāthavā ॥ kāśītyeṣa mahāmaṁtro yena japtaḥ sanirbhayaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 37,
+   "text_deva": "येन बीजाक्षरयुगं काशीति हृदि धारितम् ॥ अबीजानि भवंत्येव कर्मबीजानि तस्य वै",
+   "text_te": "యేన బీజాక్షరయుగం కాశీతి హృది ధారితమ్ ॥ అబీజాని భవంత్యేవ కర్మబీజాని తస్య వై",
+   "text_en": "yena bījākṣarayugaṁ kāśīti hṛdi dhāritam ॥ abījāni bhavaṁtyeva karmabījāni tasya vai",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 38,
+   "text_deva": "काशी काशीति काशीति जपतो यस्य संस्थितिः ॥ अन्यत्रापि सतस्तस्य पुरो मुक्तिः प्रकाशते",
+   "text_te": "కాశీ కాశీతి కాశీతి జపతో యస్య సంస్థితిః ॥ అన్యత్రాపి సతస్తస్య పురో ముక్తిః ప్రకాశతే",
+   "text_en": "kāśī kāśīti kāśīti japato yasya saṁsthitiḥ ॥ anyatrāpi satastasya puro muktiḥ prakāśate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 39,
+   "text_deva": "क्षेममूर्तिरियं काशी क्षेममूर्तिर्भवान्भव ॥ क्षेममूर्तिस्त्रिपथगा नान्यत्क्षेमत्रयं क्वचित्",
+   "text_te": "క్షేమమూర్తిరియం కాశీ క్షేమమూర్తిర్భవాన్భవ ॥ క్షేమమూర్తిస్త్రిపథగా నాన్యత్క్షేమత్రయం క్వచిత్",
+   "text_en": "kṣemamūrtiriyaṁ kāśī kṣemamūrtirbhavānbhava ॥ kṣemamūrtistripathagā nānyatkṣematrayaṁ kvacit",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 40,
+   "text_deva": "ब्राह्मणानामिति वचः क्षेत्रभक्तिविबृंहितम् ॥ निशम्य गिरिजाकांतस्तुतोष नितरां हरः",
+   "text_te": "బ్రాహ్మణానామితి వచః క్షేత్రభక్తివిబృంహితమ్ ॥ నిశమ్య గిరిజాకాంతస్తుతోష నితరాం హరః",
+   "text_en": "brāhmaṇānāmiti vacaḥ kṣetrabhaktivibṛṁhitam ॥ niśamya girijākāṁtastutoṣa nitarāṁ haraḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 41,
+   "text_deva": "प्रोवाच च प्रसन्नात्मा धन्या यूयं द्विजर्षभाः ॥ येषामिहेदृशी भक्तिर्मम क्षेत्रेतिपावने",
+   "text_te": "ప్రోవాచ చ ప్రసన్నాత్మా ధన్యా యూయం ద్విజర్షభాః ॥ యేషామిహేదృశీ భక్తిర్మమ క్షేత్రేతిపావనే",
+   "text_en": "provāca ca prasannātmā dhanyā yūyaṁ dvijarṣabhāḥ ॥ yeṣāmihedṛśī bhaktirmama kṣetretipāvane",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 42,
+   "text_deva": "जाने सत्त्वमया जाताः क्षेत्रस्यास्य निषेवणात् ॥ नीरजस्का वितमसः संसारार्णवपारगाः",
+   "text_te": "జానే సత్త్వమయా జాతాః క్షేత్రస్యాస్య నిషేవణాత్ ॥ నీరజస్కా వితమసః సంసారార్ణవపారగాః",
+   "text_en": "jāne sattvamayā jātāḥ kṣetrasyāsya niṣevaṇāt ॥ nīrajaskā vitamasaḥ saṁsārārṇavapāragāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 43,
+   "text_deva": "वाराणस्यास्तु ये भक्तास्ते भक्ता मम निश्चितम् ॥ जीवन्मुक्ता हि ते नूनं मोक्षलक्ष्म्या कटाक्षिताः",
+   "text_te": "వారాణస్యాస్తు యే భక్తాస్తే భక్తా మమ నిశ్చితమ్ ॥ జీవన్ముక్తా హి తే నూనం మోక్షలక్ష్మ్యా కటాక్షితాః",
+   "text_en": "vārāṇasyāstu ye bhaktāste bhaktā mama niścitam ॥ jīvanmuktā hi te nūnaṁ mokṣalakṣmyā kaṭākṣitāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 44,
+   "text_deva": "यैश्च काशीस्थितो जंतुरल्पकोपि विरोधितः ॥ तैर्वै विश्वंभरा सर्वा मया सह विरोधिता",
+   "text_te": "యైశ్చ కాశీస్థితో జంతురల్పకోపి విరోధితః ॥ తైర్వై విశ్వంభరా సర్వా మయా సహ విరోధితా",
+   "text_en": "yaiśca kāśīsthito jaṁturalpakopi virodhitaḥ ॥ tairvai viśvaṁbharā sarvā mayā saha virodhitā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 45,
+   "text_deva": "वाराणस्याः स्तुतिमपि यो निशम्यानुमोदते ॥ अपि ब्रह्मांडमखिलं ध्रुवं तेनानुमोदितम्",
+   "text_te": "వారాణస్యాః స్తుతిమపి యో నిశమ్యానుమోదతే ॥ అపి బ్రహ్మాండమఖిలం ధ్రువం తేనానుమోదితమ్",
+   "text_en": "vārāṇasyāḥ stutimapi yo niśamyānumodate ॥ api brahmāṁḍamakhilaṁ dhruvaṁ tenānumoditam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 46,
+   "text_deva": "निवसंति हि ये मर्त्या अस्मिन्नानंदकानने ॥ ममांतःकरणे ते वै निवसेयुरकल्मषाः",
+   "text_te": "నివసంతి హి యే మర్త్యా అస్మిన్నానందకాననే ॥ మమాంతఃకరణే తే వై నివసేయురకల్మషాః",
+   "text_en": "nivasaṁti hi ye martyā asminnānaṁdakānane ॥ mamāṁtaḥkaraṇe te vai nivaseyurakalmaṣāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 47,
+   "text_deva": "निवसंति मम क्षेत्रे मम भक्तिं प्रकुर्वते ॥ मम लिंगधरा ये तु तानेवोपदिशाम्यहम्",
+   "text_te": "నివసంతి మమ క్షేత్రే మమ భక్తిం ప్రకుర్వతే ॥ మమ లింగధరా యే తు తానేవోపదిశామ్యహమ్",
+   "text_en": "nivasaṁti mama kṣetre mama bhaktiṁ prakurvate ॥ mama liṁgadharā ye tu tānevopadiśāmyaham",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 48,
+   "text_deva": "निवसंति मम क्षेत्रे मम भक्तिं न कुर्वते ॥ मम लिंगधरा ये नो न तानुपदिशाम्यहम्",
+   "text_te": "నివసంతి మమ క్షేత్రే మమ భక్తిం న కుర్వతే ॥ మమ లింగధరా యే నో న తానుపదిశామ్యహమ్",
+   "text_en": "nivasaṁti mama kṣetre mama bhaktiṁ na kurvate ॥ mama liṁgadharā ye no na tānupadiśāmyaham",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 49,
+   "text_deva": "काशी निर्वाणनगरी येषां चित्ते प्रकाशते ॥ ते मत्पुरः प्रकाशंते नैःश्रेयस्या श्रिया वृताः",
+   "text_te": "కాశీ నిర్వాణనగరీ యేషాం చిత్తే ప్రకాశతే ॥ తే మత్పురః ప్రకాశంతే నైఃశ్రేయస్యా శ్రియా వృతాః",
+   "text_en": "kāśī nirvāṇanagarī yeṣāṁ citte prakāśate ॥ te matpuraḥ prakāśaṁte naiḥśreyasyā śriyā vṛtāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 50,
+   "text_deva": "मोक्षलक्ष्मीरियं काशी न येभ्यः परिरोचते ॥ स्वर्लक्ष्मीं कांक्षमाणेभ्यः पतितास्ते न संशयः",
+   "text_te": "మోక్షలక్ష్మీరియం కాశీ న యేభ్యః పరిరోచతే ॥ స్వర్లక్ష్మీం కాంక్షమాణేభ్యః పతితాస్తే న సంశయః",
+   "text_en": "mokṣalakṣmīriyaṁ kāśī na yebhyaḥ parirocate ॥ svarlakṣmīṁ kāṁkṣamāṇebhyaḥ patitāste na saṁśayaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 51,
+   "text_deva": "काथीं संकाक्षमाणानां पुरुषार्थचतुष्टयम् ॥ पुरः किंकरवत्तिष्ठेन्ममानुग्रहतो द्विजाः",
+   "text_te": "కాథీం సంకాక్షమాణానాం పురుషార్థచతుష్టయమ్ ॥ పురః కింకరవత్తిష్ఠేన్మమానుగ్రహతో ద్విజాః",
+   "text_en": "kāthīṁ saṁkākṣamāṇānāṁ puruṣārthacatuṣṭayam ॥ puraḥ kiṁkaravattiṣṭhenmamānugrahato dvijāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 52,
+   "text_deva": "आनंदकानने ह्यत्र ज्वलद्दावानलोस्म्यहम् ॥ कर्मबीजानि जंतूनां ज्वालये न प्ररोहये",
+   "text_te": "ఆనందకాననే హ్యత్ర జ్వలద్దావానలోస్మ్యహమ్ ॥ కర్మబీజాని జంతూనాం జ్వాలయే న ప్రరోహయే",
+   "text_en": "ānaṁdakānane hyatra jvaladdāvānalosmyaham ॥ karmabījāni jaṁtūnāṁ jvālaye na prarohaye",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 53,
+   "text_deva": "वस्तव्यं सततं काश्यां यष्टव्योहं प्रयत्नतः ॥ जेतव्यौ कलिकालौ च रंतव्या मुक्तिरंगना",
+   "text_te": "వస్తవ్యం సతతం కాశ్యాం యష్టవ్యోహం ప్రయత్నతః ॥ జేతవ్యౌ కలికాలౌ చ రంతవ్యా ముక్తిరంగనా",
+   "text_en": "vastavyaṁ satataṁ kāśyāṁ yaṣṭavyohaṁ prayatnataḥ ॥ jetavyau kalikālau ca raṁtavyā muktiraṁganā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 54,
+   "text_deva": "प्राप्यापि काशीं दुर्बुद्धिर्यो न मां परिसेवते ॥ तस्य हस्तगताप्याशु कैवल्यश्रीः प्रणश्यति",
+   "text_te": "ప్రాప్యాపి కాశీం దుర్బుద్ధిర్యో న మాం పరిసేవతే ॥ తస్య హస్తగతాప్యాశు కైవల్యశ్రీః ప్రణశ్యతి",
+   "text_en": "prāpyāpi kāśīṁ durbuddhiryo na māṁ parisevate ॥ tasya hastagatāpyāśu kaivalyaśrīḥ praṇaśyati",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 55,
+   "text_deva": "धन्या मद्भक्तिलक्ष्माणो ब्राह्मणाः काशिवासिनः ॥ यूयं यच्चेतसो वृत्तेर्न दूरेहं न काशिका",
+   "text_te": "ధన్యా మద్భక్తిలక్ష్మాణో బ్రాహ్మణాః కాశివాసినః ॥ యూయం యచ్చేతసో వృత్తేర్న దూరేహం న కాశికా",
+   "text_en": "dhanyā madbhaktilakṣmāṇo brāhmaṇāḥ kāśivāsinaḥ ॥ yūyaṁ yaccetaso vṛtterna dūrehaṁ na kāśikā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 56,
+   "text_deva": "दातव्यो वो वरः कोत्र व्रियतां मे यथारुचि ॥ प्रेयांसो मे यतो यूयं क्षेत्रसंन्यासकारिणः",
+   "text_te": "దాతవ్యో వో వరః కోత్ర వ్రియతాం మే యథారుచి ॥ ప్రేయాంసో మే యతో యూయం క్షేత్రసంన్యాసకారిణః",
+   "text_en": "dātavyo vo varaḥ kotra vriyatāṁ me yathāruci ॥ preyāṁso me yato yūyaṁ kṣetrasaṁnyāsakāriṇaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 57,
+   "text_deva": "इति पीत्वा महेशानमुखक्षीराब्धिजां सुधाम् ॥ परितृप्ता द्विजाः सर्वे वव्रुर्वरमनुत्तमम्",
+   "text_te": "ఇతి పీత్వా మహేశానముఖక్షీరాబ్ధిజాం సుధామ్ ॥ పరితృప్తా ద్విజాః సర్వే వవ్రుర్వరమనుత్తమమ్",
+   "text_en": "iti pītvā maheśānamukhakṣīrābdhijāṁ sudhām ॥ paritṛptā dvijāḥ sarve vavrurvaramanuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 58,
+   "text_deva": "ब्राह्मणा ऊचुः उमापते महेशान सर्वज्ञ वर एष नः ॥ काशी कदापि न त्याज्या भवता भवतापहृत्",
+   "text_te": "బ్రాహ్మణా ఊచుః ఉమాపతే మహేశాన సర్వజ్ఞ వర ఏష నః ॥ కాశీ కదాపి న త్యాజ్యా భవతా భవతాపహృత్",
+   "text_en": "brāhmaṇā ūcuḥ umāpate maheśāna sarvajña vara eṣa naḥ ॥ kāśī kadāpi na tyājyā bhavatā bhavatāpahṛt",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 59,
+   "text_deva": "वचनाद्ब्राह्मणानां तु शापो मा प्रभवत्विह ॥ कदाचिदपि केषांचित्काश्यां मोक्षांतरायकः",
+   "text_te": "వచనాద్బ్రాహ్మణానాం తు శాపో మా ప్రభవత్విహ ॥ కదాచిదపి కేషాంచిత్కాశ్యాం మోక్షాంతరాయకః",
+   "text_en": "vacanādbrāhmaṇānāṁ tu śāpo mā prabhavatviha ॥ kadācidapi keṣāṁcitkāśyāṁ mokṣāṁtarāyakaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 60,
+   "text_deva": "तव पादाबुंजद्वंद्वे निर्द्वंद्वा भक्तिरस्तु नः ॥ आ कलेवरपातं च काशीवासोस्तु नोनिशम्",
+   "text_te": "తవ పాదాబుంజద్వంద్వే నిర్ద్వంద్వా భక్తిరస్తు నః ॥ ఆ కలేవరపాతం చ కాశీవాసోస్తు నోనిశమ్",
+   "text_en": "tava pādābuṁjadvaṁdve nirdvaṁdvā bhaktirastu naḥ ॥ ā kalevarapātaṁ ca kāśīvāsostu noniśam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 61,
+   "text_deva": "किमन्येन वरेणेश देय एष वरो हि नः ॥ अवधेह्यंधकध्वंसिन्वरमन्यं वृणीमहे",
+   "text_te": "కిమన్యేన వరేణేశ దేయ ఏష వరో హి నః ॥ అవధేహ్యంధకధ్వంసిన్వరమన్యం వృణీమహే",
+   "text_en": "kimanyena vareṇeśa deya eṣa varo hi naḥ ॥ avadhehyaṁdhakadhvaṁsinvaramanyaṁ vṛṇīmahe",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 62,
+   "text_deva": "तव प्रतिनिधी कृत्यास्माभिस्त्वद्भक्तिभावितैः ॥ प्रतिष्ठितेषु लिंगेषु सान्निध्यं भवतोऽस्त्विह",
+   "text_te": "తవ ప్రతినిధీ కృత్యాస్మాభిస్త్వద్భక్తిభావితైః ॥ ప్రతిష్ఠితేషు లింగేషు సాన్నిధ్యం భవతోఽస్త్విహ",
+   "text_en": "tava pratinidhī kṛtyāsmābhistvadbhaktibhāvitaiḥ ॥ pratiṣṭhiteṣu liṁgeṣu sānnidhyaṁ bhavato'stviha",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 63,
+   "text_deva": "श्रुत्वेति तेषां वाक्यानि तथास्त्विति पिनाकिना ॥ प्रोचेऽन्योपि वरो दत्तो ज्ञानं वश्च भविष्यति",
+   "text_te": "శ్రుత్వేతి తేషాం వాక్యాని తథాస్త్వితి పినాకినా ॥ ప్రోచేఽన్యోపి వరో దత్తో జ్ఞానం వశ్చ భవిష్యతి",
+   "text_en": "śrutveti teṣāṁ vākyāni tathāstviti pinākinā ॥ proce'nyopi varo datto jñānaṁ vaśca bhaviṣyati",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 64,
+   "text_deva": "पुनः प्रोवाच देवेशो निशामयत भो द्विजाः ॥ हितं वः कथयाम्यत्र तदनुष्ठीयतां ध्रुवम्",
+   "text_te": "పునః ప్రోవాచ దేవేశో నిశామయత భో ద్విజాః ॥ హితం వః కథయామ్యత్ర తదనుష్ఠీయతాం ధ్రువమ్",
+   "text_en": "punaḥ provāca deveśo niśāmayata bho dvijāḥ ॥ hitaṁ vaḥ kathayāmyatra tadanuṣṭhīyatāṁ dhruvam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 65,
+   "text_deva": "सेव्योत्तरवहा नित्यं लिंगमर्च्यं प्रयत्नतः ॥ दमो दानं दया नित्यं कर्तव्यं मुक्तिकांक्षिभिः",
+   "text_te": "సేవ్యోత్తరవహా నిత్యం లింగమర్చ్యం ప్రయత్నతః ॥ దమో దానం దయా నిత్యం కర్తవ్యం ముక్తికాంక్షిభిః",
+   "text_en": "sevyottaravahā nityaṁ liṁgamarcyaṁ prayatnataḥ ॥ damo dānaṁ dayā nityaṁ kartavyaṁ muktikāṁkṣibhiḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 66,
+   "text_deva": "इदमेव रहस्यं च कथितं क्षेत्रवासिनाम् ॥ मतिः परहिता कार्या वाच्यं नोद्वेगकृद्वचः",
+   "text_te": "ఇదమేవ రహస్యం చ కథితం క్షేత్రవాసినామ్ ॥ మతిః పరహితా కార్యా వాచ్యం నోద్వేగకృద్వచః",
+   "text_en": "idameva rahasyaṁ ca kathitaṁ kṣetravāsinām ॥ matiḥ parahitā kāryā vācyaṁ nodvegakṛdvacaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 67,
+   "text_deva": "मनसापि न कर्तव्यमेनोत्र विजिगीषुणा ॥ अत्रत्यमक्षयं यस्मात्सुकृतं सुकृतेतरम्",
+   "text_te": "మనసాపి న కర్తవ్యమేనోత్ర విజిగీషుణా ॥ అత్రత్యమక్షయం యస్మాత్సుకృతం సుకృతేతరమ్",
+   "text_en": "manasāpi na kartavyamenotra vijigīṣuṇā ॥ atratyamakṣayaṁ yasmātsukṛtaṁ sukṛtetaram",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 68,
+   "text_deva": "अन्यत्र यत्कृतं पापं तत्काश्यां परिणश्यति ॥ वाराणस्यां कृतं पापमंतर्गेहे प्रणश्यति",
+   "text_te": "అన్యత్ర యత్కృతం పాపం తత్కాశ్యాం పరిణశ్యతి ॥ వారాణస్యాం కృతం పాపమంతర్గేహే ప్రణశ్యతి",
+   "text_en": "anyatra yatkṛtaṁ pāpaṁ tatkāśyāṁ pariṇaśyati ॥ vārāṇasyāṁ kṛtaṁ pāpamaṁtargehe praṇaśyati",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 69,
+   "text_deva": "अंतर्गेहे कृतं पापं पैशाच्यनरकावहम् ॥ पिशाचनरकप्राप्तिर्गच्छत्येव बहिर्यदि",
+   "text_te": "అంతర్గేహే కృతం పాపం పైశాచ్యనరకావహమ్ ॥ పిశాచనరకప్రాప్తిర్గచ్ఛత్యేవ బహిర్యది",
+   "text_en": "aṁtargehe kṛtaṁ pāpaṁ paiśācyanarakāvaham ॥ piśācanarakaprāptirgacchatyeva bahiryadi",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 70,
+   "text_deva": "न कल्पकोटिभिः काश्यां कृतं कर्म प्रमृज्यते ॥ किंतु रुद्रपिशाचत्वं जायतेऽत्रायुतत्रयम्. ॥ वाराणस्यां स्थितो यो वै पातकेषु रतः सदा ॥ योनिं प्राप्यापि पैशाचीं वर्षाणामयुतत्रयम्",
+   "text_te": "న కల్పకోటిభిః కాశ్యాం కృతం కర్మ ప్రమృజ్యతే ॥ కింతు రుద్రపిశాచత్వం జాయతేఽత్రాయుతత్రయమ్. ॥ వారాణస్యాం స్థితో యో వై పాతకేషు రతః సదా ॥ యోనిం ప్రాప్యాపి పైశాచీం వర్షాణామయుతత్రయమ్",
+   "text_en": "na kalpakoṭibhiḥ kāśyāṁ kṛtaṁ karma pramṛjyate ॥ kiṁtu rudrapiśācatvaṁ jāyate'trāyutatrayam. ॥ vārāṇasyāṁ sthito yo vai pātakeṣu rataḥ sadā ॥ yoniṁ prāpyāpi paiśācīṁ varṣāṇāmayutatrayam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 71,
+   "text_deva": "पुनरत्रैव निवसञ्ज्ञानं प्राप्स्यत्यनुत्तमम् ॥ तेन ज्ञानेथ संप्राप्ते(?) मोक्षमाप्स्यत्यनुत्तमम्",
+   "text_te": "పునరత్రైవ నివసఞ్జ్ఞానం ప్రాప్స్యత్యనుత్తమమ్ ॥ తేన జ్ఞానేథ సంప్రాప్తే(?) మోక్షమాప్స్యత్యనుత్తమమ్",
+   "text_en": "punaratraiva nivasañjñānaṁ prāpsyatyanuttamam ॥ tena jñānetha saṁprāpte(?) mokṣamāpsyatyanuttamam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 72,
+   "text_deva": "(संप्रांते) दुष्कृतानि विधायेह बहिः पंचत्वमागताः ॥ तेषां गतिं प्रवक्ष्यामि शृणुत द्विजसत्तमाः",
+   "text_te": "(సంప్రాంతే) దుష్కృతాని విధాయేహ బహిః పంచత్వమాగతాః ॥ తేషాం గతిం ప్రవక్ష్యామి శృణుత ద్విజసత్తమాః",
+   "text_en": "(saṁprāṁte) duṣkṛtāni vidhāyeha bahiḥ paṁcatvamāgatāḥ ॥ teṣāṁ gatiṁ pravakṣyāmi śṛṇuta dvijasattamāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 73,
+   "text_deva": "यामाख्या मे गणाः संति घोरा विकृतमूर्त्तयः ॥ मूषायां ते धमंत्यादौ क्षेत्रदुष्कृतकारिणः",
+   "text_te": "యామాఖ్యా మే గణాః సంతి ఘోరా వికృతమూర్త్తయః ॥ మూషాయాం తే ధమంత్యాదౌ క్షేత్రదుష్కృతకారిణః",
+   "text_en": "yāmākhyā me gaṇāḥ saṁti ghorā vikṛtamūrttayaḥ ॥ mūṣāyāṁ te dhamaṁtyādau kṣetraduṣkṛtakāriṇaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 74,
+   "text_deva": "नयंत्यनूपप्रायां च ततः प्राचीं दुरासदाम् ॥ वर्षाकाले दुराचारान्पातयंति महाजले",
+   "text_te": "నయంత్యనూపప్రాయాం చ తతః ప్రాచీం దురాసదామ్ ॥ వర్షాకాలే దురాచారాన్పాతయంతి మహాజలే",
+   "text_en": "nayaṁtyanūpaprāyāṁ ca tataḥ prācīṁ durāsadām ॥ varṣākāle durācārānpātayaṁti mahājale",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 75,
+   "text_deva": "जलौकाभिः सपक्षाभिर्दंदशूकैर्जलोद्भवैः ॥ दुर्निवारैश्च मशकैर्दश्यंते ते दिवानिशम्",
+   "text_te": "జలౌకాభిః సపక్షాభిర్దందశూకైర్జలోద్భవైః ॥ దుర్నివారైశ్చ మశకైర్దశ్యంతే తే దివానిశమ్",
+   "text_en": "jalaukābhiḥ sapakṣābhirdaṁdaśūkairjalodbhavaiḥ ॥ durnivāraiśca maśakairdaśyaṁte te divāniśam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 76,
+   "text_deva": "ततो यामैर्हिमर्तौ ते नीयंतेऽद्रौ हिमालये ॥ अशनावरणैर्हीनाः क्लेश्यंते ते दिवानिशम्",
+   "text_te": "తతో యామైర్హిమర్తౌ తే నీయంతేఽద్రౌ హిమాలయే ॥ అశనావరణైర్హీనాః క్లేశ్యంతే తే దివానిశమ్",
+   "text_en": "tato yāmairhimartau te nīyaṁte'drau himālaye ॥ aśanāvaraṇairhīnāḥ kleśyaṁte te divāniśam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 77,
+   "text_deva": "मरुस्थले ततो ग्रीष्मे वारिवृक्षविवर्जिते ॥ दिवाकरकरैस्तीव्रैस्ताप्यंते ते पिपासिताः",
+   "text_te": "మరుస్థలే తతో గ్రీష్మే వారివృక్షవివర్జితే ॥ దివాకరకరైస్తీవ్రైస్తాప్యంతే తే పిపాసితాః",
+   "text_en": "marusthale tato grīṣme vārivṛkṣavivarjite ॥ divākarakaraistīvraistāpyaṁte te pipāsitāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 78,
+   "text_deva": "क्लेशितास्ते गणैरुग्रैर्यातनाभिः समंततः ॥ इत्थं कालमसंख्यातमानीयंते ततस्त्विह",
+   "text_te": "క్లేశితాస్తే గణైరుగ్రైర్యాతనాభిః సమంతతః ॥ ఇత్థం కాలమసంఖ్యాతమానీయంతే తతస్త్విహ",
+   "text_en": "kleśitāste gaṇairugrairyātanābhiḥ samaṁtataḥ ॥ itthaṁ kālamasaṁkhyātamānīyaṁte tatastviha",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 79,
+   "text_deva": "निवेदयंति ते यामाः कालराजांतिके ततः ॥ कालराजोपि तान्द्रष्ट्वा कर्मसंस्मार्य दुष्कृतम्",
+   "text_te": "నివేదయంతి తే యామాః కాలరాజాంతికే తతః ॥ కాలరాజోపి తాన్ద్రష్ట్వా కర్మసంస్మార్య దుష్కృతమ్",
+   "text_en": "nivedayaṁti te yāmāḥ kālarājāṁtike tataḥ ॥ kālarājopi tāndraṣṭvā karmasaṁsmārya duṣkṛtam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 80,
+   "text_deva": "विवस्त्रान्क्षुत्तृषार्तांश्च लग्नपृष्ठोदरत्वचः ॥ अन्यै रुद्रपिशाचैश्च सहसंयोजयत्यपि",
+   "text_te": "వివస్త్రాన్క్షుత్తృషార్తాంశ్చ లగ్నపృష్ఠోదరత్వచః ॥ అన్యై రుద్రపిశాచైశ్చ సహసంయోజయత్యపి",
+   "text_en": "vivastrānkṣuttṛṣārtāṁśca lagnapṛṣṭhodaratvacaḥ ॥ anyai rudrapiśācaiśca sahasaṁyojayatyapi",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 81,
+   "text_deva": "ततो रुद्रपिशाचास्ते भैरवानुचराः सदा ॥ सहंते क्लममत्यर्थं क्षुत्तृष्णोग्रत्वसंभवम्",
+   "text_te": "తతో రుద్రపిశాచాస్తే భైరవానుచరాః సదా ॥ సహంతే క్లమమత్యర్థం క్షుత్తృష్ణోగ్రత్వసంభవమ్",
+   "text_en": "tato rudrapiśācāste bhairavānucarāḥ sadā ॥ sahaṁte klamamatyarthaṁ kṣuttṛṣṇogratvasaṁbhavam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 82,
+   "text_deva": "आहारं रुधिरोन्मिश्रं ते लभंते कदाचन ॥ एवं त्र्ययुतसंख्याकं कालं तत्रातिदुःखिताः",
+   "text_te": "ఆహారం రుధిరోన్మిశ్రం తే లభంతే కదాచన ॥ ఏవం త్ర్యయుతసంఖ్యాకం కాలం తత్రాతిదుఃఖితాః",
+   "text_en": "āhāraṁ rudhironmiśraṁ te labhaṁte kadācana ॥ evaṁ tryayutasaṁkhyākaṁ kālaṁ tatrātiduḥkhitāḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 83,
+   "text_deva": "श्मशानस्तंभमभितो नीयंते कंठपाशिताः ॥ पिपासिता अपि न तेंऽबुस्पर्शमपि चाप्नुयुः",
+   "text_te": "శ్మశానస్తంభమభితో నీయంతే కంఠపాశితాః ॥ పిపాసితా అపి న తేంఽబుస్పర్శమపి చాప్నుయుః",
+   "text_en": "śmaśānastaṁbhamabhito nīyaṁte kaṁṭhapāśitāḥ ॥ pipāsitā api na teṁ'busparśamapi cāpnuyuḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 84,
+   "text_deva": "अथ संक्षीणपापास्ते कालभैरवदर्शनात् ॥ इहैव देहिनो भूत्वा मुच्यंते ते ममाज्ञया",
+   "text_te": "అథ సంక్షీణపాపాస్తే కాలభైరవదర్శనాత్ ॥ ఇహైవ దేహినో భూత్వా ముచ్యంతే తే మమాజ్ఞయా",
+   "text_en": "atha saṁkṣīṇapāpāste kālabhairavadarśanāt ॥ ihaiva dehino bhūtvā mucyaṁte te mamājñayā",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 85,
+   "text_deva": "तस्मान्न कामयेतात्र वाङ्मनःकर्मणाप्यघह(?)म् ॥ शुचौ पथि सदा स्थेयं महालाभमभीप्सुभिः",
+   "text_te": "తస్మాన్న కామయేతాత్ర వాఙ్మనఃకర్మణాప్యఘహ(?)మ్ ॥ శుచౌ పథి సదా స్థేయం మహాలాభమభీప్సుభిః",
+   "text_en": "tasmānna kāmayetātra vāṅmanaḥkarmaṇāpyaghaha(?)m ॥ śucau pathi sadā stheyaṁ mahālābhamabhīpsubhiḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 86,
+   "text_deva": "नाविमुक्ते मृतः कश्चिन्नरकं याति किल्बिषी ॥ ममानुग्रहमासाद्य गच्छत्येव परां गतिम्",
+   "text_te": "నావిముక్తే మృతః కశ్చిన్నరకం యాతి కిల్బిషీ ॥ మమానుగ్రహమాసాద్య గచ్ఛత్యేవ పరాం గతిమ్",
+   "text_en": "nāvimukte mṛtaḥ kaścinnarakaṁ yāti kilbiṣī ॥ mamānugrahamāsādya gacchatyeva parāṁ gatim",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 87,
+   "text_deva": "अनाशनं यः कुरुते मद्भक्त इह सुव्रतः ॥ न तस्य पुनरावृत्तिः कल्पकोटिशतैरपि",
+   "text_te": "అనాశనం యః కురుతే మద్భక్త ఇహ సువ్రతః ॥ న తస్య పునరావృత్తిః కల్పకోటిశతైరపి",
+   "text_en": "anāśanaṁ yaḥ kurute madbhakta iha suvrataḥ ॥ na tasya punarāvṛttiḥ kalpakoṭiśatairapi",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 88,
+   "text_deva": "अशाश्वतमिदं ज्ञात्वा मानुष्यं बहुकिल्विषम् ॥ अविमुक्तं सदा सेव्यं संसारभयमोचकम्",
+   "text_te": "అశాశ్వతమిదం జ్ఞాత్వా మానుష్యం బహుకిల్విషమ్ ॥ అవిముక్తం సదా సేవ్యం సంసారభయమోచకమ్",
+   "text_en": "aśāśvatamidaṁ jñātvā mānuṣyaṁ bahukilviṣam ॥ avimuktaṁ sadā sevyaṁ saṁsārabhayamocakam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 89,
+   "text_deva": "नान्यत्पश्यामि जंतूनां मुक्त्वा वाराणसीं पुरीम् ॥ सर्वपापप्रशमनीं प्रायश्चित्तं कलौ युगे",
+   "text_te": "నాన్యత్పశ్యామి జంతూనాం ముక్త్వా వారాణసీం పురీమ్ ॥ సర్వపాపప్రశమనీం ప్రాయశ్చిత్తం కలౌ యుగే",
+   "text_en": "nānyatpaśyāmi jaṁtūnāṁ muktvā vārāṇasīṁ purīm ॥ sarvapāpapraśamanīṁ prāyaścittaṁ kalau yuge",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 90,
+   "text_deva": "जन्मांतरसहस्रेषु यत्पापं समुपार्जितम् ॥ अविमुक्तं प्रविष्टस्य तत्सर्वं व्रजति क्षयम्",
+   "text_te": "జన్మాంతరసహస్రేషు యత్పాపం సముపార్జితమ్ ॥ అవిముక్తం ప్రవిష్టస్య తత్సర్వం వ్రజతి క్షయమ్",
+   "text_en": "janmāṁtarasahasreṣu yatpāpaṁ samupārjitam ॥ avimuktaṁ praviṣṭasya tatsarvaṁ vrajati kṣayam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 91,
+   "text_deva": "जन्मांतरसहस्रेषु युंजन्योगी यदाप्नुयात् ॥ तदिहैव परो मोक्षो मरणादधि गम्यते",
+   "text_te": "జన్మాంతరసహస్రేషు యుంజన్యోగీ యదాప్నుయాత్ ॥ తదిహైవ పరో మోక్షో మరణాదధి గమ్యతే",
+   "text_en": "janmāṁtarasahasreṣu yuṁjanyogī yadāpnuyāt ॥ tadihaiva paro mokṣo maraṇādadhi gamyate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 92,
+   "text_deva": "तिर्यग्योनिगताः सत्त्वा ये विमुक्तकृतालयाः ॥ कालेन निधनं प्राप्तास्तेपि यांति परां गतिम्",
+   "text_te": "తిర్యగ్యోనిగతాః సత్త్వా యే విముక్తకృతాలయాః ॥ కాలేన నిధనం ప్రాప్తాస్తేపి యాంతి పరాం గతిమ్",
+   "text_en": "tiryagyonigatāḥ sattvā ye vimuktakṛtālayāḥ ॥ kālena nidhanaṁ prāptāstepi yāṁti parāṁ gatim",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 93,
+   "text_deva": "अविमुक्तं न सेवंते ये मूढास्तमसावृताः ॥ विण्मूत्ररेतसां मध्ये ते वसंति पुनः पुनः",
+   "text_te": "అవిముక్తం న సేవంతే యే మూఢాస్తమసావృతాః ॥ విణ్మూత్రరేతసాం మధ్యే తే వసంతి పునః పునః",
+   "text_en": "avimuktaṁ na sevaṁte ye mūḍhāstamasāvṛtāḥ ॥ viṇmūtraretasāṁ madhye te vasaṁti punaḥ punaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 94,
+   "text_deva": "अविमुक्तं समासाद्य यो लिंगं स्थापयेत्सुधीः ॥ कल्पकोटिशतैर्वापि नास्ति तस्य पुनर्भवः",
+   "text_te": "అవిముక్తం సమాసాద్య యో లింగం స్థాపయేత్సుధీః ॥ కల్పకోటిశతైర్వాపి నాస్తి తస్య పునర్భవః",
+   "text_en": "avimuktaṁ samāsādya yo liṁgaṁ sthāpayetsudhīḥ ॥ kalpakoṭiśatairvāpi nāsti tasya punarbhavaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 95,
+   "text_deva": "ग्रहनक्षत्रताराणां कालेन पतनं ध्रुवम् ॥ अविमुक्ते मृतानां तु पतनं नैव विद्यते",
+   "text_te": "గ్రహనక్షత్రతారాణాం కాలేన పతనం ధ్రువమ్ ॥ అవిముక్తే మృతానాం తు పతనం నైవ విద్యతే",
+   "text_en": "grahanakṣatratārāṇāṁ kālena patanaṁ dhruvam ॥ avimukte mṛtānāṁ tu patanaṁ naiva vidyate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 96,
+   "text_deva": "ब्रह्महत्यां नरः कृत्वा पश्चात्संयतमानसः ॥ प्राणांस्त्यजति यः काश्यां स मुक्तो नात्र संशयः",
+   "text_te": "బ్రహ్మహత్యాం నరః కృత్వా పశ్చాత్సంయతమానసః ॥ ప్రాణాంస్త్యజతి యః కాశ్యాం స ముక్తో నాత్ర సంశయః",
+   "text_en": "brahmahatyāṁ naraḥ kṛtvā paścātsaṁyatamānasaḥ ॥ prāṇāṁstyajati yaḥ kāśyāṁ sa mukto nātra saṁśayaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 97,
+   "text_deva": "स्त्रियः पतिव्रता याश्च मम भक्तिसमाहिताः ॥ अविमुक्ते मृता विप्रा यांति ताः परमां गतिम्",
+   "text_te": "స్త్రియః పతివ్రతా యాశ్చ మమ భక్తిసమాహితాః ॥ అవిముక్తే మృతా విప్రా యాంతి తాః పరమాం గతిమ్",
+   "text_en": "striyaḥ pativratā yāśca mama bhaktisamāhitāḥ ॥ avimukte mṛtā viprā yāṁti tāḥ paramāṁ gatim",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 98,
+   "text_deva": "अत्रोत्क्रमणकालेहं स्वयमेव द्विजोत्तमाः ॥ दिशामि तारकं ब्रह्म देही स्याद्येन तन्मयः",
+   "text_te": "అత్రోత్క్రమణకాలేహం స్వయమేవ ద్విజోత్తమాః ॥ దిశామి తారకం బ్రహ్మ దేహీ స్యాద్యేన తన్మయః",
+   "text_en": "atrotkramaṇakālehaṁ svayameva dvijottamāḥ ॥ diśāmi tārakaṁ brahma dehī syādyena tanmayaḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 99,
+   "text_deva": "मन्मना मम भक्तश्च मयि सर्वार्पितक्रियः ॥ यथा मोक्षमिहाप्नोति न तथान्यत्रकुत्रचित्",
+   "text_te": "మన్మనా మమ భక్తశ్చ మయి సర్వార్పితక్రియః ॥ యథా మోక్షమిహాప్నోతి న తథాన్యత్రకుత్రచిత్",
+   "text_en": "manmanā mama bhaktaśca mayi sarvārpitakriyaḥ ॥ yathā mokṣamihāpnoti na tathānyatrakutracit",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 100,
+   "text_deva": "मरणं निश्चितं ज्ञात्वा गतिं चासुखरूपिणीम् ॥ चलमागंतुकं सर्वं ततः काशीं समाश्रयेत्",
+   "text_te": "మరణం నిశ్చితం జ్ఞాత్వా గతిం చాసుఖరూపిణీమ్ ॥ చలమాగంతుకం సర్వం తతః కాశీం సమాశ్రయేత్",
+   "text_en": "maraṇaṁ niścitaṁ jñātvā gatiṁ cāsukharūpiṇīm ॥ calamāgaṁtukaṁ sarvaṁ tataḥ kāśīṁ samāśrayet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 101,
+   "text_deva": "काशी समाश्रिता यैस्तु मनोवाक्कायकर्मभिः ॥ तानत्र निर्मलधियो निवार्णश्रीः समाश्रयेत्",
+   "text_te": "కాశీ సమాశ్రితా యైస్తు మనోవాక్కాయకర్మభిః ॥ తానత్ర నిర్మలధియో నివార్ణశ్రీః సమాశ్రయేత్",
+   "text_en": "kāśī samāśritā yaistu manovākkāyakarmabhiḥ ॥ tānatra nirmaladhiyo nivārṇaśrīḥ samāśrayet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 102,
+   "text_deva": "काशीस्थितैकमपि यः प्रीणयेन्न्यायजैर्धनैः ॥ तेन त्रैलोक्यमखिलं प्रीणितं तु मया सह",
+   "text_te": "కాశీస్థితైకమపి యః ప్రీణయేన్న్యాయజైర్ధనైః ॥ తేన త్రైలోక్యమఖిలం ప్రీణితం తు మయా సహ",
+   "text_en": "kāśīsthitaikamapi yaḥ prīṇayennyāyajairdhanaiḥ ॥ tena trailokyamakhilaṁ prīṇitaṁ tu mayā saha",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 103,
+   "text_deva": "यः प्रीणयति पुण्यात्मा निर्वाणनगरी नरम् ॥ पुमर्थेन स्थितेर्नित्यं ब्राह्मणाः प्रीणयामि तम्",
+   "text_te": "యః ప్రీణయతి పుణ్యాత్మా నిర్వాణనగరీ నరమ్ ॥ పుమర్థేన స్థితేర్నిత్యం బ్రాహ్మణాః ప్రీణయామి తమ్",
+   "text_en": "yaḥ prīṇayati puṇyātmā nirvāṇanagarī naram ॥ pumarthena sthiternityaṁ brāhmaṇāḥ prīṇayāmi tam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 104,
+   "text_deva": "दिवोदासोपि राजर्षिः काशीं धर्मेण पालयन् ॥ सदेहो मत्पदं प्राप्तो यतो न पुनरागतिः",
+   "text_te": "దివోదాసోపి రాజర్షిః కాశీం ధర్మేణ పాలయన్ ॥ సదేహో మత్పదం ప్రాప్తో యతో న పునరాగతిః",
+   "text_en": "divodāsopi rājarṣiḥ kāśīṁ dharmeṇa pālayan ॥ sadeho matpadaṁ prāpto yato na punarāgatiḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 105,
+   "text_deva": "अत्र योगस्तथा ज्ञानं मुक्तिरेकेन जन्मना ॥ अतो विमुक्तमासाद्य नान्यद्गच्छेत्तपोवनम्",
+   "text_te": "అత్ర యోగస్తథా జ్ఞానం ముక్తిరేకేన జన్మనా ॥ అతో విముక్తమాసాద్య నాన్యద్గచ్ఛేత్తపోవనమ్",
+   "text_en": "atra yogastathā jñānaṁ muktirekena janmanā ॥ ato vimuktamāsādya nānyadgacchettapovanam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 106,
+   "text_deva": "मोक्षं सुदुर्लभं ज्ञात्वा संसारं चातिभीषणम् ॥ अश्मना चरणौ हत्वा कालमत्र प्रतीक्षयेत्",
+   "text_te": "మోక్షం సుదుర్లభం జ్ఞాత్వా సంసారం చాతిభీషణమ్ ॥ అశ్మనా చరణౌ హత్వా కాలమత్ర ప్రతీక్షయేత్",
+   "text_en": "mokṣaṁ sudurlabhaṁ jñātvā saṁsāraṁ cātibhīṣaṇam ॥ aśmanā caraṇau hatvā kālamatra pratīkṣayet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 107,
+   "text_deva": "अविमुक्तं परित्यज्य यदा यास्यंति दुर्धियः ॥ हसिष्यंति तदा भूतान्यन्योन्यकरताडनैः",
+   "text_te": "అవిముక్తం పరిత్యజ్య యదా యాస్యంతి దుర్ధియః ॥ హసిష్యంతి తదా భూతాన్యన్యోన్యకరతాడనైః",
+   "text_en": "avimuktaṁ parityajya yadā yāsyaṁti durdhiyaḥ ॥ hasiṣyaṁti tadā bhūtānyanyonyakaratāḍanaiḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 108,
+   "text_deva": "प्राप्य वाराणसीं पुण्यां सिद्धिक्षेत्रमनुत्तमम् ॥ परिनिष्क्रांतुमन्यत्र कस्य जंतोर्मतिर्भवेत्",
+   "text_te": "ప్రాప్య వారాణసీం పుణ్యాం సిద్ధిక్షేత్రమనుత్తమమ్ ॥ పరినిష్క్రాంతుమన్యత్ర కస్య జంతోర్మతిర్భవేత్",
+   "text_en": "prāpya vārāṇasīṁ puṇyāṁ siddhikṣetramanuttamam ॥ pariniṣkrāṁtumanyatra kasya jaṁtormatirbhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 109,
+   "text_deva": "महादानेन चान्यत्र यत्फलं लभ्यते नरैः ॥ अविमुक्ते तु काकिण्यां दत्तायां तदवाप्यते",
+   "text_te": "మహాదానేన చాన్యత్ర యత్ఫలం లభ్యతే నరైః ॥ అవిముక్తే తు కాకిణ్యాం దత్తాయాం తదవాప్యతే",
+   "text_en": "mahādānena cānyatra yatphalaṁ labhyate naraiḥ ॥ avimukte tu kākiṇyāṁ dattāyāṁ tadavāpyate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 110,
+   "text_deva": "एकं समर्चयेल्लिंगं तपस्तप्येत चापरः ॥ तयोर्मध्ये तु स श्रेष्ठो यो लिंगं पूजयेदिह",
+   "text_te": "ఏకం సమర్చయేల్లింగం తపస్తప్యేత చాపరః ॥ తయోర్మధ్యే తు స శ్రేష్ఠో యో లింగం పూజయేదిహ",
+   "text_en": "ekaṁ samarcayelliṁgaṁ tapastapyeta cāparaḥ ॥ tayormadhye tu sa śreṣṭho yo liṁgaṁ pūjayediha",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 111,
+   "text_deva": "तीर्थांतरे गवां कोटिं विधिवद्यः प्रयच्छति ॥ एकाहं यो वसेत्काश्यां काशीवासी तयोर्वरः",
+   "text_te": "తీర్థాంతరే గవాం కోటిం విధివద్యః ప్రయచ్ఛతి ॥ ఏకాహం యో వసేత్కాశ్యాం కాశీవాసీ తయోర్వరః",
+   "text_en": "tīrthāṁtare gavāṁ koṭiṁ vidhivadyaḥ prayacchati ॥ ekāhaṁ yo vasetkāśyāṁ kāśīvāsī tayorvaraḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 112,
+   "text_deva": "अन्यत्र ब्राह्मणानां तु कोटिं संभोज्य यत्फलम् ॥ वाराणस्यां तु चैकेन भोजितेन तदाप्यते",
+   "text_te": "అన్యత్ర బ్రాహ్మణానాం తు కోటిం సంభోజ్య యత్ఫలమ్ ॥ వారాణస్యాం తు చైకేన భోజితేన తదాప్యతే",
+   "text_en": "anyatra brāhmaṇānāṁ tu koṭiṁ saṁbhojya yatphalam ॥ vārāṇasyāṁ tu caikena bhojitena tadāpyate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 113,
+   "text_deva": "सन्निहत्यां कुरुक्षेत्रे राहुग्रस्ते दिवाकरे ॥ तुलापुरुषदानेन काशीभिक्षा समा भवेत्",
+   "text_te": "సన్నిహత్యాం కురుక్షేత్రే రాహుగ్రస్తే దివాకరే ॥ తులాపురుషదానేన కాశీభిక్షా సమా భవేత్",
+   "text_en": "sannihatyāṁ kurukṣetre rāhugraste divākare ॥ tulāpuruṣadānena kāśībhikṣā samā bhavet",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 114,
+   "text_deva": "ममेह परमं ज्योतिरापातालाद्व्यवस्थितम् ॥ अतीत्य सप्तलोकादीननंतं लिंगरूपधृक्",
+   "text_te": "మమేహ పరమం జ్యోతిరాపాతాలాద్వ్యవస్థితమ్ ॥ అతీత్య సప్తలోకాదీననంతం లింగరూపధృక్",
+   "text_en": "mameha paramaṁ jyotirāpātālādvyavasthitam ॥ atītya saptalokādīnanaṁtaṁ liṁgarūpadhṛk",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 115,
+   "text_deva": "पृथिव्यंतेपि ये लिंगमविमुक्तं स्मरंति मे ॥ कलुषैस्ते विमुच्यंते महद्भिरिति निश्चितम्",
+   "text_te": "పృథివ్యంతేపి యే లింగమవిముక్తం స్మరంతి మే ॥ కలుషైస్తే విముచ్యంతే మహద్భిరితి నిశ్చితమ్",
+   "text_en": "pṛthivyaṁtepi ye liṁgamavimuktaṁ smaraṁti me ॥ kaluṣaiste vimucyaṁte mahadbhiriti niścitam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 116,
+   "text_deva": "अस्मिन्क्षेत्रे तु ये नाहं दृष्टः स्पृष्टः समर्चितः ॥ संप्राप्य तारकं ज्ञानं न स भूयोभिजायते",
+   "text_te": "అస్మిన్క్షేత్రే తు యే నాహం దృష్టః స్పృష్టః సమర్చితః ॥ సంప్రాప్య తారకం జ్ఞానం న స భూయోభిజాయతే",
+   "text_en": "asminkṣetre tu ye nāhaṁ dṛṣṭaḥ spṛṣṭaḥ samarcitaḥ ॥ saṁprāpya tārakaṁ jñānaṁ na sa bhūyobhijāyate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 117,
+   "text_deva": "यो मामिह समभ्यर्च्य म्रियतेन्यत्रकुत्रचित् ॥ जन्मांतरेपि मां प्राप्य स विमुक्तो भविष्यति",
+   "text_te": "యో మామిహ సమభ్యర్చ్య మ్రియతేన్యత్రకుత్రచిత్ ॥ జన్మాంతరేపి మాం ప్రాప్య స విముక్తో భవిష్యతి",
+   "text_en": "yo māmiha samabhyarcya mriyatenyatrakutracit ॥ janmāṁtarepi māṁ prāpya sa vimukto bhaviṣyati",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 118,
+   "text_deva": "इत्युक्त्वा क्षेत्रमाहात्म्यं द्विजानामग्रतो हरः ॥ पश्यतामेव तेषां तु तत्रैवांतर्हितोभवत्",
+   "text_te": "ఇత్యుక్త్వా క్షేత్రమాహాత్మ్యం ద్విజానామగ్రతో హరః ॥ పశ్యతామేవ తేషాం తు తత్రైవాంతర్హితోభవత్",
+   "text_en": "ityuktvā kṣetramāhātmyaṁ dvijānāmagrato haraḥ ॥ paśyatāmeva teṣāṁ tu tatraivāṁtarhitobhavat",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 119,
+   "text_deva": "तेपि साक्षाद्विरूपाक्षं प्रत्यक्षीकृत्य वाडवाः ॥ प्रहृष्टमनसोऽत्यंतं प्रययुः स्वस्वमाश्रयम्",
+   "text_te": "తేపి సాక్షాద్విరూపాక్షం ప్రత్యక్షీకృత్య వాడవాః ॥ ప్రహృష్టమనసోఽత్యంతం ప్రయయుః స్వస్వమాశ్రయమ్",
+   "text_en": "tepi sākṣādvirūpākṣaṁ pratyakṣīkṛtya vāḍavāḥ ॥ prahṛṣṭamanaso'tyaṁtaṁ prayayuḥ svasvamāśrayam",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 120,
+   "text_deva": "शंभोर्वाक्यं विनिश्चित्य सर्वज्ञस्य कृपानिधेः ॥ त्यक्त्वा कार्यांतरं विप्रा लिंगान्येव समर्चिषुः",
+   "text_te": "శంభోర్వాక్యం వినిశ్చిత్య సర్వజ్ఞస్య కృపానిధేః ॥ త్యక్త్వా కార్యాంతరం విప్రా లింగాన్యేవ సమర్చిషుః",
+   "text_en": "śaṁbhorvākyaṁ viniścitya sarvajñasya kṛpānidheḥ ॥ tyaktvā kāryāṁtaraṁ viprā liṁgānyeva samarciṣuḥ",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 121,
+   "text_deva": "पठित्वा पाठयित्वा च रहस्याख्यानमुत्तमम् ॥ श्रद्धालुः पातकैर्मुक्तः शिवलोके महीयते",
+   "text_te": "పఠిత్వా పాఠయిత్వా చ రహస్యాఖ్యానముత్తమమ్ ॥ శ్రద్ధాలుః పాతకైర్ముక్తః శివలోకే మహీయతే",
+   "text_en": "paṭhitvā pāṭhayitvā ca rahasyākhyānamuttamam ॥ śraddhāluḥ pātakairmuktaḥ śivaloke mahīyate",
+   "mean_en": null,
+   "mean_te": null
+  },
+  {
+   "n": 122,
+   "text_deva": "इति श्रीस्कांदे महापुराण एकाशीति साहस्र्यां संहितायां चतुर्थे काशीखंड उत्तरार्द्धे क्षेत्ररहस्यकथनंनाम चतुःषष्टितमोऽध्यायः",
+   "text_te": "ఇతి శ్రీస్కాందే మహాపురాణ ఏకాశీతి సాహస్ర్యాం సంహితాయాం చతుర్థే కాశీఖండ ఉత్తరార్ద్ధే క్షేత్రరహస్యకథనంనామ చతుఃషష్టితమోఽధ్యాయః",
+   "text_en": "iti śrīskāṁde mahāpurāṇa ekāśīti sāhasryāṁ saṁhitāyāṁ caturthe kāśīkhaṁḍa uttarārddhe kṣetrarahasyakathanaṁnāma catuḥṣaṣṭitamo'dhyāyaḥ",
+   "mean_en": null,
+   "mean_te": null
+  }
+ ]
+}

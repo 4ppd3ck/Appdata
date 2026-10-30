@@ -1,0 +1,85 @@
+{
+ "epics": {
+  "ganesha-puranam": {
+   "id": "ganesha-puranam",
+   "name": {
+    "en": "Ganesha Purana",
+    "te": "గణేశ పురాణం"
+   },
+   "author": {
+    "en": "Veda Vyasa",
+    "te": "వేద వ్యాసుడు"
+   },
+   "unitLabel": {
+    "en": "Khanda",
+    "te": "ఖండం"
+   },
+   "labels": {
+    "sargaWord": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "sargaLabel": {
+     "en": "Chapter",
+     "te": "అధ్యాయం"
+    },
+    "allSargas": {
+     "en": "All chapters",
+     "te": "అన్ని అధ్యాయాలు"
+    },
+    "browseSargas": {
+     "en": "Read by chapter",
+     "te": "అధ్యాయాలు చదవండి"
+    },
+    "sargasAvailable": {
+     "en": "chapters · read the whole khanda",
+     "te": "అధ్యాయాలు · పూర్తి ఖండాన్ని చదవండి"
+    },
+    "talePick": {
+     "en": "Open a chapter to read its tale as a flowing story.",
+     "te": "ఒక అధ్యాయాన్ని తెరిచి దాని కథను చదవండి."
+    },
+    "prevSarga": {
+     "en": "← Prev chapter",
+     "te": "← మునుపటి అధ్యాయం"
+    },
+    "nextSarga": {
+     "en": "Next chapter →",
+     "te": "తరువాతి అధ్యాయం →"
+    }
+   },
+   "sections": [
+    {
+     "id": "upasana-khandam",
+     "n": 1,
+     "name": {
+      "en": "Upasana Khandam",
+      "te": "ఉపాసన ఖండం"
+     },
+     "title": {
+      "en": "Worship of Ganesha — the ritual khanda",
+      "te": "గణేశ ఉపాసన — ఆరాధన ఖండం"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    },
+    {
+     "id": "krida-khandam",
+     "n": 2,
+     "name": {
+      "en": "Krida Khandam",
+      "te": "క్రీడా ఖండం"
+     },
+     "title": {
+      "en": "The plays of Ganesha — Ganesha's avatars and legends",
+      "te": "గణేశుని లీలలు, అవతారాలు"
+     },
+     "comingSoon": false,
+     "note": "అసలు శ్లోకాలు — దేవనాగరి, తెలుగు, IAST — vaidhikadharma.org నుండి; అర్థాలు క్రమంగా చేర్చబడుచున్నవి.",
+     "note_en": "Real adhyaya shlokas (Devanagari + Telugu + IAST), from vaidhikadharma.org; meanings are being added incrementally."
+    }
+   ]
+  }
+ }
+}
