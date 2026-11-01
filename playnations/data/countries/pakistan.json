@@ -1,0 +1,17 @@
+{
+  "id": "pakistan",
+  "name": "Pakistan",
+  "flag": "🇵🇰",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Field Hockey",
+    "about": "Pakistan's hockey wizards have won 3 Olympic gold medals and 4 World Cups."
+  },
+  "loved": [
+    { "emoji": "🏏", "name": "Cricket", "why": "Street cricket everywhere — the fast tape-ball version was invented here!" },
+    { "emoji": "🏑", "name": "Field Hockey", "why": "Once the unbeatable team of world hockey." },
+    { "emoji": "🥍", "name": "Squash", "why": "Pakistan ruled world squash for decades." }
+  ],
+  "fact": "Tape-ball cricket — a tennis ball wrapped in tape — was invented on Pakistan's streets and is now played around the world.",
+  "games": ["cricket", "field-hockey", "gilli-danda"]
+}

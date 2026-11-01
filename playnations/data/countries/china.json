@@ -1,0 +1,17 @@
+{
+  "id": "china",
+  "name": "China",
+  "flag": "🇨🇳",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Table Tennis",
+    "about": "Called ping pong here — China's national sport and its most successful one by far."
+  },
+  "loved": [
+    { "emoji": "🏓", "name": "Table Tennis", "why": "Parks and schools everywhere have tables — and China keeps winning the Olympic golds." },
+    { "emoji": "🏀", "name": "Basketball", "why": "Millions follow the games, and arenas fill up fast." },
+    { "emoji": "🏸", "name": "Badminton", "why": "Chinese champions are household names." }
+  ],
+  "fact": "In 1971 a friendly ping-pong match helped China and the USA restart talks after 20 frozen years — it was called 'ping-pong diplomacy'.",
+  "games": ["table-tennis", "badminton"]
+}

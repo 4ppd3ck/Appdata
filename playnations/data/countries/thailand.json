@@ -1,0 +1,17 @@
+{
+  "id": "thailand",
+  "name": "Thailand",
+  "flag": "🇹🇭",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Muay Thai",
+    "about": "Muay Thai — 'the art of eight limbs' — uses fists, elbows, knees and shins."
+  },
+  "loved": [
+    { "emoji": "⚽", "name": "Football", "why": "Fans wake at dawn to cheer for faraway European clubs." },
+    { "emoji": "🥊", "name": "Muay Thai", "why": "Kids train in gyms across the whole country." },
+    { "emoji": "🤾", "name": "Sepak Takraw", "why": "Thailand's team does impossible flying kicks." }
+  ],
+  "fact": "Before every muay thai fight, fighters perform the wai khru dance to honour their teachers.",
+  "games": ["football", "sepak-takraw"]
+}

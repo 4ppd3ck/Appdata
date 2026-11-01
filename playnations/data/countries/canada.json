@@ -1,0 +1,18 @@
+{
+  "id": "canada",
+  "name": "Canada",
+  "flag": "🇨🇦",
+  "continent": "Americas",
+  "nationalGame": {
+    "name": "Lacrosse & Ice Hockey",
+    "about": "Lacrosse for summer, ice hockey for winter — Canada's two official national sports.",
+    "note": "Canada is the only country with two official national sports."
+  },
+  "loved": [
+    { "emoji": "🏒", "name": "Ice Hockey", "why": "Kids skate to school and play hockey on frozen ponds." },
+    { "emoji": "🥍", "name": "Lacrosse", "why": "First played by Indigenous peoples hundreds of years ago." },
+    { "emoji": "🏀", "name": "Basketball", "why": "Basketball was invented by a Canadian!" }
+  ],
+  "fact": "Canada has more lakes than the rest of the world combined — and in winter many of them freeze into hockey rinks.",
+  "games": ["ice-hockey", "basketball"]
+}

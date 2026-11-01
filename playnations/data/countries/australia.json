@@ -1,0 +1,18 @@
+{
+  "id": "australia",
+  "name": "Australia",
+  "flag": "🇦🇺",
+  "continent": "Oceania",
+  "nationalGame": {
+    "name": "Cricket",
+    "about": "Summer means cricket in Australia — in backyards, on beaches and in giant stadiums.",
+    "note": "Australia has no official national sport — cricket and Aussie rules football share the crown."
+  },
+  "loved": [
+    { "emoji": "🏏", "name": "Cricket", "why": "The Ashes battle with England is over 140 years old." },
+    { "emoji": "🏉", "name": "Rugby", "why": "State vs state and country vs country — fierce and fast." },
+    { "emoji": "🏊", "name": "Swimming", "why": "Australians win Olympic swimming medals by the bucket load." }
+  ],
+  "fact": "The AFL grand final in Melbourne draws over 100,000 people — one of the biggest crowds in world sport.",
+  "games": ["cricket", "rugby"]
+}

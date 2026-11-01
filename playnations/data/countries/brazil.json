@@ -1,0 +1,18 @@
+{
+  "id": "brazil",
+  "name": "Brazil",
+  "flag": "🇧🇷",
+  "continent": "Americas",
+  "nationalGame": {
+    "name": "Football",
+    "about": "Football is a way of life in Brazil — the country has won the most World Cups ever: five.",
+    "note": "Brazil has no single official national sport — football is the nation's heart."
+  },
+  "loved": [
+    { "emoji": "⚽", "name": "Football", "why": "Every beach and street has kids juggling a ball." },
+    { "emoji": "🥋", "name": "Capoeira", "why": "A dance-fight game born in Brazil, with music and flips." },
+    { "emoji": "🏐", "name": "Volleyball", "why": "Brazil's beach volleyball teams are world famous." }
+  ],
+  "fact": "Brazil is the only country to have played in every single FIFA World Cup.",
+  "games": ["football", "volleyball"]
+}

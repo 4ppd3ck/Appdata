@@ -1,0 +1,18 @@
+{
+  "id": "united-kingdom",
+  "name": "United Kingdom",
+  "flag": "🇬🇧",
+  "continent": "Europe",
+  "nationalGame": {
+    "name": "Football",
+    "about": "The modern rules of football were written in England in 1863 — the world's game was born here.",
+    "note": "The UK has no official national sport — football is the most loved."
+  },
+  "loved": [
+    { "emoji": "⚽", "name": "Football", "why": "The Premier League is watched in almost every country on Earth." },
+    { "emoji": "🏏", "name": "Cricket", "why": "A 400-year-old summer tradition, with strawberries and cream." },
+    { "emoji": "🏉", "name": "Rugby", "why": "Born at a school called Rugby, when a boy picked up the ball and ran!" }
+  ],
+  "fact": "Wimbledon, the world's oldest tennis tournament, began in 1877 — players still must wear white.",
+  "games": ["cricket", "football", "rugby"]
+}

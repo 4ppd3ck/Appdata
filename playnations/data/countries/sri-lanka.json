@@ -1,0 +1,17 @@
+{
+  "id": "sri-lanka",
+  "name": "Sri Lanka",
+  "flag": "🇱🇰",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Volleyball",
+    "about": "Volleyball has been Sri Lanka's official national sport since 1951."
+  },
+  "loved": [
+    { "emoji": "🏏", "name": "Cricket", "why": "The 1996 World Cup win made the whole island dance in the streets." },
+    { "emoji": "🏐", "name": "Volleyball", "why": "Every school and village has a court." },
+    { "emoji": "🌊", "name": "Swimming", "why": "An island nation — the sea is everyone's playground." }
+  ],
+  "fact": "Sri Lanka's Muttiah Muralitharan took 800 Test wickets — the most in cricket history.",
+  "games": ["volleyball", "cricket", "carrom"]
+}

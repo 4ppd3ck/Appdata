@@ -1,0 +1,17 @@
+{
+  "id": "south-korea",
+  "name": "South Korea",
+  "flag": "🇰🇷",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Taekwondo",
+    "about": "Korea's national martial art — an Olympic sport and a huge source of pride."
+  },
+  "loved": [
+    { "emoji": "⚾", "name": "Baseball", "why": "KBO games are loud and joyful, full of cheer songs and food." },
+    { "emoji": "⚽", "name": "Football", "why": "Korea reached the World Cup semi-finals in 2002." },
+    { "emoji": "🎮", "name": "E-sports", "why": "Pro gamers are national celebrities here!" }
+  ],
+  "fact": "Taekwondo means 'the way of the foot and fist' — over 70 million people practise it worldwide.",
+  "games": ["taekwondo", "baseball"]
+}

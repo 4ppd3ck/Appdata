@@ -1,0 +1,18 @@
+{
+  "id": "netherlands",
+  "name": "Netherlands",
+  "flag": "🇳🇱",
+  "continent": "Europe",
+  "nationalGame": {
+    "name": "Football",
+    "about": "The Dutch invented 'Total Football' — a flowing style that changed the game forever. Oranje fans paint the country orange.",
+    "note": "The Netherlands has no official national sport — football leads, with skating and korfball close behind."
+  },
+  "loved": [
+    { "emoji": "⚽", "name": "Football", "why": "Streets turn orange when the national team plays." },
+    { "emoji": "⛸️", "name": "Speed Skating", "why": "Dutch skaters sweep Olympic podiums on frozen canals." },
+    { "emoji": "🥍", "name": "Korfball", "why": "Invented here — mixed teams of boys and girls play together!" }
+  ],
+  "fact": "On freezing winters the famous Eleven Cities race sends skaters along 200 km of frozen canals — it only happens when the ice is thick enough.",
+  "games": ["football", "field-hockey"]
+}

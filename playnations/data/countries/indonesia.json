@@ -1,0 +1,18 @@
+{
+  "id": "indonesia",
+  "name": "Indonesia",
+  "flag": "🇮🇩",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Badminton",
+    "about": "Badminton is Indonesia's proudest sport — Olympic golds and world titles galore.",
+    "note": "Indonesia has no official national sport — badminton is the nation's favourite."
+  },
+  "loved": [
+    { "emoji": "🏸", "name": "Badminton", "why": "Indonesian champions are superstars, and fans fill whole stadiums." },
+    { "emoji": "⚽", "name": "Football", "why": "Local league matches are loud, colourful and packed." },
+    { "emoji": "🤾", "name": "Sepak Takraw", "why": "An acrobatic favourite across the islands." }
+  ],
+  "fact": "Indonesia's very first Olympic gold medal came from badminton in 1992 — Susi Susanti's win made the whole country celebrate.",
+  "games": ["badminton", "sepak-takraw"]
+}

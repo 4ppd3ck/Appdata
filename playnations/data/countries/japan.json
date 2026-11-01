@@ -1,0 +1,17 @@
+{
+  "id": "japan",
+  "name": "Japan",
+  "flag": "🇯🇵",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Sumo",
+    "about": "Sumo wrestling has been Japan's treasured sport for over 1,500 years, wrapped in ancient rituals."
+  },
+  "loved": [
+    { "emoji": "⚾", "name": "Baseball", "why": "The most played and watched sport — school tournaments go national on TV." },
+    { "emoji": "⚽", "name": "Football", "why": "Japan's women's team won the 2011 World Cup!" },
+    { "emoji": "🏓", "name": "Table Tennis", "why": "Japanese stars are famous across Asia." }
+  ],
+  "fact": "Top sumo champions wear a special samurai-style topknot called an oicho — and are treated like superstars.",
+  "games": ["sumo", "baseball", "table-tennis"]
+}

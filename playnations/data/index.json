@@ -1,0 +1,24 @@
+{
+  "countries": [
+    { "id": "india", "name": "India", "flag": "🇮🇳", "continent": "Asia" },
+    { "id": "japan", "name": "Japan", "flag": "🇯🇵", "continent": "Asia" },
+    { "id": "china", "name": "China", "flag": "🇨🇳", "continent": "Asia" },
+    { "id": "south-korea", "name": "South Korea", "flag": "🇰🇷", "continent": "Asia" },
+    { "id": "bangladesh", "name": "Bangladesh", "flag": "🇧🇩", "continent": "Asia" },
+    { "id": "sri-lanka", "name": "Sri Lanka", "flag": "🇱🇰", "continent": "Asia" },
+    { "id": "pakistan", "name": "Pakistan", "flag": "🇵🇰", "continent": "Asia" },
+    { "id": "thailand", "name": "Thailand", "flag": "🇹🇭", "continent": "Asia" },
+    { "id": "philippines", "name": "Philippines", "flag": "🇵🇭", "continent": "Asia" },
+    { "id": "indonesia", "name": "Indonesia", "flag": "🇮🇩", "continent": "Asia" },
+    { "id": "usa", "name": "USA", "flag": "🇺🇸", "continent": "Americas" },
+    { "id": "brazil", "name": "Brazil", "flag": "🇧🇷", "continent": "Americas" },
+    { "id": "canada", "name": "Canada", "flag": "🇨🇦", "continent": "Americas" },
+    { "id": "argentina", "name": "Argentina", "flag": "🇦🇷", "continent": "Americas" },
+    { "id": "mexico", "name": "Mexico", "flag": "🇲🇽", "continent": "Americas" },
+    { "id": "united-kingdom", "name": "United Kingdom", "flag": "🇬🇧", "continent": "Europe" },
+    { "id": "netherlands", "name": "Netherlands", "flag": "🇳🇱", "continent": "Europe" },
+    { "id": "australia", "name": "Australia", "flag": "🇦🇺", "continent": "Oceania" },
+    { "id": "new-zealand", "name": "New Zealand", "flag": "🇳🇿", "continent": "Oceania" },
+    { "id": "kenya", "name": "Kenya", "flag": "🇰🇪", "continent": "Africa" }
+  ]
+}

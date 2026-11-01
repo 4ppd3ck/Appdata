@@ -1,0 +1,18 @@
+{
+  "id": "new-zealand",
+  "name": "New Zealand",
+  "flag": "🇳🇿",
+  "continent": "Oceania",
+  "nationalGame": {
+    "name": "Rugby",
+    "about": "Rugby is the nation's heart — the All Blacks are the most successful team in rugby history.",
+    "note": "New Zealand has no official national sport — rugby is what everyone plays and watches."
+  },
+  "loved": [
+    { "emoji": "🏉", "name": "Rugby", "why": "The whole country stops for All Blacks matches." },
+    { "emoji": "🥅", "name": "Netball", "why": "The most played women's sport in the country." },
+    { "emoji": "⛵", "name": "Sailing", "why": "Kiwi sailors have won the famous America's Cup again and again." }
+  ],
+  "fact": "The haka — a Māori challenge dance — is performed by the All Blacks before every international match.",
+  "games": ["rugby"]
+}

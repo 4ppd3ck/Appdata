@@ -1,0 +1,17 @@
+{
+  "id": "mexico",
+  "name": "Mexico",
+  "flag": "🇲🇽",
+  "continent": "Americas",
+  "nationalGame": {
+    "name": "Charrería",
+    "about": "Charrería — Mexican rodeo with roping and riding skills — is the country's official national sport."
+  },
+  "loved": [
+    { "emoji": "⚽", "name": "Football", "why": "Estadio Azteca has hosted two World Cup finals!" },
+    { "emoji": "🤼", "name": "Lucha Libre", "why": "Masked wrestlers flip and fly in front of cheering families." },
+    { "emoji": "🥊", "name": "Boxing", "why": "Mexico has produced dozens of world champions." }
+  ],
+  "fact": "Mexico City's Estadio Azteca is the only stadium to host two World Cup finals — 1970 and 1986.",
+  "games": ["football"]
+}

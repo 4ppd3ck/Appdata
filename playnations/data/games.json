@@ -1,0 +1,503 @@
+[
+  {
+    "id": "cricket",
+    "emoji": "🏏",
+    "name": "Cricket",
+    "type": "team",
+    "players": "Two teams of 11",
+    "gear": "Bat, ball, 3 wickets",
+    "desc": "Cricket is a bat-and-ball game on a big oval field. One team bats and scores runs while the other bowls and fields, trying to get the batters out.",
+    "howTo": [
+      "Split into two teams. One team bats first; the other bowls and fields.",
+      "The bowler throws the ball at the wicket. The batter hits it and runs to the other end to score a run.",
+      "Hit the ball to the fence for 4 runs. Hit it over the fence for 6!",
+      "Fielders try to catch the ball or hit the wicket before the runner gets there.",
+      "When batters are out, the teams swap. The team with more runs wins."
+    ],
+    "rules": [
+      "A team's turn to bat ends after a fixed number of balls or when 10 batters are out.",
+      "The bowler must throw the ball with a straight arm.",
+      "If the ball hits the wicket, the batter is out — this is called bowled.",
+      "If a fielder catches the ball before it touches the ground, the batter is out.",
+      "Batters must stay behind the crease line when running.",
+      "The team with the most runs at the end wins."
+    ],
+    "fact": "The longest Test cricket matches last 5 days — and can still end with no winner at all!",
+    "countries": ["india", "united-kingdom", "australia", "pakistan", "sri-lanka", "bangladesh"]
+  },
+  {
+    "id": "football",
+    "emoji": "⚽",
+    "name": "Football",
+    "type": "team",
+    "players": "Two teams of 11",
+    "gear": "Football, 2 goals",
+    "desc": "Football (soccer) is the world's most popular game. Two teams kick a ball and try to score goals — and only the goalkeeper may use their hands.",
+    "howTo": [
+      "Two teams of 11 play on a grass field with a goal at each end.",
+      "Dribble the ball with your feet and pass it to your teammates.",
+      "Kick the ball into the other team's goal to score 1 point.",
+      "Only the goalkeeper may use hands — and only inside the penalty box.",
+      "Play two halves of 45 minutes. The team with more goals wins."
+    ],
+    "rules": [
+      "No touching the ball with hands or arms — except the goalkeeper.",
+      "No pushing, tripping or kicking other players. That is a foul.",
+      "A foul inside your own penalty box gives the other team a penalty kick.",
+      "If the ball goes out on the side line, the other team throws it back in.",
+      "If the ball goes out behind the goal line, it is a corner kick or a goal kick."
+    ],
+    "fact": "The FIFA World Cup final is the most-watched sports event on Earth — more than a billion people tune in.",
+    "countries": ["brazil", "argentina", "united-kingdom", "mexico", "thailand", "netherlands"]
+  },
+  {
+    "id": "basketball",
+    "emoji": "🏀",
+    "name": "Basketball",
+    "type": "team",
+    "players": "Two teams of 5",
+    "gear": "Basketball and a hoop",
+    "desc": "Basketball is a fast game on a court with a hoop at each end. Teams dribble, pass and shoot the ball to score points.",
+    "howTo": [
+      "Five players from each team are on the court at one time.",
+      "Move the ball by dribbling (bouncing it) or passing to a teammate.",
+      "Shoot the ball through the hoop for 2 points, or 3 points from far away.",
+      "If you stop dribbling, you must pass or shoot — you cannot run with the ball.",
+      "After a basket, the other team gets the ball. Most points at the end wins."
+    ],
+    "rules": [
+      "You must dribble while running with the ball. Running without dribbling is called travelling.",
+      "You cannot push, hold or block with your body — that is a foul.",
+      "A free throw is given after some fouls and scores 1 point.",
+      "A game has four quarters. Teams swap ends after each one.",
+      "The team with the most points when time runs out wins."
+    ],
+    "fact": "The first hoops were real peach baskets — someone had to climb a ladder to fetch the ball after every single basket!",
+    "countries": ["usa", "philippines", "argentina", "canada"]
+  },
+  {
+    "id": "baseball",
+    "emoji": "⚾",
+    "name": "Baseball",
+    "type": "team",
+    "players": "Two teams of 9",
+    "gear": "Bat, ball, glove, 4 bases",
+    "desc": "Baseball is a bat-and-ball game on a diamond-shaped field. The batter hits the ball and runs around four bases to score.",
+    "howTo": [
+      "One team bats while the other team fields.",
+      "The pitcher throws the ball and the batter tries to hit it.",
+      "Run to first base, then second, third and back to home plate to score a run.",
+      "Fielders catch the ball or tag the runner to get them out.",
+      "Three outs and the teams swap. After 9 innings, most runs wins."
+    ],
+    "rules": [
+      "A batter is out if a fielder catches the ball before it touches the ground.",
+      "Three strikes (swings and misses) and the batter is out.",
+      "Four wide throws (balls) let the batter walk to first base for free.",
+      "A home run is a hit that flies over the fence — everyone on base scores too.",
+      "Runners must touch every base in order."
+    ],
+    "fact": "In Japan, baseball is so loved that the high school tournament is broadcast across the whole country.",
+    "countries": ["usa", "japan", "south-korea"]
+  },
+  {
+    "id": "american-football",
+    "emoji": "🏈",
+    "name": "American Football",
+    "type": "team",
+    "players": "Two teams of 11",
+    "gear": "Oval ball, helmets, pads",
+    "desc": "American football is a tough team game with an oval ball. Teams march down the field to reach the end zone and score a touchdown.",
+    "howTo": [
+      "The attacking team gets four tries (downs) to move the ball 10 yards forward.",
+      "Run with the ball or throw a pass to a teammate to gain yards.",
+      "Reach the end zone for a touchdown — 6 points, plus a bonus kick for 1 more.",
+      "Make 10 yards and you get four fresh tries. Fail, and the other team gets the ball.",
+      "The team with the most points when time runs out wins."
+    ],
+    "rules": [
+      "You may throw the ball forward only once per play, from behind the line.",
+      "Tackling is allowed — that is why players wear helmets and pads.",
+      "Play stops when the player with the ball is tackled to the ground.",
+      "A field goal kick through the tall posts scores 3 points.",
+      "The ball is dead if it touches the ground after a forward pass."
+    ],
+    "fact": "The Super Bowl is famous for its giant halftime show — and for funny ads that cost millions of dollars for 30 seconds.",
+    "countries": ["usa"]
+  },
+  {
+    "id": "ice-hockey",
+    "emoji": "🏒",
+    "name": "Ice Hockey",
+    "type": "team",
+    "players": "Two teams of 6",
+    "gear": "Skates, sticks, puck, rink",
+    "desc": "Ice hockey is played on ice at lightning speed. Skaters use sticks to shoot a hard rubber puck into the other team's net.",
+    "howTo": [
+      "Six players from each team skate on the ice, including one goalie.",
+      "Pass the puck with your stick and skate it toward the other net.",
+      "Shoot the puck into the net to score a goal.",
+      "Teams swap players on the fly — even mid-play — to stay fresh.",
+      "Three periods of 20 minutes. The most goals wins."
+    ],
+    "rules": [
+      "You may bump players against the boards, but no tripping or slashing with the stick.",
+      "The puck must cross the goal line fully for the goal to count.",
+      "Rough play sends a player to the penalty box for a few minutes.",
+      "The goalie may use hands, stick and pads to stop the puck.",
+      "If the score is tied, an exciting shootout decides the winner."
+    ],
+    "fact": "Canada gave the world ice hockey — kids there learn to skate almost as soon as they can walk.",
+    "countries": ["canada", "usa"]
+  },
+  {
+    "id": "field-hockey",
+    "emoji": "🏑",
+    "name": "Field Hockey",
+    "type": "team",
+    "players": "Two teams of 11",
+    "gear": "Curved sticks, hard ball",
+    "desc": "Field hockey is one of the oldest team games on Earth. Players use curved sticks to dribble and hit a small hard ball into the goal.",
+    "howTo": [
+      "Two teams of 11 play on grass or turf.",
+      "Only the flat side of the stick may touch the ball.",
+      "Dribble, pass and push the ball up the field.",
+      "Shoot the ball into the goal to score a point.",
+      "Two halves of 35 minutes — most goals wins."
+    ],
+    "rules": [
+      "Only the flat side of the stick may touch the ball, never the rounded side.",
+      "You may not raise your stick above shoulder height.",
+      "If the ball touches your foot, the other team gets a free hit.",
+      "Dangerous play gives the other team a penalty corner.",
+      "The goalkeeper may use any part of the body to stop the ball."
+    ],
+    "fact": "A 4,000-year-old carving from ancient Greece shows people playing a stick-and-ball game that looks a lot like hockey.",
+    "countries": ["india", "pakistan", "netherlands"]
+  },
+  {
+    "id": "volleyball",
+    "emoji": "🏐",
+    "name": "Volleyball",
+    "type": "team",
+    "players": "Two teams of 6",
+    "gear": "Net and a light ball",
+    "desc": "Volleyball is played over a high net. Teams hit the ball with their hands and must never let it touch the ground.",
+    "howTo": [
+      "Six players stand on each side of the net.",
+      "Serve the ball over the net to start play.",
+      "Each team may touch the ball up to 3 times before sending it back.",
+      "Spike the ball down or block it at the net to win the rally.",
+      "Win 3 sets of 25 points to take the match."
+    ],
+    "rules": [
+      "You cannot catch or hold the ball — it must be hit, not thrown.",
+      "One player may not touch the ball twice in a row (except after a block).",
+      "If the ball lands on the ground on your side, the other team scores.",
+      "Players rotate one spot clockwise each time their team wins back the serve.",
+      "Reaching over the net to touch the ball is not allowed."
+    ],
+    "fact": "Volleyball is Sri Lanka's national sport — villages there have played it for over a hundred years.",
+    "countries": ["sri-lanka", "brazil"]
+  },
+  {
+    "id": "rugby",
+    "emoji": "🏉",
+    "name": "Rugby",
+    "type": "team",
+    "players": "Two teams of 15",
+    "gear": "Oval ball, boots, mouthguard",
+    "desc": "Rugby is a full-contact game with an oval ball. Teams carry, pass and kick the ball to score tries at the other end.",
+    "howTo": [
+      "Carry the ball forward by running with it.",
+      "Pass the ball only backwards or sideways — never forward.",
+      "Kick the ball ahead and chase it to gain ground.",
+      "Press the ball down in the other team's end zone to score a try — 5 points.",
+      "After a try, kick the ball over the crossbar for 2 extra points."
+    ],
+    "rules": [
+      "Forward passes are not allowed — pass backwards or kick ahead.",
+      "Tackling the ball carrier is allowed, but always tackle low.",
+      "Only standing players may join a ruck, and they must come from their own side.",
+      "A penalty or drop kick through the posts scores 3 points.",
+      "The team with more points after 80 minutes wins."
+    ],
+    "fact": "New Zealand's All Blacks perform the haka — a fierce Māori war dance — before every match, and it gives millions goosebumps.",
+    "countries": ["new-zealand", "australia", "united-kingdom"]
+  },
+  {
+    "id": "badminton",
+    "emoji": "🏸",
+    "name": "Badminton",
+    "type": "racquet",
+    "players": "1 or 2 a side",
+    "gear": "Racquets, shuttlecock, net",
+    "desc": "Badminton is the fastest racquet sport in the world. Players tap a feathered shuttlecock back and forth over a high net.",
+    "howTo": [
+      "Serve underhand, from below your waist, to start the rally.",
+      "Hit the shuttle with light taps or powerful smashes.",
+      "Land the shuttle inside the other court to win the rally.",
+      "Play singles (1 vs 1) or doubles (2 vs 2).",
+      "First to 21 points wins the game — win 2 games to take the match."
+    ],
+    "rules": [
+      "You must serve underhand, from below your waist.",
+      "The shuttle may be hit only once before it crosses the net.",
+      "If the shuttle touches the ground, the rally is over.",
+      "Points are scored on every rally, no matter who served.",
+      "At 20-20 you need a 2-point lead to win the game."
+    ],
+    "fact": "Smashes in badminton can fly over 400 km/h — faster than a Formula 1 car!",
+    "countries": ["indonesia", "china", "india"]
+  },
+  {
+    "id": "table-tennis",
+    "emoji": "🏓",
+    "name": "Table Tennis",
+    "type": "racquet",
+    "players": "1 or 2 a side",
+    "gear": "Paddles, light ball, table",
+    "desc": "Table tennis (ping pong) is a lightning-fast game on a small table — and China treats it like a national treasure.",
+    "howTo": [
+      "Serve by tossing the ball and hitting it so it bounces on both sides of the table.",
+      "Return the ball after exactly one bounce on your side.",
+      "Spin the ball with your paddle to make it swerve and jump.",
+      "Win the rally when the other player misses or hits the net.",
+      "First to 11 points wins — but you need a 2-point lead."
+    ],
+    "rules": [
+      "A serve must bounce once on each side of the table.",
+      "You cannot hit the ball before it bounces on your side.",
+      "If the ball clips the net and lands over on a serve, it is a let — serve again.",
+      "Serve changes hands every 2 points.",
+      "Players swap ends of the table after every game."
+    ],
+    "fact": "China's table tennis teams have won most of the Olympic gold medals ever awarded for the sport.",
+    "countries": ["china", "japan"]
+  },
+  {
+    "id": "kabaddi",
+    "emoji": "🤼",
+    "name": "Kabaddi",
+    "type": "traditional",
+    "players": "Two teams of 7",
+    "gear": "Just a mat or open ground",
+    "desc": "Kabaddi is an exciting chasing game from India — no ball, no gear, just lung power. The raider chants 'kabaddi, kabaddi' without taking a breath!",
+    "howTo": [
+      "Two teams of 7 sit on opposite halves of the court.",
+      "One raider runs into the other half, chanting 'kabaddi, kabaddi' in one breath.",
+      "The raider tries to touch a defender and run back home.",
+      "Defenders grab and hold the raider to stop them escaping.",
+      "A touch scores 1 point for the raiders; a tackle scores 1 for the defenders."
+    ],
+    "rules": [
+      "The raider must keep chanting and return home in one breath.",
+      "If the raider breathes in before returning, they are out.",
+      "Defenders may not cross the centre line.",
+      "A raider is out if defenders hold them until they take a breath.",
+      "Most points after two 20-minute halves wins."
+    ],
+    "fact": "Kabaddi is the national sport of Bangladesh, and India has won almost every Kabaddi World Cup ever played.",
+    "countries": ["india", "bangladesh"]
+  },
+  {
+    "id": "kho-kho",
+    "emoji": "🏃",
+    "name": "Kho-Kho",
+    "type": "traditional",
+    "players": "Two teams of 12",
+    "gear": "Two poles, open ground",
+    "desc": "Kho-Kho is India's classic chasing game, full of sprinting and dodging. Chasers kneel in a row in the middle and chase runners in turns.",
+    "howTo": [
+      "Nine chasers kneel in a line; runners dodge around them.",
+      "The active chaser runs to tag a runner with their hand.",
+      "Chasers pass the turn by touching a seated teammate's back and shouting 'kho'!",
+      "The new chaser must run the other way around the row.",
+      "Tag all the runners in the shortest time to win."
+    ],
+    "rules": [
+      "A chaser may only change direction by going around the row of seated players.",
+      "The turn passes only with a touch and a shout of 'kho'.",
+      "Runners may not cross the middle line or leave the field.",
+      "A tag only counts with the hand, never the feet.",
+      "Each chase turn lasts a fixed time — usually 9 minutes."
+    ],
+    "fact": "Kho-Kho has been played on school grounds across India for generations — it is one of the oldest tag games in the country.",
+    "countries": ["india"]
+  },
+  {
+    "id": "gilli-danda",
+    "emoji": "🪵",
+    "name": "Gilli Danda",
+    "type": "traditional",
+    "players": "Two teams, any size",
+    "gear": "Two sticks — danda and gilli",
+    "desc": "Gilli Danda is an ancient Indian street game — cricket's great-grandfather. Flick a small wooden peg (gilli) with a big stick (danda) and send it flying.",
+    "howTo": [
+      "Dig a small oval hole in the ground and lay the gilli across it.",
+      "Slide the danda into the hole to flick the gilli up into the air.",
+      "Strike the airborne gilli as far as you can with the danda.",
+      "Run to a marked point and back while the fielders chase the gilli.",
+      "Score points for distance — but if a fielder catches the gilli, you are out."
+    ],
+    "rules": [
+      "The batter gets three tries to flick the gilli into the air.",
+      "If the gilli lands on the hole or right next to it, the batter is out.",
+      "Fielders may catch the gilli mid-air to get the batter out.",
+      "Points are counted in danda-lengths — the farther it flies, the more you score.",
+      "Every player on the team gets a turn to bat."
+    ],
+    "fact": "Gilli Danda is over 2,500 years old and is played across South Asia under many local names.",
+    "countries": ["india", "pakistan", "bangladesh"]
+  },
+  {
+    "id": "lagori",
+    "emoji": "🪨",
+    "name": "Lagori",
+    "type": "traditional",
+    "players": "Two teams of 5+",
+    "gear": "7 flat stones and a ball",
+    "desc": "Lagori (also called Pithoo or Satoliya) is a storming-and-stacking game. Knock down a tower of stones, then rebuild it before the other team hits you with the ball.",
+    "howTo": [
+      "Stack 7 flat stones into a small tower.",
+      "Team 1 knocks the tower down by throwing the ball.",
+      "Team 1 now tries to restack the stones while Team 2 throws the ball at them.",
+      "If the ball touches a player, that player is out.",
+      "Restack all 7 stones and shout 'Lagori!' to win the round — then teams swap."
+    ],
+    "rules": [
+      "Team 2 gets the ball as soon as the tower falls.",
+      "If the ball touches a restacking player, that player is out.",
+      "Players may dodge but must stay inside the playing area.",
+      "The round ends when the tower is rebuilt or all restackers are out.",
+      "Teams swap roles after every round."
+    ],
+    "fact": "Lagori has a different name in almost every Indian state — Pithoo, Satoliya, Dikori and many more.",
+    "countries": ["india"]
+  },
+  {
+    "id": "sumo",
+    "emoji": "⛩️",
+    "name": "Sumo",
+    "type": "traditional",
+    "players": "Two wrestlers",
+    "gear": "A raised clay ring (dohyo)",
+    "desc": "Sumo is Japan's national sport — a giant wrestling duel in a clay ring. Push your opponent out, or make them touch the ground.",
+    "howTo": [
+      "Two wrestlers face each other in a round clay ring.",
+      "Squat, glare, and charge when the moment is right.",
+      "Push, shove and grip the opponent's belt (mawashi).",
+      "Force the opponent out of the ring or onto the ground.",
+      "The winner takes the bout — matches often last only seconds!"
+    ],
+    "rules": [
+      "You lose if any part of you except the soles of your feet touches the ground.",
+      "You lose if any part of you steps outside the ring.",
+      "Punching, kicking and hair-pulling are strictly banned.",
+      "The referee (gyoji) waves a fan to declare the winner.",
+      "Wrestlers follow ancient rituals before every bout — like throwing salt to purify the ring."
+    ],
+    "fact": "Sumo wrestlers can weigh as much as 200 kilograms — yet top champions are so flexible that many can do the splits!",
+    "countries": ["japan"]
+  },
+  {
+    "id": "sepak-takraw",
+    "emoji": "🤾",
+    "name": "Sepak Takraw",
+    "type": "traditional",
+    "players": "Two teams of 3",
+    "gear": "Rattan ball, high net",
+    "desc": "Sepak takraw is volleyball's wild Southeast Asian cousin — but no hands allowed! Players kick, knee and head the ball over the net.",
+    "howTo": [
+      "Three players stand on each side of the net.",
+      "Serve with your foot — kick the ball over the net.",
+      "Each team gets up to 3 touches to send the ball back.",
+      "Use feet, knees, chest or head — never hands or arms.",
+      "Win 3 sets of 21 points to take the match."
+    ],
+    "rules": [
+      "Hands and arms are strictly off-limits.",
+      "Each team may touch the ball at most 3 times between crosses.",
+      "The ball must not touch the ground on your side.",
+      "You need a 2-point lead to win a set.",
+      "The same player may not touch the ball twice in a row."
+    ],
+    "fact": "The 'sunback spike' is a flying somersault kick that smashes the ball over the net at over 140 km/h!",
+    "countries": ["thailand", "philippines", "indonesia"]
+  },
+  {
+    "id": "taekwondo",
+    "emoji": "🥋",
+    "name": "Taekwondo",
+    "type": "traditional",
+    "players": "Two fighters",
+    "gear": "Pads, helmet, mat",
+    "desc": "Taekwondo is Korea's national martial art — 'the way of the foot and fist'. Fighters score with fast, high kicks on padded targets.",
+    "howTo": [
+      "Two fighters bow and face each other on a padded mat.",
+      "Score points by kicking the opponent's body protector or head.",
+      "A body kick scores 1; spinning kicks and head kicks score more.",
+      "Land more scoring hits than your opponent in three rounds.",
+      "Bow after the match — respect comes first."
+    ],
+    "rules": [
+      "Punches to the head and kicks below the belt are banned.",
+      "Pushing, grabbing and falling on purpose cost points.",
+      "Fighters wear padded guards, helmets and mouthguards.",
+      "A match has three rounds of 2 minutes each.",
+      "Fighters bow before and after every match."
+    ],
+    "fact": "Over 70 million people practise taekwondo in more than 200 countries — it is one of the most popular martial arts ever.",
+    "countries": ["south-korea"]
+  },
+  {
+    "id": "chess",
+    "emoji": "♟️",
+    "name": "Chess",
+    "type": "board",
+    "players": "2 players",
+    "gear": "Board and 32 pieces",
+    "desc": "Chess is the world's most famous board game — a battle of two armies on 64 squares. Trap the enemy king to win.",
+    "howTo": [
+      "Set the board so each player has a light square at the bottom-right corner.",
+      "White moves first, then players take turns — one move each.",
+      "Each piece moves its own way: rooks straight, bishops slanting, knights in an L.",
+      "Capture enemy pieces by landing on their square.",
+      "Trap the enemy king so it cannot escape — that is checkmate, and the win."
+    ],
+    "rules": [
+      "You may never put your own king in danger.",
+      "When your king is attacked it is 'check' — you must respond at once.",
+      "Pawns move forward but capture diagonally.",
+      "A pawn may move two squares on its first move — and becomes a queen if it reaches the far end.",
+      "The game can end in a draw when neither player can win."
+    ],
+    "fact": "Chess was born in India over 1,500 years ago as a game called chaturanga — the queen only became the strongest piece a few hundred years ago.",
+    "countries": ["india"]
+  },
+  {
+    "id": "carrom",
+    "emoji": "🎯",
+    "name": "Carrom",
+    "type": "board",
+    "players": "2 or 4 players",
+    "gear": "Board, 19 coins, striker",
+    "desc": "Carrom is India's beloved flick-and-pocket game — like finger billiards. Flick the striker to sink all your coins into the corner pockets.",
+    "howTo": [
+      "Sit facing each other with the board between you.",
+      "Flick the striker with your finger from your baseline.",
+      "Pocket your colour of coins — white or black.",
+      "Pocket the red queen, then 'cover' it by pocketing your own coin next.",
+      "Sink all nine of your coins to win the board."
+    ],
+    "rules": [
+      "Flick the striker only forward from your baseline.",
+      "If you pocket the striker, one of your sunk coins goes back to the centre.",
+      "The queen must be covered — pocket one of your coins right after it.",
+      "Only your fingers may flick the striker — never touch the coins with your hands.",
+      "First to pocket all their coins wins."
+    ],
+    "fact": "Carrom's cousins are played all over Asia, and champion players can sink a coin from across the board without seeming to aim at all.",
+    "countries": ["india", "sri-lanka"]
+  }
+]

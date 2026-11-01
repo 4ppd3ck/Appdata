@@ -1,0 +1,17 @@
+{
+  "id": "philippines",
+  "name": "Philippines",
+  "flag": "🇵🇭",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Arnis",
+    "about": "Arnis, the art of stick fighting, is the Philippines' official national martial art and sport."
+  },
+  "loved": [
+    { "emoji": "🏀", "name": "Basketball", "why": "Courts sit on streets, beaches and rooftops — the PBA league began back in 1975." },
+    { "emoji": "🥊", "name": "Boxing", "why": "Manny Pacquiao is a national hero." },
+    { "emoji": "🤾", "name": "Sepak Takraw", "why": "Flying kicks over the net — Filipino teams are strong." }
+  ],
+  "fact": "Almost every town fiesta in the Philippines includes a basketball tournament — the whole barangay turns up.",
+  "games": ["basketball", "sepak-takraw"]
+}

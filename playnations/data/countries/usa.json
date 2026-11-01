@@ -1,0 +1,17 @@
+{
+  "id": "usa",
+  "name": "USA",
+  "flag": "🇺🇸",
+  "continent": "Americas",
+  "nationalGame": {
+    "name": "Baseball",
+    "about": "Baseball is called America's national pastime — generations have played it since the 1800s."
+  },
+  "loved": [
+    { "emoji": "🏈", "name": "American Football", "why": "The Super Bowl is the biggest sports party in America." },
+    { "emoji": "⚾", "name": "Baseball", "why": "Ballparks sell hot dogs by the million." },
+    { "emoji": "🏀", "name": "Basketball", "why": "NBA stars are known all over the world." }
+  ],
+  "fact": "Basketball was invented in the USA in 1891 — with two peach baskets and a soccer ball.",
+  "games": ["baseball", "american-football", "basketball", "ice-hockey"]
+}

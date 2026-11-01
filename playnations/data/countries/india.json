@@ -1,0 +1,18 @@
+{
+  "id": "india",
+  "name": "India",
+  "flag": "🇮🇳",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Field Hockey",
+    "about": "India's hockey wizards have won 8 Olympic gold medals — the most in the world.",
+    "note": "India has no official national game — field hockey is the most famous one."
+  },
+  "loved": [
+    { "emoji": "🏏", "name": "Cricket", "why": "Streets go quiet when India plays — the whole country watches together." },
+    { "emoji": "🤼", "name": "Kabaddi", "why": "Born here! Millions now watch the big Pro Kabaddi league on TV." },
+    { "emoji": "🏸", "name": "Badminton", "why": "Indian champs fill stadiums and win world titles." }
+  ],
+  "fact": "Chess was invented in India over 1,500 years ago — the original game was called chaturanga.",
+  "games": ["cricket", "kabaddi", "kho-kho", "gilli-danda", "lagori", "field-hockey", "badminton", "chess", "carrom"]
+}

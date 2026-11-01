@@ -1,0 +1,17 @@
+{
+  "id": "argentina",
+  "name": "Argentina",
+  "flag": "🇦🇷",
+  "continent": "Americas",
+  "nationalGame": {
+    "name": "Pato",
+    "about": "Pato — a wild mix of basketball on horseback — is Argentina's official national game."
+  },
+  "loved": [
+    { "emoji": "⚽", "name": "Football", "why": "Home of Messi and Maradona — football is a way of life here." },
+    { "emoji": "🏀", "name": "Basketball", "why": "Argentina beat the mighty USA team on the way to Olympic gold in 2004." },
+    { "emoji": "🐎", "name": "Pato", "why": "Cowboys on horseback still play it in the countryside." }
+  ],
+  "fact": "Pato has been played on the pampas since the 1600s — riders lean from galloping horses to drop a ball into a tall basket.",
+  "games": ["football", "basketball"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bangladesh",
+  "name": "Bangladesh",
+  "flag": "🇧🇩",
+  "continent": "Asia",
+  "nationalGame": {
+    "name": "Kabaddi",
+    "about": "Kabaddi — locally called ha-du-du — is Bangladesh's official national sport, played in every village field."
+  },
+  "loved": [
+    { "emoji": "🏏", "name": "Cricket", "why": "A Tigers win stops traffic in Dhaka." },
+    { "emoji": "🤼", "name": "Kabaddi", "why": "Village vs village matches draw the whole neighbourhood." },
+    { "emoji": "⚽", "name": "Football", "why": "Dhaka's big derby is one of Asia's oldest football rivalries." }
+  ],
+  "fact": "Bangladesh's cricket team is nicknamed the Tigers, after the royal Bengal tiger.",
+  "games": ["kabaddi", "cricket", "gilli-danda"]
+}
