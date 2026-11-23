@@ -1866,7 +1866,12 @@
       "version": "20261013",
       "bytes": 67015138,
       "sha256": "a897bf5942b5b9d1d6862dccbfd9b30eb03d094ca748fac4a1f205dfd9be886d",
-      "fileCount": 50
+      "fileCount": 50,
+      "parts": 2,
+      "partSha256": [
+        "38d311784967449962714a9144e2d941249645d68373b15c783e3e8212bbf870",
+        "6783d02fcdb391451b0dce5d6d2a9e02031bfc901c4c0aa4609133ee3ef8fe1e"
+      ]
     },
     "vidyesvara-samhita-mohan": {
       "epic": "shiva-maha-puranam",
@@ -1875,7 +1880,12 @@
       "version": "20261013",
       "bytes": 68632865,
       "sha256": "c5709f572b982cc67efefbec8e7396ea85813888d0a708258259a1fad979a0a4",
-      "fileCount": 50
+      "fileCount": 50,
+      "parts": 2,
+      "partSha256": [
+        "0f4041f56291adeb262bb92746c7b5b01f8e4952980f5abf4a153bb59bc1bd29",
+        "7d30fe272cd422b3c38e6b46e2e4a953aa2fcdee81d30441d7ccb0d6ab64d03f"
+      ]
     },
     "kailasa-samhita-shruti": {
       "epic": "shiva-maha-puranam",
@@ -1884,7 +1894,12 @@
       "version": "20261013",
       "bytes": 55679215,
       "sha256": "96837acfc026312cd51126306405d1744c1b2a9c24f67124c76ee9282f5f89f7",
-      "fileCount": 46
+      "fileCount": 46,
+      "parts": 2,
+      "partSha256": [
+        "dd816a1aa41c5150425214359cc310f2221f64b06008fd489690a6e7aa529ecc",
+        "3b57e7f254387dbf41beac56419fda4a78f89319f25242899d20f3cc1ebc05fb"
+      ]
     },
     "kailasa-samhita-mohan": {
       "epic": "shiva-maha-puranam",
@@ -1893,7 +1908,12 @@
       "version": "20261013",
       "bytes": 57023967,
       "sha256": "23c4929175929834bf689e40eada248be5e69e21bed08c944f4602fcad041754",
-      "fileCount": 46
+      "fileCount": 46,
+      "parts": 2,
+      "partSha256": [
+        "9b314ad531e54107bf241d2c503daf4b473a654e5658cccba5e81fc11c778b69",
+        "ae1a26edc98def006e6b3f21035839045856c1c912fdbc218e89d6cee167716a"
+      ]
     },
     "kotirudra-samhita-shruti": {
       "epic": "shiva-maha-puranam",
@@ -1903,10 +1923,11 @@
       "bytes": 97802447,
       "sha256": "c3cd1513ff03c404f512145707c829904c029e4739b04daf27d033e6e21c5ff8",
       "fileCount": 86,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "fbe1361f14942f5c4a5d1bfcbd9a230c6514401a4ce7b4a623c2782580b7033c",
-        "43fdbbfb884e53f57339fbb02d68a7509f29c68e64dd20556986dce851bb137c"
+        "e1febcebed36a13f219514fd6c054e9dd6a18dbb142c4a70f91da000c7aca31a",
+        "7ba542973200f1b356c64054179136d7ead83d35ac84b2d701ee7fea02af6b8c",
+        "01a1c4d26e62ddbe897b20f1f3b726367e65d425e92d6a3a3fc4cbe6c120117b"
       ]
     },
     "kotirudra-samhita-mohan": {
@@ -1917,10 +1938,11 @@
       "bytes": 100038356,
       "sha256": "74cdae51f9446de2c3710d6514d1ba46ced1267bec01c30dc48206f0eb42b823",
       "fileCount": 86,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "d31dfd54e581a62399c16c6a913f0775300a9ddccf5837bfb85f64ab0c0d18cc",
-        "af9e8c4be8332a77a716c8662ebb2f2a69f833ed7f368320621b8c745274c9f2"
+        "7dcee4f86516598e55759798feadeab15bdadbb099a37e0d67652631e627b88a",
+        "1489c7ac92c547ded7b940b19cf71f29d0aced63d4e99ac05141123f41a75fba",
+        "7ff23ab681e684fb3b745884096b76a294c9d94507f9a10273ea14907362bdc3"
       ]
     },
     "shatarudra-samhita-shruti": {
@@ -1945,10 +1967,11 @@
       "bytes": 96087965,
       "sha256": "9df3f2d6a857e8cd7b1814c52b74e258ff193fc0c5d508208962d68a9d4ee891",
       "fileCount": 84,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "e3d037f7b3d701cb9abf6c591747be4e192b7f4c01b2a015c73d409d44900e9e",
-        "e989916966dd06272396a8839193b5c33ed598f15a28f80db6e5e4a267f9239e"
+        "0b695d7ace1c3e184a59fa2c7f467777a9ddfc016cdda4f39405c9675b24c72b",
+        "64daab05ef311946902a4bf08dcde24419cb36937b7dbd9bc26113e87775ab85",
+        "f82d44f5113cfdaacb646115890e8e5e4039a35b9ffaa2f8b08fc067d653e370"
       ]
     },
     "uma-samhita-shruti": {
@@ -1959,10 +1982,11 @@
       "bytes": 118033141,
       "sha256": "a30f5042e98a18f743fbb47fee46e946ccc2ed50ec9a8f69963e5866d592cd4a",
       "fileCount": 102,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "2cb8ca0c919c5521be2fd3351e8034f381340937dc04ee692b7451a0855dc7b8",
-        "c95bc5ecc9ebcb81845fe229a4bcf6dbc0089618b62e98d603c6aa6866b16faa"
+        "d98f2596255f49fe281e0d4959e0b1e07d61677fd21e0f3d26f7349b5cc9e77b",
+        "0035e4728a1b81ed6286b499e27a263ed7e6b2578232b52655dd1f21dc6693e7",
+        "422124a45f0b52664b2f4b1f44de5c1129840b220aa2fd420f8057e84e51723c"
       ]
     },
     "uma-samhita-mohan": {
@@ -1973,10 +1997,11 @@
       "bytes": 120704378,
       "sha256": "ec78854a2864b32b4a082f392e322097662a55eb2cf4c9dcc9d23a758544c0c0",
       "fileCount": 102,
-      "parts": 2,
+      "parts": 3,
       "partSha256": [
-        "d571d6be5493205e85406dfc7b707b91e6c1e1ff52006724477e1a7a49a66b44",
-        "468b7a06c0069dd3437ae3c91d6fed42b7e8855c7f14903f6ed9a2b57bedb62f"
+        "38c8c8f28e448729513541ddc27b4ab281e2371adc0b5073830850b44877860f",
+        "7aa64f8a04b823173dd615cd03d27274feb44c15bb4e7824c3df545570ce3257",
+        "c1c8ed662a35636a141d802561f9e2f17aeaef32c4d46bceeea40bd4dc9c2ccf"
       ]
     },
     "rudra-samhita-shruti": {
@@ -1987,14 +2012,18 @@
       "bytes": 450195691,
       "sha256": "6394226283e0ec45b0ecd8f4ce37eb75751b380df494d98e7d872d22c55a7e63",
       "fileCount": 394,
-      "parts": 6,
+      "parts": 10,
       "partSha256": [
-        "3bf9f763c3cad382aa13d7a4e54ee83180accb324a6ad3bfc8b326945f32f884",
-        "47f0eb1a6d3e85e909b7e57e592ba6b5108545e86d74537630d4cd3b5c693705",
-        "48393f770582d8ec2034faaeb1c46e669f285374d4220306c5239de35ac38c58",
-        "bd09a4002006dfa72d1b0881a5f1855c3c1752d0edb25bfda8b2fb9c9196f629",
-        "f603e73ed20ca33da29749e68645c81a55626174db57a5ac08bbdb2a12e78b36",
-        "53937852cf93747164dc9f55141e7a0ed061d9cb7e2b55ad6ada0f805934614d"
+        "0953e1eeb27b3d7d65875df4bc465dfea6c22945b16372d6e2a8e16f55270dd2",
+        "a7409818a43114401599f438eb513458acd6c34370ae6b2c42a97d368f134306",
+        "c6567cf77c5b8b6c72b8e90eb60626d04c6bd44fc0eab7f18e43bfc70db39f5e",
+        "6f03e3f76678e33258471ddd1c6eb55fc02071c78701692366eb4f0eab620ebc",
+        "d2a50ae1c2f22c61fbededcac6b587da52bfbbb3b61e465464cff0142d2d1955",
+        "1205fbac8a82f6701871a9b6de8caa37be9880ca3863aa692220d81d6ebb6102",
+        "ac185c7b6924e57ef19fc8bee5355decc544232d87eee0cba62294c30cd1ae55",
+        "b7bd1fc5a55e28be09a867db29d4779d08ddcc41502130e51a53e773e396876e",
+        "7fef189d6f1208b9281e3e1d56fd785e83c3aea94c662105da19d6329366430a",
+        "78c9b4e21ff61fbb7648c8ef55470f42b56a4f64ff51d83ecbd459330e830616"
       ]
     },
     "rudra-samhita-mohan": {
@@ -2005,14 +2034,18 @@
       "bytes": 460417564,
       "sha256": "4afe1e50811add5294c47d75985fc052dfb7e78489d538750d13c6f42a38e0b3",
       "fileCount": 394,
-      "parts": 6,
+      "parts": 10,
       "partSha256": [
-        "de63f20aa60b3de199e482b2404938d632582a459368e1e872afb0f595d19e28",
-        "b7d03f3f817dcc3a220ee56c668b93b0eca6318a6060ea57a73a660a8d65cde8",
-        "f467284aeb01581faac6fd54c00c690ddc94dd36503e5ccc1d31aa3c711883c7",
-        "d22108fab8a97218baa1deb53e7618a0aed2bc9da6693e649dc6b7c7c86d4aba",
-        "4f00df661ca56c2dcb78f7daeea730a1221cd3815ecf547d73576ba554199252",
-        "9b40b0bbba20acccd377869d7f27940ea13cdd7ecca26ce1bb52b36f9bac7a8a"
+        "bb01a77f998f4fa59c16fcd024f21208baf674bb39e9fd0c497b843be686312b",
+        "8c79afb64cb9856a41db222da34cbfc060a58f83044cc9f8ff15e8a185e38d33",
+        "bb733c135e83d54575b0124740abfbb864b3e243297f48fef480ad158d0ba270",
+        "fe8e86bd2ea2fec486c71bdcfeb29e499d7868e8a5baf2d683258dd6e59886d7",
+        "0ad92c9cfc4fb9457d55b268f7c04e3751c6b9e14099d414a2302a86356bc8be",
+        "d7c81e8da42e5105f2509868785f004bed127401fcc3edcb011d5087293ec69e",
+        "29c36340da5136f7d03d13d70805edc7943785d8cb1a880b63c8f698051560ed",
+        "de17963090a1abcac876c2192951d5bd472b352b2ab4d8fa5c6b0df4249b0519",
+        "11b091d7110eadc70fb8735a28de341082059305ab1ecd74730838a728e3fcf7",
+        "3ccc9c52f04e3b59226a2e5d7c05db7e8ad865ff4fb49d98ac80968eb781ba65"
       ]
     },
     "vayaviya-samhita-shruti": {
@@ -2023,10 +2056,12 @@
       "bytes": 172751868,
       "sha256": "946fa6800e17def4efdb7eb336a939cdc7b7b564654bf6da626e29d1336453c4",
       "fileCount": 152,
-      "parts": 2,
+      "parts": 4,
       "partSha256": [
-        "29fb52e2097e0645e250de40f3a22f2a21d819ec2417016024abf4d9df7d0650",
-        "d425b6e8d9490b8b428858f5131ec4be8e6351736510ea9db24ec657f895bb0f"
+        "20ddc5ece02302bc07fd9c2fe281e76717a0e9010d4a818268e170f9fc126786",
+        "bde39252ef85ff4eb65630f063932afce7eccb2cd6aa88dc34e6b9fafcfcacbf",
+        "fdbf51bf9b1bbde2ac7fe6271e2c63f18b91ad7d6bec591af62247183756db12",
+        "c34b2f7eb1c7fed76e18445da9907be7b80265dd6c1db2d21c1303fc906ee1ff"
       ]
     },
     "vayaviya-samhita-mohan": {
@@ -2037,10 +2072,12 @@
       "bytes": 176750735,
       "sha256": "ab7468d7f408e4546a1a54b0b2832a7469c6345ab158085f384ef3e574230cf4",
       "fileCount": 152,
-      "parts": 2,
+      "parts": 4,
       "partSha256": [
-        "e1aff86340173c0a737a248f91ea34d262dcf486d86567d1f6cf8537e50cbc53",
-        "ebb8979ab363a8a954f836ff9b2cdaf6cc6c6d8e9446bcc3768507f14e82a445"
+        "4a8bdf77674ba8828b8a3eb5f2d310f2fe82fe026321f8c7ed10a59efe49baeb",
+        "149ee272ba3829820ec0fb9b9ca271b6c2d136faf12c08ad72746c3cdb1be602",
+        "9b8419b177c03cfdbbccc78b520fa66fb76d1d969a79e985982e6daf0a6a216c",
+        "af9be11c4c2e1ce6087b3c7f7045315197e9ab8fbb5e0d01749b5db616e738cf"
       ]
     }
   }
